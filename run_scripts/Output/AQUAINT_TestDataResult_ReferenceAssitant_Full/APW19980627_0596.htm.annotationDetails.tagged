@@ -1,0 +1,448 @@
+<ANNOTATION>
+   Nikhil Chakravarty, a top  <a class="wiki" href="http://en.wikipedia.org/wiki/India" cat="republic	state	nation	colony	country	member">Indian</a>  political  <b>columnist</b>, dead at 74<br><br> Nikhil Chakravarty, one of   <a class="wiki" href="http://en.wikipedia.org/wiki/India" cat="republic	state	nation	colony	country	member">India</a>   's best known   <b>journalist</b>  s, has died. He was 74. <br><br> Chakravarty was suffering from   <b>brain cancer</b>   and died in  <b>hospital</b> on Saturday, his family said. <br><br>  Politics   was his forte and his  <b>columns</b> appeared in leading   <a class="wiki" href="http://en.wikipedia.org/wiki/List_of_newspapers_in_India" cat="newspaper">Indian newspapers</a>    and magazines. <br><br> Chakravarty also started a  <b>weekly news magazine</b>, "Mainstream,'' in  <b>1962</b> and edited it for more than three decades. <br><br> Last year, the  <b>government</b> appointed him chief of   <a class="wiki" href="http://en.wikipedia.org/wiki/Prasar_Bharati" cat="broadcaster	company">Prasar Bharati</a>   , an autonomous   <b>corporation</b>   set up to end  <b>government</b> control of  <b>radio</b> and  <b>television</b>. <br><br> Chakravarty declined a top  <b>government</b> award in  <b>1990</b>, saying no  <b>journalist</b> should be identified with the governing establishment. <br><br> He graduated from   <a class="wiki" href="http://en.wikipedia.org/wiki/University_of_Calcutta" cat="institution	university">Calcutta University</a>    and studied at   <a class="wiki" href="http://en.wikipedia.org/wiki/University_of_Oxford" cat="organisation">Oxford University</a> 's  <a class="wiki" href="http://en.wikipedia.org/wiki/Merton_College,_Oxford" cat="building	institution	establishment">Merton College</a>    in England. <br><br> Chakravarty taught  <b>history</b> at  <a class="wiki" href="http://en.wikipedia.org/wiki/University_of_Calcutta" cat="institution	university">Calcutta University</a>  in the 1930s before taking to   <b>journalism</b>   as  <b>correspondent</b> of a weekly brought out by the   <a class="wiki" href="http://en.wikipedia.org/wiki/Communist_Party_of_India" cat="party">Communist Party of India</a>   . <br><br> He later joined the  <a class="wiki" href="http://en.wikipedia.org/wiki/Communist_Party_of_India" cat="party">CPI</a>  and remained a member until  <b>1978</b>. <br><br> He closed the Mainstream weekly for a while when Prime Minister   <a class="wiki" href="http://en.wikipedia.org/wiki/Indira_Gandhi" cat="politician	recipient	person	leaders	socialist	woman	president	head">Indira Gandhi</a>   imposed  <b>emergency rule</b> in  <a class="wiki" href="http://en.wikipedia.org/wiki/India" cat="republic	state	nation	colony	country	member">India</a>  1975-77, jailing political opponents and imposing  <b>censorship</b> on  <b>newspapers</b> and  <b>magazines</b>. <br><br> Chakravarty was born November 3, 1913, in  <a class="wiki" href="http://en.wikipedia.org/wiki/India" cat="republic	state	nation	colony	country	member">India</a> 's  <b>northeastern</b>  <b>state</b> of Assam. <br><br>
+</ANNOTATION>
+*Entity:[Nikhil,textSpan=(0-9)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Nikhil Chakravarty,textSpan=(0-21)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Chakravarty,textSpan=(10-21)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Indian,textSpan=(29-35)]	-Disambiguation:(tid=14533, Title name=India) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[political,textSpan=(36-45)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[columnist,textSpan=(46-55)]	-Disambiguation:(tid=437090, Title name=Columnist) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[74,textSpan=(65-67)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Nikhil,textSpan=(70-76)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Nikhil Chakravarty,textSpan=(70-88)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Chakravarty,textSpan=(77-88)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[India,textSpan=(98-103)]	-Disambiguation:(tid=14533, Title name=India) gold wikification:=India isCorrectPrediction=Correct
+*Entity:[journalist,textSpan=(120-130)]	-Disambiguation:(tid=50100, Title name=Journalist) gold wikification:=Journalist isCorrectPrediction=Correct
+*Entity:[died,textSpan=(139-143)]	-Disambiguation:(tid=8221, Title name=Death) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[He,textSpan=(145-147)]	-Disambiguation:(tid=343339, Title name=Emperor_He_of_Han) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[74,textSpan=(152-154)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Chakravarty,textSpan=(159-170)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[suffering,textSpan=(175-184)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[brain,textSpan=(191-196)]	-Disambiguation:(tid=37284, Title name=Brain_tumor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[brain cancer,textSpan=(191-203)]	-Disambiguation:(tid=37284, Title name=Brain_tumor) gold wikification:=Brain_tumor isCorrectPrediction=Correct
+*Entity:[cancer,textSpan=(197-203)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hospital,textSpan=(218-226)]	-Disambiguation:(tid=67214, Title name=Hospital) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saturday,textSpan=(230-238)]	-Disambiguation:(tid=54631, Title name=Saturday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[his family,textSpan=(240-250)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[family,textSpan=(244-250)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Politics,textSpan=(261-269)]	-Disambiguation:*null* gold wikification:=Politics isCorrectPrediction=Incorrect
+*Entity:[forte,textSpan=(280-285)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[columns,textSpan=(294-301)]	-Disambiguation:(tid=437090, Title name=Columnist) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Indian,textSpan=(323-329)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Indian newspapers,textSpan=(323-340)]	-Disambiguation:(tid=4050281, Title name=List_of_newspapers_in_India) gold wikification:=List_of_newspapers_in_India isCorrectPrediction=Correct
+*Entity:[Chakravarty,textSpan=(361-372)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[weekly news magazine,textSpan=(388-408)]	-Disambiguation:(tid=3658264, Title name=News_magazine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[weekly,textSpan=(388-394)]	-Disambiguation:(tid=21001, Title name=Magazine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[weekly news,textSpan=(388-399)]	-Disambiguation:(tid=13524169, Title name=The_Weekly_News) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[news,textSpan=(395-399)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[news magazine,textSpan=(395-408)]	-Disambiguation:(tid=513116, Title name=News_magazine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[magazine,textSpan=(400-408)]	-Disambiguation:(tid=21001, Title name=Magazine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:['',textSpan=(422-424)]	-Disambiguation:(tid=10671108, Title name=Dirty_(film)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1962,textSpan=(428-432)]	-Disambiguation:(tid=34717, Title name=1962) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[more than,textSpan=(451-460)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[decades,textSpan=(467-474)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Last year,textSpan=(479-488)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Last,textSpan=(479-483)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[year,textSpan=(484-488)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the government,textSpan=(490-504)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[government,textSpan=(494-504)]	-Disambiguation:(tid=12229, Title name=Government) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Prasar Bharati,textSpan=(529-543)]	-Disambiguation:(tid=508128, Title name=Prasar_Bharati) gold wikification:=Prasar_Bharati isCorrectPrediction=Correct
+*Entity:[Bharati,textSpan=(536-543)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[corporation,textSpan=(562-573)]	-Disambiguation:(tid=7485, Title name=Corporation) gold wikification:=Corporation isCorrectPrediction=Correct
+*Entity:[government,textSpan=(590-600)]	-Disambiguation:(tid=12229, Title name=Government) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[control,textSpan=(601-608)]	-Disambiguation:(tid=491900, Title name=Control) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radio and television,textSpan=(612-632)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radio,textSpan=(612-617)]	-Disambiguation:(tid=15368428, Title name=Radio) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[television,textSpan=(622-632)]	-Disambiguation:(tid=29831, Title name=Television) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Chakravarty,textSpan=(637-648)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[government,textSpan=(664-674)]	-Disambiguation:(tid=12229, Title name=Government) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[award,textSpan=(675-680)]	-Disambiguation:(tid=609006, Title name=Award) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1990,textSpan=(684-688)]	-Disambiguation:(tid=34635, Title name=1990) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[journalist,textSpan=(700-710)]	-Disambiguation:(tid=50100, Title name=Journalist) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[identified,textSpan=(721-731)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[governing,textSpan=(741-750)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[establishment,textSpan=(751-764)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[He,textSpan=(769-771)]	-Disambiguation:(tid=343339, Title name=Emperor_He_of_Han) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Calcutta,textSpan=(788-796)]	-Disambiguation:(tid=47905, Title name=Kolkata) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Calcutta University,textSpan=(788-807)]	-Disambiguation:(tid=519610, Title name=University_of_Calcutta) gold wikification:=University_of_Calcutta isCorrectPrediction=Correct
+*Entity:[University,textSpan=(797-807)]	-Disambiguation:(tid=519610, Title name=University_of_Calcutta) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Oxford University,textSpan=(826-843)]	-Disambiguation:(tid=31797, Title name=University_of_Oxford) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Oxford,textSpan=(826-832)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Oxford University's Merton College,textSpan=(826-860)]	-Disambiguation:*null* gold wikification:=Merton_College,_Oxford isCorrectPrediction=Incorrect
+*Entity:[Oxford University's Merton College in England,textSpan=(826-873)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[University,textSpan=(833-843)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Merton,textSpan=(846-852)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Merton College,textSpan=(846-860)]	-Disambiguation:(tid=128351, Title name=Merton_College,_Oxford) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Merton College in England,textSpan=(846-873)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[College,textSpan=(853-860)]	-Disambiguation:(tid=128351, Title name=Merton_College,_Oxford) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[England,textSpan=(866-873)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Chakravarty,textSpan=(878-889)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[history,textSpan=(897-904)]	-Disambiguation:(tid=10772350, Title name=History) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Calcutta,textSpan=(908-916)]	-Disambiguation:(tid=47905, Title name=Kolkata) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Calcutta University,textSpan=(908-927)]	-Disambiguation:(tid=519610, Title name=University_of_Calcutta) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[University,textSpan=(917-927)]	-Disambiguation:(tid=519610, Title name=University_of_Calcutta) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1930s,textSpan=(935-940)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[journalism,textSpan=(959-969)]	-Disambiguation:(tid=15928, Title name=Journalism) gold wikification:=Journalism isCorrectPrediction=Correct
+*Entity:[correspondent,textSpan=(975-988)]	-Disambiguation:(tid=511094, Title name=Correspondent) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[weekly,textSpan=(994-1000)]	-Disambiguation:(tid=513116, Title name=News_magazine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Communist Party of India,textSpan=(1021-1045)]	-Disambiguation:(tid=408215, Title name=Communist_Party_of_India) gold wikification:=Communist_Party_of_India isCorrectPrediction=Correct
+*Entity:[India,textSpan=(1040-1045)]	-Disambiguation:(tid=14533, Title name=India) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[He,textSpan=(1052-1054)]	-Disambiguation:(tid=343339, Title name=Emperor_He_of_Han) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[CPI,textSpan=(1072-1075)]	-Disambiguation:(tid=408215, Title name=Communist_Party_of_India) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[member,textSpan=(1091-1097)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1978,textSpan=(1104-1108)]	-Disambiguation:(tid=34753, Title name=1978) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[He,textSpan=(1113-1115)]	-Disambiguation:(tid=343339, Title name=Emperor_He_of_Han) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mainstream,textSpan=(1127-1137)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Indira Gandhi,textSpan=(1178-1191)]	-Disambiguation:(tid=15179, Title name=Indira_Gandhi) gold wikification:=Indira_Gandhi isCorrectPrediction=Correct
+*Entity:[emergency,textSpan=(1201-1210)]	-Disambiguation:(tid=1660219, Title name=The_Emergency_(India)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[emergency rule,textSpan=(1201-1215)]	-Disambiguation:(tid=298608, Title name=State_of_emergency) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rule,textSpan=(1211-1215)]	-Disambiguation:(tid=17538, Title name=Law) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[India,textSpan=(1219-1224)]	-Disambiguation:(tid=14533, Title name=India) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[censorship,textSpan=(1275-1285)]	-Disambiguation:(tid=17253537, Title name=Censorship) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[newspapers,textSpan=(1289-1299)]	-Disambiguation:(tid=18582335, Title name=Newspaper) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[newspapers and magazines,textSpan=(1289-1313)]	-Disambiguation:(tid=18582335, Title name=Newspaper) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[magazines,textSpan=(1304-1313)]	-Disambiguation:(tid=21001, Title name=Magazine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Chakravarty,textSpan=(1318-1329)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[born,textSpan=(1334-1338)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[India,textSpan=(1360-1365)]	-Disambiguation:(tid=14533, Title name=India) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[northeastern,textSpan=(1368-1380)]	-Disambiguation:(tid=602639, Title name=Northeast_India) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[state,textSpan=(1381-1386)]	-Disambiguation:(tid=375986, Title name=States_and_territories_of_India) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Assam,textSpan=(1390-1395)]	-Disambiguation:(tid=186162, Title name=Assam) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Nikhil' start in text:0 end in text: 9; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Nikhil Chakravarty' start in text:0 end in text: 21; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Chakravarty' start in text:10 end in text: 21; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Indian' start in text:29 end in text: 35; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'political' start in text:36 end in text: 45; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'columnist' start in text:46 end in text: 55; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '74' start in text:65 end in text: 67; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Nikhil' start in text:70 end in text: 76; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Nikhil Chakravarty' start in text:70 end in text: 88; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Chakravarty' start in text:77 end in text: 88; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'India' start in text:98 end in text: 103; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'journalist' start in text:120 end in text: 130; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'died' start in text:139 end in text: 143; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'He' start in text:145 end in text: 147; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '74' start in text:152 end in text: 154; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Chakravarty' start in text:159 end in text: 170; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'suffering' start in text:175 end in text: 184; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'brain' start in text:191 end in text: 196; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'brain cancer' start in text:191 end in text: 203; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cancer' start in text:197 end in text: 203; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hospital' start in text:218 end in text: 226; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saturday' start in text:230 end in text: 238; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'his family' start in text:240 end in text: 250; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'family' start in text:244 end in text: 250; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Politics' start in text:261 end in text: 269; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'forte' start in text:280 end in text: 285; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'columns' start in text:294 end in text: 301; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Indian' start in text:323 end in text: 329; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Indian newspapers' start in text:323 end in text: 340; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Chakravarty' start in text:361 end in text: 372; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'weekly news magazine' start in text:388 end in text: 408; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'weekly' start in text:388 end in text: 394; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'weekly news' start in text:388 end in text: 399; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'news' start in text:395 end in text: 399; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'news magazine' start in text:395 end in text: 408; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'magazine' start in text:400 end in text: 408; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '''' start in text:422 end in text: 424; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1962' start in text:428 end in text: 432; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'more than' start in text:451 end in text: 460; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'decades' start in text:467 end in text: 474; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Last year' start in text:479 end in text: 488; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Last' start in text:479 end in text: 483; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'year' start in text:484 end in text: 488; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the government' start in text:490 end in text: 504; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'government' start in text:494 end in text: 504; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Prasar Bharati' start in text:529 end in text: 543; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bharati' start in text:536 end in text: 543; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'corporation' start in text:562 end in text: 573; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'government' start in text:590 end in text: 600; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'control' start in text:601 end in text: 608; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radio and television' start in text:612 end in text: 632; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radio' start in text:612 end in text: 617; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'television' start in text:622 end in text: 632; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Chakravarty' start in text:637 end in text: 648; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'government' start in text:664 end in text: 674; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'award' start in text:675 end in text: 680; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1990' start in text:684 end in text: 688; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'journalist' start in text:700 end in text: 710; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'identified' start in text:721 end in text: 731; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'governing' start in text:741 end in text: 750; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'establishment' start in text:751 end in text: 764; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'He' start in text:769 end in text: 771; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Calcutta' start in text:788 end in text: 796; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Calcutta University' start in text:788 end in text: 807; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'University' start in text:797 end in text: 807; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Oxford University' start in text:826 end in text: 843; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Oxford' start in text:826 end in text: 832; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Oxford University's Merton College' start in text:826 end in text: 860; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Oxford University's Merton College in England' start in text:826 end in text: 873; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'University' start in text:833 end in text: 843; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Merton' start in text:846 end in text: 852; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Merton College' start in text:846 end in text: 860; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Merton College in England' start in text:846 end in text: 873; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'College' start in text:853 end in text: 860; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'England' start in text:866 end in text: 873; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Chakravarty' start in text:878 end in text: 889; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'history' start in text:897 end in text: 904; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Calcutta' start in text:908 end in text: 916; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Calcutta University' start in text:908 end in text: 927; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'University' start in text:917 end in text: 927; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1930s' start in text:935 end in text: 940; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'journalism' start in text:959 end in text: 969; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'correspondent' start in text:975 end in text: 988; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'weekly' start in text:994 end in text: 1000; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Communist Party of India' start in text:1021 end in text: 1045; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'India' start in text:1040 end in text: 1045; Entity types: NER,LOC,NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'He' start in text:1052 end in text: 1054; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'CPI' start in text:1072 end in text: 1075; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'member' start in text:1091 end in text: 1097; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1978' start in text:1104 end in text: 1108; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'He' start in text:1113 end in text: 1115; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mainstream' start in text:1127 end in text: 1137; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Indira Gandhi' start in text:1178 end in text: 1191; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'emergency' start in text:1201 end in text: 1210; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'emergency rule' start in text:1201 end in text: 1215; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rule' start in text:1211 end in text: 1215; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'India' start in text:1219 end in text: 1224; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'censorship' start in text:1275 end in text: 1285; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'newspapers' start in text:1289 end in text: 1299; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'newspapers and magazines' start in text:1289 end in text: 1313; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'magazines' start in text:1304 end in text: 1313; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Chakravarty' start in text:1318 end in text: 1329; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'born' start in text:1334 end in text: 1338; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'India' start in text:1360 end in text: 1365; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'northeastern' start in text:1368 end in text: 1380; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'state' start in text:1381 end in text: 1386; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Assam' start in text:1390 end in text: 1395; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

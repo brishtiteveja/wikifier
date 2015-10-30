@@ -1,0 +1,413 @@
+<ANNOTATION>
+The    <b>1333</b>   siege of  <a class="wiki" href="http://en.wikipedia.org/wiki/Kamakura,_Kanagawa" cat="city	place">Kamakura</a>  was a  <b>battle</b> of the    <a class="wiki" href="http://en.wikipedia.org/wiki/Genkō_War" cat="conflict	war">Genkō War</a>   , and marked the end of the power of the    <a class="wiki" href="http://en.wikipedia.org/wiki/Hōjō_clan" cat="clan">Hōjō clan</a>   , which had dominated the regency of the    <a class="wiki" href="http://en.wikipedia.org/wiki/Kamakura_shogunate" cat="disestablishment	state">Kamakura shogunate</a>    for over a century.  Forces loyal to the   Emperor   and led by    <a class="wiki" href="http://en.wikipedia.org/wiki/Nitta_Yoshisada" cat="personnel	person">Nitta Yoshisada</a>    entered the  <b>city</b> from multiple directions and destroyed it; in the end, the Hōjō leaders retreated to the    <a class="wiki" href="http://en.wikipedia.org/wiki/Tōshō-ji" cat="">Tōshō-ji</a>   , where they committed  <b>suicide</b>.<br> <a class="wiki" href="http://en.wikipedia.org/wiki/Seven_hills_of_Rome" cat="list">The hills</a>  surrounding the  <b>shogunal</b>  <b>capital</b> of  <a class="wiki" href="http://en.wikipedia.org/wiki/Kamakura,_Kanagawa" cat="city	place">Kamakura</a>  contained seven passes, each with guarded checkpoints.  <a class="wiki" href="http://en.wikipedia.org/wiki/Nitta_Yoshisada" cat="personnel	person">Nitta Yoshisada</a>  attacked from the north, east, and west, dividing his  <b>force</b> in three. However, after many hours of fighting, little progress had been made towards the  <b>city</b>, particularly on the western passes near the    <a class="wiki" href="http://en.wikipedia.org/wiki/Gokurakuji" cat="">Gokuraku-ji</a>   , which was guarded with rows upon rows of wooden shielding.   <a class="wiki" href="http://en.wikipedia.org/wiki/Nitta_Yoshisada" cat="personnel	person">Nitta</a>  realized the Gokuraku-ji could be bypassed by marching around the cape, where the  <a class="wiki" href="http://en.wikipedia.org/wiki/Inamuragasaki" cat="headland">Inamuragasaki</a>   <b>promontory</b> juts out into the  <b>water</b>.  According to the chronicles, he threw his  <b>sword</b> into the  <b>sea</b> as an offering to    <a class="wiki" href="http://en.wikipedia.org/wiki/Amaterasu" cat="goddess	personification">Amaterasu</a>   , the  <a class="wiki" href="http://en.wikipedia.org/wiki/Solar_deity" cat="deity">Sun Goddess</a> , and the  <b>sea</b> parted as if by a  <b>miracle</b>.<br>Thus the  <b>rebels</b> were able to enter the  <b>city</b>, and began to  <b>force</b> back the    <a class="wiki" href="http://en.wikipedia.org/wiki/Hōjō_clan" cat="clan">Hōjō</a>    forces. The Hōjō were  <b>eventually</b> forced to retreat to a  <b>cave</b> behind the Tōshō-ji, where they committed suicide.<br><br>
+</ANNOTATION>
+*Entity:[1333,textSpan=(6-10)]	-Disambiguation:(tid=36357, Title name=1333) gold wikification:=1333 isCorrectPrediction=Correct
+*Entity:[Kamakura,textSpan=(22-30)]	-Disambiguation:(tid=61759, Title name=Kamakura,_Kanagawa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a battle,textSpan=(35-43)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[battle,textSpan=(37-43)]	-Disambiguation:(tid=4181, Title name=Battle) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Genkō War,textSpan=(53-62)]	-Disambiguation:(tid=6279651, Title name=Genkō_War) gold wikification:=Genkō_War isCorrectPrediction=Correct
+*Entity:[the end,textSpan=(77-84)]	-Disambiguation:(tid=6031490, Title name=Sukhumi_massacre) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the power,textSpan=(88-97)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[power,textSpan=(92-97)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hōjō clan,textSpan=(107-116)]	-Disambiguation:(tid=313320, Title name=Hōjō_clan) gold wikification:=Hōjō_clan isCorrectPrediction=Correct
+*Entity:[dominated,textSpan=(130-139)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the regency,textSpan=(140-151)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[regency,textSpan=(144-151)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Kamakura shogunate,textSpan=(161-179)]	-Disambiguation:(tid=84505, Title name=Kamakura_shogunate) gold wikification:=Kamakura_shogunate isCorrectPrediction=Correct
+*Entity:[Kamakura,textSpan=(161-169)]	-Disambiguation:(tid=61759, Title name=Kamakura,_Kanagawa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a century,textSpan=(191-200)]	-Disambiguation:(tid=34571, Title name=19th_century) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[century,textSpan=(193-200)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Forces,textSpan=(203-209)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[loyal,textSpan=(210-215)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Emperor,textSpan=(225-232)]	-Disambiguation:*null* gold wikification:=Emperor_Go-Daigo isCorrectPrediction=Incorrect
+*Entity:[Nitta Yoshisada,textSpan=(248-263)]	-Disambiguation:(tid=1879814, Title name=Nitta_Yoshisada) gold wikification:=Nitta_Yoshisada isCorrectPrediction=Correct
+*Entity:[Nitta,textSpan=(248-253)]	-Disambiguation:(tid=1879814, Title name=Nitta_Yoshisada) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yoshisada,textSpan=(254-263)]	-Disambiguation:(tid=1879814, Title name=Nitta_Yoshisada) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the city,textSpan=(274-282)]	-Disambiguation:(tid=25458, Title name=Rome) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[city,textSpan=(278-282)]	-Disambiguation:(tid=5391, Title name=City) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[multiple,textSpan=(288-296)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[directions,textSpan=(297-307)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the end,textSpan=(329-336)]	-Disambiguation:(tid=6031490, Title name=Sukhumi_massacre) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Tōshō-ji,textSpan=(374-382)]	-Disambiguation:(tid=17208453, Title name=Tōshō-ji) gold wikification:=Tōshō-ji isCorrectPrediction=Correct
+*Entity:[suicide,textSpan=(407-414)]	-Disambiguation:(tid=16831059, Title name=Suicide) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The hills,textSpan=(416-425)]	-Disambiguation:(tid=44828, Title name=Seven_hills_of_Rome) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hills,textSpan=(420-425)]	-Disambiguation:(tid=1408983, Title name=Hill) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[shogunal,textSpan=(442-450)]	-Disambiguation:(tid=28943, Title name=Shogun) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[capital,textSpan=(451-458)]	-Disambiguation:(tid=181337, Title name=Capital) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Kamakura,textSpan=(462-470)]	-Disambiguation:(tid=61759, Title name=Kamakura,_Kanagawa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[passes,textSpan=(487-493)]	-Disambiguation:(tid=374673, Title name=Mountain_pass) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[guarded,textSpan=(505-512)]	-Disambiguation:(tid=1186249, Title name=Guard_(computer_science)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[checkpoints,textSpan=(513-524)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Nitta,textSpan=(526-531)]	-Disambiguation:(tid=1879814, Title name=Nitta_Yoshisada) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Nitta Yoshisada,textSpan=(526-541)]	-Disambiguation:(tid=1879814, Title name=Nitta_Yoshisada) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yoshisada,textSpan=(532-541)]	-Disambiguation:(tid=1879814, Title name=Nitta_Yoshisada) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the north,textSpan=(556-565)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[north,textSpan=(560-565)]	-Disambiguation:(tid=56478, Title name=North) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[west,textSpan=(577-581)]	-Disambiguation:(tid=61026, Title name=West) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[force,textSpan=(596-601)]	-Disambiguation:(tid=10902, Title name=Force) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hours,textSpan=(632-637)]	-Disambiguation:(tid=634045, Title name=Hours) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fighting,textSpan=(641-649)]	-Disambiguation:(tid=43702, Title name=Combat) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[little,textSpan=(651-657)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[progress,textSpan=(658-666)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[had been,textSpan=(667-675)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the city,textSpan=(689-697)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[city,textSpan=(693-697)]	-Disambiguation:(tid=5391, Title name=City) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the western,textSpan=(715-726)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[western,textSpan=(719-726)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[passes,textSpan=(727-733)]	-Disambiguation:(tid=374673, Title name=Mountain_pass) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gokuraku-ji,textSpan=(745-756)]	-Disambiguation:(tid=8407177, Title name=Gokurakuji) gold wikification:=Gokurakuji isCorrectPrediction=Correct
+*Entity:[guarded,textSpan=(770-777)]	-Disambiguation:(tid=1186249, Title name=Guard_(computer_science)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rows,textSpan=(783-787)]	-Disambiguation:(tid=1041142, Title name=Row_(database)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rows,textSpan=(793-797)]	-Disambiguation:(tid=1041142, Title name=Row_(database)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wooden,textSpan=(801-807)]	-Disambiguation:(tid=33550, Title name=Wood) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[shielding,textSpan=(808-817)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Nitta,textSpan=(820-825)]	-Disambiguation:(tid=1879814, Title name=Nitta_Yoshisada) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gokuraku-ji,textSpan=(839-850)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bypassed,textSpan=(860-868)]	-Disambiguation:(tid=3220876, Title name=Bypass_(road)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the cape,textSpan=(888-896)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cape,textSpan=(892-896)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Inamuragasaki,textSpan=(908-921)]	-Disambiguation:(tid=3658264, Title name=Inamuragasaki) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[promontory,textSpan=(922-932)]	-Disambiguation:(tid=11217970, Title name=Promontory) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the water,textSpan=(947-956)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[water,textSpan=(951-956)]	-Disambiguation:(tid=33306, Title name=Water) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the chronicles,textSpan=(972-986)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[chronicles,textSpan=(976-986)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[his sword,textSpan=(997-1006)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sword,textSpan=(1001-1006)]	-Disambiguation:(tid=27863, Title name=Sword) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the sea,textSpan=(1012-1019)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sea,textSpan=(1016-1019)]	-Disambiguation:(tid=26831, Title name=Sea) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[offering,textSpan=(1026-1034)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Amaterasu,textSpan=(1040-1049)]	-Disambiguation:(tid=39220, Title name=Amaterasu) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Amaterasu , the Sun Goddess,textSpan=(1040-1068)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sun,textSpan=(1057-1060)]	-Disambiguation:(tid=27560, Title name=Solar_deity) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sun Goddess,textSpan=(1057-1068)]	-Disambiguation:(tid=27560, Title name=Solar_deity) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Goddess,textSpan=(1061-1068)]	-Disambiguation:(tid=12734, Title name=Goddess) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the sea,textSpan=(1074-1081)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sea,textSpan=(1078-1081)]	-Disambiguation:(tid=26831, Title name=Sea) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a miracle,textSpan=(1098-1107)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[miracle,textSpan=(1100-1107)]	-Disambiguation:(tid=52041, Title name=Miracle) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the rebels,textSpan=(1114-1124)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rebels,textSpan=(1118-1124)]	-Disambiguation:(tid=513246, Title name=Rebellion) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[enter,textSpan=(1138-1143)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the city,textSpan=(1144-1152)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[city,textSpan=(1148-1152)]	-Disambiguation:(tid=5391, Title name=City) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[began,textSpan=(1158-1163)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[force,textSpan=(1167-1172)]	-Disambiguation:(tid=10902, Title name=Force) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hōjō,textSpan=(1184-1188)]	-Disambiguation:(tid=313320, Title name=Hōjō_clan) gold wikification:=Hojo isCorrectPrediction=Incorrect
+*Entity:[eventually,textSpan=(1213-1223)]	-Disambiguation:(tid=9839687, Title name=Eventually) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[forced,textSpan=(1224-1230)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[retreat,textSpan=(1234-1241)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cave,textSpan=(1247-1251)]	-Disambiguation:(tid=5778, Title name=Cave) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[suicide,textSpan=(1294-1301)]	-Disambiguation:(tid=16831059, Title name=Suicide) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : '1333' start in text:6 end in text: 10; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Kamakura' start in text:22 end in text: 30; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a battle' start in text:35 end in text: 43; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'battle' start in text:37 end in text: 43; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Genkō War' start in text:53 end in text: 62; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the end' start in text:77 end in text: 84; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the power' start in text:88 end in text: 97; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'power' start in text:92 end in text: 97; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hōjō clan' start in text:107 end in text: 116; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dominated' start in text:130 end in text: 139; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the regency' start in text:140 end in text: 151; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'regency' start in text:144 end in text: 151; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Kamakura shogunate' start in text:161 end in text: 179; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Kamakura' start in text:161 end in text: 169; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a century' start in text:191 end in text: 200; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'century' start in text:193 end in text: 200; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Forces' start in text:203 end in text: 209; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'loyal' start in text:210 end in text: 215; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Emperor' start in text:225 end in text: 232; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Nitta Yoshisada' start in text:248 end in text: 263; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Nitta' start in text:248 end in text: 253; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yoshisada' start in text:254 end in text: 263; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the city' start in text:274 end in text: 282; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'city' start in text:278 end in text: 282; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'multiple' start in text:288 end in text: 296; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'directions' start in text:297 end in text: 307; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the end' start in text:329 end in text: 336; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Tōshō-ji' start in text:374 end in text: 382; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'suicide' start in text:407 end in text: 414; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The hills' start in text:416 end in text: 425; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hills' start in text:420 end in text: 425; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shogunal' start in text:442 end in text: 450; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'capital' start in text:451 end in text: 458; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Kamakura' start in text:462 end in text: 470; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'passes' start in text:487 end in text: 493; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'guarded' start in text:505 end in text: 512; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'checkpoints' start in text:513 end in text: 524; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Nitta' start in text:526 end in text: 531; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Nitta Yoshisada' start in text:526 end in text: 541; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yoshisada' start in text:532 end in text: 541; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the north' start in text:556 end in text: 565; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'north' start in text:560 end in text: 565; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'west' start in text:577 end in text: 581; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'force' start in text:596 end in text: 601; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hours' start in text:632 end in text: 637; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fighting' start in text:641 end in text: 649; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'little' start in text:651 end in text: 657; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'progress' start in text:658 end in text: 666; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'had been' start in text:667 end in text: 675; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'the city' start in text:689 end in text: 697; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'city' start in text:693 end in text: 697; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the western' start in text:715 end in text: 726; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'western' start in text:719 end in text: 726; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'passes' start in text:727 end in text: 733; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Gokuraku-ji' start in text:745 end in text: 756; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'guarded' start in text:770 end in text: 777; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rows' start in text:783 end in text: 787; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rows' start in text:793 end in text: 797; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wooden' start in text:801 end in text: 807; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shielding' start in text:808 end in text: 817; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Nitta' start in text:820 end in text: 825; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Gokuraku-ji' start in text:839 end in text: 850; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bypassed' start in text:860 end in text: 868; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the cape' start in text:888 end in text: 896; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'cape' start in text:892 end in text: 896; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Inamuragasaki' start in text:908 end in text: 921; Entity types: NER,LOC,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'promontory' start in text:922 end in text: 932; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the water' start in text:947 end in text: 956; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'water' start in text:951 end in text: 956; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the chronicles' start in text:972 end in text: 986; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'chronicles' start in text:976 end in text: 986; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'his sword' start in text:997 end in text: 1006; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sword' start in text:1001 end in text: 1006; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the sea' start in text:1012 end in text: 1019; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'sea' start in text:1016 end in text: 1019; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'offering' start in text:1026 end in text: 1034; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Amaterasu' start in text:1040 end in text: 1049; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Amaterasu , the Sun Goddess' start in text:1040 end in text: 1068; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Sun' start in text:1057 end in text: 1060; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sun Goddess' start in text:1057 end in text: 1068; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Goddess' start in text:1061 end in text: 1068; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the sea' start in text:1074 end in text: 1081; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'sea' start in text:1078 end in text: 1081; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a miracle' start in text:1098 end in text: 1107; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'miracle' start in text:1100 end in text: 1107; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the rebels' start in text:1114 end in text: 1124; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rebels' start in text:1118 end in text: 1124; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'enter' start in text:1138 end in text: 1143; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the city' start in text:1144 end in text: 1152; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'city' start in text:1148 end in text: 1152; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'began' start in text:1158 end in text: 1163; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'force' start in text:1167 end in text: 1172; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hōjō' start in text:1184 end in text: 1188; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'eventually' start in text:1213 end in text: 1223; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'forced' start in text:1224 end in text: 1230; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'retreat' start in text:1234 end in text: 1241; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cave' start in text:1247 end in text: 1251; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'suicide' start in text:1294 end in text: 1301; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

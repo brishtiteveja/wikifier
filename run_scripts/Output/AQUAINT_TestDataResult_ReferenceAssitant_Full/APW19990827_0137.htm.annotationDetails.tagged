@@ -1,0 +1,499 @@
+<ANNOTATION>
+   Bank Fires Seven for  <a class="wiki" href="http://en.wikipedia.org/wiki/Email" cat="">E-Mail</a>  Misuse<br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/The_Charlotte_Observer" cat="newspaper	publication">CHARLOTTE</a>  ( <a class="wiki" href="http://en.wikipedia.org/wiki/Associated_Press" cat="cooperative	agency	establishment	medium	recipient">AP</a> ) --   <a class="wiki" href="http://en.wikipedia.org/wiki/Wachovia" cat="banks	company">First Union Corp</a> . says it has fired seven employees within the last week for sending   <b>pornographic</b>   and other inappropriate   <b>e-mail</b>  . <br><br> <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Wachovia" cat="banks	company">First Union</a> , the  <b>nation</b>'s sixth-largest  <b>bank</b>, confirmed the firings Friday, but  <b>company</b> spokeswoman Sandy Deem would not release more details. <br><br> <br><br> The  <b>bank</b> "will not tolerate conduct that interferes with another person's work performance or creates an intimidating, offensive or   <b>hostile environment</b>  ,'' Deem said. <br><br> <br><br>   <a class="wiki" href="http://en.wikipedia.org/wiki/The_Charlotte" cat="venue	building">The Charlotte</a>  Observer   reported Friday that employees at the  <a class="wiki" href="http://en.wikipedia.org/wiki/University_City_(Charlotte_neighborhood)" cat="town	parks	district	place">University Research Park</a>  office circulated  <b>e-mail</b> that included videos of people having sex and other material of a sexual  <b>nature</b>. The company stumbled on the  <b>e-mail</b> when the  <b>volume</b> of messages became so heavy it slowed down a   <b>server</b>  . <br><br> <br><br> One  <b>employee</b> fired within the past week from the  <b>bank</b>'s   <b>home-equity</b>   division was called into an office, shown a  <b>stack</b> of  <b>e-mail</b> and fired on the spot, an  <b>employee</b> told the  <b>newspaper</b>. <br><br> <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Wachovia" cat="banks	company">First Union</a> , a   <a class="wiki" href="http://en.wikipedia.org/wiki/Fortune_500" cat="list	issue">Fortune 100</a>    corporation, joins a number of  <b>companies</b> taking  <b>swift</b> and severe  <b>action</b> for violations of company  <b>e-mail</b> policy. <br><br> <br><br>  <b>Companies</b> are seeking to protect themselves from  legal claims   that their work  <b>environment</b> is hostile. An increasing number of  <b>lawsuits</b> alleging   <b>sexual harassment</b>  have based claims in part on  <b>e-mails</b> taken from  <b>company</b> computer systems. <br><br>
+</ANNOTATION>
+*Entity:[Bank Fires Seven for E-Mail Misuse CHARLOTTE,textSpan=(3-49)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bank Fires Seven,textSpan=(0-19)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bank,textSpan=(0-7)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Fires Seven for E-Mail Misuse CHARLOTTE,textSpan=(8-49)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[E-Mail,textSpan=(24-30)]	-Disambiguation:(tid=9738, Title name=Email) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[E-Mail Misuse,textSpan=(24-37)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[CHARLOTTE,textSpan=(40-49)]	-Disambiguation:(tid=2349275, Title name=The_Charlotte_Observer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[AP,textSpan=(51-53)]	-Disambiguation:(tid=47915, Title name=Associated_Press) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[First Union,textSpan=(59-70)]	-Disambiguation:(tid=522714, Title name=Wachovia) gold wikification:=Wachovia isCorrectPrediction=Correct
+*Entity:[First Union Corp,textSpan=(59-77)]	-Disambiguation:(tid=522714, Title name=Wachovia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Union Corp,textSpan=(65-77)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fired,textSpan=(91-96)]	-Disambiguation:(tid=611343, Title name=Termination_of_employment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[employees,textSpan=(103-112)]	-Disambiguation:(tid=314993, Title name=Employment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the last,textSpan=(120-128)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[week,textSpan=(129-133)]	-Disambiguation:(tid=33538, Title name=Week) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pornographic,textSpan=(147-159)]	-Disambiguation:(tid=5710507, Title name=Pornography) gold wikification:=Pornography isCorrectPrediction=Correct
+*Entity:[e-mail,textSpan=(187-193)]	-Disambiguation:(tid=9738, Title name=Email) gold wikification:=Email isCorrectPrediction=Correct
+*Entity:[First Union,textSpan=(203-214)]	-Disambiguation:(tid=522714, Title name=Wachovia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Union,textSpan=(209-214)]	-Disambiguation:(tid=522714, Title name=Wachovia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the nation,textSpan=(216-226)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nation,textSpan=(220-226)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sixth-largest,textSpan=(229-242)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bank,textSpan=(243-247)]	-Disambiguation:(tid=3753, Title name=Bank) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Friday,textSpan=(271-277)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(283-290)]	-Disambiguation:(tid=7485, Title name=Corporation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[spokeswoman,textSpan=(291-302)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sandy,textSpan=(303-308)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sandy Deem,textSpan=(303-313)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[release,textSpan=(324-331)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[details,textSpan=(337-344)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The bank,textSpan=(352-360)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bank,textSpan=(356-360)]	-Disambiguation:(tid=3753, Title name=Bank) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tolerate,textSpan=(371-379)]	-Disambiguation:(tid=3556702, Title name=Toleration) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[conduct,textSpan=(380-387)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[person,textSpan=(417-423)]	-Disambiguation:(tid=682482, Title name=Human) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[work,textSpan=(426-430)]	-Disambiguation:(tid=314993, Title name=Employment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[performance,textSpan=(431-442)]	-Disambiguation:(tid=224515, Title name=Performance) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hostile environment,textSpan=(485-504)]	-Disambiguation:(tid=1471574, Title name=Hostile_environment_sexual_harassment) gold wikification:=Hostile_environment_sexual_harassment isCorrectPrediction=Correct
+*Entity:['',textSpan=(507-509)]	-Disambiguation:(tid=3441561, Title name=List_of_recurring_That_'70s_Show_characters) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Deem,textSpan=(510-514)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The Charlotte,textSpan=(528-541)]	-Disambiguation:(tid=3005684, Title name=The_Charlotte) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The Charlotte Observer,textSpan=(528-550)]	-Disambiguation:*null* gold wikification:=The_Charlotte_Observer isCorrectPrediction=Incorrect
+*Entity:[Charlotte Observer,textSpan=(532-550)]	-Disambiguation:(tid=2349275, Title name=The_Charlotte_Observer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Charlotte,textSpan=(532-541)]	-Disambiguation:(tid=3005684, Title name=The_Charlotte) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Observer,textSpan=(542-550)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Friday,textSpan=(562-568)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[employees,textSpan=(574-583)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[University Research Park,textSpan=(591-615)]	-Disambiguation:(tid=6190443, Title name=University_City_(Charlotte_neighborhood)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[University,textSpan=(591-601)]	-Disambiguation:(tid=31794, Title name=University) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Research Park,textSpan=(602-615)]	-Disambiguation:(tid=6190443, Title name=University_City_(Charlotte_neighborhood)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Research,textSpan=(602-610)]	-Disambiguation:(tid=25524, Title name=Research) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Park,textSpan=(611-615)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[office,textSpan=(616-622)]	-Disambiguation:(tid=382507, Title name=Office) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[e-mail,textSpan=(634-640)]	-Disambiguation:(tid=9738, Title name=Email) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[videos,textSpan=(655-661)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[people,textSpan=(665-671)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sex,textSpan=(679-682)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[material,textSpan=(693-701)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sexual nature,textSpan=(707-720)]	-Disambiguation:(tid=14183, Title name=Hentai) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sexual,textSpan=(707-713)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nature,textSpan=(714-720)]	-Disambiguation:(tid=21830, Title name=Nature) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The company,textSpan=(722-733)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(726-733)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[e-mail,textSpan=(750-756)]	-Disambiguation:(tid=9738, Title name=Email) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the volume,textSpan=(762-772)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[volume,textSpan=(766-772)]	-Disambiguation:(tid=32498, Title name=Volume) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[messages,textSpan=(776-784)]	-Disambiguation:(tid=41367, Title name=Message) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[heavy,textSpan=(795-800)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[server,textSpan=(819-825)]	-Disambiguation:(tid=42116, Title name=Server_(computing)) gold wikification:=Server_(computing) isCorrectPrediction=Correct
+*Entity:[One,textSpan=(835-838)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[employee,textSpan=(839-847)]	-Disambiguation:(tid=314993, Title name=Employment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the past,textSpan=(861-869)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[past,textSpan=(865-869)]	-Disambiguation:(tid=758833, Title name=Past) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[week,textSpan=(870-874)]	-Disambiguation:(tid=33538, Title name=Week) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the bank,textSpan=(880-888)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bank,textSpan=(884-888)]	-Disambiguation:(tid=3753, Title name=Bank) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[home-equity,textSpan=(892-903)]	-Disambiguation:(tid=2662518, Title name=Home_equity) gold wikification:=Home_equity isCorrectPrediction=Correct
+*Entity:[called,textSpan=(919-925)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[office,textSpan=(934-940)]	-Disambiguation:(tid=382507, Title name=Office) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[stack,textSpan=(950-955)]	-Disambiguation:(tid=273993, Title name=Stack_(abstract_data_type)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[e-mail,textSpan=(959-965)]	-Disambiguation:(tid=9738, Title name=Email) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the spot,textSpan=(979-987)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[spot,textSpan=(983-987)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[employee,textSpan=(992-1000)]	-Disambiguation:(tid=314993, Title name=Employment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the newspaper,textSpan=(1006-1019)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[newspaper,textSpan=(1010-1019)]	-Disambiguation:(tid=18582335, Title name=Newspaper) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[First Union,textSpan=(1027-1038)]	-Disambiguation:(tid=522714, Title name=Wachovia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Union,textSpan=(1033-1038)]	-Disambiguation:(tid=522714, Title name=Wachovia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Fortune 100,textSpan=(1043-1054)]	-Disambiguation:(tid=276447, Title name=Fortune_500) gold wikification:=Fortune_500 isCorrectPrediction=Correct
+*Entity:[Fortune,textSpan=(1043-1050)]	-Disambiguation:(tid=172717, Title name=Fortune_(magazine)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a number,textSpan=(1076-1084)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[number,textSpan=(1078-1084)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[companies,textSpan=(1088-1097)]	-Disambiguation:(tid=7485, Title name=Corporation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[swift,textSpan=(1105-1110)]	-Disambiguation:(tid=219023, Title name=Swift) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[severe,textSpan=(1115-1121)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[action,textSpan=(1122-1128)]	-Disambiguation:(tid=43564, Title name=Action_film) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[violations,textSpan=(1133-1143)]	-Disambiguation:(tid=1270750, Title name=1996_United_States_campaign_finance_controversy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(1147-1154)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[e-mail,textSpan=(1155-1161)]	-Disambiguation:(tid=9738, Title name=Email) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[policy,textSpan=(1162-1168)]	-Disambiguation:(tid=375091, Title name=Policy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Companies,textSpan=(1176-1185)]	-Disambiguation:(tid=7485, Title name=Corporation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[seeking,textSpan=(1190-1197)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[protect,textSpan=(1201-1208)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[legal,textSpan=(1226-1231)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[claims,textSpan=(1232-1238)]	-Disambiguation:(tid=51490, Title name=Rights) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[work,textSpan=(1252-1256)]	-Disambiguation:(tid=314993, Title name=Employment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[environment,textSpan=(1257-1268)]	-Disambiguation:(tid=558685, Title name=Natural_environment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[An,textSpan=(1281-1283)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[increasing,textSpan=(1284-1294)]	-Disambiguation:(tid=4968024, Title name=Increase_(knitting)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[number,textSpan=(1295-1301)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[lawsuits,textSpan=(1305-1313)]	-Disambiguation:(tid=113258, Title name=Lawsuit) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sexual harassment,textSpan=(1324-1341)]	-Disambiguation:(tid=236331, Title name=Sexual_harassment) gold wikification:=Sexual_harassment isCorrectPrediction=Correct
+*Entity:[sexual,textSpan=(1324-1330)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[harassment,textSpan=(1331-1341)]	-Disambiguation:(tid=236331, Title name=Sexual_harassment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[based,textSpan=(1348-1353)]	-Disambiguation:(tid=347322, Title name=Holotype) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[claims,textSpan=(1354-1360)]	-Disambiguation:(tid=51490, Title name=Rights) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[e-mails,textSpan=(1372-1379)]	-Disambiguation:(tid=9738, Title name=Email) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(1391-1398)]	-Disambiguation:(tid=7485, Title name=Corporation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[computer systems,textSpan=(1399-1415)]	-Disambiguation:(tid=7878457, Title name=Computer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[systems,textSpan=(1408-1415)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Bank Fires Seven for E-Mail Misuse CHARLOTTE' start in text:3 end in text: 49; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Bank Fires Seven' start in text:0 end in text: 19; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Bank' start in text:0 end in text: 7; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Fires Seven for E-Mail Misuse CHARLOTTE' start in text:8 end in text: 49; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'E-Mail' start in text:24 end in text: 30; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'E-Mail Misuse' start in text:24 end in text: 37; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'CHARLOTTE' start in text:40 end in text: 49; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'AP' start in text:51 end in text: 53; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'First Union' start in text:59 end in text: 70; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'First Union Corp' start in text:59 end in text: 77; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Union Corp' start in text:65 end in text: 77; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fired' start in text:91 end in text: 96; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'employees' start in text:103 end in text: 112; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the last' start in text:120 end in text: 128; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'week' start in text:129 end in text: 133; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pornographic' start in text:147 end in text: 159; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'e-mail' start in text:187 end in text: 193; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'First Union' start in text:203 end in text: 214; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Union' start in text:209 end in text: 214; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the nation' start in text:216 end in text: 226; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nation' start in text:220 end in text: 226; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sixth-largest' start in text:229 end in text: 242; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bank' start in text:243 end in text: 247; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Friday' start in text:271 end in text: 277; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:283 end in text: 290; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'spokeswoman' start in text:291 end in text: 302; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sandy' start in text:303 end in text: 308; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sandy Deem' start in text:303 end in text: 313; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'release' start in text:324 end in text: 331; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'details' start in text:337 end in text: 344; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The bank' start in text:352 end in text: 360; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bank' start in text:356 end in text: 360; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tolerate' start in text:371 end in text: 379; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'conduct' start in text:380 end in text: 387; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'person' start in text:417 end in text: 423; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'work' start in text:426 end in text: 430; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'performance' start in text:431 end in text: 442; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hostile environment' start in text:485 end in text: 504; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '''' start in text:507 end in text: 509; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Deem' start in text:510 end in text: 514; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'The Charlotte' start in text:528 end in text: 541; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The Charlotte Observer' start in text:528 end in text: 550; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Charlotte Observer' start in text:532 end in text: 550; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Charlotte' start in text:532 end in text: 541; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Observer' start in text:542 end in text: 550; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Friday' start in text:562 end in text: 568; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'employees' start in text:574 end in text: 583; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'University Research Park' start in text:591 end in text: 615; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'University' start in text:591 end in text: 601; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Research Park' start in text:602 end in text: 615; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Research' start in text:602 end in text: 610; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Park' start in text:611 end in text: 615; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'office' start in text:616 end in text: 622; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'e-mail' start in text:634 end in text: 640; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'videos' start in text:655 end in text: 661; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'people' start in text:665 end in text: 671; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sex' start in text:679 end in text: 682; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'material' start in text:693 end in text: 701; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sexual nature' start in text:707 end in text: 720; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sexual' start in text:707 end in text: 713; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nature' start in text:714 end in text: 720; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The company' start in text:722 end in text: 733; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:726 end in text: 733; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'e-mail' start in text:750 end in text: 756; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the volume' start in text:762 end in text: 772; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'volume' start in text:766 end in text: 772; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'messages' start in text:776 end in text: 784; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'heavy' start in text:795 end in text: 800; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'server' start in text:819 end in text: 825; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'One' start in text:835 end in text: 838; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'employee' start in text:839 end in text: 847; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the past' start in text:861 end in text: 869; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'past' start in text:865 end in text: 869; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'week' start in text:870 end in text: 874; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the bank' start in text:880 end in text: 888; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bank' start in text:884 end in text: 888; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'home-equity' start in text:892 end in text: 903; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'called' start in text:919 end in text: 925; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'office' start in text:934 end in text: 940; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'stack' start in text:950 end in text: 955; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'e-mail' start in text:959 end in text: 965; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the spot' start in text:979 end in text: 987; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'spot' start in text:983 end in text: 987; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'employee' start in text:992 end in text: 1000; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the newspaper' start in text:1006 end in text: 1019; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'newspaper' start in text:1010 end in text: 1019; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'First Union' start in text:1027 end in text: 1038; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Union' start in text:1033 end in text: 1038; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Fortune 100' start in text:1043 end in text: 1054; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Fortune' start in text:1043 end in text: 1050; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a number' start in text:1076 end in text: 1084; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'number' start in text:1078 end in text: 1084; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'companies' start in text:1088 end in text: 1097; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'swift' start in text:1105 end in text: 1110; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'severe' start in text:1115 end in text: 1121; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'action' start in text:1122 end in text: 1128; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'violations' start in text:1133 end in text: 1143; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:1147 end in text: 1154; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'e-mail' start in text:1155 end in text: 1161; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'policy' start in text:1162 end in text: 1168; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Companies' start in text:1176 end in text: 1185; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'seeking' start in text:1190 end in text: 1197; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'protect' start in text:1201 end in text: 1208; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'legal' start in text:1226 end in text: 1231; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'claims' start in text:1232 end in text: 1238; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'work' start in text:1252 end in text: 1256; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'environment' start in text:1257 end in text: 1268; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'An' start in text:1281 end in text: 1283; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'increasing' start in text:1284 end in text: 1294; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'number' start in text:1295 end in text: 1301; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'lawsuits' start in text:1305 end in text: 1313; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sexual harassment' start in text:1324 end in text: 1341; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sexual' start in text:1324 end in text: 1330; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'harassment' start in text:1331 end in text: 1341; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'based' start in text:1348 end in text: 1353; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'claims' start in text:1354 end in text: 1360; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'e-mails' start in text:1372 end in text: 1379; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:1391 end in text: 1398; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'computer systems' start in text:1399 end in text: 1415; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'systems' start in text:1408 end in text: 1415; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

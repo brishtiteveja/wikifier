@@ -1,0 +1,181 @@
+Params:[-trainSvmModuelsOnly, /scratch/conte/a/azehady/nlp/Wikifier2013/Wikifier2013/configs/BASELINE.xml]
+Usage: either
+	$java ReferenceAssistant -trainSvmModelsOnly <pathToConfigFile>
+or
+	$java ReferenceAssistant -buildTrainingDataAndTrain <pathToProblems> <pathToRawTexts> <pathToConfigFile>
+or
+	$java ReferenceAssistant -annotateData <inputPath> <outputPath> <generateFeatureDumps>  <pathToConfigFile> 
+or
+	$java ReferenceAssistant -referenceAssistant <pathToProblemFileOrFolder> <pathToRawTextFilesFolder> <pathToExplanations>  <pathToConfigFile> 
+Creating wordnet dictionary from data/WordNet/...
+Dictionary opened.
+----------------->Bypassing the curator!
+Loading the most recent redirect pages from Wikipedia to normalize the output links to the latest version
+loading the latest redirects; linecount=1
+Consructing wikipedia summary from a proto buffer
+loading the latest redirects; linecount=100001
+Done - consructing wikipedia summary from a proto buffer
+Opening the index for the complete index interface
+loading the latest redirects; linecount=200001
+loading the latest redirects; linecount=300001
+Prefetching the basic information about the wikipedia articles
+0 titles processed out of 2478573
+loading the latest redirects; linecount=400001
+loading the latest redirects; linecount=500001
+loading the latest redirects; linecount=600001
+loading the latest redirects; linecount=700001
+loading the latest redirects; linecount=800001
+loading the latest redirects; linecount=900001
+50000 titles processed out of 2478573
+loading the latest redirects; linecount=1000001
+loading the latest redirects; linecount=1100001
+loading the latest redirects; linecount=1200001
+loading the latest redirects; linecount=1300001
+loading the latest redirects; linecount=1400001
+loading the latest redirects; linecount=1500001
+100000 titles processed out of 2478573
+loading the latest redirects; linecount=1600001
+loading the latest redirects; linecount=1700001
+loading the latest redirects; linecount=1800001
+loading the latest redirects; linecount=1900001
+loading the latest redirects; linecount=2000001
+loading the latest redirects; linecount=2100001
+loading the latest redirects; linecount=2200001
+loading the latest redirects; linecount=2300001
+150000 titles processed out of 2478573
+loading the latest redirects; linecount=2400001
+loading the latest redirects; linecount=2500001
+loading the latest redirects; linecount=2600001
+loading the latest redirects; linecount=2700001
+loading the latest redirects; linecount=2800001
+loading the latest redirects; linecount=2900001
+loading the latest redirects; linecount=3000001
+loading the latest redirects; linecount=3100001
+200000 titles processed out of 2478573
+loading the latest redirects; linecount=3200001
+loading the latest redirects; linecount=3300001
+loading the latest redirects; linecount=3400001
+loading the latest redirects; linecount=3500001
+loading the latest redirects; linecount=3600001
+loading the latest redirects; linecount=3700001
+250000 titles processed out of 2478573
+loading the latest redirects; linecount=3800001
+loading the latest redirects; linecount=3900001
+loading the latest redirects; linecount=4000001
+loading the latest redirects; linecount=4100001
+loading the latest redirects; linecount=4200001
+loading the latest redirects; linecount=4300001
+loading the latest redirects; linecount=4400001
+loading the latest redirects; linecount=4500001
+loading the latest redirects; linecount=4600001
+loading the latest redirects; linecount=4700001
+loading the latest redirects; linecount=4800001
+300000 titles processed out of 2478573
+loading the latest redirects; linecount=4900001
+loading the latest redirects; linecount=5000001
+loading the latest redirects; linecount=5100001
+loading the latest redirects; linecount=5200001
+loading the latest redirects; linecount=5300001
+loading the latest redirects; linecount=5400001
+loading the latest redirects; linecount=5500001
+loading the latest redirects; linecount=5600001
+loading the latest redirects; linecount=5700001
+350000 titles processed out of 2478573
+loading the latest redirects; linecount=5800001
+Done  - Loading the most recent redirect pages from Wikipedia to normalize the output links to the latest version
+400000 titles processed out of 2478573
+450000 titles processed out of 2478573
+500000 titles processed out of 2478573
+550000 titles processed out of 2478573
+600000 titles processed out of 2478573
+650000 titles processed out of 2478573
+700000 titles processed out of 2478573
+750000 titles processed out of 2478573
+800000 titles processed out of 2478573
+850000 titles processed out of 2478573
+900000 titles processed out of 2478573
+950000 titles processed out of 2478573
+1000000 titles processed out of 2478573
+1050000 titles processed out of 2478573
+1100000 titles processed out of 2478573
+1150000 titles processed out of 2478573
+1200000 titles processed out of 2478573
+1250000 titles processed out of 2478573
+1300000 titles processed out of 2478573
+1350000 titles processed out of 2478573
+1400000 titles processed out of 2478573
+1450000 titles processed out of 2478573
+1500000 titles processed out of 2478573
+1550000 titles processed out of 2478573
+1600000 titles processed out of 2478573
+1650000 titles processed out of 2478573
+1700000 titles processed out of 2478573
+1750000 titles processed out of 2478573
+1800000 titles processed out of 2478573
+1850000 titles processed out of 2478573
+1900000 titles processed out of 2478573
+1950000 titles processed out of 2478573
+2000000 titles processed out of 2478573
+2050000 titles processed out of 2478573
+2100000 titles processed out of 2478573
+2150000 titles processed out of 2478573
+2200000 titles processed out of 2478573
+2250000 titles processed out of 2478573
+2300000 titles processed out of 2478573
+2350000 titles processed out of 2478573
+2400000 titles processed out of 2478573
+2450000 titles processed out of 2478573
+Actual capacities:
+TitleEssentialData:6584983
+Loaded 2478573 nonNormalizedTitles
+Done prefetching the basic data about 2478573 Wikipedia articles
+Loading information about surface form to title id mappings
+1 surface forms is linkable out of 0. There are 4045674  surface forms total; last surface form read: Lord of Coucy
+97517 surface forms is linkable out of 100000. There are 4045674  surface forms total; last surface form read: Casino, New South Wales
+194898 surface forms is linkable out of 200000. There are 4045674  surface forms total; last surface form read: St. Dominic?s Church
+292403 surface forms is linkable out of 300000. There are 4045674  surface forms total; last surface form read: GATT
+389929 surface forms is linkable out of 400000. There are 4045674  surface forms total; last surface form read: Beotia
+487517 surface forms is linkable out of 500000. There are 4045674  surface forms total; last surface form read: Heartbreaker
+584941 surface forms is linkable out of 600000. There are 4045674  surface forms total; last surface form read: The White Dove
+682530 surface forms is linkable out of 700000. There are 4045674  surface forms total; last surface form read: Polish league's
+780024 surface forms is linkable out of 800000. There are 4045674  surface forms total; last surface form read: G.Beck
+877578 surface forms is linkable out of 900000. There are 4045674  surface forms total; last surface form read: Pacific Air Transport
+974928 surface forms is linkable out of 1000000. There are 4045674  surface forms total; last surface form read: Guo Zhendong
+1072497 surface forms is linkable out of 1100000. There are 4045674  surface forms total; last surface form read: N-630
+1169923 surface forms is linkable out of 1200000. There are 4045674  surface forms total; last surface form read: Arbor Lodge State Park
+1267393 surface forms is linkable out of 1300000. There are 4045674  surface forms total; last surface form read: 1996's Hurricane Fausto
+1364869 surface forms is linkable out of 1400000. There are 4045674  surface forms total; last surface form read: The Story of Doctor Dolittle
+1462285 surface forms is linkable out of 1500000. There are 4045674  surface forms total; last surface form read: WBZB
+1559770 surface forms is linkable out of 1600000. There are 4045674  surface forms total; last surface form read: State Highway 50A
+1657156 surface forms is linkable out of 1700000. There are 4045674  surface forms total; last surface form read: Antoniadi scale
+1754586 surface forms is linkable out of 1800000. There are 4045674  surface forms total; last surface form read: Mulroy
+1852081 surface forms is linkable out of 1900000. There are 4045674  surface forms total; last surface form read: Yellow birch
+1949629 surface forms is linkable out of 2000000. There are 4045674  surface forms total; last surface form read: Aleksandr Grigorievich Stoletov
+2047112 surface forms is linkable out of 2100000. There are 4045674  surface forms total; last surface form read: Rob Valentine
+2144606 surface forms is linkable out of 2200000. There are 4045674  surface forms total; last surface form read: Christ 777
+2242083 surface forms is linkable out of 2300000. There are 4045674  surface forms total; last surface form read: ?Alice? shorts
+2339613 surface forms is linkable out of 2400000. There are 4045674  surface forms total; last surface form read: Knights of Da Gama
+2437162 surface forms is linkable out of 2500000. There are 4045674  surface forms total; last surface form read: Anastasiopolis
+2534551 surface forms is linkable out of 2600000. There are 4045674  surface forms total; last surface form read: Hearing protection
+2632026 surface forms is linkable out of 2700000. There are 4045674  surface forms total; last surface form read: Orhuwhorun
+2729550 surface forms is linkable out of 2800000. There are 4045674  surface forms total; last surface form read: Warren Ellis'
+2826976 surface forms is linkable out of 2900000. There are 4045674  surface forms total; last surface form read: rag-time
+2924328 surface forms is linkable out of 3000000. There are 4045674  surface forms total; last surface form read: urnebes
+3021839 surface forms is linkable out of 3100000. There are 4045674  surface forms total; last surface form read: As Rapture Comes
+3119182 surface forms is linkable out of 3200000. There are 4045674  surface forms total; last surface form read: marrow
+3216681 surface forms is linkable out of 3300000. There are 4045674  surface forms total; last surface form read: Object-based
+3314218 surface forms is linkable out of 3400000. There are 4045674  surface forms total; last surface form read: Siege of Dapur
+3411829 surface forms is linkable out of 3500000. There are 4045674  surface forms total; last surface form read: National Unity Cabinet
+3509255 surface forms is linkable out of 3600000. There are 4045674  surface forms total; last surface form read: 43 countries recognise
+3606784 surface forms is linkable out of 3700000. There are 4045674  surface forms total; last surface form read: mane?tra
+3704260 surface forms is linkable out of 3800000. There are 4045674  surface forms total; last surface form read: Digital Datcom
+3801698 surface forms is linkable out of 3900000. There are 4045674  surface forms total; last surface form read: Louisville Courier
+3899161 surface forms is linkable out of 4000000. There are 4045674  surface forms total; last surface form read: Risset
+There are 102007 unlinkable surface forms
+Actual capacities:
+SurfaceFormData:4961459
+Done loading information about surface form to title id mappings
+WordNet config file: configs/jwnl_properties.xml
+[INFO][net.didion.jwnl.dictionary.Dictionary] - Installing dictionary net.didion.jwnl.dictionary.FileBackedDictionary@57746e0
+Done initializing the system: 167595 milliseconds elapsed
+Memory usage : 3458 MB

@@ -1,0 +1,716 @@
+<ANNOTATION>
+5 charged in  <a class="wiki" href="http://en.wikipedia.org/wiki/Texas" cat="colony	state">Texas</a>   <b>airport luggage</b> thefts<br>Workers at  <b>baggage-handling</b> firm accused after bags found in  <b>pet store</b> bin<br><br> <a class="wiki" href="http://en.wikipedia.org/wiki/Houston" cat="place	settlement	city">HOUSTON</a>  - Five employees of a  <b>baggage-handling</b> contractor have been charged in the thefts of 158 pieces of  <b>luggage</b> from  <a class="wiki" href="http://en.wikipedia.org/wiki/George_Bush_Intercontinental_Airport" cat="building	airport">George Bush Intercontinental Airport</a> ,  <b>police</b> said  <b>Tuesday</b>.<br><br> <a class="wiki" href="http://en.wikipedia.org/wiki/List_of_string_quartets_by_Joseph_Haydn" cat="quartet">Sixty-eight</a>  pieces of  <b>luggage</b> were discovered in a  <a class="wiki" href="http://en.wikipedia.org/wiki/Houston" cat="place	settlement	city">Houston</a>   <b>pet store</b>'s trash bin on Dec. 26.  <b>Police</b> said the  <b>luggage</b> appeared to have been picked over, with any valuables stolen.<br><br> <b>Ninety</b> more pieces of stolen  <b>luggage</b> were found at two undisclosed locations over the  <b>weekend</b>,  <a class="wiki" href="http://en.wikipedia.org/wiki/Houston_Police_Department" cat="department	agency">Houston Police</a>   <b>Capt.</b> Rick Bownds said.<br><br> <b>Charged</b> with engaging in  <b>organized criminal activity</b> were  <b>twin brothers</b>  <b>Manuel</b> and Ricardo Aguilar, 23;  <a class="wiki" href="http://en.wikipedia.org/wiki/Carlos_Manuel_Arana_Osorio" cat="president	personnel	person	politician">Carlos Osorio</a> ,  <b>24</b>; Erick Perez, 29; and Daniel Venegas, who turns 26 this week. The Aguilar brothers,  <b>Osorio</b> and Perez were being held at the  <a class="wiki" href="http://en.wikipedia.org/wiki/Harris_County,_Texas" cat="establishment	county">Harris County</a>   <b>Jail</b> on  <b>$20,000</b>  <b>bond</b>. Information was not available for Venegas.<br><br>It was not clear  <b>Tuesday</b> whether the five men had hired  <b>attorneys</b>.<br><br>Bownds said the men worked for  <a class="wiki" href="http://en.wikipedia.org/wiki/John_Menzies" cat="brand	company">Menzies Aviation</a>  Group, a company that handles  <b>baggage</b> for connecting flights across the  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">United States</a> . The company was cooperating with the investigation,  <b>police</b> said.<br><br>A  <b>telephone</b> message left with the  <b>company</b>'s  <b>London office</b> was not  <b>immediately</b> returned Tuesday night.<br><br>Investigators and the airlines were trying to determine the owners of the bags and figure out what might have been stolen, Bownds said.<br>
+</ANNOTATION>
+*Entity:[Texas,textSpan=(13-18)]	-Disambiguation:(tid=29810, Title name=Texas) gold wikification:=Texas isCorrectPrediction=Correct
+*Entity:[airport,textSpan=(19-26)]	-Disambiguation:(tid=37575, Title name=Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airport luggage,textSpan=(19-34)]	-Disambiguation:(tid=284770, Title name=Airport_security) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[luggage,textSpan=(27-34)]	-Disambiguation:(tid=979665, Title name=Baggage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[thefts,textSpan=(35-41)]	-Disambiguation:(tid=31287, Title name=Theft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Workers,textSpan=(43-50)]	-Disambiguation:(tid=95856, Title name=Labour_economics) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[baggage-handling,textSpan=(54-70)]	-Disambiguation:(tid=3658264, Title name=Baggage_handling_system) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[firm,textSpan=(71-75)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bags,textSpan=(90-94)]	-Disambiguation:(tid=303326, Title name=Suitcase) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pet,textSpan=(104-107)]	-Disambiguation:(tid=25079, Title name=Pet) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pet store,textSpan=(104-113)]	-Disambiguation:(tid=1478112, Title name=Pet_store) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[store,textSpan=(108-113)]	-Disambiguation:(tid=220068, Title name=Store) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bin,textSpan=(114-117)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[HOUSTON,textSpan=(121-128)]	-Disambiguation:(tid=13774, Title name=Houston) gold wikification:=Houston isCorrectPrediction=Correct
+*Entity:[Five,textSpan=(131-135)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[employees,textSpan=(136-145)]	-Disambiguation:(tid=314993, Title name=Employment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[baggage-handling,textSpan=(151-167)]	-Disambiguation:(tid=3658264, Title name=Baggage_handling_system) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[contractor,textSpan=(168-178)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[have been,textSpan=(179-188)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[charged,textSpan=(189-196)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[thefts,textSpan=(204-210)]	-Disambiguation:(tid=31287, Title name=Theft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[158,textSpan=(214-217)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pieces,textSpan=(218-224)]	-Disambiguation:(tid=47618, Title name=Chess_piece) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[luggage,textSpan=(228-235)]	-Disambiguation:(tid=979665, Title name=Baggage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[George Bush Intercontinental Airport,textSpan=(241-277)]	-Disambiguation:(tid=149577, Title name=George_Bush_Intercontinental_Airport) gold wikification:=George_Bush_Intercontinental_Airport isCorrectPrediction=Correct
+*Entity:[George Bush Intercontinental,textSpan=(241-269)]	-Disambiguation:(tid=149577, Title name=George_Bush_Intercontinental_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[George Bush,textSpan=(241-252)]	-Disambiguation:(tid=149577, Title name=George_Bush_Intercontinental_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[George,textSpan=(241-247)]	-Disambiguation:(tid=149577, Title name=George_Bush_Intercontinental_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bush Intercontinental,textSpan=(248-269)]	-Disambiguation:(tid=149577, Title name=George_Bush_Intercontinental_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bush Intercontinental Airport,textSpan=(248-277)]	-Disambiguation:(tid=149577, Title name=George_Bush_Intercontinental_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bush,textSpan=(248-252)]	-Disambiguation:(tid=149577, Title name=George_Bush_Intercontinental_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Intercontinental,textSpan=(253-269)]	-Disambiguation:(tid=149577, Title name=George_Bush_Intercontinental_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Intercontinental Airport,textSpan=(253-277)]	-Disambiguation:(tid=149577, Title name=George_Bush_Intercontinental_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Airport,textSpan=(270-277)]	-Disambiguation:(tid=149577, Title name=George_Bush_Intercontinental_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[police,textSpan=(279-285)]	-Disambiguation:(tid=23627, Title name=Police) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Tuesday,textSpan=(291-298)]	-Disambiguation:(tid=54635, Title name=Tuesday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sixty-eight,textSpan=(303-314)]	-Disambiguation:(tid=234260, Title name=List_of_string_quartets_by_Joseph_Haydn) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pieces,textSpan=(315-321)]	-Disambiguation:(tid=47618, Title name=Chess_piece) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[luggage,textSpan=(325-332)]	-Disambiguation:(tid=979665, Title name=Baggage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[discovered,textSpan=(338-348)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Houston,textSpan=(354-361)]	-Disambiguation:(tid=13774, Title name=Houston) gold wikification:=Houston isCorrectPrediction=Correct
+*Entity:[pet,textSpan=(362-365)]	-Disambiguation:(tid=25079, Title name=Pet) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pet store,textSpan=(362-371)]	-Disambiguation:(tid=1478112, Title name=Pet_store) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[store,textSpan=(366-371)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[trash bin,textSpan=(374-383)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[trash,textSpan=(374-379)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bin,textSpan=(380-383)]	-Disambiguation:(tid=598785, Title name=BIN) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Dec.,textSpan=(387-391)]	-Disambiguation:(tid=8612, Title name=Declination) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[26,textSpan=(392-394)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Police,textSpan=(396-402)]	-Disambiguation:(tid=23627, Title name=Police) gold wikification:=List_of_United_States_state_and_local_law_enforcement_agencies isCorrectPrediction=Incorrect
+*Entity:[the luggage,textSpan=(408-419)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[luggage,textSpan=(412-419)]	-Disambiguation:(tid=979665, Title name=Baggage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[appeared,textSpan=(420-428)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[have been,textSpan=(432-441)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[picked,textSpan=(442-448)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Ninety,textSpan=(485-491)]	-Disambiguation:(tid=4199904, Title name=Ninety_(album)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pieces,textSpan=(497-503)]	-Disambiguation:(tid=47618, Title name=Chess_piece) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[stolen,textSpan=(507-513)]	-Disambiguation:(tid=31287, Title name=Theft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[luggage,textSpan=(514-521)]	-Disambiguation:(tid=979665, Title name=Baggage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[locations,textSpan=(552-561)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the weekend,textSpan=(567-578)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[weekend,textSpan=(571-578)]	-Disambiguation:(tid=2016347, Title name=Workweek_and_weekend) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Houston Police Capt. Rick Bownds,textSpan=(580-612)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Houston Police,textSpan=(580-594)]	-Disambiguation:(tid=2249807, Title name=Houston_Police_Department) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Houston Police Capt,textSpan=(580-599)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Houston,textSpan=(580-587)]	-Disambiguation:(tid=13774, Title name=Houston) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Police,textSpan=(588-594)]	-Disambiguation:(tid=2249807, Title name=Houston_Police_Department) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Capt.,textSpan=(595-600)]	-Disambiguation:(tid=166852, Title name=Captain) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Rick Bownds,textSpan=(601-612)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Rick,textSpan=(601-605)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Charged,textSpan=(622-629)]	-Disambiguation:(tid=6439, Title name=Charge) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[organized criminal,textSpan=(647-665)]	-Disambiguation:(tid=22625, Title name=Organized_crime) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[organized criminal activity,textSpan=(647-674)]	-Disambiguation:(tid=22625, Title name=Organized_crime) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[organized,textSpan=(647-656)]	-Disambiguation:(tid=22625, Title name=Organized_crime) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[criminal activity,textSpan=(657-674)]	-Disambiguation:(tid=5785, Title name=Crime) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[criminal,textSpan=(657-665)]	-Disambiguation:(tid=5785, Title name=Crime) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[activity,textSpan=(666-674)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[twin,textSpan=(680-684)]	-Disambiguation:(tid=79238, Title name=Twin) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[twin brothers,textSpan=(680-693)]	-Disambiguation:(tid=79238, Title name=Twin) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[brothers,textSpan=(685-693)]	-Disambiguation:(tid=352169, Title name=Sibling) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Manuel and Ricardo Aguilar,textSpan=(694-720)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Manuel,textSpan=(694-700)]	-Disambiguation:(tid=5284316, Title name=Manuel_(Fawlty_Towers)) gold wikification:=*null* isCorrectPrediction=Incorrect
+*Entity:[Ricardo,textSpan=(705-712)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Ricardo Aguilar,textSpan=(705-720)]	-Disambiguation:*null* gold wikification:=*null* isCorrectPrediction=Correct
+*Entity:[Aguilar,textSpan=(713-720)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[23,textSpan=(722-724)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Carlos,textSpan=(726-732)]	-Disambiguation:(tid=721264, Title name=Carlos_Manuel_Arana_Osorio) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Carlos Osorio,textSpan=(726-739)]	-Disambiguation:(tid=721264, Title name=Carlos_Manuel_Arana_Osorio) gold wikification:=Carlos_Manuel_Arana_Osorio isCorrectPrediction=Correct
+*Entity:[Osorio,textSpan=(733-739)]	-Disambiguation:(tid=721264, Title name=Carlos_Manuel_Arana_Osorio) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[24,textSpan=(741-743)]	-Disambiguation:(tid=68769, Title name=24_(TV_series)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Erick,textSpan=(745-750)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Erick Perez,textSpan=(745-756)]	-Disambiguation:*null* gold wikification:=*null* isCorrectPrediction=Correct
+*Entity:[Perez,textSpan=(751-756)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[29,textSpan=(758-760)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Daniel,textSpan=(766-772)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Daniel Venegas,textSpan=(766-780)]	-Disambiguation:*null* gold wikification:=*null* isCorrectPrediction=Correct
+*Entity:[Venegas,textSpan=(773-780)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[26,textSpan=(792-794)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[this week,textSpan=(795-804)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[week,textSpan=(800-804)]	-Disambiguation:(tid=33538, Title name=Week) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Aguilar,textSpan=(810-817)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[brothers,textSpan=(818-826)]	-Disambiguation:(tid=352169, Title name=Sibling) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Osorio,textSpan=(828-834)]	-Disambiguation:(tid=721264, Title name=Carlos_Manuel_Arana_Osorio) gold wikification:=Carlos_Manuel_Arana_Osorio isCorrectPrediction=Correct
+*Entity:[Osorio and Perez,textSpan=(828-844)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Perez,textSpan=(839-844)]	-Disambiguation:*null* gold wikification:=*null* isCorrectPrediction=Correct
+*Entity:[held,textSpan=(856-860)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Harris County Jail,textSpan=(868-886)]	-Disambiguation:*null* gold wikification:=*null* isCorrectPrediction=Correct
+*Entity:[Harris,textSpan=(868-874)]	-Disambiguation:(tid=91565, Title name=Harris_County,_Texas) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Harris County,textSpan=(868-881)]	-Disambiguation:(tid=91565, Title name=Harris_County,_Texas) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[County Jail,textSpan=(875-886)]	-Disambiguation:(tid=10819258, Title name=Prison) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[County,textSpan=(875-881)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jail,textSpan=(882-886)]	-Disambiguation:(tid=10819258, Title name=Prison) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[$20,000,textSpan=(890-897)]	-Disambiguation:(tid=3658264, Title name=$20,000) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bond,textSpan=(898-902)]	-Disambiguation:(tid=170652, Title name=Bail) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Information,textSpan=(904-915)]	-Disambiguation:(tid=15248, Title name=Information) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[available,textSpan=(924-933)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Venegas,textSpan=(938-945)]	-Disambiguation:*null* gold wikification:=*null* isCorrectPrediction=Correct
+*Entity:[It,textSpan=(950-952)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Tuesday,textSpan=(967-974)]	-Disambiguation:(tid=54635, Title name=Tuesday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the five,textSpan=(983-991)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[five men,textSpan=(987-995)]	-Disambiguation:(tid=2827829, Title name=Rossport_Five) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[men,textSpan=(992-995)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hired,textSpan=(1000-1005)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[attorneys,textSpan=(1006-1015)]	-Disambiguation:(tid=168902, Title name=Attorney_at_law) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bownds,textSpan=(1020-1026)]	-Disambiguation:*null* gold wikification:=*null* isCorrectPrediction=Correct
+*Entity:[the men,textSpan=(1032-1039)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[men,textSpan=(1036-1039)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Menzies Aviation,textSpan=(1051-1067)]	-Disambiguation:(tid=2053235, Title name=John_Menzies) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Menzies,textSpan=(1051-1058)]	-Disambiguation:(tid=25839, Title name=Robert_Menzies) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Menzies Aviation Group,textSpan=(1051-1073)]	-Disambiguation:*null* gold wikification:=*null* isCorrectPrediction=Correct
+*Entity:[Aviation Group,textSpan=(1059-1073)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Aviation,textSpan=(1059-1067)]	-Disambiguation:(tid=58422, Title name=Aviation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Group,textSpan=(1068-1073)]	-Disambiguation:(tid=808296, Title name=Group_(military_aviation_unit)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(1077-1084)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[baggage,textSpan=(1098-1105)]	-Disambiguation:(tid=979665, Title name=Baggage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flights,textSpan=(1121-1128)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the United States,textSpan=(1136-1153)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United States,textSpan=(1140-1153)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=United_States isCorrectPrediction=Correct
+*Entity:[United,textSpan=(1140-1146)]	-Disambiguation:(tid=32307, Title name=United_Airlines) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[States,textSpan=(1147-1153)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The company,textSpan=(1155-1166)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(1159-1166)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cooperating,textSpan=(1171-1182)]	-Disambiguation:(tid=511556, Title name=Cooperation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the investigation,textSpan=(1188-1205)]	-Disambiguation:(tid=174395, Title name=Lewinsky_scandal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[investigation,textSpan=(1192-1205)]	-Disambiguation:(tid=37297, Title name=Criminal_procedure) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[police,textSpan=(1207-1213)]	-Disambiguation:(tid=23627, Title name=Police) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[telephone,textSpan=(1225-1234)]	-Disambiguation:(tid=30003, Title name=Telephone) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[message,textSpan=(1235-1242)]	-Disambiguation:(tid=41367, Title name=Message) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the company,textSpan=(1253-1264)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(1257-1264)]	-Disambiguation:(tid=4918223, Title name=Company) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[London,textSpan=(1267-1273)]	-Disambiguation:(tid=17867, Title name=London) gold wikification:=London isCorrectPrediction=Correct
+*Entity:[London office,textSpan=(1267-1280)]	-Disambiguation:(tid=12926153, Title name=Foreign_relations_of_Northern_Cyprus) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[office,textSpan=(1274-1280)]	-Disambiguation:(tid=12926153, Title name=Foreign_relations_of_Northern_Cyprus) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[immediately,textSpan=(1289-1300)]	-Disambiguation:(tid=3658264, Title name=Immediately_(law)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[returned,textSpan=(1301-1309)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Tuesday,textSpan=(1310-1317)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[night,textSpan=(1318-1323)]	-Disambiguation:(tid=206119, Title name=Night) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Investigators,textSpan=(1328-1341)]	-Disambiguation:(tid=8632639, Title name=Air_Accident_Investigation_Unit) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airlines,textSpan=(1350-1358)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[trying,textSpan=(1364-1370)]	-Disambiguation:(tid=183290, Title name=Life_extension) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[determine,textSpan=(1374-1383)]	-Disambiguation:(tid=11345653, Title name=Sexing) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the owners,textSpan=(1384-1394)]	-Disambiguation:(tid=1137509, Title name=Danjaq) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[owners,textSpan=(1388-1394)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the bags,textSpan=(1398-1406)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bags,textSpan=(1402-1406)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[have been,textSpan=(1433-1442)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[stolen,textSpan=(1443-1449)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bownds,textSpan=(1451-1457)]	-Disambiguation:*null* gold wikification:=*null* isCorrectPrediction=Correct
+
+Output Explanation:
+Entity : 'Texas' start in text:13 end in text: 18; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airport' start in text:19 end in text: 26; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airport luggage' start in text:19 end in text: 34; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'luggage' start in text:27 end in text: 34; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'thefts' start in text:35 end in text: 41; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Workers' start in text:43 end in text: 50; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'baggage-handling' start in text:54 end in text: 70; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'firm' start in text:71 end in text: 75; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bags' start in text:90 end in text: 94; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pet' start in text:104 end in text: 107; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pet store' start in text:104 end in text: 113; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'store' start in text:108 end in text: 113; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bin' start in text:114 end in text: 117; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'HOUSTON' start in text:121 end in text: 128; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Five' start in text:131 end in text: 135; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'employees' start in text:136 end in text: 145; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'baggage-handling' start in text:151 end in text: 167; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'contractor' start in text:168 end in text: 178; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'have been' start in text:179 end in text: 188; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'charged' start in text:189 end in text: 196; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'thefts' start in text:204 end in text: 210; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '158' start in text:214 end in text: 217; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pieces' start in text:218 end in text: 224; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'luggage' start in text:228 end in text: 235; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'George Bush Intercontinental Airport' start in text:241 end in text: 277; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'George Bush Intercontinental' start in text:241 end in text: 269; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'George Bush' start in text:241 end in text: 252; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'George' start in text:241 end in text: 247; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bush Intercontinental' start in text:248 end in text: 269; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Bush Intercontinental Airport' start in text:248 end in text: 277; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bush' start in text:248 end in text: 252; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Intercontinental' start in text:253 end in text: 269; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Intercontinental Airport' start in text:253 end in text: 277; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Airport' start in text:270 end in text: 277; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'police' start in text:279 end in text: 285; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Tuesday' start in text:291 end in text: 298; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sixty-eight' start in text:303 end in text: 314; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pieces' start in text:315 end in text: 321; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'luggage' start in text:325 end in text: 332; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'discovered' start in text:338 end in text: 348; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Houston' start in text:354 end in text: 361; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pet' start in text:362 end in text: 365; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pet store' start in text:362 end in text: 371; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'store' start in text:366 end in text: 371; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'trash bin' start in text:374 end in text: 383; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'trash' start in text:374 end in text: 379; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bin' start in text:380 end in text: 383; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Dec.' start in text:387 end in text: 391; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '26' start in text:392 end in text: 394; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Police' start in text:396 end in text: 402; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the luggage' start in text:408 end in text: 419; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'luggage' start in text:412 end in text: 419; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'appeared' start in text:420 end in text: 428; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'have been' start in text:432 end in text: 441; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'picked' start in text:442 end in text: 448; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Ninety' start in text:485 end in text: 491; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pieces' start in text:497 end in text: 503; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'stolen' start in text:507 end in text: 513; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'luggage' start in text:514 end in text: 521; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'locations' start in text:552 end in text: 561; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the weekend' start in text:567 end in text: 578; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'weekend' start in text:571 end in text: 578; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Houston Police Capt. Rick Bownds' start in text:580 end in text: 612; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Houston Police' start in text:580 end in text: 594; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Houston Police Capt' start in text:580 end in text: 599; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Houston' start in text:580 end in text: 587; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Police' start in text:588 end in text: 594; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Capt.' start in text:595 end in text: 600; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Rick Bownds' start in text:601 end in text: 612; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Rick' start in text:601 end in text: 605; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Charged' start in text:622 end in text: 629; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'organized criminal' start in text:647 end in text: 665; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'organized criminal activity' start in text:647 end in text: 674; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'organized' start in text:647 end in text: 656; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'criminal activity' start in text:657 end in text: 674; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'criminal' start in text:657 end in text: 665; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'activity' start in text:666 end in text: 674; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'twin' start in text:680 end in text: 684; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'twin brothers' start in text:680 end in text: 693; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'brothers' start in text:685 end in text: 693; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Manuel and Ricardo Aguilar' start in text:694 end in text: 720; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Manuel' start in text:694 end in text: 700; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Ricardo' start in text:705 end in text: 712; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Ricardo Aguilar' start in text:705 end in text: 720; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Aguilar' start in text:713 end in text: 720; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '23' start in text:722 end in text: 724; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Carlos' start in text:726 end in text: 732; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Carlos Osorio' start in text:726 end in text: 739; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Osorio' start in text:733 end in text: 739; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '24' start in text:741 end in text: 743; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Erick' start in text:745 end in text: 750; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Erick Perez' start in text:745 end in text: 756; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Perez' start in text:751 end in text: 756; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '29' start in text:758 end in text: 760; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Daniel' start in text:766 end in text: 772; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Daniel Venegas' start in text:766 end in text: 780; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Venegas' start in text:773 end in text: 780; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : '26' start in text:792 end in text: 794; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'this week' start in text:795 end in text: 804; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'week' start in text:800 end in text: 804; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Aguilar' start in text:810 end in text: 817; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'brothers' start in text:818 end in text: 826; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Osorio' start in text:828 end in text: 834; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Osorio and Perez' start in text:828 end in text: 844; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Perez' start in text:839 end in text: 844; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'held' start in text:856 end in text: 860; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Harris County Jail' start in text:868 end in text: 886; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Harris' start in text:868 end in text: 874; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Harris County' start in text:868 end in text: 881; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'County Jail' start in text:875 end in text: 886; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'County' start in text:875 end in text: 881; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jail' start in text:882 end in text: 886; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '$20,000' start in text:890 end in text: 897; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'bond' start in text:898 end in text: 902; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Information' start in text:904 end in text: 915; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'available' start in text:924 end in text: 933; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Venegas' start in text:938 end in text: 945; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'It' start in text:950 end in text: 952; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Tuesday' start in text:967 end in text: 974; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the five' start in text:983 end in text: 991; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'five men' start in text:987 end in text: 995; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'men' start in text:992 end in text: 995; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hired' start in text:1000 end in text: 1005; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'attorneys' start in text:1006 end in text: 1015; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bownds' start in text:1020 end in text: 1026; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'the men' start in text:1032 end in text: 1039; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'men' start in text:1036 end in text: 1039; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Menzies Aviation' start in text:1051 end in text: 1067; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Menzies' start in text:1051 end in text: 1058; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Menzies Aviation Group' start in text:1051 end in text: 1073; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Aviation Group' start in text:1059 end in text: 1073; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Aviation' start in text:1059 end in text: 1067; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Group' start in text:1068 end in text: 1073; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:1077 end in text: 1084; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'baggage' start in text:1098 end in text: 1105; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flights' start in text:1121 end in text: 1128; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the United States' start in text:1136 end in text: 1153; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United States' start in text:1140 end in text: 1153; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United' start in text:1140 end in text: 1146; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'States' start in text:1147 end in text: 1153; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The company' start in text:1155 end in text: 1166; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:1159 end in text: 1166; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cooperating' start in text:1171 end in text: 1182; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the investigation' start in text:1188 end in text: 1205; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'investigation' start in text:1192 end in text: 1205; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'police' start in text:1207 end in text: 1213; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'telephone' start in text:1225 end in text: 1234; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'message' start in text:1235 end in text: 1242; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the company' start in text:1253 end in text: 1264; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:1257 end in text: 1264; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'London' start in text:1267 end in text: 1273; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'London office' start in text:1267 end in text: 1280; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'office' start in text:1274 end in text: 1280; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'immediately' start in text:1289 end in text: 1300; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'returned' start in text:1301 end in text: 1309; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Tuesday' start in text:1310 end in text: 1317; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'night' start in text:1318 end in text: 1323; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Investigators' start in text:1328 end in text: 1341; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airlines' start in text:1350 end in text: 1358; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'trying' start in text:1364 end in text: 1370; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'determine' start in text:1374 end in text: 1383; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the owners' start in text:1384 end in text: 1394; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'owners' start in text:1388 end in text: 1394; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the bags' start in text:1398 end in text: 1406; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'bags' start in text:1402 end in text: 1406; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'have been' start in text:1433 end in text: 1442; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'stolen' start in text:1443 end in text: 1449; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bownds' start in text:1451 end in text: 1457; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+

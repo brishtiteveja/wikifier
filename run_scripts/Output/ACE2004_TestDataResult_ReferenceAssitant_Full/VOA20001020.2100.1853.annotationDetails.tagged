@@ -1,0 +1,134 @@
+<ANNOTATION>
+  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">The US</a>   <b>navy</b> now says the  <a class="wiki" href="http://en.wikipedia.org/wiki/USS_Cole_(DDG-67)" cat="destroyer	ship">USS Cole</a>  was being refueled when an  <b>explosion</b> ripped through it in  <a class="wiki" href="http://en.wikipedia.org/wiki/Yemen" cat="country	dispute	state	republic">Yemen</a>  last week, killing 17. The revised  <b>accounting</b> of the incident was given in a navy statement  <b>Friday</b> raising new questions about how the small  <b>boat</b> carrying the explosives was able to get near the ship and set off the blast.  <br>
+</ANNOTATION>
+*Entity:[The US,textSpan=(1-7)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[US,textSpan=(5-7)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[US navy,textSpan=(5-12)]	-Disambiguation:(tid=32083, Title name=United_States_Navy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[navy,textSpan=(8-12)]	-Disambiguation:(tid=29484, Title name=Seabee) gold wikification:=United_States_Navy isCorrectPrediction=Incorrect
+*Entity:[USS,textSpan=(26-29)]	-Disambiguation:(tid=197334, Title name=USS_Cole_(DDG-67)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[USS Cole,textSpan=(26-34)]	-Disambiguation:(tid=197334, Title name=USS_Cole_(DDG-67)) gold wikification:=USS_COLE_(DDG-67) isCorrectPrediction=Incorrect
+*Entity:[Cole,textSpan=(30-34)]	-Disambiguation:(tid=197334, Title name=USS_Cole_(DDG-67)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[refueled,textSpan=(45-53)]	-Disambiguation:(tid=2589484, Title name=Underway_replenishment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[an explosion,textSpan=(59-71)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[explosion,textSpan=(62-71)]	-Disambiguation:(tid=158891, Title name=Explosion) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yemen,textSpan=(93-98)]	-Disambiguation:(tid=350939, Title name=Yemen) gold wikification:=Yemen isCorrectPrediction=Correct
+*Entity:[week,textSpan=(104-108)]	-Disambiguation:(tid=33538, Title name=Week) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[17,textSpan=(118-120)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[revised,textSpan=(126-133)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[accounting,textSpan=(134-144)]	-Disambiguation:(tid=2593, Title name=Accountancy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the incident,textSpan=(148-160)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[incident,textSpan=(152-160)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[given,textSpan=(165-170)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[navy,textSpan=(176-180)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[statement,textSpan=(181-190)]	-Disambiguation:(tid=41746, Title name=Statement) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Friday,textSpan=(191-197)]	-Disambiguation:(tid=54632, Title name=Friday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[questions,textSpan=(210-219)]	-Disambiguation:(tid=502038, Title name=Question) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[small boat,textSpan=(234-244)]	-Disambiguation:(tid=3996, Title name=Boat) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[small,textSpan=(234-239)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[boat,textSpan=(240-244)]	-Disambiguation:(tid=3996, Title name=Boat) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the explosives,textSpan=(254-268)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[explosives,textSpan=(258-268)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the ship,textSpan=(290-298)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ship,textSpan=(294-298)]	-Disambiguation:(tid=27008, Title name=Ship) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the blast,textSpan=(311-320)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[blast,textSpan=(315-320)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'The US' start in text:1 end in text: 7; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'US' start in text:5 end in text: 7; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'US navy' start in text:5 end in text: 12; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'navy' start in text:8 end in text: 12; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'USS' start in text:26 end in text: 29; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'USS Cole' start in text:26 end in text: 34; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cole' start in text:30 end in text: 34; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'refueled' start in text:45 end in text: 53; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'an explosion' start in text:59 end in text: 71; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'explosion' start in text:62 end in text: 71; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yemen' start in text:93 end in text: 98; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'week' start in text:104 end in text: 108; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '17' start in text:118 end in text: 120; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'revised' start in text:126 end in text: 133; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'accounting' start in text:134 end in text: 144; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the incident' start in text:148 end in text: 160; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'incident' start in text:152 end in text: 160; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'given' start in text:165 end in text: 170; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'navy' start in text:176 end in text: 180; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'statement' start in text:181 end in text: 190; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Friday' start in text:191 end in text: 197; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'questions' start in text:210 end in text: 219; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'small boat' start in text:234 end in text: 244; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'small' start in text:234 end in text: 239; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'boat' start in text:240 end in text: 244; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the explosives' start in text:254 end in text: 268; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'explosives' start in text:258 end in text: 268; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the ship' start in text:290 end in text: 298; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ship' start in text:294 end in text: 298; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the blast' start in text:311 end in text: 320; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'blast' start in text:315 end in text: 320; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

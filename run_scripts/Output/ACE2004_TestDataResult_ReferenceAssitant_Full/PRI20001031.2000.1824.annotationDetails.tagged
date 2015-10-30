@@ -1,0 +1,423 @@
+<ANNOTATION>
+ From  <a class="wiki" href="http://en.wikipedia.org/wiki/BBC_News" cat="establishment	services">BBC News</a>  in  <a class="wiki" href="http://en.wikipedia.org/wiki/London" cat="capital	port	city	place">London</a> , I am Gregor Craigy for  <b>The World</b>. A  <a class="wiki" href="http://en.wikipedia.org/wiki/Singapore_Airlines" cat="company	airline	member">Singapore Airlines</a>   <b>747</b> flying from  <a class="wiki" href="http://en.wikipedia.org/wiki/Taiwan" cat="dispute	island">Taiwan</a>  to Los Angeles has crashed.  <a class="wiki" href="http://en.wikipedia.org/wiki/Singapore_Airlines_Flight_006" cat="accident	airline">Flight SQ006</a>  was carrying 179 passengers and crew when it crashed in flames shortly after take off. At least 65 people are known to have been killed and around 30 passengers remain unaccounted for. David Chezan reports.    <a class="wiki" href="http://en.wikipedia.org/wiki/Survivors" cat="ending">Survivors</a>  from the  <a class="wiki" href="http://en.wikipedia.org/wiki/Singapore_Airlines" cat="company	airline	member">Singapore Airlines</a>  flight described how the  <b>plane</b> was taxing down the  <b>runway</b> when there was a loud  <b>noise</b> and the  <b>aircraft</b> split in two. An  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">American</a>   <b>passenger</b> said he had almost decided not to board the plane because of what he called unbelievable  <b>wind</b> and  <b>rain</b>.  <a class="wiki" href="http://en.wikipedia.org/wiki/Survivors" cat="ending">Survivors</a>  described how the  <b>tail section</b> turned over several times, leaving passengers hanging by their  <b>safety belts</b>, some were quickly engulfed by flames.  <a class="wiki" href="http://en.wikipedia.org/wiki/William_Whitaker_(pioneer)" cat="person	sheriff">One survivor</a>  described saying a man, as he put it, "lit up like a  <b>torch</b>." " <b>Flames</b> shot up right next to me and there was  <b>jet fuel</b> all over the place," he said. David Chezan, BBC News.  <br>
+</ANNOTATION>
+*Entity:[From BBC News in London, I,textSpan=(1-27)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[BBC,textSpan=(6-9)]	-Disambiguation:(tid=4347, Title name=BBC) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[BBC News,textSpan=(6-14)]	-Disambiguation:(tid=1139893, Title name=BBC_News) gold wikification:=BBC_News isCorrectPrediction=Correct
+*Entity:[BBC News in London, I,textSpan=(6-27)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[News,textSpan=(10-14)]	-Disambiguation:(tid=1139893, Title name=BBC_News) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[London,textSpan=(18-24)]	-Disambiguation:(tid=17867, Title name=London) gold wikification:=London isCorrectPrediction=Correct
+*Entity:[London, I,textSpan=(18-27)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[I,textSpan=(26-27)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gregor Craigy for The World,textSpan=(31-58)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gregor Craigy,textSpan=(31-44)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gregor,textSpan=(31-37)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The World,textSpan=(49-58)]	-Disambiguation:(tid=1957511, Title name=The_World_(radio_program)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[World,textSpan=(53-58)]	-Disambiguation:(tid=1957511, Title name=The_World_(radio_program)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Singapore,textSpan=(62-71)]	-Disambiguation:(tid=27318, Title name=Singapore) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Singapore Airlines,textSpan=(62-80)]	-Disambiguation:(tid=161591, Title name=Singapore_Airlines) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Airlines,textSpan=(72-80)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[747,textSpan=(81-84)]	-Disambiguation:(tid=4614, Title name=Boeing_747) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Taiwan,textSpan=(97-103)]	-Disambiguation:(tid=30107, Title name=Taiwan) gold wikification:=Taiwan isCorrectPrediction=Correct
+*Entity:[Los,textSpan=(107-110)]	-Disambiguation:(tid=4294768, Title name=Los_(Blake)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Los Angeles,textSpan=(107-118)]	-Disambiguation:*null* gold wikification:=Los_Angeles isCorrectPrediction=Incorrect
+*Entity:[Angeles,textSpan=(111-118)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[crashed,textSpan=(123-130)]	-Disambiguation:(tid=164536, Title name=Aviation_accidents_and_incidents) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Flight SQ006,textSpan=(132-144)]	-Disambiguation:(tid=1919848, Title name=Singapore_Airlines_Flight_006) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Flight,textSpan=(132-138)]	-Disambiguation:(tid=159472, Title name=Flight) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[SQ006,textSpan=(139-144)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[carrying,textSpan=(149-157)]	-Disambiguation:(tid=13549287, Title name=Carry) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[179,textSpan=(158-161)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[passengers,textSpan=(162-172)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[crew,textSpan=(177-181)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flames,textSpan=(201-207)]	-Disambiguation:(tid=11145, Title name=Fire) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[At,textSpan=(232-234)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[65,textSpan=(241-243)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[people,textSpan=(244-250)]	-Disambiguation:(tid=3488351, Title name=People) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[known,textSpan=(255-260)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[have been,textSpan=(264-273)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[have been killed,textSpan=(264-280)]	-Disambiguation:(tid=10005698, Title name=List_of_journalists_killed_in_Russia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[killed,textSpan=(274-280)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[30,textSpan=(292-294)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[passengers,textSpan=(295-305)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[David,textSpan=(330-335)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[David Chezan,textSpan=(330-342)]	-Disambiguation:*null* gold wikification:=*null* isCorrectPrediction=Correct
+*Entity:[Chezan,textSpan=(336-342)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Survivors,textSpan=(354-363)]	-Disambiguation:(tid=266446, Title name=Survivors) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Singapore Airlines,textSpan=(373-391)]	-Disambiguation:(tid=161591, Title name=Singapore_Airlines) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Singapore,textSpan=(373-382)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Airlines,textSpan=(383-391)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flight,textSpan=(392-398)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the plane,textSpan=(413-422)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plane,textSpan=(417-422)]	-Disambiguation:(tid=46770, Title name=Fixed-wing_aircraft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[taxing,textSpan=(427-433)]	-Disambiguation:(tid=30297, Title name=Tax) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[runway,textSpan=(443-449)]	-Disambiguation:(tid=165094, Title name=Runway) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[loud,textSpan=(467-471)]	-Disambiguation:(tid=229952, Title name=Loud) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[noise,textSpan=(472-477)]	-Disambiguation:(tid=41415, Title name=Noise) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[aircraft,textSpan=(486-494)]	-Disambiguation:(tid=849, Title name=Aircraft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[split,textSpan=(495-500)]	-Disambiguation:(tid=4902477, Title name=Split_album) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[An American,textSpan=(509-520)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[American,textSpan=(512-520)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[passenger,textSpan=(521-530)]	-Disambiguation:(tid=4582654, Title name=Passenger) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[decided,textSpan=(550-557)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[board,textSpan=(565-570)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the plane,textSpan=(571-580)]	-Disambiguation:(tid=84029, Title name=Plane_(geometry)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plane,textSpan=(575-580)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[unbelievable,textSpan=(607-619)]	-Disambiguation:(tid=2052891, Title name=Verisimilitude) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wind,textSpan=(620-624)]	-Disambiguation:(tid=15440316, Title name=Wind) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rain,textSpan=(629-633)]	-Disambiguation:(tid=26564, Title name=Rain) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Survivors,textSpan=(635-644)]	-Disambiguation:(tid=266446, Title name=Survivors) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tail,textSpan=(663-667)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tail section,textSpan=(663-675)]	-Disambiguation:(tid=1295963, Title name=Empennage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[section,textSpan=(668-675)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[several times,textSpan=(688-701)]	-Disambiguation:(tid=1105110, Title name=Jacobite_risings) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[times,textSpan=(696-701)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[passengers,textSpan=(711-721)]	-Disambiguation:(tid=4582654, Title name=Passenger) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[safety belts,textSpan=(739-751)]	-Disambiguation:(tid=51474, Title name=Seat_belt) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[safety,textSpan=(739-745)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[belts,textSpan=(746-751)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[quickly,textSpan=(763-770)]	-Disambiguation:(tid=4652, Title name=Blitzkrieg) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flames,textSpan=(783-789)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[One survivor,textSpan=(791-803)]	-Disambiguation:(tid=16838826, Title name=William_Whitaker_(pioneer)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[One,textSpan=(791-794)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[survivor,textSpan=(795-803)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[described,textSpan=(804-813)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[saying,textSpan=(814-820)]	-Disambiguation:(tid=3353015, Title name=Saying) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a man,textSpan=(821-826)]	-Disambiguation:(tid=1095706, Title name=Jesus) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[man,textSpan=(823-826)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[torch,textSpan=(857-862)]	-Disambiguation:(tid=30051, Title name=Torch) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Flames,textSpan=(866-872)]	-Disambiguation:(tid=73131, Title name=Calgary_Flames) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[right,textSpan=(881-886)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[jet,textSpan=(912-915)]	-Disambiguation:(tid=15944, Title name=Jet_engine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[jet fuel,textSpan=(912-920)]	-Disambiguation:(tid=1205435, Title name=Jet_fuel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fuel,textSpan=(916-920)]	-Disambiguation:(tid=10973, Title name=Fuel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the place,textSpan=(930-939)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[place,textSpan=(934-939)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[David Chezan,textSpan=(951-963)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[David,textSpan=(951-956)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[David Chezan, BBC News,textSpan=(951-973)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Chezan,textSpan=(957-963)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Chezan, BBC News,textSpan=(957-973)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[BBC News,textSpan=(965-973)]	-Disambiguation:(tid=1139893, Title name=BBC_News) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[BBC,textSpan=(965-968)]	-Disambiguation:(tid=4347, Title name=BBC) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[News,textSpan=(969-973)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'From BBC News in London, I' start in text:1 end in text: 27; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'BBC' start in text:6 end in text: 9; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'BBC News' start in text:6 end in text: 14; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'BBC News in London, I' start in text:6 end in text: 27; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'News' start in text:10 end in text: 14; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'London' start in text:18 end in text: 24; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'London, I' start in text:18 end in text: 27; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'I' start in text:26 end in text: 27; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Gregor Craigy for The World' start in text:31 end in text: 58; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Gregor Craigy' start in text:31 end in text: 44; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Gregor' start in text:31 end in text: 37; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The World' start in text:49 end in text: 58; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'World' start in text:53 end in text: 58; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Singapore' start in text:62 end in text: 71; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Singapore Airlines' start in text:62 end in text: 80; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Airlines' start in text:72 end in text: 80; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '747' start in text:81 end in text: 84; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Taiwan' start in text:97 end in text: 103; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Los' start in text:107 end in text: 110; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Los Angeles' start in text:107 end in text: 118; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Angeles' start in text:111 end in text: 118; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'crashed' start in text:123 end in text: 130; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Flight SQ006' start in text:132 end in text: 144; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Flight' start in text:132 end in text: 138; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'SQ006' start in text:139 end in text: 144; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'carrying' start in text:149 end in text: 157; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '179' start in text:158 end in text: 161; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'passengers' start in text:162 end in text: 172; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'crew' start in text:177 end in text: 181; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flames' start in text:201 end in text: 207; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'At' start in text:232 end in text: 234; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '65' start in text:241 end in text: 243; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'people' start in text:244 end in text: 250; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'known' start in text:255 end in text: 260; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'have been' start in text:264 end in text: 273; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'have been killed' start in text:264 end in text: 280; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'killed' start in text:274 end in text: 280; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '30' start in text:292 end in text: 294; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'passengers' start in text:295 end in text: 305; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'David' start in text:330 end in text: 335; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'David Chezan' start in text:330 end in text: 342; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Chezan' start in text:336 end in text: 342; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Survivors' start in text:354 end in text: 363; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Singapore Airlines' start in text:373 end in text: 391; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Singapore' start in text:373 end in text: 382; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Airlines' start in text:383 end in text: 391; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flight' start in text:392 end in text: 398; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the plane' start in text:413 end in text: 422; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plane' start in text:417 end in text: 422; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'taxing' start in text:427 end in text: 433; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'runway' start in text:443 end in text: 449; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'loud' start in text:467 end in text: 471; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'noise' start in text:472 end in text: 477; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'aircraft' start in text:486 end in text: 494; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'split' start in text:495 end in text: 500; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'An American' start in text:509 end in text: 520; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'American' start in text:512 end in text: 520; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'passenger' start in text:521 end in text: 530; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'decided' start in text:550 end in text: 557; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'board' start in text:565 end in text: 570; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the plane' start in text:571 end in text: 580; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plane' start in text:575 end in text: 580; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'unbelievable' start in text:607 end in text: 619; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wind' start in text:620 end in text: 624; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rain' start in text:629 end in text: 633; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Survivors' start in text:635 end in text: 644; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tail' start in text:663 end in text: 667; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tail section' start in text:663 end in text: 675; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'section' start in text:668 end in text: 675; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'several times' start in text:688 end in text: 701; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'times' start in text:696 end in text: 701; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'passengers' start in text:711 end in text: 721; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'safety belts' start in text:739 end in text: 751; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'safety' start in text:739 end in text: 745; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'belts' start in text:746 end in text: 751; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'quickly' start in text:763 end in text: 770; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flames' start in text:783 end in text: 789; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'One survivor' start in text:791 end in text: 803; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'One' start in text:791 end in text: 794; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'survivor' start in text:795 end in text: 803; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'described' start in text:804 end in text: 813; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'saying' start in text:814 end in text: 820; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a man' start in text:821 end in text: 826; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'man' start in text:823 end in text: 826; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'torch' start in text:857 end in text: 862; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Flames' start in text:866 end in text: 872; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'right' start in text:881 end in text: 886; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'jet' start in text:912 end in text: 915; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'jet fuel' start in text:912 end in text: 920; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fuel' start in text:916 end in text: 920; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the place' start in text:930 end in text: 939; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'place' start in text:934 end in text: 939; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'David Chezan' start in text:951 end in text: 963; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'David' start in text:951 end in text: 956; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'David Chezan, BBC News' start in text:951 end in text: 973; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Chezan' start in text:957 end in text: 963; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Chezan, BBC News' start in text:957 end in text: 973; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'BBC News' start in text:965 end in text: 973; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'BBC' start in text:965 end in text: 968; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'News' start in text:969 end in text: 973; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

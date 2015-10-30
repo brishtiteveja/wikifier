@@ -1,0 +1,520 @@
+<ANNOTATION>
+ <a class="wiki" href="http://en.wikipedia.org/wiki/Israel" cat="republic	country	state	words">Israel</a>  increases   <b>security</b>   at  <b>airports</b> following threats<br><br>   <a class="wiki" href="http://en.wikipedia.org/wiki/Israel" cat="republic	country	state	words">Israel</a>    is adding security personnel at its  international airport   in response to threats by   <a class="wiki" href="http://en.wikipedia.org/wiki/Islamic_terrorism" cat="controversy">Islamic militants</a>    to attack  <a class="wiki" href="http://en.wikipedia.org/wiki/Israelis" cat="person">Israeli</a>  and  U.S.   targets, including  <b>airlines</b>, officials said Monday. <br><br> Prime Minister   <a class="wiki" href="http://en.wikipedia.org/wiki/Benjamin_Netanyahu" cat="jew	leaders	member	person	politician	alumnus	representative	minister">Benjamin Netanyahu</a>   's  <b>senior adviser</b>,   <a class="wiki" href="http://en.wikipedia.org/wiki/David_Bar-Illan" cat="musician	person">David Bar-Illan</a>   , said  <a class="wiki" href="http://en.wikipedia.org/wiki/Israel" cat="republic	country	state	words">Israel</a>  would use all measures it deemed necessary to fight  terrorism  . <br><br> Asked whether this included   <b>pre-emptive strikes</b>  ,  <a class="wiki" href="http://en.wikipedia.org/wiki/David_Bar-Illan" cat="musician	person">Bar-Illan</a>  told The Associated Press: "I don't  <b>want to</b> be specific about anything but obviously we are not ruling out anything.'' <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Threat" cat="">Threats</a>  against  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">U.S.</a>  and Israeli targets emerged after last week's  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">U.S.</a>    <b>air strikes</b>   in   <a class="wiki" href="http://en.wikipedia.org/wiki/Sudan" cat="person	poet">Sudan</a>    and   <a class="wiki" href="http://en.wikipedia.org/wiki/Afghanistan" cat="country	territory	dispute	republic	state">Afghanistan</a>    that were aimed at   <a class="wiki" href="http://en.wikipedia.org/wiki/Osama_bin_Laden" cat="founder	propagandist	fugitive	person	attack	engineer	member">Osama bin Laden</a>   , a   <a class="wiki" href="http://en.wikipedia.org/wiki/Saudi_Arabia" cat="country	state	nation">Saudi</a>    millionaire and  <a class="wiki" href="http://en.wikipedia.org/wiki/Islamic_terrorism" cat="controversy">Islamic militant</a>  linked to the  <b>bombings</b> of two  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">U.S.</a>   embassies   in   <a class="wiki" href="http://en.wikipedia.org/wiki/East_Africa" cat="">East Africa</a>    this month. <br><br> On Sunday, a leading  Muslim     <b>activist</b>   close to  <a class="wiki" href="http://en.wikipedia.org/wiki/Osama_bin_Laden" cat="founder	propagandist	fugitive	person	attack	engineer	member">bin Laden</a>  said  <a class="wiki" href="http://en.wikipedia.org/wiki/Islamic_terrorism" cat="controversy">Islamic militants</a>  are preparing to retaliate for the  <b>air</b> strikes by targeting U.S. and  <a class="wiki" href="http://en.wikipedia.org/wiki/Israelis" cat="person">Israeli</a>   strategic   sites and airliners. <br><br> A  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States_men's_national_basketball_team" cat="game">U.S. basketball</a>  team from the   <a class="wiki" href="http://en.wikipedia.org/wiki/University_of_Connecticut" cat="university	institution	school">University of Connecticut</a>   , which arrived Monday for a nine-day tour of friendly games, hired two private   <b>security guards</b>   to accompany them in  <a class="wiki" href="http://en.wikipedia.org/wiki/Israel" cat="republic	country	state	words">Israel</a> . <br><br> "The   <b>administration</b>   of the  <a class="wiki" href="http://en.wikipedia.org/wiki/University_of_Connecticut" cat="university	institution	school">University of Connecticut</a>  demanded bodyguards and we readily agreed,'' said the teams'   <b>tour operator</b>  Nels Hawkinson. "Had it not been for the bombings in  <a class="wiki" href="http://en.wikipedia.org/wiki/Afghanistan" cat="country	territory	dispute	republic	state">Afghanistan</a>  and  <a class="wiki" href="http://en.wikipedia.org/wiki/Sudan" cat="person	poet">Sudan</a>  we would not have seen the need,'' he said. <br><br> Pini Shis, 6th graf pvs dl <br><br>
+</ANNOTATION>
+*Entity:[Israel,textSpan=(0-9)]	-Disambiguation:(tid=9282173, Title name=Israel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[security,textSpan=(21-29)]	-Disambiguation:(tid=315904, Title name=Israeli_security_forces) gold wikification:=Security isCorrectPrediction=Incorrect
+*Entity:[airports,textSpan=(35-43)]	-Disambiguation:(tid=284770, Title name=Airport_security) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[threats,textSpan=(54-61)]	-Disambiguation:(tid=720630, Title name=Self-defence_in_international_law) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israel,textSpan=(65-71)]	-Disambiguation:(tid=9282173, Title name=Israel) gold wikification:=Israel isCorrectPrediction=Correct
+*Entity:[adding,textSpan=(77-83)]	-Disambiguation:(tid=61338, Title name=Addition) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[security,textSpan=(84-92)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[security personnel,textSpan=(84-102)]	-Disambiguation:(tid=62126, Title name=Security_guard) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[personnel,textSpan=(93-102)]	-Disambiguation:(tid=46053, Title name=Human_resources) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[international airport,textSpan=(111-132)]	-Disambiguation:*null* gold wikification:=International_airport isCorrectPrediction=Incorrect
+*Entity:[response,textSpan=(138-146)]	-Disambiguation:(tid=41661, Title name=Response) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[threats,textSpan=(150-157)]	-Disambiguation:(tid=720630, Title name=Self-defence_in_international_law) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Islamic,textSpan=(162-169)]	-Disambiguation:(tid=15012, Title name=Islamism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Islamic militants,textSpan=(162-179)]	-Disambiguation:(tid=566821, Title name=Islamic_terrorism) gold wikification:=Islamic_terrorism isCorrectPrediction=Correct
+*Entity:[militants,textSpan=(170-179)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[attack,textSpan=(185-191)]	-Disambiguation:(tid=5058690, Title name=September_11_attacks) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli and U.S.,textSpan=(192-209)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli,textSpan=(192-199)]	-Disambiguation:(tid=181296, Title name=Israelis) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[U.S.,textSpan=(205-209)]	-Disambiguation:*null* gold wikification:=United_States isCorrectPrediction=Incorrect
+*Entity:[airlines,textSpan=(231-239)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[officials,textSpan=(241-250)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Monday,textSpan=(256-262)]	-Disambiguation:(tid=54406, Title name=Monday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Prime Minister Benjamin Netanyahu,textSpan=(267-301)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Minister Benjamin Netanyahu,textSpan=(273-301)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Benjamin Netanyahu,textSpan=(283-301)]	-Disambiguation:(tid=56472, Title name=Benjamin_Netanyahu) gold wikification:=Benjamin_Netanyahu isCorrectPrediction=Correct
+*Entity:[senior adviser,textSpan=(306-320)]	-Disambiguation:(tid=2930513, Title name=Senior_Advisor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[senior,textSpan=(306-312)]	-Disambiguation:(tid=1066040, Title name=Twelfth_grade) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[adviser,textSpan=(313-320)]	-Disambiguation:(tid=12466673, Title name=Advisor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[David Bar-Illan,textSpan=(323-338)]	-Disambiguation:(tid=4727236, Title name=David_Bar-Illan) gold wikification:=David_Bar-Illan isCorrectPrediction=Correct
+*Entity:[David,textSpan=(323-328)]	-Disambiguation:(tid=4727236, Title name=David_Bar-Illan) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israel,textSpan=(347-353)]	-Disambiguation:(tid=9282173, Title name=Israel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[measures,textSpan=(368-376)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fight,textSpan=(400-405)]	-Disambiguation:(tid=43702, Title name=Combat) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[terrorism,textSpan=(407-416)]	-Disambiguation:*null* gold wikification:=Terrorism isCorrectPrediction=Incorrect
+*Entity:[pre-emptive strikes,textSpan=(452-471)]	-Disambiguation:(tid=7148435, Title name=Operation_Chengiz_Khan) gold wikification:=Preemptive_war isCorrectPrediction=Incorrect
+*Entity:[pre-emptive,textSpan=(452-463)]	-Disambiguation:(tid=384984, Title name=Preemptive_war) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[strikes,textSpan=(464-471)]	-Disambiguation:(tid=155134, Title name=Strike_action) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bar-Illan,textSpan=(475-484)]	-Disambiguation:(tid=4727236, Title name=David_Bar-Illan) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[I,textSpan=(513-514)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[want,textSpan=(521-525)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[want to,textSpan=(521-528)]	-Disambiguation:(tid=3343584, Title name=Want) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[to be,textSpan=(526-531)]	-Disambiguation:(tid=5630, Title name=Copula) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ruling,textSpan=(581-587)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Threats,textSpan=(607-614)]	-Disambiguation:(tid=13341876, Title name=Threat) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[S. and Israeli,textSpan=(625-639)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[U.S. and Israeli,textSpan=(623-639)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[U.S.,textSpan=(623-627)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli,textSpan=(632-639)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[targets,textSpan=(640-647)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[week,textSpan=(667-671)]	-Disambiguation:(tid=33538, Title name=Week) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[U.S.,textSpan=(674-678)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[air strikes,textSpan=(680-691)]	-Disambiguation:(tid=323167, Title name=Airstrike) gold wikification:=Airstrike isCorrectPrediction=Correct
+*Entity:[Sudan and Afghanistan,textSpan=(698-722)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sudan,textSpan=(698-703)]	-Disambiguation:(tid=27421, Title name=Sudan) gold wikification:=Sudan isCorrectPrediction=Correct
+*Entity:[Afghanistan,textSpan=(711-722)]	-Disambiguation:(tid=737, Title name=Afghanistan) gold wikification:=Afghanistan isCorrectPrediction=Correct
+*Entity:[Osama,textSpan=(745-750)]	-Disambiguation:(tid=22468, Title name=Osama_bin_Laden) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Osama bin Laden,textSpan=(745-760)]	-Disambiguation:(tid=22468, Title name=Osama_bin_Laden) gold wikification:=Osama_bin_Laden isCorrectPrediction=Correct
+*Entity:[bin,textSpan=(751-754)]	-Disambiguation:(tid=22468, Title name=Osama_bin_Laden) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Laden,textSpan=(755-760)]	-Disambiguation:(tid=22468, Title name=Osama_bin_Laden) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saudi,textSpan=(767-772)]	-Disambiguation:(tid=349303, Title name=Saudi_Arabia) gold wikification:=Saudi_Arabia isCorrectPrediction=Correct
+*Entity:[Islamic militant,textSpan=(791-807)]	-Disambiguation:(tid=566821, Title name=Islamic_terrorism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Islamic,textSpan=(791-798)]	-Disambiguation:(tid=15012, Title name=Islamism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[militant,textSpan=(799-807)]	-Disambiguation:(tid=566821, Title name=Islamic_terrorism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bombings,textSpan=(822-830)]	-Disambiguation:(tid=10078354, Title name=1998_United_States_embassy_bombings) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[U.S.,textSpan=(838-842)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[embassies,textSpan=(844-853)]	-Disambiguation:*null* gold wikification:=Diplomatic_mission isCorrectPrediction=Incorrect
+*Entity:[East Africa,textSpan=(860-871)]	-Disambiguation:(tid=260987, Title name=East_Africa) gold wikification:=East_Africa isCorrectPrediction=Correct
+*Entity:[East,textSpan=(860-864)]	-Disambiguation:(tid=260987, Title name=East_Africa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Africa,textSpan=(865-871)]	-Disambiguation:(tid=260987, Title name=East_Africa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[month,textSpan=(879-884)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sunday,textSpan=(892-898)]	-Disambiguation:(tid=54407, Title name=Sunday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Muslim,textSpan=(911-917)]	-Disambiguation:*null* gold wikification:=Muslim isCorrectPrediction=Incorrect
+*Entity:[activist,textSpan=(921-929)]	-Disambiguation:(tid=2242, Title name=Activism) gold wikification:=Activism isCorrectPrediction=Correct
+*Entity:[bin,textSpan=(941-944)]	-Disambiguation:(tid=22468, Title name=Osama_bin_Laden) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bin Laden,textSpan=(941-950)]	-Disambiguation:(tid=22468, Title name=Osama_bin_Laden) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Laden,textSpan=(945-950)]	-Disambiguation:(tid=22468, Title name=Osama_bin_Laden) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Islamic,textSpan=(956-963)]	-Disambiguation:(tid=15012, Title name=Islamism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Islamic militants,textSpan=(956-973)]	-Disambiguation:(tid=566821, Title name=Islamic_terrorism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[militants,textSpan=(964-973)]	-Disambiguation:(tid=566821, Title name=Islamic_terrorism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[retaliate,textSpan=(991-1000)]	-Disambiguation:(tid=181361, Title name=Revenge) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[air,textSpan=(1009-1012)]	-Disambiguation:(tid=202898, Title name=Atmosphere_of_Earth) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[S. and Israeli,textSpan=(1036-1050)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[U.S. and Israeli,textSpan=(1034-1050)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[U.S.,textSpan=(1034-1038)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli,textSpan=(1043-1050)]	-Disambiguation:(tid=181296, Title name=Israelis) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[strategic,textSpan=(1052-1061)]	-Disambiguation:*null* gold wikification:=Strategy isCorrectPrediction=Incorrect
+*Entity:[U.S.,textSpan=(1090-1094)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[U.S. basketball,textSpan=(1090-1105)]	-Disambiguation:(tid=89611, Title name=United_States_men's_national_basketball_team) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[basketball,textSpan=(1095-1105)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[basketball team,textSpan=(1095-1110)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[team,textSpan=(1106-1110)]	-Disambiguation:(tid=140801, Title name=Team) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[University of Connecticut,textSpan=(1121-1146)]	-Disambiguation:(tid=239846, Title name=University_of_Connecticut) gold wikification:=University_of_Connecticut isCorrectPrediction=Correct
+*Entity:[Connecticut,textSpan=(1135-1146)]	-Disambiguation:(tid=6466, Title name=Connecticut) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Monday,textSpan=(1164-1170)]	-Disambiguation:(tid=54406, Title name=Monday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tour,textSpan=(1186-1190)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[friendly,textSpan=(1194-1202)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[friendly games,textSpan=(1194-1208)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[games,textSpan=(1203-1208)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[security guards,textSpan=(1229-1244)]	-Disambiguation:(tid=62126, Title name=Security_guard) gold wikification:=Security_guard isCorrectPrediction=Correct
+*Entity:[accompany,textSpan=(1250-1259)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israel,textSpan=(1268-1274)]	-Disambiguation:(tid=9282173, Title name=Israel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[administration,textSpan=(1285-1299)]	-Disambiguation:(tid=361745, Title name=Presidency_of_Bill_Clinton) gold wikification:=Academic_administration isCorrectPrediction=Incorrect
+*Entity:[the University,textSpan=(1305-1319)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[University of Connecticut,textSpan=(1309-1334)]	-Disambiguation:(tid=239846, Title name=University_of_Connecticut) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[University,textSpan=(1309-1319)]	-Disambiguation:(tid=239846, Title name=University_of_Connecticut) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Connecticut,textSpan=(1323-1334)]	-Disambiguation:(tid=6466, Title name=Connecticut) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tour operator,textSpan=(1397-1410)]	-Disambiguation:(tid=1114504, Title name=Tour_operator) gold wikification:=Tour_operator isCorrectPrediction=Correct
+*Entity:[Nels Hawkinson,textSpan=(1412-1426)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bombings,textSpan=(1453-1461)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Afghanistan and Sudan,textSpan=(1465-1486)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Afghanistan,textSpan=(1465-1476)]	-Disambiguation:(tid=737, Title name=Afghanistan) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sudan,textSpan=(1481-1486)]	-Disambiguation:(tid=27421, Title name=Sudan) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[seen,textSpan=(1505-1509)]	-Disambiguation:(tid=241675, Title name=Visual_perception) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the need,textSpan=(1510-1518)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[need,textSpan=(1514-1518)]	-Disambiguation:(tid=622545, Title name=Need) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Pini Shis,textSpan=(1534-1543)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Pini,textSpan=(1534-1538)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Shis,textSpan=(1539-1543)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[6th,textSpan=(1545-1548)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[graf,textSpan=(1549-1553)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pvs,textSpan=(1554-1557)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dl,textSpan=(1558-1560)]	-Disambiguation:(tid=18094, Title name=Litre) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Israel' start in text:0 end in text: 9; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'security' start in text:21 end in text: 29; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airports' start in text:35 end in text: 43; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'threats' start in text:54 end in text: 61; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israel' start in text:65 end in text: 71; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'adding' start in text:77 end in text: 83; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'security' start in text:84 end in text: 92; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'security personnel' start in text:84 end in text: 102; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'personnel' start in text:93 end in text: 102; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'international airport' start in text:111 end in text: 132; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'response' start in text:138 end in text: 146; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'threats' start in text:150 end in text: 157; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Islamic' start in text:162 end in text: 169; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Islamic militants' start in text:162 end in text: 179; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'militants' start in text:170 end in text: 179; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'attack' start in text:185 end in text: 191; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israeli and U.S.' start in text:192 end in text: 209; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Israeli' start in text:192 end in text: 199; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'U.S.' start in text:205 end in text: 209; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airlines' start in text:231 end in text: 239; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'officials' start in text:241 end in text: 250; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Monday' start in text:256 end in text: 262; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Prime Minister Benjamin Netanyahu' start in text:267 end in text: 301; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Minister Benjamin Netanyahu' start in text:273 end in text: 301; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Benjamin Netanyahu' start in text:283 end in text: 301; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'senior adviser' start in text:306 end in text: 320; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'senior' start in text:306 end in text: 312; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'adviser' start in text:313 end in text: 320; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'David Bar-Illan' start in text:323 end in text: 338; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'David' start in text:323 end in text: 328; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israel' start in text:347 end in text: 353; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'measures' start in text:368 end in text: 376; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fight' start in text:400 end in text: 405; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'terrorism' start in text:407 end in text: 416; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pre-emptive strikes' start in text:452 end in text: 471; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pre-emptive' start in text:452 end in text: 463; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'strikes' start in text:464 end in text: 471; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bar-Illan' start in text:475 end in text: 484; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'I' start in text:513 end in text: 514; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'want' start in text:521 end in text: 525; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'want to' start in text:521 end in text: 528; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'to be' start in text:526 end in text: 531; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ruling' start in text:581 end in text: 587; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Threats' start in text:607 end in text: 614; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'S. and Israeli' start in text:625 end in text: 639; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'U.S. and Israeli' start in text:623 end in text: 639; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'U.S.' start in text:623 end in text: 627; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israeli' start in text:632 end in text: 639; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'targets' start in text:640 end in text: 647; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'week' start in text:667 end in text: 671; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'U.S.' start in text:674 end in text: 678; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'air strikes' start in text:680 end in text: 691; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sudan and Afghanistan' start in text:698 end in text: 722; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Sudan' start in text:698 end in text: 703; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Afghanistan' start in text:711 end in text: 722; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Osama' start in text:745 end in text: 750; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Osama bin Laden' start in text:745 end in text: 760; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bin' start in text:751 end in text: 754; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Laden' start in text:755 end in text: 760; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Saudi' start in text:767 end in text: 772; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Islamic militant' start in text:791 end in text: 807; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Islamic' start in text:791 end in text: 798; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'militant' start in text:799 end in text: 807; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bombings' start in text:822 end in text: 830; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'U.S.' start in text:838 end in text: 842; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'embassies' start in text:844 end in text: 853; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'East Africa' start in text:860 end in text: 871; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'East' start in text:860 end in text: 864; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Africa' start in text:865 end in text: 871; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'month' start in text:879 end in text: 884; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sunday' start in text:892 end in text: 898; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Muslim' start in text:911 end in text: 917; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'activist' start in text:921 end in text: 929; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bin' start in text:941 end in text: 944; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bin Laden' start in text:941 end in text: 950; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Laden' start in text:945 end in text: 950; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Islamic' start in text:956 end in text: 963; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Islamic militants' start in text:956 end in text: 973; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'militants' start in text:964 end in text: 973; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'retaliate' start in text:991 end in text: 1000; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'air' start in text:1009 end in text: 1012; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'S. and Israeli' start in text:1036 end in text: 1050; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'U.S. and Israeli' start in text:1034 end in text: 1050; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'U.S.' start in text:1034 end in text: 1038; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israeli' start in text:1043 end in text: 1050; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'strategic' start in text:1052 end in text: 1061; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'U.S.' start in text:1090 end in text: 1094; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'U.S. basketball' start in text:1090 end in text: 1105; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'basketball' start in text:1095 end in text: 1105; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'basketball team' start in text:1095 end in text: 1110; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'team' start in text:1106 end in text: 1110; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'University of Connecticut' start in text:1121 end in text: 1146; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Connecticut' start in text:1135 end in text: 1146; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Monday' start in text:1164 end in text: 1170; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tour' start in text:1186 end in text: 1190; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'friendly' start in text:1194 end in text: 1202; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'friendly games' start in text:1194 end in text: 1208; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'games' start in text:1203 end in text: 1208; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'security guards' start in text:1229 end in text: 1244; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'accompany' start in text:1250 end in text: 1259; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israel' start in text:1268 end in text: 1274; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'administration' start in text:1285 end in text: 1299; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the University' start in text:1305 end in text: 1319; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'University of Connecticut' start in text:1309 end in text: 1334; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'University' start in text:1309 end in text: 1319; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Connecticut' start in text:1323 end in text: 1334; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tour operator' start in text:1397 end in text: 1410; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Nels Hawkinson' start in text:1412 end in text: 1426; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'bombings' start in text:1453 end in text: 1461; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Afghanistan and Sudan' start in text:1465 end in text: 1486; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Afghanistan' start in text:1465 end in text: 1476; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sudan' start in text:1481 end in text: 1486; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'seen' start in text:1505 end in text: 1509; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the need' start in text:1510 end in text: 1518; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'need' start in text:1514 end in text: 1518; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Pini Shis' start in text:1534 end in text: 1543; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Pini' start in text:1534 end in text: 1538; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Shis' start in text:1539 end in text: 1543; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : '6th' start in text:1545 end in text: 1548; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'graf' start in text:1549 end in text: 1553; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pvs' start in text:1554 end in text: 1557; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'dl' start in text:1558 end in text: 1560; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

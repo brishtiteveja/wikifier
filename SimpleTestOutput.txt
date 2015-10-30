@@ -1,0 +1,269 @@
+Params:[-annotateData, data/testSample/sampleText/test.txt, data/testSample/sampleOutput/, false, configs/STAND_ALONE_NO_INFERENCE.xml]
+Usage: either
+	$java ReferenceAssistant -trainSvmModelsOnly <pathToConfigFile>
+or
+	$java ReferenceAssistant -buildTrainingDataAndTrain <pathToProblems> <pathToRawTexts> <pathToConfigFile>
+or
+	$java ReferenceAssistant -annotateData <inputPath> <outputPath> <generateFeatureDumps>  <pathToConfigFile> 
+or
+	$java ReferenceAssistant -referenceAssistant <pathToProblemFileOrFolder> <pathToRawTextFilesFolder> <pathToExplanations>  <pathToConfigFile> 
+Creating wordnet dictionary from data/WordNet/...
+Dictionary opened.
+----------------->Bypassing the curator!
+Loading the most recent redirect pages from Wikipedia to normalize the output links to the latest version
+Done  - Loading the most recent redirect pages from Wikipedia to normalize the output links to the latest version
+Consructing wikipedia summary from a proto buffer
+Done - consructing wikipedia summary from a proto buffer
+Opening the index for the complete index interface
+Prefetching the basic information about the wikipedia articles
+0 titles processed out of 2478573
+50000 titles processed out of 2478573
+100000 titles processed out of 2478573
+150000 titles processed out of 2478573
+200000 titles processed out of 2478573
+250000 titles processed out of 2478573
+300000 titles processed out of 2478573
+350000 titles processed out of 2478573
+400000 titles processed out of 2478573
+450000 titles processed out of 2478573
+500000 titles processed out of 2478573
+550000 titles processed out of 2478573
+600000 titles processed out of 2478573
+650000 titles processed out of 2478573
+700000 titles processed out of 2478573
+750000 titles processed out of 2478573
+800000 titles processed out of 2478573
+850000 titles processed out of 2478573
+900000 titles processed out of 2478573
+950000 titles processed out of 2478573
+1000000 titles processed out of 2478573
+1050000 titles processed out of 2478573
+1100000 titles processed out of 2478573
+1150000 titles processed out of 2478573
+1200000 titles processed out of 2478573
+1250000 titles processed out of 2478573
+1300000 titles processed out of 2478573
+1350000 titles processed out of 2478573
+1400000 titles processed out of 2478573
+1450000 titles processed out of 2478573
+1500000 titles processed out of 2478573
+1550000 titles processed out of 2478573
+1600000 titles processed out of 2478573
+1650000 titles processed out of 2478573
+1700000 titles processed out of 2478573
+1750000 titles processed out of 2478573
+1800000 titles processed out of 2478573
+1850000 titles processed out of 2478573
+1900000 titles processed out of 2478573
+1950000 titles processed out of 2478573
+2000000 titles processed out of 2478573
+2050000 titles processed out of 2478573
+2100000 titles processed out of 2478573
+2150000 titles processed out of 2478573
+2200000 titles processed out of 2478573
+2250000 titles processed out of 2478573
+2300000 titles processed out of 2478573
+2350000 titles processed out of 2478573
+2400000 titles processed out of 2478573
+2450000 titles processed out of 2478573
+Actual capacities:
+TitleEssentialData:6584983
+Loaded 2478573 nonNormalizedTitles
+Done prefetching the basic data about 2478573 Wikipedia articles
+Loading information about surface form to title id mappings
+1 surface forms is linkable out of 0. There are 4045674  surface forms total; last surface form read: Lord of Coucy
+97517 surface forms is linkable out of 100000. There are 4045674  surface forms total; last surface form read: Casino, New South Wales
+194898 surface forms is linkable out of 200000. There are 4045674  surface forms total; last surface form read: St. Dominic’s Church
+292403 surface forms is linkable out of 300000. There are 4045674  surface forms total; last surface form read: GATT
+389929 surface forms is linkable out of 400000. There are 4045674  surface forms total; last surface form read: Beotia
+487517 surface forms is linkable out of 500000. There are 4045674  surface forms total; last surface form read: Heartbreaker
+584941 surface forms is linkable out of 600000. There are 4045674  surface forms total; last surface form read: The White Dove
+682530 surface forms is linkable out of 700000. There are 4045674  surface forms total; last surface form read: Polish league's
+780024 surface forms is linkable out of 800000. There are 4045674  surface forms total; last surface form read: G.Beck
+877578 surface forms is linkable out of 900000. There are 4045674  surface forms total; last surface form read: Pacific Air Transport
+974928 surface forms is linkable out of 1000000. There are 4045674  surface forms total; last surface form read: Guo Zhendong
+1072497 surface forms is linkable out of 1100000. There are 4045674  surface forms total; last surface form read: N-630
+1169923 surface forms is linkable out of 1200000. There are 4045674  surface forms total; last surface form read: Arbor Lodge State Park
+1267393 surface forms is linkable out of 1300000. There are 4045674  surface forms total; last surface form read: 1996's Hurricane Fausto
+1364869 surface forms is linkable out of 1400000. There are 4045674  surface forms total; last surface form read: The Story of Doctor Dolittle
+1462285 surface forms is linkable out of 1500000. There are 4045674  surface forms total; last surface form read: WBZB
+1559770 surface forms is linkable out of 1600000. There are 4045674  surface forms total; last surface form read: State Highway 50A
+1657156 surface forms is linkable out of 1700000. There are 4045674  surface forms total; last surface form read: Antoniadi scale
+1754586 surface forms is linkable out of 1800000. There are 4045674  surface forms total; last surface form read: Mulroy
+1852081 surface forms is linkable out of 1900000. There are 4045674  surface forms total; last surface form read: Yellow birch
+1949629 surface forms is linkable out of 2000000. There are 4045674  surface forms total; last surface form read: Aleksandr Grigorievich Stoletov
+2047112 surface forms is linkable out of 2100000. There are 4045674  surface forms total; last surface form read: Rob Valentine
+2144606 surface forms is linkable out of 2200000. There are 4045674  surface forms total; last surface form read: Christ 777
+2242083 surface forms is linkable out of 2300000. There are 4045674  surface forms total; last surface form read: “Alice” shorts
+2339613 surface forms is linkable out of 2400000. There are 4045674  surface forms total; last surface form read: Knights of Da Gama
+2437162 surface forms is linkable out of 2500000. There are 4045674  surface forms total; last surface form read: Anastasiopolis
+2534551 surface forms is linkable out of 2600000. There are 4045674  surface forms total; last surface form read: Hearing protection
+2632026 surface forms is linkable out of 2700000. There are 4045674  surface forms total; last surface form read: Orhuwhorun
+2729550 surface forms is linkable out of 2800000. There are 4045674  surface forms total; last surface form read: Warren Ellis'
+2826976 surface forms is linkable out of 2900000. There are 4045674  surface forms total; last surface form read: rag-time
+2924328 surface forms is linkable out of 3000000. There are 4045674  surface forms total; last surface form read: urnebes
+3021839 surface forms is linkable out of 3100000. There are 4045674  surface forms total; last surface form read: As Rapture Comes
+3119182 surface forms is linkable out of 3200000. There are 4045674  surface forms total; last surface form read: marrow
+3216681 surface forms is linkable out of 3300000. There are 4045674  surface forms total; last surface form read: Object-based
+3314218 surface forms is linkable out of 3400000. There are 4045674  surface forms total; last surface form read: Siege of Dapur
+3411829 surface forms is linkable out of 3500000. There are 4045674  surface forms total; last surface form read: National Unity Cabinet
+3509255 surface forms is linkable out of 3600000. There are 4045674  surface forms total; last surface form read: 43 countries recognise
+3606784 surface forms is linkable out of 3700000. There are 4045674  surface forms total; last surface form read: maneštra
+3704260 surface forms is linkable out of 3800000. There are 4045674  surface forms total; last surface form read: Digital Datcom
+3801698 surface forms is linkable out of 3900000. There are 4045674  surface forms total; last surface form read: Louisville Courier
+3899161 surface forms is linkable out of 4000000. There are 4045674  surface forms total; last surface form read: Risset
+There are 102007 unlinkable surface forms
+Actual capacities:
+SurfaceFormData:4961459
+Done loading information about surface form to title id mappings
+WordNet config file: configs/jwnl_properties.xml
+[INFO][net.didion.jwnl.dictionary.Dictionary] - Installing dictionary net.didion.jwnl.dictionary.FileBackedDictionary@78ffe6dc
+Done initializing the system: 414655 milliseconds elapsed
+Memory usage : 1841 MB
+character encoding = UTF8
+Processing the file : data/testSample/sampleText/test.txt
+Constructing the problem...
+Adding feature: Forms
+Adding feature: Capitalization
+Adding feature: WordTypeInformation
+Adding feature: Affixes
+Adding feature: PreviousTag1
+Adding feature: PreviousTag2
+Adding feature: GazetteersFeatures
+Adding feature: BrownClusterPaths
+Adding feature: prevTagsForContext
+Adding feature: PredictionsLevel1
+Working parameters are:
+inferenceMethod=GREEDY
+beamSize=5
+thresholdPrediction=false
+predictionConfidenceThreshold=-1.0
+labelTypes
+	PER	ORG	LOC	MISC
+logging=false
+debuggingLogPath=../../DebugLog//finalSystemBILOUdebugLog.txt
+forceNewSentenceOnLineBreaks=true
+keepOriginalFileTokenizationAndSentenceSplitting=false
+taggingScheme=BILOU
+tokenizationScheme=DualTokenizationScheme
+pathToModelFile=data/NER_Data/Models/Demo/CoNLL//finalSystemBILOU.model
+Brown clusters resource: 
+	-Path: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt
+	-WordThres=5
+	-IsLowercased=false
+Brown clusters resource: 
+	-Path: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters
+	-WordThres=5
+	-IsLowercased=false
+Brown clusters resource: 
+	-Path: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt
+	-WordThres=5
+	-IsLowercased=false
+Reading the Brown clusters resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt
+1288301 words added
+Reading the Brown clusters resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters
+95262 words added
+Reading the Brown clusters resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt
+85963 words added
+loading dazzetteers....
+	loading gazzetteer:....data/NER_Data//KnownLists/cardinalNumber.txt
+	loading gazzetteer:....data/NER_Data//KnownLists/currencyFinal.txt
+	loading gazzetteer:....data/NER_Data//KnownLists/known_corporations.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/known_country.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/known_jobs.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/known_name.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/known_names.big.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/known_nationalities.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/known_place.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/known_state.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/known_title.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/KnownNationalities.txt
+	loading gazzetteer:....data/NER_Data//KnownLists/measurments.txt
+	loading gazzetteer:....data/NER_Data//KnownLists/Occupations.txt
+	loading gazzetteer:....data/NER_Data//KnownLists/ordinalNumber.txt
+	loading gazzetteer:....data/NER_Data//KnownLists/temporal_words.txt
+	loading gazzetteer:....data/NER_Data//KnownLists/VincentNgPeopleTitles.txt
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiArtWork.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiArtWorkRedirects.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiCompetitionsBattlesEvents.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiCompetitionsBattlesEventsRedirects.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiFilms.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiFilmsRedirects.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiLocations.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiLocationsRedirects.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiManMadeObjectNames.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiManMadeObjectNamesRedirects.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiOrganizations.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiOrganizationsRedirects.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiPeople.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiPeopleRedirects.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiSongs.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiSongsRedirects.lst
+found 33 gazetteers
+Annotating the data with expressive features...
+Brown clusters OOV statistics:
+Data statistics:
+		- Total tokens with repetitions =31
+		- Total unique tokens  =23
+		- Total unique tokens ignore case =23
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt(covers 1288301 unique tokens)
+		- Total OOV tokens, Case Sensitive =1
+		- OOV tokens, no repetitions, Case Sensitive =1
+		- Total OOV tokens even after lowercasing  =1
+		- OOV tokens even after lowercasing, no repetition  =1
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters(covers 95262 unique tokens)
+		- Total OOV tokens, Case Sensitive =1
+		- OOV tokens, no repetitions, Case Sensitive =1
+		- Total OOV tokens even after lowercasing  =1
+		- OOV tokens even after lowercasing, no repetition  =1
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt(covers 85963 unique tokens)
+		- Total OOV tokens, Case Sensitive =0
+		- OOV tokens, no repetitions, Case Sensitive =0
+		- Total OOV tokens even after lowercasing  =0
+		- OOV tokens even after lowercasing, no repetition  =0
+Annotating the data with gazetteers
+Annotating the data with context-aggregation features (if necessary)
+Done Annotating the data with expressive features...
+Annontating data with the models tagger, the inference algoritm is: GREEDY
+Extracting features for level 2 inference
+Done - Extracting features for level 2 inference
+Done Annontating data with the models tagger, the inference algoritm is: GREEDY
+Inference time: 4923 milliseconds
+Constructing a problem for the following text: 
+Michael Jordan was the best player in the history of the NBA.
+
+
+I cannot believe that in the battle of Kursk, the Russian tanks have defeated the Tiger.
+
+335 milliseconds elapsed on constructing the TF-IDF representation of the input text...test.txt
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for test.txt
+Adding SHALLOW_PARSE and subChunk candidates for test.txt
+Loading clusters...
+Loading wordnet database...
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity Kursk, the Russian[103-121]{21-25}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+37813 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...test.txt
+Done constructing the problem; running the inference
+Inference on the document  -- test.txt
+0 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+41 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+45 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+2 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+1087 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Could not find WikiMatchData for title Tanks_in_the_Soviet_Union
+Could not find WikiMatchData for title The_Tiger
+Annotation at test time--1392 milliseconds elapsed to annotate the document test.txt
+Done  running the inference
+Saving the simplest-form no nested entities Wikification output in html format
+Saving the full annotation in XML
+Saving the NER output

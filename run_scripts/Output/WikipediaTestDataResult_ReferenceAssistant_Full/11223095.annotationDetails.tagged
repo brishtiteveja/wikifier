@@ -1,0 +1,429 @@
+<ANNOTATION>
+Dover is a   residential   neighbourhood in the south-east quadrant of    <a class="wiki" href="http://en.wikipedia.org/wiki/Calgary" cat="place	post	city">Calgary</a>   ,    <a class="wiki" href="http://en.wikipedia.org/wiki/Alberta" cat="state	province">Alberta</a>   . It is bounded by 26  <a class="wiki" href="http://en.wikipedia.org/wiki/Brooklyn_avenues,_Lettered_A–Z" cat="street	list">Avenue S</a>  to the north,  <a class="wiki" href="http://en.wikipedia.org/wiki/Northern_Peigan" cat="nation">Peigan</a>   <b>Trail</b> to the south, 24 Street and    <a class="wiki" href="http://en.wikipedia.org/wiki/Deerfoot_Trail" cat="roads">Deerfoot trail</a>    to the west and 36 Street E to the east. The '' <a class="wiki" href="http://en.wikipedia.org/wiki/Inglewood,_Calgary" cat="attraction">Inglewood</a>    golf course  '', developed in the    <a class="wiki" href="http://en.wikipedia.org/wiki/Bow_River" cat="river">Bow River</a>    valley, borders the  <b>community</b> to the west.<br>The area was  <b>annexed</b> to the  <a class="wiki" href="http://en.wikipedia.org/wiki/Calgary" cat="place	post	city">City of Calgary</a>  in  <b>1961</b>, and Dover was established in  <b>1971</b>. It is represented in the    <a class="wiki" href="http://en.wikipedia.org/wiki/Calgary_City_Council" cat="council	politics">Calgary City Council</a>    by  <b>Ward</b> 9    <a class="wiki" href="http://en.wikipedia.org/wiki/Alderman" cat="title	occupation">Alderman</a>     <a class="wiki" href="http://en.wikipedia.org/wiki/Joe_Ceci" cat="person">Joe Ceci</a> .<br>The    <b>postal code</b>   in this  <b>area</b> is    <a class="wiki" href="http://en.wikipedia.org/wiki/List_of_T_postal_codes_of_Canada" cat="list	code	communications">T2B</a>   .<br>In  <b>2006</b> the  <b>neighbourhood</b> had a  <b>population</b> of 10,444. Residents in this  <b>community</b> had a    <b>median household income</b>   of    <b>$</b>  43,875 in  <b>2000</b>, and there were 23.9% low income residents living in the  <b>neighborhood</b>. As of  <b>2000</b>, 15.5% of the residents were   immigrant  s. A proportion of 29.4% of the buildings were    <b>condominium</b>  s or    <b>apartment</b>  s, and 32.8% of the housing was used for    <b>renting</b>  .<br>The  <b>community</b> is served by Harold W. Riley Elementary,  <a class="wiki" href="http://en.wikipedia.org/wiki/Ian_Willoughby_Bazalgette" cat="person	recipient	pilot	officer">Ian Bazalgette</a>   <b>Junior High</b>,  <a class="wiki" href="http://en.wikipedia.org/wiki/Mount_Diablo_Unified_School_District" cat="school">Valley View</a>  Elementary and West Dover Elementary    <b>public school</b>  s as well as by Holy Cross Elementary  "  Junior High and Blessed Damien Elementary (catholic schools).<br><br>
+</ANNOTATION>
+*Entity:[Dover,textSpan=(0-5)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[south-east,textSpan=(48-58)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[quadrant,textSpan=(59-67)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Calgary,textSpan=(73-80)]	-Disambiguation:(tid=15895358, Title name=Calgary) gold wikification:=Calgary isCorrectPrediction=Correct
+*Entity:[Calgary , Alberta,textSpan=(73-93)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Alberta,textSpan=(86-93)]	-Disambiguation:(tid=717, Title name=Alberta) gold wikification:=Alberta isCorrectPrediction=Correct
+*Entity:[It,textSpan=(97-99)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bounded,textSpan=(103-110)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[26,textSpan=(114-116)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Avenue S,textSpan=(117-125)]	-Disambiguation:(tid=3658264, Title name=Brooklyn_avenues,_Lettered_A–Z) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Avenue,textSpan=(117-123)]	-Disambiguation:(tid=1139011, Title name=Avenue) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the north,textSpan=(129-138)]	-Disambiguation:(tid=79987, Title name=Northern_Canada) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[north,textSpan=(133-138)]	-Disambiguation:(tid=56478, Title name=North) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Peigan,textSpan=(140-146)]	-Disambiguation:(tid=1180637, Title name=Northern_Peigan) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Peigan Trail,textSpan=(140-152)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Trail,textSpan=(147-152)]	-Disambiguation:(tid=66728, Title name=Trail) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the south,textSpan=(156-165)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[south,textSpan=(160-165)]	-Disambiguation:(tid=77173, Title name=South) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Street and Deerfoot,textSpan=(170-191)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Deerfoot trail,textSpan=(183-197)]	-Disambiguation:(tid=1792500, Title name=Deerfoot_Trail) gold wikification:=Deerfoot_Trail isCorrectPrediction=Correct
+*Entity:[Deerfoot,textSpan=(183-191)]	-Disambiguation:(tid=1792500, Title name=Deerfoot_Trail) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the west,textSpan=(203-211)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[west,textSpan=(207-211)]	-Disambiguation:(tid=61026, Title name=West) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[36,textSpan=(216-218)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Street E,textSpan=(219-227)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Street,textSpan=(219-225)]	-Disambiguation:(tid=199065, Title name=Street) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the east,textSpan=(231-239)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[east,textSpan=(235-239)]	-Disambiguation:(tid=61028, Title name=East) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The ''Inglewood,textSpan=(241-256)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Inglewood,textSpan=(247-256)]	-Disambiguation:(tid=2153869, Title name=Inglewood,_Calgary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bow River,textSpan=(295-304)]	-Disambiguation:(tid=565137, Title name=Bow_River) gold wikification:=Bow_River isCorrectPrediction=Correct
+*Entity:[borders,textSpan=(315-322)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[community,textSpan=(327-336)]	-Disambiguation:(tid=5695, Title name=Community) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the west,textSpan=(340-348)]	-Disambiguation:(tid=519100, Title name=Western_Canada) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[west,textSpan=(344-348)]	-Disambiguation:(tid=61026, Title name=West) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The area,textSpan=(350-358)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[area,textSpan=(354-358)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[annexed,textSpan=(363-370)]	-Disambiguation:(tid=1237, Title name=Annexation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the City,textSpan=(374-382)]	-Disambiguation:(tid=6883, Title name=City_of_London) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[City of Calgary,textSpan=(378-393)]	-Disambiguation:(tid=15895358, Title name=Calgary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[City,textSpan=(378-382)]	-Disambiguation:(tid=15895358, Title name=Calgary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Calgary,textSpan=(386-393)]	-Disambiguation:(tid=15895358, Title name=Calgary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1961,textSpan=(397-401)]	-Disambiguation:(tid=34659, Title name=1961) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Dover,textSpan=(407-412)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[established,textSpan=(417-428)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1971,textSpan=(432-436)]	-Disambiguation:(tid=34748, Title name=1971) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[It,textSpan=(438-440)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[represented,textSpan=(444-455)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Calgary City Council,textSpan=(465-485)]	-Disambiguation:(tid=1429317, Title name=Calgary_City_Council) gold wikification:=Calgary_City_Council isCorrectPrediction=Correct
+*Entity:[Ward,textSpan=(491-495)]	-Disambiguation:(tid=3283310, Title name=Ward_(country_subdivision)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Alderman,textSpan=(500-508)]	-Disambiguation:(tid=286925, Title name=Alderman) gold wikification:=Alderman isCorrectPrediction=Correct
+*Entity:[Joe Ceci,textSpan=(511-519)]	-Disambiguation:(tid=13276478, Title name=Joe_Ceci) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[postal code,textSpan=(527-538)]	-Disambiguation:(tid=333326, Title name=Postal_codes_in_Canada) gold wikification:=Postal_codes_in_Canada isCorrectPrediction=Correct
+*Entity:[area,textSpan=(549-553)]	-Disambiguation:(tid=1209, Title name=Area) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[T2B,textSpan=(559-562)]	-Disambiguation:(tid=966937, Title name=List_of_T_postal_codes_of_Canada) gold wikification:=List_of_T_postal_codes_of_Canada isCorrectPrediction=Correct
+*Entity:[2006,textSpan=(569-573)]	-Disambiguation:(tid=36164, Title name=2006) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the neighbourhood,textSpan=(574-591)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[neighbourhood,textSpan=(578-591)]	-Disambiguation:(tid=177193, Title name=Neighbourhood) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[population,textSpan=(598-608)]	-Disambiguation:(tid=22949, Title name=Population) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Residents,textSpan=(620-629)]	-Disambiguation:(tid=221355, Title name=Resident) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[community,textSpan=(638-647)]	-Disambiguation:(tid=5695, Title name=Community) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[median household income,textSpan=(656-679)]	-Disambiguation:(tid=2021534, Title name=Median_household_income) gold wikification:=Median_household_income isCorrectPrediction=Correct
+*Entity:[$,textSpan=(687-688)]	-Disambiguation:(tid=101846, Title name=Canadian_dollar) gold wikification:=Canadian_dollar isCorrectPrediction=Correct
+*Entity:[2000,textSpan=(700-704)]	-Disambiguation:(tid=34548, Title name=2000) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the neighborhood,textSpan=(758-774)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[neighborhood,textSpan=(762-774)]	-Disambiguation:(tid=177193, Title name=Neighbourhood) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[2000,textSpan=(782-786)]	-Disambiguation:(tid=34548, Title name=2000) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the residents,textSpan=(797-810)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[residents,textSpan=(801-810)]	-Disambiguation:(tid=221355, Title name=Resident) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[proportion,textSpan=(834-844)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[buildings,textSpan=(861-870)]	-Disambiguation:(tid=45995, Title name=Building) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[condominium,textSpan=(878-889)]	-Disambiguation:(tid=375303, Title name=Condominium) gold wikification:=Condominium isCorrectPrediction=Correct
+*Entity:[apartment,textSpan=(898-907)]	-Disambiguation:(tid=265567, Title name=Apartment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[housing,textSpan=(929-936)]	-Disambiguation:(tid=15360658, Title name=Housing) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[renting,textSpan=(952-959)]	-Disambiguation:(tid=342324, Title name=Renting) gold wikification:=Renting isCorrectPrediction=Correct
+*Entity:[community,textSpan=(967-976)]	-Disambiguation:(tid=5695, Title name=Community) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[served,textSpan=(980-986)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Harold,textSpan=(990-996)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Harold W. Riley Elementary,textSpan=(990-1016)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[W.,textSpan=(997-999)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Riley Elementary,textSpan=(1000-1016)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Riley,textSpan=(1000-1005)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Elementary,textSpan=(1006-1016)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Ian,textSpan=(1018-1021)]	-Disambiguation:(tid=1181101, Title name=Ian_Willoughby_Bazalgette) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Ian Bazalgette,textSpan=(1018-1032)]	-Disambiguation:(tid=1181101, Title name=Ian_Willoughby_Bazalgette) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Ian Bazalgette Junior High,textSpan=(1018-1044)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Ian Bazalgette Junior High, Valley View Elementary and West Dover Elementary,textSpan=(1018-1094)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bazalgette,textSpan=(1022-1032)]	-Disambiguation:(tid=1181101, Title name=Ian_Willoughby_Bazalgette) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Junior,textSpan=(1033-1039)]	-Disambiguation:(tid=234954, Title name=Middle_school) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Junior High,textSpan=(1033-1044)]	-Disambiguation:(tid=234954, Title name=Middle_school) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[High,textSpan=(1040-1044)]	-Disambiguation:(tid=234954, Title name=Middle_school) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Valley View Elementary and West Dover Elementary,textSpan=(1046-1094)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Valley View Elementary,textSpan=(1046-1068)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Valley View,textSpan=(1046-1057)]	-Disambiguation:(tid=7996458, Title name=Mount_Diablo_Unified_School_District) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Valley,textSpan=(1046-1052)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[View,textSpan=(1053-1057)]	-Disambiguation:(tid=9423430, Title name=View_(magazine)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Elementary,textSpan=(1058-1068)]	-Disambiguation:(tid=11749232, Title name=Elementary_school) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[public school,textSpan=(1097-1110)]	-Disambiguation:(tid=56083, Title name=Public_school) gold wikification:=Public_school isCorrectPrediction=Correct
+*Entity:[Holy Cross Elementary,textSpan=(1128-1149)]	-Disambiguation:(tid=3658264, Title name=Holy_Cross_Elementary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Junior High and Blessed Damien Elementary,textSpan=(1154-1195)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Damien Elementary,textSpan=(1178-1195)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Dover' start in text:0 end in text: 5; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'south-east' start in text:48 end in text: 58; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'quadrant' start in text:59 end in text: 67; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Calgary' start in text:73 end in text: 80; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Calgary , Alberta' start in text:73 end in text: 93; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Alberta' start in text:86 end in text: 93; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'It' start in text:97 end in text: 99; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bounded' start in text:103 end in text: 110; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '26' start in text:114 end in text: 116; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Avenue S' start in text:117 end in text: 125; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Avenue' start in text:117 end in text: 123; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the north' start in text:129 end in text: 138; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'north' start in text:133 end in text: 138; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Peigan' start in text:140 end in text: 146; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Peigan Trail' start in text:140 end in text: 152; Entity types: NER,LOC,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Trail' start in text:147 end in text: 152; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the south' start in text:156 end in text: 165; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'south' start in text:160 end in text: 165; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Street and Deerfoot' start in text:170 end in text: 191; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Deerfoot trail' start in text:183 end in text: 197; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Deerfoot' start in text:183 end in text: 191; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the west' start in text:203 end in text: 211; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'west' start in text:207 end in text: 211; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '36' start in text:216 end in text: 218; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Street E' start in text:219 end in text: 227; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Street' start in text:219 end in text: 225; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the east' start in text:231 end in text: 239; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'east' start in text:235 end in text: 239; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The ''Inglewood' start in text:241 end in text: 256; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Inglewood' start in text:247 end in text: 256; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bow River' start in text:295 end in text: 304; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'borders' start in text:315 end in text: 322; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'community' start in text:327 end in text: 336; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the west' start in text:340 end in text: 348; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'west' start in text:344 end in text: 348; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The area' start in text:350 end in text: 358; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'area' start in text:354 end in text: 358; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'annexed' start in text:363 end in text: 370; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the City' start in text:374 end in text: 382; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'City of Calgary' start in text:378 end in text: 393; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'City' start in text:378 end in text: 382; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Calgary' start in text:386 end in text: 393; Entity types: NER,LOC,NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1961' start in text:397 end in text: 401; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Dover' start in text:407 end in text: 412; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'established' start in text:417 end in text: 428; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1971' start in text:432 end in text: 436; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'It' start in text:438 end in text: 440; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'represented' start in text:444 end in text: 455; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Calgary City Council' start in text:465 end in text: 485; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Ward' start in text:491 end in text: 495; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Alderman' start in text:500 end in text: 508; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Joe Ceci' start in text:511 end in text: 519; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'postal code' start in text:527 end in text: 538; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'area' start in text:549 end in text: 553; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'T2B' start in text:559 end in text: 562; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '2006' start in text:569 end in text: 573; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the neighbourhood' start in text:574 end in text: 591; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'neighbourhood' start in text:578 end in text: 591; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'population' start in text:598 end in text: 608; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Residents' start in text:620 end in text: 629; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'community' start in text:638 end in text: 647; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'median household income' start in text:656 end in text: 679; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '$' start in text:687 end in text: 688; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '2000' start in text:700 end in text: 704; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the neighborhood' start in text:758 end in text: 774; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'neighborhood' start in text:762 end in text: 774; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '2000' start in text:782 end in text: 786; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the residents' start in text:797 end in text: 810; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'residents' start in text:801 end in text: 810; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'proportion' start in text:834 end in text: 844; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'buildings' start in text:861 end in text: 870; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'condominium' start in text:878 end in text: 889; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'apartment' start in text:898 end in text: 907; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'housing' start in text:929 end in text: 936; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'renting' start in text:952 end in text: 959; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'community' start in text:967 end in text: 976; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'served' start in text:980 end in text: 986; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Harold' start in text:990 end in text: 996; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Harold W. Riley Elementary' start in text:990 end in text: 1016; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'W.' start in text:997 end in text: 999; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Riley Elementary' start in text:1000 end in text: 1016; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Riley' start in text:1000 end in text: 1005; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Elementary' start in text:1006 end in text: 1016; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Ian' start in text:1018 end in text: 1021; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Ian Bazalgette' start in text:1018 end in text: 1032; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Ian Bazalgette Junior High' start in text:1018 end in text: 1044; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Ian Bazalgette Junior High, Valley View Elementary and West Dover Elementary' start in text:1018 end in text: 1094; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Bazalgette' start in text:1022 end in text: 1032; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Junior' start in text:1033 end in text: 1039; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Junior High' start in text:1033 end in text: 1044; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'High' start in text:1040 end in text: 1044; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Valley View Elementary and West Dover Elementary' start in text:1046 end in text: 1094; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Valley View Elementary' start in text:1046 end in text: 1068; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Valley View' start in text:1046 end in text: 1057; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Valley' start in text:1046 end in text: 1052; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'View' start in text:1053 end in text: 1057; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Elementary' start in text:1058 end in text: 1068; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'public school' start in text:1097 end in text: 1110; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Holy Cross Elementary' start in text:1128 end in text: 1149; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Junior High and Blessed Damien Elementary' start in text:1154 end in text: 1195; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Damien Elementary' start in text:1178 end in text: 1195; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+

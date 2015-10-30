@@ -1,0 +1,481 @@
+<ANNOTATION>
+     <a class="wiki" href="http://en.wikipedia.org/wiki/Astronomy" cat="object	binary	source">Astronomers</a>    Spot Storm on  <a class="wiki" href="http://en.wikipedia.org/wiki/Mars" cat="planet">Mars</a> <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Washington" cat="">WASHINGTON</a>  (AP) -- A   <b>cyclone</b>   four times the size of   <a class="wiki" href="http://en.wikipedia.org/wiki/Texas" cat="colony	state">Texas</a>    raged across the  <b>northern polar</b>  <b>region</b> of the  <b>planet</b>   <a class="wiki" href="http://en.wikipedia.org/wiki/Mars" cat="planet">Mars</a>    last month, according to   <b>space telescope</b>   views of the  <b>red planet</b>. <br><br> <br><br> The   <a class="wiki" href="http://en.wikipedia.org/wiki/Space_Telescope_Science_Institute" cat="">Space Telescope Science Institute</a>    announced today that the   <a class="wiki" href="http://en.wikipedia.org/wiki/Hubble_Space_Telescope" cat="satellite	experiment	accident	project">Hubble Space Telescope</a>    on  <a class="wiki" href="http://en.wikipedia.org/wiki/April_27" cat="days">April 27</a>  spotted an immense   <a class="wiki" href="http://en.wikipedia.org/wiki/Martian" cat="entity">Martian</a>    storm cloud, made up of water   <b>ice</b>  , that was 1,100 miles long and  <b>900</b> wide. <br><br> <br><br> Bands of clouds spiraled in a  <b>counterclockwise</b>  <b>motion</b> around a 200-mile  <b>wide eye</b> in the center of the  <b>storm</b>, taking on a shape that resembled   <b>hurricanes</b>   on   <a class="wiki" href="http://en.wikipedia.org/wiki/Earth" cat="">Earth</a>   ,  <b>astronomers</b> said. <br><br> <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/The_Tempest_(album)" cat="album">The storm</a>  occurred during the  <b>summer</b> in Mars' northern hemisphere. It came after seasonal warming   <b>evaporated</b>   the  carbon dioxide     <b>ice sheet</b>   that  <b>caps</b> the   <a class="wiki" href="http://en.wikipedia.org/wiki/Planum_Boreum" cat="plain">Martian north pole</a>    during part of the year. <br><br> <br><br>  <b>Officials</b> said the  <b>storm</b> was three times larger than a storm spotted 20 years ago by the   <a class="wiki" href="http://en.wikipedia.org/wiki/Viking_program" cat="program	mission">Viking Orbiter</a>    spacecraft. <br><br> <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Astronomy" cat="object	binary	source">Astronomers</a>  used a  wide field planetary camera   on  <a class="wiki" href="http://en.wikipedia.org/wiki/Hubble_Space_Telescope" cat="satellite	experiment	accident	project">Hubble</a>  to  <b>photograph</b>  <a class="wiki" href="http://en.wikipedia.org/wiki/Mars" cat="planet">Mars</a>  during the  <b>planet</b>'s  <b>closest approach</b> to  <a class="wiki" href="http://en.wikipedia.org/wiki/Earth" cat="">Earth</a>  in  <b>nearly</b> eight years. <br><br> <br><br> Two pictures, taken six hours apart on  <a class="wiki" href="http://en.wikipedia.org/wiki/April_27" cat="days">April 27</a> , showed that the  <b>storm</b> moved slightly eastward. In the second picture, the  <b>storm</b> appeared to be in the process of breaking up. <br><br> <br><br> Later pictures by the  <a class="wiki" href="http://en.wikipedia.org/wiki/Hubble_Space_Telescope" cat="satellite	experiment	accident	project">Hubble</a>   <b>camera</b> failed to find the  <b>storm</b>, and astronomers said it could have been a short-lived  phenomenon . <br><br>
+</ANNOTATION>
+*Entity:[Astronomers,textSpan=(4-15)]	-Disambiguation:(tid=50650, Title name=Astronomy) gold wikification:=Astronomer isCorrectPrediction=Incorrect
+*Entity:[Astronomers Spot Storm on Mars WASHINGTON,textSpan=(4-49)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Spot Storm on Mars WASHINGTON,textSpan=(18-49)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mars,textSpan=(32-36)]	-Disambiguation:(tid=14640471, Title name=Mars) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[WASHINGTON,textSpan=(39-49)]	-Disambiguation:(tid=13015878, Title name=Washington) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cyclone,textSpan=(61-68)]	-Disambiguation:(tid=42806, Title name=Cyclone) gold wikification:=Cyclone isCorrectPrediction=Correct
+*Entity:[the size,textSpan=(82-90)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[size,textSpan=(86-90)]	-Disambiguation:(tid=264558, Title name=Size) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Texas,textSpan=(95-100)]	-Disambiguation:(tid=29810, Title name=Texas) gold wikification:=Texas isCorrectPrediction=Correct
+*Entity:[northern,textSpan=(120-128)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[northern polar,textSpan=(120-134)]	-Disambiguation:(tid=21836, Title name=North_Pole) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[polar,textSpan=(129-134)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[polar region,textSpan=(129-141)]	-Disambiguation:(tid=455682, Title name=Polar_region) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[region,textSpan=(135-141)]	-Disambiguation:(tid=55633, Title name=Region) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the planet,textSpan=(145-155)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[planet,textSpan=(149-155)]	-Disambiguation:(tid=22915, Title name=Planet) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mars,textSpan=(157-161)]	-Disambiguation:(tid=14640471, Title name=Mars) gold wikification:=Mars isCorrectPrediction=Correct
+*Entity:[month,textSpan=(169-174)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[space telescope,textSpan=(190-205)]	-Disambiguation:(tid=29006, Title name=Space_observatory) gold wikification:=Space_observatory isCorrectPrediction=Correct
+*Entity:[the red planet,textSpan=(217-231)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the red,textSpan=(217-224)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[red,textSpan=(221-224)]	-Disambiguation:(tid=25825, Title name=Red) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[red planet,textSpan=(221-231)]	-Disambiguation:(tid=14640471, Title name=Mars) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[planet,textSpan=(225-231)]	-Disambiguation:(tid=22915, Title name=Planet) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Space Telescope Science Institute,textSpan=(244-277)]	-Disambiguation:(tid=177098, Title name=Space_Telescope_Science_Institute) gold wikification:=Space_Telescope_Science_Institute isCorrectPrediction=Correct
+*Entity:[today,textSpan=(290-295)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hubble Space Telescope on April,textSpan=(306-339)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hubble Space Telescope,textSpan=(306-328)]	-Disambiguation:(tid=40203, Title name=Hubble_Space_Telescope) gold wikification:=Hubble_Space_Telescope isCorrectPrediction=Correct
+*Entity:[April 27,textSpan=(334-342)]	-Disambiguation:(tid=2326, Title name=April_27) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[April,textSpan=(334-339)]	-Disambiguation:(tid=1004, Title name=April) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[27,textSpan=(340-342)]	-Disambiguation:(tid=2326, Title name=April_27) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Martian,textSpan=(363-370)]	-Disambiguation:(tid=47792, Title name=Martian) gold wikification:=Martian isCorrectPrediction=Correct
+*Entity:[ice,textSpan=(404-407)]	-Disambiguation:(tid=14946, Title name=Ice) gold wikification:=Ice isCorrectPrediction=Correct
+*Entity:[miles,textSpan=(426-431)]	-Disambiguation:(tid=19159, Title name=Mile) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[900,textSpan=(441-444)]	-Disambiguation:(tid=42382, Title name=900) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bands,textSpan=(457-462)]	-Disambiguation:(tid=20180, Title name=Musical_ensemble) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[clouds,textSpan=(466-472)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[counterclockwise,textSpan=(487-503)]	-Disambiguation:(tid=4956728, Title name=Clockwise) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[motion,textSpan=(504-510)]	-Disambiguation:(tid=22498, Title name=Orbit) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wide,textSpan=(529-533)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wide eye,textSpan=(529-537)]	-Disambiguation:(tid=3658264, Title name=Wide-Eye) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[eye,textSpan=(534-537)]	-Disambiguation:(tid=4652664, Title name=Eye_(cyclone)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the center,textSpan=(541-551)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[center,textSpan=(545-551)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the storm,textSpan=(555-564)]	-Disambiguation:(tid=2360863, Title name=The_Tempest_(album)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[storm,textSpan=(559-564)]	-Disambiguation:(tid=8282374, Title name=Tropical_cyclone) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[shape,textSpan=(578-583)]	-Disambiguation:(tid=169191, Title name=Shape) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hurricanes,textSpan=(600-610)]	-Disambiguation:(tid=8282374, Title name=Tropical_cyclone) gold wikification:=Tropical_cyclone isCorrectPrediction=Correct
+*Entity:[Earth,textSpan=(617-622)]	-Disambiguation:(tid=9228, Title name=Earth) gold wikification:=Earth isCorrectPrediction=Correct
+*Entity:[astronomers,textSpan=(626-637)]	-Disambiguation:(tid=50650, Title name=Astronomy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The storm,textSpan=(650-659)]	-Disambiguation:(tid=2360863, Title name=The_Tempest_(album)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[storm,textSpan=(654-659)]	-Disambiguation:(tid=8282374, Title name=Tropical_cyclone) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the summer,textSpan=(676-686)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[summer,textSpan=(680-686)]	-Disambiguation:(tid=28483, Title name=Solstice) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[It,textSpan=(717-719)]	-Disambiguation:(tid=271590, Title name=It_(novel)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[seasonal,textSpan=(731-739)]	-Disambiguation:(tid=28919, Title name=Season) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[warming,textSpan=(740-747)]	-Disambiguation:(tid=5042951, Title name=Global_warming) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[evaporated,textSpan=(749-759)]	-Disambiguation:(tid=10303, Title name=Evaporation) gold wikification:=Evaporation isCorrectPrediction=Correct
+*Entity:[carbon dioxide,textSpan=(767-781)]	-Disambiguation:*null* gold wikification:=Carbon_dioxide isCorrectPrediction=Incorrect
+*Entity:[ice sheet,textSpan=(785-794)]	-Disambiguation:(tid=493760, Title name=Ice_sheet) gold wikification:=Ice_sheet isCorrectPrediction=Correct
+*Entity:[caps,textSpan=(802-806)]	-Disambiguation:(tid=3191695, Title name=Cap_(sport)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Martian,textSpan=(812-819)]	-Disambiguation:(tid=47792, Title name=Martian) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Martian north pole,textSpan=(812-830)]	-Disambiguation:(tid=7723558, Title name=Planum_Boreum) gold wikification:=Planum_Boreum isCorrectPrediction=Correct
+*Entity:[the year,textSpan=(848-856)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[year,textSpan=(852-856)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Officials,textSpan=(864-873)]	-Disambiguation:(tid=1481025, Title name=Official_(American_football)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the storm,textSpan=(879-888)]	-Disambiguation:(tid=2360863, Title name=The_Tempest_(album)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[storm,textSpan=(883-888)]	-Disambiguation:(tid=8282374, Title name=Tropical_cyclone) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[three times,textSpan=(893-904)]	-Disambiguation:(tid=985724, Title name=List_of_World_Tag_Team_Champions_(WWE)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[times,textSpan=(899-904)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[larger,textSpan=(905-911)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[storm,textSpan=(919-924)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[20 years,textSpan=(933-941)]	-Disambiguation:(tid=34761, Title name=1986) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[20,textSpan=(933-935)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[years,textSpan=(936-941)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Viking Orbiter,textSpan=(954-968)]	-Disambiguation:(tid=38082, Title name=Viking_program) gold wikification:=Viking_program isCorrectPrediction=Correct
+*Entity:[Astronomers,textSpan=(989-1000)]	-Disambiguation:(tid=50650, Title name=Astronomy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hubble,textSpan=(1042-1048)]	-Disambiguation:(tid=40203, Title name=Hubble_Space_Telescope) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[photograph,textSpan=(1052-1062)]	-Disambiguation:(tid=25080, Title name=Photograph) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mars,textSpan=(1063-1067)]	-Disambiguation:(tid=14640471, Title name=Mars) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the planet,textSpan=(1075-1085)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[planet,textSpan=(1079-1085)]	-Disambiguation:(tid=22915, Title name=Planet) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[closest approach,textSpan=(1088-1104)]	-Disambiguation:(tid=88213, Title name=Apsis) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[approach,textSpan=(1096-1104)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Earth,textSpan=(1108-1113)]	-Disambiguation:(tid=9228, Title name=Earth) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nearly,textSpan=(1117-1123)]	-Disambiguation:(tid=10987833, Title name=Nearly_(band)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[years,textSpan=(1130-1135)]	-Disambiguation:(tid=57484, Title name=Sidereal_year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Two,textSpan=(1143-1146)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pictures,textSpan=(1147-1155)]	-Disambiguation:(tid=71925, Title name=Image) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hours,textSpan=(1167-1172)]	-Disambiguation:(tid=634045, Title name=Hours) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[April 27,textSpan=(1182-1190)]	-Disambiguation:(tid=2326, Title name=April_27) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[April,textSpan=(1182-1187)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[27,textSpan=(1188-1190)]	-Disambiguation:(tid=2326, Title name=April_27) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the storm,textSpan=(1204-1213)]	-Disambiguation:(tid=2360863, Title name=The_Tempest_(album)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[storm,textSpan=(1208-1213)]	-Disambiguation:(tid=8282374, Title name=Tropical_cyclone) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[eastward,textSpan=(1229-1237)]	-Disambiguation:(tid=61028, Title name=East) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the second,textSpan=(1242-1252)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[second,textSpan=(1246-1252)]	-Disambiguation:(tid=26873, Title name=Second) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[picture,textSpan=(1253-1260)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the storm,textSpan=(1262-1271)]	-Disambiguation:(tid=2360863, Title name=The_Tempest_(album)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[storm,textSpan=(1266-1271)]	-Disambiguation:(tid=8282374, Title name=Tropical_cyclone) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[appeared,textSpan=(1272-1280)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[to be,textSpan=(1281-1286)]	-Disambiguation:(tid=5630, Title name=Copula) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the process,textSpan=(1290-1301)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[process,textSpan=(1294-1301)]	-Disambiguation:(tid=4746766, Title name=Process) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Later,textSpan=(1324-1329)]	-Disambiguation:(tid=2027885, Title name=Joe_Bob_Goes_Back_to_the_Drive_In) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pictures,textSpan=(1330-1338)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hubble,textSpan=(1346-1352)]	-Disambiguation:(tid=40203, Title name=Hubble_Space_Telescope) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[camera,textSpan=(1353-1359)]	-Disambiguation:(tid=52648, Title name=Camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[failed,textSpan=(1360-1366)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the storm,textSpan=(1375-1384)]	-Disambiguation:(tid=2360863, Title name=The_Tempest_(album)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[storm,textSpan=(1379-1384)]	-Disambiguation:(tid=130312, Title name=Storm) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[astronomers,textSpan=(1390-1401)]	-Disambiguation:(tid=50650, Title name=Astronomy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[have been,textSpan=(1416-1425)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[phenomenon,textSpan=(1441-1451)]	-Disambiguation:*null* gold wikification:=Phenomenon isCorrectPrediction=Incorrect
+
+Output Explanation:
+Entity : 'Astronomers' start in text:4 end in text: 15; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Astronomers Spot Storm on Mars WASHINGTON' start in text:4 end in text: 49; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Spot Storm on Mars WASHINGTON' start in text:18 end in text: 49; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Mars' start in text:32 end in text: 36; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'WASHINGTON' start in text:39 end in text: 49; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cyclone' start in text:61 end in text: 68; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the size' start in text:82 end in text: 90; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'size' start in text:86 end in text: 90; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Texas' start in text:95 end in text: 100; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'northern' start in text:120 end in text: 128; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'northern polar' start in text:120 end in text: 134; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'polar' start in text:129 end in text: 134; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'polar region' start in text:129 end in text: 141; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'region' start in text:135 end in text: 141; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the planet' start in text:145 end in text: 155; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'planet' start in text:149 end in text: 155; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mars' start in text:157 end in text: 161; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'month' start in text:169 end in text: 174; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'space telescope' start in text:190 end in text: 205; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the red planet' start in text:217 end in text: 231; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'the red' start in text:217 end in text: 224; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'red' start in text:221 end in text: 224; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'red planet' start in text:221 end in text: 231; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'planet' start in text:225 end in text: 231; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Space Telescope Science Institute' start in text:244 end in text: 277; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'today' start in text:290 end in text: 295; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hubble Space Telescope on April' start in text:306 end in text: 339; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Hubble Space Telescope' start in text:306 end in text: 328; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'April 27' start in text:334 end in text: 342; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'April' start in text:334 end in text: 339; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '27' start in text:340 end in text: 342; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Martian' start in text:363 end in text: 370; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ice' start in text:404 end in text: 407; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'miles' start in text:426 end in text: 431; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '900' start in text:441 end in text: 444; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bands' start in text:457 end in text: 462; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'clouds' start in text:466 end in text: 472; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'counterclockwise' start in text:487 end in text: 503; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'motion' start in text:504 end in text: 510; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wide' start in text:529 end in text: 533; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wide eye' start in text:529 end in text: 537; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'eye' start in text:534 end in text: 537; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the center' start in text:541 end in text: 551; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'center' start in text:545 end in text: 551; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the storm' start in text:555 end in text: 564; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'storm' start in text:559 end in text: 564; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shape' start in text:578 end in text: 583; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hurricanes' start in text:600 end in text: 610; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Earth' start in text:617 end in text: 622; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'astronomers' start in text:626 end in text: 637; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The storm' start in text:650 end in text: 659; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'storm' start in text:654 end in text: 659; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the summer' start in text:676 end in text: 686; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'summer' start in text:680 end in text: 686; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'It' start in text:717 end in text: 719; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'seasonal' start in text:731 end in text: 739; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'warming' start in text:740 end in text: 747; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'evaporated' start in text:749 end in text: 759; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'carbon dioxide' start in text:767 end in text: 781; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ice sheet' start in text:785 end in text: 794; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'caps' start in text:802 end in text: 806; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Martian' start in text:812 end in text: 819; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Martian north pole' start in text:812 end in text: 830; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'the year' start in text:848 end in text: 856; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'year' start in text:852 end in text: 856; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Officials' start in text:864 end in text: 873; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the storm' start in text:879 end in text: 888; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'storm' start in text:883 end in text: 888; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'three times' start in text:893 end in text: 904; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'times' start in text:899 end in text: 904; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'larger' start in text:905 end in text: 911; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'storm' start in text:919 end in text: 924; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '20 years' start in text:933 end in text: 941; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '20' start in text:933 end in text: 935; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'years' start in text:936 end in text: 941; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Viking Orbiter' start in text:954 end in text: 968; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Astronomers' start in text:989 end in text: 1000; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hubble' start in text:1042 end in text: 1048; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'photograph' start in text:1052 end in text: 1062; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mars' start in text:1063 end in text: 1067; Entity types: NER,MISC,NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the planet' start in text:1075 end in text: 1085; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'planet' start in text:1079 end in text: 1085; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'closest approach' start in text:1088 end in text: 1104; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'approach' start in text:1096 end in text: 1104; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Earth' start in text:1108 end in text: 1113; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nearly' start in text:1117 end in text: 1123; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'years' start in text:1130 end in text: 1135; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Two' start in text:1143 end in text: 1146; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pictures' start in text:1147 end in text: 1155; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hours' start in text:1167 end in text: 1172; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'April 27' start in text:1182 end in text: 1190; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'April' start in text:1182 end in text: 1187; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '27' start in text:1188 end in text: 1190; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the storm' start in text:1204 end in text: 1213; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'storm' start in text:1208 end in text: 1213; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'eastward' start in text:1229 end in text: 1237; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the second' start in text:1242 end in text: 1252; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'second' start in text:1246 end in text: 1252; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'picture' start in text:1253 end in text: 1260; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the storm' start in text:1262 end in text: 1271; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'storm' start in text:1266 end in text: 1271; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'appeared' start in text:1272 end in text: 1280; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'to be' start in text:1281 end in text: 1286; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the process' start in text:1290 end in text: 1301; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'process' start in text:1294 end in text: 1301; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Later' start in text:1324 end in text: 1329; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pictures' start in text:1330 end in text: 1338; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hubble' start in text:1346 end in text: 1352; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'camera' start in text:1353 end in text: 1359; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'failed' start in text:1360 end in text: 1366; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the storm' start in text:1375 end in text: 1384; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'storm' start in text:1379 end in text: 1384; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'astronomers' start in text:1390 end in text: 1401; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'have been' start in text:1416 end in text: 1425; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'phenomenon' start in text:1441 end in text: 1451; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

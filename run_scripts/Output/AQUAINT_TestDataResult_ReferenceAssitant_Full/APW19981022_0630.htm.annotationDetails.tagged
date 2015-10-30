@@ -1,0 +1,433 @@
+<ANNOTATION>
+ <a class="wiki" href="http://en.wikipedia.org/wiki/Interpol" cat="establishment	agency">Interpol</a>  needs to revamp   <b>strategy</b>   to keep abreast of  <b>crime</b><br><br>   <a class="wiki" href="http://en.wikipedia.org/wiki/Interpol" cat="establishment	agency">Interpol</a>    must modernize if it wants to effectively fight increasingly sophisticated   <b>crime syndicates</b>   in the  <b>next century</b>, the  <b>police</b> organization's president said Thursday. <br><br> The  <b>criminal</b> environment has changed at a "much greater pace'' than  <a class="wiki" href="http://en.wikipedia.org/wiki/Interpol" cat="establishment	agency">Interpol</a> , Toshinori Kanemoto told the opening session of the  <b>67th</b>  <b>general assembly</b> of the  <a class="wiki" href="http://en.wikipedia.org/wiki/Interpol" cat="establishment	agency">International Criminal Police Organization</a> . <br><br> A failure to modernize  <a class="wiki" href="http://en.wikipedia.org/wiki/Interpol" cat="establishment	agency">Interpol</a>  could mean the organization "risks being displaced against a backdrop of international   <b>organized crime</b>  ,'' he said. <br><br> Kanemoto said a new  <a class="wiki" href="http://en.wikipedia.org/wiki/Interpol" cat="establishment	agency">Interpol</a>  strategy will be  <b>discussed</b> at the six-day assembly and, if adopted, would be put into effect next January. <br><br> The former Japanese police official said the assembly also will discuss   <b>terrorism</b>  , which he called one of the "new forms of  <b>criminality</b>,'' as well as the   <b>illegal drug trade</b>   and   <b>money laundering</b>  . <br><br> With  <b>crime</b> becoming  <b>increasingly</b> sophisticated, Kanemoto said, it has become harder for  <b>police</b> officials to gather   <b>evidence</b>   for  <b>prosecution</b>. He said these new challenges require increased cooperation, particularly through  <a class="wiki" href="http://en.wikipedia.org/wiki/Interpol" cat="establishment	agency">Interpol</a> . <br><br> The  <b>police</b> officials are expected to discuss a  strategic development plan  aimed at making  <a class="wiki" href="http://en.wikipedia.org/wiki/Interpol" cat="establishment	agency">Interpol</a>  more proactive by re-examining the needs of the group's 177-member states, Kanemoto said. <br><br> Details of, graf 8 pvs <br><br>
+</ANNOTATION>
+*Entity:[Interpol,textSpan=(0-11)]	-Disambiguation:(tid=14338129, Title name=Interpol) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[needs,textSpan=(12-17)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[revamp,textSpan=(21-27)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[strategy,textSpan=(29-37)]	-Disambiguation:(tid=29607, Title name=Strategy) gold wikification:=Strategy isCorrectPrediction=Correct
+*Entity:[crime,textSpan=(59-64)]	-Disambiguation:(tid=5785, Title name=Crime) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Interpol,textSpan=(68-76)]	-Disambiguation:(tid=14338129, Title name=Interpol) gold wikification:=Interpol isCorrectPrediction=Correct
+*Entity:[modernize,textSpan=(84-93)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wants,textSpan=(100-105)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[effectively,textSpan=(109-120)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fight,textSpan=(121-126)]	-Disambiguation:(tid=43702, Title name=Combat) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[crime syndicates,textSpan=(155-171)]	-Disambiguation:(tid=22625, Title name=Organized_crime) gold wikification:=Syndicate isCorrectPrediction=Incorrect
+*Entity:[the next,textSpan=(177-185)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[next century,textSpan=(181-193)]	-Disambiguation:(tid=11758236, Title name=1200–1300_in_European_fashion) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[century,textSpan=(186-193)]	-Disambiguation:(tid=1671458, Title name=Century_(cricket)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the police,textSpan=(195-205)]	-Disambiguation:(tid=406756, Title name=New_Zealand_Police) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[police,textSpan=(199-205)]	-Disambiguation:(tid=23627, Title name=Police) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[organization,textSpan=(206-218)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[president,textSpan=(221-230)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Thursday,textSpan=(236-244)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The criminal,textSpan=(249-261)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[criminal,textSpan=(253-261)]	-Disambiguation:(tid=5785, Title name=Crime) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[environment,textSpan=(262-273)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[changed,textSpan=(278-285)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Interpol,textSpan=(317-325)]	-Disambiguation:(tid=14338129, Title name=Interpol) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Interpol, Toshinori Kanemoto,textSpan=(317-345)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Toshinori,textSpan=(327-336)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Toshinori Kanemoto,textSpan=(327-345)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Kanemoto,textSpan=(337-345)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the opening,textSpan=(351-362)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[opening,textSpan=(355-362)]	-Disambiguation:(tid=68402, Title name=Chess_opening) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[session,textSpan=(363-370)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[67th,textSpan=(378-382)]	-Disambiguation:(tid=2021694, Title name=67th_United_States_Congress) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[general assembly,textSpan=(383-399)]	-Disambiguation:(tid=44421, Title name=Legislature) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[general,textSpan=(383-390)]	-Disambiguation:(tid=148537, Title name=General_officer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[assembly,textSpan=(391-399)]	-Disambiguation:(tid=44418, Title name=Deliberative_assembly) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[International,textSpan=(407-420)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[International Criminal Police Organization,textSpan=(407-449)]	-Disambiguation:(tid=14338129, Title name=Interpol) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Criminal Police,textSpan=(421-436)]	-Disambiguation:(tid=1145694, Title name=Kriminalpolizei) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Criminal,textSpan=(421-429)]	-Disambiguation:(tid=5785, Title name=Crime) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Police,textSpan=(430-436)]	-Disambiguation:(tid=1145694, Title name=Kriminalpolizei) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Organization,textSpan=(437-449)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[failure,textSpan=(456-463)]	-Disambiguation:(tid=42308, Title name=Failure) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[modernize,textSpan=(467-476)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Interpol,textSpan=(477-485)]	-Disambiguation:(tid=14338129, Title name=Interpol) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[mean,textSpan=(492-496)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[displaced,textSpan=(527-536)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[backdrop,textSpan=(547-555)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[organized crime,textSpan=(574-589)]	-Disambiguation:(tid=22625, Title name=Organized_crime) gold wikification:=Organized_crime isCorrectPrediction=Correct
+*Entity:[Kanemoto,textSpan=(607-615)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a new,textSpan=(621-626)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Interpol,textSpan=(627-635)]	-Disambiguation:(tid=14338129, Title name=Interpol) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[strategy,textSpan=(636-644)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[will be,textSpan=(645-652)]	-Disambiguation:(tid=904807, Title name=Frederick_Cook) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[discussed,textSpan=(653-662)]	-Disambiguation:(tid=337689, Title name=Debate) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[six-day,textSpan=(670-677)]	-Disambiguation:(tid=1840433, Title name=Six-day_racing) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[assembly,textSpan=(678-686)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[effect,textSpan=(722-728)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[January,textSpan=(734-741)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The former,textSpan=(746-756)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Japanese,textSpan=(757-765)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Japanese police,textSpan=(757-772)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[police,textSpan=(766-772)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[police official,textSpan=(766-781)]	-Disambiguation:(tid=23627, Title name=Police) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[official,textSpan=(773-781)]	-Disambiguation:(tid=23627, Title name=Police) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the assembly,textSpan=(787-799)]	-Disambiguation:(tid=16656438, Title name=Council_of_Acre) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[assembly,textSpan=(791-799)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[discuss,textSpan=(810-817)]	-Disambiguation:(tid=337689, Title name=Debate) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[terrorism,textSpan=(819-828)]	-Disambiguation:(tid=30636, Title name=Terrorism) gold wikification:=Terrorism isCorrectPrediction=Correct
+*Entity:[new forms,textSpan=(860-869)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[forms,textSpan=(864-869)]	-Disambiguation:(tid=4344842, Title name=Theory_of_Forms) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[criminality,textSpan=(873-884)]	-Disambiguation:(tid=5785, Title name=Crime) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[illegal drug trade,textSpan=(904-922)]	-Disambiguation:(tid=218449, Title name=Illegal_drug_trade) gold wikification:=Illegal_drug_trade isCorrectPrediction=Correct
+*Entity:[money,textSpan=(930-935)]	-Disambiguation:(tid=8983183, Title name=Money) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[money laundering,textSpan=(930-946)]	-Disambiguation:(tid=19390, Title name=Money_laundering) gold wikification:=Money_laundering isCorrectPrediction=Correct
+*Entity:[laundering,textSpan=(936-946)]	-Disambiguation:(tid=19390, Title name=Money_laundering) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[crime,textSpan=(958-963)]	-Disambiguation:(tid=5785, Title name=Crime) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[increasingly,textSpan=(973-985)]	-Disambiguation:(tid=15502039, Title name=Increasingly) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Kanemoto,textSpan=(1001-1009)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[police,textSpan=(1041-1047)]	-Disambiguation:(tid=23627, Title name=Police) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[officials,textSpan=(1048-1057)]	-Disambiguation:(tid=1901849, Title name=Informant) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gather,textSpan=(1061-1067)]	-Disambiguation:(tid=4644950, Title name=Gather) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[evidence,textSpan=(1069-1077)]	-Disambiguation:(tid=5236854, Title name=Evidence) gold wikification:=Evidence isCorrectPrediction=Correct
+*Entity:[prosecution,textSpan=(1084-1095)]	-Disambiguation:(tid=440936, Title name=Prosecutor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[He,textSpan=(1097-1099)]	-Disambiguation:(tid=343339, Title name=Emperor_He_of_Han) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[challenges,textSpan=(1115-1125)]	-Disambiguation:(tid=15612274, Title name=List_of_Raven_challenges) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[increased,textSpan=(1134-1143)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cooperation,textSpan=(1144-1155)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Interpol,textSpan=(1178-1186)]	-Disambiguation:(tid=14338129, Title name=Interpol) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The police,textSpan=(1191-1201)]	-Disambiguation:(tid=451884, Title name=Indian_Police_Service) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[police,textSpan=(1195-1201)]	-Disambiguation:(tid=451884, Title name=Indian_Police_Service) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[officials,textSpan=(1202-1211)]	-Disambiguation:(tid=1901849, Title name=Informant) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[expected,textSpan=(1216-1224)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[discuss,textSpan=(1228-1235)]	-Disambiguation:(tid=337689, Title name=Debate) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Interpol,textSpan=(1283-1291)]	-Disambiguation:(tid=14338129, Title name=Interpol) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[proactive,textSpan=(1297-1306)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the needs,textSpan=(1323-1332)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[needs,textSpan=(1327-1332)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the group,textSpan=(1336-1345)]	-Disambiguation:(tid=21149, Title name=N.W.A) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[group,textSpan=(1340-1345)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[states,textSpan=(1359-1365)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Kanemoto,textSpan=(1367-1375)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Details,textSpan=(1385-1392)]	-Disambiguation:(tid=2271880, Title name=Details_(magazine)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[graf,textSpan=(1397-1401)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pvs,textSpan=(1404-1407)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Interpol' start in text:0 end in text: 11; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'needs' start in text:12 end in text: 17; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'revamp' start in text:21 end in text: 27; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'strategy' start in text:29 end in text: 37; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'crime' start in text:59 end in text: 64; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Interpol' start in text:68 end in text: 76; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'modernize' start in text:84 end in text: 93; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wants' start in text:100 end in text: 105; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'effectively' start in text:109 end in text: 120; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fight' start in text:121 end in text: 126; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'crime syndicates' start in text:155 end in text: 171; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the next' start in text:177 end in text: 185; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'next century' start in text:181 end in text: 193; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'century' start in text:186 end in text: 193; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the police' start in text:195 end in text: 205; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'police' start in text:199 end in text: 205; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'organization' start in text:206 end in text: 218; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'president' start in text:221 end in text: 230; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thursday' start in text:236 end in text: 244; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The criminal' start in text:249 end in text: 261; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'criminal' start in text:253 end in text: 261; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'environment' start in text:262 end in text: 273; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'changed' start in text:278 end in text: 285; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Interpol' start in text:317 end in text: 325; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Interpol, Toshinori Kanemoto' start in text:317 end in text: 345; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Toshinori' start in text:327 end in text: 336; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Toshinori Kanemoto' start in text:327 end in text: 345; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Kanemoto' start in text:337 end in text: 345; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the opening' start in text:351 end in text: 362; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'opening' start in text:355 end in text: 362; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'session' start in text:363 end in text: 370; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '67th' start in text:378 end in text: 382; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'general assembly' start in text:383 end in text: 399; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'general' start in text:383 end in text: 390; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'assembly' start in text:391 end in text: 399; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'International' start in text:407 end in text: 420; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'International Criminal Police Organization' start in text:407 end in text: 449; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Criminal Police' start in text:421 end in text: 436; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Criminal' start in text:421 end in text: 429; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Police' start in text:430 end in text: 436; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Organization' start in text:437 end in text: 449; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'failure' start in text:456 end in text: 463; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'modernize' start in text:467 end in text: 476; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Interpol' start in text:477 end in text: 485; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'mean' start in text:492 end in text: 496; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'displaced' start in text:527 end in text: 536; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'backdrop' start in text:547 end in text: 555; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'organized crime' start in text:574 end in text: 589; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Kanemoto' start in text:607 end in text: 615; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a new' start in text:621 end in text: 626; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Interpol' start in text:627 end in text: 635; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'strategy' start in text:636 end in text: 644; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'will be' start in text:645 end in text: 652; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'discussed' start in text:653 end in text: 662; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'six-day' start in text:670 end in text: 677; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'assembly' start in text:678 end in text: 686; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'effect' start in text:722 end in text: 728; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'January' start in text:734 end in text: 741; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The former' start in text:746 end in text: 756; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Japanese' start in text:757 end in text: 765; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Japanese police' start in text:757 end in text: 772; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'police' start in text:766 end in text: 772; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'police official' start in text:766 end in text: 781; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'official' start in text:773 end in text: 781; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the assembly' start in text:787 end in text: 799; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'assembly' start in text:791 end in text: 799; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'discuss' start in text:810 end in text: 817; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'terrorism' start in text:819 end in text: 828; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'new forms' start in text:860 end in text: 869; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'forms' start in text:864 end in text: 869; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'criminality' start in text:873 end in text: 884; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'illegal drug trade' start in text:904 end in text: 922; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'money' start in text:930 end in text: 935; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'money laundering' start in text:930 end in text: 946; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'laundering' start in text:936 end in text: 946; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'crime' start in text:958 end in text: 963; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'increasingly' start in text:973 end in text: 985; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Kanemoto' start in text:1001 end in text: 1009; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'police' start in text:1041 end in text: 1047; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'officials' start in text:1048 end in text: 1057; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gather' start in text:1061 end in text: 1067; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'evidence' start in text:1069 end in text: 1077; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'prosecution' start in text:1084 end in text: 1095; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'He' start in text:1097 end in text: 1099; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'challenges' start in text:1115 end in text: 1125; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'increased' start in text:1134 end in text: 1143; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cooperation' start in text:1144 end in text: 1155; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Interpol' start in text:1178 end in text: 1186; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The police' start in text:1191 end in text: 1201; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'police' start in text:1195 end in text: 1201; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'officials' start in text:1202 end in text: 1211; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'expected' start in text:1216 end in text: 1224; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'discuss' start in text:1228 end in text: 1235; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Interpol' start in text:1283 end in text: 1291; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'proactive' start in text:1297 end in text: 1306; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the needs' start in text:1323 end in text: 1332; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'needs' start in text:1327 end in text: 1332; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the group' start in text:1336 end in text: 1345; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'group' start in text:1340 end in text: 1345; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'states' start in text:1359 end in text: 1365; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Kanemoto' start in text:1367 end in text: 1375; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Details' start in text:1385 end in text: 1392; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'graf' start in text:1397 end in text: 1401; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pvs' start in text:1404 end in text: 1407; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+

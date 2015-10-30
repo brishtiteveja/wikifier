@@ -1,0 +1,432 @@
+<ANNOTATION>
+   Prosecutor: Botha may still stand  <b>trial</b><br><br> A   <b>prosecutor</b>   on Friday left open the possibility that former apartheid President   <a class="wiki" href="http://en.wikipedia.org/wiki/P._W._Botha" cat="member	person	president	leaders	politician	christian	minister">P.W. Botha</a>    would be put on  <b>trial</b> for abuses committed during  white rule  . <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Prosecutor" cat="profession	prosecutor	occupation">Prosecutor</a>  Jan D'Oliveira said he currently has  <b>insufficient evidence</b> to prosecute  <a class="wiki" href="http://en.wikipedia.org/wiki/P._W._Botha" cat="member	person	president	leaders	politician	christian	minister">Botha</a> , but that information collected by the   <a class="wiki" href="http://en.wikipedia.org/wiki/Truth_and_Reconciliation_Commission_(South_Africa)" cat="event	organisation">Truth and Reconciliation Commission (South Africa)</a>   , which investigated  <b>apartheid-era</b> abuses, still must be evaluated to ascertain whether charges would ultimately be brought. <br><br> Last month, the  <a class="wiki" href="http://en.wikipedia.org/wiki/Truth_and_reconciliation_commission" cat="right">Truth Comission</a>  issued a landmark report on its findings. It said  <a class="wiki" href="http://en.wikipedia.org/wiki/P._W._Botha" cat="member	person	president	leaders	politician	christian	minister">Botha</a>  had ordered the  <b>1987</b>  <b>bombing</b> of the   <a class="wiki" href="http://en.wikipedia.org/wiki/African_National_Congress" cat="organisation	party	movement">African National Congress</a>   '  <a class="wiki" href="http://en.wikipedia.org/wiki/London" cat="capital	port	city	place">London</a>  headquarters and the  <b>1988</b>  <b>bombing</b> of a   <a class="wiki" href="http://en.wikipedia.org/wiki/Johannesburg" cat="capital	city	place">Johannesburg</a>    building housing an anti-apartheid group. <br><br> When  <a class="wiki" href="http://en.wikipedia.org/wiki/P._W._Botha" cat="member	person	president	leaders	politician	christian	minister">Botha</a>  was head of state in the  <b>1980s</b>,  <b>thousands</b> of people were detained without trial. Many were tortured and others killed. <br><br> The commission can grant   <b>amnesty</b>   to those who  <b>fully</b>  <b>confess</b> to politically motivated abuses committed during  <b>apartheid</b>.  <a class="wiki" href="http://en.wikipedia.org/wiki/P._W._Botha" cat="member	person	president	leaders	politician	christian	minister">Botha</a>  has said he has nothing to  <b>confess</b> and has not sought  <b>amnesty</b>. <br><br> Earlier this year,  <a class="wiki" href="http://en.wikipedia.org/wiki/P._W._Botha" cat="member	person	president	leaders	politician	christian	minister">Botha</a>  was convicted of   <b>contempt of court</b>   for refusing to  <b>testify</b> before the  <b>commission</b>. He was handed a suspended  <b>one-year</b>  <b>jail sentence</b> and a 10,000  rand  (dlrs 5,700) fine. He has appealed the decision. <br><br> (sapa-aos) <br><br>
+</ANNOTATION>
+*Entity:[stand,textSpan=(31-36)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[trial,textSpan=(37-42)]	-Disambiguation:(tid=3276812, Title name=Trial) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[prosecutor,textSpan=(48-58)]	-Disambiguation:(tid=440936, Title name=Prosecutor) gold wikification:=Prosecutor isCorrectPrediction=Correct
+*Entity:[Friday,textSpan=(64-70)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[left,textSpan=(71-75)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[open,textSpan=(76-80)]	-Disambiguation:(tid=514174, Title name=Open) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[possibility,textSpan=(85-96)]	-Disambiguation:(tid=142919, Title name=Possibility) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[P.W. Botha,textSpan=(130-140)]	-Disambiguation:(tid=383252, Title name=P._W._Botha) gold wikification:=P._W._Botha isCorrectPrediction=Correct
+*Entity:[trial,textSpan=(159-164)]	-Disambiguation:(tid=3276812, Title name=Trial) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[abuses,textSpan=(169-175)]	-Disambiguation:(tid=6636, Title name=Child_sexual_abuse) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[white,textSpan=(194-199)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rule,textSpan=(200-204)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Prosecutor,textSpan=(211-221)]	-Disambiguation:(tid=440936, Title name=Prosecutor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Prosecutor Jan D'Oliveira,textSpan=(211-236)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jan,textSpan=(222-225)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jan D'Oliveira,textSpan=(222-236)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[D'Oliveira,textSpan=(226-236)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[insufficient evidence,textSpan=(259-280)]	-Disambiguation:(tid=3658264, Title name=Legal_burden_of_proof) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[insufficient,textSpan=(259-271)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[evidence,textSpan=(272-280)]	-Disambiguation:(tid=2001231, Title name=Evidence_(law)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[prosecute,textSpan=(284-293)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Botha,textSpan=(294-299)]	-Disambiguation:(tid=383252, Title name=P._W._Botha) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Truth and Reconciliation Commission,textSpan=(340-375)]	-Disambiguation:(tid=30865, Title name=Truth_and_Reconciliation_Commission_(South_Africa)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Truth and Reconciliation Commission (South Africa),textSpan=(340-390)]	-Disambiguation:(tid=30865, Title name=Truth_and_Reconciliation_Commission_(South_Africa)) gold wikification:=Truth_and_reconciliation_commission isCorrectPrediction=Incorrect
+*Entity:[Reconciliation Commission,textSpan=(350-375)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[South Africa,textSpan=(377-389)]	-Disambiguation:(tid=17416221, Title name=South_Africa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[apartheid-era,textSpan=(413-426)]	-Disambiguation:(tid=2200527, Title name=Apartheid_in_South_Africa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[abuses,textSpan=(427-433)]	-Disambiguation:(tid=6636, Title name=Child_sexual_abuse) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[evaluated,textSpan=(449-458)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[charges,textSpan=(480-487)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Last month,textSpan=(520-530)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Last,textSpan=(520-524)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[month,textSpan=(525-530)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Truth Comission,textSpan=(536-551)]	-Disambiguation:(tid=3154383, Title name=Truth_and_reconciliation_commission) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Truth,textSpan=(536-541)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Comission,textSpan=(542-551)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[landmark,textSpan=(561-569)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[report,textSpan=(570-576)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[findings,textSpan=(584-592)]	-Disambiguation:(tid=2180364, Title name=Finding) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[It,textSpan=(594-596)]	-Disambiguation:(tid=271590, Title name=It_(novel)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Botha,textSpan=(602-607)]	-Disambiguation:(tid=383252, Title name=P._W._Botha) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ordered,textSpan=(612-619)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1987,textSpan=(624-628)]	-Disambiguation:(tid=34760, Title name=1987) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bombing,textSpan=(629-636)]	-Disambiguation:(tid=112274, Title name=The_Blitz) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[African National Congress ' London,textSpan=(645-680)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[African National Congress,textSpan=(645-670)]	-Disambiguation:(tid=2503, Title name=African_National_Congress) gold wikification:=African_National_Congress isCorrectPrediction=Correct
+*Entity:[London,textSpan=(674-680)]	-Disambiguation:(tid=17867, Title name=London) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[headquarters,textSpan=(681-693)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1988,textSpan=(702-706)]	-Disambiguation:(tid=34670, Title name=1988) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bombing,textSpan=(707-714)]	-Disambiguation:(tid=112274, Title name=The_Blitz) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Johannesburg,textSpan=(721-733)]	-Disambiguation:(tid=58893, Title name=Johannesburg) gold wikification:=Johannesburg isCorrectPrediction=Correct
+*Entity:[anti-apartheid,textSpan=(756-770)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[group,textSpan=(771-776)]	-Disambiguation:(tid=19447, Title name=Group_(mathematics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Botha,textSpan=(786-791)]	-Disambiguation:(tid=383252, Title name=P._W._Botha) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[head,textSpan=(796-800)]	-Disambiguation:(tid=1209545, Title name=Head) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[state,textSpan=(804-809)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the 1980s,textSpan=(813-822)]	-Disambiguation:(tid=34557, Title name=1980s) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1980s,textSpan=(817-822)]	-Disambiguation:(tid=34557, Title name=1980s) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[thousands,textSpan=(824-833)]	-Disambiguation:(tid=442472, Title name=1000_(number)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[people,textSpan=(837-843)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[detained,textSpan=(849-857)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[trial,textSpan=(866-871)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Many,textSpan=(873-877)]	-Disambiguation:(tid=115717, Title name=Many,_Louisiana) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The commission,textSpan=(914-928)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[commission,textSpan=(918-928)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[grant,textSpan=(933-938)]	-Disambiguation:(tid=1980975, Title name=Grant_(money)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[amnesty,textSpan=(940-947)]	-Disambiguation:(tid=3258, Title name=Amnesty) gold wikification:=Amnesty isCorrectPrediction=Correct
+*Entity:[fully,textSpan=(963-968)]	-Disambiguation:(tid=4264781, Title name=Fully) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[confess,textSpan=(969-976)]	-Disambiguation:(tid=217474, Title name=Confession) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[politically,textSpan=(980-991)]	-Disambiguation:(tid=22986, Title name=Politics) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[motivated,textSpan=(992-1001)]	-Disambiguation:(tid=232495, Title name=Motivation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[abuses,textSpan=(1002-1008)]	-Disambiguation:(tid=6636, Title name=Child_sexual_abuse) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[apartheid,textSpan=(1026-1035)]	-Disambiguation:(tid=2200527, Title name=Apartheid_in_South_Africa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Botha,textSpan=(1037-1042)]	-Disambiguation:(tid=383252, Title name=P._W._Botha) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[said,textSpan=(1047-1051)]	-Disambiguation:(tid=11145758, Title name=Kayfabe) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[confess,textSpan=(1070-1077)]	-Disambiguation:(tid=217474, Title name=Confession) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[has not,textSpan=(1082-1089)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[amnesty,textSpan=(1097-1104)]	-Disambiguation:(tid=3258, Title name=Amnesty) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Earlier,textSpan=(1109-1116)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[this year,textSpan=(1117-1126)]	-Disambiguation:(tid=35825, Title name=2008) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[year,textSpan=(1122-1126)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Botha,textSpan=(1128-1133)]	-Disambiguation:(tid=383252, Title name=P._W._Botha) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[convicted,textSpan=(1138-1147)]	-Disambiguation:(tid=146762, Title name=Conviction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[contempt,textSpan=(1152-1160)]	-Disambiguation:(tid=7201, Title name=Contempt_of_court) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[contempt of court,textSpan=(1152-1169)]	-Disambiguation:(tid=7201, Title name=Contempt_of_court) gold wikification:=Contempt_of_court isCorrectPrediction=Correct
+*Entity:[court,textSpan=(1164-1169)]	-Disambiguation:(tid=75358, Title name=Court) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[testify,textSpan=(1188-1195)]	-Disambiguation:(tid=75696, Title name=Testimony) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the commission,textSpan=(1203-1217)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[commission,textSpan=(1207-1217)]	-Disambiguation:(tid=146711, Title name=Commission) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[He,textSpan=(1219-1221)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[handed,textSpan=(1226-1232)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[suspended,textSpan=(1235-1244)]	-Disambiguation:(tid=711640, Title name=Suspended_sentence) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[one-year,textSpan=(1245-1253)]	-Disambiguation:(tid=3658264, Title name=One_Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[jail,textSpan=(1254-1258)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[jail sentence,textSpan=(1254-1267)]	-Disambiguation:(tid=870351, Title name=Sentence_(law)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sentence,textSpan=(1259-1267)]	-Disambiguation:(tid=48936, Title name=Prison) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rand,textSpan=(1282-1286)]	-Disambiguation:(tid=298686, Title name=South_African_rand) gold wikification:=South_African_rand isCorrectPrediction=Correct
+*Entity:[He,textSpan=(1307-1309)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[appealed,textSpan=(1314-1322)]	-Disambiguation:(tid=640, Title name=Appeal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the decision,textSpan=(1323-1335)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[decision,textSpan=(1327-1335)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'stand' start in text:31 end in text: 36; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'trial' start in text:37 end in text: 42; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'prosecutor' start in text:48 end in text: 58; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Friday' start in text:64 end in text: 70; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'left' start in text:71 end in text: 75; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'open' start in text:76 end in text: 80; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'possibility' start in text:85 end in text: 96; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'P.W. Botha' start in text:130 end in text: 140; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'trial' start in text:159 end in text: 164; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'abuses' start in text:169 end in text: 175; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'white' start in text:194 end in text: 199; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rule' start in text:200 end in text: 204; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Prosecutor' start in text:211 end in text: 221; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Prosecutor Jan D'Oliveira' start in text:211 end in text: 236; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Jan' start in text:222 end in text: 225; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jan D'Oliveira' start in text:222 end in text: 236; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'D'Oliveira' start in text:226 end in text: 236; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'insufficient evidence' start in text:259 end in text: 280; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'insufficient' start in text:259 end in text: 271; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'evidence' start in text:272 end in text: 280; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'prosecute' start in text:284 end in text: 293; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Botha' start in text:294 end in text: 299; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Truth and Reconciliation Commission' start in text:340 end in text: 375; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Truth and Reconciliation Commission (South Africa)' start in text:340 end in text: 390; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Reconciliation Commission' start in text:350 end in text: 375; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'South Africa' start in text:377 end in text: 389; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'apartheid-era' start in text:413 end in text: 426; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'abuses' start in text:427 end in text: 433; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'evaluated' start in text:449 end in text: 458; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'charges' start in text:480 end in text: 487; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Last month' start in text:520 end in text: 530; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Last' start in text:520 end in text: 524; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'month' start in text:525 end in text: 530; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Truth Comission' start in text:536 end in text: 551; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Truth' start in text:536 end in text: 541; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Comission' start in text:542 end in text: 551; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'landmark' start in text:561 end in text: 569; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'report' start in text:570 end in text: 576; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'findings' start in text:584 end in text: 592; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'It' start in text:594 end in text: 596; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Botha' start in text:602 end in text: 607; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ordered' start in text:612 end in text: 619; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1987' start in text:624 end in text: 628; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bombing' start in text:629 end in text: 636; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'African National Congress ' London' start in text:645 end in text: 680; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'African National Congress' start in text:645 end in text: 670; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'London' start in text:674 end in text: 680; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'headquarters' start in text:681 end in text: 693; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1988' start in text:702 end in text: 706; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bombing' start in text:707 end in text: 714; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Johannesburg' start in text:721 end in text: 733; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'anti-apartheid' start in text:756 end in text: 770; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'group' start in text:771 end in text: 776; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Botha' start in text:786 end in text: 791; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'head' start in text:796 end in text: 800; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'state' start in text:804 end in text: 809; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the 1980s' start in text:813 end in text: 822; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1980s' start in text:817 end in text: 822; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'thousands' start in text:824 end in text: 833; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'people' start in text:837 end in text: 843; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'detained' start in text:849 end in text: 857; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'trial' start in text:866 end in text: 871; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Many' start in text:873 end in text: 877; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The commission' start in text:914 end in text: 928; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'commission' start in text:918 end in text: 928; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'grant' start in text:933 end in text: 938; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'amnesty' start in text:940 end in text: 947; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fully' start in text:963 end in text: 968; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'confess' start in text:969 end in text: 976; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'politically' start in text:980 end in text: 991; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'motivated' start in text:992 end in text: 1001; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'abuses' start in text:1002 end in text: 1008; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'apartheid' start in text:1026 end in text: 1035; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Botha' start in text:1037 end in text: 1042; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'said' start in text:1047 end in text: 1051; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'confess' start in text:1070 end in text: 1077; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'has not' start in text:1082 end in text: 1089; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'amnesty' start in text:1097 end in text: 1104; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Earlier' start in text:1109 end in text: 1116; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'this year' start in text:1117 end in text: 1126; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'year' start in text:1122 end in text: 1126; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Botha' start in text:1128 end in text: 1133; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'convicted' start in text:1138 end in text: 1147; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'contempt' start in text:1152 end in text: 1160; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'contempt of court' start in text:1152 end in text: 1169; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'court' start in text:1164 end in text: 1169; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'testify' start in text:1188 end in text: 1195; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the commission' start in text:1203 end in text: 1217; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'commission' start in text:1207 end in text: 1217; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'He' start in text:1219 end in text: 1221; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'handed' start in text:1226 end in text: 1232; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'suspended' start in text:1235 end in text: 1244; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'one-year' start in text:1245 end in text: 1253; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'jail' start in text:1254 end in text: 1258; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'jail sentence' start in text:1254 end in text: 1267; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'sentence' start in text:1259 end in text: 1267; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rand' start in text:1282 end in text: 1286; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'He' start in text:1307 end in text: 1309; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'appealed' start in text:1314 end in text: 1322; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the decision' start in text:1323 end in text: 1335; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'decision' start in text:1327 end in text: 1335; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

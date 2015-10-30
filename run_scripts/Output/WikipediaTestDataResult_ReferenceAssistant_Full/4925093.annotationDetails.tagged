@@ -1,0 +1,411 @@
+<ANNOTATION>
+ <a class="wiki" href="http://en.wikipedia.org/wiki/Day_length" cat="phenomenon">Day length</a> , or length of day, or length of daytime, refers to the  <b>temporal</b> length of a day, or  <b>24</b> hours, during which there is  <b>daylight</b>.<br>Due to the    <b>diffusion</b>   and    <b>refraction</b>   of    <b>sunlight</b>   by the   atmosphere  , there is actually    <b>daylight</b>   even when the   sun   is slightly below the    <b>horizon</b>  . <br>Theoretically, the  <b>day length</b> can be computed from the moment the  <b>upper limb</b> of the   sun  's  <b>disk</b> appears on the    <b>horizon</b>   during    <b>sunrise</b>   to the moment when the  <b>upper limb</b> disappears at the    <b>horizon</b>   during    <b>sunset</b>  . <br>More  <b>conveniently</b>, however, the center of the  <b>sun</b> is often used in place of the  <b>upper limb</b> for computing the  <b>day length</b>. When    <b>sunrise</b>   and    <b>sunset</b>   do occur, the  <b>day length</b> can be computed as 2ω sub o /sub /15 , where ω sub o /sub  is the    <b>sunset</b>      <b>hour angle</b>   in  <b>degrees</b> ( ) given by the    sunset equation  . When    <b>sunrise</b>   and    <b>sunset</b>   do not occur during the course of a day, the  <b>day length</b> is either 0 or  <b>24</b> hours. <br>To considerable  <b>accuracy</b>, all the points at the same  <b>latitude</b> on the same  <b>calendar date</b> can be considered to have the same  <b>day length</b>. The   contour   plot in the figure is computed using the   sunset equation  .<br><br>
+</ANNOTATION>
+*Entity:[Day length,textSpan=(0-10)]	-Disambiguation:(tid=4925093, Title name=Day_length) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Day,textSpan=(0-3)]	-Disambiguation:(tid=8376, Title name=Day) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[length,textSpan=(4-10)]	-Disambiguation:(tid=4925093, Title name=Day_length) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[length,textSpan=(15-21)]	-Disambiguation:(tid=18542, Title name=Length) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[day,textSpan=(25-28)]	-Disambiguation:(tid=8376, Title name=Day) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[length,textSpan=(33-39)]	-Disambiguation:(tid=18542, Title name=Length) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[daytime,textSpan=(43-50)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[temporal,textSpan=(66-74)]	-Disambiguation:(tid=30012, Title name=Time) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[length,textSpan=(75-81)]	-Disambiguation:(tid=18542, Title name=Length) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a day,textSpan=(85-90)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[day,textSpan=(87-90)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[24,textSpan=(95-97)]	-Disambiguation:(tid=68769, Title name=24_(TV_series)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[24 hours,textSpan=(95-103)]	-Disambiguation:(tid=3578064, Title name=24_Hours) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hours,textSpan=(98-103)]	-Disambiguation:(tid=634045, Title name=Hours) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[daylight,textSpan=(127-135)]	-Disambiguation:(tid=2301573, Title name=Daylight) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[diffusion,textSpan=(150-159)]	-Disambiguation:(tid=8643, Title name=Diffusion) gold wikification:=Diffusion isCorrectPrediction=Correct
+*Entity:[refraction,textSpan=(168-178)]	-Disambiguation:(tid=25948, Title name=Refraction) gold wikification:=Refraction isCorrectPrediction=Correct
+*Entity:[sunlight,textSpan=(186-194)]	-Disambiguation:(tid=27979, Title name=Sunlight) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[atmosphere,textSpan=(206-216)]	-Disambiguation:*null* gold wikification:=Atmosphere isCorrectPrediction=Incorrect
+*Entity:[daylight,textSpan=(240-248)]	-Disambiguation:(tid=2301573, Title name=Daylight) gold wikification:=Daylight isCorrectPrediction=Correct
+*Entity:[horizon,textSpan=(297-304)]	-Disambiguation:(tid=48910, Title name=Horizon) gold wikification:=Horizon isCorrectPrediction=Correct
+*Entity:[the day,textSpan=(324-331)]	-Disambiguation:(tid=3819091, Title name=24_(season_5)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[day length,textSpan=(328-338)]	-Disambiguation:(tid=4925093, Title name=Day_length) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[day,textSpan=(328-331)]	-Disambiguation:(tid=8376, Title name=Day) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[length,textSpan=(332-338)]	-Disambiguation:(tid=18542, Title name=Length) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[computed,textSpan=(346-354)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the moment,textSpan=(360-370)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[moment,textSpan=(364-370)]	-Disambiguation:(tid=278366, Title name=Moment_(physics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[upper limb,textSpan=(375-385)]	-Disambiguation:(tid=674200, Title name=Upper_limb) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[upper,textSpan=(375-380)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[limb,textSpan=(381-385)]	-Disambiguation:(tid=13280372, Title name=Limb_(anatomy)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[disk,textSpan=(403-407)]	-Disambiguation:(tid=329542, Title name=Disk_(mathematics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[horizon,textSpan=(425-432)]	-Disambiguation:(tid=48910, Title name=Horizon) gold wikification:=Horizon isCorrectPrediction=Correct
+*Entity:[sunrise,textSpan=(444-451)]	-Disambiguation:(tid=190919, Title name=Sunrise) gold wikification:=Sunrise isCorrectPrediction=Correct
+*Entity:[the moment,textSpan=(457-467)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[moment,textSpan=(461-467)]	-Disambiguation:(tid=278366, Title name=Moment_(physics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[upper limb,textSpan=(477-487)]	-Disambiguation:(tid=674200, Title name=Upper_limb) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[upper,textSpan=(477-482)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[limb,textSpan=(483-487)]	-Disambiguation:(tid=13280372, Title name=Limb_(anatomy)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[horizon,textSpan=(508-515)]	-Disambiguation:(tid=48910, Title name=Horizon) gold wikification:=Horizon isCorrectPrediction=Correct
+*Entity:[sunset,textSpan=(527-533)]	-Disambiguation:(tid=190933, Title name=Sunset) gold wikification:=Sunset isCorrectPrediction=Correct
+*Entity:[More,textSpan=(538-542)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[conveniently,textSpan=(543-555)]	-Disambiguation:(tid=1033177, Title name=Convenience) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the center,textSpan=(566-576)]	-Disambiguation:(tid=16826, Title name=Kabul) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[center,textSpan=(570-576)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the sun,textSpan=(580-587)]	-Disambiguation:(tid=27560, Title name=Solar_deity) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sun,textSpan=(584-587)]	-Disambiguation:(tid=26751, Title name=Sun) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[place,textSpan=(605-610)]	-Disambiguation:(tid=586851, Title name=Place) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[upper limb,textSpan=(618-628)]	-Disambiguation:(tid=674200, Title name=Upper_limb) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[upper,textSpan=(618-623)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[limb,textSpan=(624-628)]	-Disambiguation:(tid=13280372, Title name=Limb_(anatomy)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the day,textSpan=(643-650)]	-Disambiguation:(tid=3819091, Title name=24_(season_5)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[day length,textSpan=(647-657)]	-Disambiguation:(tid=4925093, Title name=Day_length) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[day,textSpan=(647-650)]	-Disambiguation:(tid=8376, Title name=Day) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[length,textSpan=(651-657)]	-Disambiguation:(tid=18542, Title name=Length) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sunrise,textSpan=(666-673)]	-Disambiguation:(tid=190919, Title name=Sunrise) gold wikification:=Sunrise isCorrectPrediction=Correct
+*Entity:[sunset,textSpan=(682-688)]	-Disambiguation:(tid=190933, Title name=Sunset) gold wikification:=Sunset isCorrectPrediction=Correct
+*Entity:[the day,textSpan=(701-708)]	-Disambiguation:(tid=3819091, Title name=24_(season_5)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[day length,textSpan=(705-715)]	-Disambiguation:(tid=4925093, Title name=Day_length) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[day,textSpan=(705-708)]	-Disambiguation:(tid=8376, Title name=Day) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[length,textSpan=(709-715)]	-Disambiguation:(tid=18542, Title name=Length) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[computed,textSpan=(723-731)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sunset,textSpan=(784-790)]	-Disambiguation:(tid=190933, Title name=Sunset) gold wikification:=Sunset isCorrectPrediction=Correct
+*Entity:[hour angle,textSpan=(795-805)]	-Disambiguation:(tid=48838, Title name=Hour_angle) gold wikification:=Hour_angle isCorrectPrediction=Correct
+*Entity:[degrees,textSpan=(811-818)]	-Disambiguation:(tid=1195294, Title name=Degree_(angle)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sunrise,textSpan=(865-872)]	-Disambiguation:(tid=190919, Title name=Sunrise) gold wikification:=Sunrise isCorrectPrediction=Correct
+*Entity:[sunset,textSpan=(881-887)]	-Disambiguation:(tid=190933, Title name=Sunset) gold wikification:=Sunset isCorrectPrediction=Correct
+*Entity:[do not,textSpan=(890-896)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the course,textSpan=(910-920)]	-Disambiguation:(tid=6336105, Title name=Snaefell_Mountain_Course) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[course,textSpan=(914-920)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a day,textSpan=(924-929)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[day,textSpan=(926-929)]	-Disambiguation:(tid=8376, Title name=Day) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the day,textSpan=(931-938)]	-Disambiguation:(tid=3819091, Title name=24_(season_5)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[day,textSpan=(935-938)]	-Disambiguation:(tid=8376, Title name=Day) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[day length,textSpan=(935-945)]	-Disambiguation:(tid=4925093, Title name=Day_length) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[length,textSpan=(939-945)]	-Disambiguation:(tid=18542, Title name=Length) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[or 24,textSpan=(958-963)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[24 hours,textSpan=(961-969)]	-Disambiguation:(tid=3578064, Title name=24_Hours) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[24,textSpan=(961-963)]	-Disambiguation:(tid=68769, Title name=24_(TV_series)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hours,textSpan=(964-969)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[accuracy,textSpan=(988-996)]	-Disambiguation:(tid=41932, Title name=Accuracy_and_precision) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the points,textSpan=(1002-1012)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[points,textSpan=(1006-1012)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the same,textSpan=(1016-1024)]	-Disambiguation:(tid=1363640, Title name=300_(comics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[latitude,textSpan=(1025-1033)]	-Disambiguation:(tid=17616, Title name=Latitude) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the same,textSpan=(1037-1045)]	-Disambiguation:(tid=1363640, Title name=300_(comics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[calendar date,textSpan=(1046-1059)]	-Disambiguation:(tid=7123, Title name=Calendar_date) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[calendar,textSpan=(1046-1054)]	-Disambiguation:(tid=5377, Title name=Calendar) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[date,textSpan=(1055-1059)]	-Disambiguation:(tid=5377, Title name=Calendar) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[considered,textSpan=(1067-1077)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the same day,textSpan=(1086-1098)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the same,textSpan=(1086-1094)]	-Disambiguation:(tid=1363640, Title name=300_(comics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[day length,textSpan=(1095-1105)]	-Disambiguation:(tid=4925093, Title name=Day_length) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[day,textSpan=(1095-1098)]	-Disambiguation:(tid=8376, Title name=Day) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[length,textSpan=(1099-1105)]	-Disambiguation:(tid=18542, Title name=Length) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[contour,textSpan=(1113-1120)]	-Disambiguation:(tid=650086, Title name=Contour_line) gold wikification:=Contour isCorrectPrediction=Incorrect
+*Entity:[the figure,textSpan=(1131-1141)]	-Disambiguation:(tid=405304, Title name=Figure_painting) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[figure,textSpan=(1135-1141)]	-Disambiguation:(tid=427100, Title name=Figure) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[computed,textSpan=(1145-1153)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Day length' start in text:0 end in text: 10; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Day' start in text:0 end in text: 3; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'length' start in text:4 end in text: 10; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'length' start in text:15 end in text: 21; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'day' start in text:25 end in text: 28; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'length' start in text:33 end in text: 39; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'daytime' start in text:43 end in text: 50; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'temporal' start in text:66 end in text: 74; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'length' start in text:75 end in text: 81; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a day' start in text:85 end in text: 90; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'day' start in text:87 end in text: 90; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '24' start in text:95 end in text: 97; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '24 hours' start in text:95 end in text: 103; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hours' start in text:98 end in text: 103; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'daylight' start in text:127 end in text: 135; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'diffusion' start in text:150 end in text: 159; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'refraction' start in text:168 end in text: 178; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sunlight' start in text:186 end in text: 194; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'atmosphere' start in text:206 end in text: 216; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'daylight' start in text:240 end in text: 248; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'horizon' start in text:297 end in text: 304; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the day' start in text:324 end in text: 331; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'day length' start in text:328 end in text: 338; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'day' start in text:328 end in text: 331; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'length' start in text:332 end in text: 338; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'computed' start in text:346 end in text: 354; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the moment' start in text:360 end in text: 370; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'moment' start in text:364 end in text: 370; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'upper limb' start in text:375 end in text: 385; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'upper' start in text:375 end in text: 380; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'limb' start in text:381 end in text: 385; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'disk' start in text:403 end in text: 407; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'horizon' start in text:425 end in text: 432; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sunrise' start in text:444 end in text: 451; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the moment' start in text:457 end in text: 467; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'moment' start in text:461 end in text: 467; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'upper limb' start in text:477 end in text: 487; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'upper' start in text:477 end in text: 482; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'limb' start in text:483 end in text: 487; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'horizon' start in text:508 end in text: 515; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sunset' start in text:527 end in text: 533; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'More' start in text:538 end in text: 542; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'conveniently' start in text:543 end in text: 555; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'the center' start in text:566 end in text: 576; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'center' start in text:570 end in text: 576; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the sun' start in text:580 end in text: 587; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sun' start in text:584 end in text: 587; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'place' start in text:605 end in text: 610; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'upper limb' start in text:618 end in text: 628; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'upper' start in text:618 end in text: 623; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'limb' start in text:624 end in text: 628; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the day' start in text:643 end in text: 650; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'day length' start in text:647 end in text: 657; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'day' start in text:647 end in text: 650; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'length' start in text:651 end in text: 657; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sunrise' start in text:666 end in text: 673; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sunset' start in text:682 end in text: 688; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the day' start in text:701 end in text: 708; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'day length' start in text:705 end in text: 715; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'day' start in text:705 end in text: 708; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'length' start in text:709 end in text: 715; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'computed' start in text:723 end in text: 731; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sunset' start in text:784 end in text: 790; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hour angle' start in text:795 end in text: 805; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'degrees' start in text:811 end in text: 818; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sunrise' start in text:865 end in text: 872; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sunset' start in text:881 end in text: 887; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'do not' start in text:890 end in text: 896; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'the course' start in text:910 end in text: 920; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'course' start in text:914 end in text: 920; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a day' start in text:924 end in text: 929; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'day' start in text:926 end in text: 929; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the day' start in text:931 end in text: 938; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'day' start in text:935 end in text: 938; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'day length' start in text:935 end in text: 945; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'length' start in text:939 end in text: 945; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'or 24' start in text:958 end in text: 963; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : '24 hours' start in text:961 end in text: 969; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '24' start in text:961 end in text: 963; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hours' start in text:964 end in text: 969; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'accuracy' start in text:988 end in text: 996; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the points' start in text:1002 end in text: 1012; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'points' start in text:1006 end in text: 1012; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the same' start in text:1016 end in text: 1024; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'latitude' start in text:1025 end in text: 1033; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the same' start in text:1037 end in text: 1045; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'calendar date' start in text:1046 end in text: 1059; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'calendar' start in text:1046 end in text: 1054; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'date' start in text:1055 end in text: 1059; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'considered' start in text:1067 end in text: 1077; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the same day' start in text:1086 end in text: 1098; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the same' start in text:1086 end in text: 1094; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'day length' start in text:1095 end in text: 1105; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'day' start in text:1095 end in text: 1098; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'length' start in text:1099 end in text: 1105; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'contour' start in text:1113 end in text: 1120; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the figure' start in text:1131 end in text: 1141; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'figure' start in text:1135 end in text: 1141; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'computed' start in text:1145 end in text: 1153; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

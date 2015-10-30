@@ -1,0 +1,51 @@
+<ReferenceProblem>
+	<ReferenceFileName>
+		chtb_227.eng
+	</ReferenceFileName>
+<ReferenceInstance>
+	<SurfaceForm>
+		International Correspondence Communication News Agency
+	</SurfaceForm>
+	<Offset>
+		841
+	</Offset>
+	<Length>
+		54
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Klelov
+	</SurfaceForm>
+	<Offset>
+		909
+	</Offset>
+	<Length>
+		6
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+</ReferenceProblem>

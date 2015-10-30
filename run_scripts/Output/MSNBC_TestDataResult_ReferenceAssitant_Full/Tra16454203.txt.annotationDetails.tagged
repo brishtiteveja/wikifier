@@ -1,0 +1,600 @@
+<ANNOTATION>
+ <a class="wiki" href="http://en.wikipedia.org/wiki/1000_(number)" cat="integer">Thousands</a>  of  <b>holiday</b> travelers without  <b>luggage</b><br> <a class="wiki" href="http://en.wikipedia.org/wiki/Fog" cat="hazard	accident	phenomenon">Fog</a> , technical  <b>glitch</b> at  <a class="wiki" href="http://en.wikipedia.org/wiki/London_Heathrow_Airport" cat="district	village">London's Heathrow Airport</a>  snarls  <b>baggage</b> system<br><br> <a class="wiki" href="http://en.wikipedia.org/wiki/London" cat="capital	port	city	place">LONDON</a>  -  <a class="wiki" href="http://en.wikipedia.org/wiki/1000_(number)" cat="integer">Thousands</a>  of  <b>airline</b> passengers still have not received their  <b>luggage</b> after  <b>fog</b> disrupted flights at  <a class="wiki" href="http://en.wikipedia.org/wiki/London_Heathrow_Airport" cat="district	village">London's Heathrow Airport</a>  late last year,  <b>airline</b> officials said Wednesday.<br><br>The chaos was compounded when  <b>faults</b> developed with a  <b>baggage belt</b> at  <a class="wiki" href="http://en.wikipedia.org/wiki/London_Heathrow_Airport" cat="district	village">Heathrow</a> 's Terminal 4, said  <a class="wiki" href="http://en.wikipedia.org/wiki/British_Airways" cat="">British Airways</a> , the  <b>airline</b> that was worst affected.<br><br> <a class="wiki" href="http://en.wikipedia.org/wiki/British_Airways" cat="">BA</a>  said Wednesday it still had "several thousand" bags that have not been delivered to their owners.<br><br>Many are still stacked at  <a class="wiki" href="http://en.wikipedia.org/wiki/London_Heathrow_Airport" cat="district	village">Heathrow</a> 's  <b>Terminal 1</b> and  <a class="wiki" href="http://en.wikipedia.org/wiki/Heathrow_Terminal_4_tube_station" cat="stations">Terminal 4</a> , and  <a class="wiki" href="http://en.wikipedia.org/wiki/British_Airways" cat="">BA</a>  is now using  <b>freight</b> planes and volunteers to deliver them to their owners.<br><br>The problem began before the  <a class="wiki" href="http://en.wikipedia.org/wiki/Christmas" cat="">Christmas</a>   <b>holiday</b> with a fault on a  <b>baggage belt</b> at Terminal 4, a  <a class="wiki" href="http://en.wikipedia.org/wiki/British_Airways" cat="">BA</a>   <b>spokesman</b> said on condition of  <b>anonymity</b>. That caused an initial backlog, and about 8,000 bags were not delivered, he said.<br><br>The  <b>fog</b> at  <a class="wiki" href="http://en.wikipedia.org/wiki/London_Heathrow_Airport" cat="district	village">Heathrow</a>  caused further problems, and there was another Terminal 4  <b>baggage belt</b> problem on  <a class="wiki" href="http://en.wikipedia.org/wiki/December_29" cat="days">Dec. 29</a>  ' leading to about 10,000 bags being undelivered, the  <b>spokesman</b> said.<br><br>Over the  <b>holiday season</b>, the  <b>airline</b> dealt with about 75,000 bags a day at  <a class="wiki" href="http://en.wikipedia.org/wiki/London_Heathrow_Airport" cat="district	village">Heathrow</a>  and handled about 1 million passengers, the  <b>spokesman</b> said.<br><br>The  <b>baggage</b> problem coincided with changes in working practices for  <a class="wiki" href="http://en.wikipedia.org/wiki/British_Airways" cat="">BA</a>   <b>baggage</b> handlers at  <b>Terminals</b> 1 and 4, before the  <b>airline</b>'s planned move to  <a class="wiki" href="http://en.wikipedia.org/wiki/Heathrow_Terminal_5_station" cat="stations">Terminal 5</a>  in  <a class="wiki" href="http://en.wikipedia.org/wiki/March_2008" cat="">March 2008</a> , he said.<br>
+</ANNOTATION>
+*Entity:[Thousands,textSpan=(0-9)]	-Disambiguation:(tid=442472, Title name=1000_(number)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[holiday,textSpan=(13-20)]	-Disambiguation:(tid=13279, Title name=Holiday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[travelers,textSpan=(21-30)]	-Disambiguation:(tid=4582654, Title name=Passenger) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[luggage,textSpan=(39-46)]	-Disambiguation:(tid=979665, Title name=Baggage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Fog,textSpan=(48-51)]	-Disambiguation:(tid=58991, Title name=Fog) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[technical,textSpan=(53-62)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[glitch,textSpan=(63-69)]	-Disambiguation:(tid=310005, Title name=Glitch) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[London,textSpan=(73-79)]	-Disambiguation:(tid=17867, Title name=London) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[London's Heathrow Airport,textSpan=(73-98)]	-Disambiguation:(tid=13595, Title name=London_Heathrow_Airport) gold wikification:=London_Heathrow_Airport isCorrectPrediction=Correct
+*Entity:[Heathrow,textSpan=(82-90)]	-Disambiguation:(tid=13595, Title name=London_Heathrow_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Heathrow Airport,textSpan=(82-98)]	-Disambiguation:(tid=13595, Title name=London_Heathrow_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Airport,textSpan=(91-98)]	-Disambiguation:(tid=2266292, Title name=Heathrow_Central_railway_station) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[baggage,textSpan=(106-113)]	-Disambiguation:(tid=979665, Title name=Baggage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[LONDON,textSpan=(124-130)]	-Disambiguation:(tid=17867, Title name=London) gold wikification:=London isCorrectPrediction=Correct
+*Entity:[Thousands,textSpan=(133-142)]	-Disambiguation:(tid=442472, Title name=1000_(number)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airline,textSpan=(146-153)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[passengers,textSpan=(154-164)]	-Disambiguation:(tid=4582654, Title name=Passenger) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[received,textSpan=(180-188)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[luggage,textSpan=(195-202)]	-Disambiguation:(tid=979665, Title name=Baggage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fog,textSpan=(209-212)]	-Disambiguation:(tid=58991, Title name=Fog) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[disrupted,textSpan=(213-222)]	-Disambiguation:(tid=1490148, Title name=Perturbation_(astronomy)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flights,textSpan=(223-230)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[London's Heathrow Airport,textSpan=(234-259)]	-Disambiguation:(tid=13595, Title name=London_Heathrow_Airport) gold wikification:=London_Heathrow_Airport isCorrectPrediction=Correct
+*Entity:[London,textSpan=(234-240)]	-Disambiguation:(tid=17867, Title name=London) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Heathrow,textSpan=(243-251)]	-Disambiguation:(tid=13595, Title name=London_Heathrow_Airport) gold wikification:=London_Heathrow_Airport isCorrectPrediction=Correct
+*Entity:[Heathrow Airport,textSpan=(243-259)]	-Disambiguation:(tid=13595, Title name=London_Heathrow_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Airport,textSpan=(252-259)]	-Disambiguation:(tid=2266292, Title name=Heathrow_Central_railway_station) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[late,textSpan=(260-264)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[last year,textSpan=(265-274)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[year,textSpan=(270-274)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airline,textSpan=(276-283)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[officials,textSpan=(284-293)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wednesday,textSpan=(299-308)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The chaos,textSpan=(313-322)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[chaos,textSpan=(317-322)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[compounded,textSpan=(327-337)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[faults,textSpan=(343-349)]	-Disambiguation:(tid=182787, Title name=Fault_(geology)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[baggage belt,textSpan=(367-379)]	-Disambiguation:(tid=51734, Title name=Conveyor_belt) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[baggage,textSpan=(367-374)]	-Disambiguation:(tid=979665, Title name=Baggage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[belt,textSpan=(375-379)]	-Disambiguation:(tid=172485, Title name=Belt_(clothing)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Heathrow,textSpan=(383-391)]	-Disambiguation:(tid=13595, Title name=London_Heathrow_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Heathrow's Terminal,textSpan=(383-402)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Terminal,textSpan=(394-402)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Terminal 4,textSpan=(394-404)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[British,textSpan=(411-418)]	-Disambiguation:(tid=31717, Title name=United_Kingdom) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[British Airways,textSpan=(411-426)]	-Disambiguation:(tid=3970, Title name=British_Airways) gold wikification:=British_Airways isCorrectPrediction=Correct
+*Entity:[Airways,textSpan=(419-426)]	-Disambiguation:(tid=1069414, Title name=Airway_(aviation)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the airline,textSpan=(428-439)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airline,textSpan=(432-439)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[worst,textSpan=(449-454)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[affected,textSpan=(455-463)]	-Disambiguation:(tid=3669631, Title name=Affect_(philosophy)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[BA,textSpan=(468-470)]	-Disambiguation:(tid=3970, Title name=British_Airways) gold wikification:=British_Airways isCorrectPrediction=Correct
+*Entity:[Wednesday,textSpan=(476-485)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[delivered,textSpan=(542-551)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[their owners,textSpan=(555-567)]	-Disambiguation:(tid=5773774, Title name=Drumaville_Consortium) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[owners,textSpan=(561-567)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Many,textSpan=(572-576)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[stacked,textSpan=(587-594)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Heathrow,textSpan=(598-606)]	-Disambiguation:(tid=13595, Title name=London_Heathrow_Airport) gold wikification:=London_Heathrow_Airport isCorrectPrediction=Correct
+*Entity:[Heathrow's Terminal,textSpan=(598-617)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Terminal 1,textSpan=(609-619)]	-Disambiguation:(tid=7951076, Title name=Terminal_One_Mall) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Terminal,textSpan=(609-617)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1 and,textSpan=(618-623)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Terminal,textSpan=(624-632)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Terminal 4,textSpan=(624-634)]	-Disambiguation:(tid=811356, Title name=Heathrow_Terminal_4_tube_station) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[BA,textSpan=(640-642)]	-Disambiguation:(tid=3970, Title name=British_Airways) gold wikification:=British_Airways isCorrectPrediction=Correct
+*Entity:[freight,textSpan=(656-663)]	-Disambiguation:(tid=396550, Title name=Cargo) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[planes,textSpan=(664-670)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[volunteers,textSpan=(675-685)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[deliver,textSpan=(689-696)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[their owners,textSpan=(705-717)]	-Disambiguation:(tid=5773774, Title name=Drumaville_Consortium) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[owners,textSpan=(711-717)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The problem,textSpan=(722-733)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[problem,textSpan=(726-733)]	-Disambiguation:(tid=608760, Title name=Problem) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the Christmas holiday,textSpan=(747-768)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Christmas holiday,textSpan=(751-768)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Christmas,textSpan=(751-760)]	-Disambiguation:(tid=6237, Title name=Christmas) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[holiday,textSpan=(761-768)]	-Disambiguation:(tid=6237, Title name=Christmas) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fault,textSpan=(776-781)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[baggage,textSpan=(787-794)]	-Disambiguation:(tid=979665, Title name=Baggage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[baggage belt,textSpan=(787-799)]	-Disambiguation:(tid=51734, Title name=Conveyor_belt) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[belt,textSpan=(795-799)]	-Disambiguation:(tid=172485, Title name=Belt_(clothing)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Terminal 4,textSpan=(803-813)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Terminal,textSpan=(803-811)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[BA,textSpan=(817-819)]	-Disambiguation:(tid=3970, Title name=British_Airways) gold wikification:=British_Airways isCorrectPrediction=Correct
+*Entity:[spokesman,textSpan=(820-829)]	-Disambiguation:(tid=338047, Title name=Spokesperson) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[condition,textSpan=(838-847)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[anonymity,textSpan=(851-860)]	-Disambiguation:(tid=181382, Title name=Anonymity) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[initial,textSpan=(877-884)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[backlog,textSpan=(885-892)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[8,000,textSpan=(904-909)]	-Disambiguation:(tid=40186, Title name=8th_millennium_BC) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bags,textSpan=(910-914)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[delivered,textSpan=(924-933)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The fog,textSpan=(947-954)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fog,textSpan=(951-954)]	-Disambiguation:(tid=58991, Title name=Fog) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Heathrow,textSpan=(958-966)]	-Disambiguation:(tid=13595, Title name=London_Heathrow_Airport) gold wikification:=London_Heathrow_Airport isCorrectPrediction=Correct
+*Entity:[problems,textSpan=(982-990)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Terminal,textSpan=(1014-1022)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Terminal 4,textSpan=(1014-1024)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[baggage,textSpan=(1025-1032)]	-Disambiguation:(tid=979665, Title name=Baggage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[baggage belt,textSpan=(1025-1037)]	-Disambiguation:(tid=51734, Title name=Conveyor_belt) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[belt,textSpan=(1033-1037)]	-Disambiguation:(tid=172485, Title name=Belt_(clothing)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[belt problem,textSpan=(1033-1045)]	-Disambiguation:(tid=11127382, Title name=Belt_problem) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[problem,textSpan=(1038-1045)]	-Disambiguation:(tid=608760, Title name=Problem) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Dec. 29,textSpan=(1049-1056)]	-Disambiguation:(tid=8893, Title name=December_29) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Dec.,textSpan=(1049-1053)]	-Disambiguation:(tid=8612, Title name=Declination) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[29,textSpan=(1054-1056)]	-Disambiguation:(tid=8893, Title name=December_29) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[10,000,textSpan=(1076-1082)]	-Disambiguation:(tid=1505160, Title name=10000) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bags,textSpan=(1083-1087)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[spokesman,textSpan=(1111-1120)]	-Disambiguation:(tid=338047, Title name=Spokesperson) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the holiday,textSpan=(1135-1146)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[holiday season,textSpan=(1139-1153)]	-Disambiguation:(tid=6772172, Title name=Christmas_and_holiday_season) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[holiday,textSpan=(1139-1146)]	-Disambiguation:(tid=13279, Title name=Holiday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[season,textSpan=(1147-1153)]	-Disambiguation:(tid=28919, Title name=Season) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the airline,textSpan=(1155-1166)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airline,textSpan=(1159-1166)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bags,textSpan=(1191-1195)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a day,textSpan=(1196-1201)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[day,textSpan=(1198-1201)]	-Disambiguation:(tid=8376, Title name=Day) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Heathrow,textSpan=(1205-1213)]	-Disambiguation:(tid=13595, Title name=London_Heathrow_Airport) gold wikification:=London_Heathrow_Airport isCorrectPrediction=Correct
+*Entity:[1 million,textSpan=(1232-1241)]	-Disambiguation:(tid=1045999, Title name=Million) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[passengers,textSpan=(1242-1252)]	-Disambiguation:(tid=4582654, Title name=Passenger) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[spokesman,textSpan=(1258-1267)]	-Disambiguation:(tid=338047, Title name=Spokesperson) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[baggage,textSpan=(1281-1288)]	-Disambiguation:(tid=979665, Title name=Baggage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[problem,textSpan=(1289-1296)]	-Disambiguation:(tid=608760, Title name=Problem) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[changes,textSpan=(1312-1319)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[working,textSpan=(1323-1330)]	-Disambiguation:(tid=314993, Title name=Employment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[practices,textSpan=(1331-1340)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[BA,textSpan=(1345-1347)]	-Disambiguation:(tid=3970, Title name=British_Airways) gold wikification:=British_Airways isCorrectPrediction=Correct
+*Entity:[baggage,textSpan=(1348-1355)]	-Disambiguation:(tid=979665, Title name=Baggage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[handlers,textSpan=(1356-1364)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Terminals,textSpan=(1368-1377)]	-Disambiguation:(tid=423849, Title name=Airport_terminal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1 and,textSpan=(1378-1383)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[and 4,textSpan=(1380-1385)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the airline,textSpan=(1394-1405)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airline,textSpan=(1398-1405)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[planned,textSpan=(1408-1415)]	-Disambiguation:(tid=36164, Title name=2006) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Terminal,textSpan=(1424-1432)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Terminal 5,textSpan=(1424-1434)]	-Disambiguation:(tid=1302390, Title name=Heathrow_Terminal_5_station) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[March,textSpan=(1438-1443)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[March 2008,textSpan=(1438-1448)]	-Disambiguation:(tid=13292294, Title name=March_2008) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[2008,textSpan=(1444-1448)]	-Disambiguation:(tid=13292294, Title name=March_2008) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Thousands' start in text:0 end in text: 9; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'holiday' start in text:13 end in text: 20; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'travelers' start in text:21 end in text: 30; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'luggage' start in text:39 end in text: 46; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Fog' start in text:48 end in text: 51; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'technical' start in text:53 end in text: 62; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'glitch' start in text:63 end in text: 69; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'London' start in text:73 end in text: 79; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'London's Heathrow Airport' start in text:73 end in text: 98; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Heathrow' start in text:82 end in text: 90; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Heathrow Airport' start in text:82 end in text: 98; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Airport' start in text:91 end in text: 98; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'baggage' start in text:106 end in text: 113; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'LONDON' start in text:124 end in text: 130; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thousands' start in text:133 end in text: 142; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'airline' start in text:146 end in text: 153; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'passengers' start in text:154 end in text: 164; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'received' start in text:180 end in text: 188; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'luggage' start in text:195 end in text: 202; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fog' start in text:209 end in text: 212; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'disrupted' start in text:213 end in text: 222; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flights' start in text:223 end in text: 230; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'London's Heathrow Airport' start in text:234 end in text: 259; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'London' start in text:234 end in text: 240; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Heathrow' start in text:243 end in text: 251; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Heathrow Airport' start in text:243 end in text: 259; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Airport' start in text:252 end in text: 259; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'late' start in text:260 end in text: 264; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'last year' start in text:265 end in text: 274; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'year' start in text:270 end in text: 274; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airline' start in text:276 end in text: 283; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'officials' start in text:284 end in text: 293; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wednesday' start in text:299 end in text: 308; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The chaos' start in text:313 end in text: 322; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'chaos' start in text:317 end in text: 322; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'compounded' start in text:327 end in text: 337; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'faults' start in text:343 end in text: 349; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'baggage belt' start in text:367 end in text: 379; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'baggage' start in text:367 end in text: 374; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'belt' start in text:375 end in text: 379; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Heathrow' start in text:383 end in text: 391; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Heathrow's Terminal' start in text:383 end in text: 402; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Terminal' start in text:394 end in text: 402; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Terminal 4' start in text:394 end in text: 404; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'British' start in text:411 end in text: 418; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'British Airways' start in text:411 end in text: 426; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Airways' start in text:419 end in text: 426; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the airline' start in text:428 end in text: 439; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'airline' start in text:432 end in text: 439; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'worst' start in text:449 end in text: 454; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'affected' start in text:455 end in text: 463; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'BA' start in text:468 end in text: 470; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wednesday' start in text:476 end in text: 485; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'delivered' start in text:542 end in text: 551; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'their owners' start in text:555 end in text: 567; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'owners' start in text:561 end in text: 567; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Many' start in text:572 end in text: 576; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'stacked' start in text:587 end in text: 594; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Heathrow' start in text:598 end in text: 606; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Heathrow's Terminal' start in text:598 end in text: 617; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Terminal 1' start in text:609 end in text: 619; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Terminal' start in text:609 end in text: 617; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1 and' start in text:618 end in text: 623; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Terminal' start in text:624 end in text: 632; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Terminal 4' start in text:624 end in text: 634; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'BA' start in text:640 end in text: 642; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'freight' start in text:656 end in text: 663; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'planes' start in text:664 end in text: 670; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'volunteers' start in text:675 end in text: 685; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'deliver' start in text:689 end in text: 696; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'their owners' start in text:705 end in text: 717; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'owners' start in text:711 end in text: 717; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The problem' start in text:722 end in text: 733; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'problem' start in text:726 end in text: 733; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the Christmas holiday' start in text:747 end in text: 768; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Christmas holiday' start in text:751 end in text: 768; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Christmas' start in text:751 end in text: 760; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'holiday' start in text:761 end in text: 768; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fault' start in text:776 end in text: 781; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'baggage' start in text:787 end in text: 794; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'baggage belt' start in text:787 end in text: 799; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'belt' start in text:795 end in text: 799; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Terminal 4' start in text:803 end in text: 813; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Terminal' start in text:803 end in text: 811; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'BA' start in text:817 end in text: 819; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'spokesman' start in text:820 end in text: 829; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'condition' start in text:838 end in text: 847; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'anonymity' start in text:851 end in text: 860; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'initial' start in text:877 end in text: 884; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'backlog' start in text:885 end in text: 892; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : '8,000' start in text:904 end in text: 909; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bags' start in text:910 end in text: 914; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'delivered' start in text:924 end in text: 933; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The fog' start in text:947 end in text: 954; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'fog' start in text:951 end in text: 954; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Heathrow' start in text:958 end in text: 966; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'problems' start in text:982 end in text: 990; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Terminal' start in text:1014 end in text: 1022; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Terminal 4' start in text:1014 end in text: 1024; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'baggage' start in text:1025 end in text: 1032; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'baggage belt' start in text:1025 end in text: 1037; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'belt' start in text:1033 end in text: 1037; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'belt problem' start in text:1033 end in text: 1045; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'problem' start in text:1038 end in text: 1045; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Dec. 29' start in text:1049 end in text: 1056; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Dec.' start in text:1049 end in text: 1053; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '29' start in text:1054 end in text: 1056; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '10,000' start in text:1076 end in text: 1082; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bags' start in text:1083 end in text: 1087; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'spokesman' start in text:1111 end in text: 1120; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the holiday' start in text:1135 end in text: 1146; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'holiday season' start in text:1139 end in text: 1153; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'holiday' start in text:1139 end in text: 1146; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'season' start in text:1147 end in text: 1153; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the airline' start in text:1155 end in text: 1166; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'airline' start in text:1159 end in text: 1166; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bags' start in text:1191 end in text: 1195; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a day' start in text:1196 end in text: 1201; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'day' start in text:1198 end in text: 1201; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Heathrow' start in text:1205 end in text: 1213; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1 million' start in text:1232 end in text: 1241; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'passengers' start in text:1242 end in text: 1252; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'spokesman' start in text:1258 end in text: 1267; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'baggage' start in text:1281 end in text: 1288; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'problem' start in text:1289 end in text: 1296; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'changes' start in text:1312 end in text: 1319; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'working' start in text:1323 end in text: 1330; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'practices' start in text:1331 end in text: 1340; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'BA' start in text:1345 end in text: 1347; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'baggage' start in text:1348 end in text: 1355; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'handlers' start in text:1356 end in text: 1364; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Terminals' start in text:1368 end in text: 1377; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1 and' start in text:1378 end in text: 1383; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'and 4' start in text:1380 end in text: 1385; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'the airline' start in text:1394 end in text: 1405; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'airline' start in text:1398 end in text: 1405; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'planned' start in text:1408 end in text: 1415; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Terminal' start in text:1424 end in text: 1432; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Terminal 5' start in text:1424 end in text: 1434; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'March' start in text:1438 end in text: 1443; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'March 2008' start in text:1438 end in text: 1448; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '2008' start in text:1444 end in text: 1448; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

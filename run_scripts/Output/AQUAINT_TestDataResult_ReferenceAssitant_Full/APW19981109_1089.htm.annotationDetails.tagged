@@ -1,0 +1,481 @@
+<ANNOTATION>
+   LONDON:  <a class="wiki" href="http://en.wikipedia.org/wiki/November_26" cat="days">Nov. 26</a> .<br><br> The apparent settlement came after four  <b>days</b> of talks involving the   <a class="wiki" href="http://en.wikipedia.org/wiki/West_Indies_cricket_team" cat="team">West Indies</a>    players and officials of the  <a class="wiki" href="http://en.wikipedia.org/wiki/West_Indies_cricket_team" cat="team">West Indies</a>  and   <a class="wiki" href="http://en.wikipedia.org/wiki/South_Africa_national_cricket_team" cat="team">South Africa</a>      <b>cricket</b>   boards. <br><br> The crisis came to a head last Wednesday when the  <a class="wiki" href="http://en.wikipedia.org/wiki/West_Indies_Cricket_Board" cat="">West Indies Cricket Board</a>  fired superstar   <b>batsman</b>     <a class="wiki" href="http://en.wikipedia.org/wiki/Brian_Lara" cat="cricketer	person	member	captain">Brian Lara</a>    as  <b>captain</b> and   <a class="wiki" href="http://en.wikipedia.org/wiki/Carl_Hooper" cat="captain	person	cricketer">Carl Hooper</a>    as vice-captain. The two had refused to travel to  <a class="wiki" href="http://en.wikipedia.org/wiki/South_Africa_national_cricket_team" cat="team">South Africa</a> , demanding better pay and conditions for the tour. <br><br> Team members have insisted that  <a class="wiki" href="http://en.wikipedia.org/wiki/Brian_Lara" cat="cricketer	person	member	captain">Lara</a>  and  <a class="wiki" href="http://en.wikipedia.org/wiki/Carl_Hooper" cat="captain	person	cricketer">Hooper</a>  be reinstated as part of any settlement. <br><br>   <a class="wiki" href="http://en.wikipedia.org/wiki/Jimmy_Adams" cat="commentator	person	cricketer	captain">Jimmy Adams</a>   ,  <b>treasurer</b> of the players' assocation, negotiated on behalf of the players Monday with Pat Rousseau,  <b>president</b> of the   <a class="wiki" href="http://en.wikipedia.org/wiki/West_Indies_Cricket_Board" cat="">West Indies Cricket Board</a>   . <br><br>   <a class="wiki" href="http://en.wikipedia.org/wiki/Ali_Bacher" cat="person	jew	edwardian	administrator	cricketer">Ali Bacher</a>   , head of   <a class="wiki" href="http://en.wikipedia.org/wiki/South_Africa_national_cricket_team" cat="team">South African cricket</a>   , also was directly involved in Monday's talks after sitting on the  <b>sidelines</b> Sunday. <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/West_Indies_cricket_team" cat="team">West Indies</a>  tour manager   <a class="wiki" href="http://en.wikipedia.org/wiki/Clive_Lloyd" cat="captain	player	cricketer	cavalier	person	referee	commander">Clive Lloyd</a>    and  <a class="wiki" href="http://en.wikipedia.org/wiki/West_Indies_Cricket_Board" cat="">WICB</a>  member   <a class="wiki" href="http://en.wikipedia.org/wiki/Joel_Garner" cat="person	player	cricketer">Joel Garner</a>    have also been involved in the talks which began  <b>Friday</b>. <br><br> Progress was reported over the  <b>weekend</b> with the announcement of a   <b>sponsorship</b>   deal offered by former  <a class="wiki" href="http://en.wikipedia.org/wiki/South_Africa_national_cricket_team" cat="team">South African</a>    <b>wicketkeeper</b>     <a class="wiki" href="http://en.wikipedia.org/wiki/David_Richardson" cat="person	member	alumnus">David Richardson</a>   , who  <b>runs</b> a   <b>sports marketing</b>   firm in   <a class="wiki" href="http://en.wikipedia.org/wiki/Johannesburg" cat="capital	city	place">Johannesburg</a>  . <br><br> Earnings from the  <b>sponsorship</b> proposal would apparently help meet the players' demands for better pay, which is reported to range from dlrs 15,000 to 60,000 for the South African tour. <br><br> (jp/sw) <br><br>
+</ANNOTATION>
+*Entity:[Nov.,textSpan=(11-15)]	-Disambiguation:(tid=21445, Title name=November) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Nov. 26,textSpan=(11-18)]	-Disambiguation:(tid=21581, Title name=November_26) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[26,textSpan=(16-18)]	-Disambiguation:(tid=21581, Title name=November_26) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[apparent,textSpan=(26-34)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[settlement,textSpan=(35-45)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[four days,textSpan=(57-66)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[days,textSpan=(62-66)]	-Disambiguation:(tid=1277350, Title name=Names_of_the_days_of_the_week) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[talks,textSpan=(70-75)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[West Indies,textSpan=(91-102)]	-Disambiguation:(tid=3379941, Title name=West_Indies_cricket_team) gold wikification:=Caribbean isCorrectPrediction=Incorrect
+*Entity:[West Indies,textSpan=(134-145)]	-Disambiguation:(tid=3379941, Title name=West_Indies_cricket_team) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[West Indies and South Africa,textSpan=(134-163)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[South Africa,textSpan=(151-163)]	-Disambiguation:(tid=759263, Title name=South_Africa_national_cricket_team) gold wikification:=South_Africa isCorrectPrediction=Incorrect
+*Entity:[cricket,textSpan=(167-174)]	-Disambiguation:(tid=39806, Title name=Cricket) gold wikification:=Cricket isCorrectPrediction=Correct
+*Entity:[The crisis,textSpan=(188-198)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[crisis,textSpan=(192-198)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a head,textSpan=(207-213)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[head,textSpan=(209-213)]	-Disambiguation:(tid=1209545, Title name=Head) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wednesday,textSpan=(219-228)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[West,textSpan=(238-242)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[West Indies Cricket Board,textSpan=(238-263)]	-Disambiguation:(tid=8381696, Title name=West_Indies_Cricket_Board) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[West Indies,textSpan=(238-249)]	-Disambiguation:(tid=3379941, Title name=West_Indies_cricket_team) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[West Indies Cricket,textSpan=(238-257)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Indies,textSpan=(243-249)]	-Disambiguation:(tid=7823, Title name=Caribbean) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cricket Board,textSpan=(250-263)]	-Disambiguation:(tid=8381696, Title name=West_Indies_Cricket_Board) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cricket,textSpan=(250-257)]	-Disambiguation:(tid=39806, Title name=Cricket) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Board,textSpan=(258-263)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[batsman,textSpan=(281-288)]	-Disambiguation:(tid=418145, Title name=Batting_(cricket)) gold wikification:=Batting_(cricket) isCorrectPrediction=Correct
+*Entity:[Brian Lara,textSpan=(292-302)]	-Disambiguation:(tid=4367, Title name=Brian_Lara) gold wikification:=Brian_Lara isCorrectPrediction=Correct
+*Entity:[captain,textSpan=(308-315)]	-Disambiguation:(tid=2206448, Title name=List_of_West_Indies_cricket_captains) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Carl Hooper,textSpan=(321-332)]	-Disambiguation:(tid=2112133, Title name=Carl_Hooper) gold wikification:=Carl_Hooper isCorrectPrediction=Correct
+*Entity:[Carl,textSpan=(321-325)]	-Disambiguation:(tid=2112133, Title name=Carl_Hooper) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hooper,textSpan=(326-332)]	-Disambiguation:(tid=2112133, Title name=Carl_Hooper) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[vice-captain,textSpan=(338-350)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[refused,textSpan=(364-371)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[travel,textSpan=(375-381)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[South,textSpan=(385-390)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[South Africa,textSpan=(385-397)]	-Disambiguation:(tid=759263, Title name=South_Africa_national_cricket_team) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Africa,textSpan=(391-397)]	-Disambiguation:(tid=759263, Title name=South_Africa_national_cricket_team) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[better,textSpan=(409-415)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pay and conditions,textSpan=(416-434)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pay,textSpan=(416-419)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[conditions,textSpan=(424-434)]	-Disambiguation:(tid=723482, Title name=Occupational_safety_and_health) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the tour,textSpan=(439-447)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tour,textSpan=(443-447)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Team,textSpan=(452-456)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[members,textSpan=(457-464)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lara,textSpan=(484-488)]	-Disambiguation:(tid=4367, Title name=Brian_Lara) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lara and Hooper,textSpan=(484-499)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hooper,textSpan=(493-499)]	-Disambiguation:(tid=2112133, Title name=Carl_Hooper) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reinstated,textSpan=(503-513)]	-Disambiguation:(tid=4130212, Title name=Jehovah's_Witnesses_and_congregational_discipline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[settlement,textSpan=(529-539)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jimmy Adams,textSpan=(545-556)]	-Disambiguation:(tid=1026319, Title name=Jimmy_Adams) gold wikification:=Jimmy_Adams isCorrectPrediction=Correct
+*Entity:[Jimmy,textSpan=(545-550)]	-Disambiguation:(tid=1026319, Title name=Jimmy_Adams) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Adams,textSpan=(551-556)]	-Disambiguation:(tid=1026319, Title name=Jimmy_Adams) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[treasurer,textSpan=(560-569)]	-Disambiguation:(tid=247097, Title name=Treasurer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the players,textSpan=(622-633)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[players,textSpan=(626-633)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Monday with Pat Rousseau,textSpan=(634-658)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Monday,textSpan=(634-640)]	-Disambiguation:(tid=54406, Title name=Monday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Pat Rousseau,textSpan=(646-658)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Pat,textSpan=(646-649)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Rousseau,textSpan=(650-658)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[president,textSpan=(660-669)]	-Disambiguation:(tid=24110, Title name=President) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[West Indies Cricket Board,textSpan=(678-703)]	-Disambiguation:(tid=8381696, Title name=West_Indies_Cricket_Board) gold wikification:=West_Indies_Cricket_Board isCorrectPrediction=Correct
+*Entity:[West Indies,textSpan=(678-689)]	-Disambiguation:(tid=3379941, Title name=West_Indies_cricket_team) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Ali Bacher,textSpan=(711-721)]	-Disambiguation:(tid=3034646, Title name=Ali_Bacher) gold wikification:=Ali_Bacher isCorrectPrediction=Correct
+*Entity:[Ali,textSpan=(711-714)]	-Disambiguation:(tid=3034646, Title name=Ali_Bacher) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bacher,textSpan=(715-721)]	-Disambiguation:(tid=3034646, Title name=Ali_Bacher) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[head,textSpan=(725-729)]	-Disambiguation:(tid=1209545, Title name=Head) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[South,textSpan=(734-739)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[South African cricket,textSpan=(734-755)]	-Disambiguation:(tid=759263, Title name=South_Africa_national_cricket_team) gold wikification:=South_Africa_national_cricket_team isCorrectPrediction=Correct
+*Entity:[South African,textSpan=(734-747)]	-Disambiguation:(tid=759263, Title name=South_Africa_national_cricket_team) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[African,textSpan=(740-747)]	-Disambiguation:(tid=759263, Title name=South_Africa_national_cricket_team) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cricket,textSpan=(748-755)]	-Disambiguation:(tid=39806, Title name=Cricket) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[directly,textSpan=(768-776)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[involved,textSpan=(777-785)]	-Disambiguation:(tid=11500159, Title name=The_Culture) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Monday,textSpan=(789-795)]	-Disambiguation:(tid=54406, Title name=Monday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[talks,textSpan=(798-803)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sidelines,textSpan=(825-834)]	-Disambiguation:(tid=908725, Title name=Sidelines) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sunday,textSpan=(835-841)]	-Disambiguation:(tid=54407, Title name=Sunday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[West Indies,textSpan=(846-857)]	-Disambiguation:(tid=3379941, Title name=West_Indies_cricket_team) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Clive Lloyd,textSpan=(872-883)]	-Disambiguation:(tid=624962, Title name=Clive_Lloyd) gold wikification:=Clive_Lloyd isCorrectPrediction=Correct
+*Entity:[Clive Lloyd and WICB,textSpan=(872-894)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[WICB,textSpan=(890-894)]	-Disambiguation:(tid=8381696, Title name=West_Indies_Cricket_Board) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Joel Garner,textSpan=(903-914)]	-Disambiguation:(tid=87055, Title name=Joel_Garner) gold wikification:=Joel_Garner isCorrectPrediction=Correct
+*Entity:[involved,textSpan=(932-940)]	-Disambiguation:(tid=11500159, Title name=The_Culture) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[talks,textSpan=(948-953)]	-Disambiguation:(tid=154849, Title name=Strategic_Arms_Limitation_Talks) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Friday,textSpan=(966-972)]	-Disambiguation:(tid=54632, Title name=Friday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Progress,textSpan=(977-985)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reported,textSpan=(990-998)]	-Disambiguation:(tid=1771912, Title name=Law_report) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the weekend,textSpan=(1004-1015)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[weekend,textSpan=(1008-1015)]	-Disambiguation:(tid=2016347, Title name=Workweek_and_weekend) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the announcement,textSpan=(1021-1037)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[announcement,textSpan=(1025-1037)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sponsorship,textSpan=(1044-1055)]	-Disambiguation:(tid=545607, Title name=Sponsor) gold wikification:=Sponsor isCorrectPrediction=Correct
+*Entity:[South African,textSpan=(1081-1094)]	-Disambiguation:(tid=759263, Title name=South_Africa_national_cricket_team) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wicketkeeper,textSpan=(1096-1108)]	-Disambiguation:(tid=463313, Title name=Wicket-keeper) gold wikification:=Wicket-keeper isCorrectPrediction=Correct
+*Entity:[David Richardson,textSpan=(1112-1128)]	-Disambiguation:(tid=9839143, Title name=David_Richardson) gold wikification:=Dave_Richardson isCorrectPrediction=Incorrect
+*Entity:[runs,textSpan=(1136-1140)]	-Disambiguation:(tid=896043, Title name=Run_(cricket)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sports marketing,textSpan=(1144-1160)]	-Disambiguation:(tid=7494551, Title name=Sports_marketing) gold wikification:=Sports_marketing isCorrectPrediction=Correct
+*Entity:[Johannesburg,textSpan=(1172-1184)]	-Disambiguation:(tid=58893, Title name=Johannesburg) gold wikification:=Johannesburg isCorrectPrediction=Correct
+*Entity:[Earnings,textSpan=(1190-1198)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sponsorship,textSpan=(1208-1219)]	-Disambiguation:(tid=545607, Title name=Sponsor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[proposal,textSpan=(1220-1228)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[apparently,textSpan=(1235-1245)]	-Disambiguation:(tid=35825, Title name=2008) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[meet,textSpan=(1251-1255)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[better,textSpan=(1281-1287)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pay,textSpan=(1288-1291)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reported,textSpan=(1302-1310)]	-Disambiguation:(tid=1771912, Title name=Law_report) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[range,textSpan=(1314-1319)]	-Disambiguation:(tid=26317, Title name=Range) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[15,000,textSpan=(1330-1336)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[South African tour,textSpan=(1355-1373)]	-Disambiguation:(tid=7097438, Title name=Indian_cricket_team_in_South_Africa_in_2006–07) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[South,textSpan=(1355-1360)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[South African,textSpan=(1355-1368)]	-Disambiguation:(tid=759263, Title name=South_Africa_national_cricket_team) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[African,textSpan=(1361-1368)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tour,textSpan=(1369-1373)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Nov.' start in text:11 end in text: 15; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Nov. 26' start in text:11 end in text: 18; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '26' start in text:16 end in text: 18; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'apparent' start in text:26 end in text: 34; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'settlement' start in text:35 end in text: 45; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'four days' start in text:57 end in text: 66; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'days' start in text:62 end in text: 66; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'talks' start in text:70 end in text: 75; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'West Indies' start in text:91 end in text: 102; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'West Indies' start in text:134 end in text: 145; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'West Indies and South Africa' start in text:134 end in text: 163; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'South Africa' start in text:151 end in text: 163; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cricket' start in text:167 end in text: 174; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The crisis' start in text:188 end in text: 198; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'crisis' start in text:192 end in text: 198; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a head' start in text:207 end in text: 213; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'head' start in text:209 end in text: 213; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wednesday' start in text:219 end in text: 228; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'West' start in text:238 end in text: 242; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'West Indies Cricket Board' start in text:238 end in text: 263; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'West Indies' start in text:238 end in text: 249; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'West Indies Cricket' start in text:238 end in text: 257; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Indies' start in text:243 end in text: 249; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cricket Board' start in text:250 end in text: 263; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cricket' start in text:250 end in text: 257; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Board' start in text:258 end in text: 263; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'batsman' start in text:281 end in text: 288; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Brian Lara' start in text:292 end in text: 302; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'captain' start in text:308 end in text: 315; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Carl Hooper' start in text:321 end in text: 332; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Carl' start in text:321 end in text: 325; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hooper' start in text:326 end in text: 332; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'vice-captain' start in text:338 end in text: 350; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'refused' start in text:364 end in text: 371; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'travel' start in text:375 end in text: 381; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'South' start in text:385 end in text: 390; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'South Africa' start in text:385 end in text: 397; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Africa' start in text:391 end in text: 397; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'better' start in text:409 end in text: 415; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pay and conditions' start in text:416 end in text: 434; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pay' start in text:416 end in text: 419; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'conditions' start in text:424 end in text: 434; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the tour' start in text:439 end in text: 447; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tour' start in text:443 end in text: 447; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Team' start in text:452 end in text: 456; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'members' start in text:457 end in text: 464; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lara' start in text:484 end in text: 488; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lara and Hooper' start in text:484 end in text: 499; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Hooper' start in text:493 end in text: 499; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reinstated' start in text:503 end in text: 513; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'settlement' start in text:529 end in text: 539; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jimmy Adams' start in text:545 end in text: 556; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jimmy' start in text:545 end in text: 550; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Adams' start in text:551 end in text: 556; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'treasurer' start in text:560 end in text: 569; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the players' start in text:622 end in text: 633; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'players' start in text:626 end in text: 633; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Monday with Pat Rousseau' start in text:634 end in text: 658; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Monday' start in text:634 end in text: 640; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Pat Rousseau' start in text:646 end in text: 658; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Pat' start in text:646 end in text: 649; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Rousseau' start in text:650 end in text: 658; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'president' start in text:660 end in text: 669; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'West Indies Cricket Board' start in text:678 end in text: 703; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'West Indies' start in text:678 end in text: 689; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Ali Bacher' start in text:711 end in text: 721; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Ali' start in text:711 end in text: 714; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bacher' start in text:715 end in text: 721; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'head' start in text:725 end in text: 729; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'South' start in text:734 end in text: 739; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'South African cricket' start in text:734 end in text: 755; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'South African' start in text:734 end in text: 747; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'African' start in text:740 end in text: 747; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cricket' start in text:748 end in text: 755; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'directly' start in text:768 end in text: 776; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'involved' start in text:777 end in text: 785; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Monday' start in text:789 end in text: 795; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'talks' start in text:798 end in text: 803; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sidelines' start in text:825 end in text: 834; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sunday' start in text:835 end in text: 841; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'West Indies' start in text:846 end in text: 857; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Clive Lloyd' start in text:872 end in text: 883; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Clive Lloyd and WICB' start in text:872 end in text: 894; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'WICB' start in text:890 end in text: 894; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Joel Garner' start in text:903 end in text: 914; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'involved' start in text:932 end in text: 940; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'talks' start in text:948 end in text: 953; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Friday' start in text:966 end in text: 972; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Progress' start in text:977 end in text: 985; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reported' start in text:990 end in text: 998; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the weekend' start in text:1004 end in text: 1015; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'weekend' start in text:1008 end in text: 1015; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the announcement' start in text:1021 end in text: 1037; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'announcement' start in text:1025 end in text: 1037; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sponsorship' start in text:1044 end in text: 1055; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'South African' start in text:1081 end in text: 1094; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wicketkeeper' start in text:1096 end in text: 1108; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'David Richardson' start in text:1112 end in text: 1128; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'runs' start in text:1136 end in text: 1140; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sports marketing' start in text:1144 end in text: 1160; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Johannesburg' start in text:1172 end in text: 1184; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Earnings' start in text:1190 end in text: 1198; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sponsorship' start in text:1208 end in text: 1219; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'proposal' start in text:1220 end in text: 1228; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'apparently' start in text:1235 end in text: 1245; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'meet' start in text:1251 end in text: 1255; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'better' start in text:1281 end in text: 1287; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pay' start in text:1288 end in text: 1291; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reported' start in text:1302 end in text: 1310; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'range' start in text:1314 end in text: 1319; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '15,000' start in text:1330 end in text: 1336; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'South African tour' start in text:1355 end in text: 1373; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'South' start in text:1355 end in text: 1360; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'South African' start in text:1355 end in text: 1368; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'African' start in text:1361 end in text: 1368; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tour' start in text:1369 end in text: 1373; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

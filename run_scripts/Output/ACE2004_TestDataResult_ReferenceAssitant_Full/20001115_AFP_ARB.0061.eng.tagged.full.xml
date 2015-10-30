@@ -1,0 +1,3435 @@
+<WikifierOutput>
+<InputFilename>
+20001115_AFP_ARB.0061.eng
+</InputFilename>
+<InputText>
+  Gaza 11-15 (AFP) -  A high-level Palestinian source said today Wednesday that the Palestinian Superior Security Council led by President Yasser Arafat issued orders to stop shooting inside area &quot;A&quot; under Palestinian control.   The source said that &quot;the Palestinian Superior Security Council led by President Yasser Arafat issued orders to stop unknown armed persons from shooting inside zone &quot;A&quot; under complete Palestinian control and between buildings and civilians in the Palestinian Territories.&quot;   The Palestinian decision comes a few hours before discussions between Israeli Prime Minister Ehud Barak and his top security advisors to explore the measures to be taken against Palestinians after four Israeli soldiers were shot in Palestinian areas last Monday. 
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Gaza</EntitySurfaceForm>
+	<EntityTextStart>2</EntityTextStart>
+	<EntityTextEnd>6</EntityTextEnd>
+	<LinkerScore>1.874037024111534</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gaza</WikiTitle>
+		<WikiTitleID>55387</WikiTitleID>
+		<RankerScore>0.9014427066183924</RankerScore>
+		<Attributes>city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gaza</WikiTitle> <WikiTitleID>55387</WikiTitleID> <RankerScore>0.9014427066183924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gaza_Strip</WikiTitle> <WikiTitleID>12047</WikiTitleID> <RankerScore>0.09534462861912657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gaza_Province</WikiTitle> <WikiTitleID>448329</WikiTitleID> <RankerScore>2.1742976628329937E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Third_Battle_of_Gaza</WikiTitle> <WikiTitleID>501628</WikiTitleID> <RankerScore>2.1742976628329937E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Gaza</WikiTitle> <WikiTitleID>500816</WikiTitleID> <RankerScore>2.1742976628329937E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gaza_(comics)</WikiTitle> <WikiTitleID>10238100</WikiTitleID> <RankerScore>2.1742976628329937E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gaza_(The_West_Wing)</WikiTitle> <WikiTitleID>4777322</WikiTitleID> <RankerScore>2.1742976628329937E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_Battle_of_Gaza</WikiTitle> <WikiTitleID>458227</WikiTitleID> <RankerScore>2.1742976628329937E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operation_Summer_Rains</WikiTitle> <WikiTitleID>8885976</WikiTitleID> <RankerScore>0.0016906563984979053</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>2.1742976628329937E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>AFP</EntitySurfaceForm>
+	<EntityTextStart>14</EntityTextStart>
+	<EntityTextEnd>17</EntityTextEnd>
+	<LinkerScore>3.1424170110133227</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Agence_France-Presse</WikiTitle>
+		<WikiTitleID>471981</WikiTitleID>
+		<RankerScore>0.8540967639248713</RankerScore>
+		<Attributes>agency	company	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Agence_France-Presse</WikiTitle> <WikiTitleID>471981</WikiTitleID> <RankerScore>0.8540967639248713</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Apple_Filing_Protocol</WikiTitle> <WikiTitleID>547707</WikiTitleID> <RankerScore>0.04461829178225118</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Armed_Forces_of_the_Philippines</WikiTitle> <WikiTitleID>23448</WikiTitleID> <RankerScore>0.020925640732457104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alpha-fetoprotein</WikiTitle> <WikiTitleID>238706</WikiTitleID> <RankerScore>0.0200898258901051</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AFP</WikiTitle> <WikiTitleID>6690851</WikiTitleID> <RankerScore>0.0200898258901051</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australian_Federal_Police</WikiTitle> <WikiTitleID>341221</WikiTitleID> <RankerScore>0.0200898258901051</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Advanced_Function_Presentation</WikiTitle> <WikiTitleID>1770087</WikiTitleID> <RankerScore>0.0200898258901051</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>high-level</EntitySurfaceForm>
+	<EntityTextStart>24</EntityTextStart>
+	<EntityTextEnd>34</EntityTextEnd>
+	<LinkerScore>1.7329868747790167</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>High-level_programming_language</WikiTitle>
+		<WikiTitleID>189842</WikiTitleID>
+		<RankerScore>0.7258477189726439</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>High-level_programming_language</WikiTitle> <WikiTitleID>189842</WikiTitleID> <RankerScore>0.7258477189726439</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High-_and_low-level</WikiTitle> <WikiTitleID>5734146</WikiTitleID> <RankerScore>0.13262600366794808</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High-level_assembler</WikiTitle> <WikiTitleID>321373</WikiTitleID> <RankerScore>0.06825182245758356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High-level_waste</WikiTitle> <WikiTitleID>3113292</WikiTitleID> <RankerScore>0.07327445490182449</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian</EntitySurfaceForm>
+	<EntityTextStart>35</EntityTextStart>
+	<EntityTextEnd>46</EntityTextEnd>
+	<LinkerScore>1.5987712400297636</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_people</WikiTitle>
+		<WikiTitleID>23267</WikiTitleID>
+		<RankerScore>0.9001558819330342</RankerScore>
+		<Attributes>group	citizen	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_people</WikiTitle> <WikiTitleID>23267</WikiTitleID> <RankerScore>0.9001558819330342</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>5.8114861953538045E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.06762027801115392</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>0.031235887402601806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Arabic</WikiTitle> <WikiTitleID>610643</WikiTitleID> <RankerScore>5.8114861953538045E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Jews</WikiTitle> <WikiTitleID>4533719</WikiTitleID> <RankerScore>5.8114861953538045E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Definitions_of_Palestine</WikiTitle> <WikiTitleID>608152</WikiTitleID> <RankerScore>5.8114861953538045E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_American</WikiTitle> <WikiTitleID>7607942</WikiTitleID> <RankerScore>5.8114861953538045E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Palestine</WikiTitle> <WikiTitleID>416081</WikiTitleID> <RankerScore>5.8114861953538045E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_cuisine</WikiTitle> <WikiTitleID>11146241</WikiTitleID> <RankerScore>5.8114861953538045E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine_Liberation_Organization</WikiTitle> <WikiTitleID>24324</WikiTitleID> <RankerScore>5.8114861953538045E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mandatory_Palestine</WikiTitle> <WikiTitleID>63922</WikiTitleID> <RankerScore>5.8114861953538045E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_refugee</WikiTitle> <WikiTitleID>74681</WikiTitleID> <RankerScore>5.8114861953538045E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab–Israeli_conflict</WikiTitle> <WikiTitleID>7960202</WikiTitleID> <RankerScore>5.8114861953538045E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposals_for_a_Palestinian_state</WikiTitle> <WikiTitleID>48276</WikiTitleID> <RankerScore>5.8114861953538045E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Palestine</WikiTitle> <WikiTitleID>13801</WikiTitleID> <RankerScore>5.8114861953538045E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arabic_literature</WikiTitle> <WikiTitleID>462469</WikiTitleID> <RankerScore>5.8114861953538045E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_citizens_of_Israel</WikiTitle> <WikiTitleID>492331</WikiTitleID> <RankerScore>5.8114861953538045E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Front_for_the_Liberation_of_Palestine_–_External_Operations</WikiTitle> <WikiTitleID>3235558</WikiTitleID> <RankerScore>5.8114861953538045E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Palestine</WikiTitle> <WikiTitleID>9763138</WikiTitleID> <RankerScore>5.8114861953538045E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>source</EntitySurfaceForm>
+	<EntityTextStart>47</EntityTextStart>
+	<EntityTextEnd>53</EntityTextEnd>
+	<LinkerScore>0.7865466084232693</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Source_code</WikiTitle>
+		<WikiTitleID>27661</WikiTitleID>
+		<RankerScore>0.24259147418757293</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>River_source</WikiTitle> <WikiTitleID>415088</WikiTitleID> <RankerScore>0.12561806112633903</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Source_code</WikiTitle> <WikiTitleID>27661</WikiTitleID> <RankerScore>0.24259147418757293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Source</WikiTitle> <WikiTitleID>242181</WikiTitleID> <RankerScore>0.05202124297044848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communication_source</WikiTitle> <WikiTitleID>487748</WikiTitleID> <RankerScore>0.034104071865625855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Source_(journalism)</WikiTitle> <WikiTitleID>930136</WikiTitleID> <RankerScore>0.034104071865625855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Source_text</WikiTitle> <WikiTitleID>4159251</WikiTitleID> <RankerScore>0.034104071865625855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Source-compatibility</WikiTitle> <WikiTitleID>335164</WikiTitleID> <RankerScore>0.034104071865625855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Voltage_source</WikiTitle> <WikiTitleID>1686418</WikiTitleID> <RankerScore>0.034104071865625855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Source_rock</WikiTitle> <WikiTitleID>17380942</WikiTitleID> <RankerScore>0.034104071865625855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_supply</WikiTitle> <WikiTitleID>684928</WikiTitleID> <RankerScore>0.034104071865625855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maturity_(geology)</WikiTitle> <WikiTitleID>3356530</WikiTitleID> <RankerScore>0.034104071865625855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Source_criticism</WikiTitle> <WikiTitleID>2636884</WikiTitleID> <RankerScore>0.034104071865625855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Field-effect_transistor</WikiTitle> <WikiTitleID>11357</WikiTitleID> <RankerScore>0.034104071865625855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Independent_sources</WikiTitle> <WikiTitleID>3414859</WikiTitleID> <RankerScore>0.034104071865625855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bone_bed</WikiTitle> <WikiTitleID>1337147</WikiTitleID> <RankerScore>0.034104071865625855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Open-source_software</WikiTitle> <WikiTitleID>277663</WikiTitleID> <RankerScore>0.034104071865625855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Origin</WikiTitle> <WikiTitleID>22717</WikiTitleID> <RankerScore>0.034104071865625855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Output_impedance</WikiTitle> <WikiTitleID>643070</WikiTitleID> <RankerScore>0.034104071865625855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Signal_(electrical_engineering)</WikiTitle> <WikiTitleID>275871</WikiTitleID> <RankerScore>0.034104071865625855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Etymology</WikiTitle> <WikiTitleID>888207</WikiTitleID> <RankerScore>0.034104071865625855</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>today</EntitySurfaceForm>
+	<EntityTextStart>59</EntityTextStart>
+	<EntityTextEnd>64</EntityTextEnd>
+	<LinkerScore>-0.812638221584542</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2006</WikiTitle>
+		<WikiTitleID>36164</WikiTitleID>
+		<RankerScore>0.3711949045010584</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2007</WikiTitle> <WikiTitleID>36165</WikiTitleID> <RankerScore>0.3652221986447799</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008</WikiTitle> <WikiTitleID>35825</WikiTitleID> <RankerScore>0.15442503938047153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006</WikiTitle> <WikiTitleID>36164</WikiTitleID> <RankerScore>0.3711949045010584</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005</WikiTitle> <WikiTitleID>35984</WikiTitleID> <RankerScore>0.009923441588517287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004</WikiTitle> <WikiTitleID>35524</WikiTitleID> <RankerScore>0.009923441588517287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Today</WikiTitle> <WikiTitleID>206960</WikiTitleID> <RankerScore>0.009923441588517287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Presentism_(literary_and_historical_analysis)</WikiTitle> <WikiTitleID>2687740</WikiTitleID> <RankerScore>0.009923441588517287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000s</WikiTitle> <WikiTitleID>34579</WikiTitleID> <RankerScore>0.009923441588517287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modern_architecture</WikiTitle> <WikiTitleID>315927</WikiTitleID> <RankerScore>0.009923441588517287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1994</WikiTitle> <WikiTitleID>34663</WikiTitleID> <RankerScore>0.009923441588517287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Limburg-Stirum</WikiTitle> <WikiTitleID>9895884</WikiTitleID> <RankerScore>0.009923441588517287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>November_2007</WikiTitle> <WikiTitleID>9853055</WikiTitleID> <RankerScore>0.009923441588517287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Finmark</WikiTitle> <WikiTitleID>12599914</WikiTitleID> <RankerScore>0.009923441588517287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>July_2008</WikiTitle> <WikiTitleID>13292309</WikiTitleID> <RankerScore>0.009923441588517287</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Wednesday</EntitySurfaceForm>
+	<EntityTextStart>65</EntityTextStart>
+	<EntityTextEnd>74</EntityTextEnd>
+	<LinkerScore>-0.3570893165326785</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wednesday</WikiTitle>
+		<WikiTitleID>54634</WikiTitleID>
+		<RankerScore>0.48919902395250797</RankerScore>
+		<Attributes>days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Wednesday</WikiTitle> <WikiTitleID>54634</WikiTitleID> <RankerScore>0.48919902395250797</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sheffield_Wednesday_F.C.</WikiTitle> <WikiTitleID>177538</WikiTitleID> <RankerScore>0.0825987941155703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wednesday_Addams</WikiTitle> <WikiTitleID>3287984</WikiTitleID> <RankerScore>0.08914210662441649</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wednesday_(band)</WikiTitle> <WikiTitleID>13273843</WikiTitleID> <RankerScore>0.05651001255125086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Holy_Wednesday</WikiTitle> <WikiTitleID>1644922</WikiTitleID> <RankerScore>0.05651001255125086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>October_11</WikiTitle> <WikiTitleID>22440</WikiTitleID> <RankerScore>0.05651001255125086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ash_Wednesday</WikiTitle> <WikiTitleID>170388</WikiTitleID> <RankerScore>0.05651001255125086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>June_29</WikiTitle> <WikiTitleID>15842</WikiTitleID> <RankerScore>0.05651001255125086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wednesday_Night_Baseball</WikiTitle> <WikiTitleID>1822923</WikiTitleID> <RankerScore>0.05651001255125086</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian</EntitySurfaceForm>
+	<EntityTextStart>84</EntityTextStart>
+	<EntityTextEnd>95</EntityTextEnd>
+	<LinkerScore>1.582862324934246</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_people</WikiTitle>
+		<WikiTitleID>23267</WikiTitleID>
+		<RankerScore>0.5492796333127902</RankerScore>
+		<Attributes>group	citizen	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_people</WikiTitle> <WikiTitleID>23267</WikiTitleID> <RankerScore>0.5492796333127902</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>4.401350164709031E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.1867881651325116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>4.401350164709031E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Arabic</WikiTitle> <WikiTitleID>610643</WikiTitleID> <RankerScore>4.401350164709031E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Jews</WikiTitle> <WikiTitleID>4533719</WikiTitleID> <RankerScore>4.401350164709031E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Definitions_of_Palestine</WikiTitle> <WikiTitleID>608152</WikiTitleID> <RankerScore>4.401350164709031E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_American</WikiTitle> <WikiTitleID>7607942</WikiTitleID> <RankerScore>4.401350164709031E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Palestine</WikiTitle> <WikiTitleID>416081</WikiTitleID> <RankerScore>4.401350164709031E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_cuisine</WikiTitle> <WikiTitleID>11146241</WikiTitleID> <RankerScore>4.401350164709031E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine_Liberation_Organization</WikiTitle> <WikiTitleID>24324</WikiTitleID> <RankerScore>0.26318397202669785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mandatory_Palestine</WikiTitle> <WikiTitleID>63922</WikiTitleID> <RankerScore>4.401350164709031E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_refugee</WikiTitle> <WikiTitleID>74681</WikiTitleID> <RankerScore>4.401350164709031E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab–Israeli_conflict</WikiTitle> <WikiTitleID>7960202</WikiTitleID> <RankerScore>4.401350164709031E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposals_for_a_Palestinian_state</WikiTitle> <WikiTitleID>48276</WikiTitleID> <RankerScore>4.401350164709031E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Palestine</WikiTitle> <WikiTitleID>13801</WikiTitleID> <RankerScore>4.401350164709031E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arabic_literature</WikiTitle> <WikiTitleID>462469</WikiTitleID> <RankerScore>4.401350164709031E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_citizens_of_Israel</WikiTitle> <WikiTitleID>492331</WikiTitleID> <RankerScore>4.401350164709031E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Front_for_the_Liberation_of_Palestine_–_External_Operations</WikiTitle> <WikiTitleID>3235558</WikiTitleID> <RankerScore>4.401350164709031E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Palestine</WikiTitle> <WikiTitleID>9763138</WikiTitleID> <RankerScore>4.401350164709031E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Superior</EntitySurfaceForm>
+	<EntityTextStart>96</EntityTextStart>
+	<EntityTextEnd>104</EntityTextEnd>
+	<LinkerScore>-0.681299854453156</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Superior,_Wisconsin</WikiTitle>
+		<WikiTitleID>288141</WikiTitleID>
+		<RankerScore>0.13922940597651293</RankerScore>
+		<Attributes>place	seats	settlement	city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Superior,_Wisconsin</WikiTitle> <WikiTitleID>288141</WikiTitleID> <RankerScore>0.13922940597651293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior</WikiTitle> <WikiTitleID>39158</WikiTitleID> <RankerScore>0.07187537058891869</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lake_Superior</WikiTitle> <WikiTitleID>17951</WikiTitleID> <RankerScore>0.047118947249655665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Arizona</WikiTitle> <WikiTitleID>106764</WikiTitleID> <RankerScore>0.043633898599112514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Nebraska</WikiTitle> <WikiTitleID>124093</WikiTitleID> <RankerScore>0.043633898599112514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_(band)</WikiTitle> <WikiTitleID>6168006</WikiTitleID> <RankerScore>0.043633898599112514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Montana</WikiTitle> <WikiTitleID>123541</WikiTitleID> <RankerScore>0.043633898599112514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Colorado</WikiTitle> <WikiTitleID>108410</WikiTitleID> <RankerScore>0.043633898599112514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_(proposed_U.S._state)</WikiTitle> <WikiTitleID>5634053</WikiTitleID> <RankerScore>0.043633898599112514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_Coach_Company</WikiTitle> <WikiTitleID>1903926</WikiTitleID> <RankerScore>0.043633898599112514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_(hierarchy)</WikiTitle> <WikiTitleID>307680</WikiTitleID> <RankerScore>0.043633898599112514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_craton</WikiTitle> <WikiTitleID>6175435</WikiTitleID> <RankerScore>0.043633898599112514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_(RTA_Rapid_Transit_station)</WikiTitle> <WikiTitleID>11658571</WikiTitleID> <RankerScore>0.043633898599112514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Iowa</WikiTitle> <WikiTitleID>113000</WikiTitleID> <RankerScore>0.043633898599112514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_(manga)</WikiTitle> <WikiTitleID>12523450</WikiTitleID> <RankerScore>0.043633898599112514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_Oil_Company</WikiTitle> <WikiTitleID>2711343</WikiTitleID> <RankerScore>0.043633898599112514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Wyoming</WikiTitle> <WikiTitleID>140218</WikiTitleID> <RankerScore>0.043633898599112514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Freedom_City</WikiTitle> <WikiTitleID>5863509</WikiTitleID> <RankerScore>0.043633898599112514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_court</WikiTitle> <WikiTitleID>307028</WikiTitleID> <RankerScore>0.043633898599112514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Wisconsin–Superior</WikiTitle> <WikiTitleID>496738</WikiTitleID> <RankerScore>0.043633898599112514</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Security Council</EntitySurfaceForm>
+	<EntityTextStart>105</EntityTextStart>
+	<EntityTextEnd>121</EntityTextEnd>
+	<LinkerScore>2.3136486588129417</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Nations_Security_Council</WikiTitle>
+		<WikiTitleID>31956</WikiTitleID>
+		<RankerScore>0.9373817326804645</RankerScore>
+		<Attributes>election	organization	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Nations_Security_Council</WikiTitle> <WikiTitleID>31956</WikiTitleID> <RankerScore>0.9373817326804645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_Council_of_Russia</WikiTitle> <WikiTitleID>7516389</WikiTitleID> <RankerScore>0.00829519109032305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Security_Council_resolution</WikiTitle> <WikiTitleID>178970</WikiTitleID> <RankerScore>0.04773663102600664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_Council_(Japan)</WikiTitle> <WikiTitleID>2897582</WikiTitleID> <RankerScore>0.006586445203205772</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Security</EntitySurfaceForm>
+	<EntityTextStart>105</EntityTextStart>
+	<EntityTextEnd>113</EntityTextEnd>
+	<LinkerScore>0.8413508758082296</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Security</WikiTitle>
+		<WikiTitleID>41684</WikiTitleID>
+		<RankerScore>0.6036072086265531</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Security</WikiTitle> <WikiTitleID>41684</WikiTitleID> <RankerScore>0.6036072086265531</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_security</WikiTitle> <WikiTitleID>7398</WikiTitleID> <RankerScore>0.08604369446293159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peter_Gabriel_(1982_album)</WikiTitle> <WikiTitleID>1066222</WikiTitleID> <RankerScore>0.022859211472191752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Starfleet</WikiTitle> <WikiTitleID>29340</WikiTitleID> <RankerScore>0.017968117839895218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stacie_Orrico_(album)</WikiTitle> <WikiTitleID>5392828</WikiTitleID> <RankerScore>0.017968117839895218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_security</WikiTitle> <WikiTitleID>863095</WikiTitleID> <RankerScore>0.017968117839895218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_(finance)</WikiTitle> <WikiTitleID>42162</WikiTitleID> <RankerScore>0.017968117839895218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Windows_Security_Log</WikiTitle> <WikiTitleID>13410217</WikiTitleID> <RankerScore>0.017968117839895218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Public_security</WikiTitle> <WikiTitleID>2623876</WikiTitleID> <RankerScore>0.017968117839895218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Database_security</WikiTitle> <WikiTitleID>4689778</WikiTitleID> <RankerScore>0.017968117839895218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_interest</WikiTitle> <WikiTitleID>2916935</WikiTitleID> <RankerScore>0.017968117839895218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Academi</WikiTitle> <WikiTitleID>567996</WikiTitleID> <RankerScore>0.017968117839895218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_security</WikiTitle> <WikiTitleID>1946540</WikiTitleID> <RankerScore>0.017968117839895218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>GE_Security</WikiTitle> <WikiTitleID>2023512</WikiTitleID> <RankerScore>0.017968117839895218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operations_security</WikiTitle> <WikiTitleID>3025124</WikiTitleID> <RankerScore>0.017968117839895218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Information_security</WikiTitle> <WikiTitleID>15036</WikiTitleID> <RankerScore>0.017968117839895218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Network_security</WikiTitle> <WikiTitleID>592687</WikiTitleID> <RankerScore>0.017968117839895218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Application_security</WikiTitle> <WikiTitleID>2571015</WikiTitleID> <RankerScore>0.017968117839895218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security-Widefield,_Colorado</WikiTitle> <WikiTitleID>123728</WikiTitleID> <RankerScore>0.017968117839895218</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Council</EntitySurfaceForm>
+	<EntityTextStart>114</EntityTextStart>
+	<EntityTextEnd>121</EntityTextEnd>
+	<LinkerScore>0.422959192491981</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Nations_Security_Council</WikiTitle>
+		<WikiTitleID>31956</WikiTitleID>
+		<RankerScore>0.8360533826997895</RankerScore>
+		<Attributes>election	organization	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Nations_Security_Council</WikiTitle> <WikiTitleID>31956</WikiTitleID> <RankerScore>0.8360533826997895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_Council_of_Russia</WikiTitle> <WikiTitleID>7516389</WikiTitleID> <RankerScore>0.006638932093585652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Security_Council_resolution</WikiTitle> <WikiTitleID>178970</WikiTitleID> <RankerScore>0.15326600032335108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_Council_(Japan)</WikiTitle> <WikiTitleID>2897582</WikiTitleID> <RankerScore>0.004041684883273737</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>President</EntitySurfaceForm>
+	<EntityTextStart>129</EntityTextStart>
+	<EntityTextEnd>138</EntityTextEnd>
+	<LinkerScore>0.4172873780195673</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>President</WikiTitle>
+		<WikiTitleID>24110</WikiTitleID>
+		<RankerScore>0.42791669436839963</RankerScore>
+		<Attributes>occupation	executive	title	president	position</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>President_of_the_United_States</WikiTitle> <WikiTitleID>24113</WikiTitleID> <RankerScore>0.2465228421010581</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President</WikiTitle> <WikiTitleID>24110</WikiTitleID> <RankerScore>0.42791669436839963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_the_Philippines</WikiTitle> <WikiTitleID>271126</WikiTitleID> <RankerScore>0.030653236757065258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Mexico</WikiTitle> <WikiTitleID>273641</WikiTitleID> <RankerScore>0.017347483927851588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_France</WikiTitle> <WikiTitleID>24899</WikiTitleID> <RankerScore>0.017347483927851588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Argentina</WikiTitle> <WikiTitleID>229473</WikiTitleID> <RankerScore>0.017347483927851588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Fiji</WikiTitle> <WikiTitleID>471833</WikiTitleID> <RankerScore>0.017347483927851588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Pakistan</WikiTitle> <WikiTitleID>419460</WikiTitleID> <RankerScore>0.017347483927851588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Ireland</WikiTitle> <WikiTitleID>24676</WikiTitleID> <RankerScore>0.017347483927851588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Russia</WikiTitle> <WikiTitleID>239646</WikiTitleID> <RankerScore>0.017347483927851588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Presidents_of_Venezuela</WikiTitle> <WikiTitleID>165102</WikiTitleID> <RankerScore>0.017347483927851588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_the_Republic_of_China</WikiTitle> <WikiTitleID>61155</WikiTitleID> <RankerScore>0.017347483927851588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Chile</WikiTitle> <WikiTitleID>67402</WikiTitleID> <RankerScore>0.017347483927851588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_heads_of_state_of_Ecuador</WikiTitle> <WikiTitleID>840787</WikiTitleID> <RankerScore>0.017347483927851588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Ukraine</WikiTitle> <WikiTitleID>570941</WikiTitleID> <RankerScore>0.017347483927851588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_India</WikiTitle> <WikiTitleID>141896</WikiTitleID> <RankerScore>0.017347483927851588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Romania</WikiTitle> <WikiTitleID>273659</WikiTitleID> <RankerScore>0.017347483927851588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_the_Church</WikiTitle> <WikiTitleID>387981</WikiTitleID> <RankerScore>0.017347483927851588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_South_Africa</WikiTitle> <WikiTitleID>321700</WikiTitleID> <RankerScore>0.017347483927851588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Nicaragua</WikiTitle> <WikiTitleID>302862</WikiTitleID> <RankerScore>0.017347483927851588</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yasser Arafat</EntitySurfaceForm>
+	<EntityTextStart>139</EntityTextStart>
+	<EntityTextEnd>152</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Yasser_Arafat</WikiTitle>
+		<WikiTitleID>34289</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>survivor	member	muslim	alumnus	recipient	president	person	engineer	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Yasser_Arafat</WikiTitle> <WikiTitleID>34289</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yasser</EntitySurfaceForm>
+	<EntityTextStart>139</EntityTextStart>
+	<EntityTextEnd>145</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Yasser_Arafat</WikiTitle>
+		<WikiTitleID>34289</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>survivor	member	muslim	alumnus	recipient	president	person	engineer	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Yasser_Hashemi_Rafsanjani</WikiTitle> <WikiTitleID>1591749</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Arafat</EntitySurfaceForm>
+	<EntityTextStart>146</EntityTextStart>
+	<EntityTextEnd>152</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Yasser_Arafat</WikiTitle>
+		<WikiTitleID>34289</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>survivor	member	muslim	alumnus	recipient	president	person	engineer	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arafat</WikiTitle> <WikiTitleID>303576</WikiTitleID> <RankerScore>0.03547158434482244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yasser_Arafat</WikiTitle> <WikiTitleID>34289</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mount_Arafat</WikiTitle> <WikiTitleID>1161193</WikiTitleID> <RankerScore>0.0038230632010473305</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>orders</EntitySurfaceForm>
+	<EntityTextStart>160</EntityTextStart>
+	<EntityTextEnd>166</EntityTextEnd>
+	<LinkerScore>-1.5163393540218488</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Order_(biology)</WikiTitle>
+		<WikiTitleID>61763</WikiTitleID>
+		<RankerScore>0.142580424394676</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Order_(biology)</WikiTitle> <WikiTitleID>61763</WikiTitleID> <RankerScore>0.142580424394676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Holy_Orders</WikiTitle> <WikiTitleID>13631</WikiTitleID> <RankerScore>0.04528433655603471</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Order_(honour)</WikiTitle> <WikiTitleID>1098136</WikiTitleID> <RankerScore>0.056396773505320276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Religious_order</WikiTitle> <WikiTitleID>140445</WikiTitleID> <RankerScore>0.04445520385552759</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Classical_order</WikiTitle> <WikiTitleID>6938</WikiTitleID> <RankerScore>0.04445520385552759</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Order_(exchange)</WikiTitle> <WikiTitleID>3620717</WikiTitleID> <RankerScore>0.04445520385552759</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Court_order</WikiTitle> <WikiTitleID>153237</WikiTitleID> <RankerScore>0.04445520385552759</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tariqa</WikiTitle> <WikiTitleID>166587</WikiTitleID> <RankerScore>0.04445520385552759</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Catholic_religious_order</WikiTitle> <WikiTitleID>1088817</WikiTitleID> <RankerScore>0.04445520385552759</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_order</WikiTitle> <WikiTitleID>323630</WikiTitleID> <RankerScore>0.04445520385552759</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biological_classification</WikiTitle> <WikiTitleID>53581</WikiTitleID> <RankerScore>0.04445520385552759</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Order</WikiTitle> <WikiTitleID>53580</WikiTitleID> <RankerScore>0.04445520385552759</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christian_monasticism</WikiTitle> <WikiTitleID>721873</WikiTitleID> <RankerScore>0.04445520385552759</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Order_theory</WikiTitle> <WikiTitleID>361924</WikiTitleID> <RankerScore>0.04445520385552759</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Order_of_reaction</WikiTitle> <WikiTitleID>1427573</WikiTitleID> <RankerScore>0.04445520385552759</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Order_(business)</WikiTitle> <WikiTitleID>288396</WikiTitleID> <RankerScore>0.04445520385552759</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statutory_Instrument</WikiTitle> <WikiTitleID>16997710</WikiTitleID> <RankerScore>0.04445520385552759</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Partially_ordered_set</WikiTitle> <WikiTitleID>23572</WikiTitleID> <RankerScore>0.04445520385552759</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_Royal_Honours_System</WikiTitle> <WikiTitleID>340438</WikiTitleID> <RankerScore>0.04445520385552759</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Perturbation_theory_(quantum_mechanics)</WikiTitle> <WikiTitleID>297069</WikiTitleID> <RankerScore>0.04445520385552759</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>shooting</EntitySurfaceForm>
+	<EntityTextStart>175</EntityTextStart>
+	<EntityTextEnd>183</EntityTextEnd>
+	<LinkerScore>-0.3575445462204472</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Shooting</WikiTitle>
+		<WikiTitleID>28495</WikiTitleID>
+		<RankerScore>0.24985460271960097</RankerScore>
+		<Attributes>sport</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Shooting</WikiTitle> <WikiTitleID>28495</WikiTitleID> <RankerScore>0.24985460271960097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shooting_sport</WikiTitle> <WikiTitleID>28498</WikiTitleID> <RankerScore>0.047121504159518934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ISSF_shooting_events</WikiTitle> <WikiTitleID>438961</WikiTitleID> <RankerScore>0.036157812028970955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shooter_game</WikiTitle> <WikiTitleID>619273</WikiTitleID> <RankerScore>0.039227416534818184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>School_shooting</WikiTitle> <WikiTitleID>59628</WikiTitleID> <RankerScore>0.039227416534818184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Execution_by_shooting</WikiTitle> <WikiTitleID>7217319</WikiTitleID> <RankerScore>0.039227416534818184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Virginia_Tech_massacre</WikiTitle> <WikiTitleID>10705678</WikiTitleID> <RankerScore>0.039227416534818184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shoot_(professional_wrestling)</WikiTitle> <WikiTitleID>580580</WikiTitleID> <RankerScore>0.039227416534818184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Injection_(medicine)</WikiTitle> <WikiTitleID>665909</WikiTitleID> <RankerScore>0.039227416534818184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shot_(filmmaking)</WikiTitle> <WikiTitleID>919384</WikiTitleID> <RankerScore>0.039227416534818184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Field_goal_percentage</WikiTitle> <WikiTitleID>3989322</WikiTitleID> <RankerScore>0.039227416534818184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Firearm</WikiTitle> <WikiTitleID>11966</WikiTitleID> <RankerScore>0.039227416534818184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Filmmaking</WikiTitle> <WikiTitleID>933117</WikiTitleID> <RankerScore>0.039227416534818184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shooting_at_the_1992_Summer_Olympics</WikiTitle> <WikiTitleID>2671671</WikiTitleID> <RankerScore>0.039227416534818184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hunting_and_shooting_in_the_United_Kingdom</WikiTitle> <WikiTitleID>7822474</WikiTitleID> <RankerScore>0.039227416534818184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shooting_at_the_Summer_Olympics</WikiTitle> <WikiTitleID>2255965</WikiTitleID> <RankerScore>0.039227416534818184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shoot_&apos;em_up</WikiTitle> <WikiTitleID>252981</WikiTitleID> <RankerScore>0.039227416534818184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shooting_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>869815</WikiTitleID> <RankerScore>0.039227416534818184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hunting</WikiTitle> <WikiTitleID>38791</WikiTitleID> <RankerScore>0.039227416534818184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Skeet_shooting</WikiTitle> <WikiTitleID>249489</WikiTitleID> <RankerScore>0.039227416534818184</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>inside</EntitySurfaceForm>
+	<EntityTextStart>184</EntityTextStart>
+	<EntityTextEnd>190</EntityTextEnd>
+	<LinkerScore>-1.3173197253226276</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Blue_Line_(New_York_State)</WikiTitle>
+		<WikiTitleID>3532864</WikiTitleID>
+		<RankerScore>0.3844011636746369</RankerScore>
+		<Attributes>adirondacks	catskills</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Blue_Line_(New_York_State)</WikiTitle> <WikiTitleID>3532864</WikiTitleID> <RankerScore>0.3844011636746369</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Self-hating_Jew</WikiTitle> <WikiTitleID>2581131</WikiTitleID> <RankerScore>0.32310289280810567</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inside_forward</WikiTitle> <WikiTitleID>13293786</WikiTitleID> <RankerScore>0.2924959435172574</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>area</EntitySurfaceForm>
+	<EntityTextStart>191</EntityTextStart>
+	<EntityTextEnd>195</EntityTextEnd>
+	<LinkerScore>2.8913842726116656</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Area</WikiTitle>
+		<WikiTitleID>1209</WikiTitleID>
+		<RankerScore>0.6221350990203982</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Area</WikiTitle> <WikiTitleID>1209</WikiTitleID> <RankerScore>0.6221350990203982</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Area</WikiTitle> <WikiTitleID>1024221</WikiTitleID> <RankerScore>0.7832105158551707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_places_in_Hong_Kong</WikiTitle> <WikiTitleID>369991</WikiTitleID> <RankerScore>0.018398504414711123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Area_(LDS_Church)</WikiTitle> <WikiTitleID>12054839</WikiTitleID> <RankerScore>0.02114508215087592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_countries_and_dependencies_by_area</WikiTitle> <WikiTitleID>72028</WikiTitleID> <RankerScore>0.02114508215087592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cultural_area</WikiTitle> <WikiTitleID>1526009</WikiTitleID> <RankerScore>0.02114508215087592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_areas_in_Chicago</WikiTitle> <WikiTitleID>1265165</WikiTitleID> <RankerScore>0.02114508215087592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Area_of_a_disk</WikiTitle> <WikiTitleID>1896782</WikiTitleID> <RankerScore>0.02114508215087592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_U.S._states_and_territories_by_area</WikiTitle> <WikiTitleID>87513</WikiTitleID> <RankerScore>0.02114508215087592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surface_area</WikiTitle> <WikiTitleID>27725</WikiTitleID> <RankerScore>0.02114508215087592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Area_bombardment</WikiTitle> <WikiTitleID>1469767</WikiTitleID> <RankerScore>0.02114508215087592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Area_(country_subdivision)</WikiTitle> <WikiTitleID>7117925</WikiTitleID> <RankerScore>0.02114508215087592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Penalty_area</WikiTitle> <WikiTitleID>53884</WikiTitleID> <RankerScore>0.02114508215087592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Census-designated_place</WikiTitle> <WikiTitleID>269771</WikiTitleID> <RankerScore>0.02114508215087592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Territory_(animal)</WikiTitle> <WikiTitleID>501364</WikiTitleID> <RankerScore>0.02114508215087592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_climbing_areas</WikiTitle> <WikiTitleID>6241</WikiTitleID> <RankerScore>0.02114508215087592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Portland_metropolitan_area</WikiTitle> <WikiTitleID>1054201</WikiTitleID> <RankerScore>0.02114508215087592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Phoenix_metropolitan_area</WikiTitle> <WikiTitleID>602951</WikiTitleID> <RankerScore>0.02114508215087592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_cities_by_area</WikiTitle> <WikiTitleID>996403</WikiTitleID> <RankerScore>0.02114508215087592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Free_Zone_(region)</WikiTitle> <WikiTitleID>3485861</WikiTitleID> <RankerScore>0.02114508215087592</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian</EntitySurfaceForm>
+	<EntityTextStart>206</EntityTextStart>
+	<EntityTextEnd>217</EntityTextEnd>
+	<LinkerScore>0.507583310702749</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_people</WikiTitle>
+		<WikiTitleID>23267</WikiTitleID>
+		<RankerScore>0.5316861682067942</RankerScore>
+		<Attributes>group	citizen	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_people</WikiTitle> <WikiTitleID>23267</WikiTitleID> <RankerScore>0.5316861682067942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>6.3299725575111E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.24252109799970373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>6.3299725575111E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Arabic</WikiTitle> <WikiTitleID>610643</WikiTitleID> <RankerScore>6.3299725575111E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Jews</WikiTitle> <WikiTitleID>4533719</WikiTitleID> <RankerScore>6.3299725575111E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Definitions_of_Palestine</WikiTitle> <WikiTitleID>608152</WikiTitleID> <RankerScore>6.3299725575111E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_American</WikiTitle> <WikiTitleID>7607942</WikiTitleID> <RankerScore>6.3299725575111E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Palestine</WikiTitle> <WikiTitleID>416081</WikiTitleID> <RankerScore>6.3299725575111E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_cuisine</WikiTitle> <WikiTitleID>11146241</WikiTitleID> <RankerScore>6.3299725575111E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine_Liberation_Organization</WikiTitle> <WikiTitleID>24324</WikiTitleID> <RankerScore>0.22471663845872517</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mandatory_Palestine</WikiTitle> <WikiTitleID>63922</WikiTitleID> <RankerScore>6.3299725575111E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_refugee</WikiTitle> <WikiTitleID>74681</WikiTitleID> <RankerScore>6.3299725575111E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab–Israeli_conflict</WikiTitle> <WikiTitleID>7960202</WikiTitleID> <RankerScore>6.3299725575111E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposals_for_a_Palestinian_state</WikiTitle> <WikiTitleID>48276</WikiTitleID> <RankerScore>6.3299725575111E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Palestine</WikiTitle> <WikiTitleID>13801</WikiTitleID> <RankerScore>6.3299725575111E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arabic_literature</WikiTitle> <WikiTitleID>462469</WikiTitleID> <RankerScore>6.3299725575111E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_citizens_of_Israel</WikiTitle> <WikiTitleID>492331</WikiTitleID> <RankerScore>6.3299725575111E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Front_for_the_Liberation_of_Palestine_–_External_Operations</WikiTitle> <WikiTitleID>3235558</WikiTitleID> <RankerScore>6.3299725575111E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Palestine</WikiTitle> <WikiTitleID>9763138</WikiTitleID> <RankerScore>6.3299725575111E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>control</EntitySurfaceForm>
+	<EntityTextStart>218</EntityTextStart>
+	<EntityTextEnd>225</EntityTextEnd>
+	<LinkerScore>0.5985244958187784</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Control</WikiTitle>
+		<WikiTitleID>491900</WikiTitleID>
+		<RankerScore>0.2472258672729069</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Control</WikiTitle> <WikiTitleID>491900</WikiTitleID> <RankerScore>0.2472258672729069</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scientific_control</WikiTitle> <WikiTitleID>1640288</WikiTitleID> <RankerScore>0.05395848715145456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Control_theory</WikiTitle> <WikiTitleID>7039</WikiTitleID> <RankerScore>0.03853703807526701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Control_system</WikiTitle> <WikiTitleID>275473</WikiTitleID> <RankerScore>0.04126741296877322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Control_key</WikiTitle> <WikiTitleID>188035</WikiTitleID> <RankerScore>0.04126741296877322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mind_control</WikiTitle> <WikiTitleID>20948</WikiTitleID> <RankerScore>0.04126741296877322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>GUI_widget</WikiTitle> <WikiTitleID>769705</WikiTitleID> <RankerScore>0.04126741296877322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Social_control</WikiTitle> <WikiTitleID>81682</WikiTitleID> <RankerScore>0.04126741296877322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Control_flow</WikiTitle> <WikiTitleID>45459</WikiTitleID> <RankerScore>0.04126741296877322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Control_(management)</WikiTitle> <WikiTitleID>11523713</WikiTitleID> <RankerScore>0.04126741296877322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ActiveX</WikiTitle> <WikiTitleID>93497</WikiTitleID> <RankerScore>0.04126741296877322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Strike_zone</WikiTitle> <WikiTitleID>54395</WikiTitleID> <RankerScore>0.04126741296877322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aircraft_flight_control_system</WikiTitle> <WikiTitleID>703058</WikiTitleID> <RankerScore>0.04126741296877322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vibration_control</WikiTitle> <WikiTitleID>16972660</WikiTitleID> <RankerScore>0.04126741296877322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Control_character</WikiTitle> <WikiTitleID>5298</WikiTitleID> <RankerScore>0.04126741296877322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Controller_(control_theory)</WikiTitle> <WikiTitleID>1714183</WikiTitleID> <RankerScore>0.04126741296877322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civilian_control_of_the_military</WikiTitle> <WikiTitleID>2589535</WikiTitleID> <RankerScore>0.04126741296877322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Märklin_Digital</WikiTitle> <WikiTitleID>1711909</WikiTitleID> <RankerScore>0.04126741296877322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Social_control</WikiTitle> <WikiTitleID>363622</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alaska_Purchase</WikiTitle> <WikiTitleID>193703</WikiTitleID> <RankerScore>0.04126741296877322</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The source</EntitySurfaceForm>
+	<EntityTextStart>229</EntityTextStart>
+	<EntityTextEnd>239</EntityTextEnd>
+	<LinkerScore>2.350058986068133</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Proto-Human_language</WikiTitle>
+		<WikiTitleID>23940</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>language</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Proto-Human_language</WikiTitle> <WikiTitleID>23940</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>source</EntitySurfaceForm>
+	<EntityTextStart>233</EntityTextStart>
+	<EntityTextEnd>239</EntityTextEnd>
+	<LinkerScore>1.5699853921593434</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Source_code</WikiTitle>
+		<WikiTitleID>27661</WikiTitleID>
+		<RankerScore>0.2972315913252175</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>River_source</WikiTitle> <WikiTitleID>415088</WikiTitleID> <RankerScore>0.11822643862255605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Source_code</WikiTitle> <WikiTitleID>27661</WikiTitleID> <RankerScore>0.2972315913252175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Source</WikiTitle> <WikiTitleID>242181</WikiTitleID> <RankerScore>0.04792175375838938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communication_source</WikiTitle> <WikiTitleID>487748</WikiTitleID> <RankerScore>0.03156589507610806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Source_(journalism)</WikiTitle> <WikiTitleID>930136</WikiTitleID> <RankerScore>0.03156589507610806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Source_text</WikiTitle> <WikiTitleID>4159251</WikiTitleID> <RankerScore>0.03156589507610806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Source-compatibility</WikiTitle> <WikiTitleID>335164</WikiTitleID> <RankerScore>0.03156589507610806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Voltage_source</WikiTitle> <WikiTitleID>1686418</WikiTitleID> <RankerScore>0.03156589507610806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Source_rock</WikiTitle> <WikiTitleID>17380942</WikiTitleID> <RankerScore>0.03156589507610806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_supply</WikiTitle> <WikiTitleID>684928</WikiTitleID> <RankerScore>0.03156589507610806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maturity_(geology)</WikiTitle> <WikiTitleID>3356530</WikiTitleID> <RankerScore>0.03156589507610806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Source_criticism</WikiTitle> <WikiTitleID>2636884</WikiTitleID> <RankerScore>0.03156589507610806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Field-effect_transistor</WikiTitle> <WikiTitleID>11357</WikiTitleID> <RankerScore>0.03156589507610806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Independent_sources</WikiTitle> <WikiTitleID>3414859</WikiTitleID> <RankerScore>0.03156589507610806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bone_bed</WikiTitle> <WikiTitleID>1337147</WikiTitleID> <RankerScore>0.03156589507610806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Open-source_software</WikiTitle> <WikiTitleID>277663</WikiTitleID> <RankerScore>0.03156589507610806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Origin</WikiTitle> <WikiTitleID>22717</WikiTitleID> <RankerScore>0.03156589507610806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Output_impedance</WikiTitle> <WikiTitleID>643070</WikiTitleID> <RankerScore>0.03156589507610806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Signal_(electrical_engineering)</WikiTitle> <WikiTitleID>275871</WikiTitleID> <RankerScore>0.03156589507610806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Etymology</WikiTitle> <WikiTitleID>888207</WikiTitleID> <RankerScore>0.03156589507610806</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian</EntitySurfaceForm>
+	<EntityTextStart>255</EntityTextStart>
+	<EntityTextEnd>266</EntityTextEnd>
+	<LinkerScore>0.6724043018253069</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_people</WikiTitle>
+		<WikiTitleID>23267</WikiTitleID>
+		<RankerScore>0.3790543095153965</RankerScore>
+		<Attributes>group	citizen	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_people</WikiTitle> <WikiTitleID>23267</WikiTitleID> <RankerScore>0.3790543095153965</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>3.416042288600488E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.2770953247113499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>3.416042288600488E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Arabic</WikiTitle> <WikiTitleID>610643</WikiTitleID> <RankerScore>3.416042288600488E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Jews</WikiTitle> <WikiTitleID>4533719</WikiTitleID> <RankerScore>3.416042288600488E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Definitions_of_Palestine</WikiTitle> <WikiTitleID>608152</WikiTitleID> <RankerScore>3.416042288600488E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_American</WikiTitle> <WikiTitleID>7607942</WikiTitleID> <RankerScore>3.416042288600488E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Palestine</WikiTitle> <WikiTitleID>416081</WikiTitleID> <RankerScore>3.416042288600488E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_cuisine</WikiTitle> <WikiTitleID>11146241</WikiTitleID> <RankerScore>3.416042288600488E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine_Liberation_Organization</WikiTitle> <WikiTitleID>24324</WikiTitleID> <RankerScore>0.3432696385841915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mandatory_Palestine</WikiTitle> <WikiTitleID>63922</WikiTitleID> <RankerScore>3.416042288600488E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_refugee</WikiTitle> <WikiTitleID>74681</WikiTitleID> <RankerScore>3.416042288600488E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab–Israeli_conflict</WikiTitle> <WikiTitleID>7960202</WikiTitleID> <RankerScore>3.416042288600488E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposals_for_a_Palestinian_state</WikiTitle> <WikiTitleID>48276</WikiTitleID> <RankerScore>3.416042288600488E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Palestine</WikiTitle> <WikiTitleID>13801</WikiTitleID> <RankerScore>3.416042288600488E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arabic_literature</WikiTitle> <WikiTitleID>462469</WikiTitleID> <RankerScore>3.416042288600488E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_citizens_of_Israel</WikiTitle> <WikiTitleID>492331</WikiTitleID> <RankerScore>3.416042288600488E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Front_for_the_Liberation_of_Palestine_–_External_Operations</WikiTitle> <WikiTitleID>3235558</WikiTitleID> <RankerScore>3.416042288600488E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Palestine</WikiTitle> <WikiTitleID>9763138</WikiTitleID> <RankerScore>3.416042288600488E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Superior</EntitySurfaceForm>
+	<EntityTextStart>267</EntityTextStart>
+	<EntityTextEnd>275</EntityTextEnd>
+	<LinkerScore>-0.7103415228080737</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Superior,_Wisconsin</WikiTitle>
+		<WikiTitleID>288141</WikiTitleID>
+		<RankerScore>0.13569211113086813</RankerScore>
+		<Attributes>place	seats	settlement	city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Superior,_Wisconsin</WikiTitle> <WikiTitleID>288141</WikiTitleID> <RankerScore>0.13569211113086813</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior</WikiTitle> <WikiTitleID>39158</WikiTitleID> <RankerScore>0.07207834665801637</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lake_Superior</WikiTitle> <WikiTitleID>17951</WikiTitleID> <RankerScore>0.046414677364105844</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Arizona</WikiTitle> <WikiTitleID>106764</WikiTitleID> <RankerScore>0.04387146263805939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Nebraska</WikiTitle> <WikiTitleID>124093</WikiTitleID> <RankerScore>0.04387146263805939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_(band)</WikiTitle> <WikiTitleID>6168006</WikiTitleID> <RankerScore>0.04387146263805939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Montana</WikiTitle> <WikiTitleID>123541</WikiTitleID> <RankerScore>0.04387146263805939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Colorado</WikiTitle> <WikiTitleID>108410</WikiTitleID> <RankerScore>0.04387146263805939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_(proposed_U.S._state)</WikiTitle> <WikiTitleID>5634053</WikiTitleID> <RankerScore>0.04387146263805939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_Coach_Company</WikiTitle> <WikiTitleID>1903926</WikiTitleID> <RankerScore>0.04387146263805939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_(hierarchy)</WikiTitle> <WikiTitleID>307680</WikiTitleID> <RankerScore>0.04387146263805939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_craton</WikiTitle> <WikiTitleID>6175435</WikiTitleID> <RankerScore>0.04387146263805939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_(RTA_Rapid_Transit_station)</WikiTitle> <WikiTitleID>11658571</WikiTitleID> <RankerScore>0.04387146263805939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Iowa</WikiTitle> <WikiTitleID>113000</WikiTitleID> <RankerScore>0.04387146263805939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_(manga)</WikiTitle> <WikiTitleID>12523450</WikiTitleID> <RankerScore>0.04387146263805939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_Oil_Company</WikiTitle> <WikiTitleID>2711343</WikiTitleID> <RankerScore>0.04387146263805939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Wyoming</WikiTitle> <WikiTitleID>140218</WikiTitleID> <RankerScore>0.04387146263805939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Freedom_City</WikiTitle> <WikiTitleID>5863509</WikiTitleID> <RankerScore>0.04387146263805939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_court</WikiTitle> <WikiTitleID>307028</WikiTitleID> <RankerScore>0.04387146263805939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Wisconsin–Superior</WikiTitle> <WikiTitleID>496738</WikiTitleID> <RankerScore>0.04387146263805939</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Security Council</EntitySurfaceForm>
+	<EntityTextStart>276</EntityTextStart>
+	<EntityTextEnd>292</EntityTextEnd>
+	<LinkerScore>2.3638118756923774</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Nations_Security_Council</WikiTitle>
+		<WikiTitleID>31956</WikiTitleID>
+		<RankerScore>0.940808294881857</RankerScore>
+		<Attributes>election	organization	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Nations_Security_Council</WikiTitle> <WikiTitleID>31956</WikiTitleID> <RankerScore>0.940808294881857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_Council_of_Russia</WikiTitle> <WikiTitleID>7516389</WikiTitleID> <RankerScore>0.007978735658365339</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Security_Council_resolution</WikiTitle> <WikiTitleID>178970</WikiTitleID> <RankerScore>0.04487898256275726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_Council_(Japan)</WikiTitle> <WikiTitleID>2897582</WikiTitleID> <RankerScore>0.0063339868970202495</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Security</EntitySurfaceForm>
+	<EntityTextStart>276</EntityTextStart>
+	<EntityTextEnd>284</EntityTextEnd>
+	<LinkerScore>0.5652417807465339</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Security</WikiTitle>
+		<WikiTitleID>41684</WikiTitleID>
+		<RankerScore>0.5898389972646405</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Security</WikiTitle> <WikiTitleID>41684</WikiTitleID> <RankerScore>0.5898389972646405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_security</WikiTitle> <WikiTitleID>7398</WikiTitleID> <RankerScore>0.09309356915216638</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peter_Gabriel_(1982_album)</WikiTitle> <WikiTitleID>1066222</WikiTitleID> <RankerScore>0.023305308644059254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Starfleet</WikiTitle> <WikiTitleID>29340</WikiTitleID> <RankerScore>0.018360132808695872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stacie_Orrico_(album)</WikiTitle> <WikiTitleID>5392828</WikiTitleID> <RankerScore>0.018360132808695872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_security</WikiTitle> <WikiTitleID>863095</WikiTitleID> <RankerScore>0.018360132808695872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_(finance)</WikiTitle> <WikiTitleID>42162</WikiTitleID> <RankerScore>0.018360132808695872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Windows_Security_Log</WikiTitle> <WikiTitleID>13410217</WikiTitleID> <RankerScore>0.018360132808695872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Public_security</WikiTitle> <WikiTitleID>2623876</WikiTitleID> <RankerScore>0.018360132808695872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Database_security</WikiTitle> <WikiTitleID>4689778</WikiTitleID> <RankerScore>0.018360132808695872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_interest</WikiTitle> <WikiTitleID>2916935</WikiTitleID> <RankerScore>0.018360132808695872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Academi</WikiTitle> <WikiTitleID>567996</WikiTitleID> <RankerScore>0.018360132808695872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_security</WikiTitle> <WikiTitleID>1946540</WikiTitleID> <RankerScore>0.018360132808695872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>GE_Security</WikiTitle> <WikiTitleID>2023512</WikiTitleID> <RankerScore>0.018360132808695872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operations_security</WikiTitle> <WikiTitleID>3025124</WikiTitleID> <RankerScore>0.018360132808695872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Information_security</WikiTitle> <WikiTitleID>15036</WikiTitleID> <RankerScore>0.018360132808695872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Network_security</WikiTitle> <WikiTitleID>592687</WikiTitleID> <RankerScore>0.018360132808695872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Application_security</WikiTitle> <WikiTitleID>2571015</WikiTitleID> <RankerScore>0.018360132808695872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security-Widefield,_Colorado</WikiTitle> <WikiTitleID>123728</WikiTitleID> <RankerScore>0.018360132808695872</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Council</EntitySurfaceForm>
+	<EntityTextStart>285</EntityTextStart>
+	<EntityTextEnd>292</EntityTextEnd>
+	<LinkerScore>0.46987402968171554</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Nations_Security_Council</WikiTitle>
+		<WikiTitleID>31956</WikiTitleID>
+		<RankerScore>0.8387240902517867</RankerScore>
+		<Attributes>election	organization	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Nations_Security_Council</WikiTitle> <WikiTitleID>31956</WikiTitleID> <RankerScore>0.8387240902517867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_Council_of_Russia</WikiTitle> <WikiTitleID>7516389</WikiTitleID> <RankerScore>0.006441098927739519</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Security_Council_resolution</WikiTitle> <WikiTitleID>178970</WikiTitleID> <RankerScore>0.15093218955121585</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_Council_(Japan)</WikiTitle> <WikiTitleID>2897582</WikiTitleID> <RankerScore>0.0039026212692578116</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>President</EntitySurfaceForm>
+	<EntityTextStart>300</EntityTextStart>
+	<EntityTextEnd>309</EntityTextEnd>
+	<LinkerScore>0.390519497920908</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>President</WikiTitle>
+		<WikiTitleID>24110</WikiTitleID>
+		<RankerScore>0.4179507370640777</RankerScore>
+		<Attributes>occupation	executive	title	president	position</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>President_of_the_United_States</WikiTitle> <WikiTitleID>24113</WikiTitleID> <RankerScore>0.25019500930715044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President</WikiTitle> <WikiTitleID>24110</WikiTitleID> <RankerScore>0.4179507370640777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_the_Philippines</WikiTitle> <WikiTitleID>271126</WikiTitleID> <RankerScore>0.031108410497211764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Mexico</WikiTitle> <WikiTitleID>273641</WikiTitleID> <RankerScore>0.0176909319489153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_France</WikiTitle> <WikiTitleID>24899</WikiTitleID> <RankerScore>0.0176909319489153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Argentina</WikiTitle> <WikiTitleID>229473</WikiTitleID> <RankerScore>0.0176909319489153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Fiji</WikiTitle> <WikiTitleID>471833</WikiTitleID> <RankerScore>0.0176909319489153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Pakistan</WikiTitle> <WikiTitleID>419460</WikiTitleID> <RankerScore>0.0176909319489153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Ireland</WikiTitle> <WikiTitleID>24676</WikiTitleID> <RankerScore>0.0176909319489153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Russia</WikiTitle> <WikiTitleID>239646</WikiTitleID> <RankerScore>0.0176909319489153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Presidents_of_Venezuela</WikiTitle> <WikiTitleID>165102</WikiTitleID> <RankerScore>0.0176909319489153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_the_Republic_of_China</WikiTitle> <WikiTitleID>61155</WikiTitleID> <RankerScore>0.0176909319489153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Chile</WikiTitle> <WikiTitleID>67402</WikiTitleID> <RankerScore>0.0176909319489153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_heads_of_state_of_Ecuador</WikiTitle> <WikiTitleID>840787</WikiTitleID> <RankerScore>0.0176909319489153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Ukraine</WikiTitle> <WikiTitleID>570941</WikiTitleID> <RankerScore>0.0176909319489153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_India</WikiTitle> <WikiTitleID>141896</WikiTitleID> <RankerScore>0.0176909319489153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Romania</WikiTitle> <WikiTitleID>273659</WikiTitleID> <RankerScore>0.0176909319489153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_the_Church</WikiTitle> <WikiTitleID>387981</WikiTitleID> <RankerScore>0.0176909319489153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_South_Africa</WikiTitle> <WikiTitleID>321700</WikiTitleID> <RankerScore>0.0176909319489153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Nicaragua</WikiTitle> <WikiTitleID>302862</WikiTitleID> <RankerScore>0.0176909319489153</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yasser Arafat</EntitySurfaceForm>
+	<EntityTextStart>310</EntityTextStart>
+	<EntityTextEnd>323</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Yasser_Arafat</WikiTitle>
+		<WikiTitleID>34289</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>survivor	member	muslim	alumnus	recipient	president	person	engineer	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Yasser_Arafat</WikiTitle> <WikiTitleID>34289</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yasser</EntitySurfaceForm>
+	<EntityTextStart>310</EntityTextStart>
+	<EntityTextEnd>316</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Yasser_Arafat</WikiTitle>
+		<WikiTitleID>34289</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>survivor	member	muslim	alumnus	recipient	president	person	engineer	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Yasser_Hashemi_Rafsanjani</WikiTitle> <WikiTitleID>1591749</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Arafat</EntitySurfaceForm>
+	<EntityTextStart>317</EntityTextStart>
+	<EntityTextEnd>323</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Yasser_Arafat</WikiTitle>
+		<WikiTitleID>34289</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>survivor	member	muslim	alumnus	recipient	president	person	engineer	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arafat</WikiTitle> <WikiTitleID>303576</WikiTitleID> <RankerScore>0.045556621933505036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yasser_Arafat</WikiTitle> <WikiTitleID>34289</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mount_Arafat</WikiTitle> <WikiTitleID>1161193</WikiTitleID> <RankerScore>0.004239842870260572</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>orders</EntitySurfaceForm>
+	<EntityTextStart>331</EntityTextStart>
+	<EntityTextEnd>337</EntityTextEnd>
+	<LinkerScore>-1.6157020552887318</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Order_(biology)</WikiTitle>
+		<WikiTitleID>61763</WikiTitleID>
+		<RankerScore>0.14113783013717177</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Order_(biology)</WikiTitle> <WikiTitleID>61763</WikiTitleID> <RankerScore>0.14113783013717177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Holy_Orders</WikiTitle> <WikiTitleID>13631</WikiTitleID> <RankerScore>0.04833618677910194</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Order_(honour)</WikiTitle> <WikiTitleID>1098136</WikiTitleID> <RankerScore>0.05613368060573509</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Religious_order</WikiTitle> <WikiTitleID>140445</WikiTitleID> <RankerScore>0.04437601779282301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Classical_order</WikiTitle> <WikiTitleID>6938</WikiTitleID> <RankerScore>0.04437601779282301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Order_(exchange)</WikiTitle> <WikiTitleID>3620717</WikiTitleID> <RankerScore>0.04437601779282301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Court_order</WikiTitle> <WikiTitleID>153237</WikiTitleID> <RankerScore>0.04437601779282301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tariqa</WikiTitle> <WikiTitleID>166587</WikiTitleID> <RankerScore>0.04437601779282301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Catholic_religious_order</WikiTitle> <WikiTitleID>1088817</WikiTitleID> <RankerScore>0.04437601779282301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_order</WikiTitle> <WikiTitleID>323630</WikiTitleID> <RankerScore>0.04437601779282301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biological_classification</WikiTitle> <WikiTitleID>53581</WikiTitleID> <RankerScore>0.04437601779282301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Order</WikiTitle> <WikiTitleID>53580</WikiTitleID> <RankerScore>0.04437601779282301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christian_monasticism</WikiTitle> <WikiTitleID>721873</WikiTitleID> <RankerScore>0.04437601779282301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Order_theory</WikiTitle> <WikiTitleID>361924</WikiTitleID> <RankerScore>0.04437601779282301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Order_of_reaction</WikiTitle> <WikiTitleID>1427573</WikiTitleID> <RankerScore>0.04437601779282301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Order_(business)</WikiTitle> <WikiTitleID>288396</WikiTitleID> <RankerScore>0.04437601779282301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statutory_Instrument</WikiTitle> <WikiTitleID>16997710</WikiTitleID> <RankerScore>0.04437601779282301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Partially_ordered_set</WikiTitle> <WikiTitleID>23572</WikiTitleID> <RankerScore>0.04437601779282301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_Royal_Honours_System</WikiTitle> <WikiTitleID>340438</WikiTitleID> <RankerScore>0.04437601779282301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Perturbation_theory_(quantum_mechanics)</WikiTitle> <WikiTitleID>297069</WikiTitleID> <RankerScore>0.04437601779282301</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>unknown</EntitySurfaceForm>
+	<EntityTextStart>346</EntityTextStart>
+	<EntityTextEnd>353</EntityTextEnd>
+	<LinkerScore>0.173951533887928</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Unknown</WikiTitle>
+		<WikiTitleID>492105</WikiTitleID>
+		<RankerScore>0.6609894922535786</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Unknown</WikiTitle> <WikiTitleID>492105</WikiTitleID> <RankerScore>0.6609894922535786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Variable</WikiTitle> <WikiTitleID>32818</WikiTitleID> <RankerScore>0.06312354214555363</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Idiopathic</WikiTitle> <WikiTitleID>545165</WikiTitleID> <RankerScore>0.05193552169723931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knowledge</WikiTitle> <WikiTitleID>243391</WikiTitleID> <RankerScore>0.05598786097590711</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Incertae_sedis</WikiTitle> <WikiTitleID>1409922</WikiTitleID> <RankerScore>0.05598786097590711</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservation_status</WikiTitle> <WikiTitleID>1928089</WikiTitleID> <RankerScore>0.05598786097590711</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Railway_coupling</WikiTitle> <WikiTitleID>1178603</WikiTitleID> <RankerScore>0.05598786097590711</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>armed</EntitySurfaceForm>
+	<EntityTextStart>354</EntityTextStart>
+	<EntityTextEnd>359</EntityTextEnd>
+	<LinkerScore>-1.0031371963021973</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Weapon</WikiTitle>
+		<WikiTitleID>33496</WikiTitleID>
+		<RankerScore>0.2226017793680405</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Weapon</WikiTitle> <WikiTitleID>33496</WikiTitleID> <RankerScore>0.2226017793680405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Armed</WikiTitle> <WikiTitleID>5824296</WikiTitleID> <RankerScore>0.1825020914717376</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Firearm</WikiTitle> <WikiTitleID>11966</WikiTitleID> <RankerScore>0.12266485193097647</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Armed_forces</WikiTitle> <WikiTitleID>18905</WikiTitleID> <RankerScore>0.09444625544584911</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coat_of_arms</WikiTitle> <WikiTitleID>55284</WikiTitleID> <RankerScore>0.09444625544584911</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guerrilla_warfare</WikiTitle> <WikiTitleID>12720</WikiTitleID> <RankerScore>0.09444625544584911</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Robbery</WikiTitle> <WikiTitleID>54849</WikiTitleID> <RankerScore>0.09444625544584911</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gun</WikiTitle> <WikiTitleID>11650</WikiTitleID> <RankerScore>0.09444625544584911</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>persons</EntitySurfaceForm>
+	<EntityTextStart>360</EntityTextStart>
+	<EntityTextEnd>367</EntityTextEnd>
+	<LinkerScore>-1.8890802748120767</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Grammatical_person</WikiTitle>
+		<WikiTitleID>42076</WikiTitleID>
+		<RankerScore>0.33345438721403764</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Grammatical_person</WikiTitle> <WikiTitleID>42076</WikiTitleID> <RankerScore>0.33345438721403764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Person</WikiTitle> <WikiTitleID>219599</WikiTitleID> <RankerScore>0.2592083917812261</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hypostasis_(philosophy_and_religion)</WikiTitle> <WikiTitleID>2763451</WikiTitleID> <RankerScore>0.1486333497440556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legal_personality</WikiTitle> <WikiTitleID>219287</WikiTitleID> <RankerScore>0.12935193563034028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Actor</WikiTitle> <WikiTitleID>753</WikiTitleID> <RankerScore>0.12935193563034028</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>inside</EntitySurfaceForm>
+	<EntityTextStart>382</EntityTextStart>
+	<EntityTextEnd>388</EntityTextEnd>
+	<LinkerScore>-1.7894601048873873</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Blue_Line_(New_York_State)</WikiTitle>
+		<WikiTitleID>3532864</WikiTitleID>
+		<RankerScore>0.37574369377377626</RankerScore>
+		<Attributes>adirondacks	catskills</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Blue_Line_(New_York_State)</WikiTitle> <WikiTitleID>3532864</WikiTitleID> <RankerScore>0.37574369377377626</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Self-hating_Jew</WikiTitle> <WikiTitleID>2581131</WikiTitleID> <RankerScore>0.3261801119810258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inside_forward</WikiTitle> <WikiTitleID>13293786</WikiTitleID> <RankerScore>0.2980761942451979</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>zone</EntitySurfaceForm>
+	<EntityTextStart>389</EntityTextStart>
+	<EntityTextEnd>393</EntityTextEnd>
+	<LinkerScore>-0.7206626962730763</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Zoning</WikiTitle>
+		<WikiTitleID>56313</WikiTitleID>
+		<RankerScore>0.33365141034948037</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Zone</WikiTitle> <WikiTitleID>214330</WikiTitleID> <RankerScore>0.31662668270822397</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_zones_of_Nepal</WikiTitle> <WikiTitleID>658272</WikiTitleID> <RankerScore>0.07150782316584732</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Zoning</WikiTitle> <WikiTitleID>56313</WikiTitleID> <RankerScore>0.33365141034948037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNS_zone</WikiTitle> <WikiTitleID>1375901</WikiTitleID> <RankerScore>0.055642816755289676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Zone_defense</WikiTitle> <WikiTitleID>1965453</WikiTitleID> <RankerScore>0.055642816755289676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hardiness_zone</WikiTitle> <WikiTitleID>1720511</WikiTitleID> <RankerScore>0.055642816755289676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Zone_(vestment)</WikiTitle> <WikiTitleID>1223429</WikiTitleID> <RankerScore>0.055642816755289676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flow_(psychology)</WikiTitle> <WikiTitleID>564387</WikiTitleID> <RankerScore>0.055642816755289676</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>complete</EntitySurfaceForm>
+	<EntityTextStart>404</EntityTextStart>
+	<EntityTextEnd>412</EntityTextEnd>
+	<LinkerScore>-1.1797184718508995</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Complete_metric_space</WikiTitle>
+		<WikiTitleID>7832</WikiTitleID>
+		<RankerScore>0.2202055752811098</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Complete_metric_space</WikiTitle> <WikiTitleID>7832</WikiTitleID> <RankerScore>0.2202055752811098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Completeness</WikiTitle> <WikiTitleID>56054</WikiTitleID> <RankerScore>0.06911436101386521</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Complete_(complexity)</WikiTitle> <WikiTitleID>1176530</WikiTitleID> <RankerScore>0.08316198392066233</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Completeness_(order_theory)</WikiTitle> <WikiTitleID>549445</WikiTitleID> <RankerScore>0.03691282822260957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Complete_theory</WikiTitle> <WikiTitleID>10086335</WikiTitleID> <RankerScore>0.03691282822260957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Complete_measure</WikiTitle> <WikiTitleID>44775</WikiTitleID> <RankerScore>0.03691282822260957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Complete_lattice</WikiTitle> <WikiTitleID>44777</WikiTitleID> <RankerScore>0.03691282822260957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Complete_category</WikiTitle> <WikiTitleID>62781</WikiTitleID> <RankerScore>0.03691282822260957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gödel&apos;s_completeness_theorem</WikiTitle> <WikiTitleID>12450</WikiTitleID> <RankerScore>0.03691282822260957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Complete_group</WikiTitle> <WikiTitleID>876770</WikiTitleID> <RankerScore>0.03691282822260957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Completeness_(statistics)</WikiTitle> <WikiTitleID>194618</WikiTitleID> <RankerScore>0.03691282822260957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Complete_variety</WikiTitle> <WikiTitleID>1047627</WikiTitleID> <RankerScore>0.03691282822260957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Completion_(ring_theory)</WikiTitle> <WikiTitleID>9477975</WikiTitleID> <RankerScore>0.03691282822260957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Limit_(category_theory)</WikiTitle> <WikiTitleID>39248</WikiTitleID> <RankerScore>0.03691282822260957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cauchy_sequence</WikiTitle> <WikiTitleID>6085</WikiTitleID> <RankerScore>0.03691282822260957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Third-degree_atrioventricular_block</WikiTitle> <WikiTitleID>637763</WikiTitleID> <RankerScore>0.03691282822260957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Complete_game</WikiTitle> <WikiTitleID>300752</WikiTitleID> <RankerScore>0.03691282822260957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dedekind_cut</WikiTitle> <WikiTitleID>45569</WikiTitleID> <RankerScore>0.03691282822260957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_reproductive_morphology</WikiTitle> <WikiTitleID>971961</WikiTitleID> <RankerScore>0.03691282822260957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Complete_information</WikiTitle> <WikiTitleID>1603001</WikiTitleID> <RankerScore>0.03691282822260957</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian</EntitySurfaceForm>
+	<EntityTextStart>413</EntityTextStart>
+	<EntityTextEnd>424</EntityTextEnd>
+	<LinkerScore>1.9442773322998825</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_people</WikiTitle>
+		<WikiTitleID>23267</WikiTitleID>
+		<RankerScore>0.8605503876567075</RankerScore>
+		<Attributes>group	citizen	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_people</WikiTitle> <WikiTitleID>23267</WikiTitleID> <RankerScore>0.8605503876567075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>6.0553256471187205E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.06954676339314891</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>6.0553256471187205E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Arabic</WikiTitle> <WikiTitleID>610643</WikiTitleID> <RankerScore>6.0553256471187205E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Jews</WikiTitle> <WikiTitleID>4533719</WikiTitleID> <RankerScore>6.0553256471187205E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Definitions_of_Palestine</WikiTitle> <WikiTitleID>608152</WikiTitleID> <RankerScore>6.0553256471187205E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_American</WikiTitle> <WikiTitleID>7607942</WikiTitleID> <RankerScore>6.0553256471187205E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Palestine</WikiTitle> <WikiTitleID>416081</WikiTitleID> <RankerScore>6.0553256471187205E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_cuisine</WikiTitle> <WikiTitleID>11146241</WikiTitleID> <RankerScore>6.0553256471187205E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine_Liberation_Organization</WikiTitle> <WikiTitleID>24324</WikiTitleID> <RankerScore>0.06887344359013324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mandatory_Palestine</WikiTitle> <WikiTitleID>63922</WikiTitleID> <RankerScore>6.0553256471187205E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_refugee</WikiTitle> <WikiTitleID>74681</WikiTitleID> <RankerScore>6.0553256471187205E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab–Israeli_conflict</WikiTitle> <WikiTitleID>7960202</WikiTitleID> <RankerScore>6.0553256471187205E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposals_for_a_Palestinian_state</WikiTitle> <WikiTitleID>48276</WikiTitleID> <RankerScore>6.0553256471187205E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Palestine</WikiTitle> <WikiTitleID>13801</WikiTitleID> <RankerScore>6.0553256471187205E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arabic_literature</WikiTitle> <WikiTitleID>462469</WikiTitleID> <RankerScore>6.0553256471187205E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_citizens_of_Israel</WikiTitle> <WikiTitleID>492331</WikiTitleID> <RankerScore>6.0553256471187205E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Front_for_the_Liberation_of_Palestine_–_External_Operations</WikiTitle> <WikiTitleID>3235558</WikiTitleID> <RankerScore>6.0553256471187205E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Palestine</WikiTitle> <WikiTitleID>9763138</WikiTitleID> <RankerScore>6.0553256471187205E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>control</EntitySurfaceForm>
+	<EntityTextStart>425</EntityTextStart>
+	<EntityTextEnd>432</EntityTextEnd>
+	<LinkerScore>-1.1362733410247663</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Control</WikiTitle>
+		<WikiTitleID>491900</WikiTitleID>
+		<RankerScore>0.20162182825525735</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Control</WikiTitle> <WikiTitleID>491900</WikiTitleID> <RankerScore>0.20162182825525735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scientific_control</WikiTitle> <WikiTitleID>1640288</WikiTitleID> <RankerScore>0.04571212805851508</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Control_theory</WikiTitle> <WikiTitleID>7039</WikiTitleID> <RankerScore>0.03496060334266312</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Control_system</WikiTitle> <WikiTitleID>275473</WikiTitleID> <RankerScore>0.03496060334266312</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Control_key</WikiTitle> <WikiTitleID>188035</WikiTitleID> <RankerScore>0.03496060334266312</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mind_control</WikiTitle> <WikiTitleID>20948</WikiTitleID> <RankerScore>0.03496060334266312</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>GUI_widget</WikiTitle> <WikiTitleID>769705</WikiTitleID> <RankerScore>0.03496060334266312</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Social_control</WikiTitle> <WikiTitleID>81682</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Control_flow</WikiTitle> <WikiTitleID>45459</WikiTitleID> <RankerScore>0.03496060334266312</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Control_(management)</WikiTitle> <WikiTitleID>11523713</WikiTitleID> <RankerScore>0.03496060334266312</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ActiveX</WikiTitle> <WikiTitleID>93497</WikiTitleID> <RankerScore>0.03496060334266312</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Strike_zone</WikiTitle> <WikiTitleID>54395</WikiTitleID> <RankerScore>0.03496060334266312</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aircraft_flight_control_system</WikiTitle> <WikiTitleID>703058</WikiTitleID> <RankerScore>0.03496060334266312</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vibration_control</WikiTitle> <WikiTitleID>16972660</WikiTitleID> <RankerScore>0.03496060334266312</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Control_character</WikiTitle> <WikiTitleID>5298</WikiTitleID> <RankerScore>0.03496060334266312</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Controller_(control_theory)</WikiTitle> <WikiTitleID>1714183</WikiTitleID> <RankerScore>0.03496060334266312</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civilian_control_of_the_military</WikiTitle> <WikiTitleID>2589535</WikiTitleID> <RankerScore>0.03496060334266312</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Märklin_Digital</WikiTitle> <WikiTitleID>1711909</WikiTitleID> <RankerScore>0.03496060334266312</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Social_control</WikiTitle> <WikiTitleID>363622</WikiTitleID> <RankerScore>0.19329639020361755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alaska_Purchase</WikiTitle> <WikiTitleID>193703</WikiTitleID> <RankerScore>0.03496060334266312</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>buildings</EntitySurfaceForm>
+	<EntityTextStart>445</EntityTextStart>
+	<EntityTextEnd>454</EntityTextEnd>
+	<LinkerScore>2.008392456870957</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Building</WikiTitle>
+		<WikiTitleID>45995</WikiTitleID>
+		<RankerScore>0.7818354948910646</RankerScore>
+		<Attributes>building</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Building</WikiTitle> <WikiTitleID>45995</WikiTitleID> <RankerScore>0.7818354948910646</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Catherine_de&apos;_Medici&apos;s_building_projects</WikiTitle> <WikiTitleID>13994533</WikiTitleID> <RankerScore>0.03152456266260043</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Building_code</WikiTitle> <WikiTitleID>537481</WikiTitleID> <RankerScore>0.018889861504707364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Construction</WikiTitle> <WikiTitleID>239038</WikiTitleID> <RankerScore>0.023964297277375386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Architecture</WikiTitle> <WikiTitleID>903378</WikiTitleID> <RankerScore>0.023964297277375386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Brown_University_buildings</WikiTitle> <WikiTitleID>12802889</WikiTitleID> <RankerScore>0.023964297277375386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Building_(mathematics)</WikiTitle> <WikiTitleID>275015</WikiTitleID> <RankerScore>0.023964297277375386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parthenon</WikiTitle> <WikiTitleID>23672</WikiTitleID> <RankerScore>0.023964297277375386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bahá&apos;í_World_Centre_buildings</WikiTitle> <WikiTitleID>1881808</WikiTitleID> <RankerScore>0.023964297277375386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Building_material</WikiTitle> <WikiTitleID>464779</WikiTitleID> <RankerScore>0.023964297277375386</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>civilians</EntitySurfaceForm>
+	<EntityTextStart>459</EntityTextStart>
+	<EntityTextEnd>468</EntityTextEnd>
+	<LinkerScore>3.181033063453832</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Civilian</WikiTitle>
+		<WikiTitleID>145804</WikiTitleID>
+		<RankerScore>0.9009095836889627</RankerScore>
+		<Attributes>civilian</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Civilian</WikiTitle> <WikiTitleID>145804</WikiTitleID> <RankerScore>0.9009095836889627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civilian_casualties</WikiTitle> <WikiTitleID>104983</WikiTitleID> <RankerScore>0.027809727512797363</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orders,_decorations,_and_medals_of_South_Africa</WikiTitle> <WikiTitleID>1990822</WikiTitleID> <RankerScore>0.020701636054633616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraq_Body_Count_project</WikiTitle> <WikiTitleID>202048</WikiTitleID> <RankerScore>0.025289526371803192</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sri_Lankan_Tamil_people</WikiTitle> <WikiTitleID>4096004</WikiTitleID> <RankerScore>0.025289526371803192</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the Palestinian Territories</EntitySurfaceForm>
+	<EntityTextStart>472</EntityTextStart>
+	<EntityTextEnd>499</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_territories</WikiTitle>
+		<WikiTitleID>96665</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>territory</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian Territories</EntitySurfaceForm>
+	<EntityTextStart>476</EntityTextStart>
+	<EntityTextEnd>499</EntityTextEnd>
+	<LinkerScore>2.0568410335049574</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_territories</WikiTitle>
+		<WikiTitleID>96665</WikiTitleID>
+		<RankerScore>0.7695418104533654</RankerScore>
+		<Attributes>territory</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>0.7695418104533654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.14506300346294157</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_the_Palestinian_territories</WikiTitle> <WikiTitleID>6184856</WikiTitleID> <RankerScore>1.3967401333753868E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli-occupied_territories</WikiTitle> <WikiTitleID>2781576</WikiTitleID> <RankerScore>0.08525551207035544</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian</EntitySurfaceForm>
+	<EntityTextStart>476</EntityTextStart>
+	<EntityTextEnd>487</EntityTextEnd>
+	<LinkerScore>2.7632345900067827</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_people</WikiTitle>
+		<WikiTitleID>23267</WikiTitleID>
+		<RankerScore>0.9616099763683867</RankerScore>
+		<Attributes>group	citizen	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_people</WikiTitle> <WikiTitleID>23267</WikiTitleID> <RankerScore>0.9616099763683867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>2.7926212053481447E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.026961827254680177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>0.010953450772023745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Arabic</WikiTitle> <WikiTitleID>610643</WikiTitleID> <RankerScore>2.7926212053481447E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Jews</WikiTitle> <WikiTitleID>4533719</WikiTitleID> <RankerScore>2.7926212053481447E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Definitions_of_Palestine</WikiTitle> <WikiTitleID>608152</WikiTitleID> <RankerScore>2.7926212053481447E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_American</WikiTitle> <WikiTitleID>7607942</WikiTitleID> <RankerScore>2.7926212053481447E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Palestine</WikiTitle> <WikiTitleID>416081</WikiTitleID> <RankerScore>2.7926212053481447E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_cuisine</WikiTitle> <WikiTitleID>11146241</WikiTitleID> <RankerScore>2.7926212053481447E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine_Liberation_Organization</WikiTitle> <WikiTitleID>24324</WikiTitleID> <RankerScore>2.7926212053481447E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mandatory_Palestine</WikiTitle> <WikiTitleID>63922</WikiTitleID> <RankerScore>2.7926212053481447E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_refugee</WikiTitle> <WikiTitleID>74681</WikiTitleID> <RankerScore>2.7926212053481447E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab–Israeli_conflict</WikiTitle> <WikiTitleID>7960202</WikiTitleID> <RankerScore>2.7926212053481447E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposals_for_a_Palestinian_state</WikiTitle> <WikiTitleID>48276</WikiTitleID> <RankerScore>2.7926212053481447E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Palestine</WikiTitle> <WikiTitleID>13801</WikiTitleID> <RankerScore>2.7926212053481447E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arabic_literature</WikiTitle> <WikiTitleID>462469</WikiTitleID> <RankerScore>2.7926212053481447E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_citizens_of_Israel</WikiTitle> <WikiTitleID>492331</WikiTitleID> <RankerScore>2.7926212053481447E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Front_for_the_Liberation_of_Palestine_–_External_Operations</WikiTitle> <WikiTitleID>3235558</WikiTitleID> <RankerScore>2.7926212053481447E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Palestine</WikiTitle> <WikiTitleID>9763138</WikiTitleID> <RankerScore>2.7926212053481447E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Territories</EntitySurfaceForm>
+	<EntityTextStart>488</EntityTextStart>
+	<EntityTextEnd>499</EntityTextEnd>
+	<LinkerScore>1.729689895112786</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_territories</WikiTitle>
+		<WikiTitleID>96665</WikiTitleID>
+		<RankerScore>0.9954149026832171</RankerScore>
+		<Attributes>territory</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Minister_for_Home_Affairs_(Australia)</WikiTitle> <WikiTitleID>14492090</WikiTitleID> <RankerScore>0.001260924599732261</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_and_territories_of_Australia</WikiTitle> <WikiTitleID>4689096</WikiTitleID> <RankerScore>5.551945223167833E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Territories_of_the_United_States</WikiTitle> <WikiTitleID>509785</WikiTitleID> <RankerScore>3.9556831353341744E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Overseas_territory_(France)</WikiTitle> <WikiTitleID>1175293</WikiTitleID> <RankerScore>3.9556831353341744E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Territory</WikiTitle> <WikiTitleID>212970</WikiTitleID> <RankerScore>3.9556831353341744E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arizona_Territory</WikiTitle> <WikiTitleID>454186</WikiTitleID> <RankerScore>3.9556831353341744E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>0.9954149026832171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Overseas_Territories</WikiTitle> <WikiTitleID>207114</WikiTitleID> <RankerScore>3.9556831353341744E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Senate_Committee_on_Energy_and_Natural_Resources</WikiTitle> <WikiTitleID>833077</WikiTitleID> <RankerScore>3.9556831353341744E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Territory_(subdivision)</WikiTitle> <WikiTitleID>6450815</WikiTitleID> <RankerScore>3.9556831353341744E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian</EntitySurfaceForm>
+	<EntityTextStart>508</EntityTextStart>
+	<EntityTextEnd>519</EntityTextEnd>
+	<LinkerScore>2.1819506270748157</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_people</WikiTitle>
+		<WikiTitleID>23267</WikiTitleID>
+		<RankerScore>0.9518963177905104</RankerScore>
+		<Attributes>group	citizen	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_people</WikiTitle> <WikiTitleID>23267</WikiTitleID> <RankerScore>0.9518963177905104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>4.451822592464888E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.03399836388093688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>0.013348508487833526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Arabic</WikiTitle> <WikiTitleID>610643</WikiTitleID> <RankerScore>4.451822592464888E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Jews</WikiTitle> <WikiTitleID>4533719</WikiTitleID> <RankerScore>4.451822592464888E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Definitions_of_Palestine</WikiTitle> <WikiTitleID>608152</WikiTitleID> <RankerScore>4.451822592464888E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_American</WikiTitle> <WikiTitleID>7607942</WikiTitleID> <RankerScore>4.451822592464888E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Palestine</WikiTitle> <WikiTitleID>416081</WikiTitleID> <RankerScore>4.451822592464888E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_cuisine</WikiTitle> <WikiTitleID>11146241</WikiTitleID> <RankerScore>4.451822592464888E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine_Liberation_Organization</WikiTitle> <WikiTitleID>24324</WikiTitleID> <RankerScore>4.451822592464888E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mandatory_Palestine</WikiTitle> <WikiTitleID>63922</WikiTitleID> <RankerScore>4.451822592464888E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_refugee</WikiTitle> <WikiTitleID>74681</WikiTitleID> <RankerScore>4.451822592464888E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab–Israeli_conflict</WikiTitle> <WikiTitleID>7960202</WikiTitleID> <RankerScore>4.451822592464888E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposals_for_a_Palestinian_state</WikiTitle> <WikiTitleID>48276</WikiTitleID> <RankerScore>4.451822592464888E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Palestine</WikiTitle> <WikiTitleID>13801</WikiTitleID> <RankerScore>4.451822592464888E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arabic_literature</WikiTitle> <WikiTitleID>462469</WikiTitleID> <RankerScore>4.451822592464888E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_citizens_of_Israel</WikiTitle> <WikiTitleID>492331</WikiTitleID> <RankerScore>4.451822592464888E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Front_for_the_Liberation_of_Palestine_–_External_Operations</WikiTitle> <WikiTitleID>3235558</WikiTitleID> <RankerScore>4.451822592464888E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Palestine</WikiTitle> <WikiTitleID>9763138</WikiTitleID> <RankerScore>4.451822592464888E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hours</EntitySurfaceForm>
+	<EntityTextStart>541</EntityTextStart>
+	<EntityTextEnd>546</EntityTextEnd>
+	<LinkerScore>-0.5884659425934912</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hours</WikiTitle>
+		<WikiTitleID>634045</WikiTitleID>
+		<RankerScore>0.6257281255351067</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hours</WikiTitle> <WikiTitleID>634045</WikiTitleID> <RankerScore>0.6257281255351067</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canonical_hours</WikiTitle> <WikiTitleID>203688</WikiTitleID> <RankerScore>0.19318766265252427</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Working_time</WikiTitle> <WikiTitleID>552168</WikiTitleID> <RankerScore>0.029663480064540965</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hour</WikiTitle> <WikiTitleID>14004</WikiTitleID> <RankerScore>0.032766811489664274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hourly_worker</WikiTitle> <WikiTitleID>15586447</WikiTitleID> <RankerScore>0.029663480064540965</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Liturgy_of_the_Hours</WikiTitle> <WikiTitleID>1951124</WikiTitleID> <RankerScore>0.029663480064540965</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>24-hour_clock</WikiTitle> <WikiTitleID>241342</WikiTitleID> <RankerScore>0.029663480064540965</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horae</WikiTitle> <WikiTitleID>80513</WikiTitleID> <RankerScore>0.029663480064540965</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>discussions</EntitySurfaceForm>
+	<EntityTextStart>554</EntityTextStart>
+	<EntityTextEnd>565</EntityTextEnd>
+	<LinkerScore>2.321007630427481</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Debate</WikiTitle>
+		<WikiTitleID>337689</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Debate</WikiTitle> <WikiTitleID>337689</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli</EntitySurfaceForm>
+	<EntityTextStart>574</EntityTextStart>
+	<EntityTextEnd>581</EntityTextEnd>
+	<LinkerScore>-1.037943936921492</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israel</WikiTitle>
+		<WikiTitleID>9282173</WikiTitleID>
+		<RankerScore>0.49844522983933526</RankerScore>
+		<Attributes>republic	country	state	words</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.4936257611647502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.49844522983933526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_literature</WikiTitle> <WikiTitleID>524317</WikiTitleID> <RankerScore>1.041295295319578E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.00615880699387134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Israel</WikiTitle> <WikiTitleID>8561774</WikiTitleID> <RankerScore>1.041295295319578E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Air_Force</WikiTitle> <WikiTitleID>177619</WikiTitleID> <RankerScore>1.041295295319578E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_football_team</WikiTitle> <WikiTitleID>769536</WikiTitleID> <RankerScore>1.041295295319578E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_(newspaper)</WikiTitle> <WikiTitleID>5324800</WikiTitleID> <RankerScore>1.041295295319578E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Navy</WikiTitle> <WikiTitleID>1370788</WikiTitleID> <RankerScore>1.041295295319578E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_cuisine</WikiTitle> <WikiTitleID>11447140</WikiTitleID> <RankerScore>1.041295295319578E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Premier_League</WikiTitle> <WikiTitleID>7233082</WikiTitleID> <RankerScore>1.041295295319578E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IAF</WikiTitle> <WikiTitleID>422666</WikiTitleID> <RankerScore>1.041295295319578E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_literature</WikiTitle> <WikiTitleID>2432783</WikiTitleID> <RankerScore>1.041295295319578E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_language</WikiTitle> <WikiTitleID>13450</WikiTitleID> <RankerScore>1.041295295319578E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Israel</WikiTitle> <WikiTitleID>413617</WikiTitleID> <RankerScore>1.041295295319578E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Israelis</WikiTitle> <WikiTitleID>422068</WikiTitleID> <RankerScore>1.041295295319578E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_settlement</WikiTitle> <WikiTitleID>15123</WikiTitleID> <RankerScore>1.041295295319578E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hatikvah</WikiTitle> <WikiTitleID>189968</WikiTitleID> <RankerScore>1.041295295319578E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Israel</WikiTitle> <WikiTitleID>459004</WikiTitleID> <RankerScore>1.041295295319578E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_views_on_the_peace_process</WikiTitle> <WikiTitleID>10838363</WikiTitleID> <RankerScore>1.041295295319578E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli Prime Minister</EntitySurfaceForm>
+	<EntityTextStart>574</EntityTextStart>
+	<EntityTextEnd>596</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prime_Minister_of_Israel</WikiTitle>
+		<WikiTitleID>24898</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Israel</WikiTitle> <WikiTitleID>24898</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Prime</EntitySurfaceForm>
+	<EntityTextStart>582</EntityTextStart>
+	<EntityTextEnd>587</EntityTextEnd>
+	<LinkerScore>0.060546004922114816</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prime_(liturgy)</WikiTitle>
+		<WikiTitleID>2984655</WikiTitleID>
+		<RankerScore>0.1860243496419885</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>James_Prime</WikiTitle> <WikiTitleID>3117790</WikiTitleID> <RankerScore>0.18291246935200184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_(liturgy)</WikiTitle> <WikiTitleID>2984655</WikiTitleID> <RankerScore>0.1860243496419885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_(film)</WikiTitle> <WikiTitleID>2806649</WikiTitleID> <RankerScore>0.13416925514429084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_(comics)</WikiTitle> <WikiTitleID>2066574</WikiTitleID> <RankerScore>0.038222609681670676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_(New_Zealand)</WikiTitle> <WikiTitleID>1248688</WikiTitleID> <RankerScore>0.038222609681670676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_number</WikiTitle> <WikiTitleID>179435</WikiTitleID> <RankerScore>0.038222609681670676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime7</WikiTitle> <WikiTitleID>564441</WikiTitleID> <RankerScore>0.038222609681670676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Computer</WikiTitle> <WikiTitleID>905542</WikiTitleID> <RankerScore>0.038222609681670676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>TVtropolis</WikiTitle> <WikiTitleID>805743</WikiTitleID> <RankerScore>0.038222609681670676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_(Transformers)</WikiTitle> <WikiTitleID>10021733</WikiTitleID> <RankerScore>0.038222609681670676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Wild_Cards_characters</WikiTitle> <WikiTitleID>7797127</WikiTitleID> <RankerScore>0.038222609681670676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ideal_(order_theory)</WikiTitle> <WikiTitleID>530559</WikiTitleID> <RankerScore>0.038222609681670676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edward_Dorr_Griffin_Prime</WikiTitle> <WikiTitleID>13575740</WikiTitleID> <RankerScore>0.038222609681670676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Samuel_I._Prime</WikiTitle> <WikiTitleID>13575748</WikiTitleID> <RankerScore>0.038222609681670676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_minister</WikiTitle> <WikiTitleID>24109</WikiTitleID> <RankerScore>0.038222609681670676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mersenne_prime</WikiTitle> <WikiTitleID>18908</WikiTitleID> <RankerScore>0.038222609681670676</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Prime Minister</EntitySurfaceForm>
+	<EntityTextStart>582</EntityTextStart>
+	<EntityTextEnd>596</EntityTextEnd>
+	<LinkerScore>4.414897818195285</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prime_Minister_of_Israel</WikiTitle>
+		<WikiTitleID>24898</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Israel</WikiTitle> <WikiTitleID>24898</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Minister</EntitySurfaceForm>
+	<EntityTextStart>588</EntityTextStart>
+	<EntityTextEnd>596</EntityTextEnd>
+	<LinkerScore>1.9587387541847863</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prime_Minister_of_Israel</WikiTitle>
+		<WikiTitleID>24898</WikiTitleID>
+		<RankerScore>0.9960533935025825</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prime_minister</WikiTitle> <WikiTitleID>24109</WikiTitleID> <RankerScore>0.0016571291505693116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_the_United_Kingdom</WikiTitle> <WikiTitleID>24150</WikiTitleID> <RankerScore>3.116509774320207E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Canada</WikiTitle> <WikiTitleID>24135</WikiTitleID> <RankerScore>1.1634272761271996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Australia</WikiTitle> <WikiTitleID>24117</WikiTitleID> <RankerScore>1.1634272761271996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_New_Zealand</WikiTitle> <WikiTitleID>106321</WikiTitleID> <RankerScore>1.1634272761271996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Japan</WikiTitle> <WikiTitleID>24833</WikiTitleID> <RankerScore>1.1634272761271996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Fiji</WikiTitle> <WikiTitleID>471842</WikiTitleID> <RankerScore>1.1634272761271996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_India</WikiTitle> <WikiTitleID>24452</WikiTitleID> <RankerScore>1.1634272761271996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_France</WikiTitle> <WikiTitleID>218751</WikiTitleID> <RankerScore>1.1634272761271996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Israel</WikiTitle> <WikiTitleID>24898</WikiTitleID> <RankerScore>0.9960533935025825</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Malaysia</WikiTitle> <WikiTitleID>496731</WikiTitleID> <RankerScore>1.1634272761271996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Pakistan</WikiTitle> <WikiTitleID>461896</WikiTitleID> <RankerScore>1.1634272761271996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Singapore</WikiTitle> <WikiTitleID>350647</WikiTitleID> <RankerScore>1.1634272761271996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Romania</WikiTitle> <WikiTitleID>266262</WikiTitleID> <RankerScore>1.1634272761271996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Sweden</WikiTitle> <WikiTitleID>195846</WikiTitleID> <RankerScore>1.1634272761271996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Prime_Ministers_of_Portugal</WikiTitle> <WikiTitleID>203647</WikiTitleID> <RankerScore>1.1634272761271996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Italy</WikiTitle> <WikiTitleID>273741</WikiTitleID> <RankerScore>1.1634272761271996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Prime_Ministers_of_Thailand</WikiTitle> <WikiTitleID>211437</WikiTitleID> <RankerScore>1.1634272761271996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Poland</WikiTitle> <WikiTitleID>40543</WikiTitleID> <RankerScore>1.1634272761271996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Ukraine</WikiTitle> <WikiTitleID>1256678</WikiTitleID> <RankerScore>1.1634272761271996E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ehud Barak</EntitySurfaceForm>
+	<EntityTextStart>597</EntityTextStart>
+	<EntityTextEnd>607</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ehud_Barak</WikiTitle>
+		<WikiTitleID>168212</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>politician	jew	person	recipient	member	leaders	commander	alumnus	minister	chief</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ehud_Barak</WikiTitle> <WikiTitleID>168212</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ehud</EntitySurfaceForm>
+	<EntityTextStart>597</EntityTextStart>
+	<EntityTextEnd>601</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ehud_Barak</WikiTitle>
+		<WikiTitleID>168212</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>politician	jew	person	recipient	member	leaders	commander	alumnus	minister	chief</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ehud</WikiTitle> <WikiTitleID>580058</WikiTitleID> <RankerScore>0.9956808434280947</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ehud_Banai</WikiTitle> <WikiTitleID>7646543</WikiTitleID> <RankerScore>0.004319156571905211</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Barak</EntitySurfaceForm>
+	<EntityTextStart>602</EntityTextStart>
+	<EntityTextEnd>607</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ehud_Barak</WikiTitle>
+		<WikiTitleID>168212</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>politician	jew	person	recipient	member	leaders	commander	alumnus	minister	chief</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Barak</WikiTitle> <WikiTitleID>580483</WikiTitleID> <RankerScore>0.004472988517082484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barak_1</WikiTitle> <WikiTitleID>4552661</WikiTitleID> <RankerScore>2.7648454293752975E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barak_River</WikiTitle> <WikiTitleID>4308389</WikiTitleID> <RankerScore>1.2083356205112324E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ehud_Barak</WikiTitle> <WikiTitleID>168212</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barak,_Israel</WikiTitle> <WikiTitleID>14980838</WikiTitleID> <RankerScore>1.2083356205112324E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_Barak</WikiTitle> <WikiTitleID>1798346</WikiTitleID> <RankerScore>1.2083356205112324E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>SP21</WikiTitle> <WikiTitleID>5094126</WikiTitleID> <RankerScore>1.2083356205112324E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barak_Armored_Brigade</WikiTitle> <WikiTitleID>268204</WikiTitleID> <RankerScore>1.2083356205112324E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>top security</EntitySurfaceForm>
+	<EntityTextStart>616</EntityTextStart>
+	<EntityTextEnd>628</EntityTextEnd>
+	<LinkerScore>3.030914371229571</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Classified_information</WikiTitle>
+		<WikiTitleID>252857</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Classified_information</WikiTitle> <WikiTitleID>252857</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>security</EntitySurfaceForm>
+	<EntityTextStart>620</EntityTextStart>
+	<EntityTextEnd>628</EntityTextEnd>
+	<LinkerScore>-0.7681822590248792</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Security</WikiTitle>
+		<WikiTitleID>41684</WikiTitleID>
+		<RankerScore>0.5785877291325409</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Security</WikiTitle> <WikiTitleID>41684</WikiTitleID> <RankerScore>0.5785877291325409</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_security</WikiTitle> <WikiTitleID>7398</WikiTitleID> <RankerScore>0.03270695757799505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_(finance)</WikiTitle> <WikiTitleID>42162</WikiTitleID> <RankerScore>0.004582449140083956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_security</WikiTitle> <WikiTitleID>240468</WikiTitleID> <RankerScore>0.004582449140083956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Information_security</WikiTitle> <WikiTitleID>15036</WikiTitleID> <RankerScore>0.004582449140083956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_guard</WikiTitle> <WikiTitleID>62126</WikiTitleID> <RankerScore>0.004582449140083956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_insecurity</WikiTitle> <WikiTitleID>55885</WikiTitleID> <RankerScore>0.004582449140083956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_interest</WikiTitle> <WikiTitleID>2916935</WikiTitleID> <RankerScore>0.004582449140083956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Network_security</WikiTitle> <WikiTitleID>592687</WikiTitleID> <RankerScore>0.004582449140083956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_security_forces</WikiTitle> <WikiTitleID>315904</WikiTitleID> <RankerScore>0.31080367790803676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Physical_security</WikiTitle> <WikiTitleID>58725</WikiTitleID> <RankerScore>0.004582449140083956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Airport_security</WikiTitle> <WikiTitleID>284770</WikiTitleID> <RankerScore>0.004582449140083956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vulnerability_(computing)</WikiTitle> <WikiTitleID>1129827</WikiTitleID> <RankerScore>0.004582449140083956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Energy_security</WikiTitle> <WikiTitleID>9560337</WikiTitleID> <RankerScore>0.004582449140083956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Food_security</WikiTitle> <WikiTitleID>216361</WikiTitleID> <RankerScore>0.004582449140083956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MI5</WikiTitle> <WikiTitleID>100076</WikiTitleID> <RankerScore>0.004582449140083956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Application_security</WikiTitle> <WikiTitleID>2571015</WikiTitleID> <RankerScore>0.004582449140083956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_for_costs</WikiTitle> <WikiTitleID>221794</WikiTitleID> <RankerScore>0.004582449140083956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Timeline_of_the_Israeli–Palestinian_conflict</WikiTitle> <WikiTitleID>453591</WikiTitleID> <RankerScore>0.004582449140083956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_security</WikiTitle> <WikiTitleID>1946540</WikiTitleID> <RankerScore>0.004582449140083956</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>advisors</EntitySurfaceForm>
+	<EntityTextStart>629</EntityTextStart>
+	<EntityTextEnd>637</EntityTextEnd>
+	<LinkerScore>0.1791292622196995</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Central_Intelligence_Agency</WikiTitle>
+		<WikiTitleID>5183633</WikiTitleID>
+		<RankerScore>0.6340856372148302</RankerScore>
+		<Attributes>agency</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Central_Intelligence_Agency</WikiTitle> <WikiTitleID>5183633</WikiTitleID> <RankerScore>0.6340856372148302</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Council_of_State</WikiTitle> <WikiTitleID>152752</WikiTitleID> <RankerScore>0.3659143627851698</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>explore</EntitySurfaceForm>
+	<EntityTextStart>641</EntityTextStart>
+	<EntityTextEnd>648</EntityTextEnd>
+	<LinkerScore>-0.3227244457791806</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Explore</WikiTitle>
+		<WikiTitleID>689484</WikiTitleID>
+		<RankerScore>0.7965796855779768</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Explore</WikiTitle> <WikiTitleID>689484</WikiTitleID> <RankerScore>0.7965796855779768</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Exploration</WikiTitle> <WikiTitleID>219878</WikiTitleID> <RankerScore>0.20342031442202324</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>measures</EntitySurfaceForm>
+	<EntityTextStart>653</EntityTextStart>
+	<EntityTextEnd>661</EntityTextEnd>
+	<LinkerScore>-1.7227251242416761</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Measure_(mathematics)</WikiTitle>
+		<WikiTitleID>19873</WikiTitleID>
+		<RankerScore>0.12454382467058861</RankerScore>
+		<Attributes>structure	measure</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Measure_(mathematics)</WikiTitle> <WikiTitleID>19873</WikiTitleID> <RankerScore>0.12454382467058861</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bar_(music)</WikiTitle> <WikiTitleID>387241</WikiTitleID> <RankerScore>0.09592535652655006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Measurement</WikiTitle> <WikiTitleID>19022</WikiTitleID> <RankerScore>0.052719629647739595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Units_of_measurement</WikiTitle> <WikiTitleID>586364</WikiTitleID> <RankerScore>0.05590855301193245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Becky_Measures</WikiTitle> <WikiTitleID>5276191</WikiTitleID> <RankerScore>0.05590855301193245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Measure_(data_warehouse)</WikiTitle> <WikiTitleID>3264156</WikiTitleID> <RankerScore>0.05590855301193245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Quantities_of_information</WikiTitle> <WikiTitleID>6101309</WikiTitleID> <RankerScore>0.05590855301193245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metric_(mathematics)</WikiTitle> <WikiTitleID>1561467</WikiTitleID> <RankerScore>0.05590855301193245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Measurement_in_quantum_mechanics</WikiTitle> <WikiTitleID>573875</WikiTitleID> <RankerScore>0.05590855301193245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jigger</WikiTitle> <WikiTitleID>255270</WikiTitleID> <RankerScore>0.05590855301193245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Measure</WikiTitle> <WikiTitleID>19868</WikiTitleID> <RankerScore>0.05590855301193245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Opinion_poll</WikiTitle> <WikiTitleID>277315</WikiTitleID> <RankerScore>0.05590855301193245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dry_measure</WikiTitle> <WikiTitleID>3842527</WikiTitleID> <RankerScore>0.05590855301193245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Measurable_cardinal</WikiTitle> <WikiTitleID>248102</WikiTitleID> <RankerScore>0.05590855301193245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Systems_of_measurement</WikiTitle> <WikiTitleID>1241988</WikiTitleID> <RankerScore>0.05590855301193245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anti-bureaucratic_revolution</WikiTitle> <WikiTitleID>9665988</WikiTitleID> <RankerScore>0.05590855301193245</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>to be</EntitySurfaceForm>
+	<EntityTextStart>662</EntityTextStart>
+	<EntityTextEnd>667</EntityTextEnd>
+	<LinkerScore>-0.4343495834291961</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Copula</WikiTitle>
+		<WikiTitleID>5630</WikiTitleID>
+		<RankerScore>0.8757400927612674</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Copula</WikiTitle> <WikiTitleID>5630</WikiTitleID> <RankerScore>0.8757400927612674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indo-European_copula</WikiTitle> <WikiTitleID>1925134</WikiTitleID> <RankerScore>0.12425990723873265</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>taken</EntitySurfaceForm>
+	<EntityTextStart>668</EntityTextStart>
+	<EntityTextEnd>673</EntityTextEnd>
+	<LinkerScore>-2.431584943040768</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Battle_of_Badajoz_(1936)</WikiTitle>
+		<WikiTitleID>4506309</WikiTitleID>
+		<RankerScore>0.17715063493315333</RankerScore>
+		<Attributes>dispute	massacre	battle</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Battle_of_Badajoz_(1936)</WikiTitle> <WikiTitleID>4506309</WikiTitleID> <RankerScore>0.17715063493315333</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eminent_domain</WikiTitle> <WikiTitleID>144079</WikiTitleID> <RankerScore>0.16434995526365903</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Málaga</WikiTitle> <WikiTitleID>4843637</WikiTitleID> <RankerScore>0.14445545218268657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Loanword</WikiTitle> <WikiTitleID>59787</WikiTitleID> <RankerScore>0.12851098940512526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Siege_of_Gaeta_(1734)</WikiTitle> <WikiTitleID>4774078</WikiTitleID> <RankerScore>0.12851098940512526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hispano-Moroccan_War_(1859–60)</WikiTitle> <WikiTitleID>6330085</WikiTitleID> <RankerScore>0.12851098940512526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kidnapping</WikiTitle> <WikiTitleID>169376</WikiTitleID> <RankerScore>0.12851098940512526</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinians</EntitySurfaceForm>
+	<EntityTextStart>682</EntityTextStart>
+	<EntityTextEnd>694</EntityTextEnd>
+	<LinkerScore>2.5907522841022494</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_people</WikiTitle>
+		<WikiTitleID>23267</WikiTitleID>
+		<RankerScore>0.9606581986397942</RankerScore>
+		<Attributes>group	citizen	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_people</WikiTitle> <WikiTitleID>23267</WikiTitleID> <RankerScore>0.9606581986397942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>4.701410557334356E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.0196501196129327</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peace_process_in_the_Israeli–Palestinian_conflict</WikiTitle> <WikiTitleID>1193766</WikiTitleID> <RankerScore>0.019315568902686313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposals_for_a_Palestinian_state</WikiTitle> <WikiTitleID>48276</WikiTitleID> <RankerScore>4.701410557334356E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>4.701410557334356E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_flag</WikiTitle> <WikiTitleID>1749912</WikiTitleID> <RankerScore>4.701410557334356E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_refugee</WikiTitle> <WikiTitleID>74681</WikiTitleID> <RankerScore>4.701410557334356E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Palestinians</WikiTitle> <WikiTitleID>610573</WikiTitleID> <RankerScore>4.701410557334356E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Democratic_Front_for_the_Liberation_of_Palestine</WikiTitle> <WikiTitleID>8427</WikiTitleID> <RankerScore>4.701410557334356E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine_national_football_team</WikiTitle> <WikiTitleID>1302455</WikiTitleID> <RankerScore>4.701410557334356E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli soldiers</EntitySurfaceForm>
+	<EntityTextStart>706</EntityTextStart>
+	<EntityTextEnd>722</EntityTextEnd>
+	<LinkerScore>3.2229288470308397</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israel_Defense_Forces</WikiTitle>
+		<WikiTitleID>39237</WikiTitleID>
+		<RankerScore>0.9882204853852423</RankerScore>
+		<Attributes>dispute	recipient	relations	unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.9882204853852423</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IDF</WikiTitle> <WikiTitleID>15478</WikiTitleID> <RankerScore>0.011779514614757585</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli</EntitySurfaceForm>
+	<EntityTextStart>706</EntityTextStart>
+	<EntityTextEnd>713</EntityTextEnd>
+	<LinkerScore>1.275422076690745</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israelis</WikiTitle>
+		<WikiTitleID>181296</WikiTitleID>
+		<RankerScore>0.713068793862225</RankerScore>
+		<Attributes>person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.713068793862225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.2577364506026865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_literature</WikiTitle> <WikiTitleID>524317</WikiTitleID> <RankerScore>9.994645956017246E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.027495665722565624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Israel</WikiTitle> <WikiTitleID>8561774</WikiTitleID> <RankerScore>9.994645956017246E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Air_Force</WikiTitle> <WikiTitleID>177619</WikiTitleID> <RankerScore>9.994645956017246E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_football_team</WikiTitle> <WikiTitleID>769536</WikiTitleID> <RankerScore>9.994645956017246E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_(newspaper)</WikiTitle> <WikiTitleID>5324800</WikiTitleID> <RankerScore>9.994645956017246E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Navy</WikiTitle> <WikiTitleID>1370788</WikiTitleID> <RankerScore>9.994645956017246E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_cuisine</WikiTitle> <WikiTitleID>11447140</WikiTitleID> <RankerScore>9.994645956017246E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Premier_League</WikiTitle> <WikiTitleID>7233082</WikiTitleID> <RankerScore>9.994645956017246E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IAF</WikiTitle> <WikiTitleID>422666</WikiTitleID> <RankerScore>9.994645956017246E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_literature</WikiTitle> <WikiTitleID>2432783</WikiTitleID> <RankerScore>9.994645956017246E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_language</WikiTitle> <WikiTitleID>13450</WikiTitleID> <RankerScore>9.994645956017246E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Israel</WikiTitle> <WikiTitleID>413617</WikiTitleID> <RankerScore>9.994645956017246E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Israelis</WikiTitle> <WikiTitleID>422068</WikiTitleID> <RankerScore>9.994645956017246E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_settlement</WikiTitle> <WikiTitleID>15123</WikiTitleID> <RankerScore>9.994645956017246E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hatikvah</WikiTitle> <WikiTitleID>189968</WikiTitleID> <RankerScore>9.994645956017246E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Israel</WikiTitle> <WikiTitleID>459004</WikiTitleID> <RankerScore>9.994645956017246E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_views_on_the_peace_process</WikiTitle> <WikiTitleID>10838363</WikiTitleID> <RankerScore>9.994645956017246E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>soldiers</EntitySurfaceForm>
+	<EntityTextStart>714</EntityTextStart>
+	<EntityTextEnd>722</EntityTextEnd>
+	<LinkerScore>2.8742826801360515</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israel_Defense_Forces</WikiTitle>
+		<WikiTitleID>39237</WikiTitleID>
+		<RankerScore>0.9897155470726</RankerScore>
+		<Attributes>dispute	recipient	relations	unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.9897155470726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IDF</WikiTitle> <WikiTitleID>15478</WikiTitleID> <RankerScore>0.010284452927399873</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>shot</EntitySurfaceForm>
+	<EntityTextStart>728</EntityTextStart>
+	<EntityTextEnd>732</EntityTextEnd>
+	<LinkerScore>-1.3055164121370533</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Shot</WikiTitle>
+		<WikiTitleID>82199</WikiTitleID>
+		<RankerScore>0.18839449849125064</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Shot</WikiTitle> <WikiTitleID>82199</WikiTitleID> <RankerScore>0.18839449849125064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shot_(filmmaking)</WikiTitle> <WikiTitleID>919384</WikiTitleID> <RankerScore>0.08939629049826642</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shot_(pellet)</WikiTitle> <WikiTitleID>2381321</WikiTitleID> <RankerScore>0.04981856882566583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ballistic_trauma</WikiTitle> <WikiTitleID>10725984</WikiTitleID> <RankerScore>0.03955239071675395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shot_glass</WikiTitle> <WikiTitleID>485338</WikiTitleID> <RankerScore>0.03955239071675395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shot_(ice_hockey)</WikiTitle> <WikiTitleID>568124</WikiTitleID> <RankerScore>0.03955239071675395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gunshot</WikiTitle> <WikiTitleID>684649</WikiTitleID> <RankerScore>0.03955239071675395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinematography</WikiTitle> <WikiTitleID>195718</WikiTitleID> <RankerScore>0.03955239071675395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shooting</WikiTitle> <WikiTitleID>28495</WikiTitleID> <RankerScore>0.03955239071675395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Execution_by_firing_squad</WikiTitle> <WikiTitleID>87208</WikiTitleID> <RankerScore>0.03955239071675395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shoot_(professional_wrestling)</WikiTitle> <WikiTitleID>580580</WikiTitleID> <RankerScore>0.03955239071675395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Round_shot</WikiTitle> <WikiTitleID>1715845</WikiTitleID> <RankerScore>0.03955239071675395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Assassination_of_Robert_F._Kennedy</WikiTitle> <WikiTitleID>291362</WikiTitleID> <RankerScore>0.03955239071675395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shot_put</WikiTitle> <WikiTitleID>28209</WikiTitleID> <RankerScore>0.03955239071675395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Assassination_of_Abraham_Lincoln</WikiTitle> <WikiTitleID>4924254</WikiTitleID> <RankerScore>0.03955239071675395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Shot</WikiTitle> <WikiTitleID>3053166</WikiTitleID> <RankerScore>0.03955239071675395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Execution_by_shooting</WikiTitle> <WikiTitleID>7217319</WikiTitleID> <RankerScore>0.03955239071675395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Assassination_of_John_F._Kennedy</WikiTitle> <WikiTitleID>286369</WikiTitleID> <RankerScore>0.03955239071675395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shot_noise</WikiTitle> <WikiTitleID>41700</WikiTitleID> <RankerScore>0.03955239071675395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Projectile</WikiTitle> <WikiTitleID>144553</WikiTitleID> <RankerScore>0.03955239071675395</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian</EntitySurfaceForm>
+	<EntityTextStart>736</EntityTextStart>
+	<EntityTextEnd>747</EntityTextEnd>
+	<LinkerScore>3.0259205484754004</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_people</WikiTitle>
+		<WikiTitleID>23267</WikiTitleID>
+		<RankerScore>0.9781615223313946</RankerScore>
+		<Attributes>group	citizen	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_people</WikiTitle> <WikiTitleID>23267</WikiTitleID> <RankerScore>0.9781615223313946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>4.19881309248543E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.013431108813796467</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>0.0076935706290863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Arabic</WikiTitle> <WikiTitleID>610643</WikiTitleID> <RankerScore>4.19881309248543E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Jews</WikiTitle> <WikiTitleID>4533719</WikiTitleID> <RankerScore>4.19881309248543E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Definitions_of_Palestine</WikiTitle> <WikiTitleID>608152</WikiTitleID> <RankerScore>4.19881309248543E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_American</WikiTitle> <WikiTitleID>7607942</WikiTitleID> <RankerScore>4.19881309248543E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Palestine</WikiTitle> <WikiTitleID>416081</WikiTitleID> <RankerScore>4.19881309248543E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_cuisine</WikiTitle> <WikiTitleID>11146241</WikiTitleID> <RankerScore>4.19881309248543E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine_Liberation_Organization</WikiTitle> <WikiTitleID>24324</WikiTitleID> <RankerScore>4.19881309248543E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mandatory_Palestine</WikiTitle> <WikiTitleID>63922</WikiTitleID> <RankerScore>4.19881309248543E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_refugee</WikiTitle> <WikiTitleID>74681</WikiTitleID> <RankerScore>4.19881309248543E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab–Israeli_conflict</WikiTitle> <WikiTitleID>7960202</WikiTitleID> <RankerScore>4.19881309248543E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposals_for_a_Palestinian_state</WikiTitle> <WikiTitleID>48276</WikiTitleID> <RankerScore>4.19881309248543E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Palestine</WikiTitle> <WikiTitleID>13801</WikiTitleID> <RankerScore>4.19881309248543E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arabic_literature</WikiTitle> <WikiTitleID>462469</WikiTitleID> <RankerScore>4.19881309248543E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_citizens_of_Israel</WikiTitle> <WikiTitleID>492331</WikiTitleID> <RankerScore>4.19881309248543E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Front_for_the_Liberation_of_Palestine_–_External_Operations</WikiTitle> <WikiTitleID>3235558</WikiTitleID> <RankerScore>4.19881309248543E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Palestine</WikiTitle> <WikiTitleID>9763138</WikiTitleID> <RankerScore>4.19881309248543E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian areas</EntitySurfaceForm>
+	<EntityTextStart>736</EntityTextStart>
+	<EntityTextEnd>753</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_Autonomous_Areas</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>areas</EntitySurfaceForm>
+	<EntityTextStart>748</EntityTextStart>
+	<EntityTextEnd>753</EntityTextEnd>
+	<LinkerScore>-0.7353887526853904</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Area_(LDS_Church)</WikiTitle>
+		<WikiTitleID>12054839</WikiTitleID>
+		<RankerScore>0.27561868030703873</RankerScore>
+		<Attributes>organization	subdivision</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Area_(LDS_Church)</WikiTitle> <WikiTitleID>12054839</WikiTitleID> <RankerScore>0.27561868030703873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Area</WikiTitle> <WikiTitleID>1209</WikiTitleID> <RankerScore>0.10612158388155012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cortical_area</WikiTitle> <WikiTitleID>2685327</WikiTitleID> <RankerScore>0.0907444645858449</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_places_in_Hong_Kong</WikiTitle> <WikiTitleID>369991</WikiTitleID> <RankerScore>0.08791921187092772</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Federally_Administered_Tribal_Areas</WikiTitle> <WikiTitleID>11560</WikiTitleID> <RankerScore>0.08791921187092772</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IAEA_Areas</WikiTitle> <WikiTitleID>10786106</WikiTitleID> <RankerScore>0.08791921187092772</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brodmann_area_32</WikiTitle> <WikiTitleID>2877308</WikiTitleID> <RankerScore>0.08791921187092772</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Area_committee</WikiTitle> <WikiTitleID>758348</WikiTitleID> <RankerScore>0.08791921187092772</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_wine-producing_regions</WikiTitle> <WikiTitleID>37584</WikiTitleID> <RankerScore>0.08791921187092772</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Monday</EntitySurfaceForm>
+	<EntityTextStart>759</EntityTextStart>
+	<EntityTextEnd>765</EntityTextEnd>
+	<LinkerScore>0.879577707834813</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Monday</WikiTitle>
+		<WikiTitleID>54406</WikiTitleID>
+		<RankerScore>0.7509433304421904</RankerScore>
+		<Attributes>days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Monday</WikiTitle> <WikiTitleID>54406</WikiTitleID> <RankerScore>0.7509433304421904</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monday_(The_X-Files)</WikiTitle> <WikiTitleID>11969740</WikiTitleID> <RankerScore>0.06399855754955007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monday_Night_Football</WikiTitle> <WikiTitleID>195068</WikiTitleID> <RankerScore>0.05851934160504236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NFL_Primetime</WikiTitle> <WikiTitleID>542375</WikiTitleID> <RankerScore>0.03163469260080429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Holy_Monday</WikiTitle> <WikiTitleID>1629312</WikiTitleID> <RankerScore>0.03163469260080429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_7</WikiTitle> <WikiTitleID>19596</WikiTitleID> <RankerScore>0.03163469260080429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Madlax_characters</WikiTitle> <WikiTitleID>16048455</WikiTitleID> <RankerScore>0.03163469260080429</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

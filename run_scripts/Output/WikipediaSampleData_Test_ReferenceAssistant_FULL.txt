@@ -1,0 +1,14 @@
+Params:[-referenceAssistant, /scratch2/azehady/nlp/Wikifier2013/Wikifier2013/data/WikificationACL2011Data/WikipediaSample/ProblemsTest, /scratch2/azehady/nlp/Wikifier2013/Wikifier2013/data/WikificationACL2011Data/WikipediaSample/RawTextsTest, /scratch2/azehady/nlp/Wikifier2013/Wikifier2013/run_scripts/Output/WikipediaTestDataResult_ReferenceAssistant_Full, /scratch2/azehady/nlp/Wikifier2013/Wikifier2013/configs/FULL.xml]
+Usage: either
+	$java ReferenceAssistant -trainSvmModelsOnly <pathToConfigFile>
+or
+	$java ReferenceAssistant -buildTrainingDataAndTrain <pathToProblems> <pathToRawTexts> <pathToConfigFile>
+or
+	$java ReferenceAssistant -annotateData <inputPath> <outputPath> <generateFeatureDumps>  <pathToConfigFile> 
+or
+	$java ReferenceAssistant -referenceAssistant <pathToProblemFileOrFolder> <pathToRawTextFilesFolder> <pathToExplanations>  <pathToConfigFile> 
+Creating wordnet dictionary from data/WordNet/...
+Dictionary opened.
+----------------->Bypassing the curator!
+Loading the most recent redirect pages from Wikipedia to normalize the output links to the latest version
+loading the latest redirects; linecount=1

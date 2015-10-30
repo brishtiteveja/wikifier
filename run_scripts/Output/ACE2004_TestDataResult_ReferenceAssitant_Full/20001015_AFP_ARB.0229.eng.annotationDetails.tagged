@@ -1,0 +1,329 @@
+<ANNOTATION>
+   <a class="wiki" href="http://en.wikipedia.org/wiki/London" cat="capital	port	city	place">London</a>  10-16 ( <a class="wiki" href="http://en.wikipedia.org/wiki/Agence_France-Presse" cat="agency	company	establishment">AFP</a> ) -  A  <a class="wiki" href="http://en.wikipedia.org/wiki/Saudi_Arabia" cat="country	state	nation">Saudi</a>  Airways  <b>spokesman</b> in  <a class="wiki" href="http://en.wikipedia.org/wiki/London" cat="capital	port	city	place">London</a>  announced that passengers on the  <a class="wiki" href="http://en.wikipedia.org/wiki/Saudi_Arabia" cat="country	state	nation">Saudi</a>   <b>777</b>  <a class="wiki" href="http://en.wikipedia.org/wiki/Boeing" cat="manufacturer	company	contractor">Boeing</a> , hijacked to  <a class="wiki" href="http://en.wikipedia.org/wiki/Baghdad" cat="capital	community	place	establishment">Baghdad</a>  on Saturday and which arrived in  <a class="wiki" href="http://en.wikipedia.org/wiki/Riyadh" cat="capital	place">Riyadh</a>  yesterday evening Sunday, left the  <a class="wiki" href="http://en.wikipedia.org/wiki/Saudi_Arabia" cat="country	state	nation">Saudi</a>   <b>capital</b> for  <a class="wiki" href="http://en.wikipedia.org/wiki/London" cat="capital	port	city	place">London</a>  at 2h43 local time ( <a class="wiki" href="http://en.wikipedia.org/wiki/Greenwich_Mean_Time" cat="zone	scale">GMT</a>  22h43), approximately 30 hours after the hijacking operation by two  <a class="wiki" href="http://en.wikipedia.org/wiki/Saudi_Arabia" cat="country	state	nation">Saudi</a>  hijackers began.   The  <a class="wiki" href="http://en.wikipedia.org/wiki/Boeing" cat="manufacturer	company	contractor">Boeing</a>  arrived at  <a class="wiki" href="http://en.wikipedia.org/wiki/King_Khalid_International_Airport" cat="airport	site">Riyadh International Airport</a>  at 21h30 yesterday Sunday from  <a class="wiki" href="http://en.wikipedia.org/wiki/Baghdad" cat="capital	community	place	establishment">Baghdad</a>  through  <a class="wiki" href="http://en.wikipedia.org/wiki/Jordan" cat="country	state">Jordanian</a>   <b>air space</b> with 104 passengers on board, including  <b>14</b>  <b>crew</b> members.   <a class="wiki" href="http://en.wikipedia.org/wiki/Saudi_Arabia" cat="country	state	nation">Saudi</a>  Airways said Saturday that 40  <a class="wiki" href="http://en.wikipedia.org/wiki/United_Kingdom" cat="country	member	nation	state	template">British</a> ,  <b>14</b>  <a class="wiki" href="http://en.wikipedia.org/wiki/Saudi_Arabia" cat="country	state	nation">Saudis</a> , 15 Pakistanis, 4  <a class="wiki" href="http://en.wikipedia.org/wiki/Yemen" cat="country	dispute	state	republic">Yemenis</a>  and 4 South Africans, 2  <a class="wiki" href="http://en.wikipedia.org/wiki/Kenya" cat="country	member	nation	state">Kenyans</a>  and an  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">American</a> ,  <a class="wiki" href="http://en.wikipedia.org/wiki/France" cat="nation	country	state	republic	member">Frenchman</a> , Spaniard,  <a class="wiki" href="http://en.wikipedia.org/wiki/Switzerland" cat="country	state">Swiss</a> ,  <a class="wiki" href="http://en.wikipedia.org/wiki/Sweden" cat="country	state">Swede</a> ,  <a class="wiki" href="http://en.wikipedia.org/wiki/Nigeria" cat="member	state	nation	colony	country">Nigerian</a> ,  <a class="wiki" href="http://en.wikipedia.org/wiki/India" cat="republic	state	nation	colony	country	member">Indian</a> ,  <a class="wiki" href="http://en.wikipedia.org/wiki/Oman" cat="">Omani</a> ,  <a class="wiki" href="http://en.wikipedia.org/wiki/Palestinian_people" cat="group	citizen	person">Palestinian</a>  and  <a class="wiki" href="http://en.wikipedia.org/wiki/Lebanon" cat="place	city">Lebanese</a>  were on board the plane. <br>
+</ANNOTATION>
+*Entity:[London,textSpan=(2-8)]	-Disambiguation:(tid=17867, Title name=London) gold wikification:=London isCorrectPrediction=Correct
+*Entity:[AFP,textSpan=(16-19)]	-Disambiguation:(tid=471981, Title name=Agence_France-Presse) gold wikification:=Agence_France-Presse isCorrectPrediction=Correct
+*Entity:[Saudi Airways,textSpan=(26-39)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saudi,textSpan=(26-31)]	-Disambiguation:(tid=349303, Title name=Saudi_Arabia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Airways,textSpan=(32-39)]	-Disambiguation:(tid=1069414, Title name=Airway_(aviation)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[spokesman,textSpan=(40-49)]	-Disambiguation:(tid=338047, Title name=Spokesperson) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[London,textSpan=(53-59)]	-Disambiguation:(tid=17867, Title name=London) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[passengers,textSpan=(75-85)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saudi,textSpan=(93-98)]	-Disambiguation:(tid=349303, Title name=Saudi_Arabia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[777,textSpan=(99-102)]	-Disambiguation:(tid=89260, Title name=Boeing_777) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Boeing,textSpan=(103-109)]	-Disambiguation:(tid=3709, Title name=Boeing) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Baghdad on Saturday,textSpan=(123-142)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Baghdad,textSpan=(123-130)]	-Disambiguation:(tid=4492, Title name=Baghdad) gold wikification:=Baghdad isCorrectPrediction=Correct
+*Entity:[Saturday,textSpan=(134-142)]	-Disambiguation:(tid=54631, Title name=Saturday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Riyadh,textSpan=(164-170)]	-Disambiguation:(tid=51554, Title name=Riyadh) gold wikification:=Riyadh isCorrectPrediction=Correct
+*Entity:[yesterday,textSpan=(171-180)]	-Disambiguation:(tid=15848, Title name=July_3) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[evening,textSpan=(181-188)]	-Disambiguation:(tid=1258972, Title name=Evening) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sunday,textSpan=(189-195)]	-Disambiguation:(tid=54407, Title name=Sunday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saudi,textSpan=(206-211)]	-Disambiguation:(tid=349303, Title name=Saudi_Arabia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[capital,textSpan=(212-219)]	-Disambiguation:(tid=181337, Title name=Capital) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[London,textSpan=(224-230)]	-Disambiguation:(tid=17867, Title name=London) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[GMT,textSpan=(251-254)]	-Disambiguation:(tid=12701, Title name=Greenwich_Mean_Time) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[approximately,textSpan=(263-276)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[30,textSpan=(277-279)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hours,textSpan=(280-285)]	-Disambiguation:(tid=634045, Title name=Hours) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hijacking,textSpan=(296-305)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[operation,textSpan=(306-315)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saudi,textSpan=(323-328)]	-Disambiguation:(tid=349303, Title name=Saudi_Arabia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hijackers,textSpan=(329-338)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Boeing,textSpan=(352-358)]	-Disambiguation:(tid=3709, Title name=Boeing) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Riyadh,textSpan=(370-376)]	-Disambiguation:(tid=51554, Title name=Riyadh) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Riyadh International Airport,textSpan=(370-398)]	-Disambiguation:(tid=471186, Title name=King_Khalid_International_Airport) gold wikification:=King_Khalid_International_Airport isCorrectPrediction=Correct
+*Entity:[International,textSpan=(377-390)]	-Disambiguation:(tid=3741372, Title name=International) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[International Airport,textSpan=(377-398)]	-Disambiguation:(tid=1519705, Title name=International_airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Airport,textSpan=(391-398)]	-Disambiguation:(tid=162172, Title name=Baghdad_International_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[yesterday,textSpan=(408-417)]	-Disambiguation:(tid=15848, Title name=July_3) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sunday,textSpan=(418-424)]	-Disambiguation:(tid=54407, Title name=Sunday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Baghdad,textSpan=(430-437)]	-Disambiguation:(tid=4492, Title name=Baghdad) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jordanian,textSpan=(446-455)]	-Disambiguation:(tid=7515964, Title name=Jordan) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[air,textSpan=(456-459)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[air space,textSpan=(456-465)]	-Disambiguation:(tid=353557, Title name=Airspace) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[space,textSpan=(460-465)]	-Disambiguation:(tid=27667, Title name=Space) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[104,textSpan=(471-474)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[passengers,textSpan=(475-485)]	-Disambiguation:(tid=67896, Title name=Space_tourism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[board,textSpan=(489-494)]	-Disambiguation:(tid=3401, Title name=Board_game) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[14,textSpan=(506-508)]	-Disambiguation:(tid=15797, Title name=June_14) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[crew,textSpan=(509-513)]	-Disambiguation:(tid=6801, Title name=Crew) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[crew members,textSpan=(509-521)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[members,textSpan=(514-521)]	-Disambiguation:(tid=98066, Title name=Member_of_Parliament) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saudi Airways,textSpan=(524-537)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saudi,textSpan=(524-529)]	-Disambiguation:(tid=349303, Title name=Saudi_Arabia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Airways,textSpan=(530-537)]	-Disambiguation:(tid=1069414, Title name=Airway_(aviation)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saturday,textSpan=(543-551)]	-Disambiguation:(tid=54631, Title name=Saturday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[40,textSpan=(557-559)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[British,textSpan=(560-567)]	-Disambiguation:(tid=31717, Title name=United_Kingdom) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[14,textSpan=(569-571)]	-Disambiguation:(tid=15797, Title name=June_14) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saudis,textSpan=(572-578)]	-Disambiguation:(tid=349303, Title name=Saudi_Arabia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[15,textSpan=(580-582)]	-Disambiguation:(tid=19674, Title name=May_15) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Pakistanis,textSpan=(583-593)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yemenis,textSpan=(597-604)]	-Disambiguation:(tid=350939, Title name=Yemen) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[South Africans,textSpan=(611-625)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[South,textSpan=(611-616)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Africans,textSpan=(617-625)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Kenyans,textSpan=(629-636)]	-Disambiguation:(tid=188171, Title name=Kenya) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[American,textSpan=(644-652)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Frenchman,textSpan=(654-663)]	-Disambiguation:(tid=5843419, Title name=France) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Spaniard,textSpan=(665-673)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Swiss,textSpan=(675-680)]	-Disambiguation:(tid=26748, Title name=Switzerland) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Swede,textSpan=(682-687)]	-Disambiguation:(tid=5058739, Title name=Sweden) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Nigerian,textSpan=(689-697)]	-Disambiguation:(tid=21383, Title name=Nigeria) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Indian,textSpan=(699-705)]	-Disambiguation:(tid=14533, Title name=India) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Omani, Palestinian and Lebanese,textSpan=(707-738)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Omani,textSpan=(707-712)]	-Disambiguation:(tid=22316, Title name=Oman) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Palestinian,textSpan=(714-725)]	-Disambiguation:(tid=23267, Title name=Palestinian_people) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Palestinian and Lebanese,textSpan=(714-738)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lebanese,textSpan=(730-738)]	-Disambiguation:(tid=17771, Title name=Lebanon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[board,textSpan=(747-752)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the plane,textSpan=(753-762)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plane,textSpan=(757-762)]	-Disambiguation:(tid=46770, Title name=Fixed-wing_aircraft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'London' start in text:2 end in text: 8; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'AFP' start in text:16 end in text: 19; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saudi Airways' start in text:26 end in text: 39; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Saudi' start in text:26 end in text: 31; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Airways' start in text:32 end in text: 39; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'spokesman' start in text:40 end in text: 49; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'London' start in text:53 end in text: 59; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'passengers' start in text:75 end in text: 85; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saudi' start in text:93 end in text: 98; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '777' start in text:99 end in text: 102; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Boeing' start in text:103 end in text: 109; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Baghdad on Saturday' start in text:123 end in text: 142; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Baghdad' start in text:123 end in text: 130; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saturday' start in text:134 end in text: 142; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Riyadh' start in text:164 end in text: 170; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'yesterday' start in text:171 end in text: 180; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'evening' start in text:181 end in text: 188; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sunday' start in text:189 end in text: 195; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saudi' start in text:206 end in text: 211; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'capital' start in text:212 end in text: 219; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'London' start in text:224 end in text: 230; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'GMT' start in text:251 end in text: 254; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'approximately' start in text:263 end in text: 276; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '30' start in text:277 end in text: 279; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hours' start in text:280 end in text: 285; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hijacking' start in text:296 end in text: 305; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'operation' start in text:306 end in text: 315; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saudi' start in text:323 end in text: 328; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hijackers' start in text:329 end in text: 338; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Boeing' start in text:352 end in text: 358; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Riyadh' start in text:370 end in text: 376; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Riyadh International Airport' start in text:370 end in text: 398; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'International' start in text:377 end in text: 390; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'International Airport' start in text:377 end in text: 398; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Airport' start in text:391 end in text: 398; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'yesterday' start in text:408 end in text: 417; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sunday' start in text:418 end in text: 424; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Baghdad' start in text:430 end in text: 437; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jordanian' start in text:446 end in text: 455; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'air' start in text:456 end in text: 459; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'air space' start in text:456 end in text: 465; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'space' start in text:460 end in text: 465; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '104' start in text:471 end in text: 474; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'passengers' start in text:475 end in text: 485; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'board' start in text:489 end in text: 494; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '14' start in text:506 end in text: 508; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'crew' start in text:509 end in text: 513; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'crew members' start in text:509 end in text: 521; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'members' start in text:514 end in text: 521; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saudi Airways' start in text:524 end in text: 537; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Saudi' start in text:524 end in text: 529; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Airways' start in text:530 end in text: 537; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saturday' start in text:543 end in text: 551; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '40' start in text:557 end in text: 559; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'British' start in text:560 end in text: 567; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '14' start in text:569 end in text: 571; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saudis' start in text:572 end in text: 578; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '15' start in text:580 end in text: 582; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Pakistanis' start in text:583 end in text: 593; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yemenis' start in text:597 end in text: 604; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'South Africans' start in text:611 end in text: 625; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'South' start in text:611 end in text: 616; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Africans' start in text:617 end in text: 625; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Kenyans' start in text:629 end in text: 636; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'American' start in text:644 end in text: 652; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Frenchman' start in text:654 end in text: 663; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Spaniard' start in text:665 end in text: 673; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Swiss' start in text:675 end in text: 680; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Swede' start in text:682 end in text: 687; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Nigerian' start in text:689 end in text: 697; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Indian' start in text:699 end in text: 705; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Omani, Palestinian and Lebanese' start in text:707 end in text: 738; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Omani' start in text:707 end in text: 712; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Palestinian' start in text:714 end in text: 725; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Palestinian and Lebanese' start in text:714 end in text: 738; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Lebanese' start in text:730 end in text: 738; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'board' start in text:747 end in text: 752; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the plane' start in text:753 end in text: 762; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plane' start in text:757 end in text: 762; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

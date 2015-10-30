@@ -1,0 +1,566 @@
+<ANNOTATION>
+ I am David Coler,  <a class="wiki" href="http://en.wikipedia.org/wiki/Voice_of_America" cat="organization	winner	organisation	services">VOA News</a> .  <a class="wiki" href="http://en.wikipedia.org/wiki/President-elect" cat="title	election">President Elect</a>   <a class="wiki" href="http://en.wikipedia.org/wiki/George_W._Bush" cat="convert	owner	alumnus	aviator	candidate	executive	republican	president	industrialist	person	politician	player	methodists	officer	episcopalian	recipient	nominee	speaker">George W Bush</a>  made more  <b>cabinet</b> appointments Wednesday. He named Al Koha  <a class="wiki" href="http://en.wikipedia.org/wiki/Chairman" cat="neologism	occupation">Chairman</a>   <a class="wiki" href="http://en.wikipedia.org/wiki/Paul_O'Neil" cat="player	pick	men	person">Paul O' Neil</a>  as  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States_Secretary_of_the_Treasury" cat="minister">Treasury Secretary</a>  and former  <a class="wiki" href="http://en.wikipedia.org/wiki/California" cat="state	colony">California</a>   <b>Food</b> and  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States_Department_of_Agriculture" cat="ministry">Agriculture Secretary</a> , Anne Venemon as  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States_Secretary_of_Agriculture" cat="secretary	minister">Secretary of Agriculture</a> . He also named an old friend, an  <b>oil business</b> associate,  <a class="wiki" href="http://en.wikipedia.org/wiki/Donald_Evans" cat="person	secretary	member	republican">Don Evans</a>  as  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States_Secretary_of_Commerce" cat="secretary">Secretary of Commerce</a> .    <a class="wiki" href="http://en.wikipedia.org/wiki/World_Championship_Wrestling" cat="subsidiary	company	promotion	sport">The promotion</a>  of free enterprise first in  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">America</a>  and then abroad will be our first priority.  <a class="wiki" href="http://en.wikipedia.org/wiki/Open_road_tolling" cat="">Free flow</a>  of capital, free and open  <b>competition</b>. We will  <b>strive</b> to be an  <b>advocate</b> for  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">US</a>  businesses first in  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">America</a>  and also those  <b>wading</b> into the waters of the  <b>global market</b> place.    <a class="wiki" href="http://en.wikipedia.org/wiki/George_W._Bush" cat="convert	owner	alumnus	aviator	candidate	executive	republican	president	industrialist	person	politician	player	methodists	officer	episcopalian	recipient	nominee	speaker">Mr. Bush</a>  also named former  <a class="wiki" href="http://en.wikipedia.org/wiki/Mariel_boatlift" cat="dispute	refugee	relations">Cuban refugee</a>   <a class="wiki" href="http://en.wikipedia.org/wiki/Mel_Martinez" cat="elector	senator	politician	lawyer	member	republican	immigrant	chairman	person	secretary	alumnus	citizen">Mel Martinez</a>  as  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States_Secretary_of_Housing_and_Urban_Development" cat="secretary">Secretary of Housing and Urban Development</a> . Mr.  <a class="wiki" href="http://en.wikipedia.org/wiki/Mel_Martinez" cat="elector	senator	politician	lawyer	member	republican	immigrant	chairman	person	secretary	alumnus	citizen">Martinez</a>  is a close  <b>political</b> ally of the  <a class="wiki" href="http://en.wikipedia.org/wiki/President-elect" cat="title	election">President Elect</a> 's brother,  <a class="wiki" href="http://en.wikipedia.org/wiki/List_of_Governors_of_Florida" cat="list">Florida Governor</a>   <a class="wiki" href="http://en.wikipedia.org/wiki/George_W._Bush" cat="convert	owner	alumnus	aviator	candidate	executive	republican	president	industrialist	person	politician	player	methodists	officer	episcopalian	recipient	nominee	speaker">Jeb Bush</a> .  <a class="wiki" href="http://en.wikipedia.org/wiki/George_W._Bush" cat="convert	owner	alumnus	aviator	candidate	executive	republican	president	industrialist	person	politician	player	methodists	officer	episcopalian	recipient	nominee	speaker">Mr. Bush</a>  says he will step down Thursday as  <a class="wiki" href="http://en.wikipedia.org/wiki/List_of_Governors_of_Texas" cat="list">Governor of Texas</a> .  <br>
+</ANNOTATION>
+*Entity:[I,textSpan=(1-2)]	-Disambiguation:(tid=14778, Title name=I) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[David Coler,textSpan=(6-17)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[David,textSpan=(6-11)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[David Coler, VOA News,textSpan=(6-27)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[VOA News,textSpan=(19-27)]	-Disambiguation:(tid=103191, Title name=Voice_of_America) gold wikification:=Voice_of_America isCorrectPrediction=Correct
+*Entity:[VOA,textSpan=(19-22)]	-Disambiguation:(tid=252091, Title name=Voice_of_America) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[News,textSpan=(23-27)]	-Disambiguation:(tid=103191, Title name=Voice_of_America) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[President Elect,textSpan=(29-44)]	-Disambiguation:(tid=356024, Title name=President-elect) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[President Elect George W Bush,textSpan=(29-58)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[President,textSpan=(29-38)]	-Disambiguation:(tid=24113, Title name=President_of_the_United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Elect,textSpan=(39-44)]	-Disambiguation:(tid=9457, Title name=Election) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[George W Bush,textSpan=(45-58)]	-Disambiguation:(tid=3414021, Title name=George_W._Bush) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[George,textSpan=(45-51)]	-Disambiguation:(tid=3414021, Title name=George_W._Bush) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[George W,textSpan=(45-53)]	-Disambiguation:(tid=3414021, Title name=George_W._Bush) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[W Bush,textSpan=(52-58)]	-Disambiguation:(tid=3414021, Title name=George_W._Bush) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bush,textSpan=(54-58)]	-Disambiguation:(tid=3414021, Title name=George_W._Bush) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cabinet,textSpan=(69-76)]	-Disambiguation:(tid=32290, Title name=Cabinet_of_the_United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[appointments,textSpan=(77-89)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wednesday,textSpan=(90-99)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[He,textSpan=(101-103)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Al Koha,textSpan=(110-117)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Al Koha Chairman Paul O' Neil,textSpan=(110-139)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Koha Chairman Paul O' Neil,textSpan=(113-139)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Koha,textSpan=(113-117)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Chairman,textSpan=(118-126)]	-Disambiguation:(tid=3452243, Title name=Chairman) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Chairman Paul O' Neil,textSpan=(118-139)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Paul O' Neil,textSpan=(127-139)]	-Disambiguation:(tid=1697464, Title name=Paul_O'Neil) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Paul,textSpan=(127-131)]	-Disambiguation:(tid=1697464, Title name=Paul_O'Neil) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[O' Neil,textSpan=(132-139)]	-Disambiguation:(tid=1697464, Title name=Paul_O'Neil) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[O',textSpan=(132-134)]	-Disambiguation:(tid=1697464, Title name=Paul_O'Neil) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Neil,textSpan=(135-139)]	-Disambiguation:(tid=1697464, Title name=Paul_O'Neil) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Treasury,textSpan=(143-151)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Treasury Secretary,textSpan=(143-161)]	-Disambiguation:(tid=43338, Title name=United_States_Secretary_of_the_Treasury) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Secretary,textSpan=(152-161)]	-Disambiguation:(tid=43338, Title name=United_States_Secretary_of_the_Treasury) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[California Food and Agriculture Secretary,textSpan=(173-214)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[California Food and Agriculture Secretary, Anne Venemon,textSpan=(173-228)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[California,textSpan=(173-183)]	-Disambiguation:(tid=5407, Title name=California) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[California Food,textSpan=(173-188)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Food,textSpan=(184-188)]	-Disambiguation:(tid=10646, Title name=Food) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Agriculture Secretary, Anne Venemon,textSpan=(193-228)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Agriculture Secretary,textSpan=(193-214)]	-Disambiguation:(tid=70896, Title name=United_States_Department_of_Agriculture) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Agriculture,textSpan=(193-204)]	-Disambiguation:(tid=627, Title name=Agriculture) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Secretary,textSpan=(205-214)]	-Disambiguation:(tid=70896, Title name=United_States_Department_of_Agriculture) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Anne Venemon,textSpan=(216-228)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Anne,textSpan=(216-220)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Secretary of Agriculture,textSpan=(232-256)]	-Disambiguation:(tid=42646, Title name=United_States_Secretary_of_Agriculture) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Secretary,textSpan=(232-241)]	-Disambiguation:(tid=42646, Title name=United_States_Secretary_of_Agriculture) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Agriculture,textSpan=(245-256)]	-Disambiguation:(tid=627, Title name=Agriculture) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[He,textSpan=(258-260)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[an old friend,textSpan=(272-285)]	-Disambiguation:(tid=2035204, Title name=Face_of_Boe) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[old,textSpan=(275-278)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[friend,textSpan=(279-285)]	-Disambiguation:(tid=17157119, Title name=Friendship) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[oil business,textSpan=(290-302)]	-Disambiguation:(tid=23195, Title name=Petroleum) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[oil,textSpan=(290-293)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[business,textSpan=(294-302)]	-Disambiguation:(tid=39206, Title name=Business) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[business associate,textSpan=(294-312)]	-Disambiguation:(tid=314993, Title name=Employment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[associate,textSpan=(303-312)]	-Disambiguation:(tid=2403293, Title name=Associate) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Don Evans,textSpan=(314-323)]	-Disambiguation:(tid=285101, Title name=Donald_Evans) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Evans,textSpan=(318-323)]	-Disambiguation:(tid=285101, Title name=Donald_Evans) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Secretary of Commerce,textSpan=(327-348)]	-Disambiguation:(tid=44272, Title name=United_States_Secretary_of_Commerce) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Commerce,textSpan=(340-348)]	-Disambiguation:(tid=39208, Title name=Commerce) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The promotion,textSpan=(352-365)]	-Disambiguation:(tid=186694, Title name=World_Championship_Wrestling) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[promotion,textSpan=(356-365)]	-Disambiguation:(tid=695143, Title name=Professional_wrestling_promotion) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[free enterprise,textSpan=(369-384)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[enterprise,textSpan=(374-384)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[America,textSpan=(394-401)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=United_States isCorrectPrediction=Correct
+*Entity:[abroad,textSpan=(411-417)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[first priority,textSpan=(430-444)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[priority,textSpan=(436-444)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Free flow,textSpan=(446-455)]	-Disambiguation:(tid=3273379, Title name=Open_road_tolling) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Free,textSpan=(446-450)]	-Disambiguation:(tid=269523, Title name=Free_(band)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flow,textSpan=(451-455)]	-Disambiguation:(tid=3273379, Title name=Open_road_tolling) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[capital,textSpan=(459-466)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[open competition,textSpan=(477-493)]	-Disambiguation:(tid=62912, Title name=Auction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[open,textSpan=(477-481)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[competition,textSpan=(482-493)]	-Disambiguation:(tid=181592, Title name=Competition) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[We,textSpan=(495-497)]	-Disambiguation:(tid=234555, Title name=We_(novel)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[strive,textSpan=(503-509)]	-Disambiguation:(tid=3368960, Title name=Striving) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[to be,textSpan=(510-515)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[advocate,textSpan=(519-527)]	-Disambiguation:(tid=68595, Title name=Advocate) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[US,textSpan=(532-534)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[US businesses,textSpan=(532-545)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[businesses,textSpan=(535-545)]	-Disambiguation:(tid=39206, Title name=Business) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[America,textSpan=(555-562)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wading,textSpan=(578-584)]	-Disambiguation:(tid=204559, Title name=Wader) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the waters,textSpan=(590-600)]	-Disambiguation:(tid=5640210, Title name=Aban) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[waters,textSpan=(594-600)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[global market,textSpan=(608-621)]	-Disambiguation:(tid=1628265, Title name=World_economy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[global,textSpan=(608-614)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[market place,textSpan=(615-627)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[market,textSpan=(615-621)]	-Disambiguation:(tid=3736784, Title name=Market) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[place,textSpan=(622-627)]	-Disambiguation:(tid=586851, Title name=Place) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mr.,textSpan=(631-634)]	-Disambiguation:(tid=3414021, Title name=George_W._Bush) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mr. Bush,textSpan=(631-639)]	-Disambiguation:(tid=3414021, Title name=George_W._Bush) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bush,textSpan=(635-639)]	-Disambiguation:(tid=3414021, Title name=George_W._Bush) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cuban,textSpan=(658-663)]	-Disambiguation:(tid=1288758, Title name=Cubans) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cuban refugee,textSpan=(658-671)]	-Disambiguation:(tid=450027, Title name=Mariel_boatlift) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[refugee,textSpan=(664-671)]	-Disambiguation:(tid=45547, Title name=Refugee) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mel,textSpan=(672-675)]	-Disambiguation:(tid=296686, Title name=Mel_Martinez) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mel Martinez,textSpan=(672-684)]	-Disambiguation:(tid=296686, Title name=Mel_Martinez) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Martinez,textSpan=(676-684)]	-Disambiguation:(tid=296686, Title name=Mel_Martinez) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Secretary of Housing and Urban Development,textSpan=(688-730)]	-Disambiguation:(tid=45558, Title name=United_States_Secretary_of_Housing_and_Urban_Development) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Housing,textSpan=(701-708)]	-Disambiguation:(tid=15360658, Title name=Housing) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Housing and Urban Development,textSpan=(701-730)]	-Disambiguation:(tid=70914, Title name=United_States_Department_of_Housing_and_Urban_Development) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Urban Development,textSpan=(713-730)]	-Disambiguation:(tid=45346, Title name=Urban_planning) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Urban,textSpan=(713-718)]	-Disambiguation:(tid=146809, Title name=Urban) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Development,textSpan=(719-730)]	-Disambiguation:(tid=45346, Title name=Urban_planning) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mr.,textSpan=(732-735)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mr. Martinez,textSpan=(732-744)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Martinez,textSpan=(736-744)]	-Disambiguation:(tid=296686, Title name=Mel_Martinez) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[close,textSpan=(750-755)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[political,textSpan=(756-765)]	-Disambiguation:(tid=22986, Title name=Politics) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ally,textSpan=(766-770)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[President Elect,textSpan=(778-793)]	-Disambiguation:(tid=356024, Title name=President-elect) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[President,textSpan=(778-787)]	-Disambiguation:(tid=24113, Title name=President_of_the_United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Elect,textSpan=(788-793)]	-Disambiguation:(tid=9457, Title name=Election) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[brother,textSpan=(796-803)]	-Disambiguation:(tid=352169, Title name=Sibling) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Florida Governor Jeb Bush,textSpan=(805-830)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Florida,textSpan=(805-812)]	-Disambiguation:(tid=10829, Title name=Florida) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Florida Governor,textSpan=(805-821)]	-Disambiguation:(tid=76250, Title name=List_of_Governors_of_Florida) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Governor,textSpan=(813-821)]	-Disambiguation:(tid=76250, Title name=List_of_Governors_of_Florida) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Governor Jeb Bush,textSpan=(813-830)]	-Disambiguation:(tid=189322, Title name=Jeb_Bush) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jeb,textSpan=(822-825)]	-Disambiguation:(tid=189322, Title name=Jeb_Bush) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jeb Bush,textSpan=(822-830)]	-Disambiguation:(tid=3414021, Title name=George_W._Bush) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bush,textSpan=(826-830)]	-Disambiguation:(tid=189322, Title name=Jeb_Bush) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mr. Bush,textSpan=(832-840)]	-Disambiguation:(tid=3414021, Title name=George_W._Bush) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mr.,textSpan=(832-835)]	-Disambiguation:(tid=3414021, Title name=George_W._Bush) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bush,textSpan=(836-840)]	-Disambiguation:(tid=3414021, Title name=George_W._Bush) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[step,textSpan=(854-858)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Thursday,textSpan=(864-872)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Governor,textSpan=(876-884)]	-Disambiguation:(tid=70530, Title name=List_of_Governors_of_Texas) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Governor of Texas,textSpan=(876-893)]	-Disambiguation:(tid=70530, Title name=List_of_Governors_of_Texas) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Texas,textSpan=(888-893)]	-Disambiguation:(tid=29810, Title name=Texas) gold wikification:=Texas isCorrectPrediction=Correct
+
+Output Explanation:
+Entity : 'I' start in text:1 end in text: 2; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'David Coler' start in text:6 end in text: 17; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'David' start in text:6 end in text: 11; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'David Coler, VOA News' start in text:6 end in text: 27; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'VOA News' start in text:19 end in text: 27; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'VOA' start in text:19 end in text: 22; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'News' start in text:23 end in text: 27; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'President Elect' start in text:29 end in text: 44; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'President Elect George W Bush' start in text:29 end in text: 58; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'President' start in text:29 end in text: 38; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Elect' start in text:39 end in text: 44; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'George W Bush' start in text:45 end in text: 58; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'George' start in text:45 end in text: 51; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'George W' start in text:45 end in text: 53; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'W Bush' start in text:52 end in text: 58; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Bush' start in text:54 end in text: 58; Entity types: NER,PER,NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cabinet' start in text:69 end in text: 76; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'appointments' start in text:77 end in text: 89; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wednesday' start in text:90 end in text: 99; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'He' start in text:101 end in text: 103; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Al Koha' start in text:110 end in text: 117; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Al Koha Chairman Paul O' Neil' start in text:110 end in text: 139; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Koha Chairman Paul O' Neil' start in text:113 end in text: 139; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Koha' start in text:113 end in text: 117; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Chairman' start in text:118 end in text: 126; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Chairman Paul O' Neil' start in text:118 end in text: 139; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Paul O' Neil' start in text:127 end in text: 139; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Paul' start in text:127 end in text: 131; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'O' Neil' start in text:132 end in text: 139; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'O'' start in text:132 end in text: 134; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Neil' start in text:135 end in text: 139; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Treasury' start in text:143 end in text: 151; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Treasury Secretary' start in text:143 end in text: 161; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Secretary' start in text:152 end in text: 161; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'California Food and Agriculture Secretary' start in text:173 end in text: 214; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'California Food and Agriculture Secretary, Anne Venemon' start in text:173 end in text: 228; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'California' start in text:173 end in text: 183; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'California Food' start in text:173 end in text: 188; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Food' start in text:184 end in text: 188; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Agriculture Secretary, Anne Venemon' start in text:193 end in text: 228; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Agriculture Secretary' start in text:193 end in text: 214; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Agriculture' start in text:193 end in text: 204; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Secretary' start in text:205 end in text: 214; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Anne Venemon' start in text:216 end in text: 228; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Anne' start in text:216 end in text: 220; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Secretary of Agriculture' start in text:232 end in text: 256; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Secretary' start in text:232 end in text: 241; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Agriculture' start in text:245 end in text: 256; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'He' start in text:258 end in text: 260; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'an old friend' start in text:272 end in text: 285; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'old' start in text:275 end in text: 278; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'friend' start in text:279 end in text: 285; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'oil business' start in text:290 end in text: 302; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'oil' start in text:290 end in text: 293; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'business' start in text:294 end in text: 302; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'business associate' start in text:294 end in text: 312; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'associate' start in text:303 end in text: 312; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Don Evans' start in text:314 end in text: 323; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Evans' start in text:318 end in text: 323; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Secretary of Commerce' start in text:327 end in text: 348; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Commerce' start in text:340 end in text: 348; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The promotion' start in text:352 end in text: 365; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'promotion' start in text:356 end in text: 365; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'free enterprise' start in text:369 end in text: 384; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'enterprise' start in text:374 end in text: 384; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'America' start in text:394 end in text: 401; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'abroad' start in text:411 end in text: 417; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'first priority' start in text:430 end in text: 444; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'priority' start in text:436 end in text: 444; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Free flow' start in text:446 end in text: 455; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Free' start in text:446 end in text: 450; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flow' start in text:451 end in text: 455; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'capital' start in text:459 end in text: 466; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'open competition' start in text:477 end in text: 493; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'open' start in text:477 end in text: 481; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'competition' start in text:482 end in text: 493; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'We' start in text:495 end in text: 497; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'strive' start in text:503 end in text: 509; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'to be' start in text:510 end in text: 515; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'advocate' start in text:519 end in text: 527; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'US' start in text:532 end in text: 534; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'US businesses' start in text:532 end in text: 545; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'businesses' start in text:535 end in text: 545; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'America' start in text:555 end in text: 562; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wading' start in text:578 end in text: 584; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the waters' start in text:590 end in text: 600; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'waters' start in text:594 end in text: 600; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'global market' start in text:608 end in text: 621; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'global' start in text:608 end in text: 614; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'market place' start in text:615 end in text: 627; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'market' start in text:615 end in text: 621; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'place' start in text:622 end in text: 627; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mr.' start in text:631 end in text: 634; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mr. Bush' start in text:631 end in text: 639; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bush' start in text:635 end in text: 639; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cuban' start in text:658 end in text: 663; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cuban refugee' start in text:658 end in text: 671; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'refugee' start in text:664 end in text: 671; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mel' start in text:672 end in text: 675; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mel Martinez' start in text:672 end in text: 684; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Martinez' start in text:676 end in text: 684; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Secretary of Housing and Urban Development' start in text:688 end in text: 730; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Housing' start in text:701 end in text: 708; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Housing and Urban Development' start in text:701 end in text: 730; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Urban Development' start in text:713 end in text: 730; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Urban' start in text:713 end in text: 718; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Development' start in text:719 end in text: 730; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mr.' start in text:732 end in text: 735; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mr. Martinez' start in text:732 end in text: 744; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Martinez' start in text:736 end in text: 744; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'close' start in text:750 end in text: 755; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'political' start in text:756 end in text: 765; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ally' start in text:766 end in text: 770; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'President Elect' start in text:778 end in text: 793; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'President' start in text:778 end in text: 787; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Elect' start in text:788 end in text: 793; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'brother' start in text:796 end in text: 803; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Florida Governor Jeb Bush' start in text:805 end in text: 830; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Florida' start in text:805 end in text: 812; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Florida Governor' start in text:805 end in text: 821; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Governor' start in text:813 end in text: 821; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Governor Jeb Bush' start in text:813 end in text: 830; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jeb' start in text:822 end in text: 825; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jeb Bush' start in text:822 end in text: 830; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bush' start in text:826 end in text: 830; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mr. Bush' start in text:832 end in text: 840; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mr.' start in text:832 end in text: 835; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bush' start in text:836 end in text: 840; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'step' start in text:854 end in text: 858; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thursday' start in text:864 end in text: 872; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Governor' start in text:876 end in text: 884; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Governor of Texas' start in text:876 end in text: 893; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Texas' start in text:888 end in text: 893; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

@@ -1,0 +1,446 @@
+<ANNOTATION>
+ <b>Businessman</b> killed in  <a class="wiki" href="http://en.wikipedia.org/wiki/Siberia" cat="">Siberian</a>  town<br><br> A  Russian   businessman was killed on his way to work  <b>Wednesday</b> by an unidentified  <b>gunman</b> in what appeared to be an  organized crime   killing, according to  <b>news</b> reports. <br><br> Yuri Zinin, the head of   <a class="wiki" href="http://en.wikipedia.org/wiki/Gazprom_Neft" cat="company	subsidiary">Sibneft</a>    Company was shot in the back as he walked out of his  <b>apartment</b> building in the  <b>town</b> of Leninsk-Kuzntesky in the   <a class="wiki" href="http://en.wikipedia.org/wiki/Kemerovo_Oblast" cat="state">Kemerovo</a>    region of central   <a class="wiki" href="http://en.wikipedia.org/wiki/Siberia" cat="">Siberia</a>   , Russian news agencies quoted local  <b>police</b> as saying. <br><br> Zinin's  <b>company</b> has  <b>the same name</b> as one of   <a class="wiki" href="http://en.wikipedia.org/wiki/Russia" cat="country	nation	republic	state">Russia</a>   's largest  <b>oil producers</b>,  <a class="wiki" href="http://en.wikipedia.org/wiki/Gazprom_Neft" cat="company	subsidiary">Sibneft</a> , controlled by controversial business   <b>mogul</b>     <a class="wiki" href="http://en.wikipedia.org/wiki/Boris_Berezovsky" cat="">Boris Berezovsky</a>   . But the two companies are separate. <br><br> Zinin's  <a class="wiki" href="http://en.wikipedia.org/wiki/Gazprom_Neft" cat="company	subsidiary">Sibneft</a>  was locally-based and mostly involved in selling   <b>oil products</b>   and   <b>coal</b>  .  <a class="wiki" href="http://en.wikipedia.org/wiki/Kemerovo_Oblast" cat="state">Kemerovo</a>  is one of  <a class="wiki" href="http://en.wikipedia.org/wiki/Russia" cat="country	nation	republic	state">Russia</a> 's main   <b>coal-mining</b>   regions. <br><br>  <b>Police</b> launched a search for the killer who fled. Officials wouldn't comment on possible motives for the  <b>murder</b>. <br><br> There are hundreds of   <b>contract murder</b>  s in  <a class="wiki" href="http://en.wikipedia.org/wiki/Russia" cat="country	nation	republic	state">Russia</a>  every year as  mobsters   fight for control of profitable businesses. Only a small number of such killings are ever solved. <br><br> The small town of   <a class="wiki" href="http://en.wikipedia.org/wiki/Leninsk-Kuznetsky" cat="city">Leninsk-Kuznetsky</a>    became known nationwide last year, when the city   <b>mayor</b>   was arrested on   <b>tax fraud</b>   and   <b>embezzlement</b>   charges. Mayor   <a class="wiki" href="http://en.wikipedia.org/wiki/Gennady_Konyakhin" cat="person	politician">Gennady Konyakhin</a>   , also accused of being linked to the   <b>mob</b>  , is in custody awaiting  trial . <br><br> (vi/ren) <br><br>
+</ANNOTATION>
+*Entity:[Businessman,textSpan=(0-14)]	-Disambiguation:(tid=147292, Title name=Businessperson) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Siberian,textSpan=(25-33)]	-Disambiguation:(tid=29639, Title name=Siberia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[town,textSpan=(34-38)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Russian,textSpan=(44-51)]	-Disambiguation:*null* gold wikification:=Russians isCorrectPrediction=Incorrect
+*Entity:[killed,textSpan=(70-76)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[his way,textSpan=(80-87)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[way,textSpan=(84-87)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[work,textSpan=(91-95)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wednesday,textSpan=(96-105)]	-Disambiguation:(tid=54634, Title name=Wednesday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[unidentified,textSpan=(112-124)]	-Disambiguation:(tid=31814, Title name=Unidentified_flying_object) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gunman,textSpan=(125-131)]	-Disambiguation:(tid=551678, Title name=Gunfighter) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[appeared,textSpan=(140-148)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[to be,textSpan=(149-154)]	-Disambiguation:(tid=5630, Title name=Copula) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[organized crime,textSpan=(159-174)]	-Disambiguation:*null* gold wikification:=Organized_crime isCorrectPrediction=Incorrect
+*Entity:[news,textSpan=(199-203)]	-Disambiguation:(tid=22041, Title name=News) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[news reports,textSpan=(199-211)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reports,textSpan=(204-211)]	-Disambiguation:(tid=4692150, Title name=Report) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yuri,textSpan=(216-220)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yuri Zinin,textSpan=(216-226)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Zinin,textSpan=(221-226)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the head,textSpan=(228-236)]	-Disambiguation:(tid=320917, Title name=David_Geffen) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[head,textSpan=(232-236)]	-Disambiguation:(tid=1209545, Title name=Head) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sibneft,textSpan=(241-248)]	-Disambiguation:(tid=1521568, Title name=Gazprom_Neft) gold wikification:=Gazprom_Neft isCorrectPrediction=Correct
+*Entity:[shot,textSpan=(263-267)]	-Disambiguation:(tid=82199, Title name=Shot) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[apartment,textSpan=(304-313)]	-Disambiguation:(tid=265567, Title name=Apartment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[apartment building,textSpan=(304-322)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[building,textSpan=(314-322)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the town,textSpan=(326-334)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[town,textSpan=(330-334)]	-Disambiguation:(tid=2813519, Title name=Types_of_inhabited_localities_in_Russia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Leninsk-Kuzntesky,textSpan=(338-355)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Kuzntesky in the Kemerovo,textSpan=(346-372)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Leninsk-Kuzntesky in the Kemerovo,textSpan=(338-372)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Kemerovo,textSpan=(364-372)]	-Disambiguation:(tid=87620, Title name=Kemerovo_Oblast) gold wikification:=Kemerovo isCorrectPrediction=Incorrect
+*Entity:[Siberia,textSpan=(394-401)]	-Disambiguation:(tid=29639, Title name=Siberia) gold wikification:=Siberia isCorrectPrediction=Correct
+*Entity:[Siberia , Russian,textSpan=(394-412)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Russian,textSpan=(405-412)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[local police,textSpan=(434-446)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[local,textSpan=(434-439)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[police,textSpan=(440-446)]	-Disambiguation:(tid=23627, Title name=Police) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Zinin,textSpan=(461-466)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(469-476)]	-Disambiguation:(tid=4918223, Title name=Company) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the same,textSpan=(481-489)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the same name,textSpan=(481-494)]	-Disambiguation:(tid=5853149, Title name=Sunday_Girl) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[same name,textSpan=(485-494)]	-Disambiguation:(tid=22146, Title name=New_Order) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Russia,textSpan=(506-512)]	-Disambiguation:(tid=25391, Title name=Russia) gold wikification:=Russia isCorrectPrediction=Correct
+*Entity:[largest,textSpan=(517-524)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[oil producers,textSpan=(525-538)]	-Disambiguation:(tid=148573, Title name=List_of_countries_by_oil_production) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[oil,textSpan=(525-528)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[producers,textSpan=(529-538)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sibneft,textSpan=(540-547)]	-Disambiguation:(tid=1521568, Title name=Gazprom_Neft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[mogul,textSpan=(587-592)]	-Disambiguation:(tid=416486, Title name=Business_magnate) gold wikification:=Business_magnate isCorrectPrediction=Correct
+*Entity:[Boris Berezovsky,textSpan=(596-612)]	-Disambiguation:(tid=355478, Title name=Boris_Berezovsky) gold wikification:=Boris_Berezovsky isCorrectPrediction=Correct
+*Entity:[companies,textSpan=(628-637)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Zinin,textSpan=(655-660)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Zinin's Sibneft,textSpan=(655-670)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sibneft,textSpan=(663-670)]	-Disambiguation:(tid=1521568, Title name=Gazprom_Neft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[involved,textSpan=(700-708)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[oil,textSpan=(721-724)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[oil products,textSpan=(721-733)]	-Disambiguation:(tid=23195, Title name=Petroleum) gold wikification:=Oil isCorrectPrediction=Incorrect
+*Entity:[products,textSpan=(725-733)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[coal,textSpan=(741-745)]	-Disambiguation:(tid=5987, Title name=Coal) gold wikification:=Coal isCorrectPrediction=Correct
+*Entity:[Kemerovo,textSpan=(749-757)]	-Disambiguation:(tid=87620, Title name=Kemerovo_Oblast) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Russia,textSpan=(768-774)]	-Disambiguation:(tid=25391, Title name=Russia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[coal-mining,textSpan=(783-794)]	-Disambiguation:(tid=208413, Title name=Coal_mining) gold wikification:=Coal_mining isCorrectPrediction=Correct
+*Entity:[Police,textSpan=(809-815)]	-Disambiguation:(tid=23627, Title name=Police) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[search,textSpan=(827-833)]	-Disambiguation:(tid=146745, Title name=Search_warrant) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the killer,textSpan=(838-848)]	-Disambiguation:(tid=10733176, Title name=Seung-Hui_Cho) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[killer,textSpan=(842-848)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[possible,textSpan=(889-897)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[motives,textSpan=(898-905)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the murder,textSpan=(910-920)]	-Disambiguation:(tid=16379051, Title name=Murder_of_Martine_Vik_Magnussen) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[murder,textSpan=(914-920)]	-Disambiguation:(tid=20171, Title name=Murder) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[There,textSpan=(925-930)]	-Disambiguation:(tid=463437, Title name=There) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hundreds,textSpan=(935-943)]	-Disambiguation:(tid=357346, Title name=Hundred_(county_division)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[contract murder,textSpan=(948-963)]	-Disambiguation:(tid=250879, Title name=Contract_killing) gold wikification:=Contract_killing isCorrectPrediction=Correct
+*Entity:[contract,textSpan=(948-956)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[murder,textSpan=(957-963)]	-Disambiguation:(tid=20171, Title name=Murder) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Russia,textSpan=(970-976)]	-Disambiguation:(tid=25391, Title name=Russia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[year,textSpan=(983-987)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[mobsters,textSpan=(992-1000)]	-Disambiguation:*null* gold wikification:=Mobsters isCorrectPrediction=Incorrect
+*Entity:[control,textSpan=(1013-1020)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[profitable,textSpan=(1024-1034)]	-Disambiguation:(tid=90492, Title name=Profit) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[businesses,textSpan=(1035-1045)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Only,textSpan=(1047-1051)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[small,textSpan=(1054-1059)]	-Disambiguation:(tid=276495, Title name=Small_business) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[small number,textSpan=(1054-1066)]	-Disambiguation:(tid=248619, Title name=Small_number) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[number,textSpan=(1060-1066)]	-Disambiguation:(tid=21690, Title name=Number) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[killings,textSpan=(1075-1083)]	-Disambiguation:(tid=20171, Title name=Murder) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[solved,textSpan=(1093-1099)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[small town,textSpan=(1108-1118)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[small,textSpan=(1108-1113)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[town,textSpan=(1114-1118)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Leninsk-Kuznetsky,textSpan=(1123-1140)]	-Disambiguation:(tid=3890804, Title name=Leninsk-Kuznetsky) gold wikification:=Leninsk-Kuznetsky isCorrectPrediction=Correct
+*Entity:[known,textSpan=(1150-1155)]	-Disambiguation:(tid=34601, Title name=1997) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nationwide,textSpan=(1156-1166)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[last year,textSpan=(1167-1176)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[year,textSpan=(1172-1176)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[mayor,textSpan=(1193-1198)]	-Disambiguation:(tid=101146, Title name=Mayor) gold wikification:=Mayor isCorrectPrediction=Correct
+*Entity:[arrested,textSpan=(1205-1213)]	-Disambiguation:(tid=170638, Title name=Arrest) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tax,textSpan=(1218-1221)]	-Disambiguation:(tid=395564, Title name=Tax_noncompliance) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tax fraud,textSpan=(1218-1227)]	-Disambiguation:(tid=395564, Title name=Tax_noncompliance) gold wikification:=Tax_noncompliance isCorrectPrediction=Correct
+*Entity:[fraud,textSpan=(1222-1227)]	-Disambiguation:(tid=58790, Title name=Fraud) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[embezzlement,textSpan=(1235-1247)]	-Disambiguation:(tid=209411, Title name=Embezzlement) gold wikification:=Embezzlement isCorrectPrediction=Correct
+*Entity:[Gennady Konyakhin,textSpan=(1266-1283)]	-Disambiguation:(tid=2265916, Title name=Gennady_Konyakhin) gold wikification:=Gennady_Konyakhin isCorrectPrediction=Correct
+*Entity:[linked,textSpan=(1309-1315)]	-Disambiguation:(tid=18566, Title name=Linker) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[mob,textSpan=(1324-1327)]	-Disambiguation:(tid=20444, Title name=Sicilian_Mafia) gold wikification:=Russian_mafia isCorrectPrediction=Incorrect
+*Entity:[trial,textSpan=(1355-1360)]	-Disambiguation:(tid=3276812, Title name=Trial) gold wikification:=Trial isCorrectPrediction=Correct
+
+Output Explanation:
+Entity : 'Businessman' start in text:0 end in text: 14; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Siberian' start in text:25 end in text: 33; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'town' start in text:34 end in text: 38; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Russian' start in text:44 end in text: 51; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'killed' start in text:70 end in text: 76; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'his way' start in text:80 end in text: 87; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'way' start in text:84 end in text: 87; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'work' start in text:91 end in text: 95; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wednesday' start in text:96 end in text: 105; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'unidentified' start in text:112 end in text: 124; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gunman' start in text:125 end in text: 131; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'appeared' start in text:140 end in text: 148; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'to be' start in text:149 end in text: 154; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'organized crime' start in text:159 end in text: 174; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'news' start in text:199 end in text: 203; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'news reports' start in text:199 end in text: 211; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reports' start in text:204 end in text: 211; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yuri' start in text:216 end in text: 220; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yuri Zinin' start in text:216 end in text: 226; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Zinin' start in text:221 end in text: 226; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'the head' start in text:228 end in text: 236; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'head' start in text:232 end in text: 236; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sibneft' start in text:241 end in text: 248; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shot' start in text:263 end in text: 267; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'apartment' start in text:304 end in text: 313; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'apartment building' start in text:304 end in text: 322; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'building' start in text:314 end in text: 322; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the town' start in text:326 end in text: 334; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'town' start in text:330 end in text: 334; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Leninsk-Kuzntesky' start in text:338 end in text: 355; Entity types: NER,LOC,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Kuzntesky in the Kemerovo' start in text:346 end in text: 372; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Leninsk-Kuzntesky in the Kemerovo' start in text:338 end in text: 372; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Kemerovo' start in text:364 end in text: 372; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Siberia' start in text:394 end in text: 401; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Siberia , Russian' start in text:394 end in text: 412; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Russian' start in text:405 end in text: 412; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'local police' start in text:434 end in text: 446; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'local' start in text:434 end in text: 439; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'police' start in text:440 end in text: 446; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Zinin' start in text:461 end in text: 466; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'company' start in text:469 end in text: 476; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the same' start in text:481 end in text: 489; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the same name' start in text:481 end in text: 494; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'same name' start in text:485 end in text: 494; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Russia' start in text:506 end in text: 512; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'largest' start in text:517 end in text: 524; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'oil producers' start in text:525 end in text: 538; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'oil' start in text:525 end in text: 528; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'producers' start in text:529 end in text: 538; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sibneft' start in text:540 end in text: 547; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'mogul' start in text:587 end in text: 592; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Boris Berezovsky' start in text:596 end in text: 612; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'companies' start in text:628 end in text: 637; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Zinin' start in text:655 end in text: 660; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Zinin's Sibneft' start in text:655 end in text: 670; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Sibneft' start in text:663 end in text: 670; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'involved' start in text:700 end in text: 708; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'oil' start in text:721 end in text: 724; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'oil products' start in text:721 end in text: 733; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'products' start in text:725 end in text: 733; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'coal' start in text:741 end in text: 745; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Kemerovo' start in text:749 end in text: 757; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Russia' start in text:768 end in text: 774; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'coal-mining' start in text:783 end in text: 794; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Police' start in text:809 end in text: 815; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'search' start in text:827 end in text: 833; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the killer' start in text:838 end in text: 848; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'killer' start in text:842 end in text: 848; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'possible' start in text:889 end in text: 897; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'motives' start in text:898 end in text: 905; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the murder' start in text:910 end in text: 920; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'murder' start in text:914 end in text: 920; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'There' start in text:925 end in text: 930; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hundreds' start in text:935 end in text: 943; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'contract murder' start in text:948 end in text: 963; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'contract' start in text:948 end in text: 956; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'murder' start in text:957 end in text: 963; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Russia' start in text:970 end in text: 976; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'year' start in text:983 end in text: 987; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'mobsters' start in text:992 end in text: 1000; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'control' start in text:1013 end in text: 1020; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'profitable' start in text:1024 end in text: 1034; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'businesses' start in text:1035 end in text: 1045; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Only' start in text:1047 end in text: 1051; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'small' start in text:1054 end in text: 1059; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'small number' start in text:1054 end in text: 1066; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'number' start in text:1060 end in text: 1066; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'killings' start in text:1075 end in text: 1083; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'solved' start in text:1093 end in text: 1099; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'small town' start in text:1108 end in text: 1118; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'small' start in text:1108 end in text: 1113; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'town' start in text:1114 end in text: 1118; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Leninsk-Kuznetsky' start in text:1123 end in text: 1140; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'known' start in text:1150 end in text: 1155; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nationwide' start in text:1156 end in text: 1166; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'last year' start in text:1167 end in text: 1176; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'year' start in text:1172 end in text: 1176; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'mayor' start in text:1193 end in text: 1198; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'arrested' start in text:1205 end in text: 1213; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tax' start in text:1218 end in text: 1221; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tax fraud' start in text:1218 end in text: 1227; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fraud' start in text:1222 end in text: 1227; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'embezzlement' start in text:1235 end in text: 1247; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Gennady Konyakhin' start in text:1266 end in text: 1283; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'linked' start in text:1309 end in text: 1315; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'mob' start in text:1324 end in text: 1327; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'trial' start in text:1355 end in text: 1360; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

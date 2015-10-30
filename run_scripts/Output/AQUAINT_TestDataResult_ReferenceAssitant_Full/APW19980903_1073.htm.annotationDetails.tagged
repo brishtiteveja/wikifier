@@ -1,0 +1,564 @@
+<ANNOTATION>
+ <a class="wiki" href="http://en.wikipedia.org/wiki/President_of_Austria" cat="president	list">Austrian president</a>  tells  <a class="wiki" href="http://en.wikipedia.org/wiki/Madeleine_Albright" cat="secretary	citizen	person	member	alumnus	recipient	minister	immigrant	diplomat	convert	president	jew	representative	woman	episcopalian">Albright</a>  of effort to identify   <b>stolen art</b>  <br><br>   <a class="wiki" href="http://en.wikipedia.org/wiki/Austria" cat="state	country	republic	winner">Austria</a>   's  <b>president</b> told   <a class="wiki" href="http://en.wikipedia.org/wiki/Secretary_of_State" cat="">Secretary of State</a>      <a class="wiki" href="http://en.wikipedia.org/wiki/Madeleine_Albright" cat="secretary	citizen	person	member	alumnus	recipient	minister	immigrant	diplomat	convert	president	jew	representative	woman	episcopalian">Madeleine Albright</a>    on Thursday that the government was establishing a commission to identify art which was stolen from   <a class="wiki" href="http://en.wikipedia.org/wiki/The_Holocaust" cat="">Holocaust</a>    victims by the   <a class="wiki" href="http://en.wikipedia.org/wiki/Nazism" cat="">Nazis</a>   . <br><br> Austrian officials said President   <a class="wiki" href="http://en.wikipedia.org/wiki/Thomas_Klestil" cat="representative	president	recipient	person	burial	ambassador	diplomat">Thomas Klestil</a>    told  <a class="wiki" href="http://en.wikipedia.org/wiki/Madeleine_Albright" cat="secretary	citizen	person	member	alumnus	recipient	minister	immigrant	diplomat	convert	president	jew	representative	woman	episcopalian">Albright</a> , who paid a one-day visit to  <a class="wiki" href="http://en.wikipedia.org/wiki/Vienna" cat="place	legion	region	community	site	state	capital">Vienna</a>  after the   <a class="wiki" href="http://en.wikipedia.org/wiki/Moscow" cat="city	list	establishment	capital">Moscow</a>    summit, that the commission would first determine the origin of all  <b>art</b> works owned by the Federal  <b>Museum</b> here. <br><br> There was no statement on the art issue by  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">U.S.</a>  officials.  <a class="wiki" href="http://en.wikipedia.org/wiki/Madeleine_Albright" cat="secretary	citizen	person	member	alumnus	recipient	minister	immigrant	diplomat	convert	president	jew	representative	woman	episcopalian">Albright</a>  left for the   <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">United States</a>    after meetings with  <a class="wiki" href="http://en.wikipedia.org/wiki/Thomas_Klestil" cat="representative	president	recipient	person	burial	ambassador	diplomat">Klestil</a> , Chancellor   <a class="wiki" href="http://en.wikipedia.org/wiki/Viktor_Klima" cat="person	chancellor">Viktor Klima</a>    and Foreign Minister   <a class="wiki" href="http://en.wikipedia.org/wiki/Wolfgang_Schüssel" cat="person	catholic	chancellor	recipient	vice chancellor	member	minister">Wolfgang Schuessel</a>   . <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Austria-Hungary" cat="disestablishment	country	state	empire">Austria</a> , the  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">United States</a>  and  <b>37</b> other nations have  <b>launched</b> a drive to identify billions of dollars worth of art stolen from  <a class="wiki" href="http://en.wikipedia.org/wiki/Holocaust_victims" cat="person">Holocaust victims</a>  throughout  <a class="wiki" href="http://en.wikipedia.org/wiki/Europe" cat="concept">Europe</a> . <br><br> The   <a class="wiki" href="http://en.wikipedia.org/wiki/World_Jewish_Congress" cat="organization	dispute">World Jewish Congress</a>    estimates the current value of  <b>stolen art</b> at between dlrs  <b>90</b> billion and dlrs  <b>140</b> billion. <br><br> In June, the   <a class="wiki" href="http://en.wikipedia.org/wiki/Association_of_Art_Museum_Directors" cat="museum">Association of Art Museum Directors</a>    in the  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">United States</a>  recommended that  <a class="wiki" href="http://en.wikipedia.org/wiki/Visual_art_of_the_United_States" cat="album">American art</a>  museums check their own collections to determine if any works were stolen during the war and set up a worldwide  <b>database</b> for tracking. <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Austria" cat="state	country	republic	winner">Austria</a>  was absorbed into   <a class="wiki" href="http://en.wikipedia.org/wiki/Adolf_Hitler" cat="writer	leaders	person	politician	painter	survivor	recipient	president	personnel	expatriate	emigrant	founder	nazi	suicide	chancellor	perpetrator	theorist	candidate	scholar">Adolf Hitler</a>   's   <a class="wiki" href="http://en.wikipedia.org/wiki/Nazi_Germany" cat="">Germany</a>   in  <b>1938</b> and was restored as an  <b>independent</b>  <b>nation</b> following World War II. <br><br> rr <br><br>
+</ANNOTATION>
+*Entity:[Austrian,textSpan=(0-11)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Austrian president,textSpan=(0-21)]	-Disambiguation:(tid=218464, Title name=President_of_Austria) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[president,textSpan=(12-21)]	-Disambiguation:(tid=218464, Title name=President_of_Austria) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Albright,textSpan=(28-36)]	-Disambiguation:(tid=133249, Title name=Madeleine_Albright) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[effort,textSpan=(40-46)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[identify,textSpan=(50-58)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[stolen,textSpan=(60-66)]	-Disambiguation:(tid=425514, Title name=Art_theft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[stolen art,textSpan=(60-70)]	-Disambiguation:(tid=425514, Title name=Art_theft) gold wikification:=Looted_art isCorrectPrediction=Incorrect
+*Entity:[art,textSpan=(67-70)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Austria,textSpan=(76-83)]	-Disambiguation:(tid=576, Title name=Austria) gold wikification:=Austria isCorrectPrediction=Correct
+*Entity:[president,textSpan=(88-97)]	-Disambiguation:(tid=24113, Title name=President_of_the_United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Secretary of State Madeleine Albright on Thursday,textSpan=(104-158)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Secretary of State,textSpan=(104-122)]	-Disambiguation:(tid=29347, Title name=Secretary_of_State) gold wikification:=Secretary_of_State isCorrectPrediction=Correct
+*Entity:[Secretary,textSpan=(104-113)]	-Disambiguation:(tid=32293, Title name=United_States_Secretary_of_State) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[State Madeleine Albright on Thursday,textSpan=(117-158)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Madeleine Albright,textSpan=(126-144)]	-Disambiguation:(tid=133249, Title name=Madeleine_Albright) gold wikification:=Madeleine_Albright isCorrectPrediction=Correct
+*Entity:[Thursday,textSpan=(150-158)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the government,textSpan=(164-178)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[government,textSpan=(168-178)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[establishing,textSpan=(183-195)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[commission,textSpan=(198-208)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[identify,textSpan=(212-220)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[art,textSpan=(221-224)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[stolen,textSpan=(235-241)]	-Disambiguation:(tid=425514, Title name=Art_theft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Holocaust,textSpan=(248-257)]	-Disambiguation:(tid=10396793, Title name=The_Holocaust) gold wikification:=The_Holocaust isCorrectPrediction=Correct
+*Entity:[Nazis,textSpan=(276-281)]	-Disambiguation:(tid=18404036, Title name=Nazism) gold wikification:=Nazism isCorrectPrediction=Correct
+*Entity:[Austrian,textSpan=(288-296)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[officials,textSpan=(297-306)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Thomas Klestil,textSpan=(323-337)]	-Disambiguation:(tid=242317, Title name=Thomas_Klestil) gold wikification:=Thomas_Klestil isCorrectPrediction=Correct
+*Entity:[Albright,textSpan=(345-353)]	-Disambiguation:(tid=133249, Title name=Madeleine_Albright) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[one-day,textSpan=(366-373)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[visit,textSpan=(374-379)]	-Disambiguation:(tid=2994571, Title name=1972_Nixon_visit_to_China) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Vienna,textSpan=(383-389)]	-Disambiguation:(tid=55866, Title name=Vienna) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Moscow,textSpan=(401-407)]	-Disambiguation:(tid=19004, Title name=Moscow) gold wikification:=Moscow isCorrectPrediction=Correct
+*Entity:[the commission,textSpan=(423-437)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[commission,textSpan=(427-437)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[determine,textSpan=(450-459)]	-Disambiguation:(tid=11345653, Title name=Sexing) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the origin,textSpan=(460-470)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[origin,textSpan=(464-470)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[art,textSpan=(478-481)]	-Disambiguation:(tid=752, Title name=Art) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[works,textSpan=(482-487)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[owned,textSpan=(488-493)]	-Disambiguation:(tid=903641, Title name=Owned) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Federal Museum,textSpan=(501-515)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Federal,textSpan=(501-508)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Museum,textSpan=(509-515)]	-Disambiguation:(tid=37585, Title name=Museum) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[There,textSpan=(525-530)]	-Disambiguation:(tid=463437, Title name=There) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[statement,textSpan=(538-547)]	-Disambiguation:(tid=41746, Title name=Statement) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the art,textSpan=(551-558)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[art,textSpan=(555-558)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[issue,textSpan=(559-564)]	-Disambiguation:(tid=381055, Title name=Issue) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[U.S. officials,textSpan=(568-582)]	-Disambiguation:(tid=146720, Title name=Drug_Enforcement_Administration) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[U.S.,textSpan=(568-572)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[officials,textSpan=(573-582)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Albright,textSpan=(584-592)]	-Disambiguation:(tid=133249, Title name=Madeleine_Albright) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United States,textSpan=(607-620)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=United_States isCorrectPrediction=Correct
+*Entity:[meetings,textSpan=(629-637)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Klestil, Chancellor Viktor Klima and Foreign Minister Wolfgang Schuessel,textSpan=(643-719)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Klestil,textSpan=(643-650)]	-Disambiguation:(tid=242317, Title name=Thomas_Klestil) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Chancellor Viktor Klima and Foreign Minister Wolfgang Schuessel,textSpan=(652-719)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Viktor Klima,textSpan=(664-676)]	-Disambiguation:(tid=299392, Title name=Viktor_Klima) gold wikification:=Viktor_Klima isCorrectPrediction=Correct
+*Entity:[Viktor,textSpan=(664-670)]	-Disambiguation:(tid=299392, Title name=Viktor_Klima) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Klima,textSpan=(671-676)]	-Disambiguation:(tid=299392, Title name=Viktor_Klima) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wolfgang Schuessel,textSpan=(701-719)]	-Disambiguation:(tid=289453, Title name=Wolfgang_Schüssel) gold wikification:=Wolfgang_Schüssel isCorrectPrediction=Correct
+*Entity:[Austria, the United States,textSpan=(726-752)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Austria,textSpan=(726-733)]	-Disambiguation:(tid=2983, Title name=Austria-Hungary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United States,textSpan=(739-752)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United,textSpan=(739-745)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[States,textSpan=(746-752)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[37,textSpan=(757-759)]	-Disambiguation:(tid=34684, Title name=1937) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[other nations,textSpan=(760-773)]	-Disambiguation:(tid=14889, Title name=Iran–Iraq_War) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nations,textSpan=(766-773)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[launched,textSpan=(779-787)]	-Disambiguation:(tid=60930, Title name=Ship_naming_and_launching) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[drive,textSpan=(790-795)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[identify,textSpan=(799-807)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[billions,textSpan=(808-816)]	-Disambiguation:(tid=1136363, Title name=1,000,000,000) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dollars,textSpan=(820-827)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[worth,textSpan=(828-833)]	-Disambiguation:(tid=58829, Title name=Market_capitalization) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[art,textSpan=(837-840)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Holocaust victims,textSpan=(853-870)]	-Disambiguation:(tid=6426881, Title name=Holocaust_victims) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Holocaust,textSpan=(853-862)]	-Disambiguation:(tid=10396793, Title name=The_Holocaust) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[victims,textSpan=(863-870)]	-Disambiguation:(tid=6426881, Title name=Holocaust_victims) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Europe,textSpan=(882-888)]	-Disambiguation:(tid=9239, Title name=Europe) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[World Jewish Congress,textSpan=(898-919)]	-Disambiguation:(tid=311160, Title name=World_Jewish_Congress) gold wikification:=World_Jewish_Congress isCorrectPrediction=Correct
+*Entity:[the current,textSpan=(932-943)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[current,textSpan=(936-943)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[value,textSpan=(944-949)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[stolen art,textSpan=(953-963)]	-Disambiguation:(tid=425514, Title name=Art_theft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[stolen,textSpan=(953-959)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[art,textSpan=(960-963)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[90,textSpan=(980-982)]	-Disambiguation:(tid=34635, Title name=1990) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[140,textSpan=(1000-1003)]	-Disambiguation:(tid=35440, Title name=140) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[In June, the Association of Art Museum Directors in the United States,textSpan=(1016-1088)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[June,textSpan=(1019-1023)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[June, the Association of Art Museum Directors in the United States,textSpan=(1019-1088)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Association of Art Museum Directors,textSpan=(1030-1065)]	-Disambiguation:(tid=13460890, Title name=Association_of_Art_Museum_Directors) gold wikification:=Association_of_Art_Museum_Directors isCorrectPrediction=Correct
+*Entity:[Association of Art Museum Directors in the United States,textSpan=(1030-1088)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Art,textSpan=(1045-1048)]	-Disambiguation:(tid=752, Title name=Art) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Art Museum,textSpan=(1045-1055)]	-Disambiguation:(tid=66076, Title name=Art_museum) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Art Museum Directors,textSpan=(1045-1065)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Art Museum Directors in the United States,textSpan=(1045-1088)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Museum,textSpan=(1049-1055)]	-Disambiguation:(tid=37585, Title name=Museum) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Directors,textSpan=(1056-1065)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the United States,textSpan=(1071-1088)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United,textSpan=(1075-1081)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United States,textSpan=(1075-1088)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[States,textSpan=(1082-1088)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[American art,textSpan=(1106-1118)]	-Disambiguation:(tid=199145, Title name=Visual_art_of_the_United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[American,textSpan=(1106-1114)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[art museums,textSpan=(1115-1126)]	-Disambiguation:(tid=66076, Title name=Art_museum) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[art,textSpan=(1115-1118)]	-Disambiguation:(tid=199145, Title name=Visual_art_of_the_United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[museums,textSpan=(1119-1126)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[their own,textSpan=(1133-1142)]	-Disambiguation:(tid=42969, Title name=Dodge) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[collections,textSpan=(1143-1154)]	-Disambiguation:(tid=3218952, Title name=Collection_(artwork)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[determine,textSpan=(1158-1167)]	-Disambiguation:(tid=11345653, Title name=Sexing) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[works,textSpan=(1175-1180)]	-Disambiguation:(tid=2583747, Title name=Work_of_art) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[stolen,textSpan=(1186-1192)]	-Disambiguation:(tid=425514, Title name=Art_theft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the war,textSpan=(1200-1207)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[war,textSpan=(1204-1207)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[worldwide,textSpan=(1221-1230)]	-Disambiguation:(tid=38714, Title name=World) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[database,textSpan=(1231-1239)]	-Disambiguation:(tid=8377, Title name=Database) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tracking,textSpan=(1244-1252)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Austria,textSpan=(1257-1264)]	-Disambiguation:(tid=576, Title name=Austria) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[absorbed,textSpan=(1269-1277)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Adolf Hitler,textSpan=(1284-1296)]	-Disambiguation:(tid=2731583, Title name=Adolf_Hitler) gold wikification:=Adolf_Hitler isCorrectPrediction=Correct
+*Entity:[Adolf,textSpan=(1284-1289)]	-Disambiguation:(tid=2731583, Title name=Adolf_Hitler) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hitler,textSpan=(1290-1296)]	-Disambiguation:(tid=2731583, Title name=Adolf_Hitler) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Germany,textSpan=(1302-1309)]	-Disambiguation:(tid=21212, Title name=Nazi_Germany) gold wikification:=Germany isCorrectPrediction=Incorrect
+*Entity:[1938,textSpan=(1314-1318)]	-Disambiguation:(tid=34979, Title name=1938) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[restored,textSpan=(1327-1335)]	-Disambiguation:(tid=2444, Title name=Conservation-restoration) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[independent,textSpan=(1342-1353)]	-Disambiguation:(tid=2172378, Title name=Independent_(politician)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[independent nation,textSpan=(1342-1360)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nation,textSpan=(1354-1360)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rr,textSpan=(1388-1390)]	-Disambiguation:(tid=11909543, Title name=List_of_Latin-script_digraphs) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Austrian' start in text:0 end in text: 11; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Austrian president' start in text:0 end in text: 21; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'president' start in text:12 end in text: 21; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Albright' start in text:28 end in text: 36; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'effort' start in text:40 end in text: 46; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'identify' start in text:50 end in text: 58; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'stolen' start in text:60 end in text: 66; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'stolen art' start in text:60 end in text: 70; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'art' start in text:67 end in text: 70; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Austria' start in text:76 end in text: 83; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'president' start in text:88 end in text: 97; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Secretary of State Madeleine Albright on Thursday' start in text:104 end in text: 158; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Secretary of State' start in text:104 end in text: 122; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Secretary' start in text:104 end in text: 113; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'State Madeleine Albright on Thursday' start in text:117 end in text: 158; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Madeleine Albright' start in text:126 end in text: 144; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thursday' start in text:150 end in text: 158; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the government' start in text:164 end in text: 178; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'government' start in text:168 end in text: 178; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'establishing' start in text:183 end in text: 195; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'commission' start in text:198 end in text: 208; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'identify' start in text:212 end in text: 220; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'art' start in text:221 end in text: 224; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'stolen' start in text:235 end in text: 241; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Holocaust' start in text:248 end in text: 257; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Nazis' start in text:276 end in text: 281; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Austrian' start in text:288 end in text: 296; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'officials' start in text:297 end in text: 306; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thomas Klestil' start in text:323 end in text: 337; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Albright' start in text:345 end in text: 353; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'one-day' start in text:366 end in text: 373; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'visit' start in text:374 end in text: 379; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Vienna' start in text:383 end in text: 389; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Moscow' start in text:401 end in text: 407; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the commission' start in text:423 end in text: 437; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'commission' start in text:427 end in text: 437; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'determine' start in text:450 end in text: 459; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the origin' start in text:460 end in text: 470; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'origin' start in text:464 end in text: 470; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'art' start in text:478 end in text: 481; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'works' start in text:482 end in text: 487; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'owned' start in text:488 end in text: 493; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Federal Museum' start in text:501 end in text: 515; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Federal' start in text:501 end in text: 508; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Museum' start in text:509 end in text: 515; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'There' start in text:525 end in text: 530; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'statement' start in text:538 end in text: 547; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the art' start in text:551 end in text: 558; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'art' start in text:555 end in text: 558; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'issue' start in text:559 end in text: 564; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'U.S. officials' start in text:568 end in text: 582; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'U.S.' start in text:568 end in text: 572; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'officials' start in text:573 end in text: 582; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Albright' start in text:584 end in text: 592; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United States' start in text:607 end in text: 620; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'meetings' start in text:629 end in text: 637; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Klestil, Chancellor Viktor Klima and Foreign Minister Wolfgang Schuessel' start in text:643 end in text: 719; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Klestil' start in text:643 end in text: 650; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Chancellor Viktor Klima and Foreign Minister Wolfgang Schuessel' start in text:652 end in text: 719; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Viktor Klima' start in text:664 end in text: 676; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Viktor' start in text:664 end in text: 670; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Klima' start in text:671 end in text: 676; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wolfgang Schuessel' start in text:701 end in text: 719; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Austria, the United States' start in text:726 end in text: 752; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Austria' start in text:726 end in text: 733; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United States' start in text:739 end in text: 752; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United' start in text:739 end in text: 745; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'States' start in text:746 end in text: 752; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '37' start in text:757 end in text: 759; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'other nations' start in text:760 end in text: 773; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nations' start in text:766 end in text: 773; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'launched' start in text:779 end in text: 787; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'drive' start in text:790 end in text: 795; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'identify' start in text:799 end in text: 807; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'billions' start in text:808 end in text: 816; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dollars' start in text:820 end in text: 827; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'worth' start in text:828 end in text: 833; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'art' start in text:837 end in text: 840; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Holocaust victims' start in text:853 end in text: 870; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Holocaust' start in text:853 end in text: 862; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'victims' start in text:863 end in text: 870; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Europe' start in text:882 end in text: 888; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'World Jewish Congress' start in text:898 end in text: 919; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the current' start in text:932 end in text: 943; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'current' start in text:936 end in text: 943; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'value' start in text:944 end in text: 949; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'stolen art' start in text:953 end in text: 963; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'stolen' start in text:953 end in text: 959; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'art' start in text:960 end in text: 963; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '90' start in text:980 end in text: 982; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '140' start in text:1000 end in text: 1003; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'In June, the Association of Art Museum Directors in the United States' start in text:1016 end in text: 1088; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'June' start in text:1019 end in text: 1023; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'June, the Association of Art Museum Directors in the United States' start in text:1019 end in text: 1088; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Association of Art Museum Directors' start in text:1030 end in text: 1065; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Association of Art Museum Directors in the United States' start in text:1030 end in text: 1088; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Art' start in text:1045 end in text: 1048; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Art Museum' start in text:1045 end in text: 1055; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Art Museum Directors' start in text:1045 end in text: 1065; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Art Museum Directors in the United States' start in text:1045 end in text: 1088; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Museum' start in text:1049 end in text: 1055; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Directors' start in text:1056 end in text: 1065; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the United States' start in text:1071 end in text: 1088; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United' start in text:1075 end in text: 1081; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United States' start in text:1075 end in text: 1088; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'States' start in text:1082 end in text: 1088; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'American art' start in text:1106 end in text: 1118; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'American' start in text:1106 end in text: 1114; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'art museums' start in text:1115 end in text: 1126; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'art' start in text:1115 end in text: 1118; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'museums' start in text:1119 end in text: 1126; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'their own' start in text:1133 end in text: 1142; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'collections' start in text:1143 end in text: 1154; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'determine' start in text:1158 end in text: 1167; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'works' start in text:1175 end in text: 1180; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'stolen' start in text:1186 end in text: 1192; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the war' start in text:1200 end in text: 1207; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'war' start in text:1204 end in text: 1207; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'worldwide' start in text:1221 end in text: 1230; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'database' start in text:1231 end in text: 1239; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tracking' start in text:1244 end in text: 1252; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Austria' start in text:1257 end in text: 1264; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'absorbed' start in text:1269 end in text: 1277; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Adolf Hitler' start in text:1284 end in text: 1296; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Adolf' start in text:1284 end in text: 1289; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hitler' start in text:1290 end in text: 1296; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Germany' start in text:1302 end in text: 1309; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1938' start in text:1314 end in text: 1318; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'restored' start in text:1327 end in text: 1335; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'independent' start in text:1342 end in text: 1353; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'independent nation' start in text:1342 end in text: 1360; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nation' start in text:1354 end in text: 1360; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rr' start in text:1388 end in text: 1390; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

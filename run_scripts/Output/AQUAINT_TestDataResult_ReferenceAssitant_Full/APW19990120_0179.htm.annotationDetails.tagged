@@ -1,0 +1,505 @@
+<ANNOTATION>
+ <a class="wiki" href="http://en.wikipedia.org/wiki/Sotheby's" cat="house	company	conviction	building	establishment">Sotheby</a> 's Announces  <a class="wiki" href="http://en.wikipedia.org/wiki/Website" cat="website">Internet Site</a> <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/New_York" cat="colony	state">NEW YORK</a>  ( <a class="wiki" href="http://en.wikipedia.org/wiki/Associated_Press" cat="cooperative	agency	establishment	medium	recipient">AP</a> ) -- Home shoppers can buy  <b>airline tickets</b>,   <a class="wiki" href="http://en.wikipedia.org/wiki/Beanie_Babies" cat="">Beanie Babies</a>    and  <b>garden tools</b> via computer. Why not a $9 million   <a class="wiki" href="http://en.wikipedia.org/wiki/Rembrandt" cat="printmaker	person	painter	member	artist	engraver">Rembrandt</a>    painting? <br><br> <br><br>   <a class="wiki" href="http://en.wikipedia.org/wiki/Sotheby's" cat="house	company	conviction	building	establishment">Sotheby</a>   's, the   <a class="wiki" href="http://en.wikipedia.org/wiki/New_York" cat="colony	state">New York</a>      <b>auction house</b>  , said  <b>Tuesday</b> that it will spend $25 million to launch sothebys.com, an  <a class="wiki" href="http://en.wikipedia.org/wiki/Website" cat="website">Internet site</a>  where the  <b>public</b> will be able to bid on   <b>antiques</b>  ,  <b>art</b>,  <b>jewelry</b>,   <b>sports memorabilia</b>   and other   <b>collectibles</b>  . <br><br> <br><br> The value of items on the  <b>virtual</b>  <b>auction</b> block initially will be  <b>capped</b> at about $10,000. More expensive items will be posted when  <b>imaging</b> technology improves enough to give clear views of items from multiple angles. <br><br> <br><br> "There's no point in having a fuzzy image on a  <b>$100,000</b> item,'' said Susan Solomon, head of the new venture. <br><br> <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Sotheby's" cat="house	company	conviction	building	establishment">Sotheby</a> 's first major   <b>online auction</b>  , planned for July, will feature  baseball   memorabilia. <br><br> <br><br> While  <b>online auction sites</b> have become extremely popular,  <b>consumer</b> groups say the sites have produced more  <b>consumer</b> complaints than any other  <a class="wiki" href="http://en.wikipedia.org/wiki/Internet" cat="">Internet</a>  category because of  <b>shoddy</b>  <b>merchandise</b> and other  <b>fraud</b>. <br><br> <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Sotheby's" cat="house	company	conviction	building	establishment">Sotheby</a> 's said it would only sell  <b>merchandise</b> from the  <b>auction house</b> itself or reputable  <b>art dealers</b>. And bids will only be accepted from customers who have registered their   <b>charge card</b>   numbers in advance. <br><br> <br><br> Officials at   <a class="wiki" href="http://en.wikipedia.org/wiki/Christie's" cat="">Christie</a>  's, another leading  <a class="wiki" href="http://en.wikipedia.org/wiki/New_York" cat="colony	state">New York</a>   <b>auction house</b>, said they were also considering an  <b>online auction site</b>. <br><br>
+</ANNOTATION>
+*Entity:[Sotheby's Announces Internet Site NEW YORK,textSpan=(3-47)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sotheby,textSpan=(0-10)]	-Disambiguation:(tid=541267, Title name=Sotheby's) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Internet,textSpan=(23-31)]	-Disambiguation:(tid=14539, Title name=Internet) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Internet Site,textSpan=(23-36)]	-Disambiguation:(tid=33898, Title name=Website) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[NEW YORK,textSpan=(39-47)]	-Disambiguation:(tid=8210131, Title name=New_York) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[AP,textSpan=(49-51)]	-Disambiguation:(tid=47915, Title name=Associated_Press) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Home,textSpan=(56-60)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[shoppers,textSpan=(61-69)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airline,textSpan=(78-85)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airline tickets,textSpan=(78-93)]	-Disambiguation:(tid=10532510, Title name=Airline_ticket) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tickets,textSpan=(86-93)]	-Disambiguation:(tid=9958345, Title name=Ticket_(admission)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Beanie,textSpan=(96-102)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Beanie Babies,textSpan=(96-109)]	-Disambiguation:(tid=312133, Title name=Beanie_Babies) gold wikification:=Beanie_Babies isCorrectPrediction=Correct
+*Entity:[Babies,textSpan=(103-109)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[garden tools,textSpan=(116-128)]	-Disambiguation:(tid=5284002, Title name=Garden_tool) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[garden,textSpan=(116-122)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tools,textSpan=(123-128)]	-Disambiguation:(tid=30677, Title name=Tool) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Rembrandt,textSpan=(165-174)]	-Disambiguation:(tid=4254144, Title name=Rembrandt) gold wikification:=Rembrandt isCorrectPrediction=Correct
+*Entity:[Sotheby,textSpan=(194-201)]	-Disambiguation:(tid=541267, Title name=Sotheby's) gold wikification:=Sotheby's isCorrectPrediction=Correct
+*Entity:[New York,textSpan=(212-220)]	-Disambiguation:(tid=8210131, Title name=New_York) gold wikification:=New_York_City isCorrectPrediction=Incorrect
+*Entity:[auction house,textSpan=(224-237)]	-Disambiguation:(tid=62912, Title name=Auction) gold wikification:=Auction isCorrectPrediction=Correct
+*Entity:[Tuesday,textSpan=(246-253)]	-Disambiguation:(tid=54635, Title name=Tuesday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[$25,textSpan=(273-276)]	-Disambiguation:(tid=38723, Title name=United_States_dollar) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[launch,textSpan=(288-294)]	-Disambiguation:(tid=818042, Title name=Launch) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Internet,textSpan=(312-320)]	-Disambiguation:(tid=14539, Title name=Internet) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Internet site,textSpan=(312-325)]	-Disambiguation:(tid=33898, Title name=Website) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the public,textSpan=(332-342)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[public,textSpan=(336-342)]	-Disambiguation:(tid=307834, Title name=Public) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bid,textSpan=(359-362)]	-Disambiguation:(tid=8586748, Title name=Bidding) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[antiques,textSpan=(367-375)]	-Disambiguation:(tid=346477, Title name=Antique) gold wikification:=Antique isCorrectPrediction=Correct
+*Entity:[art,textSpan=(379-382)]	-Disambiguation:(tid=752, Title name=Art) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[jewelry,textSpan=(384-391)]	-Disambiguation:(tid=15739, Title name=Jewellery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sports,textSpan=(394-400)]	-Disambiguation:(tid=26853, Title name=Sport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sports memorabilia,textSpan=(394-412)]	-Disambiguation:(tid=242544, Title name=Sports_memorabilia) gold wikification:=Sports_memorabilia isCorrectPrediction=Correct
+*Entity:[memorabilia,textSpan=(401-412)]	-Disambiguation:(tid=937531, Title name=Souvenir) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[collectibles,textSpan=(426-438)]	-Disambiguation:(tid=60659, Title name=Collectable) gold wikification:=Collectable isCorrectPrediction=Correct
+*Entity:[value,textSpan=(452-457)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[items,textSpan=(461-466)]	-Disambiguation:(tid=13975629, Title name=Item_(gaming)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[virtual,textSpan=(474-481)]	-Disambiguation:(tid=693310, Title name=Virtual) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[auction,textSpan=(482-489)]	-Disambiguation:(tid=62912, Title name=Auction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[block,textSpan=(490-495)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[will be,textSpan=(506-513)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[capped,textSpan=(514-520)]	-Disambiguation:(tid=3191695, Title name=Cap_(sport)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[$10,000,textSpan=(530-537)]	-Disambiguation:(tid=477372, Title name=Large_denominations_of_United_States_currency) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[More,textSpan=(539-543)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[expensive,textSpan=(544-553)]	-Disambiguation:(tid=265319, Title name=Expense) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[items,textSpan=(554-559)]	-Disambiguation:(tid=13975629, Title name=Item_(gaming)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[will be,textSpan=(560-567)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[posted,textSpan=(568-574)]	-Disambiguation:(tid=51138, Title name=Mail) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[imaging technology,textSpan=(580-598)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[imaging,textSpan=(580-587)]	-Disambiguation:(tid=226446, Title name=Imaging) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[technology,textSpan=(588-598)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[clear,textSpan=(623-628)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[views,textSpan=(629-634)]	-Disambiguation:(tid=1960226, Title name=View_(database)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[items,textSpan=(638-643)]	-Disambiguation:(tid=13975629, Title name=Item_(gaming)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[multiple,textSpan=(649-657)]	-Disambiguation:(tid=3355266, Title name=Multiple) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[angles,textSpan=(658-664)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[no point,textSpan=(681-689)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[point,textSpan=(684-689)]	-Disambiguation:(tid=593693, Title name=Point_(geometry)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fuzzy,textSpan=(702-707)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[image,textSpan=(708-713)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[$100,000,textSpan=(719-727)]	-Disambiguation:(tid=477372, Title name=Large_denominations_of_United_States_currency) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[item,textSpan=(728-732)]	-Disambiguation:(tid=254656, Title name=Item) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:['',textSpan=(733-735)]	-Disambiguation:(tid=3441561, Title name=List_of_recurring_That_'70s_Show_characters) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Susan Solomon,textSpan=(741-754)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Susan,textSpan=(741-746)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Solomon,textSpan=(747-754)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[head,textSpan=(756-760)]	-Disambiguation:(tid=1209545, Title name=Head) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the new,textSpan=(764-771)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[venture,textSpan=(772-779)]	-Disambiguation:(tid=536818, Title name=Venture) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sotheby,textSpan=(787-794)]	-Disambiguation:(tid=541267, Title name=Sotheby's) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[online auction,textSpan=(810-824)]	-Disambiguation:(tid=297359, Title name=Online_auction) gold wikification:=Online_auction isCorrectPrediction=Correct
+*Entity:[July,textSpan=(840-844)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[feature,textSpan=(851-858)]	-Disambiguation:(tid=187752, Title name=Feature) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[baseball,textSpan=(860-868)]	-Disambiguation:*null* gold wikification:=Baseball isCorrectPrediction=Incorrect
+*Entity:[online auction sites,textSpan=(896-916)]	-Disambiguation:(tid=297359, Title name=Online_auction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[online auction,textSpan=(896-910)]	-Disambiguation:(tid=297359, Title name=Online_auction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[online,textSpan=(896-902)]	-Disambiguation:(tid=41440, Title name=Online_and_offline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[auction sites,textSpan=(903-916)]	-Disambiguation:(tid=297359, Title name=Online_auction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[auction,textSpan=(903-910)]	-Disambiguation:(tid=62912, Title name=Auction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sites,textSpan=(911-916)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[popular,textSpan=(939-946)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[consumer groups,textSpan=(948-963)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[consumer,textSpan=(948-956)]	-Disambiguation:(tid=7818, Title name=Consumer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[groups,textSpan=(957-963)]	-Disambiguation:(tid=19447, Title name=Group_(mathematics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sites,textSpan=(972-977)]	-Disambiguation:(tid=297359, Title name=Online_auction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[produced,textSpan=(983-991)]	-Disambiguation:(tid=53207, Title name=Record_producer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[consumer,textSpan=(997-1005)]	-Disambiguation:(tid=7818, Title name=Consumer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[complaints,textSpan=(1006-1016)]	-Disambiguation:(tid=7357, Title name=Complaint) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Internet,textSpan=(1032-1040)]	-Disambiguation:(tid=14539, Title name=Internet) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[shoddy,textSpan=(1061-1067)]	-Disambiguation:(tid=7581376, Title name=Glossary_of_textile_manufacturing) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[merchandise,textSpan=(1068-1079)]	-Disambiguation:(tid=240410, Title name=Product_(business)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fraud,textSpan=(1090-1095)]	-Disambiguation:(tid=58790, Title name=Fraud) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sotheby,textSpan=(1103-1110)]	-Disambiguation:(tid=541267, Title name=Sotheby's) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sell,textSpan=(1132-1136)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[merchandise,textSpan=(1137-1148)]	-Disambiguation:(tid=240410, Title name=Product_(business)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[auction house,textSpan=(1158-1171)]	-Disambiguation:(tid=62912, Title name=Auction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[auction,textSpan=(1158-1165)]	-Disambiguation:(tid=62912, Title name=Auction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[house,textSpan=(1166-1171)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[art,textSpan=(1192-1195)]	-Disambiguation:(tid=752, Title name=Art) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[art dealers,textSpan=(1192-1203)]	-Disambiguation:(tid=5961279, Title name=Art_dealer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dealers,textSpan=(1196-1203)]	-Disambiguation:(tid=2983120, Title name=Art_auction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bids,textSpan=(1209-1213)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[accepted,textSpan=(1227-1235)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[customers,textSpan=(1241-1250)]	-Disambiguation:(tid=234206, Title name=Customer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[registered,textSpan=(1260-1270)]	-Disambiguation:(tid=2367169, Title name=Aircraft_registration) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[charge card,textSpan=(1278-1289)]	-Disambiguation:(tid=311287, Title name=Charge_card) gold wikification:=Charge_card isCorrectPrediction=Correct
+*Entity:[advance,textSpan=(1303-1310)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Officials,textSpan=(1318-1327)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Officials at Christie,textSpan=(1318-1340)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Christie,textSpan=(1332-1340)]	-Disambiguation:(tid=155688, Title name=Christie's) gold wikification:=Christie's isCorrectPrediction=Correct
+*Entity:[leading,textSpan=(1353-1360)]	-Disambiguation:(tid=322020, Title name=Leading) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[New York,textSpan=(1361-1369)]	-Disambiguation:(tid=8210131, Title name=New_York) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[York,textSpan=(1365-1369)]	-Disambiguation:(tid=8210131, Title name=New_York) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[auction house,textSpan=(1370-1383)]	-Disambiguation:(tid=62912, Title name=Auction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[auction,textSpan=(1370-1377)]	-Disambiguation:(tid=62912, Title name=Auction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[house,textSpan=(1378-1383)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[considering,textSpan=(1405-1416)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[online,textSpan=(1420-1426)]	-Disambiguation:(tid=41440, Title name=Online_and_offline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[online auction site,textSpan=(1420-1439)]	-Disambiguation:(tid=297359, Title name=Online_auction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[online auction,textSpan=(1420-1434)]	-Disambiguation:(tid=297359, Title name=Online_auction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[auction,textSpan=(1427-1434)]	-Disambiguation:(tid=62912, Title name=Auction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[auction site,textSpan=(1427-1439)]	-Disambiguation:(tid=297359, Title name=Online_auction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Sotheby's Announces Internet Site NEW YORK' start in text:3 end in text: 47; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Sotheby' start in text:0 end in text: 10; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Internet' start in text:23 end in text: 31; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Internet Site' start in text:23 end in text: 36; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'NEW YORK' start in text:39 end in text: 47; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'AP' start in text:49 end in text: 51; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Home' start in text:56 end in text: 60; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shoppers' start in text:61 end in text: 69; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airline' start in text:78 end in text: 85; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airline tickets' start in text:78 end in text: 93; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tickets' start in text:86 end in text: 93; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Beanie' start in text:96 end in text: 102; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Beanie Babies' start in text:96 end in text: 109; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Babies' start in text:103 end in text: 109; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'garden tools' start in text:116 end in text: 128; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'garden' start in text:116 end in text: 122; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tools' start in text:123 end in text: 128; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Rembrandt' start in text:165 end in text: 174; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sotheby' start in text:194 end in text: 201; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'New York' start in text:212 end in text: 220; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'auction house' start in text:224 end in text: 237; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Tuesday' start in text:246 end in text: 253; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '$25' start in text:273 end in text: 276; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'launch' start in text:288 end in text: 294; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Internet' start in text:312 end in text: 320; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Internet site' start in text:312 end in text: 325; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the public' start in text:332 end in text: 342; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'public' start in text:336 end in text: 342; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bid' start in text:359 end in text: 362; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'antiques' start in text:367 end in text: 375; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'art' start in text:379 end in text: 382; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'jewelry' start in text:384 end in text: 391; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sports' start in text:394 end in text: 400; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sports memorabilia' start in text:394 end in text: 412; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'memorabilia' start in text:401 end in text: 412; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'collectibles' start in text:426 end in text: 438; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'value' start in text:452 end in text: 457; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'items' start in text:461 end in text: 466; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'virtual' start in text:474 end in text: 481; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'auction' start in text:482 end in text: 489; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'block' start in text:490 end in text: 495; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'will be' start in text:506 end in text: 513; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'capped' start in text:514 end in text: 520; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '$10,000' start in text:530 end in text: 537; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'More' start in text:539 end in text: 543; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'expensive' start in text:544 end in text: 553; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'items' start in text:554 end in text: 559; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'will be' start in text:560 end in text: 567; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'posted' start in text:568 end in text: 574; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'imaging technology' start in text:580 end in text: 598; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'imaging' start in text:580 end in text: 587; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'technology' start in text:588 end in text: 598; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'clear' start in text:623 end in text: 628; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'views' start in text:629 end in text: 634; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'items' start in text:638 end in text: 643; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'multiple' start in text:649 end in text: 657; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'angles' start in text:658 end in text: 664; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'no point' start in text:681 end in text: 689; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'point' start in text:684 end in text: 689; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fuzzy' start in text:702 end in text: 707; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'image' start in text:708 end in text: 713; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '$100,000' start in text:719 end in text: 727; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'item' start in text:728 end in text: 732; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '''' start in text:733 end in text: 735; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Susan Solomon' start in text:741 end in text: 754; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Susan' start in text:741 end in text: 746; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Solomon' start in text:747 end in text: 754; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'head' start in text:756 end in text: 760; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the new' start in text:764 end in text: 771; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'venture' start in text:772 end in text: 779; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sotheby' start in text:787 end in text: 794; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'online auction' start in text:810 end in text: 824; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'July' start in text:840 end in text: 844; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'feature' start in text:851 end in text: 858; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'baseball' start in text:860 end in text: 868; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'online auction sites' start in text:896 end in text: 916; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'online auction' start in text:896 end in text: 910; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'online' start in text:896 end in text: 902; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'auction sites' start in text:903 end in text: 916; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'auction' start in text:903 end in text: 910; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sites' start in text:911 end in text: 916; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'popular' start in text:939 end in text: 946; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'consumer groups' start in text:948 end in text: 963; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'consumer' start in text:948 end in text: 956; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'groups' start in text:957 end in text: 963; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sites' start in text:972 end in text: 977; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'produced' start in text:983 end in text: 991; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'consumer' start in text:997 end in text: 1005; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'complaints' start in text:1006 end in text: 1016; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Internet' start in text:1032 end in text: 1040; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shoddy' start in text:1061 end in text: 1067; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'merchandise' start in text:1068 end in text: 1079; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fraud' start in text:1090 end in text: 1095; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sotheby' start in text:1103 end in text: 1110; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sell' start in text:1132 end in text: 1136; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'merchandise' start in text:1137 end in text: 1148; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'auction house' start in text:1158 end in text: 1171; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'auction' start in text:1158 end in text: 1165; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'house' start in text:1166 end in text: 1171; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'art' start in text:1192 end in text: 1195; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'art dealers' start in text:1192 end in text: 1203; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dealers' start in text:1196 end in text: 1203; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bids' start in text:1209 end in text: 1213; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'accepted' start in text:1227 end in text: 1235; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'customers' start in text:1241 end in text: 1250; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'registered' start in text:1260 end in text: 1270; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'charge card' start in text:1278 end in text: 1289; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'advance' start in text:1303 end in text: 1310; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Officials' start in text:1318 end in text: 1327; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Officials at Christie' start in text:1318 end in text: 1340; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Christie' start in text:1332 end in text: 1340; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'leading' start in text:1353 end in text: 1360; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'New York' start in text:1361 end in text: 1369; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'York' start in text:1365 end in text: 1369; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'auction house' start in text:1370 end in text: 1383; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'auction' start in text:1370 end in text: 1377; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'house' start in text:1378 end in text: 1383; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'considering' start in text:1405 end in text: 1416; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'online' start in text:1420 end in text: 1426; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'online auction site' start in text:1420 end in text: 1439; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'online auction' start in text:1420 end in text: 1434; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'auction' start in text:1427 end in text: 1434; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'auction site' start in text:1427 end in text: 1439; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

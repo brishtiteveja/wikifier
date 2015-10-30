@@ -1,0 +1,523 @@
+<ANNOTATION>
+ <b>Actress</b>  <a class="wiki" href="http://en.wikipedia.org/wiki/Brooke_Shields" cat="socialite	person	actor	alumnus	model">Brooke Shields</a>  accepts   <b>libel</b>     <b>damages</b>  ,  <b>apology</b> over false<br><br> Actress   <a class="wiki" href="http://en.wikipedia.org/wiki/Brooke_Shields" cat="socialite	person	actor	alumnus	model">Brooke Shields</a>    on Monday accepted "very substantial''  <b>libel</b>  <b>damages</b> and a public  <b>apology</b> over a  <b>newspaper</b> article alleging that she was questioned by police for two hours in connection with   <b>drug</b>   offenses as she left the   <a class="wiki" href="http://en.wikipedia.org/wiki/Cannes_Film_Festival" cat="festival">Cannes Film Festival</a>   . <br><br>   <a class="wiki" href="http://en.wikipedia.org/wiki/The_Mail_on_Sunday" cat="newspaper">The Mail on Sunday</a>    reported  <a class="wiki" href="http://en.wikipedia.org/wiki/May_24" cat="days">May 24</a>  in an "exclusive'' that began on the  <b>front page</b> and continued on  <b>page three</b> that Miss Shields' luggage was searched and her  <b>flight</b> at the   <a class="wiki" href="http://en.wikipedia.org/wiki/Nice_Côte_d'Azur_Airport" cat="building	airport">Nice Airport</a>    delayed while   <a class="wiki" href="http://en.wikipedia.org/wiki/Law_enforcement_in_France" cat="">French police</a>    quizzed her. <br><br> After the  <b>actress</b> filed  <b>suit</b> against   <a class="wiki" href="http://en.wikipedia.org/wiki/Associated_Newspapers" cat="company	newspaper">Associated Newspapers Ltd</a>   ., the  <b>publisher</b> of  <a class="wiki" href="http://en.wikipedia.org/wiki/The_Mail" cat="">the Mail</a>  on Sunday, the  <b>paper</b>'s  <b>editor</b> and two  <b>Mail</b>  <b>journalists</b>,  <a class="wiki" href="http://en.wikipedia.org/wiki/The_Mail" cat="">the Mail</a>  on Sunday published a front-page apology and   <b>retraction</b>   on  <a class="wiki" href="http://en.wikipedia.org/wiki/May_31" cat="holiday	days">May 31</a> . <br><br> The  <b>retraction</b> said the story was totally false and conceded Miss  <a class="wiki" href="http://en.wikipedia.org/wiki/Shields,_Dodge_County,_Wisconsin" cat="">Shields</a>  had not even been stopped at the  <b>airport</b>. <br><br> "The defendants recognize that Miss  <a class="wiki" href="http://en.wikipedia.org/wiki/Shields,_Dodge_County,_Wisconsin" cat="">Shields</a>  is a staunch and committed  <b>anti-drug</b> campaigner and that she has spent considerable amounts of time supporting   <b>substance abuse</b>  programs and raising much needed  <b>money</b> for  <b>anti-drug</b>  <b>abuse</b> programs,'' said Claire Shields, the defendants' attorney. <br><br> The  <b>newspaper</b>'s front-page article "must therefore have been especially hurtful to her and to her  <b>family</b>,'' the  <b>attorney</b> said. <br><br> The Sunday  <b>paper</b>'s  <b>editor</b>, Jonathan Holborow, has written the  <b>actress</b>, who was not present in  <b>court</b> Monday, a  <b>personal letter</b> of  <b>apology</b>. <br><br> The amount of the damages was not disclosed. <br><br> (kg) <br><br>
+</ANNOTATION>
+*Entity:[Actress,textSpan=(0-10)]	-Disambiguation:(tid=753, Title name=Actor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Actress Brooke Shields,textSpan=(0-25)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Brooke,textSpan=(11-17)]	-Disambiguation:(tid=43595, Title name=Brooke_Shields) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Brooke Shields,textSpan=(11-25)]	-Disambiguation:(tid=43595, Title name=Brooke_Shields) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Shields,textSpan=(18-25)]	-Disambiguation:(tid=43595, Title name=Brooke_Shields) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[libel,textSpan=(35-40)]	-Disambiguation:(tid=28661, Title name=Defamation) gold wikification:=Defamation isCorrectPrediction=Correct
+*Entity:[damages,textSpan=(44-51)]	-Disambiguation:(tid=8134, Title name=Damages) gold wikification:=Damages isCorrectPrediction=Correct
+*Entity:[apology,textSpan=(55-62)]	-Disambiguation:(tid=1600921, Title name=Apology) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[false,textSpan=(68-73)]	-Disambiguation:(tid=228749, Title name=False) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Actress Brooke Shields on Monday,textSpan=(76-111)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Brooke Shields,textSpan=(85-99)]	-Disambiguation:(tid=43595, Title name=Brooke_Shields) gold wikification:=Brooke_Shields isCorrectPrediction=Correct
+*Entity:[Monday,textSpan=(105-111)]	-Disambiguation:(tid=54406, Title name=Monday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[substantial,textSpan=(127-138)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:['',textSpan=(138-140)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[libel,textSpan=(141-146)]	-Disambiguation:(tid=28661, Title name=Defamation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[damages,textSpan=(147-154)]	-Disambiguation:(tid=8134, Title name=Damages) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[public,textSpan=(161-167)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[apology,textSpan=(168-175)]	-Disambiguation:(tid=1600921, Title name=Apology) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a newspaper,textSpan=(181-192)]	-Disambiguation:(tid=759632, Title name=Pensacola_News_Journal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[newspaper,textSpan=(183-192)]	-Disambiguation:(tid=18582335, Title name=Newspaper) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[newspaper article,textSpan=(183-200)]	-Disambiguation:(tid=2633667, Title name=Article_(publishing)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[article,textSpan=(193-200)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[questioned,textSpan=(223-233)]	-Disambiguation:(tid=276872, Title name=Critical_thinking) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[police,textSpan=(237-243)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hours,textSpan=(252-257)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[connection,textSpan=(261-271)]	-Disambiguation:(tid=308815, Title name=Connection_(mathematics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[drug,textSpan=(278-282)]	-Disambiguation:(tid=218449, Title name=Illegal_drug_trade) gold wikification:=Drug isCorrectPrediction=Incorrect
+*Entity:[Cannes Film Festival,textSpan=(311-331)]	-Disambiguation:(tid=101460, Title name=Cannes_Film_Festival) gold wikification:=Cannes_Film_Festival isCorrectPrediction=Correct
+*Entity:[The Mail,textSpan=(339-347)]	-Disambiguation:(tid=8944898, Title name=The_Mail_on_Sunday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The Mail on Sunday,textSpan=(339-357)]	-Disambiguation:(tid=8944898, Title name=The_Mail_on_Sunday) gold wikification:=Daily_Mail isCorrectPrediction=Incorrect
+*Entity:[Mail on Sunday,textSpan=(343-357)]	-Disambiguation:(tid=177181, Title name=Daily_Mail) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mail,textSpan=(343-347)]	-Disambiguation:(tid=177181, Title name=Daily_Mail) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sunday,textSpan=(351-357)]	-Disambiguation:(tid=54407, Title name=Sunday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[May 24,textSpan=(369-375)]	-Disambiguation:(tid=19459, Title name=May_24) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[May,textSpan=(369-372)]	-Disambiguation:(tid=19345, Title name=May) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[24,textSpan=(373-375)]	-Disambiguation:(tid=19459, Title name=May_24) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the front page,textSpan=(409-423)]	-Disambiguation:(tid=6554925, Title name=The_Front_Page_(1931_film)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the front,textSpan=(409-418)]	-Disambiguation:(tid=51499, Title name=Western_Front_(World_War_I)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[front page,textSpan=(413-423)]	-Disambiguation:(tid=1232552, Title name=Front_page) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[page three,textSpan=(441-451)]	-Disambiguation:(tid=207444, Title name=Page_Three) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[searched,textSpan=(483-491)]	-Disambiguation:(tid=31656, Title name=Fourth_Amendment_to_the_United_States_Constitution) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flight,textSpan=(500-506)]	-Disambiguation:(tid=159472, Title name=Flight) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Nice Airport,textSpan=(515-527)]	-Disambiguation:(tid=291627, Title name=Nice_Côte_d'Azur_Airport) gold wikification:=Nice_Côte_d'Azur_Airport isCorrectPrediction=Correct
+*Entity:[French police,textSpan=(545-558)]	-Disambiguation:(tid=1148696, Title name=Law_enforcement_in_France) gold wikification:=National_Police_(France) isCorrectPrediction=Incorrect
+*Entity:[French,textSpan=(545-551)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[police,textSpan=(552-558)]	-Disambiguation:(tid=614023, Title name=National_Police_(France)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the actress,textSpan=(583-594)]	-Disambiguation:(tid=157655, Title name=Prunella_Scales) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[actress,textSpan=(587-594)]	-Disambiguation:(tid=753, Title name=Actor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[suit,textSpan=(601-605)]	-Disambiguation:(tid=113258, Title name=Lawsuit) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Associated Newspapers,textSpan=(615-636)]	-Disambiguation:(tid=714372, Title name=Associated_Newspapers) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Associated Newspapers Ltd,textSpan=(615-640)]	-Disambiguation:(tid=714372, Title name=Associated_Newspapers) gold wikification:=Associated_Newspapers isCorrectPrediction=Correct
+*Entity:[Associated,textSpan=(615-625)]	-Disambiguation:(tid=2873367, Title name=Associated_Electrics) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Newspapers,textSpan=(626-636)]	-Disambiguation:(tid=18582335, Title name=Newspaper) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the publisher,textSpan=(645-658)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[publisher,textSpan=(649-658)]	-Disambiguation:(tid=68761, Title name=Publishing) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the Mail,textSpan=(662-670)]	-Disambiguation:(tid=3658264, Title name=The_Mail) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mail on Sunday,textSpan=(666-680)]	-Disambiguation:(tid=8944898, Title name=The_Mail_on_Sunday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mail,textSpan=(666-670)]	-Disambiguation:(tid=8944898, Title name=The_Mail_on_Sunday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sunday,textSpan=(674-680)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the paper,textSpan=(682-691)]	-Disambiguation:(tid=18582335, Title name=Newspaper) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[paper,textSpan=(686-691)]	-Disambiguation:(tid=18582335, Title name=Newspaper) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[editor,textSpan=(694-700)]	-Disambiguation:(tid=167897, Title name=Editing) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mail,textSpan=(709-713)]	-Disambiguation:(tid=177181, Title name=Daily_Mail) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[journalists,textSpan=(714-725)]	-Disambiguation:(tid=50100, Title name=Journalist) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the Mail,textSpan=(727-735)]	-Disambiguation:(tid=3658264, Title name=The_Mail) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mail,textSpan=(731-735)]	-Disambiguation:(tid=8944898, Title name=The_Mail_on_Sunday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mail on Sunday,textSpan=(731-745)]	-Disambiguation:(tid=8944898, Title name=The_Mail_on_Sunday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sunday,textSpan=(739-745)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[retraction,textSpan=(782-792)]	-Disambiguation:(tid=582691, Title name=Retraction) gold wikification:=Retraction isCorrectPrediction=Correct
+*Entity:[May 31,textSpan=(798-804)]	-Disambiguation:(tid=19653, Title name=May_31) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[May,textSpan=(798-801)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[31,textSpan=(802-804)]	-Disambiguation:(tid=19653, Title name=May_31) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[retraction,textSpan=(813-823)]	-Disambiguation:(tid=582691, Title name=Retraction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the story,textSpan=(829-838)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[story,textSpan=(833-838)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[totally,textSpan=(843-850)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Miss Shields,textSpan=(870-882)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Miss,textSpan=(870-874)]	-Disambiguation:(tid=565973, Title name=Miss) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Shields,textSpan=(875-882)]	-Disambiguation:(tid=138951, Title name=Shields,_Dodge_County,_Wisconsin) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[stopped,textSpan=(901-908)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the airport,textSpan=(912-923)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airport,textSpan=(916-923)]	-Disambiguation:(tid=37575, Title name=Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Miss Shields,textSpan=(959-971)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Miss,textSpan=(959-963)]	-Disambiguation:(tid=565973, Title name=Miss) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Shields,textSpan=(964-971)]	-Disambiguation:(tid=138951, Title name=Shields,_Dodge_County,_Wisconsin) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[staunch,textSpan=(977-984)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[committed,textSpan=(989-998)]	-Disambiguation:(tid=15416, Title name=Involuntary_commitment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[anti-drug,textSpan=(999-1008)]	-Disambiguation:(tid=51036, Title name=Prohibition_of_drugs) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[campaigner,textSpan=(1009-1019)]	-Disambiguation:(tid=2242, Title name=Activism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[spent,textSpan=(1037-1042)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[amounts,textSpan=(1056-1063)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[time,textSpan=(1067-1071)]	-Disambiguation:(tid=30012, Title name=Time) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[substance abuse,textSpan=(1084-1099)]	-Disambiguation:(tid=256038, Title name=Substance_abuse) gold wikification:=Substance_abuse isCorrectPrediction=Correct
+*Entity:[needed money,textSpan=(1127-1139)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[money,textSpan=(1134-1139)]	-Disambiguation:(tid=8983183, Title name=Money) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[anti-drug,textSpan=(1144-1153)]	-Disambiguation:(tid=51036, Title name=Prohibition_of_drugs) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[abuse,textSpan=(1154-1159)]	-Disambiguation:(tid=424739, Title name=Abuse) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[programs,textSpan=(1160-1168)]	-Disambiguation:(tid=23771, Title name=Program) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Claire,textSpan=(1177-1183)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Claire Shields,textSpan=(1177-1191)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Shields,textSpan=(1184-1191)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The newspaper,textSpan=(1222-1235)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[newspaper,textSpan=(1226-1235)]	-Disambiguation:(tid=18582335, Title name=Newspaper) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[front-page,textSpan=(1238-1248)]	-Disambiguation:(tid=1232552, Title name=Front_page) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[article,textSpan=(1249-1256)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[have been,textSpan=(1273-1282)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[especially,textSpan=(1283-1293)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[her family,textSpan=(1316-1326)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[family,textSpan=(1320-1326)]	-Disambiguation:(tid=56276, Title name=Family_(biology)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[attorney,textSpan=(1334-1342)]	-Disambiguation:(tid=168902, Title name=Attorney_at_law) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sunday,textSpan=(1356-1362)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[paper,textSpan=(1363-1368)]	-Disambiguation:(tid=18582335, Title name=Newspaper) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[editor,textSpan=(1371-1377)]	-Disambiguation:(tid=167897, Title name=Editing) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jonathan,textSpan=(1379-1387)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jonathan Holborow,textSpan=(1379-1396)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[written,textSpan=(1402-1409)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the actress,textSpan=(1410-1421)]	-Disambiguation:(tid=157655, Title name=Prunella_Scales) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[actress,textSpan=(1414-1421)]	-Disambiguation:(tid=753, Title name=Actor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[court,textSpan=(1446-1451)]	-Disambiguation:(tid=75358, Title name=Court) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Monday,textSpan=(1452-1458)]	-Disambiguation:(tid=54406, Title name=Monday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[personal,textSpan=(1462-1470)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[personal letter,textSpan=(1462-1477)]	-Disambiguation:(tid=5139111, Title name=Mahmoud_Ahmadinejad's_letter_to_George_W._Bush) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[letter,textSpan=(1471-1477)]	-Disambiguation:(tid=995678, Title name=Letter) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[apology,textSpan=(1481-1488)]	-Disambiguation:(tid=1600921, Title name=Apology) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[damages,textSpan=(1511-1518)]	-Disambiguation:(tid=8134, Title name=Damages) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[disclosed,textSpan=(1527-1536)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Actress' start in text:0 end in text: 10; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Actress Brooke Shields' start in text:0 end in text: 25; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Brooke' start in text:11 end in text: 17; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Brooke Shields' start in text:11 end in text: 25; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Shields' start in text:18 end in text: 25; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'libel' start in text:35 end in text: 40; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'damages' start in text:44 end in text: 51; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'apology' start in text:55 end in text: 62; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'false' start in text:68 end in text: 73; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Actress Brooke Shields on Monday' start in text:76 end in text: 111; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Brooke Shields' start in text:85 end in text: 99; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Monday' start in text:105 end in text: 111; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'substantial' start in text:127 end in text: 138; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '''' start in text:138 end in text: 140; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'libel' start in text:141 end in text: 146; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'damages' start in text:147 end in text: 154; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'public' start in text:161 end in text: 167; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'apology' start in text:168 end in text: 175; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a newspaper' start in text:181 end in text: 192; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'newspaper' start in text:183 end in text: 192; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'newspaper article' start in text:183 end in text: 200; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'article' start in text:193 end in text: 200; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'questioned' start in text:223 end in text: 233; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'police' start in text:237 end in text: 243; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hours' start in text:252 end in text: 257; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'connection' start in text:261 end in text: 271; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'drug' start in text:278 end in text: 282; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cannes Film Festival' start in text:311 end in text: 331; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The Mail' start in text:339 end in text: 347; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The Mail on Sunday' start in text:339 end in text: 357; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mail on Sunday' start in text:343 end in text: 357; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mail' start in text:343 end in text: 347; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sunday' start in text:351 end in text: 357; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'May 24' start in text:369 end in text: 375; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'May' start in text:369 end in text: 372; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '24' start in text:373 end in text: 375; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the front page' start in text:409 end in text: 423; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the front' start in text:409 end in text: 418; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'front page' start in text:413 end in text: 423; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'page three' start in text:441 end in text: 451; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'searched' start in text:483 end in text: 491; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flight' start in text:500 end in text: 506; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Nice Airport' start in text:515 end in text: 527; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'French police' start in text:545 end in text: 558; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'French' start in text:545 end in text: 551; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'police' start in text:552 end in text: 558; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the actress' start in text:583 end in text: 594; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'actress' start in text:587 end in text: 594; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'suit' start in text:601 end in text: 605; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Associated Newspapers' start in text:615 end in text: 636; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Associated Newspapers Ltd' start in text:615 end in text: 640; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Associated' start in text:615 end in text: 625; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Newspapers' start in text:626 end in text: 636; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the publisher' start in text:645 end in text: 658; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'publisher' start in text:649 end in text: 658; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the Mail' start in text:662 end in text: 670; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Mail on Sunday' start in text:666 end in text: 680; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mail' start in text:666 end in text: 670; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sunday' start in text:674 end in text: 680; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the paper' start in text:682 end in text: 691; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'paper' start in text:686 end in text: 691; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'editor' start in text:694 end in text: 700; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mail' start in text:709 end in text: 713; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'journalists' start in text:714 end in text: 725; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the Mail' start in text:727 end in text: 735; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Mail' start in text:731 end in text: 735; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mail on Sunday' start in text:731 end in text: 745; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sunday' start in text:739 end in text: 745; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'retraction' start in text:782 end in text: 792; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'May 31' start in text:798 end in text: 804; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'May' start in text:798 end in text: 801; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '31' start in text:802 end in text: 804; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'retraction' start in text:813 end in text: 823; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the story' start in text:829 end in text: 838; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'story' start in text:833 end in text: 838; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'totally' start in text:843 end in text: 850; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Miss Shields' start in text:870 end in text: 882; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Miss' start in text:870 end in text: 874; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Shields' start in text:875 end in text: 882; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'stopped' start in text:901 end in text: 908; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the airport' start in text:912 end in text: 923; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airport' start in text:916 end in text: 923; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Miss Shields' start in text:959 end in text: 971; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Miss' start in text:959 end in text: 963; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Shields' start in text:964 end in text: 971; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'staunch' start in text:977 end in text: 984; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'committed' start in text:989 end in text: 998; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'anti-drug' start in text:999 end in text: 1008; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'campaigner' start in text:1009 end in text: 1019; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'spent' start in text:1037 end in text: 1042; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'amounts' start in text:1056 end in text: 1063; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'time' start in text:1067 end in text: 1071; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'substance abuse' start in text:1084 end in text: 1099; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'needed money' start in text:1127 end in text: 1139; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'money' start in text:1134 end in text: 1139; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'anti-drug' start in text:1144 end in text: 1153; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'abuse' start in text:1154 end in text: 1159; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'programs' start in text:1160 end in text: 1168; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Claire' start in text:1177 end in text: 1183; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Claire Shields' start in text:1177 end in text: 1191; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Shields' start in text:1184 end in text: 1191; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The newspaper' start in text:1222 end in text: 1235; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'newspaper' start in text:1226 end in text: 1235; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'front-page' start in text:1238 end in text: 1248; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'article' start in text:1249 end in text: 1256; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'have been' start in text:1273 end in text: 1282; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'especially' start in text:1283 end in text: 1293; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'her family' start in text:1316 end in text: 1326; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'family' start in text:1320 end in text: 1326; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'attorney' start in text:1334 end in text: 1342; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sunday' start in text:1356 end in text: 1362; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'paper' start in text:1363 end in text: 1368; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'editor' start in text:1371 end in text: 1377; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jonathan' start in text:1379 end in text: 1387; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jonathan Holborow' start in text:1379 end in text: 1396; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'written' start in text:1402 end in text: 1409; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the actress' start in text:1410 end in text: 1421; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'actress' start in text:1414 end in text: 1421; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'court' start in text:1446 end in text: 1451; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Monday' start in text:1452 end in text: 1458; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'personal' start in text:1462 end in text: 1470; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'personal letter' start in text:1462 end in text: 1477; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'letter' start in text:1471 end in text: 1477; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'apology' start in text:1481 end in text: 1488; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'damages' start in text:1511 end in text: 1518; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'disclosed' start in text:1527 end in text: 1536; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

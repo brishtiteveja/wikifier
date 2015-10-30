@@ -1,0 +1,1908 @@
+<WikifierOutput>
+<InputFilename>
+PRI20001122.2000.0320
+</InputFilename>
+<InputText>
+ The Palestinian faction headed by Yasser Arafat said today that, it will avenge the deaths of four of its members who were killed today by Israeli soldiers. Later in the day, a car bombing in the Northern Israeli town of Hadera, killed two people and injured at least 50. Israeli Prime Minister Ehud Barak said he would retaliate. Corey Flintoff, NPR news, Washington.  
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>The Palestinian</EntitySurfaceForm>
+	<EntityTextStart>1</EntityTextStart>
+	<EntityTextEnd>16</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Palestinian</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian</EntitySurfaceForm>
+	<EntityTextStart>5</EntityTextStart>
+	<EntityTextEnd>16</EntityTextEnd>
+	<LinkerScore>0.2880688780063851</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestine_Liberation_Organization</WikiTitle>
+		<WikiTitleID>24324</WikiTitleID>
+		<RankerScore>0.6113881070470671</RankerScore>
+		<Attributes>politics	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_people</WikiTitle> <WikiTitleID>23267</WikiTitleID> <RankerScore>0.16045488459175694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>6.261061412210804E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.22709262792110002</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>6.261061412210804E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Arabic</WikiTitle> <WikiTitleID>610643</WikiTitleID> <RankerScore>6.261061412210804E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Jews</WikiTitle> <WikiTitleID>4533719</WikiTitleID> <RankerScore>6.261061412210804E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Definitions_of_Palestine</WikiTitle> <WikiTitleID>608152</WikiTitleID> <RankerScore>6.261061412210804E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_American</WikiTitle> <WikiTitleID>7607942</WikiTitleID> <RankerScore>6.261061412210804E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Palestine</WikiTitle> <WikiTitleID>416081</WikiTitleID> <RankerScore>6.261061412210804E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_cuisine</WikiTitle> <WikiTitleID>11146241</WikiTitleID> <RankerScore>6.261061412210804E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine_Liberation_Organization</WikiTitle> <WikiTitleID>24324</WikiTitleID> <RankerScore>0.6113881070470671</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mandatory_Palestine</WikiTitle> <WikiTitleID>63922</WikiTitleID> <RankerScore>6.261061412210804E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_refugee</WikiTitle> <WikiTitleID>74681</WikiTitleID> <RankerScore>6.261061412210804E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab–Israeli_conflict</WikiTitle> <WikiTitleID>7960202</WikiTitleID> <RankerScore>6.261061412210804E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposals_for_a_Palestinian_state</WikiTitle> <WikiTitleID>48276</WikiTitleID> <RankerScore>6.261061412210804E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Palestine</WikiTitle> <WikiTitleID>13801</WikiTitleID> <RankerScore>6.261061412210804E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arabic_literature</WikiTitle> <WikiTitleID>462469</WikiTitleID> <RankerScore>6.261061412210804E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_citizens_of_Israel</WikiTitle> <WikiTitleID>492331</WikiTitleID> <RankerScore>6.261061412210804E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Front_for_the_Liberation_of_Palestine_–_External_Operations</WikiTitle> <WikiTitleID>3235558</WikiTitleID> <RankerScore>6.261061412210804E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Palestine</WikiTitle> <WikiTitleID>9763138</WikiTitleID> <RankerScore>6.261061412210804E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>faction</EntitySurfaceForm>
+	<EntityTextStart>17</EntityTextStart>
+	<EntityTextEnd>24</EntityTextEnd>
+	<LinkerScore>1.6322690323103681</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Political_faction</WikiTitle>
+		<WikiTitleID>713312</WikiTitleID>
+		<RankerScore>0.6664879652131669</RankerScore>
+		<Attributes>politics	faction</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Political_faction</WikiTitle> <WikiTitleID>713312</WikiTitleID> <RankerScore>0.6664879652131669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Faction</WikiTitle> <WikiTitleID>375088</WikiTitleID> <RankerScore>0.062474397503731134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Non-fiction_novel</WikiTitle> <WikiTitleID>1988207</WikiTitleID> <RankerScore>0.06980314450823603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mouvement_National_Congolais</WikiTitle> <WikiTitleID>3208947</WikiTitleID> <RankerScore>0.040246898554973196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bedfordite</WikiTitle> <WikiTitleID>4299227</WikiTitleID> <RankerScore>0.040246898554973196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_Socialist_Union_(Syria)</WikiTitle> <WikiTitleID>2668262</WikiTitleID> <RankerScore>0.040246898554973196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Faction_(Planescape)</WikiTitle> <WikiTitleID>1988208</WikiTitleID> <RankerScore>0.040246898554973196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Church_of_Jesus_Christ_of_Latter_Day_Saints_(Strangite)</WikiTitle> <WikiTitleID>389987</WikiTitleID> <RankerScore>0.040246898554973196</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yasser Arafat</EntitySurfaceForm>
+	<EntityTextStart>35</EntityTextStart>
+	<EntityTextEnd>48</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Yasser_Arafat</WikiTitle>
+		<WikiTitleID>34289</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>survivor	member	muslim	alumnus	recipient	president	person	engineer	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Yasser_Arafat</WikiTitle> <WikiTitleID>34289</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yasser</EntitySurfaceForm>
+	<EntityTextStart>35</EntityTextStart>
+	<EntityTextEnd>41</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Yasser_Arafat</WikiTitle>
+		<WikiTitleID>34289</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>survivor	member	muslim	alumnus	recipient	president	person	engineer	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Yasser_Hashemi_Rafsanjani</WikiTitle> <WikiTitleID>1591749</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Arafat</EntitySurfaceForm>
+	<EntityTextStart>42</EntityTextStart>
+	<EntityTextEnd>48</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Yasser_Arafat</WikiTitle>
+		<WikiTitleID>34289</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>survivor	member	muslim	alumnus	recipient	president	person	engineer	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arafat</WikiTitle> <WikiTitleID>303576</WikiTitleID> <RankerScore>0.019449372595113985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yasser_Arafat</WikiTitle> <WikiTitleID>34289</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mount_Arafat</WikiTitle> <WikiTitleID>1161193</WikiTitleID> <RankerScore>0.003044131944539601</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>today</EntitySurfaceForm>
+	<EntityTextStart>54</EntityTextStart>
+	<EntityTextEnd>59</EntityTextEnd>
+	<LinkerScore>0.7368840924898379</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2007</WikiTitle>
+		<WikiTitleID>36165</WikiTitleID>
+		<RankerScore>0.35647620645977146</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2007</WikiTitle> <WikiTitleID>36165</WikiTitleID> <RankerScore>0.35647620645977146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008</WikiTitle> <WikiTitleID>35825</WikiTitleID> <RankerScore>0.13709489989744084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006</WikiTitle> <WikiTitleID>36164</WikiTitleID> <RankerScore>0.17732172562067694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005</WikiTitle> <WikiTitleID>35984</WikiTitleID> <RankerScore>0.02991883345655551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004</WikiTitle> <WikiTitleID>35524</WikiTitleID> <RankerScore>0.02991883345655551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Today</WikiTitle> <WikiTitleID>206960</WikiTitleID> <RankerScore>0.02991883345655551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Presentism_(literary_and_historical_analysis)</WikiTitle> <WikiTitleID>2687740</WikiTitleID> <RankerScore>0.02991883345655551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000s</WikiTitle> <WikiTitleID>34579</WikiTitleID> <RankerScore>0.02991883345655551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modern_architecture</WikiTitle> <WikiTitleID>315927</WikiTitleID> <RankerScore>0.02991883345655551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1994</WikiTitle> <WikiTitleID>34663</WikiTitleID> <RankerScore>0.02991883345655551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Limburg-Stirum</WikiTitle> <WikiTitleID>9895884</WikiTitleID> <RankerScore>0.02991883345655551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>November_2007</WikiTitle> <WikiTitleID>9853055</WikiTitleID> <RankerScore>0.02991883345655551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Finmark</WikiTitle> <WikiTitleID>12599914</WikiTitleID> <RankerScore>0.02991883345655551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>July_2008</WikiTitle> <WikiTitleID>13292309</WikiTitleID> <RankerScore>0.02991883345655551</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>avenge</EntitySurfaceForm>
+	<EntityTextStart>74</EntityTextStart>
+	<EntityTextEnd>80</EntityTextEnd>
+	<LinkerScore>1.003215175691347</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Revenge</WikiTitle>
+		<WikiTitleID>181361</WikiTitleID>
+		<RankerScore>0.6659332922741708</RankerScore>
+		<Attributes>issue</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Revenge</WikiTitle> <WikiTitleID>181361</WikiTitleID> <RankerScore>0.6659332922741708</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Avenger</WikiTitle> <WikiTitleID>1402747</WikiTitleID> <RankerScore>0.1986920760740461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vengeance</WikiTitle> <WikiTitleID>620471</WikiTitleID> <RankerScore>0.1353746316517831</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the deaths</EntitySurfaceForm>
+	<EntityTextStart>81</EntityTextStart>
+	<EntityTextEnd>91</EntityTextEnd>
+	<LinkerScore>2.400903553428171</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Apollo_1</WikiTitle>
+		<WikiTitleID>1965</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>accident	disaster</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Apollo_1</WikiTitle> <WikiTitleID>1965</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>deaths</EntitySurfaceForm>
+	<EntityTextStart>85</EntityTextStart>
+	<EntityTextEnd>91</EntityTextEnd>
+	<LinkerScore>1.5322649990183084</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Munich_massacre</WikiTitle>
+		<WikiTitleID>20989</WikiTitleID>
+		<RankerScore>0.9515345424336481</RankerScore>
+		<Attributes>controversy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Death</WikiTitle> <WikiTitleID>8221</WikiTitleID> <RankerScore>0.02339177660896821</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Day_the_Music_Died</WikiTitle> <WikiTitleID>58796</WikiTitleID> <RankerScore>0.004586447326723957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Casualty_(person)</WikiTitle> <WikiTitleID>3008938</WikiTitleID> <RankerScore>0.006727891650487927</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Death_of_Diana,_Princess_of_Wales</WikiTitle> <WikiTitleID>4786934</WikiTitleID> <RankerScore>0.004586447326723957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Female_homicides_in_Ciudad_Juárez</WikiTitle> <WikiTitleID>216590</WikiTitleID> <RankerScore>0.004586447326723957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Munich_massacre</WikiTitle> <WikiTitleID>20989</WikiTitleID> <RankerScore>0.9515345424336481</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Final_Destination_2</WikiTitle> <WikiTitleID>1128240</WikiTitleID> <RankerScore>0.004586447326723957</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>members</EntitySurfaceForm>
+	<EntityTextStart>107</EntityTextStart>
+	<EntityTextEnd>114</EntityTextEnd>
+	<LinkerScore>-0.765270186997485</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Member_of_Parliament</WikiTitle>
+		<WikiTitleID>98066</WikiTitleID>
+		<RankerScore>0.09118296182149227</RankerScore>
+		<Attributes>legislator</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Member_of_Parliament</WikiTitle> <WikiTitleID>98066</WikiTitleID> <RankerScore>0.09118296182149227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Member_of_the_European_Parliament</WikiTitle> <WikiTitleID>258909</WikiTitleID> <RankerScore>0.05161102275357912</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Geological_unit</WikiTitle> <WikiTitleID>1162170</WikiTitleID> <RankerScore>0.05232106522144709</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Member_state_of_the_European_Union</WikiTitle> <WikiTitleID>10890716</WikiTitleID> <RankerScore>0.047346173541381265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Member</WikiTitle> <WikiTitleID>1140904</WikiTitleID> <RankerScore>0.047346173541381265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Element_(mathematics)</WikiTitle> <WikiTitleID>682629</WikiTitleID> <RankerScore>0.047346173541381265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Social_group</WikiTitle> <WikiTitleID>191253</WikiTitleID> <RankerScore>0.047346173541381265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Instance_variable</WikiTitle> <WikiTitleID>169629</WikiTitleID> <RankerScore>0.047346173541381265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Method_(computer_programming)</WikiTitle> <WikiTitleID>232817</WikiTitleID> <RankerScore>0.047346173541381265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Member_of_the_Provincial_Assembly</WikiTitle> <WikiTitleID>14510429</WikiTitleID> <RankerScore>0.047346173541381265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_members_of_the_Council_of_Representatives_of_Iraq,_2005–2010</WikiTitle> <WikiTitleID>4710266</WikiTitleID> <RankerScore>0.047346173541381265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_CISAC_members</WikiTitle> <WikiTitleID>2899776</WikiTitleID> <RankerScore>0.047346173541381265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Groupthink</WikiTitle> <WikiTitleID>62257</WikiTitleID> <RankerScore>0.047346173541381265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Members_of_the_House_of_Lords</WikiTitle> <WikiTitleID>269064</WikiTitleID> <RankerScore>0.047346173541381265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legislator</WikiTitle> <WikiTitleID>661622</WikiTitleID> <RankerScore>0.047346173541381265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Member_of_Congress</WikiTitle> <WikiTitleID>223225</WikiTitleID> <RankerScore>0.047346173541381265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Penis</WikiTitle> <WikiTitleID>17322701</WikiTitleID> <RankerScore>0.047346173541381265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saab_96</WikiTitle> <WikiTitleID>18469693</WikiTitleID> <RankerScore>0.047346173541381265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_BIEM_members</WikiTitle> <WikiTitleID>2899646</WikiTitleID> <RankerScore>0.047346173541381265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rudd_Ministry</WikiTitle> <WikiTitleID>14397536</WikiTitleID> <RankerScore>0.047346173541381265</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>killed</EntitySurfaceForm>
+	<EntityTextStart>124</EntityTextStart>
+	<EntityTextEnd>130</EntityTextEnd>
+	<LinkerScore>1.976290603268047</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Munich_massacre</WikiTitle>
+		<WikiTitleID>20989</WikiTitleID>
+		<RankerScore>0.9858442661793797</RankerScore>
+		<Attributes>controversy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Killed_in_action</WikiTitle> <WikiTitleID>368513</WikiTitleID> <RankerScore>0.00196612958990626</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kill</WikiTitle> <WikiTitleID>437432</WikiTitleID> <RankerScore>4.7044413107926174E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Death_of_Joseph_Smith</WikiTitle> <WikiTitleID>9045538</WikiTitleID> <RankerScore>4.7044413107926174E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Murder</WikiTitle> <WikiTitleID>20171</WikiTitleID> <RankerScore>4.7044413107926174E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Death</WikiTitle> <WikiTitleID>8221</WikiTitleID> <RankerScore>4.7044413107926174E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Well_kill</WikiTitle> <WikiTitleID>10420935</WikiTitleID> <RankerScore>4.7044413107926174E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kill_(command)</WikiTitle> <WikiTitleID>940594</WikiTitleID> <RankerScore>4.7044413107926174E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Assassination_of_Juvénal_Habyarimana_and_Cyprien_Ntaryamira</WikiTitle> <WikiTitleID>11639523</WikiTitleID> <RankerScore>4.7044413107926174E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operation_Flavius</WikiTitle> <WikiTitleID>422111</WikiTitleID> <RankerScore>0.004192054002366638</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Munich_massacre</WikiTitle> <WikiTitleID>20989</WikiTitleID> <RankerScore>0.9858442661793797</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lynching</WikiTitle> <WikiTitleID>100416</WikiTitleID> <RankerScore>4.7044413107926174E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yangju_highway_incident</WikiTitle> <WikiTitleID>18216117</WikiTitleID> <RankerScore>4.7044413107926174E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Retroactive_continuity</WikiTitle> <WikiTitleID>26400</WikiTitleID> <RankerScore>4.7044413107926174E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_unusual_deaths</WikiTitle> <WikiTitleID>656245</WikiTitleID> <RankerScore>4.7044413107926174E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_Armed_Forces_casualties_in_Afghanistan</WikiTitle> <WikiTitleID>12378453</WikiTitleID> <RankerScore>4.7044413107926174E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Ctesiphon_(363)</WikiTitle> <WikiTitleID>3448147</WikiTitleID> <RankerScore>4.7044413107926174E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Impediment_of_Crime</WikiTitle> <WikiTitleID>5237080</WikiTitleID> <RankerScore>4.7044413107926174E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_War_II_casualties</WikiTitle> <WikiTitleID>240900</WikiTitleID> <RankerScore>4.7044413107926174E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collateral_damage</WikiTitle> <WikiTitleID>136560</WikiTitleID> <RankerScore>4.7044413107926174E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roadkill</WikiTitle> <WikiTitleID>261105</WikiTitleID> <RankerScore>4.7044413107926174E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>today</EntitySurfaceForm>
+	<EntityTextStart>131</EntityTextStart>
+	<EntityTextEnd>136</EntityTextEnd>
+	<LinkerScore>-0.7219012693608653</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2007</WikiTitle>
+		<WikiTitleID>36165</WikiTitleID>
+		<RankerScore>0.3493337437046163</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2007</WikiTitle> <WikiTitleID>36165</WikiTitleID> <RankerScore>0.3493337437046163</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008</WikiTitle> <WikiTitleID>35825</WikiTitleID> <RankerScore>0.1303982305988058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006</WikiTitle> <WikiTitleID>36164</WikiTitleID> <RankerScore>0.18983961577761116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005</WikiTitle> <WikiTitleID>35984</WikiTitleID> <RankerScore>0.03003894635626971</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004</WikiTitle> <WikiTitleID>35524</WikiTitleID> <RankerScore>0.03003894635626971</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Today</WikiTitle> <WikiTitleID>206960</WikiTitleID> <RankerScore>0.03003894635626971</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Presentism_(literary_and_historical_analysis)</WikiTitle> <WikiTitleID>2687740</WikiTitleID> <RankerScore>0.03003894635626971</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000s</WikiTitle> <WikiTitleID>34579</WikiTitleID> <RankerScore>0.03003894635626971</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modern_architecture</WikiTitle> <WikiTitleID>315927</WikiTitleID> <RankerScore>0.03003894635626971</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1994</WikiTitle> <WikiTitleID>34663</WikiTitleID> <RankerScore>0.03003894635626971</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Limburg-Stirum</WikiTitle> <WikiTitleID>9895884</WikiTitleID> <RankerScore>0.03003894635626971</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>November_2007</WikiTitle> <WikiTitleID>9853055</WikiTitleID> <RankerScore>0.03003894635626971</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Finmark</WikiTitle> <WikiTitleID>12599914</WikiTitleID> <RankerScore>0.03003894635626971</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>July_2008</WikiTitle> <WikiTitleID>13292309</WikiTitleID> <RankerScore>0.03003894635626971</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli</EntitySurfaceForm>
+	<EntityTextStart>140</EntityTextStart>
+	<EntityTextEnd>147</EntityTextEnd>
+	<LinkerScore>0.4974348138142315</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israelis</WikiTitle>
+		<WikiTitleID>181296</WikiTitleID>
+		<RankerScore>0.45987401393400196</RankerScore>
+		<Attributes>person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.45987401393400196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.35766651269881783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_literature</WikiTitle> <WikiTitleID>524317</WikiTitleID> <RankerScore>2.3347224572398654E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.17849044518987242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Israel</WikiTitle> <WikiTitleID>8561774</WikiTitleID> <RankerScore>2.3347224572398654E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Air_Force</WikiTitle> <WikiTitleID>177619</WikiTitleID> <RankerScore>2.3347224572398654E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_football_team</WikiTitle> <WikiTitleID>769536</WikiTitleID> <RankerScore>2.3347224572398654E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_(newspaper)</WikiTitle> <WikiTitleID>5324800</WikiTitleID> <RankerScore>2.3347224572398654E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Navy</WikiTitle> <WikiTitleID>1370788</WikiTitleID> <RankerScore>2.3347224572398654E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_cuisine</WikiTitle> <WikiTitleID>11447140</WikiTitleID> <RankerScore>2.3347224572398654E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Premier_League</WikiTitle> <WikiTitleID>7233082</WikiTitleID> <RankerScore>2.3347224572398654E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IAF</WikiTitle> <WikiTitleID>422666</WikiTitleID> <RankerScore>2.3347224572398654E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_literature</WikiTitle> <WikiTitleID>2432783</WikiTitleID> <RankerScore>2.3347224572398654E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_language</WikiTitle> <WikiTitleID>13450</WikiTitleID> <RankerScore>2.3347224572398654E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Israel</WikiTitle> <WikiTitleID>413617</WikiTitleID> <RankerScore>2.3347224572398654E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Israelis</WikiTitle> <WikiTitleID>422068</WikiTitleID> <RankerScore>2.3347224572398654E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_settlement</WikiTitle> <WikiTitleID>15123</WikiTitleID> <RankerScore>2.3347224572398654E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hatikvah</WikiTitle> <WikiTitleID>189968</WikiTitleID> <RankerScore>2.3347224572398654E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Israel</WikiTitle> <WikiTitleID>459004</WikiTitleID> <RankerScore>2.3347224572398654E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_views_on_the_peace_process</WikiTitle> <WikiTitleID>10838363</WikiTitleID> <RankerScore>2.3347224572398654E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli soldiers</EntitySurfaceForm>
+	<EntityTextStart>140</EntityTextStart>
+	<EntityTextEnd>156</EntityTextEnd>
+	<LinkerScore>3.5791608383734728</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israel_Defense_Forces</WikiTitle>
+		<WikiTitleID>39237</WikiTitleID>
+		<RankerScore>0.9950555887185049</RankerScore>
+		<Attributes>dispute	recipient	relations	unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.9950555887185049</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IDF</WikiTitle> <WikiTitleID>15478</WikiTitleID> <RankerScore>0.004944411281495074</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>soldiers</EntitySurfaceForm>
+	<EntityTextStart>148</EntityTextStart>
+	<EntityTextEnd>156</EntityTextEnd>
+	<LinkerScore>3.0290826673674474</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israel_Defense_Forces</WikiTitle>
+		<WikiTitleID>39237</WikiTitleID>
+		<RankerScore>0.9944389331924947</RankerScore>
+		<Attributes>dispute	recipient	relations	unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.9944389331924947</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IDF</WikiTitle> <WikiTitleID>15478</WikiTitleID> <RankerScore>0.0055610668075053655</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the day</EntitySurfaceForm>
+	<EntityTextStart>167</EntityTextStart>
+	<EntityTextEnd>174</EntityTextEnd>
+	<LinkerScore>2.3119201434698753</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>24_(season_5)</WikiTitle>
+		<WikiTitleID>3819091</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>season</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>24_(season_5)</WikiTitle> <WikiTitleID>3819091</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>day</EntitySurfaceForm>
+	<EntityTextStart>171</EntityTextStart>
+	<EntityTextEnd>174</EntityTextEnd>
+	<LinkerScore>1.8902775292302634</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Day</WikiTitle>
+		<WikiTitleID>8376</WikiTitleID>
+		<RankerScore>0.3979019339335635</RankerScore>
+		<Attributes>unit	order</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Day</WikiTitle> <WikiTitleID>8376</WikiTitleID> <RankerScore>0.3979019339335635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_school</WikiTitle> <WikiTitleID>951256</WikiTitleID> <RankerScore>0.0892706674768316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daylight</WikiTitle> <WikiTitleID>2301573</WikiTitleID> <RankerScore>0.04018954662714226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>February_8</WikiTitle> <WikiTitleID>11360</WikiTitleID> <RankerScore>0.03055283906389782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Era</WikiTitle> <WikiTitleID>9758</WikiTitleID> <RankerScore>0.04018954662714226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_Roman_Calendar</WikiTitle> <WikiTitleID>4754431</WikiTitleID> <RankerScore>0.04018954662714226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_fighter</WikiTitle> <WikiTitleID>178656</WikiTitleID> <RankerScore>0.04018954662714226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_15</WikiTitle> <WikiTitleID>8145</WikiTitleID> <RankerScore>0.04018954662714226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surface_wave</WikiTitle> <WikiTitleID>41763</WikiTitleID> <RankerScore>0.04018954662714226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calendar_of_saints</WikiTitle> <WikiTitleID>180283</WikiTitleID> <RankerScore>0.04018954662714226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daytime_(astronomy)</WikiTitle> <WikiTitleID>10304194</WikiTitleID> <RankerScore>0.04018954662714226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diurnality</WikiTitle> <WikiTitleID>3104473</WikiTitleID> <RankerScore>0.04018954662714226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Working_time</WikiTitle> <WikiTitleID>552168</WikiTitleID> <RankerScore>0.04018954662714226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_22</WikiTitle> <WikiTitleID>1710</WikiTitleID> <RankerScore>0.04018954662714226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victory_in_Europe_Day</WikiTitle> <WikiTitleID>215257</WikiTitleID> <RankerScore>0.04018954662714226</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>a car</EntitySurfaceForm>
+	<EntityTextStart>176</EntityTextStart>
+	<EntityTextEnd>181</EntityTextEnd>
+	<LinkerScore>-1.961923284208282</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chevrolet_Camaro_(first_generation)</WikiTitle>
+		<WikiTitleID>9131254</WikiTitleID>
+		<RankerScore>0.5190048976969395</RankerScore>
+		<Attributes>automobile	car	vehicle	convertible</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Star_(automobile)</WikiTitle> <WikiTitleID>1457699</WikiTitleID> <RankerScore>0.48099510230306053</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chevrolet_Camaro_(first_generation)</WikiTitle> <WikiTitleID>9131254</WikiTitleID> <RankerScore>0.5190048976969395</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>car bombing</EntitySurfaceForm>
+	<EntityTextStart>178</EntityTextStart>
+	<EntityTextEnd>189</EntityTextEnd>
+	<LinkerScore>2.714535643950216</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Car_bomb</WikiTitle>
+		<WikiTitleID>155282</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>tactics	devices	bomb	weapon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Car_bomb</WikiTitle> <WikiTitleID>155282</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>car</EntitySurfaceForm>
+	<EntityTextStart>178</EntityTextStart>
+	<EntityTextEnd>181</EntityTextEnd>
+	<LinkerScore>0.5265293074638675</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Automobile</WikiTitle>
+		<WikiTitleID>13673345</WikiTitleID>
+		<RankerScore>0.5085479880308803</RankerScore>
+		<Attributes>vehicle	automobile</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Automobile</WikiTitle> <WikiTitleID>13673345</WikiTitleID> <RankerScore>0.5085479880308803</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Grand_Prix_car</WikiTitle> <WikiTitleID>7029496</WikiTitleID> <RankerScore>0.048521708409340183</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Railroad_car</WikiTitle> <WikiTitleID>220118</WikiTitleID> <RankerScore>0.019389641430366797</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Auto_racing</WikiTitle> <WikiTitleID>1022</WikiTitleID> <RankerScore>0.024914156595847798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CAR_and_CDR</WikiTitle> <WikiTitleID>206195</WikiTitleID> <RankerScore>0.024914156595847798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Renault_5</WikiTitle> <WikiTitleID>608951</WikiTitleID> <RankerScore>0.024914156595847798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Auto</WikiTitle> <WikiTitleID>599669</WikiTitleID> <RankerScore>0.024914156595847798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio-controlled_car</WikiTitle> <WikiTitleID>87140</WikiTitleID> <RankerScore>0.024914156595847798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Model_car</WikiTitle> <WikiTitleID>87115</WikiTitleID> <RankerScore>0.024914156595847798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Police_car</WikiTitle> <WikiTitleID>1297380</WikiTitleID> <RankerScore>0.024914156595847798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Motor_vehicle</WikiTitle> <WikiTitleID>145095</WikiTitleID> <RankerScore>0.024914156595847798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tram</WikiTitle> <WikiTitleID>30733</WikiTitleID> <RankerScore>0.024914156595847798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fiat_600</WikiTitle> <WikiTitleID>1415626</WikiTitleID> <RankerScore>0.024914156595847798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_James_Bond_vehicles</WikiTitle> <WikiTitleID>996951</WikiTitleID> <RankerScore>0.024914156595847798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mini</WikiTitle> <WikiTitleID>65684</WikiTitleID> <RankerScore>0.024914156595847798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Triumph_Motor_Company</WikiTitle> <WikiTitleID>365282</WikiTitleID> <RankerScore>0.024914156595847798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Railcar</WikiTitle> <WikiTitleID>216134</WikiTitleID> <RankerScore>0.024914156595847798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vehicle_insurance</WikiTitle> <WikiTitleID>567696</WikiTitleID> <RankerScore>0.024914156595847798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sunbeam_(car_company)</WikiTitle> <WikiTitleID>1169490</WikiTitleID> <RankerScore>0.024914156595847798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Panoz_DP01</WikiTitle> <WikiTitleID>7452029</WikiTitleID> <RankerScore>0.024914156595847798</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>bombing</EntitySurfaceForm>
+	<EntityTextStart>182</EntityTextStart>
+	<EntityTextEnd>189</EntityTextEnd>
+	<LinkerScore>1.6368188714884495</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bomb</WikiTitle>
+		<WikiTitleID>47628</WikiTitleID>
+		<RankerScore>0.7215463112797857</RankerScore>
+		<Attributes>weapon	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bomb</WikiTitle> <WikiTitleID>47628</WikiTitleID> <RankerScore>0.7215463112797857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Oklahoma_City_bombing</WikiTitle> <WikiTitleID>22467</WikiTitleID> <RankerScore>0.013420173645187416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USS_Cole_bombing</WikiTitle> <WikiTitleID>31981</WikiTitleID> <RankerScore>0.016994864188535914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Blitz</WikiTitle> <WikiTitleID>112274</WikiTitleID> <RankerScore>0.013420173645187416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bomber</WikiTitle> <WikiTitleID>3446</WikiTitleID> <RankerScore>0.013420173645187416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_al-Askari_Mosque_bombing</WikiTitle> <WikiTitleID>4176008</WikiTitleID> <RankerScore>0.013420173645187416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Airstrike</WikiTitle> <WikiTitleID>323167</WikiTitleID> <RankerScore>0.03331587256349227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1986_Berlin_discotheque_bombing</WikiTitle> <WikiTitleID>317460</WikiTitleID> <RankerScore>0.013420173645187416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1993_World_Trade_Center_bombing</WikiTitle> <WikiTitleID>18568941</WikiTitleID> <RankerScore>0.013420173645187416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraq_War</WikiTitle> <WikiTitleID>5043324</WikiTitleID> <RankerScore>0.013420173645187416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Strategic_bombing_during_World_War_II</WikiTitle> <WikiTitleID>730658</WikiTitleID> <RankerScore>0.013420173645187416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atomic_bombings_of_Hiroshima_and_Nagasaki</WikiTitle> <WikiTitleID>11778948</WikiTitleID> <RankerScore>0.013420173645187416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hand_grenade</WikiTitle> <WikiTitleID>67751</WikiTitleID> <RankerScore>0.013420173645187416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aerial_bombing_of_cities</WikiTitle> <WikiTitleID>262713</WikiTitleID> <RankerScore>0.013420173645187416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Air_raid</WikiTitle> <WikiTitleID>18238261</WikiTitleID> <RankerScore>0.013420173645187416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Improvised_explosive_device</WikiTitle> <WikiTitleID>265112</WikiTitleID> <RankerScore>0.013420173645187416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Omagh_bombing</WikiTitle> <WikiTitleID>113482</WikiTitleID> <RankerScore>0.013420173645187416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bombing_of_Guernica</WikiTitle> <WikiTitleID>731923</WikiTitleID> <RankerScore>0.013420173645187416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Strategic_bombing</WikiTitle> <WikiTitleID>927520</WikiTitleID> <RankerScore>0.013420173645187416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>16th_Street_Baptist_Church_bombing</WikiTitle> <WikiTitleID>341043</WikiTitleID> <RankerScore>0.013420173645187416</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Northern</EntitySurfaceForm>
+	<EntityTextStart>197</EntityTextStart>
+	<EntityTextEnd>205</EntityTextEnd>
+	<LinkerScore>-0.47229349972279533</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Northern_line</WikiTitle>
+		<WikiTitleID>92602</WikiTitleID>
+		<RankerScore>0.08841744676574266</RankerScore>
+		<Attributes>line	thames	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Northern_line</WikiTitle> <WikiTitleID>92602</WikiTitleID> <RankerScore>0.08841744676574266</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_United_States</WikiTitle> <WikiTitleID>509638</WikiTitleID> <RankerScore>0.06398323632759592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Europe</WikiTitle> <WikiTitleID>159865</WikiTitleID> <RankerScore>0.04544445754295219</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern</WikiTitle> <WikiTitleID>47500</WikiTitleID> <RankerScore>0.047185579962571125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Hemisphere</WikiTitle> <WikiTitleID>22126</WikiTitleID> <RankerScore>0.047185579962571125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_England</WikiTitle> <WikiTitleID>714694</WikiTitleID> <RankerScore>0.047185579962571125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_(state)</WikiTitle> <WikiTitleID>767636</WikiTitleID> <RankerScore>0.047185579962571125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Virginia</WikiTitle> <WikiTitleID>673712</WikiTitleID> <RankerScore>0.047185579962571125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_California</WikiTitle> <WikiTitleID>147675</WikiTitleID> <RankerScore>0.047185579962571125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_railway_line,_Sydney</WikiTitle> <WikiTitleID>1948866</WikiTitleID> <RankerScore>0.047185579962571125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Rhodesia</WikiTitle> <WikiTitleID>284309</WikiTitleID> <RankerScore>0.047185579962571125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Rail</WikiTitle> <WikiTitleID>1297201</WikiTitleID> <RankerScore>0.047185579962571125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Province,_Sri_Lanka</WikiTitle> <WikiTitleID>2312534</WikiTitleID> <RankerScore>0.047185579962571125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ontario</WikiTitle> <WikiTitleID>211003</WikiTitleID> <RankerScore>0.047185579962571125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Michigan</WikiTitle> <WikiTitleID>1582911</WikiTitleID> <RankerScore>0.047185579962571125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Combination_Women&apos;s_Football_League</WikiTitle> <WikiTitleID>8050842</WikiTitleID> <RankerScore>0.047185579962571125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Italy</WikiTitle> <WikiTitleID>2155325</WikiTitleID> <RankerScore>0.047185579962571125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Province,_Zambia</WikiTitle> <WikiTitleID>2187135</WikiTitleID> <RankerScore>0.047185579962571125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_(genre)</WikiTitle> <WikiTitleID>8296742</WikiTitleID> <RankerScore>0.047185579962571125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Scotland</WikiTitle> <WikiTitleID>1475671</WikiTitleID> <RankerScore>0.047185579962571125</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli</EntitySurfaceForm>
+	<EntityTextStart>206</EntityTextStart>
+	<EntityTextEnd>213</EntityTextEnd>
+	<LinkerScore>0.6640602733759406</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israel</WikiTitle>
+		<WikiTitleID>9282173</WikiTitleID>
+		<RankerScore>0.700747991210148</RankerScore>
+		<Attributes>republic	country	state	words</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.2579112037964614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.700747991210148</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_literature</WikiTitle> <WikiTitleID>524317</WikiTitleID> <RankerScore>2.4409268737761656E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.03719122930797112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Israel</WikiTitle> <WikiTitleID>8561774</WikiTitleID> <RankerScore>2.4409268737761656E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Air_Force</WikiTitle> <WikiTitleID>177619</WikiTitleID> <RankerScore>2.4409268737761656E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_football_team</WikiTitle> <WikiTitleID>769536</WikiTitleID> <RankerScore>2.4409268737761656E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_(newspaper)</WikiTitle> <WikiTitleID>5324800</WikiTitleID> <RankerScore>2.4409268737761656E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Navy</WikiTitle> <WikiTitleID>1370788</WikiTitleID> <RankerScore>2.4409268737761656E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_cuisine</WikiTitle> <WikiTitleID>11447140</WikiTitleID> <RankerScore>2.4409268737761656E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Premier_League</WikiTitle> <WikiTitleID>7233082</WikiTitleID> <RankerScore>2.4409268737761656E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IAF</WikiTitle> <WikiTitleID>422666</WikiTitleID> <RankerScore>2.4409268737761656E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_literature</WikiTitle> <WikiTitleID>2432783</WikiTitleID> <RankerScore>2.4409268737761656E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_language</WikiTitle> <WikiTitleID>13450</WikiTitleID> <RankerScore>2.4409268737761656E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Israel</WikiTitle> <WikiTitleID>413617</WikiTitleID> <RankerScore>2.4409268737761656E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Israelis</WikiTitle> <WikiTitleID>422068</WikiTitleID> <RankerScore>2.4409268737761656E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_settlement</WikiTitle> <WikiTitleID>15123</WikiTitleID> <RankerScore>2.4409268737761656E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hatikvah</WikiTitle> <WikiTitleID>189968</WikiTitleID> <RankerScore>2.4409268737761656E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Israel</WikiTitle> <WikiTitleID>459004</WikiTitleID> <RankerScore>2.4409268737761656E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_views_on_the_peace_process</WikiTitle> <WikiTitleID>10838363</WikiTitleID> <RankerScore>2.4409268737761656E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>town</EntitySurfaceForm>
+	<EntityTextStart>214</EntityTextStart>
+	<EntityTextEnd>218</EntityTextEnd>
+	<LinkerScore>2.970316042776595</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Town</WikiTitle>
+		<WikiTitleID>52911</WikiTitleID>
+		<RankerScore>0.4565675718276633</RankerScore>
+		<Attributes>place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Town</WikiTitle> <WikiTitleID>52911</WikiTitleID> <RankerScore>0.4565675718276633</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_towns_in_Japan</WikiTitle> <WikiTitleID>450654</WikiTitleID> <RankerScore>0.0963158681905085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_England_town</WikiTitle> <WikiTitleID>3400990</WikiTitleID> <RankerScore>0.05596574887853452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Types_of_inhabited_localities_in_Russia</WikiTitle> <WikiTitleID>2813519</WikiTitleID> <RankerScore>0.023008871241370223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Towns_of_the_People&apos;s_Republic_of_China</WikiTitle> <WikiTitleID>1342390</WikiTitleID> <RankerScore>0.023008871241370223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Urban_areas_in_Sweden</WikiTitle> <WikiTitleID>1269662</WikiTitleID> <RankerScore>0.023008871241370223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_and_towns_in_Finland</WikiTitle> <WikiTitleID>198108</WikiTitleID> <RankerScore>0.023008871241370223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Town_(New_Jersey)</WikiTitle> <WikiTitleID>2884363</WikiTitleID> <RankerScore>0.023008871241370223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Urban-type_settlement</WikiTitle> <WikiTitleID>463454</WikiTitleID> <RankerScore>0.023008871241370223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Populated_places_in_Estonia</WikiTitle> <WikiTitleID>2347646</WikiTitleID> <RankerScore>0.023008871241370223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_and_towns_in_Romania</WikiTitle> <WikiTitleID>214467</WikiTitleID> <RankerScore>0.023008871241370223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_towns_in_Portugal</WikiTitle> <WikiTitleID>507837</WikiTitleID> <RankerScore>0.023008871241370223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Municipalities_of_Brazil</WikiTitle> <WikiTitleID>214437</WikiTitleID> <RankerScore>0.023008871241370223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Goshen,_New_York</WikiTitle> <WikiTitleID>259955</WikiTitleID> <RankerScore>0.023008871241370223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_divisions_of_New_York</WikiTitle> <WikiTitleID>429081</WikiTitleID> <RankerScore>0.023008871241370223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Local_government_in_Fiji</WikiTitle> <WikiTitleID>670527</WikiTitleID> <RankerScore>0.023008871241370223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_places_in_Singapore</WikiTitle> <WikiTitleID>968623</WikiTitleID> <RankerScore>0.023008871241370223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stad_(Sweden)</WikiTitle> <WikiTitleID>2499608</WikiTitleID> <RankerScore>0.023008871241370223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Town_council</WikiTitle> <WikiTitleID>645032</WikiTitleID> <RankerScore>0.023008871241370223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_in_Turkey</WikiTitle> <WikiTitleID>214476</WikiTitleID> <RankerScore>0.023008871241370223</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Hadera</EntitySurfaceForm>
+	<EntityTextStart>222</EntityTextStart>
+	<EntityTextEnd>228</EntityTextEnd>
+	<LinkerScore>4.653889570056955</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hadera</WikiTitle>
+		<WikiTitleID>323304</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>community</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hadera</WikiTitle> <WikiTitleID>323304</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>two people</EntitySurfaceForm>
+	<EntityTextStart>237</EntityTextStart>
+	<EntityTextEnd>247</EntityTextEnd>
+	<LinkerScore>-1.2963743031464994</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>List_of_people_executed_in_Kentucky</WikiTitle>
+		<WikiTitleID>413979</WikiTitleID>
+		<RankerScore>0.5925942334379717</RankerScore>
+		<Attributes>person	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>List_of_people_executed_in_Kentucky</WikiTitle> <WikiTitleID>413979</WikiTitleID> <RankerScore>0.5925942334379717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dual</WikiTitle> <WikiTitleID>8477</WikiTitleID> <RankerScore>0.4074057665620283</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>people</EntitySurfaceForm>
+	<EntityTextStart>241</EntityTextStart>
+	<EntityTextEnd>247</EntityTextEnd>
+	<LinkerScore>2.039456946916448</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>People</WikiTitle>
+		<WikiTitleID>3488351</WikiTitleID>
+		<RankerScore>0.33932985661257026</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>People</WikiTitle> <WikiTitleID>3488351</WikiTitleID> <RankerScore>0.33932985661257026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Person</WikiTitle> <WikiTitleID>219599</WikiTitleID> <RankerScore>0.04785980149082195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nation</WikiTitle> <WikiTitleID>21754</WikiTitleID> <RankerScore>0.028052582214098735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human</WikiTitle> <WikiTitleID>682482</WikiTitleID> <RankerScore>0.03439751527544171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ethnic_group</WikiTitle> <WikiTitleID>105004</WikiTitleID> <RankerScore>0.03439751527544171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scottish_people</WikiTitle> <WikiTitleID>884446</WikiTitleID> <RankerScore>0.03439751527544171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Portuguese_people</WikiTitle> <WikiTitleID>970642</WikiTitleID> <RankerScore>0.03439751527544171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_France</WikiTitle> <WikiTitleID>67475</WikiTitleID> <RankerScore>0.03439751527544171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_people</WikiTitle> <WikiTitleID>962731</WikiTitleID> <RankerScore>0.03439751527544171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plebs</WikiTitle> <WikiTitleID>244404</WikiTitleID> <RankerScore>0.03439751527544171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Germans</WikiTitle> <WikiTitleID>152735</WikiTitleID> <RankerScore>0.03439751527544171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>People_smuggling</WikiTitle> <WikiTitleID>68714</WikiTitleID> <RankerScore>0.03439751527544171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cornish_people</WikiTitle> <WikiTitleID>2300559</WikiTitleID> <RankerScore>0.03439751527544171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_Dutch</WikiTitle> <WikiTitleID>177674</WikiTitleID> <RankerScore>0.03439751527544171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_Americans_in_the_United_States</WikiTitle> <WikiTitleID>21217</WikiTitleID> <RankerScore>0.03439751527544171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Salem_witch_trials</WikiTitle> <WikiTitleID>205246</WikiTitleID> <RankerScore>0.03439751527544171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Democracy</WikiTitle> <WikiTitleID>7959</WikiTitleID> <RankerScore>0.03439751527544171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tamilakam</WikiTitle> <WikiTitleID>4161033</WikiTitleID> <RankerScore>0.03439751527544171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lithuanian_people</WikiTitle> <WikiTitleID>459375</WikiTitleID> <RankerScore>0.03439751527544171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Quebec</WikiTitle> <WikiTitleID>406992</WikiTitleID> <RankerScore>0.03439751527544171</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>50</EntitySurfaceForm>
+	<EntityTextStart>269</EntityTextStart>
+	<EntityTextEnd>271</EntityTextEnd>
+	<LinkerScore>-0.6197020722332978</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>50</WikiTitle>
+		<WikiTitleID>35265</WikiTitleID>
+		<RankerScore>0.36821225679799463</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>50</WikiTitle> <WikiTitleID>35265</WikiTitleID> <RankerScore>0.36821225679799463</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1950</WikiTitle> <WikiTitleID>34919</WikiTitleID> <RankerScore>0.05360321373842735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>50_(number)</WikiTitle> <WikiTitleID>308628</WikiTitleID> <RankerScore>0.06447130530629419</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1550</WikiTitle> <WikiTitleID>35099</WikiTitleID> <RankerScore>0.030218424950428455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>50_BC</WikiTitle> <WikiTitleID>52415</WikiTitleID> <RankerScore>0.030218424950428455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1650</WikiTitle> <WikiTitleID>34974</WikiTitleID> <RankerScore>0.030218424950428455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Route_50</WikiTitle> <WikiTitleID>437857</WikiTitleID> <RankerScore>0.030218424950428455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minnesota_State_Highway_50</WikiTitle> <WikiTitleID>6134174</WikiTitleID> <RankerScore>0.030218424950428455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1850</WikiTitle> <WikiTitleID>34983</WikiTitleID> <RankerScore>0.030218424950428455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DRB_Class_50</WikiTitle> <WikiTitleID>11075214</WikiTitleID> <RankerScore>0.030218424950428455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_State_Road_50</WikiTitle> <WikiTitleID>1173814</WikiTitleID> <RankerScore>0.030218424950428455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Poetry_of_Catullus</WikiTitle> <WikiTitleID>6270962</WikiTitleID> <RankerScore>0.030218424950428455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manche</WikiTitle> <WikiTitleID>90497</WikiTitleID> <RankerScore>0.030218424950428455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>No._50_Squadron_RAF</WikiTitle> <WikiTitleID>8706285</WikiTitleID> <RankerScore>0.030218424950428455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Rail_Class_50</WikiTitle> <WikiTitleID>1448622</WikiTitleID> <RankerScore>0.030218424950428455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Carolina_Highway_50</WikiTitle> <WikiTitleID>5886642</WikiTitleID> <RankerScore>0.030218424950428455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>PAL</WikiTitle> <WikiTitleID>24438</WikiTitleID> <RankerScore>0.030218424950428455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1250</WikiTitle> <WikiTitleID>38708</WikiTitleID> <RankerScore>0.030218424950428455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1st_century_in_poetry</WikiTitle> <WikiTitleID>8337831</WikiTitleID> <RankerScore>0.030218424950428455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Symphony_No._50_(Haydn)</WikiTitle> <WikiTitleID>18080897</WikiTitleID> <RankerScore>0.030218424950428455</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli Prime Minister</EntitySurfaceForm>
+	<EntityTextStart>273</EntityTextStart>
+	<EntityTextEnd>295</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prime_Minister_of_Israel</WikiTitle>
+		<WikiTitleID>24898</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Israel</WikiTitle> <WikiTitleID>24898</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli</EntitySurfaceForm>
+	<EntityTextStart>273</EntityTextStart>
+	<EntityTextEnd>280</EntityTextEnd>
+	<LinkerScore>0.25945319838839276</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israelis</WikiTitle>
+		<WikiTitleID>181296</WikiTitleID>
+		<RankerScore>0.5592169539024006</RankerScore>
+		<Attributes>person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.5592169539024006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.41616814860813867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_literature</WikiTitle> <WikiTitleID>524317</WikiTitleID> <RankerScore>1.2936406002743878E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.022415708468994336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Israel</WikiTitle> <WikiTitleID>8561774</WikiTitleID> <RankerScore>1.2936406002743878E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Air_Force</WikiTitle> <WikiTitleID>177619</WikiTitleID> <RankerScore>1.2936406002743878E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_football_team</WikiTitle> <WikiTitleID>769536</WikiTitleID> <RankerScore>1.2936406002743878E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_(newspaper)</WikiTitle> <WikiTitleID>5324800</WikiTitleID> <RankerScore>1.2936406002743878E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Navy</WikiTitle> <WikiTitleID>1370788</WikiTitleID> <RankerScore>1.2936406002743878E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_cuisine</WikiTitle> <WikiTitleID>11447140</WikiTitleID> <RankerScore>1.2936406002743878E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Premier_League</WikiTitle> <WikiTitleID>7233082</WikiTitleID> <RankerScore>1.2936406002743878E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IAF</WikiTitle> <WikiTitleID>422666</WikiTitleID> <RankerScore>1.2936406002743878E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_literature</WikiTitle> <WikiTitleID>2432783</WikiTitleID> <RankerScore>1.2936406002743878E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_language</WikiTitle> <WikiTitleID>13450</WikiTitleID> <RankerScore>1.2936406002743878E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Israel</WikiTitle> <WikiTitleID>413617</WikiTitleID> <RankerScore>1.2936406002743878E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Israelis</WikiTitle> <WikiTitleID>422068</WikiTitleID> <RankerScore>1.2936406002743878E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_settlement</WikiTitle> <WikiTitleID>15123</WikiTitleID> <RankerScore>1.2936406002743878E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hatikvah</WikiTitle> <WikiTitleID>189968</WikiTitleID> <RankerScore>1.2936406002743878E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Israel</WikiTitle> <WikiTitleID>459004</WikiTitleID> <RankerScore>1.2936406002743878E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_views_on_the_peace_process</WikiTitle> <WikiTitleID>10838363</WikiTitleID> <RankerScore>1.2936406002743878E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Prime</EntitySurfaceForm>
+	<EntityTextStart>281</EntityTextStart>
+	<EntityTextEnd>286</EntityTextEnd>
+	<LinkerScore>-1.7177270621630019</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>James_Prime</WikiTitle>
+		<WikiTitleID>3117790</WikiTitleID>
+		<RankerScore>0.1959076585527556</RankerScore>
+		<Attributes>academic	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>James_Prime</WikiTitle> <WikiTitleID>3117790</WikiTitleID> <RankerScore>0.1959076585527556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_(liturgy)</WikiTitle> <WikiTitleID>2984655</WikiTitleID> <RankerScore>0.12814856463679528</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_(film)</WikiTitle> <WikiTitleID>2806649</WikiTitleID> <RankerScore>0.14369739940744863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_(comics)</WikiTitle> <WikiTitleID>2066574</WikiTitleID> <RankerScore>0.04094202903100004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_(New_Zealand)</WikiTitle> <WikiTitleID>1248688</WikiTitleID> <RankerScore>0.04094202903100004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_number</WikiTitle> <WikiTitleID>179435</WikiTitleID> <RankerScore>0.04094202903100004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime7</WikiTitle> <WikiTitleID>564441</WikiTitleID> <RankerScore>0.04094202903100004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Computer</WikiTitle> <WikiTitleID>905542</WikiTitleID> <RankerScore>0.04094202903100004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>TVtropolis</WikiTitle> <WikiTitleID>805743</WikiTitleID> <RankerScore>0.04094202903100004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_(Transformers)</WikiTitle> <WikiTitleID>10021733</WikiTitleID> <RankerScore>0.04094202903100004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Wild_Cards_characters</WikiTitle> <WikiTitleID>7797127</WikiTitleID> <RankerScore>0.04094202903100004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ideal_(order_theory)</WikiTitle> <WikiTitleID>530559</WikiTitleID> <RankerScore>0.04094202903100004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edward_Dorr_Griffin_Prime</WikiTitle> <WikiTitleID>13575740</WikiTitleID> <RankerScore>0.04094202903100004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Samuel_I._Prime</WikiTitle> <WikiTitleID>13575748</WikiTitleID> <RankerScore>0.04094202903100004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_minister</WikiTitle> <WikiTitleID>24109</WikiTitleID> <RankerScore>0.04094202903100004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mersenne_prime</WikiTitle> <WikiTitleID>18908</WikiTitleID> <RankerScore>0.04094202903100004</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Prime Minister</EntitySurfaceForm>
+	<EntityTextStart>281</EntityTextStart>
+	<EntityTextEnd>295</EntityTextEnd>
+	<LinkerScore>4.383932635418598</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prime_Minister_of_Israel</WikiTitle>
+		<WikiTitleID>24898</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Israel</WikiTitle> <WikiTitleID>24898</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Minister</EntitySurfaceForm>
+	<EntityTextStart>287</EntityTextStart>
+	<EntityTextEnd>295</EntityTextEnd>
+	<LinkerScore>2.65629167057122</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prime_Minister_of_Israel</WikiTitle>
+		<WikiTitleID>24898</WikiTitleID>
+		<RankerScore>0.9933282746921847</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prime_minister</WikiTitle> <WikiTitleID>24109</WikiTitleID> <RankerScore>0.004134159730949604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_the_United_Kingdom</WikiTitle> <WikiTitleID>24150</WikiTitleID> <RankerScore>3.7429681839674315E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Canada</WikiTitle> <WikiTitleID>24135</WikiTitleID> <RankerScore>1.272511034393571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Australia</WikiTitle> <WikiTitleID>24117</WikiTitleID> <RankerScore>1.272511034393571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_New_Zealand</WikiTitle> <WikiTitleID>106321</WikiTitleID> <RankerScore>1.272511034393571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Japan</WikiTitle> <WikiTitleID>24833</WikiTitleID> <RankerScore>1.272511034393571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Fiji</WikiTitle> <WikiTitleID>471842</WikiTitleID> <RankerScore>1.272511034393571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_India</WikiTitle> <WikiTitleID>24452</WikiTitleID> <RankerScore>1.272511034393571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_France</WikiTitle> <WikiTitleID>218751</WikiTitleID> <RankerScore>1.272511034393571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Israel</WikiTitle> <WikiTitleID>24898</WikiTitleID> <RankerScore>0.9933282746921847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Malaysia</WikiTitle> <WikiTitleID>496731</WikiTitleID> <RankerScore>1.272511034393571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Pakistan</WikiTitle> <WikiTitleID>461896</WikiTitleID> <RankerScore>1.272511034393571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Singapore</WikiTitle> <WikiTitleID>350647</WikiTitleID> <RankerScore>1.272511034393571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Romania</WikiTitle> <WikiTitleID>266262</WikiTitleID> <RankerScore>1.272511034393571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Sweden</WikiTitle> <WikiTitleID>195846</WikiTitleID> <RankerScore>1.272511034393571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Prime_Ministers_of_Portugal</WikiTitle> <WikiTitleID>203647</WikiTitleID> <RankerScore>1.272511034393571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Italy</WikiTitle> <WikiTitleID>273741</WikiTitleID> <RankerScore>1.272511034393571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Prime_Ministers_of_Thailand</WikiTitle> <WikiTitleID>211437</WikiTitleID> <RankerScore>1.272511034393571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Poland</WikiTitle> <WikiTitleID>40543</WikiTitleID> <RankerScore>1.272511034393571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Ukraine</WikiTitle> <WikiTitleID>1256678</WikiTitleID> <RankerScore>1.272511034393571E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ehud Barak</EntitySurfaceForm>
+	<EntityTextStart>296</EntityTextStart>
+	<EntityTextEnd>306</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ehud_Barak</WikiTitle>
+		<WikiTitleID>168212</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>politician	jew	person	recipient	member	leaders	commander	alumnus	minister	chief</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ehud_Barak</WikiTitle> <WikiTitleID>168212</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ehud</EntitySurfaceForm>
+	<EntityTextStart>296</EntityTextStart>
+	<EntityTextEnd>300</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ehud_Barak</WikiTitle>
+		<WikiTitleID>168212</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>politician	jew	person	recipient	member	leaders	commander	alumnus	minister	chief</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ehud</WikiTitle> <WikiTitleID>580058</WikiTitleID> <RankerScore>0.9974869517305254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ehud_Banai</WikiTitle> <WikiTitleID>7646543</WikiTitleID> <RankerScore>0.0025130482694745494</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Barak</EntitySurfaceForm>
+	<EntityTextStart>301</EntityTextStart>
+	<EntityTextEnd>306</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ehud_Barak</WikiTitle>
+		<WikiTitleID>168212</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>politician	jew	person	recipient	member	leaders	commander	alumnus	minister	chief</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Barak</WikiTitle> <WikiTitleID>580483</WikiTitleID> <RankerScore>0.008292292485032627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barak_1</WikiTitle> <WikiTitleID>4552661</WikiTitleID> <RankerScore>5.18216598130014E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barak_River</WikiTitle> <WikiTitleID>4308389</WikiTitleID> <RankerScore>2.13856824138078E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ehud_Barak</WikiTitle> <WikiTitleID>168212</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barak,_Israel</WikiTitle> <WikiTitleID>14980838</WikiTitleID> <RankerScore>2.13856824138078E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_Barak</WikiTitle> <WikiTitleID>1798346</WikiTitleID> <RankerScore>2.13856824138078E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>SP21</WikiTitle> <WikiTitleID>5094126</WikiTitleID> <RankerScore>2.13856824138078E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barak_Armored_Brigade</WikiTitle> <WikiTitleID>268204</WikiTitleID> <RankerScore>2.13856824138078E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>retaliate</EntitySurfaceForm>
+	<EntityTextStart>321</EntityTextStart>
+	<EntityTextEnd>330</EntityTextEnd>
+	<LinkerScore>-1.448101182826432</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Revenge</WikiTitle>
+		<WikiTitleID>181361</WikiTitleID>
+		<RankerScore>0.539336249987402</RankerScore>
+		<Attributes>issue</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Revenge</WikiTitle> <WikiTitleID>181361</WikiTitleID> <RankerScore>0.539336249987402</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fragging</WikiTitle> <WikiTitleID>178043</WikiTitleID> <RankerScore>0.46066375001259796</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Corey Flintoff</EntitySurfaceForm>
+	<EntityTextStart>332</EntityTextStart>
+	<EntityTextEnd>346</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Corey_Flintoff</WikiTitle>
+		<WikiTitleID>10448282</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	personality</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Corey_Flintoff</WikiTitle> <WikiTitleID>10448282</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Corey</EntitySurfaceForm>
+	<EntityTextStart>332</EntityTextStart>
+	<EntityTextEnd>337</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Corey_Flintoff</WikiTitle>
+		<WikiTitleID>10448282</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	personality</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Corey_Engen</WikiTitle> <WikiTitleID>5133299</WikiTitleID> <RankerScore>0.2727859088646895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Coles</WikiTitle> <WikiTitleID>1980864</WikiTitleID> <RankerScore>0.1521032663644935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Robert_Corey</WikiTitle> <WikiTitleID>7888106</WikiTitleID> <RankerScore>0.07338826652270727</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Two_Coreys</WikiTitle> <WikiTitleID>266329</WikiTitleID> <RankerScore>0.07338826652270727</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Corey</WikiTitle> <WikiTitleID>11110212</WikiTitleID> <RankerScore>0.20816949215728064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elias_James_Corey</WikiTitle> <WikiTitleID>172740</WikiTitleID> <RankerScore>0.07338826652270727</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Corey_Parker</WikiTitle> <WikiTitleID>5735121</WikiTitleID> <RankerScore>0.07338826652270727</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Corey_Taylor</WikiTitle> <WikiTitleID>414744</WikiTitleID> <RankerScore>0.07338826652270727</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Flintoff</EntitySurfaceForm>
+	<EntityTextStart>338</EntityTextStart>
+	<EntityTextEnd>346</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Corey_Flintoff</WikiTitle>
+		<WikiTitleID>10448282</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	personality</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Andrew_Flintoff</WikiTitle> <WikiTitleID>849886</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>NPR news</EntitySurfaceForm>
+	<EntityTextStart>348</EntityTextStart>
+	<EntityTextEnd>356</EntityTextEnd>
+	<LinkerScore>2.2770491280642813</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>NPR</WikiTitle>
+		<WikiTitleID>44098</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>channels	broadcaster	establishment	company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>NPR</WikiTitle> <WikiTitleID>44098</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>NPR</EntitySurfaceForm>
+	<EntityTextStart>348</EntityTextStart>
+	<EntityTextEnd>351</EntityTextEnd>
+	<LinkerScore>3.8619855805438985</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>NPR</WikiTitle>
+		<WikiTitleID>44098</WikiTitleID>
+		<RankerScore>0.9734353109373415</RankerScore>
+		<Attributes>channels	broadcaster	establishment	company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>NPR</WikiTitle> <WikiTitleID>44098</WikiTitleID> <RankerScore>0.9734353109373415</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Non-photorealistic_rendering</WikiTitle> <WikiTitleID>1379065</WikiTitleID> <RankerScore>0.02656468906265858</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>news</EntitySurfaceForm>
+	<EntityTextStart>352</EntityTextStart>
+	<EntityTextEnd>356</EntityTextEnd>
+	<LinkerScore>1.732384280034828</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>News</WikiTitle>
+		<WikiTitleID>22041</WikiTitleID>
+		<RankerScore>0.5204220834980549</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>News</WikiTitle> <WikiTitleID>22041</WikiTitleID> <RankerScore>0.5204220834980549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>All-news_radio</WikiTitle> <WikiTitleID>2531976</WikiTitleID> <RankerScore>0.13236682245847137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>News_broadcasting</WikiTitle> <WikiTitleID>1720678</WikiTitleID> <RankerScore>0.01690562542916947</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Usenet</WikiTitle> <WikiTitleID>18588994</WikiTitleID> <RankerScore>0.01942973344790026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Usenet_newsgroup</WikiTitle> <WikiTitleID>21125</WikiTitleID> <RankerScore>0.01942973344790026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>News_media</WikiTitle> <WikiTitleID>304113</WikiTitleID> <RankerScore>0.01942973344790026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>News_magazine</WikiTitle> <WikiTitleID>513116</WikiTitleID> <RankerScore>0.01942973344790026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Newspaper</WikiTitle> <WikiTitleID>18582335</WikiTitleID> <RankerScore>0.01942973344790026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NBC_News</WikiTitle> <WikiTitleID>167284</WikiTitleID> <RankerScore>0.01942973344790026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A_News</WikiTitle> <WikiTitleID>254457</WikiTitleID> <RankerScore>0.01942973344790026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Journalism</WikiTitle> <WikiTitleID>15928</WikiTitleID> <RankerScore>0.01942973344790026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CBS_News</WikiTitle> <WikiTitleID>359551</WikiTitleID> <RankerScore>0.01942973344790026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Information</WikiTitle> <WikiTitleID>15248</WikiTitleID> <RankerScore>0.01942973344790026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Network_News_Transfer_Protocol</WikiTitle> <WikiTitleID>173004</WikiTitleID> <RankerScore>0.01942973344790026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Broadcast_News</WikiTitle> <WikiTitleID>1292270</WikiTitleID> <RankerScore>0.01942973344790026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>News_program</WikiTitle> <WikiTitleID>904635</WikiTitleID> <RankerScore>0.01942973344790026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NewsRadio</WikiTitle> <WikiTitleID>87774</WikiTitleID> <RankerScore>0.01942973344790026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Newsreader_(Usenet)</WikiTitle> <WikiTitleID>961853</WikiTitleID> <RankerScore>0.01942973344790026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_News</WikiTitle> <WikiTitleID>1139893</WikiTitleID> <RankerScore>0.01942973344790026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Newsline</WikiTitle> <WikiTitleID>680242</WikiTitleID> <RankerScore>0.01942973344790026</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Washington</EntitySurfaceForm>
+	<EntityTextStart>358</EntityTextStart>
+	<EntityTextEnd>368</EntityTextEnd>
+	<LinkerScore>-0.745126181754293</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Washington</WikiTitle>
+		<WikiTitleID>13015878</WikiTitleID>
+		<RankerScore>0.3678821571755877</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Washington</WikiTitle> <WikiTitleID>13015878</WikiTitleID> <RankerScore>0.3678821571755877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_D.C.</WikiTitle> <WikiTitleID>108956</WikiTitleID> <RankerScore>0.20991551547515921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Wizards</WikiTitle> <WikiTitleID>72858</WikiTitleID> <RankerScore>0.021437348241643728</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_Washington</WikiTitle> <WikiTitleID>11968</WikiTitleID> <RankerScore>0.023574410535741733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Washington</WikiTitle> <WikiTitleID>31776</WikiTitleID> <RankerScore>0.023574410535741733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Huskies_football</WikiTitle> <WikiTitleID>5954250</WikiTitleID> <RankerScore>0.023574410535741733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_Tyne_and_Wear</WikiTitle> <WikiTitleID>264845</WikiTitleID> <RankerScore>0.023574410535741733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_Pennsylvania</WikiTitle> <WikiTitleID>134086</WikiTitleID> <RankerScore>0.023574410535741733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Pennsylvania</WikiTitle> <WikiTitleID>91922</WikiTitleID> <RankerScore>0.023574410535741733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Oregon</WikiTitle> <WikiTitleID>48966</WikiTitleID> <RankerScore>0.023574410535741733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_North_Carolina</WikiTitle> <WikiTitleID>127665</WikiTitleID> <RankerScore>0.023574410535741733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_New_York</WikiTitle> <WikiTitleID>51541</WikiTitleID> <RankerScore>0.023574410535741733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Washington_USA</WikiTitle> <WikiTitleID>4429498</WikiTitleID> <RankerScore>0.023574410535741733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Maryland</WikiTitle> <WikiTitleID>47730</WikiTitleID> <RankerScore>0.023574410535741733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Huskies</WikiTitle> <WikiTitleID>994480</WikiTitleID> <RankerScore>0.023574410535741733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_Connecticut</WikiTitle> <WikiTitleID>108766</WikiTitleID> <RankerScore>0.023574410535741733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Washington_Teen_USA</WikiTitle> <WikiTitleID>4596506</WikiTitleID> <RankerScore>0.023574410535741733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Redskins</WikiTitle> <WikiTitleID>33673</WikiTitleID> <RankerScore>0.023574410535741733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Wisconsin</WikiTitle> <WikiTitleID>90922</WikiTitleID> <RankerScore>0.023574410535741733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_New_Hampshire</WikiTitle> <WikiTitleID>124947</WikiTitleID> <RankerScore>0.023574410535741733</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

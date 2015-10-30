@@ -1,0 +1,4083 @@
+<WikifierOutput>
+<InputFilename>
+8856019
+</InputFilename>
+<InputText>
+The Chilean Fox Terrier, also known as &apos;&apos;Ratonero&apos;&apos; (rat hunter) or Chilean Rat Terrier, is the first Chilean   breed   of   dog   existing from 1870 and standarised in the late 1990&apos;s for international recognition. Its base is made up of the   Fox Terrier   of the mid 19th century and Native American dogs.
+The Chilean Fox Terrier has black and tan spots on a white fur, it is short-haired and has a grey undercoat which lets some dark spots visible on the white cover coat.
+The ears are set high, falling upwards in the form of a  &quot; V &quot; . Well-developed teeth, scissor bite.
+The Chilean Fox Terrier is easy to train, active, affective, and one of the healthiest and cleanest dog breeds.
+A famous Chilean Fox Terrier is Washington (from the comic  &quot;   Condorito   &quot; ), Condorito&apos;s dog. 
+Though it&apos;s not recognised internationally, there have been several Ratoneros&apos; exhibitions in Chile and now the breed is selling through internet pages all along   Chile  ,   Bolivia  ,   Argentina  , and other South American countries.
+
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Chilean</EntitySurfaceForm>
+	<EntityTextStart>4</EntityTextStart>
+	<EntityTextEnd>11</EntityTextEnd>
+	<LinkerScore>1.3887636294280368</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chile</WikiTitle>
+		<WikiTitleID>5489</WikiTitleID>
+		<RankerScore>0.9271112381933623</RankerScore>
+		<Attributes>state	country	colony	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chile</WikiTitle> <WikiTitleID>5489</WikiTitleID> <RankerScore>0.9271112381933623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Flamingo</WikiTitle> <WikiTitleID>182807</WikiTitleID> <RankerScore>0.010632448636520858</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Chile</WikiTitle> <WikiTitleID>5497</WikiTitleID> <RankerScore>0.002819040622451991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Chile</WikiTitle> <WikiTitleID>67363</WikiTitleID> <RankerScore>0.002819040622451991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_poetry</WikiTitle> <WikiTitleID>4620412</WikiTitleID> <RankerScore>0.002819040622451991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Chile</WikiTitle> <WikiTitleID>148279</WikiTitleID> <RankerScore>0.002819040622451991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_American</WikiTitle> <WikiTitleID>7765577</WikiTitleID> <RankerScore>0.002819040622451991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DINA</WikiTitle> <WikiTitleID>269329</WikiTitleID> <RankerScore>0.03406590694559702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Navy</WikiTitle> <WikiTitleID>1201138</WikiTitleID> <RankerScore>0.002819040622451991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Antarctic_Territory</WikiTitle> <WikiTitleID>8260404</WikiTitleID> <RankerScore>0.002819040622451991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_peso</WikiTitle> <WikiTitleID>171898</WikiTitleID> <RankerScore>0.002819040622451991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_football_team</WikiTitle> <WikiTitleID>697710</WikiTitleID> <RankerScore>0.002819040622451991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_mythology</WikiTitle> <WikiTitleID>8857940</WikiTitleID> <RankerScore>0.002819040622451991</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chilean Fox Terrier</EntitySurfaceForm>
+	<EntityTextStart>4</EntityTextStart>
+	<EntityTextEnd>23</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chilean_Fox_Terrier</WikiTitle>
+		<WikiTitleID>8856019</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chilean_Fox_Terrier</WikiTitle> <WikiTitleID>8856019</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Fox</EntitySurfaceForm>
+	<EntityTextStart>12</EntityTextStart>
+	<EntityTextEnd>15</EntityTextEnd>
+	<LinkerScore>2.3607903467603526</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fox</WikiTitle>
+		<WikiTitleID>11299</WikiTitleID>
+		<RankerScore>0.7478134256882731</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fox_Broadcasting_Company</WikiTitle> <WikiTitleID>46252</WikiTitleID> <RankerScore>0.0857434319639243</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox</WikiTitle> <WikiTitleID>11299</WikiTitleID> <RankerScore>0.7478134256882731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Meskwaki</WikiTitle> <WikiTitleID>320879</WikiTitleID> <RankerScore>0.01743983305072137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>20th_Century_Fox</WikiTitle> <WikiTitleID>170318</WikiTitleID> <RankerScore>0.008764900546887128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charles_James_Fox</WikiTitle> <WikiTitleID>142125</WikiTitleID> <RankerScore>0.008764900546887128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_Sports_(United_States)</WikiTitle> <WikiTitleID>1699539</WikiTitleID> <RankerScore>0.008764900546887128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Animals_of_Farthing_Wood_characters</WikiTitle> <WikiTitleID>6021430</WikiTitleID> <RankerScore>0.008764900546887128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_Entertainment_Group</WikiTitle> <WikiTitleID>535799</WikiTitleID> <RankerScore>0.008764900546887128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_News_Channel</WikiTitle> <WikiTitleID>11121</WikiTitleID> <RankerScore>0.008764900546887128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NASCAR_on_Fox</WikiTitle> <WikiTitleID>4064853</WikiTitleID> <RankerScore>0.008764900546887128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_language</WikiTitle> <WikiTitleID>3563275</WikiTitleID> <RankerScore>0.008764900546887128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Volkswagen_Fox</WikiTitle> <WikiTitleID>707709</WikiTitleID> <RankerScore>0.008764900546887128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox,_Alaska</WikiTitle> <WikiTitleID>105446</WikiTitleID> <RankerScore>0.008764900546887128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NFL_on_Fox</WikiTitle> <WikiTitleID>1809083</WikiTitleID> <RankerScore>0.008764900546887128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_(magazine)</WikiTitle> <WikiTitleID>10695169</WikiTitleID> <RankerScore>0.008764900546887128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_(band)</WikiTitle> <WikiTitleID>3371372</WikiTitleID> <RankerScore>0.008764900546887128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_Feature_Syndicate</WikiTitle> <WikiTitleID>2900194</WikiTitleID> <RankerScore>0.008764900546887128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_Crane</WikiTitle> <WikiTitleID>1761986</WikiTitleID> <RankerScore>0.008764900546887128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_Glacier</WikiTitle> <WikiTitleID>965398</WikiTitleID> <RankerScore>0.008764900546887128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_(song)</WikiTitle> <WikiTitleID>5392105</WikiTitleID> <RankerScore>0.008764900546887128</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Fox Terrier</EntitySurfaceForm>
+	<EntityTextStart>12</EntityTextStart>
+	<EntityTextEnd>23</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chilean_Fox_Terrier</WikiTitle>
+		<WikiTitleID>8856019</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fox_Terrier</WikiTitle> <WikiTitleID>468974</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Terrier</EntitySurfaceForm>
+	<EntityTextStart>16</EntityTextStart>
+	<EntityTextEnd>23</EntityTextEnd>
+	<LinkerScore>2.5680665449580204</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Terrier</WikiTitle>
+		<WikiTitleID>176426</WikiTitleID>
+		<RankerScore>0.9828219743891065</RankerScore>
+		<Attributes>type	dog</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>RIM-2_Terrier</WikiTitle> <WikiTitleID>522819</WikiTitleID> <RankerScore>0.007582551722018115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Terrier</WikiTitle> <WikiTitleID>176426</WikiTitleID> <RankerScore>0.9828219743891065</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Terrier_(novel)</WikiTitle> <WikiTitleID>7896162</WikiTitleID> <RankerScore>0.005819354492496036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Terrier_vehicle</WikiTitle> <WikiTitleID>14001939</WikiTitleID> <RankerScore>0.0018880596981896672</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beagle_Terrier</WikiTitle> <WikiTitleID>6978593</WikiTitleID> <RankerScore>0.0018880596981896672</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>known</EntitySurfaceForm>
+	<EntityTextStart>30</EntityTextStart>
+	<EntityTextEnd>35</EntityTextEnd>
+	<LinkerScore>-1.075758728888934</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1997</WikiTitle>
+		<WikiTitleID>34601</WikiTitleID>
+		<RankerScore>0.35674663114483124</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Knowledge</WikiTitle> <WikiTitleID>243391</WikiTitleID> <RankerScore>0.22645451170423528</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997</WikiTitle> <WikiTitleID>34601</WikiTitleID> <RankerScore>0.35674663114483124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Known-plaintext_attack</WikiTitle> <WikiTitleID>517019</WikiTitleID> <RankerScore>0.10608102601661173</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maschke&apos;s_theorem</WikiTitle> <WikiTitleID>595735</WikiTitleID> <RankerScore>0.10357261037810729</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_37&apos;s</WikiTitle> <WikiTitleID>2953967</WikiTitleID> <RankerScore>0.10357261037810729</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popularity</WikiTitle> <WikiTitleID>229719</WikiTitleID> <RankerScore>0.10357261037810729</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ratonero</EntitySurfaceForm>
+	<EntityTextStart>41</EntityTextStart>
+	<EntityTextEnd>49</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chilean_Fox_Terrier</WikiTitle>
+		<WikiTitleID>8856019</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chilean</EntitySurfaceForm>
+	<EntityTextStart>68</EntityTextStart>
+	<EntityTextEnd>75</EntityTextEnd>
+	<LinkerScore>1.1412116028956172</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chile</WikiTitle>
+		<WikiTitleID>5489</WikiTitleID>
+		<RankerScore>0.9091632829717258</RankerScore>
+		<Attributes>state	country	colony	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chile</WikiTitle> <WikiTitleID>5489</WikiTitleID> <RankerScore>0.9091632829717258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Flamingo</WikiTitle> <WikiTitleID>182807</WikiTitleID> <RankerScore>0.008878274670544915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Chile</WikiTitle> <WikiTitleID>5497</WikiTitleID> <RankerScore>0.002314900059038231</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Chile</WikiTitle> <WikiTitleID>67363</WikiTitleID> <RankerScore>0.002314900059038231</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_poetry</WikiTitle> <WikiTitleID>4620412</WikiTitleID> <RankerScore>0.002314900059038231</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Chile</WikiTitle> <WikiTitleID>148279</WikiTitleID> <RankerScore>0.002314900059038231</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_American</WikiTitle> <WikiTitleID>7765577</WikiTitleID> <RankerScore>0.002314900059038231</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DINA</WikiTitle> <WikiTitleID>269329</WikiTitleID> <RankerScore>0.05880944176734707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Navy</WikiTitle> <WikiTitleID>1201138</WikiTitleID> <RankerScore>0.002314900059038231</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Antarctic_Territory</WikiTitle> <WikiTitleID>8260404</WikiTitleID> <RankerScore>0.002314900059038231</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_peso</WikiTitle> <WikiTitleID>171898</WikiTitleID> <RankerScore>0.002314900059038231</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_football_team</WikiTitle> <WikiTitleID>697710</WikiTitleID> <RankerScore>0.002314900059038231</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_mythology</WikiTitle> <WikiTitleID>8857940</WikiTitleID> <RankerScore>0.002314900059038231</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chilean Rat Terrier</EntitySurfaceForm>
+	<EntityTextStart>68</EntityTextStart>
+	<EntityTextEnd>87</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chilean_Fox_Terrier</WikiTitle>
+		<WikiTitleID>8856019</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Rat Terrier</EntitySurfaceForm>
+	<EntityTextStart>76</EntityTextStart>
+	<EntityTextEnd>87</EntityTextEnd>
+	<LinkerScore>4.715079332161435</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rat_Terrier</WikiTitle>
+		<WikiTitleID>646596</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>dog</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rat_Terrier</WikiTitle> <WikiTitleID>646596</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chilean</EntitySurfaceForm>
+	<EntityTextStart>102</EntityTextStart>
+	<EntityTextEnd>109</EntityTextEnd>
+	<LinkerScore>1.154968061173486</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chile</WikiTitle>
+		<WikiTitleID>5489</WikiTitleID>
+		<RankerScore>0.9099583830925763</RankerScore>
+		<Attributes>state	country	colony	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chile</WikiTitle> <WikiTitleID>5489</WikiTitleID> <RankerScore>0.9099583830925763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Flamingo</WikiTitle> <WikiTitleID>182807</WikiTitleID> <RankerScore>0.008603067078257118</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Chile</WikiTitle> <WikiTitleID>5497</WikiTitleID> <RankerScore>0.0022351659168487674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Chile</WikiTitle> <WikiTitleID>67363</WikiTitleID> <RankerScore>0.0022351659168487674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_poetry</WikiTitle> <WikiTitleID>4620412</WikiTitleID> <RankerScore>0.0022351659168487674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Chile</WikiTitle> <WikiTitleID>148279</WikiTitleID> <RankerScore>0.0022351659168487674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_American</WikiTitle> <WikiTitleID>7765577</WikiTitleID> <RankerScore>0.0022351659168487674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DINA</WikiTitle> <WikiTitleID>269329</WikiTitleID> <RankerScore>0.059086890660678903</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Navy</WikiTitle> <WikiTitleID>1201138</WikiTitleID> <RankerScore>0.0022351659168487674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Antarctic_Territory</WikiTitle> <WikiTitleID>8260404</WikiTitleID> <RankerScore>0.0022351659168487674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_peso</WikiTitle> <WikiTitleID>171898</WikiTitleID> <RankerScore>0.0022351659168487674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_football_team</WikiTitle> <WikiTitleID>697710</WikiTitleID> <RankerScore>0.0022351659168487674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_mythology</WikiTitle> <WikiTitleID>8857940</WikiTitleID> <RankerScore>0.0022351659168487674</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>breed</EntitySurfaceForm>
+	<EntityTextStart>112</EntityTextStart>
+	<EntityTextEnd>117</EntityTextEnd>
+	<LinkerScore>2.2867251149744208</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dog_breed</WikiTitle>
+		<WikiTitleID>79676</WikiTitleID>
+		<RankerScore>0.9962713574455585</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Breed</WikiTitle> <WikiTitleID>267933</WikiTitleID> <RankerScore>0.001593106894626728</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dog_breed</WikiTitle> <WikiTitleID>79676</WikiTitleID> <RankerScore>0.9962713574455585</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_horse_breeds</WikiTitle> <WikiTitleID>54033</WikiTitleID> <RankerScore>1.6419668714569527E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cat_breeds</WikiTitle> <WikiTitleID>63260</WikiTitleID> <RankerScore>1.6419668714569527E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reproduction</WikiTitle> <WikiTitleID>26310</WikiTitleID> <RankerScore>1.6419668714569527E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_chicken_breeds</WikiTitle> <WikiTitleID>333606</WikiTitleID> <RankerScore>1.6419668714569527E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_dog_breeds</WikiTitle> <WikiTitleID>8615</WikiTitleID> <RankerScore>0.00187282096038163</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horse_breeding</WikiTitle> <WikiTitleID>14082</WikiTitleID> <RankerScore>1.6419668714569527E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_breeding</WikiTitle> <WikiTitleID>147483</WikiTitleID> <RankerScore>1.6419668714569527E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mating</WikiTitle> <WikiTitleID>357632</WikiTitleID> <RankerScore>1.6419668714569527E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_sheep_breeds</WikiTitle> <WikiTitleID>916410</WikiTitleID> <RankerScore>1.6419668714569527E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crossover_(genetic_algorithm)</WikiTitle> <WikiTitleID>554546</WikiTitleID> <RankerScore>1.6419668714569527E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_guinea_pig_breeds</WikiTitle> <WikiTitleID>5880291</WikiTitleID> <RankerScore>1.6419668714569527E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dog_breeding</WikiTitle> <WikiTitleID>476072</WikiTitleID> <RankerScore>1.6419668714569527E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Selective_breeding</WikiTitle> <WikiTitleID>200646</WikiTitleID> <RankerScore>1.6419668714569527E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Breeder</WikiTitle> <WikiTitleID>634140</WikiTitleID> <RankerScore>1.6419668714569527E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sexual_reproduction</WikiTitle> <WikiTitleID>29014</WikiTitleID> <RankerScore>1.6419668714569527E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Breeder_reactor</WikiTitle> <WikiTitleID>228058</WikiTitleID> <RankerScore>1.6419668714569527E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cattle_breeds</WikiTitle> <WikiTitleID>3790265</WikiTitleID> <RankerScore>1.6419668714569527E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1870</EntitySurfaceForm>
+	<EntityTextStart>145</EntityTextStart>
+	<EntityTextEnd>149</EntityTextEnd>
+	<LinkerScore>2.4542208085400334</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1870</WikiTitle>
+		<WikiTitleID>34769</WikiTitleID>
+		<RankerScore>0.797052170809461</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1870</WikiTitle> <WikiTitleID>34769</WikiTitleID> <RankerScore>0.797052170809461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1870_in_Ireland</WikiTitle> <WikiTitleID>10018975</WikiTitleID> <RankerScore>0.02462523509846442</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1870_in_art</WikiTitle> <WikiTitleID>850055</WikiTitleID> <RankerScore>0.022317337014694797</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_House_of_Representatives_elections,_1870</WikiTitle> <WikiTitleID>1434780</WikiTitleID> <RankerScore>0.009176779828081167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1870_in_the_United_Kingdom</WikiTitle> <WikiTitleID>12019152</WikiTitleID> <RankerScore>0.009176779828081167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1870_in_France</WikiTitle> <WikiTitleID>16796631</WikiTitleID> <RankerScore>0.009176779828081167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1870_in_architecture</WikiTitle> <WikiTitleID>595182</WikiTitleID> <RankerScore>0.009176779828081167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1870_in_literature</WikiTitle> <WikiTitleID>204119</WikiTitleID> <RankerScore>0.009176779828081167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1870_in_science</WikiTitle> <WikiTitleID>351412</WikiTitleID> <RankerScore>0.009176779828081167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1870_United_States_Census</WikiTitle> <WikiTitleID>4595346</WikiTitleID> <RankerScore>0.009176779828081167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1870_in_poetry</WikiTitle> <WikiTitleID>8223361</WikiTitleID> <RankerScore>0.009176779828081167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1870_in_baseball</WikiTitle> <WikiTitleID>4574060</WikiTitleID> <RankerScore>0.009176779828081167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1870_in_sports</WikiTitle> <WikiTitleID>225382</WikiTitleID> <RankerScore>0.009176779828081167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1870_in_Canada</WikiTitle> <WikiTitleID>371948</WikiTitleID> <RankerScore>0.009176779828081167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1870_English_cricket_season</WikiTitle> <WikiTitleID>7787765</WikiTitleID> <RankerScore>0.009176779828081167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1870_in_archaeology</WikiTitle> <WikiTitleID>5794262</WikiTitleID> <RankerScore>0.009176779828081167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1870_in_South_Africa</WikiTitle> <WikiTitleID>1582157</WikiTitleID> <RankerScore>0.009176779828081167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Franco-Prussian_War</WikiTitle> <WikiTitleID>44035</WikiTitleID> <RankerScore>0.009176779828081167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1870_in_New_Zealand</WikiTitle> <WikiTitleID>13545007</WikiTitleID> <RankerScore>0.009176779828081167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_1870</WikiTitle> <WikiTitleID>627379</WikiTitleID> <RankerScore>0.009176779828081167</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>international</EntitySurfaceForm>
+	<EntityTextStart>189</EntityTextStart>
+	<EntityTextEnd>202</EntityTextEnd>
+	<LinkerScore>2.4089980871961325</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>International</WikiTitle>
+		<WikiTitleID>3741372</WikiTitleID>
+		<RankerScore>0.4300271109089039</RankerScore>
+		<Attributes>relations</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>International</WikiTitle> <WikiTitleID>3741372</WikiTitleID> <RankerScore>0.4300271109089039</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_law</WikiTitle> <WikiTitleID>8195726</WikiTitleID> <RankerScore>0.09225270403115973</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.02159197456311246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_school</WikiTitle> <WikiTitleID>2309890</WikiTitleID> <RankerScore>0.02683107120569553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_football_team</WikiTitle> <WikiTitleID>9904</WikiTitleID> <RankerScore>0.02683107120569553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_student</WikiTitle> <WikiTitleID>262479</WikiTitleID> <RankerScore>0.02683107120569553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_football_team</WikiTitle> <WikiTitleID>250197</WikiTitleID> <RankerScore>0.02683107120569553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Equatorial_Guinea_national_football_team</WikiTitle> <WikiTitleID>1263405</WikiTitleID> <RankerScore>0.02683107120569553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Political_international</WikiTitle> <WikiTitleID>3878338</WikiTitleID> <RankerScore>0.02683107120569553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_broadcasting</WikiTitle> <WikiTitleID>104718</WikiTitleID> <RankerScore>0.02683107120569553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internationalism_(politics)</WikiTitle> <WikiTitleID>99224</WikiTitleID> <RankerScore>0.02683107120569553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIFA</WikiTitle> <WikiTitleID>11049</WikiTitleID> <RankerScore>0.02683107120569553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scotland_national_football_team</WikiTitle> <WikiTitleID>578101</WikiTitleID> <RankerScore>0.02683107120569553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Global</WikiTitle> <WikiTitleID>289873</WikiTitleID> <RankerScore>0.02683107120569553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Portugal_national_football_team</WikiTitle> <WikiTitleID>576328</WikiTitleID> <RankerScore>0.02683107120569553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wales_national_football_team</WikiTitle> <WikiTitleID>580291</WikiTitleID> <RankerScore>0.02683107120569553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Morocco_national_football_team</WikiTitle> <WikiTitleID>1024865</WikiTitleID> <RankerScore>0.02683107120569553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_organization</WikiTitle> <WikiTitleID>18201224</WikiTitleID> <RankerScore>0.02683107120569553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Slovakia_national_football_team</WikiTitle> <WikiTitleID>681620</WikiTitleID> <RankerScore>0.02683107120569553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wales_national_rugby_union_team</WikiTitle> <WikiTitleID>770930</WikiTitleID> <RankerScore>0.02683107120569553</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>international recognition</EntitySurfaceForm>
+	<EntityTextStart>189</EntityTextStart>
+	<EntityTextEnd>214</EntityTextEnd>
+	<LinkerScore>2.6765528268475767</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Diplomatic_recognition</WikiTitle>
+		<WikiTitleID>524626</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>relations</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Diplomatic_recognition</WikiTitle> <WikiTitleID>524626</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>recognition</EntitySurfaceForm>
+	<EntityTextStart>203</EntityTextStart>
+	<EntityTextEnd>214</EntityTextEnd>
+	<LinkerScore>-0.772710046036433</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Recognition</WikiTitle>
+		<WikiTitleID>1208543</WikiTitleID>
+		<RankerScore>0.42541665089179964</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Recognition</WikiTitle> <WikiTitleID>1208543</WikiTitleID> <RankerScore>0.42541665089179964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diplomatic_recognition</WikiTitle> <WikiTitleID>524626</WikiTitleID> <RankerScore>0.12744452684321442</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Speech_recognition</WikiTitle> <WikiTitleID>29468</WikiTitleID> <RankerScore>0.03342688668883524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Armenian_Genocide_recognition</WikiTitle> <WikiTitleID>12001341</WikiTitleID> <RankerScore>0.04137119355761506</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Image_analysis</WikiTitle> <WikiTitleID>346382</WikiTitleID> <RankerScore>0.04137119355761506</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_American_recognition_in_the_United_States</WikiTitle> <WikiTitleID>12261998</WikiTitleID> <RankerScore>0.04137119355761506</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pattern_recognition</WikiTitle> <WikiTitleID>126706</WikiTitleID> <RankerScore>0.04137119355761506</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biometrics</WikiTitle> <WikiTitleID>205278</WikiTitleID> <RankerScore>0.04137119355761506</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Facial_recognition_system</WikiTitle> <WikiTitleID>602401</WikiTitleID> <RankerScore>0.04137119355761506</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Québécois_nation_motion</WikiTitle> <WikiTitleID>13408979</WikiTitleID> <RankerScore>0.04137119355761506</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Defense_of_marriage_amendment</WikiTitle> <WikiTitleID>1239142</WikiTitleID> <RankerScore>0.04137119355761506</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_character_recognition</WikiTitle> <WikiTitleID>49091</WikiTitleID> <RankerScore>0.04137119355761506</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Labor_Relations_Board</WikiTitle> <WikiTitleID>223373</WikiTitleID> <RankerScore>0.04137119355761506</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>base</EntitySurfaceForm>
+	<EntityTextStart>220</EntityTextStart>
+	<EntityTextEnd>224</EntityTextEnd>
+	<LinkerScore>-0.9584414942229653</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Base_(chemistry)</WikiTitle>
+		<WikiTitleID>140459</WikiTitleID>
+		<RankerScore>0.23820013430596249</RankerScore>
+		<Attributes>base</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Base_(chemistry)</WikiTitle> <WikiTitleID>140459</WikiTitleID> <RankerScore>0.23820013430596249</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_base</WikiTitle> <WikiTitleID>843566</WikiTitleID> <RankerScore>0.04969636723879485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Base</WikiTitle> <WikiTitleID>5101368</WikiTitleID> <RankerScore>0.09822156570832316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radix</WikiTitle> <WikiTitleID>701207</WikiTitleID> <RankerScore>0.04092546218312797</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Base_(topology)</WikiTitle> <WikiTitleID>59220</WikiTitleID> <RankerScore>0.04092546218312797</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Base</WikiTitle> <WikiTitleID>4011</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_airbase</WikiTitle> <WikiTitleID>292333</WikiTitleID> <RankerScore>0.04092546218312797</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baseball_field</WikiTitle> <WikiTitleID>968099</WikiTitleID> <RankerScore>0.04092546218312797</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Base_(politics)</WikiTitle> <WikiTitleID>1169763</WikiTitleID> <RankerScore>0.04092546218312797</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Numeral_system</WikiTitle> <WikiTitleID>21170</WikiTitleID> <RankerScore>0.04092546218312797</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Base_pair</WikiTitle> <WikiTitleID>4292</WikiTitleID> <RankerScore>0.04092546218312797</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Film_base</WikiTitle> <WikiTitleID>4412018</WikiTitleID> <RankerScore>0.04092546218312797</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nucleobase</WikiTitle> <WikiTitleID>89080</WikiTitleID> <RankerScore>0.04092546218312797</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cloud_base</WikiTitle> <WikiTitleID>224336</WikiTitleID> <RankerScore>0.04092546218312797</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_airbase</WikiTitle> <WikiTitleID>185235</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baseball_metaphors_for_sex</WikiTitle> <WikiTitleID>3576773</WikiTitleID> <RankerScore>0.04092546218312797</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Naval_Base_Subic_Bay</WikiTitle> <WikiTitleID>6182702</WikiTitleID> <RankerScore>0.04092546218312797</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lewis_acids_and_bases</WikiTitle> <WikiTitleID>519765</WikiTitleID> <RankerScore>0.04092546218312797</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Base_(group_theory)</WikiTitle> <WikiTitleID>3933525</WikiTitleID> <RankerScore>0.04092546218312797</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Acid–base_reaction</WikiTitle> <WikiTitleID>3038</WikiTitleID> <RankerScore>0.04092546218312797</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Fox Terrier</EntitySurfaceForm>
+	<EntityTextStart>245</EntityTextStart>
+	<EntityTextEnd>256</EntityTextEnd>
+	<LinkerScore>4.985610350737816</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fox_Terrier</WikiTitle>
+		<WikiTitleID>468974</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>type</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fox_Terrier</WikiTitle> <WikiTitleID>468974</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>mid</EntitySurfaceForm>
+	<EntityTextStart>266</EntityTextStart>
+	<EntityTextEnd>269</EntityTextEnd>
+	<LinkerScore>-1.1203972516306941</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mid_vowel</WikiTitle>
+		<WikiTitleID>594778</WikiTitleID>
+		<RankerScore>0.4113849860460488</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mid_vowel</WikiTitle> <WikiTitleID>594778</WikiTitleID> <RankerScore>0.4113849860460488</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MIDI</WikiTitle> <WikiTitleID>19996</WikiTitleID> <RankerScore>0.29811406552080644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mid_Wales</WikiTitle> <WikiTitleID>847103</WikiTitleID> <RankerScore>0.1010338773727565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mid-central_vowel</WikiTitle> <WikiTitleID>594786</WikiTitleID> <RankerScore>0.09473353553019413</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mid-engine_design</WikiTitle> <WikiTitleID>924253</WikiTitleID> <RankerScore>0.09473353553019413</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>mid 19th century</EntitySurfaceForm>
+	<EntityTextStart>266</EntityTextStart>
+	<EntityTextEnd>282</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>19th_century</WikiTitle>
+		<WikiTitleID>34571</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>19th</EntitySurfaceForm>
+	<EntityTextStart>270</EntityTextStart>
+	<EntityTextEnd>274</EntityTextEnd>
+	<LinkerScore>2.0662176154200926</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>19th_century</WikiTitle>
+		<WikiTitleID>34571</WikiTitleID>
+		<RankerScore>0.8792634171895217</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>19th_century</WikiTitle> <WikiTitleID>34571</WikiTitleID> <RankerScore>0.8792634171895217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nineteenth_Dynasty_of_Egypt</WikiTitle> <WikiTitleID>801810</WikiTitleID> <RankerScore>0.0060973998223181015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>19th_Daytime_Emmy_Awards</WikiTitle> <WikiTitleID>2281018</WikiTitleID> <RankerScore>0.012753532339343865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>19th_United_States_Congress</WikiTitle> <WikiTitleID>225102</WikiTitleID> <RankerScore>0.005993273567577429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>June_19</WikiTitle> <WikiTitleID>15817</WikiTitleID> <RankerScore>0.005993273567577429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>19_(number)</WikiTitle> <WikiTitleID>208292</WikiTitleID> <RankerScore>0.005993273567577429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>19th_Panzer_Division_(Wehrmacht)</WikiTitle> <WikiTitleID>10533797</WikiTitleID> <RankerScore>0.005993273567577429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_19</WikiTitle> <WikiTitleID>19632</WikiTitleID> <RankerScore>0.005993273567577429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>California&apos;s_19th_congressional_district</WikiTitle> <WikiTitleID>5601868</WikiTitleID> <RankerScore>0.005993273567577429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_19</WikiTitle> <WikiTitleID>20316</WikiTitleID> <RankerScore>0.005993273567577429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>September_19</WikiTitle> <WikiTitleID>28147</WikiTitleID> <RankerScore>0.005993273567577429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>19th_Academy_Awards</WikiTitle> <WikiTitleID>6268055</WikiTitleID> <RankerScore>0.005993273567577429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_19</WikiTitle> <WikiTitleID>2196</WikiTitleID> <RankerScore>0.005993273567577429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>January_19</WikiTitle> <WikiTitleID>16011</WikiTitleID> <RankerScore>0.005993273567577429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>February_19</WikiTitle> <WikiTitleID>11006</WikiTitleID> <RankerScore>0.005993273567577429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>19th_Waffen_Grenadier_Division_of_the_SS_(2nd_Latvian)</WikiTitle> <WikiTitleID>12675918</WikiTitleID> <RankerScore>0.005993273567577429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Governors_of_New_Jersey</WikiTitle> <WikiTitleID>210081</WikiTitleID> <RankerScore>0.005993273567577429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>19th_arrondissement_of_Paris</WikiTitle> <WikiTitleID>295536</WikiTitleID> <RankerScore>0.005993273567577429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>October_19</WikiTitle> <WikiTitleID>22568</WikiTitleID> <RankerScore>0.005993273567577429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>November_19</WikiTitle> <WikiTitleID>21574</WikiTitleID> <RankerScore>0.005993273567577429</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>19th century</EntitySurfaceForm>
+	<EntityTextStart>270</EntityTextStart>
+	<EntityTextEnd>282</EntityTextEnd>
+	<LinkerScore>2.2575043868071765</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>19th_century</WikiTitle>
+		<WikiTitleID>34571</WikiTitleID>
+		<RankerScore>0.9573201158977802</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>19th_century</WikiTitle> <WikiTitleID>34571</WikiTitleID> <RankerScore>0.9573201158977802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1800s</WikiTitle> <WikiTitleID>34702</WikiTitleID> <RankerScore>0.008547142666053094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>19th_century_in_literature</WikiTitle> <WikiTitleID>3174097</WikiTitleID> <RankerScore>0.0027722989162342077</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1900s</WikiTitle> <WikiTitleID>34619</WikiTitleID> <RankerScore>0.00363745335759044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Canada</WikiTitle> <WikiTitleID>52477</WikiTitleID> <RankerScore>0.0027722989162342077</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>19th-century_French_literature</WikiTitle> <WikiTitleID>2518632</WikiTitleID> <RankerScore>0.0027722989162342077</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1800</WikiTitle> <WikiTitleID>34963</WikiTitleID> <RankerScore>0.0027722989162342077</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Association_(19th_century)</WikiTitle> <WikiTitleID>574595</WikiTitleID> <RankerScore>0.0027722989162342077</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1890s_in_Western_fashion</WikiTitle> <WikiTitleID>1092718</WikiTitleID> <RankerScore>0.0027722989162342077</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_United_States</WikiTitle> <WikiTitleID>63876</WikiTitleID> <RankerScore>0.0027722989162342077</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romantic_music</WikiTitle> <WikiTitleID>25916</WikiTitleID> <RankerScore>0.0027722989162342077</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>19th_century_in_film</WikiTitle> <WikiTitleID>172582</WikiTitleID> <RankerScore>0.0027722989162342077</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Colombia</WikiTitle> <WikiTitleID>5844</WikiTitleID> <RankerScore>0.0027722989162342077</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_in_the_long_nineteenth_century</WikiTitle> <WikiTitleID>2647677</WikiTitleID> <RankerScore>0.0027722989162342077</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>century</EntitySurfaceForm>
+	<EntityTextStart>275</EntityTextStart>
+	<EntityTextEnd>282</EntityTextEnd>
+	<LinkerScore>1.5749714364792207</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Century</WikiTitle>
+		<WikiTitleID>5881</WikiTitleID>
+		<RankerScore>0.30804220395204956</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Century_(cricket)</WikiTitle> <WikiTitleID>1671458</WikiTitleID> <RankerScore>0.22827995754021338</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Century</WikiTitle> <WikiTitleID>5881</WikiTitleID> <RankerScore>0.30804220395204956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>20th_century</WikiTitle> <WikiTitleID>34558</WikiTitleID> <RankerScore>0.21594288852226284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Centuria</WikiTitle> <WikiTitleID>1880720</WikiTitleID> <RankerScore>0.03539070714078203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>17th_century</WikiTitle> <WikiTitleID>34569</WikiTitleID> <RankerScore>0.03539070714078203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glossary_of_cricket_terms</WikiTitle> <WikiTitleID>463755</WikiTitleID> <RankerScore>0.03539070714078203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Challenge_riding</WikiTitle> <WikiTitleID>513881</WikiTitleID> <RankerScore>0.03539070714078203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>21st_century</WikiTitle> <WikiTitleID>34572</WikiTitleID> <RankerScore>0.03539070714078203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>18_(number)</WikiTitle> <WikiTitleID>208294</WikiTitleID> <RankerScore>0.03539070714078203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>3rd_century_BC</WikiTitle> <WikiTitleID>34838</WikiTitleID> <RankerScore>0.03539070714078203</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Native</EntitySurfaceForm>
+	<EntityTextStart>287</EntityTextStart>
+	<EntityTextEnd>293</EntityTextEnd>
+	<LinkerScore>0.27398770181172233</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Indigenous_peoples_of_the_Americas</WikiTitle>
+		<WikiTitleID>2402376</WikiTitleID>
+		<RankerScore>0.5902139694102354</RankerScore>
+		<Attributes>definition	group	peoples</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Native_Americans_in_the_United_States</WikiTitle> <WikiTitleID>21217</WikiTitleID> <RankerScore>0.09030274774478558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native</WikiTitle> <WikiTitleID>12518013</WikiTitleID> <RankerScore>0.07679483400883577</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indigenous_peoples_of_the_Americas</WikiTitle> <WikiTitleID>2402376</WikiTitleID> <RankerScore>0.5902139694102354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aboriginal_peoples_in_Canada</WikiTitle> <WikiTitleID>196075</WikiTitleID> <RankerScore>0.020224037403011947</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_Nations</WikiTitle> <WikiTitleID>315239</WikiTitleID> <RankerScore>0.020224037403011947</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alaska_Natives</WikiTitle> <WikiTitleID>525001</WikiTitleID> <RankerScore>0.020224037403011947</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_(band)</WikiTitle> <WikiTitleID>5003328</WikiTitleID> <RankerScore>0.020224037403011947</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_(comics)</WikiTitle> <WikiTitleID>5808856</WikiTitleID> <RankerScore>0.020224037403011947</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indigenous_peoples</WikiTitle> <WikiTitleID>45281</WikiTitleID> <RankerScore>0.020224037403011947</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Endemism</WikiTitle> <WikiTitleID>937971</WikiTitleID> <RankerScore>0.020224037403011947</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_Records</WikiTitle> <WikiTitleID>17078884</WikiTitleID> <RankerScore>0.020224037403011947</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_Hawaiians</WikiTitle> <WikiTitleID>681745</WikiTitleID> <RankerScore>0.020224037403011947</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_(computing)</WikiTitle> <WikiTitleID>581638</WikiTitleID> <RankerScore>0.020224037403011947</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_American_music</WikiTitle> <WikiTitleID>411844</WikiTitleID> <RankerScore>0.020224037403011947</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indigenous_peoples_in_Brazil</WikiTitle> <WikiTitleID>55510</WikiTitleID> <RankerScore>0.020224037403011947</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Native American</EntitySurfaceForm>
+	<EntityTextStart>287</EntityTextStart>
+	<EntityTextEnd>302</EntityTextEnd>
+	<LinkerScore>-0.36233408848260346</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Indigenous_peoples_of_the_Americas</WikiTitle>
+		<WikiTitleID>2402376</WikiTitleID>
+		<RankerScore>0.38236234613500075</RankerScore>
+		<Attributes>definition	group	peoples</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Race_and_ethnicity_in_the_United_States_Census</WikiTitle> <WikiTitleID>273285</WikiTitleID> <RankerScore>0.2777335593051925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_Americans_in_the_United_States</WikiTitle> <WikiTitleID>21217</WikiTitleID> <RankerScore>0.05111786618906712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indigenous_peoples_of_the_Americas</WikiTitle> <WikiTitleID>2402376</WikiTitleID> <RankerScore>0.38236234613500075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_Americans</WikiTitle> <WikiTitleID>2733618</WikiTitleID> <RankerScore>0.016987425198278807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_American_mythology</WikiTitle> <WikiTitleID>167471</WikiTitleID> <RankerScore>0.016987425198278807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indigenous_peoples_in_Brazil</WikiTitle> <WikiTitleID>55510</WikiTitleID> <RankerScore>0.016987425198278807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indigenous_languages_of_the_Americas</WikiTitle> <WikiTitleID>182480</WikiTitleID> <RankerScore>0.016987425198278807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_Nations</WikiTitle> <WikiTitleID>315239</WikiTitleID> <RankerScore>0.016987425198278807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indigenous_peoples_of_Mexico</WikiTitle> <WikiTitleID>3964346</WikiTitleID> <RankerScore>0.016987425198278807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alaska_Natives</WikiTitle> <WikiTitleID>525001</WikiTitleID> <RankerScore>0.016987425198278807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aboriginal_peoples_in_Canada</WikiTitle> <WikiTitleID>196075</WikiTitleID> <RankerScore>0.016987425198278807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_American_music</WikiTitle> <WikiTitleID>411844</WikiTitleID> <RankerScore>0.016987425198278807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_American_cuisine</WikiTitle> <WikiTitleID>2793067</WikiTitleID> <RankerScore>0.016987425198278807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_American_gaming</WikiTitle> <WikiTitleID>58286</WikiTitleID> <RankerScore>0.016987425198278807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human</WikiTitle> <WikiTitleID>682482</WikiTitleID> <RankerScore>0.016987425198278807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indigenous_peoples</WikiTitle> <WikiTitleID>45281</WikiTitleID> <RankerScore>0.016987425198278807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.016987425198278807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indigenous_peoples_in_South_America</WikiTitle> <WikiTitleID>4691225</WikiTitleID> <RankerScore>0.016987425198278807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Confederated_Salish_and_Kootenai_Tribes_of_the_Flathead_Nation</WikiTitle> <WikiTitleID>875539</WikiTitleID> <RankerScore>0.016987425198278807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_Hawaiians</WikiTitle> <WikiTitleID>681745</WikiTitleID> <RankerScore>0.016987425198278807</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>American</EntitySurfaceForm>
+	<EntityTextStart>294</EntityTextStart>
+	<EntityTextEnd>302</EntityTextEnd>
+	<LinkerScore>0.8427450633490354</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Race_and_ethnicity_in_the_United_States_Census</WikiTitle>
+		<WikiTitleID>273285</WikiTitleID>
+		<RankerScore>0.5159021832305613</RankerScore>
+		<Attributes>group	demographic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Race_and_ethnicity_in_the_United_States_Census</WikiTitle> <WikiTitleID>273285</WikiTitleID> <RankerScore>0.5159021832305613</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_Americans_in_the_United_States</WikiTitle> <WikiTitleID>21217</WikiTitleID> <RankerScore>0.029768799512845442</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indigenous_peoples_of_the_Americas</WikiTitle> <WikiTitleID>2402376</WikiTitleID> <RankerScore>0.25970405862088924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_Americans</WikiTitle> <WikiTitleID>2733618</WikiTitleID> <RankerScore>0.011448526978570822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_American_mythology</WikiTitle> <WikiTitleID>167471</WikiTitleID> <RankerScore>0.011448526978570822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indigenous_peoples_in_Brazil</WikiTitle> <WikiTitleID>55510</WikiTitleID> <RankerScore>0.011448526978570822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indigenous_languages_of_the_Americas</WikiTitle> <WikiTitleID>182480</WikiTitleID> <RankerScore>0.011448526978570822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_Nations</WikiTitle> <WikiTitleID>315239</WikiTitleID> <RankerScore>0.011448526978570822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indigenous_peoples_of_Mexico</WikiTitle> <WikiTitleID>3964346</WikiTitleID> <RankerScore>0.011448526978570822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alaska_Natives</WikiTitle> <WikiTitleID>525001</WikiTitleID> <RankerScore>0.011448526978570822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aboriginal_peoples_in_Canada</WikiTitle> <WikiTitleID>196075</WikiTitleID> <RankerScore>0.011448526978570822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_American_music</WikiTitle> <WikiTitleID>411844</WikiTitleID> <RankerScore>0.011448526978570822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_American_cuisine</WikiTitle> <WikiTitleID>2793067</WikiTitleID> <RankerScore>0.011448526978570822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_American_gaming</WikiTitle> <WikiTitleID>58286</WikiTitleID> <RankerScore>0.011448526978570822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human</WikiTitle> <WikiTitleID>682482</WikiTitleID> <RankerScore>0.011448526978570822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indigenous_peoples</WikiTitle> <WikiTitleID>45281</WikiTitleID> <RankerScore>0.011448526978570822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.011448526978570822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indigenous_peoples_in_South_America</WikiTitle> <WikiTitleID>4691225</WikiTitleID> <RankerScore>0.011448526978570822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Confederated_Salish_and_Kootenai_Tribes_of_the_Flathead_Nation</WikiTitle> <WikiTitleID>875539</WikiTitleID> <RankerScore>0.011448526978570822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_Hawaiians</WikiTitle> <WikiTitleID>681745</WikiTitleID> <RankerScore>0.011448526978570822</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>dogs</EntitySurfaceForm>
+	<EntityTextStart>303</EntityTextStart>
+	<EntityTextEnd>307</EntityTextEnd>
+	<LinkerScore>3.663276703917487</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dog</WikiTitle>
+		<WikiTitleID>4269567</WikiTitleID>
+		<RankerScore>0.9877217027827571</RankerScore>
+		<Attributes>dog	animal	species</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dog</WikiTitle> <WikiTitleID>4269567</WikiTitleID> <RankerScore>0.9877217027827571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Police_dog</WikiTitle> <WikiTitleID>537859</WikiTitleID> <RankerScore>3.3978295756709583E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canidae</WikiTitle> <WikiTitleID>6736</WikiTitleID> <RankerScore>0.00146278676690107</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dog_(engineering)</WikiTitle> <WikiTitleID>10240256</WikiTitleID> <RankerScore>3.3978295756709583E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sled_dog</WikiTitle> <WikiTitleID>273243</WikiTitleID> <RankerScore>3.3978295756709583E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dog_meat</WikiTitle> <WikiTitleID>3279728</WikiTitleID> <RankerScore>3.3978295756709583E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dog_sled</WikiTitle> <WikiTitleID>452278</WikiTitleID> <RankerScore>3.3978295756709583E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dogs_(song)</WikiTitle> <WikiTitleID>2622039</WikiTitleID> <RankerScore>3.3978295756709583E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dog_clutch</WikiTitle> <WikiTitleID>8669172</WikiTitleID> <RankerScore>3.3978295756709583E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greenland_Dog</WikiTitle> <WikiTitleID>714928</WikiTitleID> <RankerScore>3.3978295756709583E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Dane</WikiTitle> <WikiTitleID>83416</WikiTitleID> <RankerScore>0.00503920017170124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greyhound_racing</WikiTitle> <WikiTitleID>38871</WikiTitleID> <RankerScore>3.3978295756709583E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun_dog</WikiTitle> <WikiTitleID>323221</WikiTitleID> <RankerScore>3.3978295756709583E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detection_dog</WikiTitle> <WikiTitleID>1463215</WikiTitleID> <RankerScore>3.3978295756709583E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_Eskimo_Dog</WikiTitle> <WikiTitleID>1525106</WikiTitleID> <RankerScore>3.3978295756709583E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dingo</WikiTitle> <WikiTitleID>62893</WikiTitleID> <RankerScore>3.3978295756709583E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hunting_dog</WikiTitle> <WikiTitleID>491841</WikiTitleID> <RankerScore>3.3978295756709583E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_fictional_dogs</WikiTitle> <WikiTitleID>157811</WikiTitleID> <RankerScore>3.3978295756709583E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_dog_breeds</WikiTitle> <WikiTitleID>8615</WikiTitleID> <RankerScore>3.3978295756709583E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hound</WikiTitle> <WikiTitleID>63031</WikiTitleID> <RankerScore>3.3978295756709583E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chilean</EntitySurfaceForm>
+	<EntityTextStart>313</EntityTextStart>
+	<EntityTextEnd>320</EntityTextEnd>
+	<LinkerScore>2.30674712357994</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chile</WikiTitle>
+		<WikiTitleID>5489</WikiTitleID>
+		<RankerScore>0.8940084534925529</RankerScore>
+		<Attributes>state	country	colony	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chile</WikiTitle> <WikiTitleID>5489</WikiTitleID> <RankerScore>0.8940084534925529</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Flamingo</WikiTitle> <WikiTitleID>182807</WikiTitleID> <RankerScore>0.011143594945497026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Chile</WikiTitle> <WikiTitleID>5497</WikiTitleID> <RankerScore>0.0030677800711095327</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Chile</WikiTitle> <WikiTitleID>67363</WikiTitleID> <RankerScore>0.06417015085085485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_poetry</WikiTitle> <WikiTitleID>4620412</WikiTitleID> <RankerScore>0.0030677800711095327</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Chile</WikiTitle> <WikiTitleID>148279</WikiTitleID> <RankerScore>0.0030677800711095327</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_American</WikiTitle> <WikiTitleID>7765577</WikiTitleID> <RankerScore>0.0030677800711095327</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DINA</WikiTitle> <WikiTitleID>269329</WikiTitleID> <RankerScore>0.0030677800711095327</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Navy</WikiTitle> <WikiTitleID>1201138</WikiTitleID> <RankerScore>0.0030677800711095327</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Antarctic_Territory</WikiTitle> <WikiTitleID>8260404</WikiTitleID> <RankerScore>0.0030677800711095327</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_peso</WikiTitle> <WikiTitleID>171898</WikiTitleID> <RankerScore>0.0030677800711095327</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_football_team</WikiTitle> <WikiTitleID>697710</WikiTitleID> <RankerScore>0.0030677800711095327</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_mythology</WikiTitle> <WikiTitleID>8857940</WikiTitleID> <RankerScore>0.0030677800711095327</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chilean Fox Terrier</EntitySurfaceForm>
+	<EntityTextStart>313</EntityTextStart>
+	<EntityTextEnd>332</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chilean_Fox_Terrier</WikiTitle>
+		<WikiTitleID>8856019</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chilean_Fox_Terrier</WikiTitle> <WikiTitleID>8856019</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Fox Terrier</EntitySurfaceForm>
+	<EntityTextStart>321</EntityTextStart>
+	<EntityTextEnd>332</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chilean_Fox_Terrier</WikiTitle>
+		<WikiTitleID>8856019</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fox_Terrier</WikiTitle> <WikiTitleID>468974</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Fox</EntitySurfaceForm>
+	<EntityTextStart>321</EntityTextStart>
+	<EntityTextEnd>324</EntityTextEnd>
+	<LinkerScore>2.0713650856541515</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fox</WikiTitle>
+		<WikiTitleID>11299</WikiTitleID>
+		<RankerScore>0.7842242738707562</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fox_Broadcasting_Company</WikiTitle> <WikiTitleID>46252</WikiTitleID> <RankerScore>0.08258861949017916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox</WikiTitle> <WikiTitleID>11299</WikiTitleID> <RankerScore>0.7842242738707562</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Meskwaki</WikiTitle> <WikiTitleID>320879</WikiTitleID> <RankerScore>0.01948268087507556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>20th_Century_Fox</WikiTitle> <WikiTitleID>170318</WikiTitleID> <RankerScore>0.00668849563317583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charles_James_Fox</WikiTitle> <WikiTitleID>142125</WikiTitleID> <RankerScore>0.00668849563317583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_Sports_(United_States)</WikiTitle> <WikiTitleID>1699539</WikiTitleID> <RankerScore>0.00668849563317583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Animals_of_Farthing_Wood_characters</WikiTitle> <WikiTitleID>6021430</WikiTitleID> <RankerScore>0.00668849563317583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_Entertainment_Group</WikiTitle> <WikiTitleID>535799</WikiTitleID> <RankerScore>0.00668849563317583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_News_Channel</WikiTitle> <WikiTitleID>11121</WikiTitleID> <RankerScore>0.00668849563317583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NASCAR_on_Fox</WikiTitle> <WikiTitleID>4064853</WikiTitleID> <RankerScore>0.00668849563317583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_language</WikiTitle> <WikiTitleID>3563275</WikiTitleID> <RankerScore>0.00668849563317583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Volkswagen_Fox</WikiTitle> <WikiTitleID>707709</WikiTitleID> <RankerScore>0.00668849563317583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox,_Alaska</WikiTitle> <WikiTitleID>105446</WikiTitleID> <RankerScore>0.00668849563317583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NFL_on_Fox</WikiTitle> <WikiTitleID>1809083</WikiTitleID> <RankerScore>0.00668849563317583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_(magazine)</WikiTitle> <WikiTitleID>10695169</WikiTitleID> <RankerScore>0.00668849563317583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_(band)</WikiTitle> <WikiTitleID>3371372</WikiTitleID> <RankerScore>0.00668849563317583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_Feature_Syndicate</WikiTitle> <WikiTitleID>2900194</WikiTitleID> <RankerScore>0.00668849563317583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_Crane</WikiTitle> <WikiTitleID>1761986</WikiTitleID> <RankerScore>0.00668849563317583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_Glacier</WikiTitle> <WikiTitleID>965398</WikiTitleID> <RankerScore>0.00668849563317583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_(song)</WikiTitle> <WikiTitleID>5392105</WikiTitleID> <RankerScore>0.00668849563317583</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Terrier</EntitySurfaceForm>
+	<EntityTextStart>325</EntityTextStart>
+	<EntityTextEnd>332</EntityTextEnd>
+	<LinkerScore>2.734096418740379</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Terrier</WikiTitle>
+		<WikiTitleID>176426</WikiTitleID>
+		<RankerScore>0.9936233589240281</RankerScore>
+		<Attributes>type	dog</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>RIM-2_Terrier</WikiTitle> <WikiTitleID>522819</WikiTitleID> <RankerScore>0.003441784952259263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Terrier</WikiTitle> <WikiTitleID>176426</WikiTitleID> <RankerScore>0.9936233589240281</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Terrier_(novel)</WikiTitle> <WikiTitleID>7896162</WikiTitleID> <RankerScore>8.571257887965961E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Terrier_vehicle</WikiTitle> <WikiTitleID>14001939</WikiTitleID> <RankerScore>0.0012206045461194649</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beagle_Terrier</WikiTitle> <WikiTitleID>6978593</WikiTitleID> <RankerScore>8.571257887965961E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>black</EntitySurfaceForm>
+	<EntityTextStart>337</EntityTextStart>
+	<EntityTextEnd>342</EntityTextEnd>
+	<LinkerScore>0.9698396426386742</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Black</WikiTitle>
+		<WikiTitleID>4035</WikiTitleID>
+		<RankerScore>0.31412673639392924</RankerScore>
+		<Attributes>dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Black</WikiTitle> <WikiTitleID>4035</WikiTitleID> <RankerScore>0.31412673639392924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Black_people</WikiTitle> <WikiTitleID>4745</WikiTitleID> <RankerScore>0.08869134698239176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>African_American</WikiTitle> <WikiTitleID>2154</WikiTitleID> <RankerScore>0.13475705548384015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Black_(horse)</WikiTitle> <WikiTitleID>6736865</WikiTitleID> <RankerScore>0.027201462419990524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Black_metal</WikiTitle> <WikiTitleID>4874</WikiTitleID> <RankerScore>0.027201462419990524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blacks</WikiTitle> <WikiTitleID>2374439</WikiTitleID> <RankerScore>0.027201462419990524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Black_Canadians</WikiTitle> <WikiTitleID>466982</WikiTitleID> <RankerScore>0.027201462419990524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Black_tea</WikiTitle> <WikiTitleID>435223</WikiTitleID> <RankerScore>0.027201462419990524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Race_and_ethnicity_in_the_United_States_Census</WikiTitle> <WikiTitleID>273285</WikiTitleID> <RankerScore>0.027201462419990524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Black_British</WikiTitle> <WikiTitleID>3360481</WikiTitleID> <RankerScore>0.027201462419990524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Black_comedy</WikiTitle> <WikiTitleID>118365</WikiTitleID> <RankerScore>0.027201462419990524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Black_hair</WikiTitle> <WikiTitleID>5890143</WikiTitleID> <RankerScore>0.027201462419990524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Black_market</WikiTitle> <WikiTitleID>1304277</WikiTitleID> <RankerScore>0.027201462419990524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chernozem</WikiTitle> <WikiTitleID>491376</WikiTitleID> <RankerScore>0.027201462419990524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sable_(heraldry)</WikiTitle> <WikiTitleID>1095456</WikiTitleID> <RankerScore>0.027201462419990524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_black_bear</WikiTitle> <WikiTitleID>51054</WikiTitleID> <RankerScore>0.027201462419990524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Black_abalone</WikiTitle> <WikiTitleID>606466</WikiTitleID> <RankerScore>0.027201462419990524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Afro-Latin_American</WikiTitle> <WikiTitleID>637348</WikiTitleID> <RankerScore>0.027201462419990524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Black_oak</WikiTitle> <WikiTitleID>10422947</WikiTitleID> <RankerScore>0.027201462419990524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>African_immigration_to_Europe</WikiTitle> <WikiTitleID>6145048</WikiTitleID> <RankerScore>0.027201462419990524</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>black and tan</EntitySurfaceForm>
+	<EntityTextStart>337</EntityTextStart>
+	<EntityTextEnd>350</EntityTextEnd>
+	<LinkerScore>-0.563298766052354</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Black_and_Tan</WikiTitle>
+		<WikiTitleID>991708</WikiTitleID>
+		<RankerScore>0.816316016648401</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Black_and_Tan</WikiTitle> <WikiTitleID>991708</WikiTitleID> <RankerScore>0.816316016648401</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Black_and_Tans</WikiTitle> <WikiTitleID>4922</WikiTitleID> <RankerScore>0.183683983351599</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>tan</EntitySurfaceForm>
+	<EntityTextStart>347</EntityTextStart>
+	<EntityTextEnd>350</EntityTextEnd>
+	<LinkerScore>2.97437564269404</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tan_(color)</WikiTitle>
+		<WikiTitleID>747516</WikiTitleID>
+		<RankerScore>0.8577592565736234</RankerScore>
+		<Attributes>shades</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tan_(color)</WikiTitle> <WikiTitleID>747516</WikiTitleID> <RankerScore>0.8577592565736234</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tan</WikiTitle> <WikiTitleID>324784</WikiTitleID> <RankerScore>0.06874769342142309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun_tanning</WikiTitle> <WikiTitleID>541488</WikiTitleID> <RankerScore>0.020059992644028926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tanning</WikiTitle> <WikiTitleID>140990</WikiTitleID> <RankerScore>0.01781101912030818</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tangent</WikiTitle> <WikiTitleID>31482</WikiTitleID> <RankerScore>0.01781101912030818</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trigonometric_functions</WikiTitle> <WikiTitleID>30367</WikiTitleID> <RankerScore>0.01781101912030818</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>spots</EntitySurfaceForm>
+	<EntityTextStart>351</EntityTextStart>
+	<EntityTextEnd>356</EntityTextEnd>
+	<LinkerScore>-1.7133031183077565</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Spots_(cannabis)</WikiTitle>
+		<WikiTitleID>15505955</WikiTitleID>
+		<RankerScore>0.32364995396927376</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Liver_spot</WikiTitle> <WikiTitleID>4286150</WikiTitleID> <RankerScore>0.2769830724074102</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_advertisement</WikiTitle> <WikiTitleID>3571486</WikiTitleID> <RankerScore>0.16773396622362136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spots_(cannabis)</WikiTitle> <WikiTitleID>15505955</WikiTitleID> <RankerScore>0.32364995396927376</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spot</WikiTitle> <WikiTitleID>67090</WikiTitleID> <RankerScore>0.11581650369984729</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spot_croaker</WikiTitle> <WikiTitleID>4867224</WikiTitleID> <RankerScore>0.11581650369984729</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>white</EntitySurfaceForm>
+	<EntityTextStart>362</EntityTextStart>
+	<EntityTextEnd>367</EntityTextEnd>
+	<LinkerScore>0.9388581167871508</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>White</WikiTitle>
+		<WikiTitleID>17599355</WikiTitleID>
+		<RankerScore>0.3634947632261188</RankerScore>
+		<Attributes>shades</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>White</WikiTitle> <WikiTitleID>17599355</WikiTitleID> <RankerScore>0.3634947632261188</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_people</WikiTitle> <WikiTitleID>166202</WikiTitleID> <RankerScore>0.19214959480235871</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_American</WikiTitle> <WikiTitleID>2495537</WikiTitleID> <RankerScore>0.06940887787593307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Caucasian_race</WikiTitle> <WikiTitleID>465626</WikiTitleID> <RankerScore>0.02205569200562291</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Race_and_ethnicity_in_the_United_States_Census</WikiTitle> <WikiTitleID>273285</WikiTitleID> <RankerScore>0.02205569200562291</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_(horse)</WikiTitle> <WikiTitleID>6005446</WikiTitleID> <RankerScore>0.02205569200562291</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_noise</WikiTitle> <WikiTitleID>46182</WikiTitleID> <RankerScore>0.02205569200562291</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_American</WikiTitle> <WikiTitleID>605581</WikiTitleID> <RankerScore>0.02205569200562291</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_people_in_Zimbabwe</WikiTitle> <WikiTitleID>2027786</WikiTitleID> <RankerScore>0.02205569200562291</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_tea</WikiTitle> <WikiTitleID>424412</WikiTitleID> <RankerScore>0.02205569200562291</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_British</WikiTitle> <WikiTitleID>6533017</WikiTitleID> <RankerScore>0.02205569200562291</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_movement</WikiTitle> <WikiTitleID>395296</WikiTitleID> <RankerScore>0.02205569200562291</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Caucasian</WikiTitle> <WikiTitleID>163236</WikiTitleID> <RankerScore>0.02205569200562291</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_blood_cell</WikiTitle> <WikiTitleID>144480</WikiTitleID> <RankerScore>0.02205569200562291</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abies_concolor</WikiTitle> <WikiTitleID>1238783</WikiTitleID> <RankerScore>0.02205569200562291</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_bread</WikiTitle> <WikiTitleID>811199</WikiTitleID> <RankerScore>0.02205569200562291</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_Africans_of_European_ancestry</WikiTitle> <WikiTitleID>3548260</WikiTitleID> <RankerScore>0.02205569200562291</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_Pine</WikiTitle> <WikiTitleID>1292292</WikiTitleID> <RankerScore>0.02205569200562291</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_Latin_American</WikiTitle> <WikiTitleID>9052729</WikiTitleID> <RankerScore>0.02205569200562291</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pinus_strobus</WikiTitle> <WikiTitleID>464301</WikiTitleID> <RankerScore>0.02205569200562291</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>fur</EntitySurfaceForm>
+	<EntityTextStart>368</EntityTextStart>
+	<EntityTextEnd>371</EntityTextEnd>
+	<LinkerScore>4.486812643005205</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fur</WikiTitle>
+		<WikiTitleID>46971</WikiTitleID>
+		<RankerScore>0.9902636977034432</RankerScore>
+		<Attributes>right	product</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fur</WikiTitle> <WikiTitleID>46971</WikiTitleID> <RankerScore>0.9902636977034432</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fur_clothing</WikiTitle> <WikiTitleID>2427310</WikiTitleID> <RankerScore>0.003495830091602926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fur_trade</WikiTitle> <WikiTitleID>452887</WikiTitleID> <RankerScore>0.002080157401651268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fur</WikiTitle> <WikiTitleID>1239694</WikiTitleID> <RankerScore>0.6103888032168578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Massage</WikiTitle> <WikiTitleID>43945</WikiTitleID> <RankerScore>0.002080157401651268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fur_farming</WikiTitle> <WikiTitleID>443297</WikiTitleID> <RankerScore>0.002080157401651268</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>grey</EntitySurfaceForm>
+	<EntityTextStart>402</EntityTextStart>
+	<EntityTextEnd>406</EntityTextEnd>
+	<LinkerScore>1.7023314170015786</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Grey</WikiTitle>
+		<WikiTitleID>731893</WikiTitleID>
+		<RankerScore>0.8662843835543907</RankerScore>
+		<Attributes>shades</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Grey</WikiTitle> <WikiTitleID>731893</WikiTitleID> <RankerScore>0.8662843835543907</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gray_(horse)</WikiTitle> <WikiTitleID>1278022</WikiTitleID> <RankerScore>0.040115316318744924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grey_seal</WikiTitle> <WikiTitleID>372719</WikiTitleID> <RankerScore>0.015805640287047173</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greys</WikiTitle> <WikiTitleID>358890</WikiTitleID> <RankerScore>0.015558931967963442</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grey_Heron</WikiTitle> <WikiTitleID>238196</WikiTitleID> <RankerScore>0.015558931967963442</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gray_literature</WikiTitle> <WikiTitleID>3442409</WikiTitleID> <RankerScore>0.015558931967963442</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grey_market</WikiTitle> <WikiTitleID>240127</WikiTitleID> <RankerScore>0.015558931967963442</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eastern_gray_squirrel</WikiTitle> <WikiTitleID>408169</WikiTitleID> <RankerScore>0.015558931967963442</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>undercoat</EntitySurfaceForm>
+	<EntityTextStart>407</EntityTextStart>
+	<EntityTextEnd>416</EntityTextEnd>
+	<LinkerScore>4.322940567105786</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Coat_(animal)</WikiTitle>
+		<WikiTitleID>1085249</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Coat_(animal)</WikiTitle> <WikiTitleID>1085249</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>dark</EntitySurfaceForm>
+	<EntityTextStart>433</EntityTextStart>
+	<EntityTextEnd>437</EntityTextEnd>
+	<LinkerScore>1.4331547603167052</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Darkness</WikiTitle>
+		<WikiTitleID>248581</WikiTitleID>
+		<RankerScore>0.43884405868887694</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Darkness</WikiTitle> <WikiTitleID>248581</WikiTitleID> <RankerScore>0.43884405868887694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dark_(broadcasting)</WikiTitle> <WikiTitleID>12689594</WikiTitleID> <RankerScore>0.12989314702595597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Black_comedy</WikiTitle> <WikiTitleID>118365</WikiTitleID> <RankerScore>0.04331525219808041</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Off-the-air</WikiTitle> <WikiTitleID>41441</WikiTitleID> <RankerScore>0.04310528245412074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Velarized_alveolar_lateral_approximant</WikiTitle> <WikiTitleID>525198</WikiTitleID> <RankerScore>0.04310528245412074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dark_fantasy</WikiTitle> <WikiTitleID>1263196</WikiTitleID> <RankerScore>0.04310528245412074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dark_matter</WikiTitle> <WikiTitleID>8651</WikiTitleID> <RankerScore>0.04310528245412074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Evil</WikiTitle> <WikiTitleID>9897</WikiTitleID> <RankerScore>0.04310528245412074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dark_wave</WikiTitle> <WikiTitleID>363651</WikiTitleID> <RankerScore>0.04310528245412074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vignetting</WikiTitle> <WikiTitleID>1246346</WikiTitleID> <RankerScore>0.04310528245412074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Black_metal</WikiTitle> <WikiTitleID>4874</WikiTitleID> <RankerScore>0.04310528245412074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dunkel</WikiTitle> <WikiTitleID>824008</WikiTitleID> <RankerScore>0.04310528245412074</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>spots</EntitySurfaceForm>
+	<EntityTextStart>438</EntityTextStart>
+	<EntityTextEnd>443</EntityTextEnd>
+	<LinkerScore>0.5187084128390091</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Liver_spot</WikiTitle>
+		<WikiTitleID>4286150</WikiTitleID>
+		<RankerScore>0.4027771989072452</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Liver_spot</WikiTitle> <WikiTitleID>4286150</WikiTitleID> <RankerScore>0.4027771989072452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_advertisement</WikiTitle> <WikiTitleID>3571486</WikiTitleID> <RankerScore>0.09473909573305822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spots_(cannabis)</WikiTitle> <WikiTitleID>15505955</WikiTitleID> <RankerScore>0.26054927090690255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spot</WikiTitle> <WikiTitleID>67090</WikiTitleID> <RankerScore>0.14719533871973586</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spot_croaker</WikiTitle> <WikiTitleID>4867224</WikiTitleID> <RankerScore>0.09473909573305822</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>white</EntitySurfaceForm>
+	<EntityTextStart>459</EntityTextStart>
+	<EntityTextEnd>464</EntityTextEnd>
+	<LinkerScore>0.8808912553562873</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>White</WikiTitle>
+		<WikiTitleID>17599355</WikiTitleID>
+		<RankerScore>0.3261808074100206</RankerScore>
+		<Attributes>shades</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>White</WikiTitle> <WikiTitleID>17599355</WikiTitleID> <RankerScore>0.3261808074100206</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_people</WikiTitle> <WikiTitleID>166202</WikiTitleID> <RankerScore>0.18430621334408653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_American</WikiTitle> <WikiTitleID>2495537</WikiTitleID> <RankerScore>0.03842330298439591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Caucasian_race</WikiTitle> <WikiTitleID>465626</WikiTitleID> <RankerScore>0.02653468683891159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Race_and_ethnicity_in_the_United_States_Census</WikiTitle> <WikiTitleID>273285</WikiTitleID> <RankerScore>0.02653468683891159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_(horse)</WikiTitle> <WikiTitleID>6005446</WikiTitleID> <RankerScore>0.02653468683891159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_noise</WikiTitle> <WikiTitleID>46182</WikiTitleID> <RankerScore>0.02653468683891159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_American</WikiTitle> <WikiTitleID>605581</WikiTitleID> <RankerScore>0.02653468683891159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_people_in_Zimbabwe</WikiTitle> <WikiTitleID>2027786</WikiTitleID> <RankerScore>0.02653468683891159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_tea</WikiTitle> <WikiTitleID>424412</WikiTitleID> <RankerScore>0.02653468683891159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_British</WikiTitle> <WikiTitleID>6533017</WikiTitleID> <RankerScore>0.02653468683891159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_movement</WikiTitle> <WikiTitleID>395296</WikiTitleID> <RankerScore>0.02653468683891159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Caucasian</WikiTitle> <WikiTitleID>163236</WikiTitleID> <RankerScore>0.02653468683891159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_blood_cell</WikiTitle> <WikiTitleID>144480</WikiTitleID> <RankerScore>0.02653468683891159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abies_concolor</WikiTitle> <WikiTitleID>1238783</WikiTitleID> <RankerScore>0.02653468683891159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_bread</WikiTitle> <WikiTitleID>811199</WikiTitleID> <RankerScore>0.02653468683891159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_Africans_of_European_ancestry</WikiTitle> <WikiTitleID>3548260</WikiTitleID> <RankerScore>0.02653468683891159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_Pine</WikiTitle> <WikiTitleID>1292292</WikiTitleID> <RankerScore>0.02653468683891159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_Latin_American</WikiTitle> <WikiTitleID>9052729</WikiTitleID> <RankerScore>0.02653468683891159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pinus_strobus</WikiTitle> <WikiTitleID>464301</WikiTitleID> <RankerScore>0.02653468683891159</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>white cover</EntitySurfaceForm>
+	<EntityTextStart>459</EntityTextStart>
+	<EntityTextEnd>470</EntityTextEnd>
+	<LinkerScore>2.340417720130928</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>White_label</WikiTitle>
+		<WikiTitleID>1379293</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>White_label</WikiTitle> <WikiTitleID>1379293</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>cover</EntitySurfaceForm>
+	<EntityTextStart>465</EntityTextStart>
+	<EntityTextEnd>470</EntityTextEnd>
+	<LinkerScore>-0.06820259773969639</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cover_version</WikiTitle>
+		<WikiTitleID>159031</WikiTitleID>
+		<RankerScore>0.28234623672399856</RankerScore>
+		<Attributes>type</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cover_version</WikiTitle> <WikiTitleID>159031</WikiTitleID> <RankerScore>0.28234623672399856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cover</WikiTitle> <WikiTitleID>40973</WikiTitleID> <RankerScore>0.08573621926738766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cover_(philately)</WikiTitle> <WikiTitleID>487366</WikiTitleID> <RankerScore>0.05217112880196465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Album_cover</WikiTitle> <WikiTitleID>1933002</WikiTitleID> <RankerScore>0.03410273030627347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cover_(military)</WikiTitle> <WikiTitleID>717274</WikiTitleID> <RankerScore>0.03410273030627347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cover_(topology)</WikiTitle> <WikiTitleID>317552</WikiTitleID> <RankerScore>0.03410273030627347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Undercover_operation</WikiTitle> <WikiTitleID>620412</WikiTitleID> <RankerScore>0.03410273030627347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Book_cover</WikiTitle> <WikiTitleID>3723902</WikiTitleID> <RankerScore>0.03410273030627347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cover_art</WikiTitle> <WikiTitleID>2423902</WikiTitleID> <RankerScore>0.03410273030627347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Covering_space</WikiTitle> <WikiTitleID>250323</WikiTitleID> <RankerScore>0.03410273030627347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bed_sheet</WikiTitle> <WikiTitleID>1259351</WikiTitleID> <RankerScore>0.03410273030627347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lid_(container)</WikiTitle> <WikiTitleID>2332073</WikiTitleID> <RankerScore>0.03410273030627347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_NME_covers</WikiTitle> <WikiTitleID>8585434</WikiTitleID> <RankerScore>0.03410273030627347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Infiltration_tactics</WikiTitle> <WikiTitleID>763696</WikiTitleID> <RankerScore>0.03410273030627347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Code_coverage</WikiTitle> <WikiTitleID>7030</WikiTitleID> <RankerScore>0.03410273030627347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ziggy_Stardust_(song)</WikiTitle> <WikiTitleID>4159918</WikiTitleID> <RankerScore>0.03410273030627347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Understudy</WikiTitle> <WikiTitleID>365239</WikiTitleID> <RankerScore>0.03410273030627347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>God_Save_the_Queen_(Sex_Pistols_song)</WikiTitle> <WikiTitleID>2306491</WikiTitleID> <RankerScore>0.03410273030627347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_images_on_the_cover_of_Sgt._Pepper&apos;s_Lonely_Hearts_Club_Band</WikiTitle> <WikiTitleID>1090690</WikiTitleID> <RankerScore>0.03410273030627347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_Tell_Overture_(Mike_Oldfield_instrumental)</WikiTitle> <WikiTitleID>11989157</WikiTitleID> <RankerScore>0.03410273030627347</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>coat</EntitySurfaceForm>
+	<EntityTextStart>471</EntityTextStart>
+	<EntityTextEnd>475</EntityTextEnd>
+	<LinkerScore>1.0252262966097851</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Coat_(dog)</WikiTitle>
+		<WikiTitleID>1681022</WikiTitleID>
+		<RankerScore>0.7156210586591417</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Coat</WikiTitle> <WikiTitleID>1090979</WikiTitleID> <RankerScore>0.04329451037054288</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coat_(clothing)</WikiTitle> <WikiTitleID>339769</WikiTitleID> <RankerScore>0.005476522403661017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coat_(dog)</WikiTitle> <WikiTitleID>1681022</WikiTitleID> <RankerScore>0.7156210586591417</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coat_(animal)</WikiTitle> <WikiTitleID>1267215</WikiTitleID> <RankerScore>0.21370181895201024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coating</WikiTitle> <WikiTitleID>1897245</WikiTitleID> <RankerScore>0.005476522403661017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fur</WikiTitle> <WikiTitleID>46971</WikiTitleID> <RankerScore>0.005476522403661017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coats</WikiTitle> <WikiTitleID>8705457</WikiTitleID> <RankerScore>0.005476522403661017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bunker_gear</WikiTitle> <WikiTitleID>5959893</WikiTitleID> <RankerScore>0.005476522403661017</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>ears</EntitySurfaceForm>
+	<EntityTextStart>481</EntityTextStart>
+	<EntityTextEnd>485</EntityTextEnd>
+	<LinkerScore>2.3729862044872583</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ear</WikiTitle>
+		<WikiTitleID>768413</WikiTitleID>
+		<RankerScore>0.8079827232373041</RankerScore>
+		<Attributes>organs</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ear</WikiTitle> <WikiTitleID>768413</WikiTitleID> <RankerScore>0.8079827232373041</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ear_(botany)</WikiTitle> <WikiTitleID>2592596</WikiTitleID> <RankerScore>0.14982639248134322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moe_anthropomorphism</WikiTitle> <WikiTitleID>3880004</WikiTitleID> <RankerScore>0.0421908842813525</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>set</EntitySurfaceForm>
+	<EntityTextStart>490</EntityTextStart>
+	<EntityTextEnd>493</EntityTextEnd>
+	<LinkerScore>0.5836162088057376</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Set</WikiTitle>
+		<WikiTitleID>26691</WikiTitleID>
+		<RankerScore>0.5591010275816578</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Set</WikiTitle> <WikiTitleID>26691</WikiTitleID> <RankerScore>0.5591010275816578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Set_construction</WikiTitle> <WikiTitleID>416758</WikiTitleID> <RankerScore>0.030448625232637597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Set_(abstract_data_type)</WikiTitle> <WikiTitleID>201127</WikiTitleID> <RankerScore>0.0327670793662643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scenic_design</WikiTitle> <WikiTitleID>416779</WikiTitleID> <RankerScore>0.025178884521296022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Set_theory</WikiTitle> <WikiTitleID>27553</WikiTitleID> <RankerScore>0.025178884521296022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Set_(music)</WikiTitle> <WikiTitleID>3189755</WikiTitleID> <RankerScore>0.025178884521296022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sunset</WikiTitle> <WikiTitleID>190933</WikiTitleID> <RankerScore>0.025178884521296022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Concert</WikiTitle> <WikiTitleID>236918</WikiTitleID> <RankerScore>0.025178884521296022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Setting_(narrative)</WikiTitle> <WikiTitleID>3564116</WikiTitleID> <RankerScore>0.025178884521296022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Theatrical_scenery</WikiTitle> <WikiTitleID>324317</WikiTitleID> <RankerScore>0.025178884521296022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_O-Pee-Chee_Sports_Cards_Sets</WikiTitle> <WikiTitleID>17196388</WikiTitleID> <RankerScore>0.025178884521296022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_O-Pee-Chee_Sports_Cards_Sets</WikiTitle> <WikiTitleID>17196497</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Typesetting</WikiTitle> <WikiTitleID>169180</WikiTitleID> <RankerScore>0.025178884521296022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DJ_mix</WikiTitle> <WikiTitleID>5314444</WikiTitleID> <RankerScore>0.025178884521296022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Subset</WikiTitle> <WikiTitleID>27631</WikiTitleID> <RankerScore>0.025178884521296022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Table_setting</WikiTitle> <WikiTitleID>488403</WikiTitleID> <RankerScore>0.025178884521296022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jeopardy!_set_evolution</WikiTitle> <WikiTitleID>6015313</WikiTitleID> <RankerScore>0.025178884521296022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_O-Pee-Chee_Sports_Cards_Sets</WikiTitle> <WikiTitleID>17196214</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_studio</WikiTitle> <WikiTitleID>1555089</WikiTitleID> <RankerScore>0.025178884521296022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stand-up_comedy</WikiTitle> <WikiTitleID>103067</WikiTitleID> <RankerScore>0.025178884521296022</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>form</EntitySurfaceForm>
+	<EntityTextStart>523</EntityTextStart>
+	<EntityTextEnd>527</EntityTextEnd>
+	<LinkerScore>-1.5294891698612845</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Form</WikiTitle>
+		<WikiTitleID>171578</WikiTitleID>
+		<RankerScore>0.2590715211594387</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Form</WikiTitle> <WikiTitleID>171578</WikiTitleID> <RankerScore>0.2590715211594387</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Musical_form</WikiTitle> <WikiTitleID>379560</WikiTitleID> <RankerScore>0.04088291903927109</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Form_(HTML)</WikiTitle> <WikiTitleID>3422674</WikiTitleID> <RankerScore>0.1872759447099979</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Form_(zoology)</WikiTitle> <WikiTitleID>3686103</WikiTitleID> <RankerScore>0.0301629185347819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Form_(document)</WikiTitle> <WikiTitleID>1111563</WikiTitleID> <RankerScore>0.0301629185347819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Form_(botany)</WikiTitle> <WikiTitleID>544817</WikiTitleID> <RankerScore>0.0301629185347819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Differential_form</WikiTitle> <WikiTitleID>221519</WikiTitleID> <RankerScore>0.0301629185347819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Form_(exercise)</WikiTitle> <WikiTitleID>11022353</WikiTitleID> <RankerScore>0.0301629185347819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Form_(education)</WikiTitle> <WikiTitleID>5890561</WikiTitleID> <RankerScore>0.0301629185347819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Theory_of_Forms</WikiTitle> <WikiTitleID>4344842</WikiTitleID> <RankerScore>0.0301629185347819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Morphology_(linguistics)</WikiTitle> <WikiTitleID>20646</WikiTitleID> <RankerScore>0.0301629185347819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rupa</WikiTitle> <WikiTitleID>1984682</WikiTitleID> <RankerScore>0.0301629185347819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Logical_form</WikiTitle> <WikiTitleID>668</WikiTitleID> <RankerScore>0.0301629185347819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Form_factor</WikiTitle> <WikiTitleID>212827</WikiTitleID> <RankerScore>0.0301629185347819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Form_(programming)</WikiTitle> <WikiTitleID>6942460</WikiTitleID> <RankerScore>0.0301629185347819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homogeneous_polynomial</WikiTitle> <WikiTitleID>1698977</WikiTitleID> <RankerScore>0.0301629185347819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hyeong</WikiTitle> <WikiTitleID>4094350</WikiTitleID> <RankerScore>0.0301629185347819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Form_(horse_racing)</WikiTitle> <WikiTitleID>1111587</WikiTitleID> <RankerScore>0.0301629185347819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Platonic_realism</WikiTitle> <WikiTitleID>24513</WikiTitleID> <RankerScore>0.0301629185347819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Multilinear_form</WikiTitle> <WikiTitleID>832212</WikiTitleID> <RankerScore>0.0301629185347819</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>V</EntitySurfaceForm>
+	<EntityTextStart>536</EntityTextStart>
+	<EntityTextEnd>537</EntityTextEnd>
+	<LinkerScore>0.6209386338750797</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>V</WikiTitle>
+		<WikiTitleID>32437</WikiTitleID>
+		<RankerScore>0.15779332379229952</RankerScore>
+		<Attributes>letters</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Volt</WikiTitle> <WikiTitleID>32567</WikiTitleID> <RankerScore>0.10123937854090831</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>V</WikiTitle> <WikiTitleID>32437</WikiTitleID> <RankerScore>0.15779332379229952</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>V_(TV_series)</WikiTitle> <WikiTitleID>14705731</WikiTitleID> <RankerScore>0.10267322898414619</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Direct-to-video</WikiTitle> <WikiTitleID>221720</WikiTitleID> <RankerScore>0.037546709922508595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>V_(comics)</WikiTitle> <WikiTitleID>4553266</WikiTitleID> <RankerScore>0.037546709922508595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vanadium</WikiTitle> <WikiTitleID>32431</WikiTitleID> <RankerScore>0.037546709922508595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>V_(1983_miniseries)</WikiTitle> <WikiTitleID>14705955</WikiTitleID> <RankerScore>0.037546709922508595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_and_towns_in_Germany</WikiTitle> <WikiTitleID>193646</WikiTitleID> <RankerScore>0.037546709922508595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>V_(New_York_City_Subway_service)</WikiTitle> <WikiTitleID>1510048</WikiTitleID> <RankerScore>0.037546709922508595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>V_(band)</WikiTitle> <WikiTitleID>694233</WikiTitleID> <RankerScore>0.037546709922508595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_islands_by_name_(V)</WikiTitle> <WikiTitleID>6867825</WikiTitleID> <RankerScore>0.037546709922508595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_rivers_of_Romania_V</WikiTitle> <WikiTitleID>12405983</WikiTitleID> <RankerScore>0.037546709922508595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>V_(American_magazine)</WikiTitle> <WikiTitleID>5121371</WikiTitleID> <RankerScore>0.037546709922508595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Video</WikiTitle> <WikiTitleID>32441</WikiTitleID> <RankerScore>0.037546709922508595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>V_(Live_album)</WikiTitle> <WikiTitleID>1155791</WikiTitleID> <RankerScore>0.037546709922508595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vowel</WikiTitle> <WikiTitleID>32693</WikiTitleID> <RankerScore>0.037546709922508595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Super_Bowl_V</WikiTitle> <WikiTitleID>29131</WikiTitleID> <RankerScore>0.037546709922508595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pnictogen</WikiTitle> <WikiTitleID>188037</WikiTitleID> <RankerScore>0.037546709922508595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>V_(Saint_Vitus_album)</WikiTitle> <WikiTitleID>8305598</WikiTitleID> <RankerScore>0.037546709922508595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>V_(Vanessa_Hudgens_album)</WikiTitle> <WikiTitleID>6717281</WikiTitleID> <RankerScore>0.037546709922508595</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Well-developed</EntitySurfaceForm>
+	<EntityTextStart>542</EntityTextStart>
+	<EntityTextEnd>556</EntityTextEnd>
+	<LinkerScore>-0.04695743688891896</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Residential_area</WikiTitle>
+		<WikiTitleID>1324911</WikiTitleID>
+		<RankerScore>0.5348390541538601</RankerScore>
+		<Attributes>study</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Precocial</WikiTitle> <WikiTitleID>452517</WikiTitleID> <RankerScore>0.4651609458461398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Residential_area</WikiTitle> <WikiTitleID>1324911</WikiTitleID> <RankerScore>0.5348390541538601</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>teeth</EntitySurfaceForm>
+	<EntityTextStart>557</EntityTextStart>
+	<EntityTextEnd>562</EntityTextEnd>
+	<LinkerScore>3.4818475972848515</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tooth</WikiTitle>
+		<WikiTitleID>68756</WikiTitleID>
+		<RankerScore>0.854420791279628</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tooth</WikiTitle> <WikiTitleID>68756</WikiTitleID> <RankerScore>0.854420791279628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horse_teeth</WikiTitle> <WikiTitleID>47964</WikiTitleID> <RankerScore>0.034623337701433436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shark_tooth</WikiTitle> <WikiTitleID>12194830</WikiTitleID> <RankerScore>0.024304214458995</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gear</WikiTitle> <WikiTitleID>82916</WikiTitleID> <RankerScore>0.0288838855199812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Timing_belt</WikiTitle> <WikiTitleID>739914</WikiTitleID> <RankerScore>0.0288838855199812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tooth_abscess</WikiTitle> <WikiTitleID>8917820</WikiTitleID> <RankerScore>0.0288838855199812</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>scissor</EntitySurfaceForm>
+	<EntityTextStart>564</EntityTextStart>
+	<EntityTextEnd>571</EntityTextEnd>
+	<LinkerScore>2.3844691102541433</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Scissors</WikiTitle>
+		<WikiTitleID>254938</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Scissors</WikiTitle> <WikiTitleID>254938</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>bite</EntitySurfaceForm>
+	<EntityTextStart>572</EntityTextStart>
+	<EntityTextEnd>576</EntityTextEnd>
+	<LinkerScore>1.6913436129405404</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bite</WikiTitle>
+		<WikiTitleID>1524906</WikiTitleID>
+		<RankerScore>0.8776189636822026</RankerScore>
+		<Attributes>injury	method</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bite</WikiTitle> <WikiTitleID>1524906</WikiTitleID> <RankerScore>0.8776189636822026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spider_bite</WikiTitle> <WikiTitleID>4525077</WikiTitleID> <RankerScore>0.0893076745777214</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Snakebite</WikiTitle> <WikiTitleID>715934</WikiTitleID> <RankerScore>0.016094609468966223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Insect_bites_and_stings</WikiTitle> <WikiTitleID>5653870</WikiTitleID> <RankerScore>0.016978752271109836</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chilean</EntitySurfaceForm>
+	<EntityTextStart>582</EntityTextStart>
+	<EntityTextEnd>589</EntityTextEnd>
+	<LinkerScore>0.4608897520222051</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chile</WikiTitle>
+		<WikiTitleID>5489</WikiTitleID>
+		<RankerScore>0.8788101550465494</RankerScore>
+		<Attributes>state	country	colony	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chile</WikiTitle> <WikiTitleID>5489</WikiTitleID> <RankerScore>0.8788101550465494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Flamingo</WikiTitle> <WikiTitleID>182807</WikiTitleID> <RankerScore>0.012347828202656482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Chile</WikiTitle> <WikiTitleID>5497</WikiTitleID> <RankerScore>0.0033644881451287507</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Chile</WikiTitle> <WikiTitleID>67363</WikiTitleID> <RankerScore>0.07519713529950647</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_poetry</WikiTitle> <WikiTitleID>4620412</WikiTitleID> <RankerScore>0.0033644881451287507</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Chile</WikiTitle> <WikiTitleID>148279</WikiTitleID> <RankerScore>0.0033644881451287507</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_American</WikiTitle> <WikiTitleID>7765577</WikiTitleID> <RankerScore>0.0033644881451287507</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DINA</WikiTitle> <WikiTitleID>269329</WikiTitleID> <RankerScore>0.0033644881451287507</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Navy</WikiTitle> <WikiTitleID>1201138</WikiTitleID> <RankerScore>0.0033644881451287507</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Antarctic_Territory</WikiTitle> <WikiTitleID>8260404</WikiTitleID> <RankerScore>0.0033644881451287507</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_peso</WikiTitle> <WikiTitleID>171898</WikiTitleID> <RankerScore>0.0033644881451287507</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_football_team</WikiTitle> <WikiTitleID>697710</WikiTitleID> <RankerScore>0.0033644881451287507</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_mythology</WikiTitle> <WikiTitleID>8857940</WikiTitleID> <RankerScore>0.0033644881451287507</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chilean Fox Terrier</EntitySurfaceForm>
+	<EntityTextStart>582</EntityTextStart>
+	<EntityTextEnd>601</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chilean_Fox_Terrier</WikiTitle>
+		<WikiTitleID>8856019</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chilean_Fox_Terrier</WikiTitle> <WikiTitleID>8856019</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Fox Terrier</EntitySurfaceForm>
+	<EntityTextStart>590</EntityTextStart>
+	<EntityTextEnd>601</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chilean_Fox_Terrier</WikiTitle>
+		<WikiTitleID>8856019</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fox_Terrier</WikiTitle> <WikiTitleID>468974</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Fox</EntitySurfaceForm>
+	<EntityTextStart>590</EntityTextStart>
+	<EntityTextEnd>593</EntityTextEnd>
+	<LinkerScore>1.014025568799261</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fox</WikiTitle>
+		<WikiTitleID>11299</WikiTitleID>
+		<RankerScore>0.6941914730186669</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fox_Broadcasting_Company</WikiTitle> <WikiTitleID>46252</WikiTitleID> <RankerScore>0.10727783221331956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox</WikiTitle> <WikiTitleID>11299</WikiTitleID> <RankerScore>0.6941914730186669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Meskwaki</WikiTitle> <WikiTitleID>320879</WikiTitleID> <RankerScore>0.02099407775474696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>20th_Century_Fox</WikiTitle> <WikiTitleID>170318</WikiTitleID> <RankerScore>0.010443330412545086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charles_James_Fox</WikiTitle> <WikiTitleID>142125</WikiTitleID> <RankerScore>0.010443330412545086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_Sports_(United_States)</WikiTitle> <WikiTitleID>1699539</WikiTitleID> <RankerScore>0.010443330412545086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Animals_of_Farthing_Wood_characters</WikiTitle> <WikiTitleID>6021430</WikiTitleID> <RankerScore>0.010443330412545086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_Entertainment_Group</WikiTitle> <WikiTitleID>535799</WikiTitleID> <RankerScore>0.010443330412545086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_News_Channel</WikiTitle> <WikiTitleID>11121</WikiTitleID> <RankerScore>0.010443330412545086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NASCAR_on_Fox</WikiTitle> <WikiTitleID>4064853</WikiTitleID> <RankerScore>0.010443330412545086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_language</WikiTitle> <WikiTitleID>3563275</WikiTitleID> <RankerScore>0.010443330412545086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Volkswagen_Fox</WikiTitle> <WikiTitleID>707709</WikiTitleID> <RankerScore>0.010443330412545086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox,_Alaska</WikiTitle> <WikiTitleID>105446</WikiTitleID> <RankerScore>0.010443330412545086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NFL_on_Fox</WikiTitle> <WikiTitleID>1809083</WikiTitleID> <RankerScore>0.010443330412545086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_(magazine)</WikiTitle> <WikiTitleID>10695169</WikiTitleID> <RankerScore>0.010443330412545086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_(band)</WikiTitle> <WikiTitleID>3371372</WikiTitleID> <RankerScore>0.010443330412545086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_Feature_Syndicate</WikiTitle> <WikiTitleID>2900194</WikiTitleID> <RankerScore>0.010443330412545086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_Crane</WikiTitle> <WikiTitleID>1761986</WikiTitleID> <RankerScore>0.010443330412545086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_Glacier</WikiTitle> <WikiTitleID>965398</WikiTitleID> <RankerScore>0.010443330412545086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_(song)</WikiTitle> <WikiTitleID>5392105</WikiTitleID> <RankerScore>0.010443330412545086</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Terrier</EntitySurfaceForm>
+	<EntityTextStart>594</EntityTextStart>
+	<EntityTextEnd>601</EntityTextEnd>
+	<LinkerScore>2.5922639794793896</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Terrier</WikiTitle>
+		<WikiTitleID>176426</WikiTitleID>
+		<RankerScore>0.98307192594262</RankerScore>
+		<Attributes>type	dog</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>RIM-2_Terrier</WikiTitle> <WikiTitleID>522819</WikiTitleID> <RankerScore>0.00760332085978535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Terrier</WikiTitle> <WikiTitleID>176426</WikiTitleID> <RankerScore>0.98307192594262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Terrier_(novel)</WikiTitle> <WikiTitleID>7896162</WikiTitleID> <RankerScore>0.00563903863291537</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Terrier_vehicle</WikiTitle> <WikiTitleID>14001939</WikiTitleID> <RankerScore>0.0018428572823396502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beagle_Terrier</WikiTitle> <WikiTitleID>6978593</WikiTitleID> <RankerScore>0.0018428572823396502</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>train</EntitySurfaceForm>
+	<EntityTextStart>613</EntityTextStart>
+	<EntityTextEnd>618</EntityTextEnd>
+	<LinkerScore>0.6395779670926665</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Train</WikiTitle>
+		<WikiTitleID>30598</WikiTitleID>
+		<RankerScore>0.4765348833473166</RankerScore>
+		<Attributes>train</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Train</WikiTitle> <WikiTitleID>30598</WikiTitleID> <RankerScore>0.4765348833473166</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Train_(roller_coaster)</WikiTitle> <WikiTitleID>1268021</WikiTitleID> <RankerScore>0.0395457953840308</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rail_transport</WikiTitle> <WikiTitleID>25715</WikiTitleID> <RankerScore>0.07641572951097195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Train_(clothing)</WikiTitle> <WikiTitleID>8634850</WikiTitleID> <RankerScore>0.023970799515157674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Training</WikiTitle> <WikiTitleID>156423</WikiTitleID> <RankerScore>0.023970799515157674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boxing_training</WikiTitle> <WikiTitleID>152884</WikiTitleID> <RankerScore>0.023970799515157674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Train_robbery</WikiTitle> <WikiTitleID>275873</WikiTitleID> <RankerScore>0.023970799515157674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Circus_train</WikiTitle> <WikiTitleID>1851264</WikiTitleID> <RankerScore>0.023970799515157674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_Pacific_Railway</WikiTitle> <WikiTitleID>5959</WikiTitleID> <RankerScore>0.023970799515157674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Keretapi_Tanah_Melayu</WikiTitle> <WikiTitleID>247845</WikiTitleID> <RankerScore>0.023970799515157674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Citytrain</WikiTitle> <WikiTitleID>1549668</WikiTitleID> <RankerScore>0.023970799515157674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CityRail</WikiTitle> <WikiTitleID>259121</WikiTitleID> <RankerScore>0.023970799515157674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Railways_in_Sydney</WikiTitle> <WikiTitleID>5501728</WikiTitleID> <RankerScore>0.023970799515157674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Railways_in_Melbourne</WikiTitle> <WikiTitleID>944244</WikiTitleID> <RankerScore>0.023970799515157674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Locomotive</WikiTitle> <WikiTitleID>17717</WikiTitleID> <RankerScore>0.023970799515157674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Train_station</WikiTitle> <WikiTitleID>102449</WikiTitleID> <RankerScore>0.023970799515157674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Railfan</WikiTitle> <WikiTitleID>737838</WikiTitleID> <RankerScore>0.023970799515157674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ridable_miniature_railway</WikiTitle> <WikiTitleID>3310923</WikiTitleID> <RankerScore>0.023970799515157674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Railway_brake</WikiTitle> <WikiTitleID>1183229</WikiTitleID> <RankerScore>0.023970799515157674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vestfold_Line</WikiTitle> <WikiTitleID>2050646</WikiTitleID> <RankerScore>0.023970799515157674</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>healthiest</EntitySurfaceForm>
+	<EntityTextStart>654</EntityTextStart>
+	<EntityTextEnd>664</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Health</WikiTitle>
+		<WikiTitleID>80381</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>dog breeds</EntitySurfaceForm>
+	<EntityTextStart>678</EntityTextStart>
+	<EntityTextEnd>688</EntityTextEnd>
+	<LinkerScore>1.6634676612607544</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dog_breed</WikiTitle>
+		<WikiTitleID>79676</WikiTitleID>
+		<RankerScore>0.9492844635137211</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dog_breed</WikiTitle> <WikiTitleID>79676</WikiTitleID> <RankerScore>0.9492844635137211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_dog_breeds</WikiTitle> <WikiTitleID>8615</WikiTitleID> <RankerScore>0.05071553648627889</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>dog</EntitySurfaceForm>
+	<EntityTextStart>678</EntityTextStart>
+	<EntityTextEnd>681</EntityTextEnd>
+	<LinkerScore>2.976819087568194</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dog</WikiTitle>
+		<WikiTitleID>4269567</WikiTitleID>
+		<RankerScore>0.9865261362854627</RankerScore>
+		<Attributes>dog	animal	species</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dog</WikiTitle> <WikiTitleID>4269567</WikiTitleID> <RankerScore>0.9865261362854627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dog_(zodiac)</WikiTitle> <WikiTitleID>277029</WikiTitleID> <RankerScore>3.973189012581174E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greyhound_racing</WikiTitle> <WikiTitleID>38871</WikiTitleID> <RankerScore>3.973189012581174E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canidae</WikiTitle> <WikiTitleID>6736</WikiTitleID> <RankerScore>3.973189012581174E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dog_food</WikiTitle> <WikiTitleID>236573</WikiTitleID> <RankerScore>3.973189012581174E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Police_dog</WikiTitle> <WikiTitleID>537859</WikiTitleID> <RankerScore>3.973189012581174E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sled_dog</WikiTitle> <WikiTitleID>273243</WikiTitleID> <RankerScore>3.973189012581174E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bird_dog</WikiTitle> <WikiTitleID>1059359</WikiTitleID> <RankerScore>3.973189012581174E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dog_(engineering)</WikiTitle> <WikiTitleID>10240256</WikiTitleID> <RankerScore>3.973189012581174E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dogbert</WikiTitle> <WikiTitleID>452507</WikiTitleID> <RankerScore>3.973189012581174E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dog_meat</WikiTitle> <WikiTitleID>3279728</WikiTitleID> <RankerScore>3.973189012581174E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Bulldog</WikiTitle> <WikiTitleID>644051</WikiTitleID> <RankerScore>5.70867092350768E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coat_(dog)</WikiTitle> <WikiTitleID>1681022</WikiTitleID> <RankerScore>3.973189012581174E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blondi</WikiTitle> <WikiTitleID>1560475</WikiTitleID> <RankerScore>3.973189012581174E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jack_Russell_Terrier</WikiTitle> <WikiTitleID>206183</WikiTitleID> <RankerScore>0.012227554490047626</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_space_dogs</WikiTitle> <WikiTitleID>746647</WikiTitleID> <RankerScore>3.973189012581174E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Working_dog</WikiTitle> <WikiTitleID>491819</WikiTitleID> <RankerScore>3.973189012581174E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hound_Group</WikiTitle> <WikiTitleID>3433007</WikiTitleID> <RankerScore>3.973189012581174E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dogs_(song)</WikiTitle> <WikiTitleID>2622039</WikiTitleID> <RankerScore>3.973189012581174E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Taco_Bell_chihuahua</WikiTitle> <WikiTitleID>968037</WikiTitleID> <RankerScore>3.973189012581174E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>breeds</EntitySurfaceForm>
+	<EntityTextStart>682</EntityTextStart>
+	<EntityTextEnd>688</EntityTextEnd>
+	<LinkerScore>1.8323008923037403</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dog_breed</WikiTitle>
+		<WikiTitleID>79676</WikiTitleID>
+		<RankerScore>0.996427436010112</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>List_of_horse_breeds</WikiTitle> <WikiTitleID>54033</WikiTitleID> <RankerScore>7.486539051429322E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dog_breed</WikiTitle> <WikiTitleID>79676</WikiTitleID> <RankerScore>0.996427436010112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Breed</WikiTitle> <WikiTitleID>267933</WikiTitleID> <RankerScore>2.1484860593032848E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_dog_breeds</WikiTitle> <WikiTitleID>8615</WikiTitleID> <RankerScore>0.0033043348540364704</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Half-breed</WikiTitle> <WikiTitleID>448533</WikiTitleID> <RankerScore>2.1484860593032848E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_sheep_breeds</WikiTitle> <WikiTitleID>916410</WikiTitleID> <RankerScore>2.1484860593032848E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reproduction</WikiTitle> <WikiTitleID>26310</WikiTitleID> <RankerScore>2.1484860593032848E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cat_breeds</WikiTitle> <WikiTitleID>63260</WikiTitleID> <RankerScore>2.1484860593032848E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_chicken_breeds</WikiTitle> <WikiTitleID>333606</WikiTitleID> <RankerScore>2.1484860593032848E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Selective_breeding</WikiTitle> <WikiTitleID>200646</WikiTitleID> <RankerScore>2.1484860593032848E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beef_cattle</WikiTitle> <WikiTitleID>6461408</WikiTitleID> <RankerScore>2.1484860593032848E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_breeding</WikiTitle> <WikiTitleID>147483</WikiTitleID> <RankerScore>2.1484860593032848E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>famous</EntitySurfaceForm>
+	<EntityTextStart>692</EntityTextStart>
+	<EntityTextEnd>698</EntityTextEnd>
+	<LinkerScore>-0.5231346635846468</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Celebrity</WikiTitle>
+		<WikiTitleID>5796</WikiTitleID>
+		<RankerScore>0.32595987944307403</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Celebrity</WikiTitle> <WikiTitleID>5796</WikiTitleID> <RankerScore>0.32595987944307403</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fame</WikiTitle> <WikiTitleID>379348</WikiTitleID> <RankerScore>0.14742365418230244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_trees</WikiTitle> <WikiTitleID>404534</WikiTitleID> <RankerScore>0.07444437870403005</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lists_of_named_passenger_trains</WikiTitle> <WikiTitleID>176122</WikiTitleID> <RankerScore>0.09043441753411868</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_programmers</WikiTitle> <WikiTitleID>11026</WikiTitleID> <RankerScore>0.09043441753411868</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>I_Have_a_Dream</WikiTitle> <WikiTitleID>15413</WikiTitleID> <RankerScore>0.09043441753411868</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Marmion</WikiTitle> <WikiTitleID>2196778</WikiTitleID> <RankerScore>0.09043441753411868</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_famous_gemstones</WikiTitle> <WikiTitleID>5049559</WikiTitleID> <RankerScore>0.09043441753411868</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chilean</EntitySurfaceForm>
+	<EntityTextStart>699</EntityTextStart>
+	<EntityTextEnd>706</EntityTextEnd>
+	<LinkerScore>0.52606630772058</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chile</WikiTitle>
+		<WikiTitleID>5489</WikiTitleID>
+		<RankerScore>0.8835518732673858</RankerScore>
+		<Attributes>state	country	colony	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chile</WikiTitle> <WikiTitleID>5489</WikiTitleID> <RankerScore>0.8835518732673858</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Flamingo</WikiTitle> <WikiTitleID>182807</WikiTitleID> <RankerScore>0.01178199747218404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Chile</WikiTitle> <WikiTitleID>5497</WikiTitleID> <RankerScore>0.003208755112743068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Chile</WikiTitle> <WikiTitleID>67363</WikiTitleID> <RankerScore>0.0725785781329994</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_poetry</WikiTitle> <WikiTitleID>4620412</WikiTitleID> <RankerScore>0.003208755112743068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Chile</WikiTitle> <WikiTitleID>148279</WikiTitleID> <RankerScore>0.003208755112743068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_American</WikiTitle> <WikiTitleID>7765577</WikiTitleID> <RankerScore>0.003208755112743068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DINA</WikiTitle> <WikiTitleID>269329</WikiTitleID> <RankerScore>0.003208755112743068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Navy</WikiTitle> <WikiTitleID>1201138</WikiTitleID> <RankerScore>0.003208755112743068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Antarctic_Territory</WikiTitle> <WikiTitleID>8260404</WikiTitleID> <RankerScore>0.003208755112743068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_peso</WikiTitle> <WikiTitleID>171898</WikiTitleID> <RankerScore>0.003208755112743068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_football_team</WikiTitle> <WikiTitleID>697710</WikiTitleID> <RankerScore>0.003208755112743068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_mythology</WikiTitle> <WikiTitleID>8857940</WikiTitleID> <RankerScore>0.003208755112743068</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chilean Fox Terrier</EntitySurfaceForm>
+	<EntityTextStart>699</EntityTextStart>
+	<EntityTextEnd>718</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chilean_Fox_Terrier</WikiTitle>
+		<WikiTitleID>8856019</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chilean_Fox_Terrier</WikiTitle> <WikiTitleID>8856019</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Fox Terrier</EntitySurfaceForm>
+	<EntityTextStart>707</EntityTextStart>
+	<EntityTextEnd>718</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chilean_Fox_Terrier</WikiTitle>
+		<WikiTitleID>8856019</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fox_Terrier</WikiTitle> <WikiTitleID>468974</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Fox</EntitySurfaceForm>
+	<EntityTextStart>707</EntityTextStart>
+	<EntityTextEnd>710</EntityTextEnd>
+	<LinkerScore>1.8861358542513589</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fox</WikiTitle>
+		<WikiTitleID>11299</WikiTitleID>
+		<RankerScore>0.7791818047619188</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fox_Broadcasting_Company</WikiTitle> <WikiTitleID>46252</WikiTitleID> <RankerScore>0.07763230371903264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox</WikiTitle> <WikiTitleID>11299</WikiTitleID> <RankerScore>0.7791818047619188</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Meskwaki</WikiTitle> <WikiTitleID>320879</WikiTitleID> <RankerScore>0.015149953220253367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>20th_Century_Fox</WikiTitle> <WikiTitleID>170318</WikiTitleID> <RankerScore>0.007531525782282068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charles_James_Fox</WikiTitle> <WikiTitleID>142125</WikiTitleID> <RankerScore>0.007531525782282068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_Sports_(United_States)</WikiTitle> <WikiTitleID>1699539</WikiTitleID> <RankerScore>0.007531525782282068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Animals_of_Farthing_Wood_characters</WikiTitle> <WikiTitleID>6021430</WikiTitleID> <RankerScore>0.007531525782282068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_Entertainment_Group</WikiTitle> <WikiTitleID>535799</WikiTitleID> <RankerScore>0.007531525782282068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_News_Channel</WikiTitle> <WikiTitleID>11121</WikiTitleID> <RankerScore>0.007531525782282068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NASCAR_on_Fox</WikiTitle> <WikiTitleID>4064853</WikiTitleID> <RankerScore>0.007531525782282068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_language</WikiTitle> <WikiTitleID>3563275</WikiTitleID> <RankerScore>0.007531525782282068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Volkswagen_Fox</WikiTitle> <WikiTitleID>707709</WikiTitleID> <RankerScore>0.007531525782282068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox,_Alaska</WikiTitle> <WikiTitleID>105446</WikiTitleID> <RankerScore>0.007531525782282068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NFL_on_Fox</WikiTitle> <WikiTitleID>1809083</WikiTitleID> <RankerScore>0.007531525782282068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_(magazine)</WikiTitle> <WikiTitleID>10695169</WikiTitleID> <RankerScore>0.007531525782282068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_(band)</WikiTitle> <WikiTitleID>3371372</WikiTitleID> <RankerScore>0.007531525782282068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_Feature_Syndicate</WikiTitle> <WikiTitleID>2900194</WikiTitleID> <RankerScore>0.007531525782282068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_Crane</WikiTitle> <WikiTitleID>1761986</WikiTitleID> <RankerScore>0.007531525782282068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_Glacier</WikiTitle> <WikiTitleID>965398</WikiTitleID> <RankerScore>0.007531525782282068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_(song)</WikiTitle> <WikiTitleID>5392105</WikiTitleID> <RankerScore>0.007531525782282068</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Terrier</EntitySurfaceForm>
+	<EntityTextStart>711</EntityTextStart>
+	<EntityTextEnd>718</EntityTextEnd>
+	<LinkerScore>3.1100416438776777</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Terrier</WikiTitle>
+		<WikiTitleID>176426</WikiTitleID>
+		<RankerScore>0.996972891746983</RankerScore>
+		<Attributes>type	dog</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>RIM-2_Terrier</WikiTitle> <WikiTitleID>522819</WikiTitleID> <RankerScore>0.001355716330187243</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Terrier</WikiTitle> <WikiTitleID>176426</WikiTitleID> <RankerScore>0.996972891746983</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Terrier_(novel)</WikiTitle> <WikiTitleID>7896162</WikiTitleID> <RankerScore>9.993174475798746E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Terrier_vehicle</WikiTitle> <WikiTitleID>14001939</WikiTitleID> <RankerScore>3.3603723762498715E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beagle_Terrier</WikiTitle> <WikiTitleID>6978593</WikiTitleID> <RankerScore>3.3603723762498715E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Washington</EntitySurfaceForm>
+	<EntityTextStart>722</EntityTextStart>
+	<EntityTextEnd>732</EntityTextEnd>
+	<LinkerScore>-0.6254920855549064</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Washington</WikiTitle>
+		<WikiTitleID>13015878</WikiTitleID>
+		<RankerScore>0.4077080641675379</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Washington</WikiTitle> <WikiTitleID>13015878</WikiTitleID> <RankerScore>0.4077080641675379</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_D.C.</WikiTitle> <WikiTitleID>108956</WikiTitleID> <RankerScore>0.1077831901583054</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Wizards</WikiTitle> <WikiTitleID>72858</WikiTitleID> <RankerScore>0.027166997654603696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_Washington</WikiTitle> <WikiTitleID>11968</WikiTitleID> <RankerScore>0.02266978554589405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Washington</WikiTitle> <WikiTitleID>31776</WikiTitleID> <RankerScore>0.027166997654603696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Huskies_football</WikiTitle> <WikiTitleID>5954250</WikiTitleID> <RankerScore>0.027166997654603696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_Tyne_and_Wear</WikiTitle> <WikiTitleID>264845</WikiTitleID> <RankerScore>0.027166997654603696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_Pennsylvania</WikiTitle> <WikiTitleID>134086</WikiTitleID> <RankerScore>0.027166997654603696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Pennsylvania</WikiTitle> <WikiTitleID>91922</WikiTitleID> <RankerScore>0.027166997654603696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Oregon</WikiTitle> <WikiTitleID>48966</WikiTitleID> <RankerScore>0.027166997654603696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_North_Carolina</WikiTitle> <WikiTitleID>127665</WikiTitleID> <RankerScore>0.027166997654603696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_New_York</WikiTitle> <WikiTitleID>51541</WikiTitleID> <RankerScore>0.027166997654603696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Washington_USA</WikiTitle> <WikiTitleID>4429498</WikiTitleID> <RankerScore>0.027166997654603696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Maryland</WikiTitle> <WikiTitleID>47730</WikiTitleID> <RankerScore>0.027166997654603696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Huskies</WikiTitle> <WikiTitleID>994480</WikiTitleID> <RankerScore>0.027166997654603696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_Connecticut</WikiTitle> <WikiTitleID>108766</WikiTitleID> <RankerScore>0.027166997654603696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Washington_Teen_USA</WikiTitle> <WikiTitleID>4596506</WikiTitleID> <RankerScore>0.027166997654603696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Redskins</WikiTitle> <WikiTitleID>33673</WikiTitleID> <RankerScore>0.027166997654603696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Wisconsin</WikiTitle> <WikiTitleID>90922</WikiTitleID> <RankerScore>0.027166997654603696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_New_Hampshire</WikiTitle> <WikiTitleID>124947</WikiTitleID> <RankerScore>0.027166997654603696</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Condorito</EntitySurfaceForm>
+	<EntityTextStart>754</EntityTextStart>
+	<EntityTextEnd>763</EntityTextEnd>
+	<LinkerScore>4.60464061918488</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Condorito</WikiTitle>
+		<WikiTitleID>148342</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>personification	bird	character	strip	comic strip</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Condorito</WikiTitle> <WikiTitleID>148342</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Condorito</EntitySurfaceForm>
+	<EntityTextStart>771</EntityTextStart>
+	<EntityTextEnd>780</EntityTextEnd>
+	<LinkerScore>4.7524641839133706</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Condorito</WikiTitle>
+		<WikiTitleID>148342</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>personification	bird	character	strip	comic strip</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Condorito</WikiTitle> <WikiTitleID>148342</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>dog</EntitySurfaceForm>
+	<EntityTextStart>783</EntityTextStart>
+	<EntityTextEnd>786</EntityTextEnd>
+	<LinkerScore>2.9083522080523196</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dog</WikiTitle>
+		<WikiTitleID>4269567</WikiTitleID>
+		<RankerScore>0.9880103476733765</RankerScore>
+		<Attributes>dog	animal	species</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dog</WikiTitle> <WikiTitleID>4269567</WikiTitleID> <RankerScore>0.9880103476733765</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dog_(zodiac)</WikiTitle> <WikiTitleID>277029</WikiTitleID> <RankerScore>2.3661436516187034E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greyhound_racing</WikiTitle> <WikiTitleID>38871</WikiTitleID> <RankerScore>2.3661436516187034E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canidae</WikiTitle> <WikiTitleID>6736</WikiTitleID> <RankerScore>8.639707559198086E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dog_food</WikiTitle> <WikiTitleID>236573</WikiTitleID> <RankerScore>2.3661436516187034E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Police_dog</WikiTitle> <WikiTitleID>537859</WikiTitleID> <RankerScore>2.3661436516187034E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sled_dog</WikiTitle> <WikiTitleID>273243</WikiTitleID> <RankerScore>2.3661436516187034E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bird_dog</WikiTitle> <WikiTitleID>1059359</WikiTitleID> <RankerScore>2.3661436516187034E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dog_(engineering)</WikiTitle> <WikiTitleID>10240256</WikiTitleID> <RankerScore>2.3661436516187034E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dogbert</WikiTitle> <WikiTitleID>452507</WikiTitleID> <RankerScore>2.3661436516187034E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dog_meat</WikiTitle> <WikiTitleID>3279728</WikiTitleID> <RankerScore>2.3661436516187034E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Bulldog</WikiTitle> <WikiTitleID>644051</WikiTitleID> <RankerScore>2.3661436516187034E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coat_(dog)</WikiTitle> <WikiTitleID>1681022</WikiTitleID> <RankerScore>2.3661436516187034E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blondi</WikiTitle> <WikiTitleID>1560475</WikiTitleID> <RankerScore>2.3661436516187034E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jack_Russell_Terrier</WikiTitle> <WikiTitleID>206183</WikiTitleID> <RankerScore>0.007103237362951858</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_space_dogs</WikiTitle> <WikiTitleID>746647</WikiTitleID> <RankerScore>2.3661436516187034E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Working_dog</WikiTitle> <WikiTitleID>491819</WikiTitleID> <RankerScore>2.3661436516187034E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hound_Group</WikiTitle> <WikiTitleID>3433007</WikiTitleID> <RankerScore>2.3661436516187034E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dogs_(song)</WikiTitle> <WikiTitleID>2622039</WikiTitleID> <RankerScore>2.3661436516187034E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Taco_Bell_chihuahua</WikiTitle> <WikiTitleID>968037</WikiTitleID> <RankerScore>2.3661436516187034E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>not recognised</EntitySurfaceForm>
+	<EntityTextStart>801</EntityTextStart>
+	<EntityTextEnd>815</EntityTextEnd>
+	<LinkerScore>2.661986677893529</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Diplomatic_recognition</WikiTitle>
+		<WikiTitleID>524626</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>relations</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Diplomatic_recognition</WikiTitle> <WikiTitleID>524626</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>recognised</EntitySurfaceForm>
+	<EntityTextStart>805</EntityTextStart>
+	<EntityTextEnd>815</EntityTextEnd>
+	<LinkerScore>-1.097854137306979</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Diplomatic_recognition</WikiTitle>
+		<WikiTitleID>524626</WikiTitleID>
+		<RankerScore>0.37039284133271916</RankerScore>
+		<Attributes>relations</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Diplomatic_recognition</WikiTitle> <WikiTitleID>524626</WikiTitleID> <RankerScore>0.37039284133271916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Recognition</WikiTitle> <WikiTitleID>1208543</WikiTitleID> <RankerScore>0.166318898004787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legal_recognition_of_sign_languages</WikiTitle> <WikiTitleID>3484898</WikiTitleID> <RankerScore>0.1383413507098466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Treaty_on_the_Final_Settlement_with_Respect_to_Germany</WikiTitle> <WikiTitleID>796030</WikiTitleID> <RankerScore>0.10831563665088242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Educational_accreditation</WikiTitle> <WikiTitleID>621700</WikiTitleID> <RankerScore>0.10831563665088242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biometrics</WikiTitle> <WikiTitleID>205278</WikiTitleID> <RankerScore>0.10831563665088242</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chile</EntitySurfaceForm>
+	<EntityTextStart>883</EntityTextStart>
+	<EntityTextEnd>888</EntityTextEnd>
+	<LinkerScore>3.1231373153910638</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chile</WikiTitle>
+		<WikiTitleID>5489</WikiTitleID>
+		<RankerScore>0.9774175877427317</RankerScore>
+		<Attributes>state	country	colony	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chile</WikiTitle> <WikiTitleID>5489</WikiTitleID> <RankerScore>0.9774175877427317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_football_team</WikiTitle> <WikiTitleID>697710</WikiTitleID> <RankerScore>0.008365396601737261</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_rugby_union_team</WikiTitle> <WikiTitleID>6527686</WikiTitleID> <RankerScore>0.006189154989932572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_wine</WikiTitle> <WikiTitleID>521306</WikiTitleID> <RankerScore>4.722270979763898E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_basketball_team</WikiTitle> <WikiTitleID>4116669</WikiTitleID> <RankerScore>4.722270979763898E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_Davis_Cup_team</WikiTitle> <WikiTitleID>9656926</WikiTitleID> <RankerScore>4.722270979763898E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_cricket_team</WikiTitle> <WikiTitleID>6736738</WikiTitleID> <RankerScore>4.722270979763898E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Navy</WikiTitle> <WikiTitleID>1201138</WikiTitleID> <RankerScore>4.722270979763898E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_supply_and_sanitation_in_Chile</WikiTitle> <WikiTitleID>9264170</WikiTitleID> <RankerScore>4.722270979763898E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Chile</WikiTitle> <WikiTitleID>5490</WikiTitleID> <RankerScore>4.722270979763898E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Chile</WikiTitle> <WikiTitleID>5496</WikiTitleID> <RankerScore>4.722270979763898E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Captaincy_General_of_Chile</WikiTitle> <WikiTitleID>2811465</WikiTitleID> <RankerScore>4.722270979763898E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dingling</WikiTitle> <WikiTitleID>2651325</WikiTitleID> <RankerScore>4.722270979763898E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Antarctic_Territory</WikiTitle> <WikiTitleID>8260404</WikiTitleID> <RankerScore>4.722270979763898E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_government_of_Chile_(1973–90)</WikiTitle> <WikiTitleID>1107462</WikiTitleID> <RankerScore>4.722270979763898E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universo_Chile</WikiTitle> <WikiTitleID>9843042</WikiTitleID> <RankerScore>4.722270979763898E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>923283</WikiTitleID> <RankerScore>4.722270979763898E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Primera_División</WikiTitle> <WikiTitleID>5220049</WikiTitleID> <RankerScore>4.722270979763898E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Air_Force</WikiTitle> <WikiTitleID>4533723</WikiTitleID> <RankerScore>4.722270979763898E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Chile</WikiTitle> <WikiTitleID>5497</WikiTitleID> <RankerScore>4.722270979763898E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>breed</EntitySurfaceForm>
+	<EntityTextStart>901</EntityTextStart>
+	<EntityTextEnd>906</EntityTextEnd>
+	<LinkerScore>0.5987866758467056</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dog_breed</WikiTitle>
+		<WikiTitleID>79676</WikiTitleID>
+		<RankerScore>0.8524354437552643</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Breed</WikiTitle> <WikiTitleID>267933</WikiTitleID> <RankerScore>0.06270944396760704</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dog_breed</WikiTitle> <WikiTitleID>79676</WikiTitleID> <RankerScore>0.8524354437552643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_horse_breeds</WikiTitle> <WikiTitleID>54033</WikiTitleID> <RankerScore>0.001260069802386416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cat_breeds</WikiTitle> <WikiTitleID>63260</WikiTitleID> <RankerScore>0.001260069802386416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reproduction</WikiTitle> <WikiTitleID>26310</WikiTitleID> <RankerScore>0.001260069802386416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_chicken_breeds</WikiTitle> <WikiTitleID>333606</WikiTitleID> <RankerScore>0.001260069802386416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_dog_breeds</WikiTitle> <WikiTitleID>8615</WikiTitleID> <RankerScore>0.06469399543894618</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horse_breeding</WikiTitle> <WikiTitleID>14082</WikiTitleID> <RankerScore>0.001260069802386416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_breeding</WikiTitle> <WikiTitleID>147483</WikiTitleID> <RankerScore>0.001260069802386416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mating</WikiTitle> <WikiTitleID>357632</WikiTitleID> <RankerScore>0.001260069802386416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_sheep_breeds</WikiTitle> <WikiTitleID>916410</WikiTitleID> <RankerScore>0.001260069802386416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crossover_(genetic_algorithm)</WikiTitle> <WikiTitleID>554546</WikiTitleID> <RankerScore>0.001260069802386416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_guinea_pig_breeds</WikiTitle> <WikiTitleID>5880291</WikiTitleID> <RankerScore>0.001260069802386416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dog_breeding</WikiTitle> <WikiTitleID>476072</WikiTitleID> <RankerScore>0.001260069802386416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Selective_breeding</WikiTitle> <WikiTitleID>200646</WikiTitleID> <RankerScore>0.001260069802386416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Breeder</WikiTitle> <WikiTitleID>634140</WikiTitleID> <RankerScore>0.001260069802386416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sexual_reproduction</WikiTitle> <WikiTitleID>29014</WikiTitleID> <RankerScore>0.001260069802386416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Breeder_reactor</WikiTitle> <WikiTitleID>228058</WikiTitleID> <RankerScore>0.001260069802386416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cattle_breeds</WikiTitle> <WikiTitleID>3790265</WikiTitleID> <RankerScore>0.001260069802386416</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>selling</EntitySurfaceForm>
+	<EntityTextStart>910</EntityTextStart>
+	<EntityTextEnd>917</EntityTextEnd>
+	<LinkerScore>2.4803894798797232</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Selling</WikiTitle>
+		<WikiTitleID>436327</WikiTitleID>
+		<RankerScore>0.776677635047437</RankerScore>
+		<Attributes>technique</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Selling</WikiTitle> <WikiTitleID>436327</WikiTitleID> <RankerScore>0.776677635047437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glossary_of_professional_wrestling_terms</WikiTitle> <WikiTitleID>685111</WikiTitleID> <RankerScore>0.061009510801458486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sales</WikiTitle> <WikiTitleID>155698</WikiTitleID> <RankerScore>0.030684901331293972</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sale</WikiTitle> <WikiTitleID>8323153</WikiTitleID> <RankerScore>0.032906988204952636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Illegal_drug_trade</WikiTitle> <WikiTitleID>218449</WikiTitleID> <RankerScore>0.032906988204952636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution</WikiTitle> <WikiTitleID>15157915</WikiTitleID> <RankerScore>0.032906988204952636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Slavery</WikiTitle> <WikiTitleID>27992</WikiTitleID> <RankerScore>0.032906988204952636</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>internet</EntitySurfaceForm>
+	<EntityTextStart>926</EntityTextStart>
+	<EntityTextEnd>934</EntityTextEnd>
+	<LinkerScore>-0.2238344262275629</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Internet</WikiTitle>
+		<WikiTitleID>14539</WikiTitleID>
+		<RankerScore>0.6202562683383948</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Internet</WikiTitle> <WikiTitleID>14539</WikiTitleID> <RankerScore>0.6202562683383948</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Wide_Web</WikiTitle> <WikiTitleID>33139</WikiTitleID> <RankerScore>0.12678956678600373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_access</WikiTitle> <WikiTitleID>300602</WikiTitleID> <RankerScore>0.013584258649601845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_service_provider</WikiTitle> <WikiTitleID>100245</WikiTitleID> <RankerScore>0.015957993748399985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internetworking</WikiTitle> <WikiTitleID>15067</WikiTitleID> <RankerScore>0.015957993748399985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_Protocol</WikiTitle> <WikiTitleID>15323</WikiTitleID> <RankerScore>0.015957993748399985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Online_newspaper</WikiTitle> <WikiTitleID>3031497</WikiTitleID> <RankerScore>0.015957993748399985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>E-learning</WikiTitle> <WikiTitleID>952158</WikiTitleID> <RankerScore>0.015957993748399985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_television</WikiTitle> <WikiTitleID>989858</WikiTitleID> <RankerScore>0.015957993748399985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Internet</WikiTitle> <WikiTitleID>13692</WikiTitleID> <RankerScore>0.015957993748399985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_radio</WikiTitle> <WikiTitleID>52301</WikiTitleID> <RankerScore>0.015957993748399985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_relationship</WikiTitle> <WikiTitleID>50375</WikiTitleID> <RankerScore>0.015957993748399985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Global_Internet_usage</WikiTitle> <WikiTitleID>2894103</WikiTitleID> <RankerScore>0.015957993748399985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Al_Gore</WikiTitle> <WikiTitleID>5042706</WikiTitleID> <RankerScore>0.015957993748399985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MLB.com</WikiTitle> <WikiTitleID>5580094</WikiTitleID> <RankerScore>0.015957993748399985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electronic_voting</WikiTitle> <WikiTitleID>371301</WikiTitleID> <RankerScore>0.015957993748399985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Online_advertising</WikiTitle> <WikiTitleID>1618177</WikiTitleID> <RankerScore>0.015957993748399985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_pornography</WikiTitle> <WikiTitleID>89233</WikiTitleID> <RankerScore>0.015957993748399985</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pages</EntitySurfaceForm>
+	<EntityTextStart>935</EntityTextStart>
+	<EntityTextEnd>940</EntityTextEnd>
+	<LinkerScore>1.3038801999701406</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Web_page</WikiTitle>
+		<WikiTitleID>34063</WikiTitleID>
+		<RankerScore>0.5793878012561823</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Page_(computer_memory)</WikiTitle> <WikiTitleID>11254911</WikiTitleID> <RankerScore>0.10427679912709044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Web_page</WikiTitle> <WikiTitleID>34063</WikiTitleID> <RankerScore>0.5793878012561823</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Page_(servant)</WikiTitle> <WikiTitleID>1738560</WikiTitleID> <RankerScore>0.05227295210614781</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Page</WikiTitle> <WikiTitleID>1387542</WikiTitleID> <RankerScore>0.04401040791842991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Page_(paper)</WikiTitle> <WikiTitleID>2727018</WikiTitleID> <RankerScore>0.04401040791842991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_House_of_Representatives_Page</WikiTitle> <WikiTitleID>2725406</WikiTitleID> <RankerScore>0.04401040791842991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pager</WikiTitle> <WikiTitleID>229045</WikiTitleID> <RankerScore>0.04401040791842991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paging</WikiTitle> <WikiTitleID>311193</WikiTitleID> <RankerScore>0.04401040791842991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lost_116_pages</WikiTitle> <WikiTitleID>1425928</WikiTitleID> <RankerScore>0.04401040791842991</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chile</EntitySurfaceForm>
+	<EntityTextStart>953</EntityTextStart>
+	<EntityTextEnd>958</EntityTextEnd>
+	<LinkerScore>4.350542722392572</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chile</WikiTitle>
+		<WikiTitleID>5489</WikiTitleID>
+		<RankerScore>0.9943673932901319</RankerScore>
+		<Attributes>state	country	colony	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chile</WikiTitle> <WikiTitleID>5489</WikiTitleID> <RankerScore>0.9943673932901319</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_football_team</WikiTitle> <WikiTitleID>697710</WikiTitleID> <RankerScore>0.0023322738046727847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_rugby_union_team</WikiTitle> <WikiTitleID>6527686</WikiTitleID> <RankerScore>1.0000466848041393E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_wine</WikiTitle> <WikiTitleID>521306</WikiTitleID> <RankerScore>0.0016002535410284176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_basketball_team</WikiTitle> <WikiTitleID>4116669</WikiTitleID> <RankerScore>1.0000466848041393E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_Davis_Cup_team</WikiTitle> <WikiTitleID>9656926</WikiTitleID> <RankerScore>1.0000466848041393E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_cricket_team</WikiTitle> <WikiTitleID>6736738</WikiTitleID> <RankerScore>1.0000466848041393E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Navy</WikiTitle> <WikiTitleID>1201138</WikiTitleID> <RankerScore>1.0000466848041393E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_supply_and_sanitation_in_Chile</WikiTitle> <WikiTitleID>9264170</WikiTitleID> <RankerScore>1.0000466848041393E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Chile</WikiTitle> <WikiTitleID>5490</WikiTitleID> <RankerScore>1.0000466848041393E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Chile</WikiTitle> <WikiTitleID>5496</WikiTitleID> <RankerScore>1.0000466848041393E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Captaincy_General_of_Chile</WikiTitle> <WikiTitleID>2811465</WikiTitleID> <RankerScore>1.0000466848041393E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dingling</WikiTitle> <WikiTitleID>2651325</WikiTitleID> <RankerScore>1.0000466848041393E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Antarctic_Territory</WikiTitle> <WikiTitleID>8260404</WikiTitleID> <RankerScore>1.0000466848041393E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_government_of_Chile_(1973–90)</WikiTitle> <WikiTitleID>1107462</WikiTitleID> <RankerScore>1.0000466848041393E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universo_Chile</WikiTitle> <WikiTitleID>9843042</WikiTitleID> <RankerScore>1.0000466848041393E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>923283</WikiTitleID> <RankerScore>1.0000466848041393E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Primera_División</WikiTitle> <WikiTitleID>5220049</WikiTitleID> <RankerScore>1.0000466848041393E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Air_Force</WikiTitle> <WikiTitleID>4533723</WikiTitleID> <RankerScore>1.0000466848041393E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Chile</WikiTitle> <WikiTitleID>5497</WikiTitleID> <RankerScore>1.0000466848041393E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bolivia</EntitySurfaceForm>
+	<EntityTextStart>964</EntityTextStart>
+	<EntityTextEnd>971</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bolivia</WikiTitle>
+		<WikiTitleID>3462</WikiTitleID>
+		<RankerScore>0.9998598039515668</RankerScore>
+		<Attributes>country	state	colony</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bolivia</WikiTitle> <WikiTitleID>3462</WikiTitleID> <RankerScore>0.9998598039515668</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolivia_national_football_team</WikiTitle> <WikiTitleID>1014785</WikiTitleID> <RankerScore>2.443353704652782E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolivia_(film)</WikiTitle> <WikiTitleID>9215002</WikiTitleID> <RankerScore>2.9018217087810113E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Bolivia</WikiTitle> <WikiTitleID>42393</WikiTitleID> <RankerScore>5.102605546991689E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolivia,_North_Carolina</WikiTitle> <WikiTitleID>127698</WikiTitleID> <RankerScore>5.102605546991689E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Bolivia</WikiTitle> <WikiTitleID>69016</WikiTitleID> <RankerScore>5.102605546991689E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_supply_and_sanitation_in_Bolivia</WikiTitle> <WikiTitleID>9925103</WikiTitleID> <RankerScore>5.102605546991689E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Bolivia</WikiTitle> <WikiTitleID>69017</WikiTitleID> <RankerScore>5.102605546991689E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolivia,_New_South_Wales</WikiTitle> <WikiTitleID>14354953</WikiTitleID> <RankerScore>5.102605546991689E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_privatization_in_Bolivia</WikiTitle> <WikiTitleID>17047679</WikiTitleID> <RankerScore>5.102605546991689E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Bolivia</WikiTitle> <WikiTitleID>188806</WikiTitleID> <RankerScore>5.102605546991689E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_political_parties_in_Bolivia</WikiTitle> <WikiTitleID>409081</WikiTitleID> <RankerScore>5.102605546991689E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rail_transport_in_Bolivia</WikiTitle> <WikiTitleID>18403709</WikiTitleID> <RankerScore>5.102605546991689E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Bolivia</WikiTitle> <WikiTitleID>333494</WikiTitleID> <RankerScore>5.102605546991689E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electricity_sector_in_Bolivia</WikiTitle> <WikiTitleID>13344815</WikiTitleID> <RankerScore>5.102605546991689E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Liga_de_Fútbol_Profesional_Boliviano</WikiTitle> <WikiTitleID>3287979</WikiTitleID> <RankerScore>5.102605546991689E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolivian_peso</WikiTitle> <WikiTitleID>1822469</WikiTitleID> <RankerScore>5.102605546991689E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departments_of_Bolivia</WikiTitle> <WikiTitleID>670485</WikiTitleID> <RankerScore>5.102605546991689E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolivia,_Cuba</WikiTitle> <WikiTitleID>13599932</WikiTitleID> <RankerScore>5.102605546991689E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_birds_of_Bolivia</WikiTitle> <WikiTitleID>10910526</WikiTitleID> <RankerScore>5.102605546991689E-6</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Argentina</EntitySurfaceForm>
+	<EntityTextStart>977</EntityTextStart>
+	<EntityTextEnd>986</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Argentina</WikiTitle>
+		<WikiTitleID>744</WikiTitleID>
+		<RankerScore>0.9996727651817465</RankerScore>
+		<Attributes>country	colony	republic	nation	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Argentina</WikiTitle> <WikiTitleID>744</WikiTitleID> <RankerScore>0.9996727651817465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_national_football_team</WikiTitle> <WikiTitleID>454699</WikiTitleID> <RankerScore>5.291059754350563E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_national_rugby_union_team</WikiTitle> <WikiTitleID>773452</WikiTitleID> <RankerScore>3.0455612472418545E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_national_basketball_team</WikiTitle> <WikiTitleID>2937490</WikiTitleID> <RankerScore>1.4345212249269552E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_national_cricket_team</WikiTitle> <WikiTitleID>4367228</WikiTitleID> <RankerScore>1.4345212249269552E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_national_field_hockey_team</WikiTitle> <WikiTitleID>7090405</WikiTitleID> <RankerScore>1.4345212249269552E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_women&apos;s_national_field_hockey_team</WikiTitle> <WikiTitleID>3642950</WikiTitleID> <RankerScore>1.4345212249269552E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_Davis_Cup_team</WikiTitle> <WikiTitleID>9663343</WikiTitleID> <RankerScore>1.4345212249269552E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Argentina</WikiTitle> <WikiTitleID>39575</WikiTitleID> <RankerScore>1.4345212249269552E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentine_Primera_División</WikiTitle> <WikiTitleID>1211728</WikiTitleID> <RankerScore>1.4345212249269552E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>7179395</WikiTitleID> <RankerScore>1.4345212249269552E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Argentina</WikiTitle> <WikiTitleID>4647453</WikiTitleID> <RankerScore>1.4345212249269552E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentine_wine</WikiTitle> <WikiTitleID>3440627</WikiTitleID> <RankerScore>1.4345212249269552E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>932975</WikiTitleID> <RankerScore>1.4345212249269552E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_national_rugby_union_team_(sevens)</WikiTitle> <WikiTitleID>6557208</WikiTitleID> <RankerScore>1.4345212249269552E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_national_handball_team</WikiTitle> <WikiTitleID>5857800</WikiTitleID> <RankerScore>1.4345212249269552E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Argentina</WikiTitle> <WikiTitleID>67623</WikiTitleID> <RankerScore>1.4345212249269552E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_national_under-20_football_team</WikiTitle> <WikiTitleID>12504513</WikiTitleID> <RankerScore>1.4345212249269552E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economy_of_Argentina</WikiTitle> <WikiTitleID>67340</WikiTitleID> <RankerScore>1.4345212249269552E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_men&apos;s_national_volleyball_team</WikiTitle> <WikiTitleID>7934540</WikiTitleID> <RankerScore>1.4345212249269552E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>South American countries</EntitySurfaceForm>
+	<EntityTextStart>1000</EntityTextStart>
+	<EntityTextEnd>1024</EntityTextEnd>
+	<LinkerScore>4.397499281781255</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>South_America</WikiTitle>
+		<WikiTitleID>26769</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>South_America</WikiTitle> <WikiTitleID>26769</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>South American</EntitySurfaceForm>
+	<EntityTextStart>1000</EntityTextStart>
+	<EntityTextEnd>1014</EntityTextEnd>
+	<LinkerScore>3.3113624248652926</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>South_America</WikiTitle>
+		<WikiTitleID>26769</WikiTitleID>
+		<RankerScore>0.9915437123937245</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>South_America</WikiTitle> <WikiTitleID>26769</WikiTitleID> <RankerScore>0.9915437123937245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_American_Plate</WikiTitle> <WikiTitleID>494322</WikiTitleID> <RankerScore>0.0015576874307047205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_American_sea_lion</WikiTitle> <WikiTitleID>909451</WikiTitleID> <RankerScore>0.0016996255395803459</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_American_Tern</WikiTitle> <WikiTitleID>12424019</WikiTitleID> <RankerScore>4.332478863325381E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup_qualification_(CONMEBOL)</WikiTitle> <WikiTitleID>1039990</WikiTitleID> <RankerScore>4.332478863325381E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cuisine_of_the_Americas</WikiTitle> <WikiTitleID>312362</WikiTitleID> <RankerScore>4.332478863325381E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_South_American_folk_music_traditions</WikiTitle> <WikiTitleID>5596109</WikiTitleID> <RankerScore>4.332478863325381E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_American_lungfish</WikiTitle> <WikiTitleID>639610</WikiTitleID> <RankerScore>4.332478863325381E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_American_cricket_team_in_England_in_1932</WikiTitle> <WikiTitleID>12368654</WikiTitleID> <RankerScore>4.332478863325381E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Candomblé</WikiTitle> <WikiTitleID>482581</WikiTitleID> <RankerScore>4.332478863325381E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Campeonato_Sudamericano_de_Clubes</WikiTitle> <WikiTitleID>6863002</WikiTitleID> <RankerScore>4.332478863325381E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_American_Footballer_of_the_Year</WikiTitle> <WikiTitleID>2682334</WikiTitleID> <RankerScore>4.332478863325381E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CONMEBOL</WikiTitle> <WikiTitleID>511237</WikiTitleID> <RankerScore>4.332478863325381E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_American_wars_of_independence</WikiTitle> <WikiTitleID>490486</WikiTitleID> <RankerScore>4.332478863325381E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Formula_3_Sudamericana</WikiTitle> <WikiTitleID>10076292</WikiTitleID> <RankerScore>4.332478863325381E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>South</EntitySurfaceForm>
+	<EntityTextStart>1000</EntityTextStart>
+	<EntityTextEnd>1005</EntityTextEnd>
+	<LinkerScore>1.4787071603196311</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>South_America</WikiTitle>
+		<WikiTitleID>26769</WikiTitleID>
+		<RankerScore>0.8198715774747244</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Southern_United_States</WikiTitle> <WikiTitleID>179553</WikiTitleID> <RankerScore>0.0436523791605789</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South</WikiTitle> <WikiTitleID>77173</WikiTitleID> <RankerScore>0.011535959260588223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_America</WikiTitle> <WikiTitleID>26769</WikiTitleID> <RankerScore>0.8198715774747244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Asia</WikiTitle> <WikiTitleID>26827</WikiTitleID> <RankerScore>0.00734941671200639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Island</WikiTitle> <WikiTitleID>62049</WikiTitleID> <RankerScore>0.00734941671200639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latitude</WikiTitle> <WikiTitleID>17616</WikiTitleID> <RankerScore>0.00734941671200639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Confederate_States_of_America</WikiTitle> <WikiTitleID>7023</WikiTitleID> <RankerScore>0.00734941671200639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Shropshire</WikiTitle> <WikiTitleID>216788</WikiTitleID> <RankerScore>0.00734941671200639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_(British_band)</WikiTitle> <WikiTitleID>1490661</WikiTitleID> <RankerScore>0.00734941671200639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Korea</WikiTitle> <WikiTitleID>27019</WikiTitleID> <RankerScore>0.00734941671200639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_railway_line,_Sydney</WikiTitle> <WikiTitleID>1658371</WikiTitleID> <RankerScore>0.00734941671200639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Wales</WikiTitle> <WikiTitleID>832809</WikiTitleID> <RankerScore>0.00734941671200639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deep_South</WikiTitle> <WikiTitleID>401342</WikiTitleID> <RankerScore>0.00734941671200639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Vietnam</WikiTitle> <WikiTitleID>59756</WikiTitleID> <RankerScore>0.00734941671200639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Pole</WikiTitle> <WikiTitleID>28655</WikiTitleID> <RankerScore>0.00734941671200639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_India</WikiTitle> <WikiTitleID>678583</WikiTitleID> <RankerScore>0.00734941671200639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belfast_South</WikiTitle> <WikiTitleID>2158009</WikiTitleID> <RankerScore>0.00734941671200639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_League_Third_Division_South</WikiTitle> <WikiTitleID>580907</WikiTitleID> <RankerScore>0.00734941671200639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Omaha,_Nebraska</WikiTitle> <WikiTitleID>1664946</WikiTitleID> <RankerScore>0.00734941671200639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Region,_Brazil</WikiTitle> <WikiTitleID>1271526</WikiTitleID> <RankerScore>0.00734941671200639</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>American countries</EntitySurfaceForm>
+	<EntityTextStart>1006</EntityTextStart>
+	<EntityTextEnd>1024</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>List_of_sovereign_states_and_dependent_territories_in_the_Americas</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>country</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>American</EntitySurfaceForm>
+	<EntityTextStart>1006</EntityTextStart>
+	<EntityTextEnd>1014</EntityTextEnd>
+	<LinkerScore>3.715384805298645</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>South_America</WikiTitle>
+		<WikiTitleID>26769</WikiTitleID>
+		<RankerScore>0.9928542910804821</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>South_America</WikiTitle> <WikiTitleID>26769</WikiTitleID> <RankerScore>0.9928542910804821</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_American_Plate</WikiTitle> <WikiTitleID>494322</WikiTitleID> <RankerScore>0.001320038882936066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_American_sea_lion</WikiTitle> <WikiTitleID>909451</WikiTitleID> <RankerScore>0.0014289467056355846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_American_Tern</WikiTitle> <WikiTitleID>12424019</WikiTitleID> <RankerScore>3.663936109121996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup_qualification_(CONMEBOL)</WikiTitle> <WikiTitleID>1039990</WikiTitleID> <RankerScore>3.663936109121996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cuisine_of_the_Americas</WikiTitle> <WikiTitleID>312362</WikiTitleID> <RankerScore>3.663936109121996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_South_American_folk_music_traditions</WikiTitle> <WikiTitleID>5596109</WikiTitleID> <RankerScore>3.663936109121996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_American_lungfish</WikiTitle> <WikiTitleID>639610</WikiTitleID> <RankerScore>3.663936109121996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_American_cricket_team_in_England_in_1932</WikiTitle> <WikiTitleID>12368654</WikiTitleID> <RankerScore>3.663936109121996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Candomblé</WikiTitle> <WikiTitleID>482581</WikiTitleID> <RankerScore>3.663936109121996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Campeonato_Sudamericano_de_Clubes</WikiTitle> <WikiTitleID>6863002</WikiTitleID> <RankerScore>3.663936109121996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_American_Footballer_of_the_Year</WikiTitle> <WikiTitleID>2682334</WikiTitleID> <RankerScore>3.663936109121996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CONMEBOL</WikiTitle> <WikiTitleID>511237</WikiTitleID> <RankerScore>3.663936109121996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_American_wars_of_independence</WikiTitle> <WikiTitleID>490486</WikiTitleID> <RankerScore>3.663936109121996E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Formula_3_Sudamericana</WikiTitle> <WikiTitleID>10076292</WikiTitleID> <RankerScore>3.663936109121996E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>countries</EntitySurfaceForm>
+	<EntityTextStart>1015</EntityTextStart>
+	<EntityTextEnd>1024</EntityTextEnd>
+	<LinkerScore>-0.3516057977748724</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Brazil</WikiTitle>
+		<WikiTitleID>3383</WikiTitleID>
+		<RankerScore>0.805303005968455</RankerScore>
+		<Attributes>dispute	country	nation	colony	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Country</WikiTitle> <WikiTitleID>5165</WikiTitleID> <RankerScore>0.09751026866510529</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nation</WikiTitle> <WikiTitleID>21754</WikiTitleID> <RankerScore>0.02235095451486172</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_sovereign_states</WikiTitle> <WikiTitleID>1779040</WikiTitleID> <RankerScore>0.004677235678223623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State</WikiTitle> <WikiTitleID>28151</WikiTitleID> <RankerScore>0.004677235678223623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communist_state</WikiTitle> <WikiTitleID>215623</WikiTitleID> <RankerScore>0.004677235678223623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Muslim_world</WikiTitle> <WikiTitleID>191429</WikiTitleID> <RankerScore>0.004677235678223623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_language_in_Europe</WikiTitle> <WikiTitleID>4034216</WikiTitleID> <RankerScore>0.004677235678223623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eurozone</WikiTitle> <WikiTitleID>184391</WikiTitleID> <RankerScore>0.004677235678223623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Travelers&apos;_Century_Club</WikiTitle> <WikiTitleID>11251913</WikiTitleID> <RankerScore>0.004677235678223623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Member_state_of_the_European_Union</WikiTitle> <WikiTitleID>4821923</WikiTitleID> <RankerScore>0.004677235678223623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republics_of_the_Soviet_Union</WikiTitle> <WikiTitleID>26950</WikiTitleID> <RankerScore>0.004677235678223623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Member_states_of_the_United_Nations</WikiTitle> <WikiTitleID>31969</WikiTitleID> <RankerScore>0.004677235678223623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_countries_by_English-speaking_population</WikiTitle> <WikiTitleID>3924012</WikiTitleID> <RankerScore>0.004677235678223623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Enlargement_of_the_Arab_League</WikiTitle> <WikiTitleID>6701174</WikiTitleID> <RankerScore>0.004677235678223623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil</WikiTitle> <WikiTitleID>3383</WikiTitleID> <RankerScore>0.805303005968455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_wine-producing_countries</WikiTitle> <WikiTitleID>4337155</WikiTitleID> <RankerScore>0.004677235678223623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jurisdiction</WikiTitle> <WikiTitleID>16392</WikiTitleID> <RankerScore>0.004677235678223623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nation_state</WikiTitle> <WikiTitleID>21627</WikiTitleID> <RankerScore>0.004677235678223623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DX_Century_Club</WikiTitle> <WikiTitleID>244741</WikiTitleID> <RankerScore>0.004677235678223623</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

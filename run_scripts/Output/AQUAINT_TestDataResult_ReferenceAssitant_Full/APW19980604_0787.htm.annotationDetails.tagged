@@ -1,0 +1,417 @@
+<ANNOTATION>
+ <b>ENGLISH</b><br><br>   <a class="wiki" href="http://en.wikipedia.org/wiki/Mechai_Viravaidya" cat="activist	senator	grammarian	person	winner">Viravaidya</a>   's plan to set up a watchdog  <b>company</b> to monitor   <a class="wiki" href="http://en.wikipedia.org/wiki/Stock_Exchange_of_Thailand" cat="building	exchange">SET</a>   -listed companies and expose possible abuses of   <b>corporate ethics</b>  . I agree with him whole-heartedly and would like to know where to  <b>mail</b> my  <b>checks</b> to subscribe to the  <b>company</b>'s  <b>shares</b>. Could you advise? <br><br> Also, I fully support his request for the media to report on the   <b>lifestyle</b>   of former   <b>executives</b>   of the failed  banks   and  finance   companies. We all know too well that these people will not be punished legally because of the  <b>inefficiency</b> of the   <a class="wiki" href="http://en.wikipedia.org/wiki/Bank_of_Thailand" cat="banks">Bank of Thailand</a>    in collecting  <b>evidence</b> against them and of our   <b>justice system</b>   in delivering  <b>timely</b>  <b>justice</b>. It is the  <b>media</b>'s job to discover how these guys are better off after destroying our country, and it is the   <a class="wiki" href="http://en.wikipedia.org/wiki/Thai_people" cat="group	peoples">Thai people</a>   's job to socially punish them. <br><br> I would like to propose that   <b>newspapers</b>   and   <b>TV stations</b>  play up this issue (the continued luxurious  <b>lifestyle</b> of the former executives) to attract more public attention, and I will give them Bt20,000 of my hard-earned  <b>salary</b> with my full blessing. <br><br> Artit Krichphiphat (An ordinary Thai  <b>citizen</b> who wants to see the right things get done)  <b>Editor</b>'s note: Khun Mechai will organise a  <b>seminar</b> on the plan on  <a class="wiki" href="http://en.wikipedia.org/wiki/June_7" cat="days">June 7</a>  at the  <a class="wiki" href="http://en.wikipedia.org/wiki/Telephone" cat="group">Telephone</a>  Organisation of  <a class="wiki" href="http://en.wikipedia.org/wiki/Thailand" cat="country">Thailand</a>  at 10 am. The  <b>media</b> already has the duty to cover such issues without additional financial reward. <br><br>
+</ANNOTATION>
+*Entity:[ENGLISH,textSpan=(0-10)]	-Disambiguation:(tid=48771, Title name=English_(programming_language)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Viravaidya,textSpan=(14-24)]	-Disambiguation:(tid=834384, Title name=Mechai_Viravaidya) gold wikification:=Mechai_Viravaidya isCorrectPrediction=Correct
+*Entity:[plan,textSpan=(29-33)]	-Disambiguation:(tid=179824, Title name=Plan) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[set,textSpan=(37-40)]	-Disambiguation:(tid=26691, Title name=Set) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[watchdog,textSpan=(46-54)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(55-62)]	-Disambiguation:(tid=4918223, Title name=Company) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[monitor,textSpan=(66-73)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[SET,textSpan=(75-78)]	-Disambiguation:(tid=1355349, Title name=Stock_Exchange_of_Thailand) gold wikification:=SET_Index isCorrectPrediction=Incorrect
+*Entity:[possible,textSpan=(109-117)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[abuses,textSpan=(118-124)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[corporate ethics,textSpan=(129-145)]	-Disambiguation:(tid=4770, Title name=Business_ethics) gold wikification:=Business_ethics isCorrectPrediction=Correct
+*Entity:[corporate,textSpan=(129-138)]	-Disambiguation:(tid=7485, Title name=Corporation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ethics,textSpan=(139-145)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[I,textSpan=(149-150)]	-Disambiguation:(tid=14778, Title name=I) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[know,textSpan=(200-204)]	-Disambiguation:(tid=243391, Title name=Knowledge) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[mail,textSpan=(214-218)]	-Disambiguation:(tid=51138, Title name=Mail) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[checks,textSpan=(222-228)]	-Disambiguation:(tid=1267494, Title name=Cheque) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[subscribe,textSpan=(232-241)]	-Disambiguation:(tid=259338, Title name=Subscription_business_model) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the company,textSpan=(245-256)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(249-256)]	-Disambiguation:(tid=4918223, Title name=Company) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[shares,textSpan=(259-265)]	-Disambiguation:(tid=867877, Title name=Share_(finance)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Also, I,textSpan=(288-295)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[I,textSpan=(294-295)]	-Disambiguation:(tid=14778, Title name=I) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[request,textSpan=(314-321)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the media,textSpan=(326-335)]	-Disambiguation:(tid=19641, Title name=Mass_media) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[media,textSpan=(330-335)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[report,textSpan=(339-345)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[lifestyle,textSpan=(354-363)]	-Disambiguation:(tid=190041, Title name=Lifestyle) gold wikification:=Lifestyle isCorrectPrediction=Correct
+*Entity:[executives,textSpan=(377-387)]	-Disambiguation:(tid=5681, Title name=Corporate_title) gold wikification:=Chief_executive_officer isCorrectPrediction=Incorrect
+*Entity:[banks,textSpan=(405-410)]	-Disambiguation:*null* gold wikification:=Bank isCorrectPrediction=Incorrect
+*Entity:[finance,textSpan=(418-425)]	-Disambiguation:*null* gold wikification:=Finance isCorrectPrediction=Incorrect
+*Entity:[We,textSpan=(439-441)]	-Disambiguation:(tid=234555, Title name=We_(novel)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[these people,textSpan=(465-477)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[people,textSpan=(471-477)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[punished,textSpan=(490-498)]	-Disambiguation:(tid=146764, Title name=Punishment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[inefficiency,textSpan=(522-534)]	-Disambiguation:(tid=582932, Title name=Inefficiency) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bank of Thailand,textSpan=(543-559)]	-Disambiguation:(tid=749269, Title name=Bank_of_Thailand) gold wikification:=Bank_of_Thailand isCorrectPrediction=Correct
+*Entity:[Thailand,textSpan=(551-559)]	-Disambiguation:(tid=30128, Title name=Thailand) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[evidence,textSpan=(576-584)]	-Disambiguation:(tid=5236854, Title name=Evidence) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[justice system,textSpan=(610-624)]	-Disambiguation:(tid=154708, Title name=List_of_national_legal_systems) gold wikification:=List_of_national_legal_systems isCorrectPrediction=Correct
+*Entity:[timely,textSpan=(641-647)]	-Disambiguation:(tid=2468312, Title name=Punctuality) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[justice,textSpan=(648-655)]	-Disambiguation:(tid=16369, Title name=Justice) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[It,textSpan=(657-659)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the media,textSpan=(663-672)]	-Disambiguation:(tid=19641, Title name=Mass_media) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[media,textSpan=(667-672)]	-Disambiguation:(tid=19641, Title name=Mass_media) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[job,textSpan=(675-678)]	-Disambiguation:(tid=314993, Title name=Employment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[discover,textSpan=(682-690)]	-Disambiguation:(tid=53231, Title name=Discovery_(observation)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[guys,textSpan=(701-705)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[our country,textSpan=(738-749)]	-Disambiguation:(tid=31717, Title name=United_Kingdom) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[country,textSpan=(742-749)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Thai,textSpan=(766-770)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Thai people,textSpan=(766-777)]	-Disambiguation:(tid=2670504, Title name=Thai_people) gold wikification:=Thai_people isCorrectPrediction=Correct
+*Entity:[job,textSpan=(782-785)]	-Disambiguation:(tid=314993, Title name=Employment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[socially,textSpan=(789-797)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[punish,textSpan=(798-804)]	-Disambiguation:(tid=146764, Title name=Punishment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[I,textSpan=(814-815)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[propose,textSpan=(830-837)]	-Disambiguation:(tid=8019411, Title name=Marriage_proposal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[newspapers,textSpan=(844-854)]	-Disambiguation:(tid=18582335, Title name=Newspaper) gold wikification:=Newspaper isCorrectPrediction=Correct
+*Entity:[TV stations,textSpan=(862-873)]	-Disambiguation:(tid=29831, Title name=Television) gold wikification:=Television_channel isCorrectPrediction=Incorrect
+*Entity:[issue,textSpan=(888-893)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[continued,textSpan=(899-908)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[luxurious,textSpan=(909-918)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[lifestyle,textSpan=(919-928)]	-Disambiguation:(tid=190041, Title name=Lifestyle) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[attract,textSpan=(958-965)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[public,textSpan=(971-977)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[attention,textSpan=(978-987)]	-Disambiguation:(tid=68753, Title name=Attention) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[I,textSpan=(993-994)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bt20,000,textSpan=(1010-1018)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[salary,textSpan=(1037-1043)]	-Disambiguation:(tid=610452, Title name=Salary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[blessing,textSpan=(1057-1065)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Artit Krichphiphat,textSpan=(1070-1088)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[An,textSpan=(1090-1092)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ordinary,textSpan=(1093-1101)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Thai,textSpan=(1102-1106)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[citizen,textSpan=(1107-1114)]	-Disambiguation:(tid=6784, Title name=Citizenship) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wants,textSpan=(1119-1124)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the right,textSpan=(1132-1141)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[right,textSpan=(1136-1141)]	-Disambiguation:(tid=51490, Title name=Rights) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[things,textSpan=(1142-1148)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Editor,textSpan=(1159-1165)]	-Disambiguation:(tid=167897, Title name=Editing) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Khun Mechai,textSpan=(1174-1185)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[organise,textSpan=(1191-1199)]	-Disambiguation:(tid=105070, Title name=Organization) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[seminar,textSpan=(1202-1209)]	-Disambiguation:(tid=677000, Title name=Seminar) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the plan,textSpan=(1213-1221)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plan,textSpan=(1217-1221)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[June,textSpan=(1225-1229)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[June 7,textSpan=(1225-1231)]	-Disambiguation:(tid=15795, Title name=June_7) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Telephone Organisation of Thailand,textSpan=(1239-1273)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Telephone Organisation,textSpan=(1239-1261)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Telephone,textSpan=(1239-1248)]	-Disambiguation:(tid=30003, Title name=Telephone) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Organisation,textSpan=(1249-1261)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Thailand,textSpan=(1265-1273)]	-Disambiguation:(tid=30128, Title name=Thailand) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The media,textSpan=(1284-1293)]	-Disambiguation:(tid=269243, Title name=Media_of_Hong_Kong) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[media,textSpan=(1288-1293)]	-Disambiguation:(tid=269243, Title name=Media_of_Hong_Kong) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[duty,textSpan=(1310-1314)]	-Disambiguation:(tid=183749, Title name=Duty) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cover,textSpan=(1318-1323)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[issues,textSpan=(1329-1335)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[additional,textSpan=(1344-1354)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[financial,textSpan=(1355-1364)]	-Disambiguation:(tid=11162, Title name=Finance) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reward,textSpan=(1365-1371)]	-Disambiguation:(tid=2352573, Title name=Reward) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'ENGLISH' start in text:0 end in text: 10; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Viravaidya' start in text:14 end in text: 24; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'plan' start in text:29 end in text: 33; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'set' start in text:37 end in text: 40; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'watchdog' start in text:46 end in text: 54; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:55 end in text: 62; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'monitor' start in text:66 end in text: 73; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'SET' start in text:75 end in text: 78; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'possible' start in text:109 end in text: 117; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'abuses' start in text:118 end in text: 124; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'corporate ethics' start in text:129 end in text: 145; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'corporate' start in text:129 end in text: 138; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ethics' start in text:139 end in text: 145; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'I' start in text:149 end in text: 150; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'know' start in text:200 end in text: 204; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'mail' start in text:214 end in text: 218; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'checks' start in text:222 end in text: 228; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'subscribe' start in text:232 end in text: 241; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the company' start in text:245 end in text: 256; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:249 end in text: 256; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shares' start in text:259 end in text: 265; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Also, I' start in text:288 end in text: 295; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'I' start in text:294 end in text: 295; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'request' start in text:314 end in text: 321; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the media' start in text:326 end in text: 335; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'media' start in text:330 end in text: 335; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'report' start in text:339 end in text: 345; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'lifestyle' start in text:354 end in text: 363; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'executives' start in text:377 end in text: 387; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'banks' start in text:405 end in text: 410; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'finance' start in text:418 end in text: 425; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'We' start in text:439 end in text: 441; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'these people' start in text:465 end in text: 477; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'people' start in text:471 end in text: 477; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'punished' start in text:490 end in text: 498; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'inefficiency' start in text:522 end in text: 534; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bank of Thailand' start in text:543 end in text: 559; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thailand' start in text:551 end in text: 559; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'evidence' start in text:576 end in text: 584; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'justice system' start in text:610 end in text: 624; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'timely' start in text:641 end in text: 647; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'justice' start in text:648 end in text: 655; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'It' start in text:657 end in text: 659; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the media' start in text:663 end in text: 672; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'media' start in text:667 end in text: 672; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'job' start in text:675 end in text: 678; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'discover' start in text:682 end in text: 690; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'guys' start in text:701 end in text: 705; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'our country' start in text:738 end in text: 749; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'country' start in text:742 end in text: 749; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thai' start in text:766 end in text: 770; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thai people' start in text:766 end in text: 777; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'job' start in text:782 end in text: 785; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'socially' start in text:789 end in text: 797; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'punish' start in text:798 end in text: 804; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'I' start in text:814 end in text: 815; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'propose' start in text:830 end in text: 837; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'newspapers' start in text:844 end in text: 854; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'TV stations' start in text:862 end in text: 873; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'issue' start in text:888 end in text: 893; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'continued' start in text:899 end in text: 908; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'luxurious' start in text:909 end in text: 918; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'lifestyle' start in text:919 end in text: 928; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'attract' start in text:958 end in text: 965; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'public' start in text:971 end in text: 977; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'attention' start in text:978 end in text: 987; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'I' start in text:993 end in text: 994; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bt20,000' start in text:1010 end in text: 1018; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'salary' start in text:1037 end in text: 1043; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'blessing' start in text:1057 end in text: 1065; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Artit Krichphiphat' start in text:1070 end in text: 1088; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'An' start in text:1090 end in text: 1092; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ordinary' start in text:1093 end in text: 1101; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thai' start in text:1102 end in text: 1106; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'citizen' start in text:1107 end in text: 1114; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wants' start in text:1119 end in text: 1124; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the right' start in text:1132 end in text: 1141; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'right' start in text:1136 end in text: 1141; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'things' start in text:1142 end in text: 1148; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Editor' start in text:1159 end in text: 1165; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Khun Mechai' start in text:1174 end in text: 1185; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'organise' start in text:1191 end in text: 1199; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'seminar' start in text:1202 end in text: 1209; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the plan' start in text:1213 end in text: 1221; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plan' start in text:1217 end in text: 1221; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'June' start in text:1225 end in text: 1229; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'June 7' start in text:1225 end in text: 1231; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Telephone Organisation of Thailand' start in text:1239 end in text: 1273; Entity types: NER,MISC,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Telephone Organisation' start in text:1239 end in text: 1261; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Telephone' start in text:1239 end in text: 1248; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Organisation' start in text:1249 end in text: 1261; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thailand' start in text:1265 end in text: 1273; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The media' start in text:1284 end in text: 1293; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'media' start in text:1288 end in text: 1293; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'duty' start in text:1310 end in text: 1314; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cover' start in text:1318 end in text: 1323; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'issues' start in text:1329 end in text: 1335; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'additional' start in text:1344 end in text: 1354; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'financial' start in text:1355 end in text: 1364; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reward' start in text:1365 end in text: 1371; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

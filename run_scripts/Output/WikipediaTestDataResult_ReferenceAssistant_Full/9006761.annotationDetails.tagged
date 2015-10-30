@@ -1,0 +1,511 @@
+<ANNOTATION>
+Klæburuten is a    <a class="wiki" href="http://en.wikipedia.org/wiki/Norway" cat="state	country	member">Norwegian</a>      bus company   located in    <a class="wiki" href="http://en.wikipedia.org/wiki/Trondheim" cat="municipality	city	place	capital	establishment">Trondheim</a>   . It operates the regional  <b>buses</b> in    <a class="wiki" href="http://en.wikipedia.org/wiki/Klæbu" cat="municipality	village">Klæbu</a>    and to    <a class="wiki" href="http://en.wikipedia.org/wiki/Trondheim" cat="municipality	city	place	capital	establishment">Trondheim</a>    in addition to the  <a class="wiki" href="http://en.wikipedia.org/wiki/Airport_bus" cat="">Airport Bus</a>  from  <a class="wiki" href="http://en.wikipedia.org/wiki/Trondheim" cat="municipality	city	place	capital	establishment">Trondheim</a>  to    <a class="wiki" href="http://en.wikipedia.org/wiki/Trondheim_Airport,_Værnes" cat="airport	establishment">Trondheim Airport, Værnes</a>   .<br>The  <b>bus company</b> operates 26 daily  <b>buses</b> between  <a class="wiki" href="http://en.wikipedia.org/wiki/Trondheim" cat="municipality	city	place	capital	establishment">Trondheim</a>  and Klæbu. In  <a class="wiki" href="http://en.wikipedia.org/wiki/Trondheim" cat="municipality	city	place	capital	establishment">Trondheim</a>   <b>buses</b> stop both at    <a class="wiki" href="http://en.wikipedia.org/wiki/Trondheim_Central_Station" cat="stations">Trondheim Central Station</a>    and    <a class="wiki" href="http://en.wikipedia.org/wiki/Munkegata_Terminal" cat="building	stations">Munkegata</a>   .  <b>The Airport</b>  <b>Bus</b> is operated at 15 minutes    <b>headway</b>   between the  <b>airport</b> and  <b>town</b>, with  <b>stops</b> at most major  <b>hotels</b> in  <b>town</b>. In total the company has 10  <b>city buses</b>, 11  <b>charter</b>  <b>coaches</b> and 21  <b>airport</b>  <b>coaches</b>.<br>The  <b>company</b> started out in    <b>1923</b>   when Arnt Krokum started Krokum Bilruter. The  <b>company</b> started with one  <b>bus</b>, then added a second in    <b>1924</b>  . In    <b>1945</b>   the  <b>company</b> started a  <b>bus</b> service for    <a class="wiki" href="http://en.wikipedia.org/wiki/Braathens" cat="airline	member	company">Braathens S.A.F.E</a>    between  <a class="wiki" href="http://en.wikipedia.org/wiki/Trondheim" cat="municipality	city	place	capital	establishment">Trondheim</a>  and    <a class="wiki" href="http://en.wikipedia.org/wiki/Trondheim_Airport,_Lade" cat="airport	building">Lade Airport</a>    and   Hommelvik  <a class="wiki" href="http://en.wikipedia.org/wiki/Seaplane" cat="">Seaplane Base</a>   . In    <b>1948</b>   the company was converted to a   limited company   and four years later the company started a  <b>bus</b> service to  <a class="wiki" href="http://en.wikipedia.org/wiki/Trondheim_Airport,_Værnes" cat="airport	establishment">Trondheim Airport</a> , Værnes on  <b>contract</b> with    <a class="wiki" href="http://en.wikipedia.org/wiki/Scandinavian_Airlines" cat="brand	airline	member">Scandinavian Airlines System</a>   . The  <b>company</b> started with   charter   trips in the  <b>1950s</b>, and still has the same three main activities and still has only one dominant owner.<br><br>
+</ANNOTATION>
+*Entity:[Norwegian,textSpan=(18-27)]	-Disambiguation:(tid=21241, Title name=Norway) gold wikification:=Norway isCorrectPrediction=Correct
+*Entity:[Trondheim,textSpan=(59-68)]	-Disambiguation:(tid=37472, Title name=Trondheim) gold wikification:=Trondheim isCorrectPrediction=Correct
+*Entity:[It,textSpan=(72-74)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[regional,textSpan=(88-96)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[buses,textSpan=(97-102)]	-Disambiguation:(tid=8911031, Title name=Team_Trafikk) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Klæbu,textSpan=(108-113)]	-Disambiguation:(tid=178463, Title name=Klæbu) gold wikification:=Klæbu isCorrectPrediction=Correct
+*Entity:[Trondheim,textSpan=(125-134)]	-Disambiguation:(tid=37472, Title name=Trondheim) gold wikification:=Trondheim isCorrectPrediction=Correct
+*Entity:[addition,textSpan=(140-148)]	-Disambiguation:(tid=61338, Title name=Addition) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Airport,textSpan=(156-163)]	-Disambiguation:(tid=37575, Title name=Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Airport Bus,textSpan=(156-167)]	-Disambiguation:(tid=15988779, Title name=Airport_bus) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bus,textSpan=(164-167)]	-Disambiguation:(tid=4146, Title name=Bus) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Trondheim,textSpan=(173-182)]	-Disambiguation:(tid=37472, Title name=Trondheim) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Trondheim Airport,textSpan=(188-205)]	-Disambiguation:(tid=303381, Title name=Trondheim_Airport,_Værnes) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Trondheim Airport, V,textSpan=(188-208)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Trondheim Airport, Værnes,textSpan=(188-213)]	-Disambiguation:(tid=303381, Title name=Trondheim_Airport,_Værnes) gold wikification:=Trondheim_Airport,_Værnes isCorrectPrediction=Correct
+*Entity:[Trondheim,textSpan=(188-197)]	-Disambiguation:(tid=37472, Title name=Trondheim) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Airport,textSpan=(198-205)]	-Disambiguation:(tid=303381, Title name=Trondheim_Airport,_Værnes) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The bus,textSpan=(217-224)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bus,textSpan=(221-224)]	-Disambiguation:(tid=4146, Title name=Bus) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bus company,textSpan=(221-232)]	-Disambiguation:(tid=4146, Title name=Bus) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(225-232)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[26,textSpan=(242-244)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[daily,textSpan=(245-250)]	-Disambiguation:(tid=742837, Title name=Daily) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[buses,textSpan=(251-256)]	-Disambiguation:(tid=8911031, Title name=Team_Trafikk) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Trondheim,textSpan=(265-274)]	-Disambiguation:(tid=37472, Title name=Trondheim) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Trondheim and Kl,textSpan=(265-281)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Trondheim,textSpan=(289-298)]	-Disambiguation:(tid=37472, Title name=Trondheim) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[buses,textSpan=(299-304)]	-Disambiguation:(tid=8911031, Title name=Team_Trafikk) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Trondheim Central Station,textSpan=(320-345)]	-Disambiguation:(tid=8605429, Title name=Trondheim_Central_Station) gold wikification:=Trondheim_Central_Station isCorrectPrediction=Correct
+*Entity:[Trondheim,textSpan=(320-329)]	-Disambiguation:(tid=37472, Title name=Trondheim) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Trondheim Central Station and Munkegata,textSpan=(320-363)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Central,textSpan=(330-337)]	-Disambiguation:(tid=207371, Title name=Central,_Hong_Kong) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Central Station,textSpan=(330-345)]	-Disambiguation:(tid=8605429, Title name=Trondheim_Central_Station) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Station,textSpan=(338-345)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Munkegata,textSpan=(354-363)]	-Disambiguation:(tid=9006245, Title name=Munkegata_Terminal) gold wikification:=Munkegata_Terminal isCorrectPrediction=Correct
+*Entity:[The Airport,textSpan=(367-378)]	-Disambiguation:(tid=5072970, Title name=The_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Airport,textSpan=(371-378)]	-Disambiguation:(tid=5072970, Title name=The_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Airport Bus,textSpan=(371-382)]	-Disambiguation:(tid=15988779, Title name=Airport_bus) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bus,textSpan=(379-382)]	-Disambiguation:(tid=4146, Title name=Bus) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[operated,textSpan=(386-394)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[headway,textSpan=(411-418)]	-Disambiguation:(tid=6968798, Title name=Headway) gold wikification:=Headway isCorrectPrediction=Correct
+*Entity:[the airport,textSpan=(429-440)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airport,textSpan=(433-440)]	-Disambiguation:(tid=37575, Title name=Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[town,textSpan=(445-449)]	-Disambiguation:(tid=52911, Title name=Town) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[stops,textSpan=(456-461)]	-Disambiguation:(tid=240496, Title name=Bus_stop) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[major,textSpan=(470-475)]	-Disambiguation:(tid=201920, Title name=Major) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hotels,textSpan=(476-482)]	-Disambiguation:(tid=14276, Title name=Hotel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[town,textSpan=(486-490)]	-Disambiguation:(tid=52911, Title name=Town) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the company,textSpan=(501-512)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(505-512)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[city buses,textSpan=(520-530)]	-Disambiguation:(tid=4146, Title name=Bus) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[city,textSpan=(520-524)]	-Disambiguation:(tid=5391, Title name=City) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[buses,textSpan=(525-530)]	-Disambiguation:(tid=4146, Title name=Bus) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[11,textSpan=(532-534)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[charter,textSpan=(535-542)]	-Disambiguation:(tid=336179, Title name=Charter) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[coaches,textSpan=(543-550)]	-Disambiguation:(tid=214761, Title name=Coach_(bus)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[21,textSpan=(555-557)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airport,textSpan=(558-565)]	-Disambiguation:(tid=37575, Title name=Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[coaches,textSpan=(566-573)]	-Disambiguation:(tid=214761, Title name=Coach_(bus)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The company,textSpan=(575-586)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(579-586)]	-Disambiguation:(tid=4918223, Title name=Company) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1923,textSpan=(604-608)]	-Disambiguation:(tid=34863, Title name=1923) gold wikification:=1923 isCorrectPrediction=Correct
+*Entity:[Arnt Krokum,textSpan=(616-627)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Arnt,textSpan=(616-620)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Krokum Bilruter,textSpan=(636-651)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The company,textSpan=(653-664)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(657-664)]	-Disambiguation:(tid=4918223, Title name=Company) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bus,textSpan=(682-685)]	-Disambiguation:(tid=4146, Title name=Bus) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[second,textSpan=(700-706)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1924,textSpan=(712-716)]	-Disambiguation:(tid=34675, Title name=1924) gold wikification:=1924 isCorrectPrediction=Correct
+*Entity:[1945,textSpan=(725-729)]	-Disambiguation:(tid=34624, Title name=1945) gold wikification:=1945 isCorrectPrediction=Correct
+*Entity:[the company,textSpan=(732-743)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(736-743)]	-Disambiguation:(tid=4918223, Title name=Company) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a bus,textSpan=(752-757)]	-Disambiguation:(tid=892444, Title name=London_Buses) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bus service,textSpan=(754-765)]	-Disambiguation:(tid=1852974, Title name=Transit_bus) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bus,textSpan=(754-757)]	-Disambiguation:(tid=4146, Title name=Bus) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[service,textSpan=(758-765)]	-Disambiguation:(tid=181586, Title name=Service_(economics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Braathens,textSpan=(772-781)]	-Disambiguation:(tid=150761, Title name=Braathens) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Braathens S.A.F.E,textSpan=(772-789)]	-Disambiguation:(tid=150761, Title name=Braathens) gold wikification:=Braathens isCorrectPrediction=Correct
+*Entity:[S.A.F.E,textSpan=(782-789)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Trondheim and Lade Airport and Hommelvik Seaplane Base,textSpan=(800-860)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Trondheim,textSpan=(800-809)]	-Disambiguation:(tid=37472, Title name=Trondheim) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lade Airport,textSpan=(816-828)]	-Disambiguation:(tid=3658264, Title name=Trondheim_Airport,_Lade) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lade,textSpan=(816-820)]	-Disambiguation:(tid=9005767, Title name=Lade,_Trondheim) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lade Airport and Hommelvik Seaplane Base,textSpan=(816-860)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Airport,textSpan=(821-828)]	-Disambiguation:(tid=37575, Title name=Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hommelvik,textSpan=(837-846)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hommelvik Seaplane Base,textSpan=(837-860)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Seaplane Base,textSpan=(847-860)]	-Disambiguation:(tid=291731, Title name=Seaplane) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Seaplane,textSpan=(847-855)]	-Disambiguation:(tid=291731, Title name=Seaplane) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Base,textSpan=(856-860)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1948,textSpan=(869-873)]	-Disambiguation:(tid=34612, Title name=1948) gold wikification:=1948 isCorrectPrediction=Correct
+*Entity:[the company,textSpan=(876-887)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(880-887)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[converted,textSpan=(892-901)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[limited company,textSpan=(909-924)]	-Disambiguation:*null* gold wikification:=Aksjeselskap isCorrectPrediction=Incorrect
+*Entity:[four years,textSpan=(931-941)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[years,textSpan=(936-941)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the company,textSpan=(948-959)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(952-959)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a bus,textSpan=(968-973)]	-Disambiguation:(tid=892444, Title name=London_Buses) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bus,textSpan=(970-973)]	-Disambiguation:(tid=4146, Title name=Bus) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bus service,textSpan=(970-981)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[service,textSpan=(974-981)]	-Disambiguation:(tid=181586, Title name=Service_(economics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Trondheim Airport,textSpan=(985-1002)]	-Disambiguation:(tid=303381, Title name=Trondheim_Airport,_Værnes) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Trondheim Airport, V,textSpan=(985-1005)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Trondheim,textSpan=(985-994)]	-Disambiguation:(tid=37472, Title name=Trondheim) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Airport,textSpan=(995-1002)]	-Disambiguation:(tid=303381, Title name=Trondheim_Airport,_Værnes) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[contract,textSpan=(1014-1022)]	-Disambiguation:(tid=7567, Title name=Contract) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Scandinavian Airlines,textSpan=(1030-1051)]	-Disambiguation:(tid=162868, Title name=Scandinavian_Airlines) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Scandinavian Airlines System,textSpan=(1030-1058)]	-Disambiguation:(tid=162868, Title name=Scandinavian_Airlines) gold wikification:=Scandinavian_Airlines isCorrectPrediction=Correct
+*Entity:[Scandinavian,textSpan=(1030-1042)]	-Disambiguation:(tid=162868, Title name=Scandinavian_Airlines) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Airlines,textSpan=(1043-1051)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The company,textSpan=(1062-1073)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(1066-1073)]	-Disambiguation:(tid=4918223, Title name=Company) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the 1950s,textSpan=(1108-1117)]	-Disambiguation:(tid=2287338, Title name=1950s_in_Hong_Kong) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1950s,textSpan=(1112-1117)]	-Disambiguation:(tid=34573, Title name=1950s) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the same,textSpan=(1133-1141)]	-Disambiguation:(tid=1363640, Title name=300_(comics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[main,textSpan=(1148-1152)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[activities,textSpan=(1153-1163)]	-Disambiguation:(tid=1008560, Title name=Activity) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[only one,textSpan=(1178-1186)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dominant,textSpan=(1187-1195)]	-Disambiguation:(tid=424718, Title name=Dominant_(music)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[owner,textSpan=(1196-1201)]	-Disambiguation:(tid=213897, Title name=Ownership) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Norwegian' start in text:18 end in text: 27; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Trondheim' start in text:59 end in text: 68; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'It' start in text:72 end in text: 74; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'regional' start in text:88 end in text: 96; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'buses' start in text:97 end in text: 102; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Klæbu' start in text:108 end in text: 113; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Trondheim' start in text:125 end in text: 134; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'addition' start in text:140 end in text: 148; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Airport' start in text:156 end in text: 163; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Airport Bus' start in text:156 end in text: 167; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bus' start in text:164 end in text: 167; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Trondheim' start in text:173 end in text: 182; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Trondheim Airport' start in text:188 end in text: 205; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Trondheim Airport, V' start in text:188 end in text: 208; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Trondheim Airport, Værnes' start in text:188 end in text: 213; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Trondheim' start in text:188 end in text: 197; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Airport' start in text:198 end in text: 205; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The bus' start in text:217 end in text: 224; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'bus' start in text:221 end in text: 224; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bus company' start in text:221 end in text: 232; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:225 end in text: 232; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '26' start in text:242 end in text: 244; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'daily' start in text:245 end in text: 250; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'buses' start in text:251 end in text: 256; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Trondheim' start in text:265 end in text: 274; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Trondheim and Kl' start in text:265 end in text: 281; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Trondheim' start in text:289 end in text: 298; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'buses' start in text:299 end in text: 304; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Trondheim Central Station' start in text:320 end in text: 345; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Trondheim' start in text:320 end in text: 329; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Trondheim Central Station and Munkegata' start in text:320 end in text: 363; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Central' start in text:330 end in text: 337; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Central Station' start in text:330 end in text: 345; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Station' start in text:338 end in text: 345; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Munkegata' start in text:354 end in text: 363; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The Airport' start in text:367 end in text: 378; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Airport' start in text:371 end in text: 378; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Airport Bus' start in text:371 end in text: 382; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bus' start in text:379 end in text: 382; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'operated' start in text:386 end in text: 394; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'headway' start in text:411 end in text: 418; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the airport' start in text:429 end in text: 440; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airport' start in text:433 end in text: 440; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'town' start in text:445 end in text: 449; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'stops' start in text:456 end in text: 461; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'major' start in text:470 end in text: 475; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hotels' start in text:476 end in text: 482; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'town' start in text:486 end in text: 490; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the company' start in text:501 end in text: 512; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:505 end in text: 512; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'city buses' start in text:520 end in text: 530; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'city' start in text:520 end in text: 524; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'buses' start in text:525 end in text: 530; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '11' start in text:532 end in text: 534; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'charter' start in text:535 end in text: 542; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'coaches' start in text:543 end in text: 550; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '21' start in text:555 end in text: 557; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airport' start in text:558 end in text: 565; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'coaches' start in text:566 end in text: 573; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The company' start in text:575 end in text: 586; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:579 end in text: 586; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1923' start in text:604 end in text: 608; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Arnt Krokum' start in text:616 end in text: 627; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Arnt' start in text:616 end in text: 620; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Krokum Bilruter' start in text:636 end in text: 651; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'The company' start in text:653 end in text: 664; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:657 end in text: 664; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bus' start in text:682 end in text: 685; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'second' start in text:700 end in text: 706; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1924' start in text:712 end in text: 716; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1945' start in text:725 end in text: 729; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the company' start in text:732 end in text: 743; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:736 end in text: 743; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a bus' start in text:752 end in text: 757; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bus service' start in text:754 end in text: 765; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bus' start in text:754 end in text: 757; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'service' start in text:758 end in text: 765; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Braathens' start in text:772 end in text: 781; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Braathens S.A.F.E' start in text:772 end in text: 789; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'S.A.F.E' start in text:782 end in text: 789; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Trondheim and Lade Airport and Hommelvik Seaplane Base' start in text:800 end in text: 860; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Trondheim' start in text:800 end in text: 809; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lade Airport' start in text:816 end in text: 828; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Lade' start in text:816 end in text: 820; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lade Airport and Hommelvik Seaplane Base' start in text:816 end in text: 860; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Airport' start in text:821 end in text: 828; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hommelvik' start in text:837 end in text: 846; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hommelvik Seaplane Base' start in text:837 end in text: 860; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Seaplane Base' start in text:847 end in text: 860; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Seaplane' start in text:847 end in text: 855; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Base' start in text:856 end in text: 860; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1948' start in text:869 end in text: 873; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the company' start in text:876 end in text: 887; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:880 end in text: 887; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'converted' start in text:892 end in text: 901; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'limited company' start in text:909 end in text: 924; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'four years' start in text:931 end in text: 941; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'years' start in text:936 end in text: 941; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the company' start in text:948 end in text: 959; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:952 end in text: 959; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a bus' start in text:968 end in text: 973; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bus' start in text:970 end in text: 973; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bus service' start in text:970 end in text: 981; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'service' start in text:974 end in text: 981; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Trondheim Airport' start in text:985 end in text: 1002; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Trondheim Airport, V' start in text:985 end in text: 1005; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Trondheim' start in text:985 end in text: 994; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Airport' start in text:995 end in text: 1002; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'contract' start in text:1014 end in text: 1022; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Scandinavian Airlines' start in text:1030 end in text: 1051; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Scandinavian Airlines System' start in text:1030 end in text: 1058; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Scandinavian' start in text:1030 end in text: 1042; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Airlines' start in text:1043 end in text: 1051; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The company' start in text:1062 end in text: 1073; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:1066 end in text: 1073; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the 1950s' start in text:1108 end in text: 1117; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1950s' start in text:1112 end in text: 1117; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the same' start in text:1133 end in text: 1141; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'main' start in text:1148 end in text: 1152; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'activities' start in text:1153 end in text: 1163; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'only one' start in text:1178 end in text: 1186; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dominant' start in text:1187 end in text: 1195; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'owner' start in text:1196 end in text: 1201; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

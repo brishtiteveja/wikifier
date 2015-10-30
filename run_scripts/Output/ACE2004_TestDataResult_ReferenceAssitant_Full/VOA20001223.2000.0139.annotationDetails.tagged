@@ -1,0 +1,229 @@
+<ANNOTATION>
+  <a class="wiki" href="http://en.wikipedia.org/wiki/Reformism" cat="">Reformist</a>  allies of  <a class="wiki" href="http://en.wikipedia.org/wiki/List_of_heads_of_state_of_Yugoslavia" cat="list">Yugoslav President</a>   <a class="wiki" href="http://en.wikipedia.org/wiki/Vojislav_Koštunica" cat="activist	president	person	christian	alumnus	politician">Vojislav Kostunica</a>  have scored a decisive victory in today's  <a class="wiki" href="http://en.wikipedia.org/wiki/Serbian_parliamentary_election,_2007" cat="election">Serbian parliamentary elections</a> . The  <a class="wiki" href="http://en.wikipedia.org/wiki/Democratic_Opposition_of_Serbia" cat="party">Democratic opposition</a>  of  <a class="wiki" href="http://en.wikipedia.org/wiki/Serbia" cat="country	site	republic	state">Serbia</a> , which supports the  <a class="wiki" href="http://en.wikipedia.org/wiki/President_of_the_United_States" cat="president">President</a> , estimates it has won 65% of the vote.  <a class="wiki" href="http://en.wikipedia.org/wiki/Campaign_against_Dong_Zhuo" cat="">The coalition</a>  took  <b>power</b> after a  <b>popular uprising</b> ousted  <b>long time</b>  <a class="wiki" href="http://en.wikipedia.org/wiki/List_of_heads_of_state_of_Yugoslavia" cat="list">Yugoslav President</a>   <a class="wiki" href="http://en.wikipedia.org/wiki/Slobodan_Milošević" cat="person	president	atheist	alumnus">Slobodan Milosevic</a>  in October. Mr.  <a class="wiki" href="http://en.wikipedia.org/wiki/Slobodan_Milošević" cat="person	president	atheist	alumnus">Milosevic</a> 's Socialist Party and its allies won about 1/5th of the vote.  <br>
+</ANNOTATION>
+*Entity:[Reformist,textSpan=(1-10)]	-Disambiguation:(tid=80030, Title name=Reformism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[allies,textSpan=(11-17)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yugoslav President Vojislav Kostunica,textSpan=(21-58)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yugoslav,textSpan=(21-29)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yugoslav President,textSpan=(21-39)]	-Disambiguation:(tid=9149022, Title name=List_of_heads_of_state_of_Yugoslavia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[President,textSpan=(30-39)]	-Disambiguation:(tid=9149022, Title name=List_of_heads_of_state_of_Yugoslavia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Vojislav,textSpan=(40-48)]	-Disambiguation:(tid=424674, Title name=Vojislav_Koštunica) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Vojislav Kostunica,textSpan=(40-58)]	-Disambiguation:(tid=424674, Title name=Vojislav_Koštunica) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Kostunica,textSpan=(49-58)]	-Disambiguation:(tid=424674, Title name=Vojislav_Koštunica) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[scored,textSpan=(64-70)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[decisive victory,textSpan=(73-89)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[victory,textSpan=(82-89)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[today,textSpan=(93-98)]	-Disambiguation:(tid=35984, Title name=2005) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Serbian parliamentary elections,textSpan=(101-132)]	-Disambiguation:(tid=7329448, Title name=Serbian_parliamentary_election,_2007) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Serbian,textSpan=(101-108)]	-Disambiguation:(tid=29265, Title name=Serbia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[parliamentary elections,textSpan=(109-132)]	-Disambiguation:(tid=7329448, Title name=Serbian_parliamentary_election,_2007) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[parliamentary,textSpan=(109-122)]	-Disambiguation:(tid=182113, Title name=Parliamentary_system) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[elections,textSpan=(123-132)]	-Disambiguation:(tid=9457, Title name=Election) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Democratic,textSpan=(138-148)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Democratic opposition,textSpan=(138-159)]	-Disambiguation:(tid=424665, Title name=Democratic_Opposition_of_Serbia) gold wikification:=Democratic_Opposition_of_Serbia isCorrectPrediction=Correct
+*Entity:[opposition,textSpan=(149-159)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Serbia,textSpan=(163-169)]	-Disambiguation:(tid=29265, Title name=Serbia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the President,textSpan=(186-199)]	-Disambiguation:(tid=336902, Title name=Josiah_Bartlet) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[President,textSpan=(190-199)]	-Disambiguation:(tid=24113, Title name=President_of_the_United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[vote,textSpan=(233-237)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The coalition,textSpan=(239-252)]	-Disambiguation:(tid=7348577, Title name=Campaign_against_Dong_Zhuo) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[coalition,textSpan=(243-252)]	-Disambiguation:(tid=102512, Title name=Coalition) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[power,textSpan=(258-263)]	-Disambiguation:(tid=24236, Title name=Power_(physics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[popular uprising,textSpan=(272-288)]	-Disambiguation:(tid=3127817, Title name=Battle_of_Lemberg_(1918)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[popular,textSpan=(272-279)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[uprising,textSpan=(280-288)]	-Disambiguation:(tid=608029, Title name=Rebellion) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[long time,textSpan=(296-305)]	-Disambiguation:(tid=2289115, Title name=Foreplay/Long_Time) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[long,textSpan=(296-300)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[time,textSpan=(301-305)]	-Disambiguation:(tid=30012, Title name=Time) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yugoslav,textSpan=(306-314)]	-Disambiguation:(tid=179631, Title name=Serbia_and_Montenegro) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yugoslav President,textSpan=(306-324)]	-Disambiguation:(tid=9149022, Title name=List_of_heads_of_state_of_Yugoslavia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yugoslav President Slobodan Milosevic,textSpan=(306-343)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yugoslav President Slobodan Milosevic in October,textSpan=(306-354)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[President,textSpan=(315-324)]	-Disambiguation:(tid=9149022, Title name=List_of_heads_of_state_of_Yugoslavia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Slobodan,textSpan=(325-333)]	-Disambiguation:(tid=28964, Title name=Slobodan_Milošević) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Slobodan Milosevic,textSpan=(325-343)]	-Disambiguation:(tid=28964, Title name=Slobodan_Milošević) gold wikification:=*null* isCorrectPrediction=Incorrect
+*Entity:[Milosevic,textSpan=(334-343)]	-Disambiguation:(tid=28964, Title name=Slobodan_Milošević) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[October,textSpan=(347-354)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mr.,textSpan=(356-359)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mr. Milosevic,textSpan=(356-369)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Milosevic,textSpan=(360-369)]	-Disambiguation:(tid=28964, Title name=Slobodan_Milošević) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Milosevic's Socialist Party,textSpan=(360-387)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Socialist,textSpan=(372-381)]	-Disambiguation:(tid=26847, Title name=Socialism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Socialist Party,textSpan=(372-387)]	-Disambiguation:*null* gold wikification:=Socialist_Party_of_Serbia isCorrectPrediction=Incorrect
+*Entity:[Party,textSpan=(382-387)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[its allies,textSpan=(392-402)]	-Disambiguation:(tid=43507, Title name=Axis_powers) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[allies,textSpan=(396-402)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[vote,textSpan=(426-430)]	-Disambiguation:(tid=99860, Title name=Voting) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Reformist' start in text:1 end in text: 10; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'allies' start in text:11 end in text: 17; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yugoslav President Vojislav Kostunica' start in text:21 end in text: 58; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Yugoslav' start in text:21 end in text: 29; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yugoslav President' start in text:21 end in text: 39; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'President' start in text:30 end in text: 39; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Vojislav' start in text:40 end in text: 48; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Vojislav Kostunica' start in text:40 end in text: 58; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Kostunica' start in text:49 end in text: 58; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'scored' start in text:64 end in text: 70; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'decisive victory' start in text:73 end in text: 89; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'victory' start in text:82 end in text: 89; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'today' start in text:93 end in text: 98; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Serbian parliamentary elections' start in text:101 end in text: 132; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Serbian' start in text:101 end in text: 108; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'parliamentary elections' start in text:109 end in text: 132; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'parliamentary' start in text:109 end in text: 122; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'elections' start in text:123 end in text: 132; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Democratic' start in text:138 end in text: 148; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Democratic opposition' start in text:138 end in text: 159; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'opposition' start in text:149 end in text: 159; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Serbia' start in text:163 end in text: 169; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the President' start in text:186 end in text: 199; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'President' start in text:190 end in text: 199; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'vote' start in text:233 end in text: 237; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The coalition' start in text:239 end in text: 252; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'coalition' start in text:243 end in text: 252; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'power' start in text:258 end in text: 263; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'popular uprising' start in text:272 end in text: 288; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'popular' start in text:272 end in text: 279; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'uprising' start in text:280 end in text: 288; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'long time' start in text:296 end in text: 305; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'long' start in text:296 end in text: 300; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'time' start in text:301 end in text: 305; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yugoslav' start in text:306 end in text: 314; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yugoslav President' start in text:306 end in text: 324; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yugoslav President Slobodan Milosevic' start in text:306 end in text: 343; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Yugoslav President Slobodan Milosevic in October' start in text:306 end in text: 354; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'President' start in text:315 end in text: 324; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Slobodan' start in text:325 end in text: 333; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Slobodan Milosevic' start in text:325 end in text: 343; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Milosevic' start in text:334 end in text: 343; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'October' start in text:347 end in text: 354; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mr.' start in text:356 end in text: 359; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mr. Milosevic' start in text:356 end in text: 369; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Milosevic' start in text:360 end in text: 369; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Milosevic's Socialist Party' start in text:360 end in text: 387; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Socialist' start in text:372 end in text: 381; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Socialist Party' start in text:372 end in text: 387; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Party' start in text:382 end in text: 387; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'its allies' start in text:392 end in text: 402; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'allies' start in text:396 end in text: 402; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'vote' start in text:426 end in text: 430; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

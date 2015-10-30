@@ -1,0 +1,537 @@
+<ANNOTATION>
+ <a class="wiki" href="http://en.wikipedia.org/wiki/Alaska" cat="state">Alaska</a>   <a class="wiki" href="http://en.wikipedia.org/wiki/Hiking" cat="activity">Hiker</a>  Killed by   <b>Bear</b>  <br><br>   <a class="wiki" href="http://en.wikipedia.org/wiki/Anchorage,_Alaska" cat="place	city	settlement">ANCHORAGE</a>   ,   <a class="wiki" href="http://en.wikipedia.org/wiki/Alaska" cat="state">Alaska</a>    (AP) -- A man on a  <b>day hike</b> in a  <b>rural area</b> was killed when a  <b>bear</b> bit his head,   <a class="wiki" href="http://en.wikipedia.org/wiki/Alaska_State_Troopers" cat="museum	agency">Alaska State Troopers</a>    said Wednesday. <br><br> <br><br> Kenneth Cates, 53, was found  <b>Wednesday</b> morning on a  <b>horse trail</b> in a heavily  <b>wooded area</b> of the   <a class="wiki" href="http://en.wikipedia.org/wiki/Kenai_National_Wildlife_Refuge" cat="refuge">Kenai National Wildlife Refuge</a>    near his hometown of   <a class="wiki" href="http://en.wikipedia.org/wiki/Soldotna,_Alaska" cat="airport">Soldotna</a>   . <br><br> <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor" cat="">The attack</a>  happened about six miles off a busy  <b>road</b>. The  <b>area</b> is about 60 miles southwest of  <a class="wiki" href="http://en.wikipedia.org/wiki/Anchorage,_Alaska" cat="place	city	settlement">Anchorage</a> . <br><br> <br><br> The fatal mauling is thought to have happened Tuesday. <br><br> <br><br> His only visible  <b>wound</b> was  <b>a single bite</b> to the head, said Bruce Bartley, a spokesman for the state Division of  <b>Wildlife Conservation</b>. <br><br> <br><br> State and federal  <b>wildlife</b> officials were  <b>looking</b> for the  <b>bear</b> involved in the attack. If the  <b>bear</b> is judged to pose a continuing threat to  <b>humans</b> it may be killed. <br><br> <br><br>  <b>Troopers</b> said Cates' .280-caliber   <b>rifle</b>   and two spent  <b>shell casings</b> were found near the body, along with traces of  <b>blood</b> that suggest that Cates may have wounded the  <b>animal</b>. <br><br> <br><br> "We don't know if one was a warning shot and one real, or if there were two real shots,'' Bartley said. <br><br> <br><br> Cates' death is the first fatal bear mauling in  <a class="wiki" href="http://en.wikipedia.org/wiki/Alaska" cat="state">Alaska</a>  since Feb. 8, 1998, when  Audelio Luis Cortes  , 40, was killed while working on a   <b>seismic</b>   crew in the   <a class="wiki" href="http://en.wikipedia.org/wiki/Swanson_River" cat="river">Swanson River</a>      <b>oil field</b>   near   <a class="wiki" href="http://en.wikipedia.org/wiki/Kenai,_Alaska" cat="place	city">Kenai</a>  . Cortes also died from a single head bite. <br><br>
+</ANNOTATION>
+*Entity:[Alaska,textSpan=(0-9)]	-Disambiguation:(tid=624, Title name=Alaska) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hiker,textSpan=(10-15)]	-Disambiguation:(tid=147313, Title name=Hiking) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bear,textSpan=(27-31)]	-Disambiguation:(tid=4400, Title name=Bear) gold wikification:=Bear isCorrectPrediction=Correct
+*Entity:[Bear ANCHORAGE , Alaska,textSpan=(27-57)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ANCHORAGE,textSpan=(37-46)]	-Disambiguation:(tid=7004698, Title name=Anchorage,_Alaska) gold wikification:=Anchorage,_Alaska isCorrectPrediction=Correct
+*Entity:[Alaska,textSpan=(51-57)]	-Disambiguation:(tid=624, Title name=Alaska) gold wikification:=Alaska isCorrectPrediction=Correct
+*Entity:[AP,textSpan=(61-63)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[A,textSpan=(68-69)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[A man,textSpan=(68-73)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[man,textSpan=(70-73)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a day,textSpan=(77-82)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[day,textSpan=(79-82)]	-Disambiguation:(tid=8376, Title name=Day) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[day hike,textSpan=(79-87)]	-Disambiguation:(tid=147313, Title name=Hiking) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hike,textSpan=(83-87)]	-Disambiguation:(tid=147313, Title name=Hiking) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rural area,textSpan=(93-103)]	-Disambiguation:(tid=212614, Title name=Rural_area) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rural,textSpan=(93-98)]	-Disambiguation:(tid=212614, Title name=Rural_area) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[area,textSpan=(99-103)]	-Disambiguation:(tid=1209, Title name=Area) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[killed,textSpan=(108-114)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bear,textSpan=(122-126)]	-Disambiguation:(tid=4400, Title name=Bear) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bit,textSpan=(127-130)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[head,textSpan=(135-139)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Alaska,textSpan=(142-148)]	-Disambiguation:(tid=624, Title name=Alaska) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Alaska State Troopers,textSpan=(142-163)]	-Disambiguation:(tid=2645175, Title name=Alaska_State_Troopers) gold wikification:=Alaska_State_Troopers isCorrectPrediction=Correct
+*Entity:[State,textSpan=(149-154)]	-Disambiguation:(tid=48831, Title name=U.S._state) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[State Troopers,textSpan=(149-163)]	-Disambiguation:(tid=2645175, Title name=Alaska_State_Troopers) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Troopers,textSpan=(155-163)]	-Disambiguation:(tid=13626105, Title name=Trooper) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wednesday,textSpan=(171-180)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Kenneth Cates,textSpan=(188-201)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Kenneth,textSpan=(188-195)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cates,textSpan=(196-201)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[53,textSpan=(203-205)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wednesday,textSpan=(217-226)]	-Disambiguation:(tid=54634, Title name=Wednesday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[morning,textSpan=(227-234)]	-Disambiguation:(tid=650327, Title name=Morning) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a horse,textSpan=(238-245)]	-Disambiguation:(tid=1700463, Title name=Trigger_(horse)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[horse trail,textSpan=(240-251)]	-Disambiguation:(tid=66728, Title name=Trail) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[horse,textSpan=(240-245)]	-Disambiguation:(tid=13645, Title name=Horse) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[trail,textSpan=(246-251)]	-Disambiguation:(tid=66728, Title name=Trail) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wooded area,textSpan=(265-276)]	-Disambiguation:(tid=11090, Title name=Forest) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wooded,textSpan=(265-271)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[area,textSpan=(272-276)]	-Disambiguation:(tid=1209, Title name=Area) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Kenai National Wildlife Refuge,textSpan=(285-315)]	-Disambiguation:(tid=8846958, Title name=Kenai_National_Wildlife_Refuge) gold wikification:=Kenai_National_Wildlife_Refuge isCorrectPrediction=Correct
+*Entity:[his hometown,textSpan=(323-335)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hometown,textSpan=(327-335)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Soldotna,textSpan=(340-348)]	-Disambiguation:(tid=105492, Title name=Soldotna,_Alaska) gold wikification:=Soldotna,_Alaska isCorrectPrediction=Correct
+*Entity:[The attack,textSpan=(358-368)]	-Disambiguation:(tid=60098, Title name=Attack_on_Pearl_Harbor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[attack,textSpan=(362-368)]	-Disambiguation:(tid=60098, Title name=Attack_on_Pearl_Harbor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[miles,textSpan=(388-393)]	-Disambiguation:(tid=19159, Title name=Mile) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[busy,textSpan=(400-404)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[road,textSpan=(405-409)]	-Disambiguation:(tid=25897, Title name=Road) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The area,textSpan=(411-419)]	-Disambiguation:(tid=443662, Title name=West_End,_Vancouver) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[area,textSpan=(415-419)]	-Disambiguation:(tid=443662, Title name=West_End,_Vancouver) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[60,textSpan=(429-431)]	-Disambiguation:(tid=35275, Title name=60) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[miles,textSpan=(432-437)]	-Disambiguation:(tid=19159, Title name=Mile) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Anchorage,textSpan=(451-460)]	-Disambiguation:(tid=7004698, Title name=Anchorage,_Alaska) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fatal,textSpan=(472-477)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[thought,textSpan=(489-496)]	-Disambiguation:(tid=37080, Title name=Thought) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Tuesday,textSpan=(514-521)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[His,textSpan=(529-532)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[visible,textSpan=(538-545)]	-Disambiguation:(tid=113138, Title name=Visible) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wound,textSpan=(546-551)]	-Disambiguation:(tid=338154, Title name=Wound) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a single bite,textSpan=(556-569)]	-Disambiguation:(tid=715934, Title name=Snakebite) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a single,textSpan=(556-564)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[single,textSpan=(558-564)]	-Disambiguation:(tid=156540, Title name=Single_(music)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bite,textSpan=(565-569)]	-Disambiguation:(tid=1524906, Title name=Bite) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the head,textSpan=(573-581)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[head,textSpan=(577-581)]	-Disambiguation:(tid=1209545, Title name=Head) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bruce,textSpan=(588-593)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bruce Bartley,textSpan=(588-601)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bartley,textSpan=(594-601)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[spokesman,textSpan=(605-614)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the state,textSpan=(619-628)]	-Disambiguation:(tid=303, Title name=Alabama) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[state,textSpan=(623-628)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Division,textSpan=(629-637)]	-Disambiguation:(tid=145415, Title name=Division_(military)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Division of Wildlife Conservation,textSpan=(629-662)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wildlife,textSpan=(641-649)]	-Disambiguation:(tid=144219, Title name=Wildlife) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wildlife Conservation,textSpan=(641-662)]	-Disambiguation:(tid=2628698, Title name=Wildlife_Conservation_Society) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Conservation,textSpan=(650-662)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[State,textSpan=(670-675)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[federal,textSpan=(680-687)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wildlife,textSpan=(688-696)]	-Disambiguation:(tid=144219, Title name=Wildlife) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[officials,textSpan=(697-706)]	-Disambiguation:(tid=725182, Title name=Official) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[looking,textSpan=(712-719)]	-Disambiguation:(tid=241675, Title name=Visual_perception) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the bear,textSpan=(724-732)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bear,textSpan=(728-732)]	-Disambiguation:(tid=4400, Title name=Bear) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the attack,textSpan=(745-755)]	-Disambiguation:(tid=60098, Title name=Attack_on_Pearl_Harbor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[attack,textSpan=(749-755)]	-Disambiguation:(tid=60098, Title name=Attack_on_Pearl_Harbor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the bear,textSpan=(760-768)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bear,textSpan=(764-768)]	-Disambiguation:(tid=4400, Title name=Bear) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[judged,textSpan=(772-778)]	-Disambiguation:(tid=161978, Title name=Last_Judgment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pose,textSpan=(782-786)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[continuing,textSpan=(789-799)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[threat,textSpan=(800-806)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[humans,textSpan=(810-816)]	-Disambiguation:(tid=682482, Title name=Human) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[killed,textSpan=(827-833)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Troopers,textSpan=(841-849)]	-Disambiguation:(tid=2645175, Title name=Alaska_State_Troopers) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rifle,textSpan=(876-881)]	-Disambiguation:(tid=25456, Title name=Rifle) gold wikification:=Rifle isCorrectPrediction=Correct
+*Entity:[spent,textSpan=(892-897)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[shell,textSpan=(898-903)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[shell casings,textSpan=(898-911)]	-Disambiguation:(tid=79270, Title name=Cartridge_(firearms)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[casings,textSpan=(904-911)]	-Disambiguation:(tid=79270, Title name=Cartridge_(firearms)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the body,textSpan=(928-936)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[body,textSpan=(932-936)]	-Disambiguation:(tid=3788, Title name=Body) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[traces,textSpan=(949-955)]	-Disambiguation:(tid=3461305, Title name=Trace_(tack)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[blood,textSpan=(959-964)]	-Disambiguation:(tid=3997, Title name=Blood) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cates,textSpan=(983-988)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wounded,textSpan=(998-1005)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the animal,textSpan=(1006-1016)]	-Disambiguation:(tid=6598, Title name=Camel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[animal,textSpan=(1010-1016)]	-Disambiguation:(tid=11039790, Title name=Animal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[real,textSpan=(1100-1104)]	-Disambiguation:(tid=25697, Title name=Real_number) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[shots,textSpan=(1105-1110)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:['',textSpan=(1111-1113)]	-Disambiguation:(tid=10671108, Title name=Dirty_(film)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bartley,textSpan=(1114-1121)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the first,textSpan=(1150-1159)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fatal,textSpan=(1160-1165)]	-Disambiguation:(tid=8221, Title name=Death) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bear,textSpan=(1166-1170)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Alaska,textSpan=(1182-1188)]	-Disambiguation:(tid=624, Title name=Alaska) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Audelio Luis Cortes,textSpan=(1215-1234)]	-Disambiguation:*null* gold wikification:=List_of_fatal_bear_attacks_in_North_America isCorrectPrediction=Incorrect
+*Entity:[Luis,textSpan=(1223-1227)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cortes,textSpan=(1228-1234)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[40,textSpan=(1238-1240)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[killed,textSpan=(1246-1252)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[seismic,textSpan=(1273-1280)]	-Disambiguation:(tid=28935, Title name=Seismology) gold wikification:=Seismology isCorrectPrediction=Correct
+*Entity:[Swanson River,textSpan=(1296-1309)]	-Disambiguation:(tid=988425, Title name=Swanson_River) gold wikification:=Swanson_River isCorrectPrediction=Correct
+*Entity:[oil field,textSpan=(1313-1322)]	-Disambiguation:(tid=219931, Title name=Oil_field) gold wikification:=Oil_field isCorrectPrediction=Correct
+*Entity:[Kenai,textSpan=(1331-1336)]	-Disambiguation:(tid=105477, Title name=Kenai,_Alaska) gold wikification:=Kenai,_Alaska isCorrectPrediction=Correct
+*Entity:[Cortes,textSpan=(1339-1345)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a single,textSpan=(1361-1369)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[single,textSpan=(1363-1369)]	-Disambiguation:(tid=156540, Title name=Single_(music)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[head,textSpan=(1370-1374)]	-Disambiguation:(tid=1209545, Title name=Head) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bite,textSpan=(1375-1379)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Alaska' start in text:0 end in text: 9; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hiker' start in text:10 end in text: 15; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bear' start in text:27 end in text: 31; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bear ANCHORAGE , Alaska' start in text:27 end in text: 57; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'ANCHORAGE' start in text:37 end in text: 46; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Alaska' start in text:51 end in text: 57; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'AP' start in text:61 end in text: 63; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'A' start in text:68 end in text: 69; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'A man' start in text:68 end in text: 73; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'man' start in text:70 end in text: 73; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a day' start in text:77 end in text: 82; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'day' start in text:79 end in text: 82; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'day hike' start in text:79 end in text: 87; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hike' start in text:83 end in text: 87; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rural area' start in text:93 end in text: 103; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rural' start in text:93 end in text: 98; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'area' start in text:99 end in text: 103; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'killed' start in text:108 end in text: 114; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bear' start in text:122 end in text: 126; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bit' start in text:127 end in text: 130; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'head' start in text:135 end in text: 139; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Alaska' start in text:142 end in text: 148; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Alaska State Troopers' start in text:142 end in text: 163; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'State' start in text:149 end in text: 154; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'State Troopers' start in text:149 end in text: 163; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Troopers' start in text:155 end in text: 163; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wednesday' start in text:171 end in text: 180; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Kenneth Cates' start in text:188 end in text: 201; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Kenneth' start in text:188 end in text: 195; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cates' start in text:196 end in text: 201; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '53' start in text:203 end in text: 205; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wednesday' start in text:217 end in text: 226; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'morning' start in text:227 end in text: 234; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a horse' start in text:238 end in text: 245; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'horse trail' start in text:240 end in text: 251; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'horse' start in text:240 end in text: 245; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'trail' start in text:246 end in text: 251; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wooded area' start in text:265 end in text: 276; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wooded' start in text:265 end in text: 271; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'area' start in text:272 end in text: 276; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Kenai National Wildlife Refuge' start in text:285 end in text: 315; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'his hometown' start in text:323 end in text: 335; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hometown' start in text:327 end in text: 335; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Soldotna' start in text:340 end in text: 348; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The attack' start in text:358 end in text: 368; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'attack' start in text:362 end in text: 368; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'miles' start in text:388 end in text: 393; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'busy' start in text:400 end in text: 404; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'road' start in text:405 end in text: 409; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The area' start in text:411 end in text: 419; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'area' start in text:415 end in text: 419; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '60' start in text:429 end in text: 431; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'miles' start in text:432 end in text: 437; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Anchorage' start in text:451 end in text: 460; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fatal' start in text:472 end in text: 477; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'thought' start in text:489 end in text: 496; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Tuesday' start in text:514 end in text: 521; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'His' start in text:529 end in text: 532; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'visible' start in text:538 end in text: 545; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wound' start in text:546 end in text: 551; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a single bite' start in text:556 end in text: 569; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a single' start in text:556 end in text: 564; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'single' start in text:558 end in text: 564; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bite' start in text:565 end in text: 569; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the head' start in text:573 end in text: 581; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'head' start in text:577 end in text: 581; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bruce' start in text:588 end in text: 593; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bruce Bartley' start in text:588 end in text: 601; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Bartley' start in text:594 end in text: 601; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'spokesman' start in text:605 end in text: 614; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the state' start in text:619 end in text: 628; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'state' start in text:623 end in text: 628; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Division' start in text:629 end in text: 637; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Division of Wildlife Conservation' start in text:629 end in text: 662; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Wildlife' start in text:641 end in text: 649; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wildlife Conservation' start in text:641 end in text: 662; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Conservation' start in text:650 end in text: 662; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'State' start in text:670 end in text: 675; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'federal' start in text:680 end in text: 687; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wildlife' start in text:688 end in text: 696; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'officials' start in text:697 end in text: 706; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'looking' start in text:712 end in text: 719; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'the bear' start in text:724 end in text: 732; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'bear' start in text:728 end in text: 732; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the attack' start in text:745 end in text: 755; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'attack' start in text:749 end in text: 755; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the bear' start in text:760 end in text: 768; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'bear' start in text:764 end in text: 768; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'judged' start in text:772 end in text: 778; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pose' start in text:782 end in text: 786; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'continuing' start in text:789 end in text: 799; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'threat' start in text:800 end in text: 806; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'humans' start in text:810 end in text: 816; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'killed' start in text:827 end in text: 833; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Troopers' start in text:841 end in text: 849; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rifle' start in text:876 end in text: 881; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'spent' start in text:892 end in text: 897; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shell' start in text:898 end in text: 903; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shell casings' start in text:898 end in text: 911; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'casings' start in text:904 end in text: 911; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the body' start in text:928 end in text: 936; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'body' start in text:932 end in text: 936; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'traces' start in text:949 end in text: 955; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'blood' start in text:959 end in text: 964; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cates' start in text:983 end in text: 988; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wounded' start in text:998 end in text: 1005; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the animal' start in text:1006 end in text: 1016; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'animal' start in text:1010 end in text: 1016; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'real' start in text:1100 end in text: 1104; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shots' start in text:1105 end in text: 1110; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '''' start in text:1111 end in text: 1113; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bartley' start in text:1114 end in text: 1121; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the first' start in text:1150 end in text: 1159; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fatal' start in text:1160 end in text: 1165; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bear' start in text:1166 end in text: 1170; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Alaska' start in text:1182 end in text: 1188; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Audelio Luis Cortes' start in text:1215 end in text: 1234; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Luis' start in text:1223 end in text: 1227; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cortes' start in text:1228 end in text: 1234; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '40' start in text:1238 end in text: 1240; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'killed' start in text:1246 end in text: 1252; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'seismic' start in text:1273 end in text: 1280; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Swanson River' start in text:1296 end in text: 1309; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'oil field' start in text:1313 end in text: 1322; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Kenai' start in text:1331 end in text: 1336; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cortes' start in text:1339 end in text: 1345; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a single' start in text:1361 end in text: 1369; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'single' start in text:1363 end in text: 1369; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'head' start in text:1370 end in text: 1374; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bite' start in text:1375 end in text: 1379; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

@@ -1,0 +1,557 @@
+<ANNOTATION>
+ <a class="wiki" href="http://en.wikipedia.org/wiki/Lufthansa" cat="">Lufthansa</a> ,   <b>German railway</b>   pledge closer cooperation<br><br> Seeking to shift some domestic travel from   <b>planes</b>   to  trains  ,   <a class="wiki" href="http://en.wikipedia.org/wiki/Germany" cat="state	republic	country	member	nation">Germany</a>   's  <b>flag carrier</b>,   <a class="wiki" href="http://en.wikipedia.org/wiki/Lufthansa" cat="">Lufthansa</a>   , and the  <b>German railway</b> signed a letter of intent Monday to work on coordinating services and schedules. <br><br> The goal is to make it easier to travel by  <b>train</b> to  <a class="wiki" href="http://en.wikipedia.org/wiki/Lufthansa" cat="">Lufthansa</a> 's  main hub   in   <a class="wiki" href="http://en.wikipedia.org/wiki/Frankfurt_Airport" cat="company	airport">Frankfurt</a>   , instead of flying there. Starting in  <b>2001</b>,  <a class="wiki" href="http://en.wikipedia.org/wiki/Lufthansa" cat="">Lufthansa</a>   <b>boss</b> Juergen Weber  <b>hopes</b> to eliminate such  <b>short</b>  <b>hops</b> _ between  <a class="wiki" href="http://en.wikipedia.org/wiki/Frankfurt" cat="community	establishment	city">Frankfurt</a>  and   <a class="wiki" href="http://en.wikipedia.org/wiki/Cologne" cat="city	colony	town	legion	place	site	member	community">Cologne</a>   , for example _ thus freeing up takeoff and   <b>landing slots</b>   for more lucrative international flights. <br><br> As part of the Lufthansa-  <a class="wiki" href="http://en.wikipedia.org/wiki/Deutsche_Bahn" cat="company">Deutsche Bahn</a>    deal, passengers could check their  <b>luggage</b> through at the  <b>train station</b> for the  <a class="wiki" href="http://en.wikipedia.org/wiki/Lufthansa" cat="">Lufthansa</a>  flight they will catch at Frankfurt. <br><br> The service is already in place at  <a class="wiki" href="http://en.wikipedia.org/wiki/Saarbrücken" cat="state	principality	disestablishment	country	capital	city">Saarbruecken</a> , although travelers must drop their bags off the day before. Starting in September, the service will be extended to five other cities:  <a class="wiki" href="http://en.wikipedia.org/wiki/Düsseldorf" cat="city	community	place	capital">Duesseldorf</a> ,  <a class="wiki" href="http://en.wikipedia.org/wiki/Cologne" cat="city	colony	town	legion	place	site	member	community">Cologne</a> ,   <a class="wiki" href="http://en.wikipedia.org/wiki/Bonn" cat="legion	city	municipality	place	establishment	capital	town">Bonn</a>   ,   <a class="wiki" href="http://en.wikipedia.org/wiki/Würzburg" cat="city">Wuerzburg</a>    and Nuremberg. <br><br> Passengers flying on  <a class="wiki" href="http://en.wikipedia.org/wiki/Lufthansa" cat="">Lufthansa</a>  partners  United   and  SAS  would also be able to use the service, he said. <br><br> The  <b>airline</b> and  <b>railway</b> said they <b>'d</b> form a  <b>working group</b> to resolve such problems as  <b>security</b>  <b>checks</b> on the  <b>luggage</b> and making sure the bags get to the  <b>airport</b> from the  <b>train station</b> on time. <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Deutsche_Bahn" cat="company">Deutsche Bahn</a>  chief  <a class="wiki" href="http://en.wikipedia.org/wiki/Johannes_Ludewig" cat="person">Johannes Ludewig</a>  said his  <b>railway</b> also would work to coordinate schedules better with  <a class="wiki" href="http://en.wikipedia.org/wiki/Lufthansa" cat="">Lufthansa</a>  flights to make connections easier, and allow for combined  <b>train</b> and plane tickets. (pfg-aet) <br><br>
+</ANNOTATION>
+*Entity:[Lufthansa, German,textSpan=(3-21)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lufthansa,textSpan=(0-12)]	-Disambiguation:(tid=97733, Title name=Lufthansa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[German,textSpan=(15-21)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[German railway,textSpan=(15-29)]	-Disambiguation:(tid=186748, Title name=Rail_transport_in_Germany) gold wikification:=Rail_transport_in_Germany isCorrectPrediction=Correct
+*Entity:[shift,textSpan=(71-76)]	-Disambiguation:(tid=1051985, Title name=Shift_work) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[domestic,textSpan=(82-90)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[travel,textSpan=(91-97)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[planes,textSpan=(104-110)]	-Disambiguation:(tid=46770, Title name=Fixed-wing_aircraft) gold wikification:=Fixed-wing_aircraft isCorrectPrediction=Correct
+*Entity:[trains,textSpan=(117-123)]	-Disambiguation:(tid=30598, Title name=Train) gold wikification:=Train isCorrectPrediction=Correct
+*Entity:[Germany,textSpan=(128-135)]	-Disambiguation:(tid=11867, Title name=Germany) gold wikification:=Germany isCorrectPrediction=Correct
+*Entity:[flag,textSpan=(140-144)]	-Disambiguation:(tid=11424, Title name=Flag) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flag carrier,textSpan=(140-152)]	-Disambiguation:(tid=465816, Title name=Flag_carrier) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[carrier,textSpan=(145-152)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lufthansa,textSpan=(155-164)]	-Disambiguation:(tid=97733, Title name=Lufthansa) gold wikification:=Lufthansa isCorrectPrediction=Correct
+*Entity:[German railway,textSpan=(176-190)]	-Disambiguation:(tid=186748, Title name=Rail_transport_in_Germany) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[German,textSpan=(176-182)]	-Disambiguation:(tid=11867, Title name=Germany) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[railway,textSpan=(183-190)]	-Disambiguation:(tid=186748, Title name=Rail_transport_in_Germany) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a letter,textSpan=(198-206)]	-Disambiguation:(tid=1981748, Title name=Israel_–_Palestine_Liberation_Organization_letters_of_recognition) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[letter,textSpan=(200-206)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[intent,textSpan=(210-216)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Monday,textSpan=(217-223)]	-Disambiguation:(tid=54406, Title name=Monday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[work,textSpan=(227-231)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[services,textSpan=(248-256)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[schedules,textSpan=(261-270)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The goal,textSpan=(275-283)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[goal,textSpan=(279-283)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[travel,textSpan=(308-314)]	-Disambiguation:(tid=18580879, Title name=Transport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[train,textSpan=(318-323)]	-Disambiguation:(tid=30598, Title name=Train) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lufthansa,textSpan=(327-336)]	-Disambiguation:(tid=97733, Title name=Lufthansa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[main hub,textSpan=(340-348)]	-Disambiguation:(tid=1726928, Title name=Airline_hub) gold wikification:=Airline_hub isCorrectPrediction=Correct
+*Entity:[Frankfurt,textSpan=(355-364)]	-Disambiguation:(tid=248285, Title name=Frankfurt_Airport) gold wikification:=Frankfurt isCorrectPrediction=Incorrect
+*Entity:[2001,textSpan=(405-409)]	-Disambiguation:(tid=34551, Title name=2001) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lufthansa,textSpan=(411-420)]	-Disambiguation:(tid=97733, Title name=Lufthansa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[boss,textSpan=(421-425)]	-Disambiguation:(tid=249431, Title name=Boss_(video_gaming)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Juergen Weber,textSpan=(426-439)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Weber,textSpan=(434-439)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hopes,textSpan=(440-445)]	-Disambiguation:(tid=3658264, Title name=Huntington's_Disease_Outreach_Project_for_Education_at_Stanford) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[eliminate,textSpan=(449-458)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[short,textSpan=(464-469)]	-Disambiguation:(tid=498104, Title name=Short_film) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hops,textSpan=(470-474)]	-Disambiguation:(tid=14352, Title name=Hops) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Frankfurt and Cologne,textSpan=(485-507)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Frankfurt,textSpan=(485-494)]	-Disambiguation:(tid=10992, Title name=Frankfurt) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cologne,textSpan=(500-507)]	-Disambiguation:(tid=6187, Title name=Cologne) gold wikification:=Cologne isCorrectPrediction=Correct
+*Entity:[example,textSpan=(515-522)]	-Disambiguation:(tid=1646233, Title name=Example) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[landing slots,textSpan=(554-567)]	-Disambiguation:(tid=3189610, Title name=Landing_slot) gold wikification:=Landing_slot isCorrectPrediction=Correct
+*Entity:[lucrative,textSpan=(579-588)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[international,textSpan=(589-602)]	-Disambiguation:(tid=3741372, Title name=International) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flights,textSpan=(603-610)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Deutsche Bahn,textSpan=(641-654)]	-Disambiguation:(tid=172065, Title name=Deutsche_Bahn) gold wikification:=Deutsche_Bahn isCorrectPrediction=Correct
+*Entity:[passengers,textSpan=(663-673)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[check,textSpan=(680-685)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[luggage,textSpan=(692-699)]	-Disambiguation:(tid=979665, Title name=Baggage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the train station,textSpan=(711-728)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the train,textSpan=(711-720)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[train,textSpan=(715-720)]	-Disambiguation:(tid=30598, Title name=Train) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[train station,textSpan=(715-728)]	-Disambiguation:(tid=102449, Title name=Train_station) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[station,textSpan=(721-728)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lufthansa,textSpan=(737-746)]	-Disambiguation:(tid=97733, Title name=Lufthansa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flight,textSpan=(747-753)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[catch,textSpan=(764-769)]	-Disambiguation:(tid=1092452, Title name=Catch_(baseball)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Frankfurt,textSpan=(773-782)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The service,textSpan=(787-798)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[service,textSpan=(791-798)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[place,textSpan=(813-818)]	-Disambiguation:(tid=586851, Title name=Place) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saarbruecken,textSpan=(822-834)]	-Disambiguation:(tid=140379, Title name=Saarbrücken) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[travelers,textSpan=(845-854)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[drop,textSpan=(860-864)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bags,textSpan=(871-875)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the day,textSpan=(880-887)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[day,textSpan=(884-887)]	-Disambiguation:(tid=8376, Title name=Day) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Starting in September,textSpan=(896-917)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[September,textSpan=(908-917)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the service,textSpan=(919-930)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[service,textSpan=(923-930)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[will be,textSpan=(931-938)]	-Disambiguation:(tid=904807, Title name=Frederick_Cook) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[extended,textSpan=(939-947)]	-Disambiguation:(tid=9278, Title name=Extension) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Duesseldorf,textSpan=(970-981)]	-Disambiguation:(tid=65711, Title name=Düsseldorf) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cologne,textSpan=(983-990)]	-Disambiguation:(tid=6187, Title name=Cologne) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bonn,textSpan=(993-997)]	-Disambiguation:(tid=3295, Title name=Bonn) gold wikification:=Bonn isCorrectPrediction=Correct
+*Entity:[Bonn , Wuerzburg and Nuremberg,textSpan=(993-1027)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wuerzburg,textSpan=(1002-1011)]	-Disambiguation:(tid=282392, Title name=Würzburg) gold wikification:=Würzburg isCorrectPrediction=Correct
+*Entity:[Wuerzburg and Nuremberg,textSpan=(1002-1027)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Nuremberg,textSpan=(1018-1027)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Passengers,textSpan=(1032-1042)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lufthansa,textSpan=(1053-1062)]	-Disambiguation:(tid=97733, Title name=Lufthansa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United and SAS,textSpan=(1073-1090)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United,textSpan=(1073-1079)]	-Disambiguation:(tid=32307, Title name=United_Airlines) gold wikification:=United_Airlines isCorrectPrediction=Correct
+*Entity:[SAS,textSpan=(1087-1090)]	-Disambiguation:*null* gold wikification:=Scandinavian_Airlines isCorrectPrediction=Incorrect
+*Entity:[the service,textSpan=(1118-1129)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[service,textSpan=(1122-1129)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The airline,textSpan=(1143-1154)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airline,textSpan=(1147-1154)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[railway,textSpan=(1159-1166)]	-Disambiguation:(tid=25715, Title name=Rail_transport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:['d,textSpan=(1176-1178)]	-Disambiguation:(tid=8123, Title name=D) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[form,textSpan=(1179-1183)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[working group,textSpan=(1186-1199)]	-Disambiguation:(tid=3729756, Title name=Working_group) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[working,textSpan=(1186-1193)]	-Disambiguation:(tid=314993, Title name=Employment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[group,textSpan=(1194-1199)]	-Disambiguation:(tid=19447, Title name=Group_(mathematics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[resolve,textSpan=(1203-1210)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[problems,textSpan=(1216-1224)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[security,textSpan=(1228-1236)]	-Disambiguation:(tid=41684, Title name=Security) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[checks,textSpan=(1237-1243)]	-Disambiguation:(tid=1267494, Title name=Cheque) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the luggage,textSpan=(1247-1258)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[luggage,textSpan=(1251-1258)]	-Disambiguation:(tid=979665, Title name=Baggage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the bags,textSpan=(1275-1283)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bags,textSpan=(1279-1283)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the airport,textSpan=(1291-1302)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airport,textSpan=(1295-1302)]	-Disambiguation:(tid=37575, Title name=Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the train,textSpan=(1308-1317)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the train station,textSpan=(1308-1325)]	-Disambiguation:(tid=708578, Title name=Croxton_railway_station) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[train station,textSpan=(1312-1325)]	-Disambiguation:(tid=102449, Title name=Train_station) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[train,textSpan=(1312-1317)]	-Disambiguation:(tid=30598, Title name=Train) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[station,textSpan=(1318-1325)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[time,textSpan=(1329-1333)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Deutsche Bahn,textSpan=(1338-1351)]	-Disambiguation:(tid=172065, Title name=Deutsche_Bahn) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Deutsche,textSpan=(1338-1346)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bahn,textSpan=(1347-1351)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[chief,textSpan=(1352-1357)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Johannes,textSpan=(1358-1366)]	-Disambiguation:(tid=3658264, Title name=Johannes_Ludewig) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Johannes Ludewig,textSpan=(1358-1374)]	-Disambiguation:(tid=3658264, Title name=Johannes_Ludewig) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[railway,textSpan=(1384-1391)]	-Disambiguation:(tid=25715, Title name=Rail_transport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[work,textSpan=(1403-1407)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[coordinate,textSpan=(1411-1421)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[schedules,textSpan=(1422-1431)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lufthansa,textSpan=(1444-1453)]	-Disambiguation:(tid=97733, Title name=Lufthansa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flights,textSpan=(1454-1461)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[connections,textSpan=(1470-1481)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[combined,textSpan=(1504-1512)]	-Disambiguation:(tid=4149460, Title name=Alpine_skiing_combined) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[train,textSpan=(1513-1518)]	-Disambiguation:(tid=30598, Title name=Train) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plane,textSpan=(1523-1528)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plane tickets,textSpan=(1523-1536)]	-Disambiguation:(tid=10532510, Title name=Airline_ticket) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tickets,textSpan=(1529-1536)]	-Disambiguation:(tid=9958345, Title name=Ticket_(admission)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Lufthansa, German' start in text:3 end in text: 21; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Lufthansa' start in text:0 end in text: 12; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'German' start in text:15 end in text: 21; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'German railway' start in text:15 end in text: 29; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shift' start in text:71 end in text: 76; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'domestic' start in text:82 end in text: 90; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'travel' start in text:91 end in text: 97; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'planes' start in text:104 end in text: 110; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'trains' start in text:117 end in text: 123; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Germany' start in text:128 end in text: 135; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flag' start in text:140 end in text: 144; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flag carrier' start in text:140 end in text: 152; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'carrier' start in text:145 end in text: 152; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lufthansa' start in text:155 end in text: 164; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'German railway' start in text:176 end in text: 190; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'German' start in text:176 end in text: 182; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'railway' start in text:183 end in text: 190; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a letter' start in text:198 end in text: 206; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'letter' start in text:200 end in text: 206; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'intent' start in text:210 end in text: 216; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Monday' start in text:217 end in text: 223; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'work' start in text:227 end in text: 231; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'services' start in text:248 end in text: 256; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'schedules' start in text:261 end in text: 270; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The goal' start in text:275 end in text: 283; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'goal' start in text:279 end in text: 283; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'travel' start in text:308 end in text: 314; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'train' start in text:318 end in text: 323; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lufthansa' start in text:327 end in text: 336; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'main hub' start in text:340 end in text: 348; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Frankfurt' start in text:355 end in text: 364; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '2001' start in text:405 end in text: 409; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lufthansa' start in text:411 end in text: 420; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'boss' start in text:421 end in text: 425; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Juergen Weber' start in text:426 end in text: 439; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Weber' start in text:434 end in text: 439; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hopes' start in text:440 end in text: 445; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'eliminate' start in text:449 end in text: 458; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'short' start in text:464 end in text: 469; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hops' start in text:470 end in text: 474; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Frankfurt and Cologne' start in text:485 end in text: 507; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Frankfurt' start in text:485 end in text: 494; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cologne' start in text:500 end in text: 507; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'example' start in text:515 end in text: 522; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'landing slots' start in text:554 end in text: 567; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'lucrative' start in text:579 end in text: 588; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'international' start in text:589 end in text: 602; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flights' start in text:603 end in text: 610; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Deutsche Bahn' start in text:641 end in text: 654; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'passengers' start in text:663 end in text: 673; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'check' start in text:680 end in text: 685; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'luggage' start in text:692 end in text: 699; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the train station' start in text:711 end in text: 728; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the train' start in text:711 end in text: 720; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'train' start in text:715 end in text: 720; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'train station' start in text:715 end in text: 728; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'station' start in text:721 end in text: 728; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lufthansa' start in text:737 end in text: 746; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flight' start in text:747 end in text: 753; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'catch' start in text:764 end in text: 769; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Frankfurt' start in text:773 end in text: 782; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The service' start in text:787 end in text: 798; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'service' start in text:791 end in text: 798; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'place' start in text:813 end in text: 818; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saarbruecken' start in text:822 end in text: 834; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'travelers' start in text:845 end in text: 854; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'drop' start in text:860 end in text: 864; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bags' start in text:871 end in text: 875; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the day' start in text:880 end in text: 887; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'day' start in text:884 end in text: 887; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Starting in September' start in text:896 end in text: 917; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'September' start in text:908 end in text: 917; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the service' start in text:919 end in text: 930; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'service' start in text:923 end in text: 930; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'will be' start in text:931 end in text: 938; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'extended' start in text:939 end in text: 947; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Duesseldorf' start in text:970 end in text: 981; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cologne' start in text:983 end in text: 990; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bonn' start in text:993 end in text: 997; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bonn , Wuerzburg and Nuremberg' start in text:993 end in text: 1027; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Wuerzburg' start in text:1002 end in text: 1011; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wuerzburg and Nuremberg' start in text:1002 end in text: 1027; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Nuremberg' start in text:1018 end in text: 1027; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Passengers' start in text:1032 end in text: 1042; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lufthansa' start in text:1053 end in text: 1062; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United and SAS' start in text:1073 end in text: 1090; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'United' start in text:1073 end in text: 1079; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'SAS' start in text:1087 end in text: 1090; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the service' start in text:1118 end in text: 1129; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'service' start in text:1122 end in text: 1129; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The airline' start in text:1143 end in text: 1154; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'airline' start in text:1147 end in text: 1154; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'railway' start in text:1159 end in text: 1166; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : ''d' start in text:1176 end in text: 1178; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'form' start in text:1179 end in text: 1183; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'working group' start in text:1186 end in text: 1199; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'working' start in text:1186 end in text: 1193; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'group' start in text:1194 end in text: 1199; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'resolve' start in text:1203 end in text: 1210; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'problems' start in text:1216 end in text: 1224; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'security' start in text:1228 end in text: 1236; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'checks' start in text:1237 end in text: 1243; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the luggage' start in text:1247 end in text: 1258; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'luggage' start in text:1251 end in text: 1258; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the bags' start in text:1275 end in text: 1283; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'bags' start in text:1279 end in text: 1283; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the airport' start in text:1291 end in text: 1302; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airport' start in text:1295 end in text: 1302; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the train' start in text:1308 end in text: 1317; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'the train station' start in text:1308 end in text: 1325; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'train station' start in text:1312 end in text: 1325; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'train' start in text:1312 end in text: 1317; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'station' start in text:1318 end in text: 1325; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'time' start in text:1329 end in text: 1333; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Deutsche Bahn' start in text:1338 end in text: 1351; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Deutsche' start in text:1338 end in text: 1346; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bahn' start in text:1347 end in text: 1351; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'chief' start in text:1352 end in text: 1357; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Johannes' start in text:1358 end in text: 1366; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Johannes Ludewig' start in text:1358 end in text: 1374; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'railway' start in text:1384 end in text: 1391; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'work' start in text:1403 end in text: 1407; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'coordinate' start in text:1411 end in text: 1421; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'schedules' start in text:1422 end in text: 1431; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lufthansa' start in text:1444 end in text: 1453; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flights' start in text:1454 end in text: 1461; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'connections' start in text:1470 end in text: 1481; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'combined' start in text:1504 end in text: 1512; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'train' start in text:1513 end in text: 1518; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plane' start in text:1523 end in text: 1528; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plane tickets' start in text:1523 end in text: 1536; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'tickets' start in text:1529 end in text: 1536; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

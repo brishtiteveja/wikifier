@@ -1,0 +1,606 @@
+<ANNOTATION>
+   Stolen painting in   <a class="wiki" href="http://en.wikipedia.org/wiki/New_Zealand" cat="country	state	member	colony">New Zealand</a>    recovered, one man arrested<br><br> A  <b>19th-century</b>  <b>painting</b> worth U.S. dlrs 1 million stolen from   <a class="wiki" href="http://en.wikipedia.org/wiki/Auckland_Art_Gallery" cat="museum	attraction">Auckland Art Gallery</a>    nine days ago has been recovered,  <b>police</b> said Monday. <br><br> Senior  <b>Sgt.</b> Gary Allcock said he understood that one person had been arrested over the theft of the  <b>1874</b>  <b>oil</b>, "Still on Top,'' by  <a class="wiki" href="http://en.wikipedia.org/wiki/France" cat="nation	country	state	republic	member">French-born</a>  artist   <a class="wiki" href="http://en.wikipedia.org/wiki/Jacques_Joseph" cat="person	jew	surgeon">Jacques-Joseph</a>  ( <b>James</b>)  <a class="wiki" href="http://en.wikipedia.org/wiki/Tissot" cat="company	brand">Tissot</a>   , one of  <a class="wiki" href="http://en.wikipedia.org/wiki/New_Zealand" cat="country	state	member	colony">New Zealand</a> 's most expensive and popular  <b>European</b> works. <br><br> He said details would be disclosed later. <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Mona_Lisa" cat="painting	portrait">The painting</a>  valued at up to  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">U.S.</a>  dlrs 1 million was stolen  <a class="wiki" href="http://en.wikipedia.org/wiki/August_9_(Eastern_Orthodox_liturgics)" cat="days">Aug. 9</a>  by a man armed with a   <b>shotgun</b>   in a daring  <b>robbery</b> at the   <a class="wiki" href="http://en.wikipedia.org/wiki/Auckland_Art_Gallery" cat="museum	attraction">Auckland Art Gallery</a> . <br><br> The man, clad in black and wearing a  <b>motorcycle helmet</b>,  <b>dark visor</b> and  <b>gloves</b>, burst through the main door with a  <b>sawed-off shotgun</b> and a   <b>crowbar</b>  . <br><br>  <b>Museum</b> official Kate Darrow said the man ran through the  <b>Grey</b> Gallery waving a   <b>firearm</b>   and yelling "get down,'' and "keep back'' to staff and patrons. <br><br> She said the man appeared to know where he was going and went to the Lower Wellesley Gallery, where the  <b>painting</b> was displayed. <br><br> The  <b>gunman</b> grabbed the painting off the  <b>wall</b> and dropped it on the ground. He then used the  <b>crowbar</b> to remove the  <b>canvas</b> from the  <b>frame</b> and take it off the  <b>backing board</b>. <br><br> The robber left through the main entrance and skirted behind the gallery into  Albert Park , pursued by a member of the public. He was believed to have climbed on a  <b>motorcycle</b> and escaped via a nearby highway. <br><br>
+</ANNOTATION>
+*Entity:[Stolen,textSpan=(0-9)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[New Zealand,textSpan=(23-34)]	-Disambiguation:(tid=4913064, Title name=New_Zealand) gold wikification:=New_Zealand isCorrectPrediction=Correct
+*Entity:[Zealand,textSpan=(27-34)]	-Disambiguation:(tid=47914, Title name=Zealand) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[one man,textSpan=(48-55)]	-Disambiguation:(tid=959699, Title name=Doctor_(Doctor_Who)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[man,textSpan=(52-55)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[A,textSpan=(67-68)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[19th-century,textSpan=(69-81)]	-Disambiguation:(tid=34571, Title name=19th_century) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[painting,textSpan=(82-90)]	-Disambiguation:(tid=18580375, Title name=Painting) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[worth,textSpan=(91-96)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[U.S.,textSpan=(97-101)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1 million,textSpan=(107-116)]	-Disambiguation:(tid=1045999, Title name=Million) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Auckland Art Gallery,textSpan=(130-150)]	-Disambiguation:(tid=3660513, Title name=Auckland_Art_Gallery) gold wikification:=Auckland_Art_Gallery isCorrectPrediction=Correct
+*Entity:[Auckland,textSpan=(130-138)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Art Gallery,textSpan=(139-150)]	-Disambiguation:(tid=3660513, Title name=Auckland_Art_Gallery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Art,textSpan=(139-142)]	-Disambiguation:(tid=752, Title name=Art) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gallery,textSpan=(143-150)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nine days,textSpan=(153-162)]	-Disambiguation:(tid=8334, Title name=December_18) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[days,textSpan=(158-162)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[has been,textSpan=(167-175)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[recovered,textSpan=(176-185)]	-Disambiguation:(tid=30030, Title name=Treaty_of_Versailles) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[police,textSpan=(187-193)]	-Disambiguation:(tid=23627, Title name=Police) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Monday,textSpan=(199-205)]	-Disambiguation:(tid=54406, Title name=Monday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Senior,textSpan=(210-216)]	-Disambiguation:(tid=1066040, Title name=Twelfth_grade) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Senior Sgt. Gary Allcock,textSpan=(210-234)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sgt.,textSpan=(217-221)]	-Disambiguation:(tid=219424, Title name=Sergeant) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gary,textSpan=(222-226)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gary Allcock,textSpan=(222-234)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Allcock,textSpan=(227-234)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[one person,textSpan=(259-269)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[person,textSpan=(263-269)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[had been,textSpan=(270-278)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[arrested,textSpan=(279-287)]	-Disambiguation:(tid=170638, Title name=Arrest) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the theft,textSpan=(293-302)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[theft,textSpan=(297-302)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1874,textSpan=(310-314)]	-Disambiguation:(tid=34770, Title name=1874) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[oil,textSpan=(315-318)]	-Disambiguation:(tid=22605, Title name=Oil_painting) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Still on Top,textSpan=(321-333)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Top,textSpan=(330-333)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:['',textSpan=(334-336)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[French-born,textSpan=(340-351)]	-Disambiguation:(tid=5843419, Title name=France) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jacques-Joseph,textSpan=(360-374)]	-Disambiguation:(tid=702115, Title name=Jacques_Joseph) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[James,textSpan=(376-381)]	-Disambiguation:(tid=528805, Title name=James_(band)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Tissot,textSpan=(383-389)]	-Disambiguation:(tid=754118, Title name=Tissot) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[New Zealand,textSpan=(400-411)]	-Disambiguation:(tid=4913064, Title name=New_Zealand) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Zealand,textSpan=(404-411)]	-Disambiguation:(tid=47914, Title name=Zealand) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[expensive,textSpan=(419-428)]	-Disambiguation:(tid=166789, Title name=Cost) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[popular,textSpan=(433-440)]	-Disambiguation:(tid=23049, Title name=Popular_music) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[European,textSpan=(441-449)]	-Disambiguation:(tid=9239, Title name=Europe) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[He,textSpan=(460-462)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[details,textSpan=(468-475)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[disclosed,textSpan=(485-494)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The painting,textSpan=(505-517)]	-Disambiguation:(tid=70889, Title name=Mona_Lisa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[painting,textSpan=(509-517)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[U.S.,textSpan=(534-538)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1 million,textSpan=(544-553)]	-Disambiguation:(tid=1045999, Title name=Million) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[stolen,textSpan=(558-564)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Aug.,textSpan=(565-569)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Aug. 9,textSpan=(565-571)]	-Disambiguation:(tid=2522468, Title name=August_9_(Eastern_Orthodox_liturgics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a man,textSpan=(575-580)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[man,textSpan=(577-580)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[shotgun,textSpan=(595-602)]	-Disambiguation:(tid=26838, Title name=Shotgun) gold wikification:=Shotgun isCorrectPrediction=Correct
+*Entity:[daring,textSpan=(610-616)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[robbery,textSpan=(617-624)]	-Disambiguation:(tid=54849, Title name=Robbery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Auckland Art Gallery,textSpan=(633-655)]	-Disambiguation:(tid=3660513, Title name=Auckland_Art_Gallery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Auckland,textSpan=(633-641)]	-Disambiguation:*null* gold wikification:=Auckland isCorrectPrediction=Incorrect
+*Entity:[The man,textSpan=(660-667)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[man,textSpan=(664-667)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[black,textSpan=(677-682)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wearing,textSpan=(687-694)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[motorcycle helmet,textSpan=(697-714)]	-Disambiguation:(tid=192460, Title name=Motorcycle_helmet) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[motorcycle,textSpan=(697-707)]	-Disambiguation:(tid=19876, Title name=Motorcycle) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[helmet,textSpan=(708-714)]	-Disambiguation:(tid=132151, Title name=Helmet) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dark,textSpan=(716-720)]	-Disambiguation:(tid=12689594, Title name=Dark_(broadcasting)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dark visor,textSpan=(716-726)]	-Disambiguation:(tid=3658264, Title name=Metroid_Prime_2:_Echoes) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[visor,textSpan=(721-726)]	-Disambiguation:(tid=744161, Title name=Visor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gloves,textSpan=(731-737)]	-Disambiguation:(tid=172120, Title name=Glove) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[burst,textSpan=(739-744)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the main,textSpan=(753-761)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[main,textSpan=(757-761)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[door,textSpan=(762-766)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sawed-off,textSpan=(774-783)]	-Disambiguation:(tid=498597, Title name=Sawed-off_shotgun) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sawed-off shotgun,textSpan=(774-791)]	-Disambiguation:(tid=498597, Title name=Sawed-off_shotgun) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[shotgun,textSpan=(784-791)]	-Disambiguation:(tid=26838, Title name=Shotgun) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[crowbar,textSpan=(799-806)]	-Disambiguation:(tid=1950953, Title name=Crowbar_(tool)) gold wikification:=Crowbar_(tool) isCorrectPrediction=Correct
+*Entity:[Museum,textSpan=(813-819)]	-Disambiguation:(tid=37585, Title name=Museum) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[official,textSpan=(820-828)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Kate Darrow,textSpan=(829-840)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Kate,textSpan=(829-833)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Darrow,textSpan=(834-840)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the man,textSpan=(846-853)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[man,textSpan=(850-853)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Grey Gallery,textSpan=(870-882)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Grey,textSpan=(870-874)]	-Disambiguation:(tid=731893, Title name=Grey) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gallery,textSpan=(875-882)]	-Disambiguation:(tid=361130, Title name=Gallery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[firearm,textSpan=(893-900)]	-Disambiguation:(tid=11966, Title name=Firearm) gold wikification:=Firearm isCorrectPrediction=Correct
+*Entity:['',textSpan=(925-927)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[staff,textSpan=(948-953)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[patrons,textSpan=(958-965)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[She,textSpan=(970-973)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the man,textSpan=(979-986)]	-Disambiguation:(tid=6129133, Title name=Spike_Lester) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[man,textSpan=(983-986)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[appeared,textSpan=(987-995)]	-Disambiguation:(tid=597264, Title name=Fictional_crossover) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[know,textSpan=(999-1003)]	-Disambiguation:(tid=243391, Title name=Knowledge) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[going,textSpan=(1017-1022)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lower Wellesley Gallery,textSpan=(1039-1062)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lower,textSpan=(1039-1044)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wellesley,textSpan=(1045-1054)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gallery,textSpan=(1055-1062)]	-Disambiguation:(tid=361130, Title name=Gallery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the painting,textSpan=(1070-1082)]	-Disambiguation:(tid=70889, Title name=Mona_Lisa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[painting,textSpan=(1074-1082)]	-Disambiguation:(tid=18580375, Title name=Painting) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[displayed,textSpan=(1087-1096)]	-Disambiguation:(tid=601399, Title name=Display_resolution) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gunman,textSpan=(1105-1111)]	-Disambiguation:(tid=551678, Title name=Gunfighter) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the painting,textSpan=(1120-1132)]	-Disambiguation:(tid=70889, Title name=Mona_Lisa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[painting,textSpan=(1124-1132)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the wall,textSpan=(1137-1145)]	-Disambiguation:(tid=3722, Title name=Berlin_Wall) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wall,textSpan=(1141-1145)]	-Disambiguation:(tid=39007, Title name=Wall) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the ground,textSpan=(1164-1174)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ground,textSpan=(1168-1174)]	-Disambiguation:(tid=429471, Title name=Ground) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[He,textSpan=(1176-1178)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[crowbar,textSpan=(1193-1200)]	-Disambiguation:(tid=1950953, Title name=Crowbar_(tool)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[remove,textSpan=(1204-1210)]	-Disambiguation:(tid=15328, Title name=Impeachment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[canvas,textSpan=(1215-1221)]	-Disambiguation:(tid=72903, Title name=Canvas) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[frame,textSpan=(1231-1236)]	-Disambiguation:(tid=2248824, Title name=Picture_frame) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[backing,textSpan=(1257-1264)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[backing board,textSpan=(1257-1270)]	-Disambiguation:(tid=1181663, Title name=Comic_book_collecting) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[board,textSpan=(1265-1270)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The robber,textSpan=(1275-1285)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[robber,textSpan=(1279-1285)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the main,textSpan=(1299-1307)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[main,textSpan=(1303-1307)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[entrance,textSpan=(1308-1316)]	-Disambiguation:(tid=1594045, Title name=Entrance) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the gallery,textSpan=(1336-1347)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gallery,textSpan=(1340-1347)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Albert Park,textSpan=(1354-1365)]	-Disambiguation:*null* gold wikification:=Albert_Park,_Auckland isCorrectPrediction=Incorrect
+*Entity:[Albert,textSpan=(1354-1360)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Park,textSpan=(1361-1365)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[member,textSpan=(1381-1387)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the public,textSpan=(1391-1401)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[public,textSpan=(1395-1401)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[He,textSpan=(1403-1405)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[believed,textSpan=(1410-1418)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[climbed,textSpan=(1427-1434)]	-Disambiguation:(tid=20341, Title name=Mountaineering) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[motorcycle,textSpan=(1440-1450)]	-Disambiguation:(tid=19876, Title name=Motorcycle) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nearby,textSpan=(1469-1475)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[highway,textSpan=(1476-1483)]	-Disambiguation:(tid=48519, Title name=Highway) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Stolen' start in text:0 end in text: 9; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'New Zealand' start in text:23 end in text: 34; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Zealand' start in text:27 end in text: 34; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'one man' start in text:48 end in text: 55; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'man' start in text:52 end in text: 55; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'A' start in text:67 end in text: 68; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '19th-century' start in text:69 end in text: 81; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'painting' start in text:82 end in text: 90; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'worth' start in text:91 end in text: 96; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'U.S.' start in text:97 end in text: 101; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1 million' start in text:107 end in text: 116; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Auckland Art Gallery' start in text:130 end in text: 150; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Auckland' start in text:130 end in text: 138; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Art Gallery' start in text:139 end in text: 150; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Art' start in text:139 end in text: 142; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Gallery' start in text:143 end in text: 150; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nine days' start in text:153 end in text: 162; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'days' start in text:158 end in text: 162; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'has been' start in text:167 end in text: 175; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'recovered' start in text:176 end in text: 185; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'police' start in text:187 end in text: 193; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Monday' start in text:199 end in text: 205; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Senior' start in text:210 end in text: 216; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Senior Sgt. Gary Allcock' start in text:210 end in text: 234; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Sgt.' start in text:217 end in text: 221; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Gary' start in text:222 end in text: 226; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Gary Allcock' start in text:222 end in text: 234; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Allcock' start in text:227 end in text: 234; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'one person' start in text:259 end in text: 269; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'person' start in text:263 end in text: 269; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'had been' start in text:270 end in text: 278; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'arrested' start in text:279 end in text: 287; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the theft' start in text:293 end in text: 302; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'theft' start in text:297 end in text: 302; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1874' start in text:310 end in text: 314; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'oil' start in text:315 end in text: 318; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Still on Top' start in text:321 end in text: 333; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Top' start in text:330 end in text: 333; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '''' start in text:334 end in text: 336; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'French-born' start in text:340 end in text: 351; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jacques-Joseph' start in text:360 end in text: 374; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'James' start in text:376 end in text: 381; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Tissot' start in text:383 end in text: 389; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'New Zealand' start in text:400 end in text: 411; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Zealand' start in text:404 end in text: 411; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'expensive' start in text:419 end in text: 428; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'popular' start in text:433 end in text: 440; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'European' start in text:441 end in text: 449; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'He' start in text:460 end in text: 462; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'details' start in text:468 end in text: 475; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'disclosed' start in text:485 end in text: 494; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The painting' start in text:505 end in text: 517; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'painting' start in text:509 end in text: 517; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'U.S.' start in text:534 end in text: 538; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1 million' start in text:544 end in text: 553; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'stolen' start in text:558 end in text: 564; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Aug.' start in text:565 end in text: 569; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Aug. 9' start in text:565 end in text: 571; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a man' start in text:575 end in text: 580; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'man' start in text:577 end in text: 580; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shotgun' start in text:595 end in text: 602; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'daring' start in text:610 end in text: 616; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'robbery' start in text:617 end in text: 624; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Auckland Art Gallery' start in text:633 end in text: 655; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Auckland' start in text:633 end in text: 641; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The man' start in text:660 end in text: 667; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'man' start in text:664 end in text: 667; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'black' start in text:677 end in text: 682; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wearing' start in text:687 end in text: 694; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'motorcycle helmet' start in text:697 end in text: 714; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'motorcycle' start in text:697 end in text: 707; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'helmet' start in text:708 end in text: 714; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dark' start in text:716 end in text: 720; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dark visor' start in text:716 end in text: 726; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'visor' start in text:721 end in text: 726; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gloves' start in text:731 end in text: 737; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'burst' start in text:739 end in text: 744; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the main' start in text:753 end in text: 761; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'main' start in text:757 end in text: 761; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'door' start in text:762 end in text: 766; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sawed-off' start in text:774 end in text: 783; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sawed-off shotgun' start in text:774 end in text: 791; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shotgun' start in text:784 end in text: 791; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'crowbar' start in text:799 end in text: 806; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Museum' start in text:813 end in text: 819; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'official' start in text:820 end in text: 828; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Kate Darrow' start in text:829 end in text: 840; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Kate' start in text:829 end in text: 833; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Darrow' start in text:834 end in text: 840; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the man' start in text:846 end in text: 853; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'man' start in text:850 end in text: 853; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Grey Gallery' start in text:870 end in text: 882; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Grey' start in text:870 end in text: 874; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Gallery' start in text:875 end in text: 882; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'firearm' start in text:893 end in text: 900; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '''' start in text:925 end in text: 927; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'staff' start in text:948 end in text: 953; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'patrons' start in text:958 end in text: 965; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'She' start in text:970 end in text: 973; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the man' start in text:979 end in text: 986; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'man' start in text:983 end in text: 986; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'appeared' start in text:987 end in text: 995; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'know' start in text:999 end in text: 1003; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'going' start in text:1017 end in text: 1022; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Lower Wellesley Gallery' start in text:1039 end in text: 1062; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Lower' start in text:1039 end in text: 1044; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wellesley' start in text:1045 end in text: 1054; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Gallery' start in text:1055 end in text: 1062; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the painting' start in text:1070 end in text: 1082; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'painting' start in text:1074 end in text: 1082; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'displayed' start in text:1087 end in text: 1096; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gunman' start in text:1105 end in text: 1111; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the painting' start in text:1120 end in text: 1132; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'painting' start in text:1124 end in text: 1132; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the wall' start in text:1137 end in text: 1145; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wall' start in text:1141 end in text: 1145; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the ground' start in text:1164 end in text: 1174; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ground' start in text:1168 end in text: 1174; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'He' start in text:1176 end in text: 1178; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'crowbar' start in text:1193 end in text: 1200; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'remove' start in text:1204 end in text: 1210; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'canvas' start in text:1215 end in text: 1221; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'frame' start in text:1231 end in text: 1236; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'backing' start in text:1257 end in text: 1264; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'backing board' start in text:1257 end in text: 1270; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'board' start in text:1265 end in text: 1270; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The robber' start in text:1275 end in text: 1285; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'robber' start in text:1279 end in text: 1285; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the main' start in text:1299 end in text: 1307; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'main' start in text:1303 end in text: 1307; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'entrance' start in text:1308 end in text: 1316; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the gallery' start in text:1336 end in text: 1347; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'gallery' start in text:1340 end in text: 1347; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Albert Park' start in text:1354 end in text: 1365; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Albert' start in text:1354 end in text: 1360; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Park' start in text:1361 end in text: 1365; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'member' start in text:1381 end in text: 1387; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the public' start in text:1391 end in text: 1401; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'public' start in text:1395 end in text: 1401; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'He' start in text:1403 end in text: 1405; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'believed' start in text:1410 end in text: 1418; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'climbed' start in text:1427 end in text: 1434; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'motorcycle' start in text:1440 end in text: 1450; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nearby' start in text:1469 end in text: 1475; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'highway' start in text:1476 end in text: 1483; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

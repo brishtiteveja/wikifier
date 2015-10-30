@@ -1,0 +1,552 @@
+<ANNOTATION>
+     <a class="wiki" href="http://en.wikipedia.org/wiki/Switzerland" cat="country	state">Swiss</a>    government eyes shutting down  <b>nuclear power plants</b><br><br> The  <a class="wiki" href="http://en.wikipedia.org/wiki/Politics_of_Switzerland" cat="politics">Swiss government</a>   <b>Thursday</b> announced that it is planning the country's eventual exit from   <b>nuclear power</b>  , saying it wants to support instead   <b>hydroelectric plants</b>  . <br><br> But   <b>environmental campaigners</b>   criticized the lack of a  <b>timeframe</b> for closing the country's  four nuclear power plants  . <br><br> Government officials will work with representatives of the   <b>power industry</b>  ,  <b>environmental groups</b> and  <b>local governments</b> to discuss a timetable and removal of   <b>nuclear waste</b>  , a government statement said. It is unrealistic to build more   <b>power stations</b>   because of  <b>environmental</b> concerns, the government has said. <br><br> Should the discussions between concerned  <b>parties</b> fail to produce an agreed timetable, the federal   <b>cabinet</b>   will make the decision, said the statement. <br><br> "We have set out on a new course,'' said Federal Energy Minister   <a class="wiki" href="http://en.wikipedia.org/wiki/Moritz_Leuenberger" cat="person	member">Moritz Leuenberger</a>   . "Details have yet to be decided.'' <br><br> In a related move, the  <b>federal cabinet</b> ordered energy officials to draw up a discussion  <b>paper</b> on changing laws governing the domestic  electricity   market. <br><br> The government envisages the creation of a  <b>national company</b> to own the power   <b>infrastructure</b>  . <br><br> A  <b>timeframe</b> for carrying out   <b>liberalization</b>   of the  <b>electricity market</b> itself remains to be determined, the  <b>cabinet</b> said. <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Mikhail_Kasyanov's_Cabinet" cat="">The cabinet</a>  said it wants to support  <b>hydroelectric plants</b>. It ordered a study of the possibility of   <b>tax breaks</b>  for  <b>hydroelectric plants</b> and how to  <b>encourage</b>  <b>upgrades</b> of those plants. <br><br>
+</ANNOTATION>
+*Entity:[Swiss,textSpan=(4-9)]	-Disambiguation:(tid=26748, Title name=Switzerland) gold wikification:=Switzerland isCorrectPrediction=Correct
+*Entity:[Swiss,textSpan=(0-9)]	-Disambiguation:(tid=26748, Title name=Switzerland) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nuclear power plants,textSpan=(42-62)]	-Disambiguation:(tid=22153, Title name=Nuclear_power) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nuclear power,textSpan=(42-55)]	-Disambiguation:(tid=22153, Title name=Nuclear_power) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nuclear,textSpan=(42-49)]	-Disambiguation:(tid=22153, Title name=Nuclear_power) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[power,textSpan=(50-55)]	-Disambiguation:(tid=3270043, Title name=Electric_power) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[power plants,textSpan=(50-62)]	-Disambiguation:(tid=22153, Title name=Nuclear_power) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plants,textSpan=(56-62)]	-Disambiguation:(tid=212141, Title name=Power_station) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The Swiss,textSpan=(65-74)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Swiss,textSpan=(69-74)]	-Disambiguation:(tid=26748, Title name=Switzerland) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Swiss government,textSpan=(69-85)]	-Disambiguation:(tid=27464, Title name=Politics_of_Switzerland) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[government,textSpan=(75-85)]	-Disambiguation:(tid=27464, Title name=Politics_of_Switzerland) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Thursday,textSpan=(86-94)]	-Disambiguation:(tid=266139, Title name=Thursday_(band)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[planning,textSpan=(116-124)]	-Disambiguation:(tid=7843, Title name=Planned_economy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the country,textSpan=(125-136)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[country,textSpan=(129-136)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[exit,textSpan=(148-152)]	-Disambiguation:(tid=6539754, Title name=Exit_(system_call)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nuclear power,textSpan=(159-172)]	-Disambiguation:(tid=22153, Title name=Nuclear_power) gold wikification:=Nuclear_power isCorrectPrediction=Correct
+*Entity:[nuclear,textSpan=(159-166)]	-Disambiguation:(tid=22153, Title name=Nuclear_power) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[power,textSpan=(167-172)]	-Disambiguation:(tid=3270043, Title name=Electric_power) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wants,textSpan=(186-191)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[support,textSpan=(195-202)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hydroelectric plants,textSpan=(212-232)]	-Disambiguation:(tid=381399, Title name=Hydroelectricity) gold wikification:=Hydroelectricity isCorrectPrediction=Correct
+*Entity:[environmental,textSpan=(244-257)]	-Disambiguation:(tid=558685, Title name=Natural_environment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[environmental campaigners,textSpan=(244-269)]	-Disambiguation:(tid=1866009, Title name=Environmentalism) gold wikification:=Environmentalism isCorrectPrediction=Correct
+*Entity:[lack,textSpan=(287-291)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[timeframe,textSpan=(297-306)]	-Disambiguation:(tid=30012, Title name=Time) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the country,textSpan=(319-330)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[country,textSpan=(323-330)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Government,textSpan=(366-376)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Government officials,textSpan=(366-386)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[officials,textSpan=(377-386)]	-Disambiguation:(tid=725182, Title name=Official) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[work,textSpan=(392-396)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[representatives,textSpan=(402-417)]	-Disambiguation:(tid=44421, Title name=Legislature) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[power industry,textSpan=(426-440)]	-Disambiguation:(tid=3658264, Title name=Electric_power_industry) gold wikification:=Electric_power_industry isCorrectPrediction=Correct
+*Entity:[environmental groups,textSpan=(444-464)]	-Disambiguation:(tid=1866009, Title name=Environmentalism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[environmental,textSpan=(444-457)]	-Disambiguation:(tid=1866009, Title name=Environmentalism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[groups,textSpan=(458-464)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[local,textSpan=(469-474)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[local governments,textSpan=(469-486)]	-Disambiguation:(tid=52786, Title name=Local_government) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[governments,textSpan=(475-486)]	-Disambiguation:(tid=12229, Title name=Government) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[discuss,textSpan=(490-497)]	-Disambiguation:(tid=337689, Title name=Debate) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[timetable,textSpan=(500-509)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[removal,textSpan=(514-521)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nuclear,textSpan=(526-533)]	-Disambiguation:(tid=22153, Title name=Nuclear_power) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nuclear waste,textSpan=(526-539)]	-Disambiguation:(tid=37257, Title name=Radioactive_waste) gold wikification:=Radioactive_waste isCorrectPrediction=Correct
+*Entity:[waste,textSpan=(534-539)]	-Disambiguation:(tid=37257, Title name=Radioactive_waste) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a government,textSpan=(543-555)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[government,textSpan=(545-555)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[statement,textSpan=(556-565)]	-Disambiguation:(tid=41746, Title name=Statement) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[It,textSpan=(572-574)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[build,textSpan=(593-598)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[power stations,textSpan=(605-619)]	-Disambiguation:(tid=212141, Title name=Power_station) gold wikification:=Power_station isCorrectPrediction=Correct
+*Entity:[environmental concerns,textSpan=(633-655)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[environmental,textSpan=(633-646)]	-Disambiguation:(tid=1866009, Title name=Environmentalism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[concerns,textSpan=(647-655)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the government,textSpan=(657-671)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[government,textSpan=(661-671)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[said,textSpan=(676-680)]	-Disambiguation:(tid=11145758, Title name=Kayfabe) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[discussions,textSpan=(696-707)]	-Disambiguation:(tid=337689, Title name=Debate) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[concerned,textSpan=(716-725)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[parties,textSpan=(726-733)]	-Disambiguation:(tid=23996, Title name=Political_party) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fail,textSpan=(734-738)]	-Disambiguation:(tid=68754, Title name=Market_failure) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[produce,textSpan=(742-749)]	-Disambiguation:(tid=733668, Title name=Produce) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[agreed,textSpan=(753-759)]	-Disambiguation:(tid=217117, Title name=Agreement) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[timetable,textSpan=(760-769)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cabinet,textSpan=(784-791)]	-Disambiguation:(tid=54537, Title name=Cabinet) gold wikification:=Cabinet isCorrectPrediction=Correct
+*Entity:[the decision,textSpan=(804-816)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[decision,textSpan=(808-816)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the statement,textSpan=(823-836)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[statement,textSpan=(827-836)]	-Disambiguation:(tid=41746, Title name=Statement) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[set,textSpan=(850-853)]	-Disambiguation:(tid=26691, Title name=Set) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a new,textSpan=(861-866)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[new course,textSpan=(863-873)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[course,textSpan=(867-873)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:['',textSpan=(874-876)]	-Disambiguation:(tid=10671108, Title name=Dirty_(film)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Moritz Leuenberger,textSpan=(907-925)]	-Disambiguation:(tid=155831, Title name=Moritz_Leuenberger) gold wikification:=Moritz_Leuenberger isCorrectPrediction=Correct
+*Entity:[to be,textSpan=(947-952)]	-Disambiguation:(tid=5630, Title name=Copula) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[to be decided,textSpan=(947-960)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[decided,textSpan=(953-960)]	-Disambiguation:(tid=265752, Title name=Decision_making) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[related,textSpan=(972-979)]	-Disambiguation:(tid=422481, Title name=Mass–energy_equivalence) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the federal,textSpan=(986-997)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[federal,textSpan=(990-997)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[federal cabinet,textSpan=(990-1005)]	-Disambiguation:(tid=261417, Title name=Cabinet_of_Canada) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cabinet,textSpan=(998-1005)]	-Disambiguation:(tid=54537, Title name=Cabinet) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[energy,textSpan=(1014-1020)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[officials,textSpan=(1021-1030)]	-Disambiguation:(tid=725182, Title name=Official) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[draw,textSpan=(1034-1038)]	-Disambiguation:(tid=264341, Title name=Draw_(chess)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[discussion paper,textSpan=(1044-1060)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[discussion,textSpan=(1044-1054)]	-Disambiguation:(tid=337689, Title name=Debate) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[paper,textSpan=(1055-1060)]	-Disambiguation:(tid=16861908, Title name=Paper) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[changing,textSpan=(1064-1072)]	-Disambiguation:(tid=162941, Title name=Change) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[laws,textSpan=(1073-1077)]	-Disambiguation:(tid=17538, Title name=Law) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[electricity,textSpan=(1102-1113)]	-Disambiguation:*null* gold wikification:=Electricity isCorrectPrediction=Incorrect
+*Entity:[The government,textSpan=(1127-1141)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[government,textSpan=(1131-1141)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the creation,textSpan=(1152-1164)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[creation,textSpan=(1156-1164)]	-Disambiguation:(tid=7322, Title name=Creation_myth) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[national company,textSpan=(1170-1186)]	-Disambiguation:(tid=2141555, Title name=National_Railway) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[national,textSpan=(1170-1178)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(1179-1186)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[infrastructure,textSpan=(1205-1219)]	-Disambiguation:(tid=174521, Title name=Infrastructure) gold wikification:=Infrastructure isCorrectPrediction=Correct
+*Entity:[timeframe,textSpan=(1228-1237)]	-Disambiguation:(tid=30012, Title name=Time) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[liberalization,textSpan=(1256-1270)]	-Disambiguation:(tid=189004, Title name=Liberalization) gold wikification:=Liberalization isCorrectPrediction=Correct
+*Entity:[electricity,textSpan=(1280-1291)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[electricity market,textSpan=(1280-1298)]	-Disambiguation:(tid=215909, Title name=Electricity_market) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[market,textSpan=(1292-1298)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[remains,textSpan=(1306-1313)]	-Disambiguation:(tid=36165, Title name=2007) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[to be,textSpan=(1314-1319)]	-Disambiguation:(tid=5630, Title name=Copula) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[to be determined,textSpan=(1314-1330)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[determined,textSpan=(1320-1330)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the cabinet,textSpan=(1332-1343)]	-Disambiguation:(tid=13099507, Title name=Mikhail_Kasyanov's_Cabinet) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cabinet,textSpan=(1336-1343)]	-Disambiguation:(tid=54537, Title name=Cabinet) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The cabinet,textSpan=(1353-1364)]	-Disambiguation:(tid=13099507, Title name=Mikhail_Kasyanov's_Cabinet) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cabinet,textSpan=(1357-1364)]	-Disambiguation:(tid=54537, Title name=Cabinet) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wants,textSpan=(1373-1378)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[support,textSpan=(1382-1389)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hydroelectric plants,textSpan=(1390-1410)]	-Disambiguation:(tid=381399, Title name=Hydroelectricity) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hydroelectric,textSpan=(1390-1403)]	-Disambiguation:(tid=381399, Title name=Hydroelectricity) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plants,textSpan=(1404-1410)]	-Disambiguation:(tid=212141, Title name=Power_station) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[It,textSpan=(1412-1414)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[study,textSpan=(1425-1430)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[possibility,textSpan=(1438-1449)]	-Disambiguation:(tid=142919, Title name=Possibility) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tax breaks,textSpan=(1454-1464)]	-Disambiguation:(tid=960403, Title name=Tax_exemption) gold wikification:=Tax_exemption isCorrectPrediction=Correct
+*Entity:[tax,textSpan=(1454-1457)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[breaks,textSpan=(1458-1464)]	-Disambiguation:(tid=66038, Title name=Breakbeat) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hydroelectric,textSpan=(1470-1483)]	-Disambiguation:(tid=381399, Title name=Hydroelectricity) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hydroelectric plants,textSpan=(1470-1490)]	-Disambiguation:(tid=381399, Title name=Hydroelectricity) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plants,textSpan=(1484-1490)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[encourage,textSpan=(1502-1511)]	-Disambiguation:(tid=5366620, Title name=Courage_International) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[upgrades,textSpan=(1512-1520)]	-Disambiguation:(tid=15431411, Title name=Stargate_SG-1_(season_4)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plants,textSpan=(1530-1536)]	-Disambiguation:(tid=212141, Title name=Power_station) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Swiss' start in text:4 end in text: 9; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Swiss' start in text:0 end in text: 9; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nuclear power plants' start in text:42 end in text: 62; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nuclear power' start in text:42 end in text: 55; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nuclear' start in text:42 end in text: 49; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'power' start in text:50 end in text: 55; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'power plants' start in text:50 end in text: 62; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plants' start in text:56 end in text: 62; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The Swiss' start in text:65 end in text: 74; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Swiss' start in text:69 end in text: 74; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Swiss government' start in text:69 end in text: 85; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'government' start in text:75 end in text: 85; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thursday' start in text:86 end in text: 94; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'planning' start in text:116 end in text: 124; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the country' start in text:125 end in text: 136; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'country' start in text:129 end in text: 136; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'exit' start in text:148 end in text: 152; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nuclear power' start in text:159 end in text: 172; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nuclear' start in text:159 end in text: 166; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'power' start in text:167 end in text: 172; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wants' start in text:186 end in text: 191; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'support' start in text:195 end in text: 202; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hydroelectric plants' start in text:212 end in text: 232; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'environmental' start in text:244 end in text: 257; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'environmental campaigners' start in text:244 end in text: 269; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'lack' start in text:287 end in text: 291; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'timeframe' start in text:297 end in text: 306; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'the country' start in text:319 end in text: 330; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'country' start in text:323 end in text: 330; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Government' start in text:366 end in text: 376; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Government officials' start in text:366 end in text: 386; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'officials' start in text:377 end in text: 386; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'work' start in text:392 end in text: 396; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'representatives' start in text:402 end in text: 417; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'power industry' start in text:426 end in text: 440; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'environmental groups' start in text:444 end in text: 464; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'environmental' start in text:444 end in text: 457; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'groups' start in text:458 end in text: 464; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'local' start in text:469 end in text: 474; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'local governments' start in text:469 end in text: 486; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'governments' start in text:475 end in text: 486; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'discuss' start in text:490 end in text: 497; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'timetable' start in text:500 end in text: 509; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'removal' start in text:514 end in text: 521; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nuclear' start in text:526 end in text: 533; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nuclear waste' start in text:526 end in text: 539; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'waste' start in text:534 end in text: 539; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a government' start in text:543 end in text: 555; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'government' start in text:545 end in text: 555; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'statement' start in text:556 end in text: 565; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'It' start in text:572 end in text: 574; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'build' start in text:593 end in text: 598; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'power stations' start in text:605 end in text: 619; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'environmental concerns' start in text:633 end in text: 655; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'environmental' start in text:633 end in text: 646; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'concerns' start in text:647 end in text: 655; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the government' start in text:657 end in text: 671; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'government' start in text:661 end in text: 671; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'said' start in text:676 end in text: 680; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'discussions' start in text:696 end in text: 707; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'concerned' start in text:716 end in text: 725; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'parties' start in text:726 end in text: 733; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fail' start in text:734 end in text: 738; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'produce' start in text:742 end in text: 749; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'agreed' start in text:753 end in text: 759; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'timetable' start in text:760 end in text: 769; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cabinet' start in text:784 end in text: 791; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the decision' start in text:804 end in text: 816; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'decision' start in text:808 end in text: 816; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the statement' start in text:823 end in text: 836; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'statement' start in text:827 end in text: 836; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'set' start in text:850 end in text: 853; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a new' start in text:861 end in text: 866; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'new course' start in text:863 end in text: 873; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'course' start in text:867 end in text: 873; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '''' start in text:874 end in text: 876; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Moritz Leuenberger' start in text:907 end in text: 925; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'to be' start in text:947 end in text: 952; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'to be decided' start in text:947 end in text: 960; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'decided' start in text:953 end in text: 960; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'related' start in text:972 end in text: 979; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the federal' start in text:986 end in text: 997; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'federal' start in text:990 end in text: 997; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'federal cabinet' start in text:990 end in text: 1005; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cabinet' start in text:998 end in text: 1005; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'energy' start in text:1014 end in text: 1020; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'officials' start in text:1021 end in text: 1030; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'draw' start in text:1034 end in text: 1038; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'discussion paper' start in text:1044 end in text: 1060; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'discussion' start in text:1044 end in text: 1054; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'paper' start in text:1055 end in text: 1060; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'changing' start in text:1064 end in text: 1072; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'laws' start in text:1073 end in text: 1077; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'electricity' start in text:1102 end in text: 1113; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The government' start in text:1127 end in text: 1141; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'government' start in text:1131 end in text: 1141; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the creation' start in text:1152 end in text: 1164; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'creation' start in text:1156 end in text: 1164; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'national company' start in text:1170 end in text: 1186; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'national' start in text:1170 end in text: 1178; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:1179 end in text: 1186; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'infrastructure' start in text:1205 end in text: 1219; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'timeframe' start in text:1228 end in text: 1237; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'liberalization' start in text:1256 end in text: 1270; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'electricity' start in text:1280 end in text: 1291; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'electricity market' start in text:1280 end in text: 1298; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'market' start in text:1292 end in text: 1298; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'remains' start in text:1306 end in text: 1313; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'to be' start in text:1314 end in text: 1319; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'to be determined' start in text:1314 end in text: 1330; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'determined' start in text:1320 end in text: 1330; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the cabinet' start in text:1332 end in text: 1343; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cabinet' start in text:1336 end in text: 1343; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The cabinet' start in text:1353 end in text: 1364; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cabinet' start in text:1357 end in text: 1364; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wants' start in text:1373 end in text: 1378; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'support' start in text:1382 end in text: 1389; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hydroelectric plants' start in text:1390 end in text: 1410; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hydroelectric' start in text:1390 end in text: 1403; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plants' start in text:1404 end in text: 1410; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'It' start in text:1412 end in text: 1414; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'study' start in text:1425 end in text: 1430; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'possibility' start in text:1438 end in text: 1449; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tax breaks' start in text:1454 end in text: 1464; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tax' start in text:1454 end in text: 1457; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'breaks' start in text:1458 end in text: 1464; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hydroelectric' start in text:1470 end in text: 1483; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hydroelectric plants' start in text:1470 end in text: 1490; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plants' start in text:1484 end in text: 1490; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'encourage' start in text:1502 end in text: 1511; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'upgrades' start in text:1512 end in text: 1520; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'plants' start in text:1530 end in text: 1536; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

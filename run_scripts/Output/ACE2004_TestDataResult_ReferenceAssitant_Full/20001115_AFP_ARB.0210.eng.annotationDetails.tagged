@@ -1,0 +1,93 @@
+<ANNOTATION>
+   <a class="wiki" href="http://en.wikipedia.org/wiki/Tallahassee,_Florida" cat="city	seats	place">Tallahassee</a>  ( <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">United States</a> ) 11-15 (AFP) -  The  <a class="wiki" href="http://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States" cat="court	establishment">Supreme Court</a>  in  <a class="wiki" href="http://en.wikipedia.org/wiki/Florida" cat="colony	state">Florida</a>  today  <b>Wednesday</b> refused the application by the  <b>state</b>'s authorities to stop the new hand count of votes in some counties. <br>
+</ANNOTATION>
+*Entity:[Tallahassee,textSpan=(2-13)]	-Disambiguation:(tid=57700, Title name=Tallahassee,_Florida) gold wikification:=Tallahassee,_Florida isCorrectPrediction=Correct
+*Entity:[United States,textSpan=(15-28)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=United_States isCorrectPrediction=Correct
+*Entity:[AFP,textSpan=(37-40)]	-Disambiguation:*null* gold wikification:=Agence_France-Presse isCorrectPrediction=Incorrect
+*Entity:[The Supreme Court in Florida,textSpan=(45-73)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The Supreme Court,textSpan=(45-62)]	-Disambiguation:(tid=31737, Title name=Supreme_Court_of_the_United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Supreme Court in Florida,textSpan=(49-73)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Supreme,textSpan=(49-56)]	-Disambiguation:(tid=31737, Title name=Supreme_Court_of_the_United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Supreme Court,textSpan=(49-62)]	-Disambiguation:(tid=31737, Title name=Supreme_Court_of_the_United_States) gold wikification:=Supreme_Court_of_Florida isCorrectPrediction=Incorrect
+*Entity:[Court,textSpan=(57-62)]	-Disambiguation:(tid=31737, Title name=Supreme_Court_of_the_United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Florida,textSpan=(66-73)]	-Disambiguation:(tid=10829, Title name=Florida) gold wikification:=Florida isCorrectPrediction=Correct
+*Entity:[today,textSpan=(74-79)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wednesday,textSpan=(80-89)]	-Disambiguation:(tid=54634, Title name=Wednesday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[application,textSpan=(102-113)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the state,textSpan=(117-126)]	-Disambiguation:(tid=303, Title name=Alabama) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[state,textSpan=(121-126)]	-Disambiguation:(tid=48831, Title name=U.S._state) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[authorities,textSpan=(129-140)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the new,textSpan=(149-156)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hand,textSpan=(157-161)]	-Disambiguation:(tid=76900, Title name=Hand) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[count,textSpan=(162-167)]	-Disambiguation:(tid=196470, Title name=Count) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[votes,textSpan=(171-176)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[counties,textSpan=(185-193)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Tallahassee' start in text:2 end in text: 13; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United States' start in text:15 end in text: 28; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'AFP' start in text:37 end in text: 40; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The Supreme Court in Florida' start in text:45 end in text: 73; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'The Supreme Court' start in text:45 end in text: 62; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Supreme Court in Florida' start in text:49 end in text: 73; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Supreme' start in text:49 end in text: 56; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Supreme Court' start in text:49 end in text: 62; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Court' start in text:57 end in text: 62; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Florida' start in text:66 end in text: 73; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'today' start in text:74 end in text: 79; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wednesday' start in text:80 end in text: 89; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'application' start in text:102 end in text: 113; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the state' start in text:117 end in text: 126; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'state' start in text:121 end in text: 126; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'authorities' start in text:129 end in text: 140; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the new' start in text:149 end in text: 156; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'hand' start in text:157 end in text: 161; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'count' start in text:162 end in text: 167; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'votes' start in text:171 end in text: 176; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'counties' start in text:185 end in text: 193; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

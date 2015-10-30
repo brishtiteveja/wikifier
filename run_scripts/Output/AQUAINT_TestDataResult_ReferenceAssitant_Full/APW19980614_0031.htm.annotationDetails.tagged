@@ -1,0 +1,456 @@
+<ANNOTATION>
+ <a class="wiki" href="http://en.wikipedia.org/wiki/Spirited" cat="">Spirited</a>  bidders snap up art seized from failed  <b>finance</b> firms<br><br>  <b>Paintings</b> and other art objects once displayed in elegant offices were snapped up this  <b>weekend</b> in   <a class="wiki" href="http://en.wikipedia.org/wiki/Thailand" cat="country">Thailand</a>    at an  auction   of  <b>assets</b> of collapsed   <b>financial firms</b>  ,  <a class="wiki" href="http://en.wikipedia.org/wiki/Media_of_Thailand" cat="list	medium">Thai media</a>  reported Sunday. <br><br> The three-day  <b>auction</b> of more than 1,000 items, which ended Sunday, was expected to bring in more than an initial estimate of 30 million   <b>baht</b>   (dlrs 697,000). <br><br> The paintings, sculptures and other art-related objects were seized by  <a class="wiki" href="http://en.wikipedia.org/wiki/Thailand" cat="country">Thailand</a> 's Financial  <b>Restructuring</b> Authority, a  <b>government agency</b> set up to   <b>liquidate</b>   the  <b>assets</b> of 56 finance companies which were shut down last year. <br><br> The closings were required by the   <a class="wiki" href="http://en.wikipedia.org/wiki/International_Monetary_Fund" cat="establishment	institution	economics	nation">International Monetary Fund</a>    as part of its dlrs 17.2 billion bailout program for the depressed   <a class="wiki" href="http://en.wikipedia.org/wiki/Economy_of_Thailand" cat="economy">Thai economy</a>   . The proceeds of the  <b>auction</b> will go to pay the  <b>debts</b> of the failed companies. <br><br> "The going prices have been very high, much higher than I expected,'' an  <b>art gallery</b> owner, Hongjorn Samae-ngamjaroen, was quoted as saying by the   <a class="wiki" href="http://en.wikipedia.org/wiki/Bangkok_Post" cat="newspaper">Bangkok Post</a>   . <br><br> An untitled  <b>painting</b> of a  <b>lotus</b> pond by the late Thawee Nandakwang was sold for 2.8 million  <b>baht</b> (dlrs 65,000), way above its starting bid of 400,000 baht (dlrs 9,300). <br><br> Prime Minister   <a class="wiki" href="http://en.wikipedia.org/wiki/Chuan_Leekpai" cat="recipient	person	politician	lawyer">Chuan Leekpai</a>    donated two of his sketches to the  <b>auction</b>, which was handled by   <a class="wiki" href="http://en.wikipedia.org/wiki/Christie's" cat="">Christies</a>   , the  <a class="wiki" href="http://en.wikipedia.org/wiki/United_Kingdom" cat="country	member	nation	state	template">British</a>   <b>auction house</b>. It was held at  <a class="wiki" href="http://en.wikipedia.org/wiki/Bangkok" cat="">Bangkok</a> 's   <a class="wiki" href="http://en.wikipedia.org/wiki/Queen_Sirikit_National_Convention_Center" cat="building	center">Queen Sirikit Natoinal Convention Center</a>  . <br><br>
+</ANNOTATION>
+*Entity:[Spirited,textSpan=(0-11)]	-Disambiguation:(tid=3658264, Title name=Spirited) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bidders,textSpan=(12-19)]	-Disambiguation:(tid=8586748, Title name=Bidding) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[art,textSpan=(28-31)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[failed,textSpan=(44-50)]	-Disambiguation:(tid=1400986, Title name=Polish–Ukrainian_War) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[finance,textSpan=(51-58)]	-Disambiguation:(tid=11162, Title name=Finance) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[firms,textSpan=(59-64)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Paintings,textSpan=(67-76)]	-Disambiguation:(tid=18580375, Title name=Painting) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[art objects,textSpan=(87-98)]	-Disambiguation:(tid=2583747, Title name=Work_of_art) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[art,textSpan=(87-90)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[objects,textSpan=(91-98)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[displayed,textSpan=(104-113)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[elegant,textSpan=(117-124)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[offices,textSpan=(125-132)]	-Disambiguation:(tid=382507, Title name=Office) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[snapped,textSpan=(138-145)]	-Disambiguation:(tid=11345, Title name=Snap_(American_and_Canadian_football)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[this weekend,textSpan=(149-161)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[weekend,textSpan=(154-161)]	-Disambiguation:(tid=2016347, Title name=Workweek_and_weekend) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Thailand,textSpan=(166-174)]	-Disambiguation:(tid=30128, Title name=Thailand) gold wikification:=Thailand isCorrectPrediction=Correct
+*Entity:[auction,textSpan=(184-191)]	-Disambiguation:*null* gold wikification:=Auction isCorrectPrediction=Incorrect
+*Entity:[assets,textSpan=(197-203)]	-Disambiguation:(tid=2390, Title name=Asset) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[financial firms,textSpan=(218-233)]	-Disambiguation:(tid=208836, Title name=Financial_institution) gold wikification:=Financial_institution isCorrectPrediction=Correct
+*Entity:[Thai,textSpan=(237-241)]	-Disambiguation:(tid=30128, Title name=Thailand) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Thai media,textSpan=(237-247)]	-Disambiguation:(tid=3244071, Title name=Media_of_Thailand) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[media,textSpan=(242-247)]	-Disambiguation:(tid=3244071, Title name=Media_of_Thailand) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sunday,textSpan=(257-263)]	-Disambiguation:(tid=54407, Title name=Sunday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[auction,textSpan=(282-289)]	-Disambiguation:(tid=62912, Title name=Auction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[more than,textSpan=(293-302)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1,000,textSpan=(303-308)]	-Disambiguation:(tid=34876, Title name=1000) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[items,textSpan=(309-314)]	-Disambiguation:(tid=254656, Title name=Item) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sunday,textSpan=(328-334)]	-Disambiguation:(tid=54407, Title name=Sunday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[expected,textSpan=(340-348)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bring,textSpan=(352-357)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[initial,textSpan=(374-381)]	-Disambiguation:(tid=4598001, Title name=Initial) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[estimate,textSpan=(382-390)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[baht,textSpan=(406-410)]	-Disambiguation:(tid=89761, Title name=Thai_baht) gold wikification:=Thai_baht isCorrectPrediction=Correct
+*Entity:[objects,textSpan=(480-487)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[seized,textSpan=(493-499)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Thailand,textSpan=(503-511)]	-Disambiguation:(tid=30128, Title name=Thailand) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Thailand's Financial Restructuring Authority,textSpan=(503-547)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Financial,textSpan=(514-523)]	-Disambiguation:(tid=11162, Title name=Finance) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Financial Restructuring Authority,textSpan=(514-547)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Restructuring,textSpan=(524-537)]	-Disambiguation:(tid=2374703, Title name=Restructuring) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Authority,textSpan=(538-547)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a government,textSpan=(549-561)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[government,textSpan=(551-561)]	-Disambiguation:(tid=12229, Title name=Government) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[government agency,textSpan=(551-568)]	-Disambiguation:(tid=489674, Title name=Government_agency) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[agency,textSpan=(562-568)]	-Disambiguation:(tid=489674, Title name=Government_agency) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[liquidate,textSpan=(580-589)]	-Disambiguation:(tid=565034, Title name=Liquidation) gold wikification:=Liquidation isCorrectPrediction=Correct
+*Entity:[assets,textSpan=(596-602)]	-Disambiguation:(tid=2390, Title name=Asset) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[56,textSpan=(606-608)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[finance companies,textSpan=(609-626)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[finance,textSpan=(609-616)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[companies,textSpan=(617-626)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[shut,textSpan=(638-642)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[last year,textSpan=(648-657)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[year,textSpan=(653-657)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[required,textSpan=(680-688)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[International Monetary Fund,textSpan=(697-724)]	-Disambiguation:(tid=15251, Title name=International_Monetary_Fund) gold wikification:=International_Monetary_Fund isCorrectPrediction=Correct
+*Entity:[17.2,textSpan=(747-751)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bailout,textSpan=(760-767)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[program,textSpan=(768-775)]	-Disambiguation:(tid=5783, Title name=Computer_program) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Thai economy,textSpan=(795-807)]	-Disambiguation:(tid=30133, Title name=Economy_of_Thailand) gold wikification:=Economy_of_Thailand isCorrectPrediction=Correct
+*Entity:[Thai,textSpan=(795-799)]	-Disambiguation:(tid=30128, Title name=Thailand) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[auction,textSpan=(831-838)]	-Disambiguation:(tid=62912, Title name=Auction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pay,textSpan=(850-853)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[debts,textSpan=(858-863)]	-Disambiguation:(tid=152835, Title name=Debt) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[failed,textSpan=(871-877)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[companies,textSpan=(878-887)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[high,textSpan=(925-929)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[higher,textSpan=(936-942)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[I,textSpan=(948-949)]	-Disambiguation:(tid=14778, Title name=I) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:['',textSpan=(959-961)]	-Disambiguation:(tid=10671108, Title name=Dirty_(film)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[art gallery,textSpan=(965-976)]	-Disambiguation:(tid=66076, Title name=Art_museum) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[art,textSpan=(965-968)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gallery owner,textSpan=(969-982)]	-Disambiguation:(tid=5961279, Title name=Art_dealer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gallery,textSpan=(969-976)]	-Disambiguation:(tid=66076, Title name=Art_museum) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[owner,textSpan=(977-982)]	-Disambiguation:(tid=213897, Title name=Ownership) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hongjorn Samae-ngamjaroen,textSpan=(984-1009)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[quoted,textSpan=(1015-1021)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bangkok Post,textSpan=(1040-1052)]	-Disambiguation:(tid=1307628, Title name=Bangkok_Post) gold wikification:=Bangkok_Post isCorrectPrediction=Correct
+*Entity:[An,textSpan=(1059-1061)]	-Disambiguation:(tid=343433, Title name=Emperor_An_of_Han) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[untitled,textSpan=(1062-1070)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[painting,textSpan=(1071-1079)]	-Disambiguation:(tid=18580375, Title name=Painting) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[lotus,textSpan=(1085-1090)]	-Disambiguation:(tid=1028614, Title name=Nelumbo_nucifera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the late,textSpan=(1099-1107)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[late,textSpan=(1103-1107)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Thawee Nandakwang,textSpan=(1108-1125)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sold,textSpan=(1130-1134)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[2.8,textSpan=(1139-1142)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[baht,textSpan=(1151-1155)]	-Disambiguation:(tid=89761, Title name=Thai_baht) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[starting,textSpan=(1185-1193)]	-Disambiguation:(tid=2091748, Title name=Starting_lineup) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bid,textSpan=(1194-1197)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Chuan Leekpai,textSpan=(1247-1260)]	-Disambiguation:(tid=1024311, Title name=Chuan_Leekpai) gold wikification:=Chuan_Leekpai isCorrectPrediction=Correct
+*Entity:[sketches,textSpan=(1282-1290)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[auction,textSpan=(1298-1305)]	-Disambiguation:(tid=62912, Title name=Auction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[handled,textSpan=(1317-1324)]	-Disambiguation:(tid=40988, Title name=Subroutine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Christies , the British,textSpan=(1329-1353)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Christies,textSpan=(1329-1338)]	-Disambiguation:(tid=155688, Title name=Christie's) gold wikification:=Christie's isCorrectPrediction=Correct
+*Entity:[British,textSpan=(1346-1353)]	-Disambiguation:(tid=31717, Title name=United_Kingdom) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[auction house,textSpan=(1354-1367)]	-Disambiguation:(tid=62912, Title name=Auction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[auction,textSpan=(1354-1361)]	-Disambiguation:(tid=62912, Title name=Auction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[house,textSpan=(1362-1367)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[It,textSpan=(1369-1371)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[held,textSpan=(1376-1380)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bangkok,textSpan=(1384-1391)]	-Disambiguation:(tid=56615, Title name=Bangkok) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bangkok's Queen Sirikit Natoinal Convention Center,textSpan=(1384-1435)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Queen Sirikit Natoinal Convention Center,textSpan=(1395-1435)]	-Disambiguation:(tid=2221039, Title name=Queen_Sirikit_National_Convention_Center) gold wikification:=Queen_Sirikit_National_Convention_Center isCorrectPrediction=Correct
+*Entity:[Sirikit,textSpan=(1401-1408)]	-Disambiguation:(tid=846986, Title name=Sirikit) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Natoinal Convention Center,textSpan=(1409-1435)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Spirited' start in text:0 end in text: 11; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'bidders' start in text:12 end in text: 19; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'art' start in text:28 end in text: 31; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'failed' start in text:44 end in text: 50; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'finance' start in text:51 end in text: 58; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'firms' start in text:59 end in text: 64; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Paintings' start in text:67 end in text: 76; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'art objects' start in text:87 end in text: 98; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'art' start in text:87 end in text: 90; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'objects' start in text:91 end in text: 98; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'displayed' start in text:104 end in text: 113; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'elegant' start in text:117 end in text: 124; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'offices' start in text:125 end in text: 132; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'snapped' start in text:138 end in text: 145; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'this weekend' start in text:149 end in text: 161; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'weekend' start in text:154 end in text: 161; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thailand' start in text:166 end in text: 174; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'auction' start in text:184 end in text: 191; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'assets' start in text:197 end in text: 203; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'financial firms' start in text:218 end in text: 233; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Thai' start in text:237 end in text: 241; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thai media' start in text:237 end in text: 247; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'media' start in text:242 end in text: 247; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sunday' start in text:257 end in text: 263; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'auction' start in text:282 end in text: 289; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'more than' start in text:293 end in text: 302; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1,000' start in text:303 end in text: 308; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'items' start in text:309 end in text: 314; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sunday' start in text:328 end in text: 334; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'expected' start in text:340 end in text: 348; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bring' start in text:352 end in text: 357; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'initial' start in text:374 end in text: 381; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'estimate' start in text:382 end in text: 390; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'baht' start in text:406 end in text: 410; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'objects' start in text:480 end in text: 487; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'seized' start in text:493 end in text: 499; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thailand' start in text:503 end in text: 511; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thailand's Financial Restructuring Authority' start in text:503 end in text: 547; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Financial' start in text:514 end in text: 523; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Financial Restructuring Authority' start in text:514 end in text: 547; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Restructuring' start in text:524 end in text: 537; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Authority' start in text:538 end in text: 547; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a government' start in text:549 end in text: 561; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'government' start in text:551 end in text: 561; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'government agency' start in text:551 end in text: 568; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'agency' start in text:562 end in text: 568; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'liquidate' start in text:580 end in text: 589; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'assets' start in text:596 end in text: 602; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '56' start in text:606 end in text: 608; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'finance companies' start in text:609 end in text: 626; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'finance' start in text:609 end in text: 616; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'companies' start in text:617 end in text: 626; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shut' start in text:638 end in text: 642; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'last year' start in text:648 end in text: 657; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'year' start in text:653 end in text: 657; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'required' start in text:680 end in text: 688; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'International Monetary Fund' start in text:697 end in text: 724; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '17.2' start in text:747 end in text: 751; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bailout' start in text:760 end in text: 767; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'program' start in text:768 end in text: 775; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thai economy' start in text:795 end in text: 807; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thai' start in text:795 end in text: 799; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'auction' start in text:831 end in text: 838; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pay' start in text:850 end in text: 853; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'debts' start in text:858 end in text: 863; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'failed' start in text:871 end in text: 877; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'companies' start in text:878 end in text: 887; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'high' start in text:925 end in text: 929; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'higher' start in text:936 end in text: 942; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'I' start in text:948 end in text: 949; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '''' start in text:959 end in text: 961; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'art gallery' start in text:965 end in text: 976; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'art' start in text:965 end in text: 968; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gallery owner' start in text:969 end in text: 982; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'gallery' start in text:969 end in text: 976; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'owner' start in text:977 end in text: 982; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hongjorn Samae-ngamjaroen' start in text:984 end in text: 1009; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'quoted' start in text:1015 end in text: 1021; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bangkok Post' start in text:1040 end in text: 1052; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'An' start in text:1059 end in text: 1061; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'untitled' start in text:1062 end in text: 1070; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'painting' start in text:1071 end in text: 1079; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'lotus' start in text:1085 end in text: 1090; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the late' start in text:1099 end in text: 1107; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'late' start in text:1103 end in text: 1107; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thawee Nandakwang' start in text:1108 end in text: 1125; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'sold' start in text:1130 end in text: 1134; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '2.8' start in text:1139 end in text: 1142; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'baht' start in text:1151 end in text: 1155; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'starting' start in text:1185 end in text: 1193; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bid' start in text:1194 end in text: 1197; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Chuan Leekpai' start in text:1247 end in text: 1260; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sketches' start in text:1282 end in text: 1290; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'auction' start in text:1298 end in text: 1305; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'handled' start in text:1317 end in text: 1324; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Christies , the British' start in text:1329 end in text: 1353; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Christies' start in text:1329 end in text: 1338; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'British' start in text:1346 end in text: 1353; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'auction house' start in text:1354 end in text: 1367; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'auction' start in text:1354 end in text: 1361; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'house' start in text:1362 end in text: 1367; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'It' start in text:1369 end in text: 1371; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'held' start in text:1376 end in text: 1380; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bangkok' start in text:1384 end in text: 1391; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bangkok's Queen Sirikit Natoinal Convention Center' start in text:1384 end in text: 1435; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Queen Sirikit Natoinal Convention Center' start in text:1395 end in text: 1435; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Sirikit' start in text:1401 end in text: 1408; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Natoinal Convention Center' start in text:1409 end in text: 1435; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+

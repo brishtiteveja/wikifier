@@ -1,0 +1,459 @@
+<ANNOTATION>
+     <a class="wiki" href="http://en.wikipedia.org/wiki/Malaysia" cat="country	state	nation	colony	member">MALAYSIA</a>   <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Port_Dickson" cat="place">PORT DICKSON</a> , Tues. -  Federal   and  State     <a class="wiki" href="http://en.wikipedia.org/wiki/Government_agency" cat="agency">Government agencies</a>   , given the task to undertake  economic   projects under the Development Programme for the Hardcore Poor ( <a class="wiki" href="http://en.wikipedia.org/wiki/Pharmacy_Practice_Research_Trust" cat="charity	dispute">PPRT</a> ), must ensure their successful  implementation  . <br><br>   <b>Rural</b>   Development Minister Datuk Annuar Musa said yesterday those responsible should closely monitor the implementation of the projects and ensure that the  allocation   provided by the  ministry   benefit the hardcore  poor   participants. <br><br> He said those responsible, including district officers, must personally  <b>check</b> on the progress of the projects being carried out. <br><br> "We don't  <b>want to</b> see projects as being a success on  <b>paper</b> but on  <b>inspection</b>, they don't show the desired results,'' he added. <br><br> According to him, it was the ministry's policy now that the   <b>minister</b>  ,  <b>deputy minister</b>,  <b>parliamentary secretary</b>,  <b>director-general</b> and other senior  <b>ministry</b> officials had to visit the  <a class="wiki" href="http://en.wikipedia.org/wiki/Pharmacy_Practice_Research_Trust" cat="charity	dispute">PPRT</a>  projects to see what was happening to the allocation given by the Government. <br><br> Annuar said this after visiting a   <b>mussel</b>   rearing project in Kuala   <a class="wiki" href="http://en.wikipedia.org/wiki/Lukut" cat="place">Lukut</a>    today as part of his day-long visit to several  <a class="wiki" href="http://en.wikipedia.org/wiki/Pharmacy_Practice_Research_Trust" cat="charity	dispute">PPRT</a>  projects in   <a class="wiki" href="http://en.wikipedia.org/wiki/Negeri_Sembilan" cat="state">Negri Sembilan</a>   . <br><br> Present were  <a class="wiki" href="http://en.wikipedia.org/wiki/Chembong" cat="place">Chembong</a>   <a class="wiki" href="http://en.wikipedia.org/wiki/New_York_State_Assembly" cat="house">Assemblyman</a>  Firdaus Harun and   <a class="wiki" href="http://en.wikipedia.org/wiki/Port_Dickson" cat="place">Port Dickson</a>    district officer Hassan Nawawi Abdul Rahman. <br><br> Annuar added that the implementing agencies should also conduct in-depth  studies  of the projects proposed to ensure their viability. <br><br>
+</ANNOTATION>
+*Entity:[MALAYSIA,textSpan=(4-12)]	-Disambiguation:(tid=3607937, Title name=Malaysia) gold wikification:=Malaysia isCorrectPrediction=Correct
+*Entity:[MALAYSIA PORT DICKSON, Tues,textSpan=(4-35)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[MALAYSIA,textSpan=(0-12)]	-Disambiguation:(tid=3607937, Title name=Malaysia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[PORT DICKSON,textSpan=(17-29)]	-Disambiguation:(tid=1732134, Title name=Port_Dickson) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[PORT,textSpan=(17-21)]	-Disambiguation:(tid=2477646, Title name=Jeff_Jahn) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[PORT DICKSON, Tues,textSpan=(17-35)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[DICKSON,textSpan=(22-29)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Tues.,textSpan=(31-36)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Federal and State Government,textSpan=(40-74)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Federal,textSpan=(40-47)]	-Disambiguation:*null* gold wikification:=Federation isCorrectPrediction=Incorrect
+*Entity:[State,textSpan=(55-60)]	-Disambiguation:*null* gold wikification:=State isCorrectPrediction=Incorrect
+*Entity:[Government agencies,textSpan=(64-83)]	-Disambiguation:(tid=489674, Title name=Government_agency) gold wikification:=Government_agency isCorrectPrediction=Correct
+*Entity:[the task,textSpan=(93-101)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[task,textSpan=(97-101)]	-Disambiguation:(tid=314110, Title name=Task) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[economic,textSpan=(116-124)]	-Disambiguation:*null* gold wikification:=Economy isCorrectPrediction=Incorrect
+*Entity:[Development Programme for the Hardcore Poor,textSpan=(146-189)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Development Programme,textSpan=(146-167)]	-Disambiguation:(tid=82256, Title name=United_Nations_Development_Programme) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Development,textSpan=(146-157)]	-Disambiguation:(tid=385745, Title name=International_development) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Programme,textSpan=(158-167)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hardcore Poor,textSpan=(176-189)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[PPRT,textSpan=(191-195)]	-Disambiguation:(tid=3658264, Title name=Pharmacy_Practice_Research_Trust) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ensure,textSpan=(203-209)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[implementation,textSpan=(228-242)]	-Disambiguation:(tid=407704, Title name=Implementation) gold wikification:=Implementation isCorrectPrediction=Correct
+*Entity:[Rural,textSpan=(250-255)]	-Disambiguation:(tid=212614, Title name=Rural_area) gold wikification:=Rural_area isCorrectPrediction=Correct
+*Entity:[Datuk Annuar Musa,textSpan=(279-296)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[yesterday,textSpan=(302-311)]	-Disambiguation:(tid=15848, Title name=July_3) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[those responsible,textSpan=(312-329)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[responsible,textSpan=(318-329)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[monitor,textSpan=(345-352)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[implementation,textSpan=(357-371)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the projects,textSpan=(375-387)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[projects,textSpan=(379-387)]	-Disambiguation:(tid=160483, Title name=Project) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[allocation,textSpan=(409-419)]	-Disambiguation:*null* gold wikification:=Resource_allocation isCorrectPrediction=Incorrect
+*Entity:[ministry,textSpan=(439-447)]	-Disambiguation:*null* gold wikification:=Ministry_(government_department) isCorrectPrediction=Incorrect
+*Entity:[poor,textSpan=(472-476)]	-Disambiguation:*null* gold wikification:=Poverty isCorrectPrediction=Incorrect
+*Entity:[He,textSpan=(496-498)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[those responsible,textSpan=(504-521)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[responsible,textSpan=(510-521)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[district,textSpan=(533-541)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[officers,textSpan=(542-550)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[personally,textSpan=(557-567)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[check,textSpan=(568-573)]	-Disambiguation:(tid=1267511, Title name=Check_(chess)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[progress,textSpan=(581-589)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the projects,textSpan=(593-605)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[projects,textSpan=(597-605)]	-Disambiguation:(tid=239038, Title name=Construction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[carried,textSpan=(612-619)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[want,textSpan=(638-642)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[want to,textSpan=(638-645)]	-Disambiguation:(tid=3343584, Title name=Want) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[projects,textSpan=(650-658)]	-Disambiguation:(tid=160483, Title name=Project) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[success,textSpan=(670-677)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[paper,textSpan=(681-686)]	-Disambiguation:(tid=16861908, Title name=Paper) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[inspection,textSpan=(694-704)]	-Disambiguation:(tid=467888, Title name=Inspection) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[desired,textSpan=(726-733)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[results,textSpan=(734-741)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:['',textSpan=(742-744)]	-Disambiguation:(tid=10671108, Title name=Dirty_(film)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the ministry,textSpan=(783-795)]	-Disambiguation:(tid=50405, Title name=Clergy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ministry,textSpan=(787-795)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[policy,textSpan=(798-804)]	-Disambiguation:(tid=375091, Title name=Policy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[minister,textSpan=(819-827)]	-Disambiguation:(tid=739237, Title name=Minister_(government)) gold wikification:=Minister_(government) isCorrectPrediction=Correct
+*Entity:[deputy minister,textSpan=(831-846)]	-Disambiguation:(tid=908538, Title name=Deputy_minister_(Canada)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[deputy,textSpan=(831-837)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[minister,textSpan=(838-846)]	-Disambiguation:(tid=739237, Title name=Minister_(government)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[parliamentary,textSpan=(848-861)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[parliamentary secretary,textSpan=(848-871)]	-Disambiguation:(tid=416318, Title name=Parliamentary_Secretary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[secretary,textSpan=(862-871)]	-Disambiguation:(tid=739237, Title name=Minister_(government)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[director-general,textSpan=(873-889)]	-Disambiguation:(tid=1434447, Title name=Director-general) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[senior,textSpan=(900-906)]	-Disambiguation:(tid=1066040, Title name=Twelfth_grade) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ministry,textSpan=(907-915)]	-Disambiguation:(tid=859412, Title name=Ministry_(collective_executive)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[officials,textSpan=(916-925)]	-Disambiguation:(tid=725182, Title name=Official) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[had to,textSpan=(926-932)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[visit,textSpan=(933-938)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[PPRT,textSpan=(943-947)]	-Disambiguation:(tid=3658264, Title name=Pharmacy_Practice_Research_Trust) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[projects,textSpan=(948-956)]	-Disambiguation:(tid=160483, Title name=Project) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[happening,textSpan=(973-982)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[allocation,textSpan=(990-1000)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the Government,textSpan=(1010-1024)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Government,textSpan=(1014-1024)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Annuar,textSpan=(1029-1035)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[mussel,textSpan=(1064-1070)]	-Disambiguation:(tid=144156, Title name=Mussel) gold wikification:=Mussel isCorrectPrediction=Correct
+*Entity:[Lukut,textSpan=(1099-1104)]	-Disambiguation:(tid=6127743, Title name=Lukut) gold wikification:=Lukut isCorrectPrediction=Correct
+*Entity:[today,textSpan=(1107-1112)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[visit,textSpan=(1137-1142)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[PPRT,textSpan=(1154-1158)]	-Disambiguation:(tid=3658264, Title name=Pharmacy_Practice_Research_Trust) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[projects,textSpan=(1159-1167)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Negri,textSpan=(1172-1177)]	-Disambiguation:(tid=1905328, Title name=Negri) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Negri Sembilan,textSpan=(1172-1186)]	-Disambiguation:(tid=376437, Title name=Negeri_Sembilan) gold wikification:=Negeri_Sembilan isCorrectPrediction=Correct
+*Entity:[Sembilan,textSpan=(1178-1186)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Present,textSpan=(1193-1200)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Chembong Assemblyman Firdaus Harun and Port Dickson,textSpan=(1206-1258)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Chembong Assemblyman Firdaus Harun,textSpan=(1206-1240)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Chembong Assemblyman,textSpan=(1206-1226)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Chembong,textSpan=(1206-1214)]	-Disambiguation:(tid=3802282, Title name=Chembong) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Assemblyman,textSpan=(1215-1226)]	-Disambiguation:(tid=581663, Title name=New_York_State_Assembly) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Firdaus Harun,textSpan=(1227-1240)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Firdaus,textSpan=(1227-1234)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Harun,textSpan=(1235-1240)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Port Dickson,textSpan=(1246-1258)]	-Disambiguation:(tid=1732134, Title name=Port_Dickson) gold wikification:=Port_Dickson isCorrectPrediction=Correct
+*Entity:[Hassan Nawawi Abdul Rahman,textSpan=(1278-1304)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Annuar,textSpan=(1309-1315)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[implementing,textSpan=(1331-1343)]	-Disambiguation:(tid=407704, Title name=Implementation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[agencies,textSpan=(1344-1352)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[conduct,textSpan=(1365-1372)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[studies,textSpan=(1383-1390)]	-Disambiguation:*null* gold wikification:=Research isCorrectPrediction=Incorrect
+*Entity:[the projects,textSpan=(1395-1407)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[projects,textSpan=(1399-1407)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ensure,textSpan=(1420-1426)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[viability,textSpan=(1433-1442)]	-Disambiguation:(tid=1711727, Title name=Viability) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'MALAYSIA' start in text:4 end in text: 12; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'MALAYSIA PORT DICKSON, Tues' start in text:4 end in text: 35; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'MALAYSIA' start in text:0 end in text: 12; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'PORT DICKSON' start in text:17 end in text: 29; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'PORT' start in text:17 end in text: 21; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'PORT DICKSON, Tues' start in text:17 end in text: 35; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'DICKSON' start in text:22 end in text: 29; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Tues.' start in text:31 end in text: 36; Entity types: NER,LOC,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Federal and State Government' start in text:40 end in text: 74; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Federal' start in text:40 end in text: 47; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'State' start in text:55 end in text: 60; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Government agencies' start in text:64 end in text: 83; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the task' start in text:93 end in text: 101; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'task' start in text:97 end in text: 101; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'economic' start in text:116 end in text: 124; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Development Programme for the Hardcore Poor' start in text:146 end in text: 189; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Development Programme' start in text:146 end in text: 167; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Development' start in text:146 end in text: 157; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Programme' start in text:158 end in text: 167; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hardcore Poor' start in text:176 end in text: 189; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'PPRT' start in text:191 end in text: 195; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'ensure' start in text:203 end in text: 209; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'implementation' start in text:228 end in text: 242; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Rural' start in text:250 end in text: 255; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Datuk Annuar Musa' start in text:279 end in text: 296; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'yesterday' start in text:302 end in text: 311; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'those responsible' start in text:312 end in text: 329; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'responsible' start in text:318 end in text: 329; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'monitor' start in text:345 end in text: 352; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'implementation' start in text:357 end in text: 371; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the projects' start in text:375 end in text: 387; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'projects' start in text:379 end in text: 387; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'allocation' start in text:409 end in text: 419; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ministry' start in text:439 end in text: 447; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'poor' start in text:472 end in text: 476; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'He' start in text:496 end in text: 498; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'those responsible' start in text:504 end in text: 521; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'responsible' start in text:510 end in text: 521; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'district' start in text:533 end in text: 541; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'officers' start in text:542 end in text: 550; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'personally' start in text:557 end in text: 567; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'check' start in text:568 end in text: 573; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'progress' start in text:581 end in text: 589; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the projects' start in text:593 end in text: 605; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'projects' start in text:597 end in text: 605; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'carried' start in text:612 end in text: 619; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'want' start in text:638 end in text: 642; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'want to' start in text:638 end in text: 645; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'projects' start in text:650 end in text: 658; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'success' start in text:670 end in text: 677; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'paper' start in text:681 end in text: 686; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'inspection' start in text:694 end in text: 704; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'desired' start in text:726 end in text: 733; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'results' start in text:734 end in text: 741; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '''' start in text:742 end in text: 744; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the ministry' start in text:783 end in text: 795; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ministry' start in text:787 end in text: 795; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'policy' start in text:798 end in text: 804; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'minister' start in text:819 end in text: 827; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'deputy minister' start in text:831 end in text: 846; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'deputy' start in text:831 end in text: 837; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'minister' start in text:838 end in text: 846; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'parliamentary' start in text:848 end in text: 861; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'parliamentary secretary' start in text:848 end in text: 871; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'secretary' start in text:862 end in text: 871; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'director-general' start in text:873 end in text: 889; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'senior' start in text:900 end in text: 906; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ministry' start in text:907 end in text: 915; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'officials' start in text:916 end in text: 925; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'had to' start in text:926 end in text: 932; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'visit' start in text:933 end in text: 938; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'PPRT' start in text:943 end in text: 947; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'projects' start in text:948 end in text: 956; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'happening' start in text:973 end in text: 982; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'allocation' start in text:990 end in text: 1000; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the Government' start in text:1010 end in text: 1024; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Government' start in text:1014 end in text: 1024; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Annuar' start in text:1029 end in text: 1035; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'mussel' start in text:1064 end in text: 1070; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lukut' start in text:1099 end in text: 1104; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'today' start in text:1107 end in text: 1112; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'visit' start in text:1137 end in text: 1142; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'PPRT' start in text:1154 end in text: 1158; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'projects' start in text:1159 end in text: 1167; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Negri' start in text:1172 end in text: 1177; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Negri Sembilan' start in text:1172 end in text: 1186; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sembilan' start in text:1178 end in text: 1186; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Present' start in text:1193 end in text: 1200; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Chembong Assemblyman Firdaus Harun and Port Dickson' start in text:1206 end in text: 1258; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Chembong Assemblyman Firdaus Harun' start in text:1206 end in text: 1240; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Chembong Assemblyman' start in text:1206 end in text: 1226; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Chembong' start in text:1206 end in text: 1214; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Assemblyman' start in text:1215 end in text: 1226; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Firdaus Harun' start in text:1227 end in text: 1240; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Firdaus' start in text:1227 end in text: 1234; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Harun' start in text:1235 end in text: 1240; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Port Dickson' start in text:1246 end in text: 1258; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hassan Nawawi Abdul Rahman' start in text:1278 end in text: 1304; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Annuar' start in text:1309 end in text: 1315; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'implementing' start in text:1331 end in text: 1343; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'agencies' start in text:1344 end in text: 1352; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'conduct' start in text:1365 end in text: 1372; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'studies' start in text:1383 end in text: 1390; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the projects' start in text:1395 end in text: 1407; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'projects' start in text:1399 end in text: 1407; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ensure' start in text:1420 end in text: 1426; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'viability' start in text:1433 end in text: 1442; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+
