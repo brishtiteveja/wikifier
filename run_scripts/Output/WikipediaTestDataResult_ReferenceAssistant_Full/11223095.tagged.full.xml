@@ -1,0 +1,3856 @@
+<WikifierOutput>
+<InputFilename>
+11223095
+</InputFilename>
+<InputText>
+Dover is a   residential   neighbourhood in the south-east quadrant of   Calgary  ,   Alberta  . It is bounded by 26 Avenue S to the north, Peigan Trail to the south, 24 Street and   Deerfoot trail   to the west and 36 Street E to the east. The &apos;&apos;Inglewood   golf course  &apos;&apos;, developed in the   Bow River   valley, borders the community to the west.
+The area was annexed to the City of Calgary in 1961, and Dover was established in 1971. It is represented in the   Calgary City Council   by Ward 9   Alderman   Joe Ceci.
+The   postal code   in this area is   T2B  .
+In 2006 the neighbourhood had a population of 10,444. Residents in this community had a   median household income   of   $  43,875 in 2000, and there were 23.9% low income residents living in the neighborhood. As of 2000, 15.5% of the residents were   immigrant  s. A proportion of 29.4% of the buildings were   condominium  s or   apartment  s, and 32.8% of the housing was used for   renting  .
+The community is served by Harold W. Riley Elementary, Ian Bazalgette Junior High, Valley View Elementary and West Dover Elementary   public school  s as well as by Holy Cross Elementary  &quot;  Junior High and Blessed Damien Elementary (catholic schools).
+
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Dover</EntitySurfaceForm>
+	<EntityTextStart>0</EntityTextStart>
+	<EntityTextEnd>5</EntityTextEnd>
+	<LinkerScore>-0.1108650795735856</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dover</WikiTitle>
+		<WikiTitleID>40419</WikiTitleID>
+		<RankerScore>0.4369818605367711</RankerScore>
+		<Attributes>port	crossing	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dover</WikiTitle> <WikiTitleID>40419</WikiTitleID> <RankerScore>0.4369818605367711</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover,_Delaware</WikiTitle> <WikiTitleID>57694</WikiTitleID> <RankerScore>0.06647441527904925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover,_New_Hampshire</WikiTitle> <WikiTitleID>124925</WikiTitleID> <RankerScore>0.04276432301286943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover_International_Speedway</WikiTitle> <WikiTitleID>682985</WikiTitleID> <RankerScore>0.026692905951253548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover,_New_Jersey</WikiTitle> <WikiTitleID>125568</WikiTitleID> <RankerScore>0.026692905951253548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>1829797</WikiTitleID> <RankerScore>0.026692905951253548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover,_Massachusetts</WikiTitle> <WikiTitleID>375658</WikiTitleID> <RankerScore>0.026692905951253548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover,_Ohio</WikiTitle> <WikiTitleID>129890</WikiTitleID> <RankerScore>0.026692905951253548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover_Publications</WikiTitle> <WikiTitleID>807056</WikiTitleID> <RankerScore>0.026692905951253548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover,_Singapore</WikiTitle> <WikiTitleID>2032834</WikiTitleID> <RankerScore>0.026692905951253548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover_(band)</WikiTitle> <WikiTitleID>812801</WikiTitleID> <RankerScore>0.026692905951253548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover,_Tennessee</WikiTitle> <WikiTitleID>135371</WikiTitleID> <RankerScore>0.026692905951253548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover_Priory_railway_station</WikiTitle> <WikiTitleID>1739040</WikiTitleID> <RankerScore>0.026692905951253548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover,_Pennsylvania</WikiTitle> <WikiTitleID>134227</WikiTitleID> <RankerScore>0.026692905951253548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover_(NJT_station)</WikiTitle> <WikiTitleID>5816657</WikiTitleID> <RankerScore>0.026692905951253548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover_District</WikiTitle> <WikiTitleID>500362</WikiTitleID> <RankerScore>0.026692905951253548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover,_Oklahoma</WikiTitle> <WikiTitleID>130290</WikiTitleID> <RankerScore>0.026692905951253548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover_Castle</WikiTitle> <WikiTitleID>258933</WikiTitleID> <RankerScore>0.026692905951253548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover_F.C.</WikiTitle> <WikiTitleID>13002979</WikiTitleID> <RankerScore>0.026692905951253548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover,_Vermont</WikiTitle> <WikiTitleID>137428</WikiTitleID> <RankerScore>0.026692905951253548</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>south-east</EntitySurfaceForm>
+	<EntityTextStart>48</EntityTextStart>
+	<EntityTextEnd>58</EntityTextEnd>
+	<LinkerScore>-1.9515738218906908</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>South_Wales</WikiTitle>
+		<WikiTitleID>832809</WikiTitleID>
+		<RankerScore>0.20314700287595006</RankerScore>
+		<Attributes>subdivision	region</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>South_Wales</WikiTitle> <WikiTitleID>832809</WikiTitleID> <RankerScore>0.20314700287595006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_East_England</WikiTitle> <WikiTitleID>52926</WikiTitleID> <RankerScore>0.10904420360732983</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boxing_the_compass</WikiTitle> <WikiTitleID>339183</WikiTitleID> <RankerScore>0.08830789969651696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cardinal_direction</WikiTitle> <WikiTitleID>200085</WikiTitleID> <RankerScore>0.08830789969651696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>SE_postcode_area</WikiTitle> <WikiTitleID>1429513</WikiTitleID> <RankerScore>0.08830789969651696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southeastern_United_States</WikiTitle> <WikiTitleID>816925</WikiTitleID> <RankerScore>0.08830789969651696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amsterdam-Zuidoost</WikiTitle> <WikiTitleID>1365533</WikiTitleID> <RankerScore>0.1579613953376183</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southeast</WikiTitle> <WikiTitleID>768388</WikiTitleID> <RankerScore>0.08830789969651696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southern_United_States</WikiTitle> <WikiTitleID>179553</WikiTitleID> <RankerScore>0.08830789969651696</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>quadrant</EntitySurfaceForm>
+	<EntityTextStart>59</EntityTextStart>
+	<EntityTextEnd>67</EntityTextEnd>
+	<LinkerScore>-0.6644208980567252</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Quadrant</WikiTitle>
+		<WikiTitleID>513405</WikiTitleID>
+		<RankerScore>0.5478836401670871</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Quadrant</WikiTitle> <WikiTitleID>513405</WikiTitleID> <RankerScore>0.5478836401670871</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Quadrant_(instrument)</WikiTitle> <WikiTitleID>13352174</WikiTitleID> <RankerScore>0.22887000025459528</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Quadrant_(architecture)</WikiTitle> <WikiTitleID>13771636</WikiTitleID> <RankerScore>0.04986283669164583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cartesian_coordinate_system</WikiTitle> <WikiTitleID>7706</WikiTitleID> <RankerScore>0.04986283669164583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Circular_sector</WikiTitle> <WikiTitleID>1967249</WikiTitleID> <RankerScore>0.07365784950338015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Galactic_quadrant</WikiTitle> <WikiTitleID>381328</WikiTitleID> <RankerScore>0.04986283669164583</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Calgary</EntitySurfaceForm>
+	<EntityTextStart>73</EntityTextStart>
+	<EntityTextEnd>80</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Calgary</WikiTitle>
+		<WikiTitleID>15895358</WikiTitleID>
+		<RankerScore>0.9999128547745151</RankerScore>
+		<Attributes>place	post	city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Calgary</WikiTitle> <WikiTitleID>15895358</WikiTitleID> <RankerScore>0.9999128547745151</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary_(provincial_electoral_district)</WikiTitle> <WikiTitleID>1879843</WikiTitleID> <RankerScore>2.6911200046427743E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary_Flames</WikiTitle> <WikiTitleID>73131</WikiTitleID> <RankerScore>2.6633612048669468E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary_Stampeders</WikiTitle> <WikiTitleID>254169</WikiTitleID> <RankerScore>2.6633612048669468E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary_(electoral_district)</WikiTitle> <WikiTitleID>1787994</WikiTitleID> <RankerScore>2.6633612048669468E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary_(N.W.T._electoral_district)</WikiTitle> <WikiTitleID>6313152</WikiTitleID> <RankerScore>2.6633612048669468E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary_Roughnecks</WikiTitle> <WikiTitleID>246410</WikiTitleID> <RankerScore>2.6633612048669468E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary_International_Airport</WikiTitle> <WikiTitleID>293781</WikiTitleID> <RankerScore>1.495688495560961E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Calgary</WikiTitle> <WikiTitleID>89668</WikiTitleID> <RankerScore>2.6633612048669468E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Olympic_Oval</WikiTitle> <WikiTitleID>444801</WikiTitleID> <RankerScore>2.6633612048669468E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary,_Mull</WikiTitle> <WikiTitleID>1058251</WikiTitleID> <RankerScore>2.6633612048669468E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_Winter_Olympics</WikiTitle> <WikiTitleID>187504</WikiTitleID> <RankerScore>2.6633612048669468E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CKAL-DT</WikiTitle> <WikiTitleID>665229</WikiTitleID> <RankerScore>2.6633612048669468E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>C-Train</WikiTitle> <WikiTitleID>742201</WikiTitleID> <RankerScore>2.6633612048669468E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anglican_Diocese_of_Calgary</WikiTitle> <WikiTitleID>5750058</WikiTitleID> <RankerScore>2.6633612048669468E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Diocese_of_Calgary</WikiTitle> <WikiTitleID>5966088</WikiTitleID> <RankerScore>2.6633612048669468E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary_Cannons</WikiTitle> <WikiTitleID>4045717</WikiTitleID> <RankerScore>2.6633612048669468E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_Olympic_Park_bobsleigh,_luge,_and_skeleton_track</WikiTitle> <WikiTitleID>15690379</WikiTitleID> <RankerScore>2.6633612048669468E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary_Mustangs</WikiTitle> <WikiTitleID>1019883</WikiTitleID> <RankerScore>2.6633612048669468E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary-West</WikiTitle> <WikiTitleID>1768046</WikiTitleID> <RankerScore>2.6633612048669468E-6</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Alberta</EntitySurfaceForm>
+	<EntityTextStart>86</EntityTextStart>
+	<EntityTextEnd>93</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Alberta</WikiTitle>
+		<WikiTitleID>717</WikiTitleID>
+		<RankerScore>0.9995313248555306</RankerScore>
+		<Attributes>state	province</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Alberta</WikiTitle> <WikiTitleID>717</WikiTitleID> <RankerScore>0.9995313248555306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Alberta</WikiTitle> <WikiTitleID>242057</WikiTitleID> <RankerScore>1.7956683997720014E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alberta,_Virginia</WikiTitle> <WikiTitleID>137522</WikiTitleID> <RankerScore>2.3349060482541484E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>District_of_Alberta</WikiTitle> <WikiTitleID>2401036</WikiTitleID> <RankerScore>1.5632896706447287E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legislative_Assembly_of_Alberta</WikiTitle> <WikiTitleID>664014</WikiTitleID> <RankerScore>1.5632896706447287E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alberta,_Michigan</WikiTitle> <WikiTitleID>1360505</WikiTitleID> <RankerScore>1.5632896706447287E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coat_of_arms_of_Alberta</WikiTitle> <WikiTitleID>472403</WikiTitleID> <RankerScore>1.5632896706447287E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alberta_(song)</WikiTitle> <WikiTitleID>1333870</WikiTitleID> <RankerScore>1.5632896706447287E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alberta,_Minnesota</WikiTitle> <WikiTitleID>121872</WikiTitleID> <RankerScore>1.5632896706447287E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Association_of_Alberta</WikiTitle> <WikiTitleID>458469</WikiTitleID> <RankerScore>1.5632896706447287E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alberta_Film_Ratings</WikiTitle> <WikiTitleID>11407147</WikiTitleID> <RankerScore>1.5632896706447287E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alberta_Williams_King</WikiTitle> <WikiTitleID>1417801</WikiTitleID> <RankerScore>1.5632896706447287E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monarchy_in_Alberta</WikiTitle> <WikiTitleID>8926825</WikiTitleID> <RankerScore>1.5632896706447287E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pigeon_Lake_(Alberta)</WikiTitle> <WikiTitleID>6919836</WikiTitleID> <RankerScore>1.5632896706447287E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HMY_Alberta</WikiTitle> <WikiTitleID>3701350</WikiTitleID> <RankerScore>1.5632896706447287E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alberta_(singer)</WikiTitle> <WikiTitleID>12098840</WikiTitleID> <RankerScore>1.5632896706447287E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Geography_of_Alberta</WikiTitle> <WikiTitleID>370543</WikiTitleID> <RankerScore>1.5632896706447287E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communist_Party_–_Alberta</WikiTitle> <WikiTitleID>1881418</WikiTitleID> <RankerScore>1.5632896706447287E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Alberta_senators</WikiTitle> <WikiTitleID>2089066</WikiTitleID> <RankerScore>1.5632896706447287E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Alberta</WikiTitle> <WikiTitleID>1726029</WikiTitleID> <RankerScore>1.5632896706447287E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>It</EntitySurfaceForm>
+	<EntityTextStart>97</EntityTextStart>
+	<EntityTextEnd>99</EntityTextEnd>
+	<LinkerScore>-1.0770014237559828</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>It_(1990_film)</WikiTitle>
+		<WikiTitleID>685938</WikiTitleID>
+		<RankerScore>0.43232773820372045</RankerScore>
+		<Attributes>film	novel	movie</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>It_(novel)</WikiTitle> <WikiTitleID>271590</WikiTitleID> <RankerScore>0.22174733564826724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(1990_film)</WikiTitle> <WikiTitleID>685938</WikiTitleID> <RankerScore>0.43232773820372045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(1927_film)</WikiTitle> <WikiTitleID>271588</WikiTitleID> <RankerScore>0.11502939343900262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(album)</WikiTitle> <WikiTitleID>557662</WikiTitleID> <RankerScore>0.028861941588626202</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It</WikiTitle> <WikiTitleID>74821</WikiTitleID> <RankerScore>0.028861941588626202</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Phish_festivals</WikiTitle> <WikiTitleID>4160240</WikiTitleID> <RankerScore>0.028861941588626202</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_language</WikiTitle> <WikiTitleID>14708</WikiTitleID> <RankerScore>0.028861941588626202</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(2004_film)</WikiTitle> <WikiTitleID>4710990</WikiTitleID> <RankerScore>0.028861941588626202</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_girl</WikiTitle> <WikiTitleID>2199811</WikiTitleID> <RankerScore>0.028861941588626202</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ordinary_People</WikiTitle> <WikiTitleID>106335</WikiTitleID> <RankerScore>0.028861941588626202</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tag_(game)</WikiTitle> <WikiTitleID>536639</WikiTitleID> <RankerScore>0.028861941588626202</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>bounded</EntitySurfaceForm>
+	<EntityTextStart>103</EntityTextStart>
+	<EntityTextEnd>110</EntityTextEnd>
+	<LinkerScore>-1.5893898427379693</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bounded_function</WikiTitle>
+		<WikiTitleID>311509</WikiTitleID>
+		<RankerScore>0.1810104157476446</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bounded_function</WikiTitle> <WikiTitleID>311509</WikiTitleID> <RankerScore>0.1810104157476446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bounded_set</WikiTitle> <WikiTitleID>48258</WikiTitleID> <RankerScore>0.1670364868646379</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boundedness</WikiTitle> <WikiTitleID>1504642</WikiTitleID> <RankerScore>0.12716097812203828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bounded_operator</WikiTitle> <WikiTitleID>455961</WikiTitleID> <RankerScore>0.043732676605473274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bounded_set_(topological_vector_space)</WikiTitle> <WikiTitleID>1789812</WikiTitleID> <RankerScore>0.043732676605473274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metric_space</WikiTitle> <WikiTitleID>20018</WikiTitleID> <RankerScore>0.043732676605473274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operator_norm</WikiTitle> <WikiTitleID>246722</WikiTitleID> <RankerScore>0.043732676605473274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bounded_rationality</WikiTitle> <WikiTitleID>70400</WikiTitleID> <RankerScore>0.043732676605473274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_fess</WikiTitle> <WikiTitleID>2076857</WikiTitleID> <RankerScore>0.043732676605473274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Urban_growth_boundary</WikiTitle> <WikiTitleID>48020</WikiTitleID> <RankerScore>0.043732676605473274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Border</WikiTitle> <WikiTitleID>247613</WikiTitleID> <RankerScore>0.043732676605473274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_and_lower_bounds</WikiTitle> <WikiTitleID>42693</WikiTitleID> <RankerScore>0.043732676605473274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lattice_(order)</WikiTitle> <WikiTitleID>469304</WikiTitleID> <RankerScore>0.043732676605473274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bounded_variation</WikiTitle> <WikiTitleID>330673</WikiTitleID> <RankerScore>0.043732676605473274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boundary_(topology)</WikiTitle> <WikiTitleID>72824</WikiTitleID> <RankerScore>0.043732676605473274</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>26</EntitySurfaceForm>
+	<EntityTextStart>114</EntityTextStart>
+	<EntityTextEnd>116</EntityTextEnd>
+	<LinkerScore>-2.4820475211965536</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>26</WikiTitle>
+		<WikiTitleID>34580</WikiTitleID>
+		<RankerScore>0.14310547851360683</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>26</WikiTitle> <WikiTitleID>34580</WikiTitleID> <RankerScore>0.14310547851360683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_26</WikiTitle> <WikiTitleID>8360</WikiTitleID> <RankerScore>0.12359356827344349</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>January_26</WikiTitle> <WikiTitleID>15791</WikiTitleID> <RankerScore>0.038812757398079246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_26</WikiTitle> <WikiTitleID>19648</WikiTitleID> <RankerScore>0.07348407744560254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>November_26</WikiTitle> <WikiTitleID>21581</WikiTitleID> <RankerScore>0.038812757398079246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>October_26</WikiTitle> <WikiTitleID>22403</WikiTitleID> <RankerScore>0.038812757398079246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>August_26</WikiTitle> <WikiTitleID>6048708</WikiTitleID> <RankerScore>0.038812757398079246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>July_26</WikiTitle> <WikiTitleID>15892</WikiTitleID> <RankerScore>0.038812757398079246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>September_26</WikiTitle> <WikiTitleID>28178</WikiTitleID> <RankerScore>0.038812757398079246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_26</WikiTitle> <WikiTitleID>20427</WikiTitleID> <RankerScore>0.038812757398079246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>June_26</WikiTitle> <WikiTitleID>15800</WikiTitleID> <RankerScore>0.038812757398079246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>February_26</WikiTitle> <WikiTitleID>11141</WikiTitleID> <RankerScore>0.038812757398079246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>26_(number)</WikiTitle> <WikiTitleID>362205</WikiTitleID> <RankerScore>0.038812757398079246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_26</WikiTitle> <WikiTitleID>1261</WikiTitleID> <RankerScore>0.038812757398079246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1926</WikiTitle> <WikiTitleID>34609</WikiTitleID> <RankerScore>0.038812757398079246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1826</WikiTitle> <WikiTitleID>34597</WikiTitleID> <RankerScore>0.038812757398079246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_England_Interstate_Route_26</WikiTitle> <WikiTitleID>4574984</WikiTitleID> <RankerScore>0.038812757398079246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>26_BC</WikiTitle> <WikiTitleID>59288</WikiTitleID> <RankerScore>0.038812757398079246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Route_26</WikiTitle> <WikiTitleID>289952</WikiTitleID> <RankerScore>0.038812757398079246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japan_National_Route_26</WikiTitle> <WikiTitleID>13499047</WikiTitleID> <RankerScore>0.038812757398079246</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Avenue S</EntitySurfaceForm>
+	<EntityTextStart>117</EntityTextStart>
+	<EntityTextEnd>125</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Brooklyn_avenues,_Lettered_A–Z</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>street	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Avenue</EntitySurfaceForm>
+	<EntityTextStart>117</EntityTextStart>
+	<EntityTextEnd>123</EntityTextEnd>
+	<LinkerScore>0.3334105983934643</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Avenue</WikiTitle>
+		<WikiTitleID>1139011</WikiTitleID>
+		<RankerScore>0.5126423209331429</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Avenue</WikiTitle> <WikiTitleID>1139011</WikiTitleID> <RankerScore>0.5126423209331429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Avenue_(archaeology)</WikiTitle> <WikiTitleID>634180</WikiTitleID> <RankerScore>0.07601198367185677</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Street_or_road_name</WikiTitle> <WikiTitleID>2551704</WikiTitleID> <RankerScore>0.31029370367945036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Avenue_(song)</WikiTitle> <WikiTitleID>10982671</WikiTitleID> <RankerScore>0.033683997238516665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Avenue_(landscape)</WikiTitle> <WikiTitleID>1006179</WikiTitleID> <RankerScore>0.033683997238516665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Avenue_(Charlotte)</WikiTitle> <WikiTitleID>16473615</WikiTitleID> <RankerScore>0.033683997238516665</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the north</EntitySurfaceForm>
+	<EntityTextStart>129</EntityTextStart>
+	<EntityTextEnd>138</EntityTextEnd>
+	<LinkerScore>0.06176387521178617</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Northern_Canada</WikiTitle>
+		<WikiTitleID>79987</WikiTitleID>
+		<RankerScore>0.6227909285825028</RankerScore>
+		<Attributes>region</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Northern_England</WikiTitle> <WikiTitleID>714694</WikiTitleID> <RankerScore>0.20545807158822618</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Canada</WikiTitle> <WikiTitleID>79987</WikiTitleID> <RankerScore>0.6227909285825028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Wales</WikiTitle> <WikiTitleID>686069</WikiTitleID> <RankerScore>0.10599051810900995</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norte_Grande</WikiTitle> <WikiTitleID>10163484</WikiTitleID> <RankerScore>0.06576048172026101</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>north</EntitySurfaceForm>
+	<EntityTextStart>133</EntityTextStart>
+	<EntityTextEnd>138</EntityTextEnd>
+	<LinkerScore>3.449932849056842</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>North</WikiTitle>
+		<WikiTitleID>56478</WikiTitleID>
+		<RankerScore>0.9797699069645194</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>North</WikiTitle> <WikiTitleID>56478</WikiTitleID> <RankerScore>0.9797699069645194</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>True_north</WikiTitle> <WikiTitleID>3666492</WikiTitleID> <RankerScore>0.0010148358347123504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Wales</WikiTitle> <WikiTitleID>686069</WikiTitleID> <RankerScore>0.0010424628593430898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Dallas</WikiTitle> <WikiTitleID>2172228</WikiTitleID> <RankerScore>0.0010148358347123504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Omaha,_Nebraska</WikiTitle> <WikiTitleID>4242653</WikiTitleID> <RankerScore>0.0019354209860275979</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_England</WikiTitle> <WikiTitleID>714694</WikiTitleID> <RankerScore>0.0010148358347123504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ireland</WikiTitle> <WikiTitleID>21265</WikiTitleID> <RankerScore>0.0010148358347123504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Pole</WikiTitle> <WikiTitleID>21836</WikiTitleID> <RankerScore>0.0010148358347123504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_India</WikiTitle> <WikiTitleID>1552939</WikiTitleID> <RankerScore>0.0010148358347123504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Nigeria</WikiTitle> <WikiTitleID>5114180</WikiTitleID> <RankerScore>0.0010148358347123504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_United_States</WikiTitle> <WikiTitleID>509638</WikiTitleID> <RankerScore>0.0010148358347123504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Region,_Brazil</WikiTitle> <WikiTitleID>1279803</WikiTitleID> <RankerScore>0.0010148358347123504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Thailand</WikiTitle> <WikiTitleID>879139</WikiTitleID> <RankerScore>0.0010148358347123504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada–United_States_border</WikiTitle> <WikiTitleID>630260</WikiTitleID> <RankerScore>0.0010148358347123504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Europe</WikiTitle> <WikiTitleID>159865</WikiTitleID> <RankerScore>0.0010148358347123504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norte_Region,_Portugal</WikiTitle> <WikiTitleID>2528128</WikiTitleID> <RankerScore>0.0010148358347123504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_China</WikiTitle> <WikiTitleID>923364</WikiTitleID> <RankerScore>0.0010148358347123504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Vietnam</WikiTitle> <WikiTitleID>59871</WikiTitleID> <RankerScore>0.0010148358347123504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Region,_Ghana</WikiTitle> <WikiTitleID>2227697</WikiTitleID> <RankerScore>0.0010148358347123504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Shore_(Montreal)</WikiTitle> <WikiTitleID>15832875</WikiTitleID> <RankerScore>0.0010148358347123504</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Peigan</EntitySurfaceForm>
+	<EntityTextStart>140</EntityTextStart>
+	<EntityTextEnd>146</EntityTextEnd>
+	<LinkerScore>1.8458643068283143</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Northern_Peigan</WikiTitle>
+		<WikiTitleID>1180637</WikiTitleID>
+		<RankerScore>0.6533343721929173</RankerScore>
+		<Attributes>nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Peigan</WikiTitle> <WikiTitleID>1177418</WikiTitleID> <RankerScore>0.3466656278070827</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Peigan</WikiTitle> <WikiTitleID>1180637</WikiTitleID> <RankerScore>0.6533343721929173</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Trail</EntitySurfaceForm>
+	<EntityTextStart>147</EntityTextStart>
+	<EntityTextEnd>152</EntityTextEnd>
+	<LinkerScore>0.1141016798935861</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Trail</WikiTitle>
+		<WikiTitleID>66728</WikiTitleID>
+		<RankerScore>0.40580223301536683</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Trail,_British_Columbia</WikiTitle> <WikiTitleID>1096567</WikiTitleID> <RankerScore>0.30200539421024125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trail</WikiTitle> <WikiTitleID>66728</WikiTitleID> <RankerScore>0.40580223301536683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trail,_Oregon</WikiTitle> <WikiTitleID>18534088</WikiTitleID> <RankerScore>0.03970974996969672</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trail_(electoral_district)</WikiTitle> <WikiTitleID>3398748</WikiTitleID> <RankerScore>0.03970974996969672</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rail_trail</WikiTitle> <WikiTitleID>1315222</WikiTitleID> <RankerScore>0.09364362292590828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bicycle_and_motorcycle_geometry</WikiTitle> <WikiTitleID>8386232</WikiTitleID> <RankerScore>0.03970974996969672</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trail_(horse_show)</WikiTitle> <WikiTitleID>12835245</WikiTitleID> <RankerScore>0.03970974996969672</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trail,_Minnesota</WikiTitle> <WikiTitleID>121411</WikiTitleID> <RankerScore>0.03970974996969672</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the south</EntitySurfaceForm>
+	<EntityTextStart>156</EntityTextStart>
+	<EntityTextEnd>165</EntityTextEnd>
+	<LinkerScore>-0.7006585233487868</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Southern_United_States</WikiTitle>
+		<WikiTitleID>179553</WikiTitleID>
+		<RankerScore>0.27776607243350027</RankerScore>
+		<Attributes>region	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Jiangnan</WikiTitle> <WikiTitleID>1200602</WikiTitleID> <RankerScore>0.22934966670291637</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southern_United_States</WikiTitle> <WikiTitleID>179553</WikiTitleID> <RankerScore>0.27776607243350027</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southland_Region</WikiTitle> <WikiTitleID>351316</WikiTitleID> <RankerScore>0.11291665117228963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_India</WikiTitle> <WikiTitleID>678583</WikiTitleID> <RankerScore>0.11291665117228963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_London</WikiTitle> <WikiTitleID>373622</WikiTitleID> <RankerScore>0.15413430734671438</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_and_southern_China</WikiTitle> <WikiTitleID>923361</WikiTitleID> <RankerScore>0.11291665117228963</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>south</EntitySurfaceForm>
+	<EntityTextStart>160</EntityTextStart>
+	<EntityTextEnd>165</EntityTextEnd>
+	<LinkerScore>3.0732965386530813</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>South</WikiTitle>
+		<WikiTitleID>77173</WikiTitleID>
+		<RankerScore>0.976049106498412</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>South</WikiTitle> <WikiTitleID>77173</WikiTitleID> <RankerScore>0.976049106498412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southern_United_States</WikiTitle> <WikiTitleID>179553</WikiTitleID> <RankerScore>0.0010713821104131175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Dallas</WikiTitle> <WikiTitleID>3346702</WikiTitleID> <RankerScore>0.002585079866750022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Wales</WikiTitle> <WikiTitleID>832809</WikiTitleID> <RankerScore>0.0010713821104131175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Omaha,_Nebraska</WikiTitle> <WikiTitleID>1664946</WikiTitleID> <RankerScore>0.0031523177578149596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_Ireland</WikiTitle> <WikiTitleID>14560</WikiTitleID> <RankerScore>0.0010713821104131175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latitude</WikiTitle> <WikiTitleID>17616</WikiTitleID> <RankerScore>0.0010713821104131175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Asia</WikiTitle> <WikiTitleID>26827</WikiTitleID> <RankerScore>0.0010713821104131175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_India</WikiTitle> <WikiTitleID>678583</WikiTitleID> <RankerScore>0.0010713821104131175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southern_England</WikiTitle> <WikiTitleID>714729</WikiTitleID> <RankerScore>0.0010713821104131175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Pole</WikiTitle> <WikiTitleID>28655</WikiTitleID> <RankerScore>0.0010713821104131175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southern_Netherlands</WikiTitle> <WikiTitleID>291684</WikiTitleID> <RankerScore>0.0010713821104131175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico–United_States_border</WikiTitle> <WikiTitleID>2817606</WikiTitleID> <RankerScore>0.0010713821104131175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southern_Italy</WikiTitle> <WikiTitleID>897351</WikiTitleID> <RankerScore>0.0010713821104131175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Vietnam</WikiTitle> <WikiTitleID>59756</WikiTitleID> <RankerScore>0.0010713821104131175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southern_Province,_Sri_Lanka</WikiTitle> <WikiTitleID>672395</WikiTitleID> <RankerScore>0.0010713821104131175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Zona_Sur</WikiTitle> <WikiTitleID>10164078</WikiTitleID> <RankerScore>0.0010713821104131175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southern_Thailand</WikiTitle> <WikiTitleID>1453076</WikiTitleID> <RankerScore>0.0010713821104131175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_London</WikiTitle> <WikiTitleID>373622</WikiTitleID> <RankerScore>0.0010713821104131175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southern_Hemisphere</WikiTitle> <WikiTitleID>261273</WikiTitleID> <RankerScore>0.0010713821104131175</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Deerfoot trail</EntitySurfaceForm>
+	<EntityTextStart>183</EntityTextStart>
+	<EntityTextEnd>197</EntityTextEnd>
+	<LinkerScore>4.906058140815715</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Deerfoot_Trail</WikiTitle>
+		<WikiTitleID>1792500</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>roads</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Deerfoot_Trail</WikiTitle> <WikiTitleID>1792500</WikiTitleID> <RankerScore>9.943659318502363</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deerfoot_Trail</WikiTitle> <WikiTitleID>1792500</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Deerfoot</EntitySurfaceForm>
+	<EntityTextStart>183</EntityTextStart>
+	<EntityTextEnd>191</EntityTextEnd>
+	<LinkerScore>4.651575221553572</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Deerfoot_Trail</WikiTitle>
+		<WikiTitleID>1792500</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>roads</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Deerfoot_Trail</WikiTitle> <WikiTitleID>1792500</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the west</EntitySurfaceForm>
+	<EntityTextStart>203</EntityTextStart>
+	<EntityTextEnd>211</EntityTextEnd>
+	<LinkerScore>-1.336985225140316</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Western_world</WikiTitle>
+		<WikiTitleID>374761</WikiTitleID>
+		<RankerScore>0.5298908175618685</RankerScore>
+		<Attributes>concept	classification</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Western_world</WikiTitle> <WikiTitleID>374761</WikiTitleID> <RankerScore>0.5298908175618685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Canada</WikiTitle> <WikiTitleID>519100</WikiTitleID> <RankerScore>0.4486963047138732</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Düsseldorf</WikiTitle> <WikiTitleID>65711</WikiTitleID> <RankerScore>0.021412877724258216</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>west</EntitySurfaceForm>
+	<EntityTextStart>207</EntityTextStart>
+	<EntityTextEnd>211</EntityTextEnd>
+	<LinkerScore>4.4406414347016865</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>West</WikiTitle>
+		<WikiTitleID>61026</WikiTitleID>
+		<RankerScore>0.9752561875270908</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>West</WikiTitle> <WikiTitleID>61026</WikiTitleID> <RankerScore>0.9752561875270908</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_world</WikiTitle> <WikiTitleID>374761</WikiTitleID> <RankerScore>0.004712005022209775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_United_States</WikiTitle> <WikiTitleID>179578</WikiTitleID> <RankerScore>0.0010247357843089031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Longitude</WikiTitle> <WikiTitleID>17617</WikiTitleID> <RankerScore>0.0011180630391994357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Front_(World_War_I)</WikiTitle> <WikiTitleID>51499</WikiTitleID> <RankerScore>0.0011180630391994357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Catholic_Church</WikiTitle> <WikiTitleID>606848</WikiTitleID> <RankerScore>0.0011180630391994357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Germany</WikiTitle> <WikiTitleID>33166</WikiTitleID> <RankerScore>0.0011180630391994357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_frontier</WikiTitle> <WikiTitleID>252507</WikiTitleID> <RankerScore>0.0011180630391994357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Canada</WikiTitle> <WikiTitleID>519100</WikiTitleID> <RankerScore>0.0011180630391994357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Europe</WikiTitle> <WikiTitleID>33800</WikiTitleID> <RankerScore>0.0011180630391994357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Xionites</WikiTitle> <WikiTitleID>2526426</WikiTitleID> <RankerScore>0.0011180630391994357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Changi_Air_Base_(West)</WikiTitle> <WikiTitleID>1963250</WikiTitleID> <RankerScore>0.0011180630391994357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Konkan</WikiTitle> <WikiTitleID>488395</WikiTitleID> <RankerScore>0.0011180630391994357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Norway</WikiTitle> <WikiTitleID>1436846</WikiTitleID> <RankerScore>0.0011180630391994357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Java</WikiTitle> <WikiTitleID>314356</WikiTitleID> <RankerScore>0.0011180630391994357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsavo_West_National_Park</WikiTitle> <WikiTitleID>16992009</WikiTitleID> <RankerScore>0.0011180630391994357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolton_West_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>1811187</WikiTitleID> <RankerScore>0.0011180630391994357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_America</WikiTitle> <WikiTitleID>21139</WikiTitleID> <RankerScore>0.0011180630391994357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belfast_West</WikiTitle> <WikiTitleID>3789527</WikiTitleID> <RankerScore>0.0011180630391994357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Texas</WikiTitle> <WikiTitleID>616362</WikiTitleID> <RankerScore>0.0011180630391994357</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>36</EntitySurfaceForm>
+	<EntityTextStart>216</EntityTextStart>
+	<EntityTextEnd>218</EntityTextEnd>
+	<LinkerScore>-1.432405783204364</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>36</WikiTitle>
+		<WikiTitleID>35254</WikiTitleID>
+		<RankerScore>0.19184455685201923</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>36</WikiTitle> <WikiTitleID>35254</WikiTitleID> <RankerScore>0.19184455685201923</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>36_(number)</WikiTitle> <WikiTitleID>394781</WikiTitleID> <RankerScore>0.03777022494803806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1936</WikiTitle> <WikiTitleID>34673</WikiTitleID> <RankerScore>0.03777022494803806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minnesota_State_Highway_36</WikiTitle> <WikiTitleID>937909</WikiTitleID> <RankerScore>0.08171124534711746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1536</WikiTitle> <WikiTitleID>36117</WikiTitleID> <RankerScore>0.03777022494803806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japan_National_Route_36</WikiTitle> <WikiTitleID>13396199</WikiTitleID> <RankerScore>0.03777022494803806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Buses_route_36</WikiTitle> <WikiTitleID>5192747</WikiTitleID> <RankerScore>0.03777022494803806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Route_36</WikiTitle> <WikiTitleID>888801</WikiTitleID> <RankerScore>0.08435037368421616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1836</WikiTitle> <WikiTitleID>35515</WikiTitleID> <RankerScore>0.03777022494803806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>36_BC</WikiTitle> <WikiTitleID>59280</WikiTitleID> <RankerScore>0.03777022494803806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Jersey_Route_36</WikiTitle> <WikiTitleID>100714</WikiTitleID> <RankerScore>0.03777022494803806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brodmann_area_36</WikiTitle> <WikiTitleID>3073855</WikiTitleID> <RankerScore>0.03777022494803806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indre</WikiTitle> <WikiTitleID>90576</WikiTitleID> <RankerScore>0.03777022494803806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lot_36,_Prince_Edward_Island</WikiTitle> <WikiTitleID>3192667</WikiTitleID> <RankerScore>0.03777022494803806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>R36_(New_York_City_Subway_car)</WikiTitle> <WikiTitleID>1344615</WikiTitleID> <RankerScore>0.03777022494803806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alberta_Highway_36</WikiTitle> <WikiTitleID>4262010</WikiTitleID> <RankerScore>0.03777022494803806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Massachusetts_Route_36</WikiTitle> <WikiTitleID>10447654</WikiTitleID> <RankerScore>0.03777022494803806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>No._36_Squadron_RAF</WikiTitle> <WikiTitleID>6333283</WikiTitleID> <RankerScore>0.03777022494803806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wilt_Chamberlain&apos;s_100-point_game</WikiTitle> <WikiTitleID>9499391</WikiTitleID> <RankerScore>0.03777022494803806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MTA_Maryland_Route_36</WikiTitle> <WikiTitleID>10285472</WikiTitleID> <RankerScore>0.03777022494803806</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Street</EntitySurfaceForm>
+	<EntityTextStart>219</EntityTextStart>
+	<EntityTextEnd>225</EntityTextEnd>
+	<LinkerScore>1.9406294428796664</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Street</WikiTitle>
+		<WikiTitleID>199065</WikiTitleID>
+		<RankerScore>0.8805695257094914</RankerScore>
+		<Attributes>street</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Street,_Somerset</WikiTitle> <WikiTitleID>235341</WikiTitleID> <RankerScore>0.06560084845894817</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Street</WikiTitle> <WikiTitleID>199065</WikiTitleID> <RankerScore>0.8805695257094914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Street_skateboarding</WikiTitle> <WikiTitleID>4213955</WikiTitleID> <RankerScore>0.005316714945291241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Street_F.C.</WikiTitle> <WikiTitleID>3893831</WikiTitleID> <RankerScore>0.005316714945291241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Street,_Maryland</WikiTitle> <WikiTitleID>7197781</WikiTitleID> <RankerScore>0.005979191323939277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Street_(album)</WikiTitle> <WikiTitleID>13640677</WikiTitleID> <RankerScore>0.005316714945291241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Street_light</WikiTitle> <WikiTitleID>698830</WikiTitleID> <RankerScore>0.005316714945291241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Richard_Street</WikiTitle> <WikiTitleID>1494368</WikiTitleID> <RankerScore>0.005316714945291241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_Edmund_Street</WikiTitle> <WikiTitleID>1802561</WikiTitleID> <RankerScore>0.005316714945291241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Street_dance</WikiTitle> <WikiTitleID>370716</WikiTitleID> <RankerScore>0.005316714945291241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sesame_Street</WikiTitle> <WikiTitleID>48064</WikiTitleID> <RankerScore>0.005316714945291241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Market_Street_(San_Francisco)</WikiTitle> <WikiTitleID>8638173</WikiTitleID> <RankerScore>0.005316714945291241</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the east</EntitySurfaceForm>
+	<EntityTextStart>231</EntityTextStart>
+	<EntityTextEnd>239</EntityTextEnd>
+	<LinkerScore>-0.7553720342741894</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Eastern_Bloc</WikiTitle>
+		<WikiTitleID>97477</WikiTitleID>
+		<RankerScore>0.6106713880311121</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Eastern_Bloc</WikiTitle> <WikiTitleID>97477</WikiTitleID> <RankerScore>0.6106713880311121</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>East_Kent</WikiTitle> <WikiTitleID>770401</WikiTitleID> <RankerScore>0.19397344856964446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Former_eastern_territories_of_Germany</WikiTitle> <WikiTitleID>499479</WikiTitleID> <RankerScore>0.11856270951110434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mordor</WikiTitle> <WikiTitleID>20720</WikiTitleID> <RankerScore>0.07679245388813914</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>east</EntitySurfaceForm>
+	<EntityTextStart>235</EntityTextStart>
+	<EntityTextEnd>239</EntityTextEnd>
+	<LinkerScore>2.9241209594431665</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>East</WikiTitle>
+		<WikiTitleID>61028</WikiTitleID>
+		<RankerScore>0.6743410821374106</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>East</WikiTitle> <WikiTitleID>61028</WikiTitleID> <RankerScore>0.6743410821374106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>East_Dallas</WikiTitle> <WikiTitleID>3346687</WikiTitleID> <RankerScore>0.026304268242536198</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>East_Asia</WikiTitle> <WikiTitleID>10020</WikiTitleID> <RankerScore>0.055232379609133804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>East_Coast_of_the_United_States</WikiTitle> <WikiTitleID>89126</WikiTitleID> <RankerScore>0.014360133530054092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>East_Africa</WikiTitle> <WikiTitleID>260987</WikiTitleID> <RankerScore>0.014360133530054092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eastern_world</WikiTitle> <WikiTitleID>769086</WikiTitleID> <RankerScore>0.014360133530054092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>East_London</WikiTitle> <WikiTitleID>1429635</WikiTitleID> <RankerScore>0.014360133530054092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Far_East</WikiTitle> <WikiTitleID>11672</WikiTitleID> <RankerScore>0.014360133530054092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>East_Tennessee</WikiTitle> <WikiTitleID>646800</WikiTitleID> <RankerScore>0.014360133530054092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>East_Holland_River</WikiTitle> <WikiTitleID>3123161</WikiTitleID> <RankerScore>0.014360133530054092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eastern_Theater_of_the_American_Civil_War</WikiTitle> <WikiTitleID>4166042</WikiTitleID> <RankerScore>0.014360133530054092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eastern_Suburbs_(Sydney)</WikiTitle> <WikiTitleID>708024</WikiTitleID> <RankerScore>0.014360133530054092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Changi_Air_Base_(East)</WikiTitle> <WikiTitleID>1963230</WikiTitleID> <RankerScore>0.014360133530054092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eastern_United_States</WikiTitle> <WikiTitleID>509486</WikiTitleID> <RankerScore>0.014360133530054092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boxing_the_compass</WikiTitle> <WikiTitleID>339183</WikiTitleID> <RankerScore>0.014360133530054092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>East_of_England</WikiTitle> <WikiTitleID>52924</WikiTitleID> <RankerScore>0.014360133530054092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eastern_states_of_Australia</WikiTitle> <WikiTitleID>2517484</WikiTitleID> <RankerScore>0.014360133530054092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cardinal_direction</WikiTitle> <WikiTitleID>200085</WikiTitleID> <RankerScore>0.014360133530054092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eastern_Province,_Saudi_Arabia</WikiTitle> <WikiTitleID>468721</WikiTitleID> <RankerScore>0.014360133530054092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>East_Branch_Delaware_River</WikiTitle> <WikiTitleID>681499</WikiTitleID> <RankerScore>0.014360133530054092</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Inglewood</EntitySurfaceForm>
+	<EntityTextStart>247</EntityTextStart>
+	<EntityTextEnd>256</EntityTextEnd>
+	<LinkerScore>1.5240934983512187</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Inglewood,_Calgary</WikiTitle>
+		<WikiTitleID>2153869</WikiTitleID>
+		<RankerScore>0.8841725809084935</RankerScore>
+		<Attributes>attraction</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Inglewood,_California</WikiTitle> <WikiTitleID>107640</WikiTitleID> <RankerScore>0.047695792191049</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inglewood,_New_Zealand</WikiTitle> <WikiTitleID>544146</WikiTitleID> <RankerScore>0.027771227083360387</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inglewood,_Calgary</WikiTitle> <WikiTitleID>2153869</WikiTitleID> <RankerScore>0.8841725809084935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inglewood,_Victoria</WikiTitle> <WikiTitleID>3042031</WikiTitleID> <RankerScore>0.004036039981709712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inglewood,_Western_Australia</WikiTitle> <WikiTitleID>671592</WikiTitleID> <RankerScore>0.004036039981709712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inglewood,_Queensland</WikiTitle> <WikiTitleID>859610</WikiTitleID> <RankerScore>0.004036039981709712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inglewood,_South_Australia</WikiTitle> <WikiTitleID>5585267</WikiTitleID> <RankerScore>0.004036039981709712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inglewood,_Edmonton</WikiTitle> <WikiTitleID>13211315</WikiTitleID> <RankerScore>0.004036039981709712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inglewood,_Nebraska</WikiTitle> <WikiTitleID>123872</WikiTitleID> <RankerScore>0.004036039981709712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inglewood</WikiTitle> <WikiTitleID>284668</WikiTitleID> <RankerScore>0.004036039981709712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Caledon,_Ontario</WikiTitle> <WikiTitleID>17493131</WikiTitleID> <RankerScore>0.004036039981709712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inglewood,_Mecklenburg_County,_Virginia</WikiTitle> <WikiTitleID>16295488</WikiTitleID> <RankerScore>0.004036039981709712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inglewood_Forest</WikiTitle> <WikiTitleID>4120719</WikiTitleID> <RankerScore>0.004036039981709712</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bow River</EntitySurfaceForm>
+	<EntityTextStart>295</EntityTextStart>
+	<EntityTextEnd>304</EntityTextEnd>
+	<LinkerScore>4.039839043847405</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bow_River</WikiTitle>
+		<WikiTitleID>565137</WikiTitleID>
+		<RankerScore>0.9946295979419597</RankerScore>
+		<Attributes>river</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bow_River</WikiTitle> <WikiTitleID>565137</WikiTitleID> <RankerScore>0.9946295979419597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bow_River_(electoral_district)</WikiTitle> <WikiTitleID>1791932</WikiTitleID> <RankerScore>0.005178352255796038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bow_River_(Kimberley_region,_Western_Australia)</WikiTitle> <WikiTitleID>14158986</WikiTitleID> <RankerScore>1.9204980224413545E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>borders</EntitySurfaceForm>
+	<EntityTextStart>315</EntityTextStart>
+	<EntityTextEnd>322</EntityTextEnd>
+	<LinkerScore>-0.4124997053453082</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Scottish_Borders</WikiTitle>
+		<WikiTitleID>142930</WikiTitleID>
+		<RankerScore>0.3880634039065728</RankerScore>
+		<Attributes>area	border	region</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Scottish_Borders</WikiTitle> <WikiTitleID>142930</WikiTitleID> <RankerScore>0.3880634039065728</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Border</WikiTitle> <WikiTitleID>247613</WikiTitleID> <RankerScore>0.17469274495079098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico–United_States_border</WikiTitle> <WikiTitleID>2817606</WikiTitleID> <RankerScore>0.05860692124332752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposals_for_a_Palestinian_state</WikiTitle> <WikiTitleID>48276</WikiTitleID> <RankerScore>0.05860692124332752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Green_Line_(Israel)</WikiTitle> <WikiTitleID>2420091</WikiTitleID> <RankerScore>0.14420924492599854</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Borders_of_Brazil</WikiTitle> <WikiTitleID>17259632</WikiTitleID> <RankerScore>0.05860692124332752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anglo-Scottish_border</WikiTitle> <WikiTitleID>248015</WikiTitleID> <RankerScore>0.05860692124332752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Border_ballad</WikiTitle> <WikiTitleID>340823</WikiTitleID> <RankerScore>0.05860692124332752</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>community</EntitySurfaceForm>
+	<EntityTextStart>327</EntityTextStart>
+	<EntityTextEnd>336</EntityTextEnd>
+	<LinkerScore>2.284465916674805</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Community</WikiTitle>
+		<WikiTitleID>5695</WikiTitleID>
+		<RankerScore>0.8475702151674515</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Community</WikiTitle> <WikiTitleID>5695</WikiTitleID> <RankerScore>0.8475702151674515</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_(Wales)</WikiTitle> <WikiTitleID>1351640</WikiTitleID> <RankerScore>0.02572524816948451</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_radio</WikiTitle> <WikiTitleID>630006</WikiTitleID> <RankerScore>0.007293609529002885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Municipalities_and_communities_of_Greece</WikiTitle> <WikiTitleID>2513752</WikiTitleID> <RankerScore>0.007293609529002885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_council</WikiTitle> <WikiTitleID>1639015</WikiTitleID> <RankerScore>0.010006784199017961</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_school</WikiTitle> <WikiTitleID>555442</WikiTitleID> <RankerScore>0.007293609529002885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_college</WikiTitle> <WikiTitleID>5696</WikiTitleID> <RankerScore>0.007293609529002885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_(ecology)</WikiTitle> <WikiTitleID>10599506</WikiTitleID> <RankerScore>0.007293609529002885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Virtual_community</WikiTitle> <WikiTitleID>176320</WikiTitleID> <RankerScore>0.007293609529002885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cenobitic_monasticism</WikiTitle> <WikiTitleID>940009</WikiTitleID> <RankerScore>0.007293609529002885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Residential_community</WikiTitle> <WikiTitleID>1324897</WikiTitleID> <RankerScore>0.007293609529002885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Unincorporated_area</WikiTitle> <WikiTitleID>232346</WikiTitleID> <RankerScore>0.007293609529002885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intentional_community</WikiTitle> <WikiTitleID>427175</WikiTitleID> <RankerScore>0.007293609529002885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sangha</WikiTitle> <WikiTitleID>28747</WikiTitleID> <RankerScore>0.007293609529002885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_community</WikiTitle> <WikiTitleID>89129</WikiTitleID> <RankerScore>0.007293609529002885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scientific_community</WikiTitle> <WikiTitleID>338705</WikiTitleID> <RankerScore>0.007293609529002885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Free_software_movement</WikiTitle> <WikiTitleID>6974466</WikiTitleID> <RankerScore>0.007293609529002885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kehilla</WikiTitle> <WikiTitleID>3328886</WikiTitleID> <RankerScore>0.007293609529002885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_(ecology)</WikiTitle> <WikiTitleID>1464824</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hacker_(term)</WikiTitle> <WikiTitleID>13533</WikiTitleID> <RankerScore>0.007293609529002885</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the west</EntitySurfaceForm>
+	<EntityTextStart>340</EntityTextStart>
+	<EntityTextEnd>348</EntityTextEnd>
+	<LinkerScore>0.21201576595102095</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Western_Canada</WikiTitle>
+		<WikiTitleID>519100</WikiTitleID>
+		<RankerScore>0.5489726530974258</RankerScore>
+		<Attributes>region</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Western_world</WikiTitle> <WikiTitleID>374761</WikiTitleID> <RankerScore>0.42413351886927814</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Canada</WikiTitle> <WikiTitleID>519100</WikiTitleID> <RankerScore>0.5489726530974258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Düsseldorf</WikiTitle> <WikiTitleID>65711</WikiTitleID> <RankerScore>0.026893828033296006</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>west</EntitySurfaceForm>
+	<EntityTextStart>344</EntityTextStart>
+	<EntityTextEnd>348</EntityTextEnd>
+	<LinkerScore>4.340227657082363</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>West</WikiTitle>
+		<WikiTitleID>61026</WikiTitleID>
+		<RankerScore>0.9087905194391221</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>West</WikiTitle> <WikiTitleID>61026</WikiTitleID> <RankerScore>0.9087905194391221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_world</WikiTitle> <WikiTitleID>374761</WikiTitleID> <RankerScore>0.013725811847755223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_United_States</WikiTitle> <WikiTitleID>179578</WikiTitleID> <RankerScore>0.0038412355752799492</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Longitude</WikiTitle> <WikiTitleID>17617</WikiTitleID> <RankerScore>0.0038412355752799492</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Front_(World_War_I)</WikiTitle> <WikiTitleID>51499</WikiTitleID> <RankerScore>0.0038412355752799492</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Catholic_Church</WikiTitle> <WikiTitleID>606848</WikiTitleID> <RankerScore>0.012182663933363426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Germany</WikiTitle> <WikiTitleID>33166</WikiTitleID> <RankerScore>0.0038412355752799492</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_frontier</WikiTitle> <WikiTitleID>252507</WikiTitleID> <RankerScore>0.0038412355752799492</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Canada</WikiTitle> <WikiTitleID>519100</WikiTitleID> <RankerScore>0.0038412355752799492</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Europe</WikiTitle> <WikiTitleID>33800</WikiTitleID> <RankerScore>0.0038412355752799492</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Xionites</WikiTitle> <WikiTitleID>2526426</WikiTitleID> <RankerScore>0.0038412355752799492</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Changi_Air_Base_(West)</WikiTitle> <WikiTitleID>1963250</WikiTitleID> <RankerScore>0.0038412355752799492</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Konkan</WikiTitle> <WikiTitleID>488395</WikiTitleID> <RankerScore>0.0038412355752799492</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Norway</WikiTitle> <WikiTitleID>1436846</WikiTitleID> <RankerScore>0.0038412355752799492</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Java</WikiTitle> <WikiTitleID>314356</WikiTitleID> <RankerScore>0.0038412355752799492</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsavo_West_National_Park</WikiTitle> <WikiTitleID>16992009</WikiTitleID> <RankerScore>0.0038412355752799492</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolton_West_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>1811187</WikiTitleID> <RankerScore>0.0038412355752799492</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_America</WikiTitle> <WikiTitleID>21139</WikiTitleID> <RankerScore>0.0038412355752799492</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belfast_West</WikiTitle> <WikiTitleID>3789527</WikiTitleID> <RankerScore>0.0038412355752799492</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Texas</WikiTitle> <WikiTitleID>616362</WikiTitleID> <RankerScore>0.0038412355752799492</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The area</EntitySurfaceForm>
+	<EntityTextStart>350</EntityTextStart>
+	<EntityTextEnd>358</EntityTextEnd>
+	<LinkerScore>-1.4520615582970864</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>West_End,_Vancouver</WikiTitle>
+		<WikiTitleID>443662</WikiTitleID>
+		<RankerScore>0.5249248590684431</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>West_End,_Vancouver</WikiTitle> <WikiTitleID>443662</WikiTitleID> <RankerScore>0.5249248590684431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Free_Zone_(region)</WikiTitle> <WikiTitleID>3485861</WikiTitleID> <RankerScore>0.47507514093155695</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>area</EntitySurfaceForm>
+	<EntityTextStart>354</EntityTextStart>
+	<EntityTextEnd>358</EntityTextEnd>
+	<LinkerScore>-1.4520615582970864</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>West_End,_Vancouver</WikiTitle>
+		<WikiTitleID>443662</WikiTitleID>
+		<RankerScore>0.5249248590684431</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>West_End,_Vancouver</WikiTitle> <WikiTitleID>443662</WikiTitleID> <RankerScore>0.5249248590684431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Free_Zone_(region)</WikiTitle> <WikiTitleID>3485861</WikiTitleID> <RankerScore>0.47507514093155695</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>annexed</EntitySurfaceForm>
+	<EntityTextStart>363</EntityTextStart>
+	<EntityTextEnd>370</EntityTextEnd>
+	<LinkerScore>2.498556607493641</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Annexation</WikiTitle>
+		<WikiTitleID>1237</WikiTitleID>
+		<RankerScore>0.8284222321235903</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Annexation</WikiTitle> <WikiTitleID>1237</WikiTitleID> <RankerScore>0.8284222321235903</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anschluss</WikiTitle> <WikiTitleID>862</WikiTitleID> <RankerScore>0.009514913419708284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas_annexation</WikiTitle> <WikiTitleID>355738</WikiTitleID> <RankerScore>0.009995287125713476</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Municipal_annexation_in_the_United_States</WikiTitle> <WikiTitleID>11053630</WikiTitleID> <RankerScore>0.02212883469671265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operation_Polo</WikiTitle> <WikiTitleID>906792</WikiTitleID> <RankerScore>0.009995287125713476</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japan–Korea_Treaty_of_1910</WikiTitle> <WikiTitleID>1257377</WikiTitleID> <RankerScore>0.009995287125713476</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jordanian_occupation_of_the_West_Bank</WikiTitle> <WikiTitleID>1013634</WikiTitleID> <RankerScore>0.009995287125713476</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Municipal_mergers_and_dissolutions_in_Japan</WikiTitle> <WikiTitleID>1491298</WikiTitleID> <RankerScore>0.009995287125713476</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Partitions_of_Poland</WikiTitle> <WikiTitleID>43794</WikiTitleID> <RankerScore>0.009995287125713476</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_mediatization</WikiTitle> <WikiTitleID>1807702</WikiTitleID> <RankerScore>0.009995287125713476</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laws_in_Wales_Acts_1535–1542</WikiTitle> <WikiTitleID>168441</WikiTitleID> <RankerScore>0.009995287125713476</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_military_occupations_of_Latvia</WikiTitle> <WikiTitleID>1992693</WikiTitleID> <RankerScore>0.009995287125713476</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Territories_of_Poland_annexed_by_the_Soviet_Union</WikiTitle> <WikiTitleID>353011</WikiTitleID> <RankerScore>0.009995287125713476</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Finnish_War</WikiTitle> <WikiTitleID>246174</WikiTitleID> <RankerScore>0.009995287125713476</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Oder–Neisse_line</WikiTitle> <WikiTitleID>184796</WikiTitleID> <RankerScore>0.009995287125713476</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_occupation_of_Bessarabia_and_Northern_Bukovina</WikiTitle> <WikiTitleID>6886136</WikiTitleID> <RankerScore>0.009995287125713476</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>War_of_the_Golden_Stool</WikiTitle> <WikiTitleID>8028897</WikiTitleID> <RankerScore>0.009995287125713476</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the City</EntitySurfaceForm>
+	<EntityTextStart>374</EntityTextStart>
+	<EntityTextEnd>382</EntityTextEnd>
+	<LinkerScore>0.6311039527423433</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>City_of_London</WikiTitle>
+		<WikiTitleID>6883</WikiTitleID>
+		<RankerScore>0.40720987445277934</RankerScore>
+		<Attributes>district	city	authorities</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>City_of_London</WikiTitle> <WikiTitleID>6883</WikiTitleID> <RankerScore>0.40720987445277934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_City</WikiTitle> <WikiTitleID>73399</WikiTitleID> <RankerScore>0.16482782973953772</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London</WikiTitle> <WikiTitleID>17867</WikiTitleID> <RankerScore>0.149250104109577</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sydney</WikiTitle> <WikiTitleID>27862</WikiTitleID> <RankerScore>0.06967804792452646</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leicester_City_Centre</WikiTitle> <WikiTitleID>2583736</WikiTitleID> <RankerScore>0.06967804792452646</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rome</WikiTitle> <WikiTitleID>25458</WikiTitleID> <RankerScore>0.06967804792452646</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mega_City_(The_Matrix)</WikiTitle> <WikiTitleID>3505201</WikiTitleID> <RankerScore>0.06967804792452646</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>City of Calgary</EntitySurfaceForm>
+	<EntityTextStart>378</EntityTextStart>
+	<EntityTextEnd>393</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Calgary</WikiTitle>
+		<WikiTitleID>15895358</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>place	post	city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Calgary</WikiTitle> <WikiTitleID>15895358</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>City</EntitySurfaceForm>
+	<EntityTextStart>378</EntityTextStart>
+	<EntityTextEnd>382</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Calgary</WikiTitle>
+		<WikiTitleID>15895358</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>place	post	city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>City</WikiTitle> <WikiTitleID>5391</WikiTitleID> <RankerScore>0.4813626179863707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cities_of_the_Philippines</WikiTitle> <WikiTitleID>246350</WikiTitleID> <RankerScore>0.05618191137314229</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_of_London</WikiTitle> <WikiTitleID>6883</WikiTitleID> <RankerScore>0.051105671763685426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_(New_Jersey)</WikiTitle> <WikiTitleID>2879687</WikiTitleID> <RankerScore>0.02419704699275303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adelaide</WikiTitle> <WikiTitleID>1148</WikiTitleID> <RankerScore>0.02419704699275303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Melbourne_City_Centre</WikiTitle> <WikiTitleID>7467700</WikiTitleID> <RankerScore>0.02419704699275303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_(Strapping_Young_Lad_album)</WikiTitle> <WikiTitleID>2019543</WikiTitleID> <RankerScore>0.02419704699275303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_(novel)</WikiTitle> <WikiTitleID>902755</WikiTitleID> <RankerScore>0.02419704699275303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cities_of_Japan</WikiTitle> <WikiTitleID>214461</WikiTitleID> <RankerScore>0.02419704699275303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_(band)</WikiTitle> <WikiTitleID>2420614</WikiTitleID> <RankerScore>0.02419704699275303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester_City_F.C.</WikiTitle> <WikiTitleID>165813</WikiTitleID> <RankerScore>0.02419704699275303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City</WikiTitle> <WikiTitleID>645042</WikiTitleID> <RankerScore>0.02419704699275303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Municipalities_of_Sweden</WikiTitle> <WikiTitleID>191302</WikiTitleID> <RankerScore>0.02419704699275303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brisbane_central_business_district</WikiTitle> <WikiTitleID>4519792</WikiTitleID> <RankerScore>0.02419704699275303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_City</WikiTitle> <WikiTitleID>894513</WikiTitleID> <RankerScore>0.02419704699275303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltimore_City_College</WikiTitle> <WikiTitleID>713949</WikiTitleID> <RankerScore>0.02419704699275303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_(magazine)</WikiTitle> <WikiTitleID>3267337</WikiTitleID> <RankerScore>0.02419704699275303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_status_in_the_United_Kingdom</WikiTitle> <WikiTitleID>70841</WikiTitleID> <RankerScore>0.02419704699275303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_(Client_album)</WikiTitle> <WikiTitleID>9129568</WikiTitleID> <RankerScore>0.02419704699275303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_(typeface)</WikiTitle> <WikiTitleID>7605971</WikiTitleID> <RankerScore>0.02419704699275303</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Calgary</EntitySurfaceForm>
+	<EntityTextStart>386</EntityTextStart>
+	<EntityTextEnd>393</EntityTextEnd>
+	<LinkerScore>4.668538834694642</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Calgary</WikiTitle>
+		<WikiTitleID>15895358</WikiTitleID>
+		<RankerScore>0.990504764962984</RankerScore>
+		<Attributes>place	post	city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Calgary</WikiTitle> <WikiTitleID>15895358</WikiTitleID> <RankerScore>0.990504764962984</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary_(provincial_electoral_district)</WikiTitle> <WikiTitleID>1879843</WikiTitleID> <RankerScore>0.0025047652626318095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary_Flames</WikiTitle> <WikiTitleID>73131</WikiTitleID> <RankerScore>2.5952155550540114E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary_Stampeders</WikiTitle> <WikiTitleID>254169</WikiTitleID> <RankerScore>2.5952155550540114E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary_(electoral_district)</WikiTitle> <WikiTitleID>1787994</WikiTitleID> <RankerScore>2.5952155550540114E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary_(N.W.T._electoral_district)</WikiTitle> <WikiTitleID>6313152</WikiTitleID> <RankerScore>2.5952155550540114E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary_Roughnecks</WikiTitle> <WikiTitleID>246410</WikiTitleID> <RankerScore>2.5952155550540114E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary_International_Airport</WikiTitle> <WikiTitleID>293781</WikiTitleID> <RankerScore>2.5952155550540114E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Calgary</WikiTitle> <WikiTitleID>89668</WikiTitleID> <RankerScore>2.5952155550540114E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Olympic_Oval</WikiTitle> <WikiTitleID>444801</WikiTitleID> <RankerScore>2.5952155550540114E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary,_Mull</WikiTitle> <WikiTitleID>1058251</WikiTitleID> <RankerScore>2.5952155550540114E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_Winter_Olympics</WikiTitle> <WikiTitleID>187504</WikiTitleID> <RankerScore>0.002578603330792485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CKAL-DT</WikiTitle> <WikiTitleID>665229</WikiTitleID> <RankerScore>2.5952155550540114E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>C-Train</WikiTitle> <WikiTitleID>742201</WikiTitleID> <RankerScore>2.5952155550540114E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anglican_Diocese_of_Calgary</WikiTitle> <WikiTitleID>5750058</WikiTitleID> <RankerScore>2.5952155550540114E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Diocese_of_Calgary</WikiTitle> <WikiTitleID>5966088</WikiTitleID> <RankerScore>2.5952155550540114E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary_Cannons</WikiTitle> <WikiTitleID>4045717</WikiTitleID> <RankerScore>2.5952155550540114E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_Olympic_Park_bobsleigh,_luge,_and_skeleton_track</WikiTitle> <WikiTitleID>15690379</WikiTitleID> <RankerScore>2.5952155550540114E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary_Mustangs</WikiTitle> <WikiTitleID>1019883</WikiTitleID> <RankerScore>2.5952155550540114E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary-West</WikiTitle> <WikiTitleID>1768046</WikiTitleID> <RankerScore>2.5952155550540114E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1961</EntitySurfaceForm>
+	<EntityTextStart>397</EntityTextStart>
+	<EntityTextEnd>401</EntityTextEnd>
+	<LinkerScore>2.1696006335291065</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1961</WikiTitle>
+		<WikiTitleID>34659</WikiTitleID>
+		<RankerScore>0.8574512901768183</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1961</WikiTitle> <WikiTitleID>34659</WikiTitleID> <RankerScore>0.8574512901768183</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1961_in_film</WikiTitle> <WikiTitleID>171698</WikiTitleID> <RankerScore>0.01634629153810011</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1961_in_music</WikiTitle> <WikiTitleID>161051</WikiTitleID> <RankerScore>0.005430130023574812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1961_in_baseball</WikiTitle> <WikiTitleID>2748258</WikiTitleID> <RankerScore>0.005430130023574812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1961_in_literature</WikiTitle> <WikiTitleID>192940</WikiTitleID> <RankerScore>0.005430130023574812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1961_American_Football_League_season</WikiTitle> <WikiTitleID>11379523</WikiTitleID> <RankerScore>0.005430130023574812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1961_in_sports</WikiTitle> <WikiTitleID>225357</WikiTitleID> <RankerScore>0.005430130023574812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1961_in_aviation</WikiTitle> <WikiTitleID>566583</WikiTitleID> <RankerScore>0.005430130023574812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1961_NFL_season</WikiTitle> <WikiTitleID>2754367</WikiTitleID> <RankerScore>0.005430130023574812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1961_in_comics</WikiTitle> <WikiTitleID>888600</WikiTitleID> <RankerScore>0.005430130023574812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1961_in_television</WikiTitle> <WikiTitleID>170840</WikiTitleID> <RankerScore>0.005430130023574812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1960–61_NHL_season</WikiTitle> <WikiTitleID>2545321</WikiTitleID> <RankerScore>0.005430130023574812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1961_CFL_season</WikiTitle> <WikiTitleID>4742902</WikiTitleID> <RankerScore>0.03389020788430977</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1961_in_poetry</WikiTitle> <WikiTitleID>7861339</WikiTitleID> <RankerScore>0.005430130023574812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1961_Grand_Prix_motorcycle_racing_season</WikiTitle> <WikiTitleID>6944223</WikiTitleID> <RankerScore>0.005430130023574812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_general_election,_1961</WikiTitle> <WikiTitleID>399852</WikiTitleID> <RankerScore>0.005430130023574812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIBT_World_Championships_1961</WikiTitle> <WikiTitleID>11309957</WikiTitleID> <RankerScore>0.005430130023574812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1960–61_Inter-Cities_Fairs_Cup</WikiTitle> <WikiTitleID>3586556</WikiTitleID> <RankerScore>0.005430130023574812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1961_in_Canada</WikiTitle> <WikiTitleID>372006</WikiTitleID> <RankerScore>0.005430130023574812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1961_Armstrong_500</WikiTitle> <WikiTitleID>14847673</WikiTitleID> <RankerScore>0.005430130023574812</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Dover</EntitySurfaceForm>
+	<EntityTextStart>407</EntityTextStart>
+	<EntityTextEnd>412</EntityTextEnd>
+	<LinkerScore>-0.44531888790993746</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dover</WikiTitle>
+		<WikiTitleID>40419</WikiTitleID>
+		<RankerScore>0.3552337422330723</RankerScore>
+		<Attributes>port	crossing	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dover</WikiTitle> <WikiTitleID>40419</WikiTitleID> <RankerScore>0.3552337422330723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover,_Delaware</WikiTitle> <WikiTitleID>57694</WikiTitleID> <RankerScore>0.07772657596993565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover,_New_Hampshire</WikiTitle> <WikiTitleID>124925</WikiTitleID> <RankerScore>0.024662127920596848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover_International_Speedway</WikiTitle> <WikiTitleID>682985</WikiTitleID> <RankerScore>0.024662127920596848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover,_New_Jersey</WikiTitle> <WikiTitleID>125568</WikiTitleID> <RankerScore>0.024662127920596848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>1829797</WikiTitleID> <RankerScore>0.14778350714684566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover,_Massachusetts</WikiTitle> <WikiTitleID>375658</WikiTitleID> <RankerScore>0.024662127920596848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover,_Ohio</WikiTitle> <WikiTitleID>129890</WikiTitleID> <RankerScore>0.024662127920596848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover_Publications</WikiTitle> <WikiTitleID>807056</WikiTitleID> <RankerScore>0.024662127920596848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover,_Singapore</WikiTitle> <WikiTitleID>2032834</WikiTitleID> <RankerScore>0.024662127920596848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover_(band)</WikiTitle> <WikiTitleID>812801</WikiTitleID> <RankerScore>0.024662127920596848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover,_Tennessee</WikiTitle> <WikiTitleID>135371</WikiTitleID> <RankerScore>0.024662127920596848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover_Priory_railway_station</WikiTitle> <WikiTitleID>1739040</WikiTitleID> <RankerScore>0.024662127920596848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover,_Pennsylvania</WikiTitle> <WikiTitleID>134227</WikiTitleID> <RankerScore>0.024662127920596848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover_(NJT_station)</WikiTitle> <WikiTitleID>5816657</WikiTitleID> <RankerScore>0.024662127920596848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover_District</WikiTitle> <WikiTitleID>500362</WikiTitleID> <RankerScore>0.024662127920596848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover,_Oklahoma</WikiTitle> <WikiTitleID>130290</WikiTitleID> <RankerScore>0.024662127920596848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover_Castle</WikiTitle> <WikiTitleID>258933</WikiTitleID> <RankerScore>0.024662127920596848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover_F.C.</WikiTitle> <WikiTitleID>13002979</WikiTitleID> <RankerScore>0.024662127920596848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover,_Vermont</WikiTitle> <WikiTitleID>137428</WikiTitleID> <RankerScore>0.024662127920596848</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>established</EntitySurfaceForm>
+	<EntityTextStart>417</EntityTextStart>
+	<EntityTextEnd>428</EntityTextEnd>
+	<LinkerScore>-1.4142182110309829</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>State_religion</WikiTitle>
+		<WikiTitleID>292285</WikiTitleID>
+		<RankerScore>0.3680086085768831</RankerScore>
+		<Attributes>dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>State_religion</WikiTitle> <WikiTitleID>650451</WikiTitleID> <RankerScore>0.5136166079846352</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_religion</WikiTitle> <WikiTitleID>292285</WikiTitleID> <RankerScore>0.3680086085768831</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Establishment</WikiTitle> <WikiTitleID>242094</WikiTitleID> <RankerScore>0.14104116558088933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_religion</WikiTitle> <WikiTitleID>175218</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Date_of_establishment</WikiTitle> <WikiTitleID>4270511</WikiTitleID> <RankerScore>0.061368778230278455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Naturalisation_(biology)</WikiTitle> <WikiTitleID>2280670</WikiTitleID> <RankerScore>0.061368778230278455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dayton_Agreement</WikiTitle> <WikiTitleID>168269</WikiTitleID> <RankerScore>0.061368778230278455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_ascent</WikiTitle> <WikiTitleID>375674</WikiTitleID> <RankerScore>0.061368778230278455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Declaration_of_Independence</WikiTitle> <WikiTitleID>14696</WikiTitleID> <RankerScore>0.061368778230278455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Establishment</WikiTitle> <WikiTitleID>804003</WikiTitleID> <RankerScore>0.061368778230278455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_and_Zurich_Agreements</WikiTitle> <WikiTitleID>6883815</WikiTitleID> <RankerScore>0.061368778230278455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Precedent</WikiTitle> <WikiTitleID>77516</WikiTitleID> <RankerScore>0.061368778230278455</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1971</EntitySurfaceForm>
+	<EntityTextStart>432</EntityTextStart>
+	<EntityTextEnd>436</EntityTextEnd>
+	<LinkerScore>2.4992530996742137</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1971</WikiTitle>
+		<WikiTitleID>34748</WikiTitleID>
+		<RankerScore>0.8499619969035108</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1971</WikiTitle> <WikiTitleID>34748</WikiTitleID> <RankerScore>0.8499619969035108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_in_film</WikiTitle> <WikiTitleID>171680</WikiTitleID> <RankerScore>0.016654352331656172</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_in_music</WikiTitle> <WikiTitleID>160408</WikiTitleID> <RankerScore>0.005853331470828554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_in_literature</WikiTitle> <WikiTitleID>191081</WikiTitleID> <RankerScore>0.005853331470828554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_in_television</WikiTitle> <WikiTitleID>169715</WikiTitleID> <RankerScore>0.005853331470828554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_in_sports</WikiTitle> <WikiTitleID>171799</WikiTitleID> <RankerScore>0.005853331470828554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_in_baseball</WikiTitle> <WikiTitleID>2441297</WikiTitleID> <RankerScore>0.005853331470828554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_NFL_season</WikiTitle> <WikiTitleID>2455178</WikiTitleID> <RankerScore>0.005853331470828554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_in_aviation</WikiTitle> <WikiTitleID>566603</WikiTitleID> <RankerScore>0.005853331470828554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_in_poetry</WikiTitle> <WikiTitleID>5812302</WikiTitleID> <RankerScore>0.005853331470828554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1970–71_NHL_season</WikiTitle> <WikiTitleID>2910492</WikiTitleID> <RankerScore>0.005853331470828554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_PGA_Tour</WikiTitle> <WikiTitleID>14685408</WikiTitleID> <RankerScore>0.005853331470828554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_CFL_season</WikiTitle> <WikiTitleID>2922921</WikiTitleID> <RankerScore>0.03387701576074766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_Grand_Prix_motorcycle_racing_season</WikiTitle> <WikiTitleID>8013730</WikiTitleID> <RankerScore>0.005853331470828554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_in_games</WikiTitle> <WikiTitleID>2081991</WikiTitleID> <RankerScore>0.005853331470828554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ontario_general_election,_1971</WikiTitle> <WikiTitleID>1587264</WikiTitleID> <RankerScore>0.005853331470828554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indo-Pakistani_War_of_1971</WikiTitle> <WikiTitleID>464071</WikiTitleID> <RankerScore>0.005853331470828554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_in_country_music</WikiTitle> <WikiTitleID>2011608</WikiTitleID> <RankerScore>0.005853331470828554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_World_Series</WikiTitle> <WikiTitleID>1219631</WikiTitleID> <RankerScore>0.005853331470828554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_at_the_1971_South_Pacific_Games</WikiTitle> <WikiTitleID>15622885</WikiTitleID> <RankerScore>0.005853331470828554</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>It</EntitySurfaceForm>
+	<EntityTextStart>438</EntityTextStart>
+	<EntityTextEnd>440</EntityTextEnd>
+	<LinkerScore>-1.7115908418945676</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>It_(1990_film)</WikiTitle>
+		<WikiTitleID>685938</WikiTitleID>
+		<RankerScore>0.4058901361612485</RankerScore>
+		<Attributes>film	novel	movie</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>It_(novel)</WikiTitle> <WikiTitleID>271590</WikiTitleID> <RankerScore>0.22010721867399796</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(1990_film)</WikiTitle> <WikiTitleID>685938</WikiTitleID> <RankerScore>0.4058901361612485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(1927_film)</WikiTitle> <WikiTitleID>271588</WikiTitleID> <RankerScore>0.14481489253513877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(album)</WikiTitle> <WikiTitleID>557662</WikiTitleID> <RankerScore>0.028648469078701846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It</WikiTitle> <WikiTitleID>74821</WikiTitleID> <RankerScore>0.028648469078701846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Phish_festivals</WikiTitle> <WikiTitleID>4160240</WikiTitleID> <RankerScore>0.028648469078701846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_language</WikiTitle> <WikiTitleID>14708</WikiTitleID> <RankerScore>0.028648469078701846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(2004_film)</WikiTitle> <WikiTitleID>4710990</WikiTitleID> <RankerScore>0.028648469078701846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_girl</WikiTitle> <WikiTitleID>2199811</WikiTitleID> <RankerScore>0.028648469078701846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ordinary_People</WikiTitle> <WikiTitleID>106335</WikiTitleID> <RankerScore>0.028648469078701846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tag_(game)</WikiTitle> <WikiTitleID>536639</WikiTitleID> <RankerScore>0.028648469078701846</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>represented</EntitySurfaceForm>
+	<EntityTextStart>444</EntityTextStart>
+	<EntityTextEnd>455</EntityTextEnd>
+	<LinkerScore>-1.3605196435891718</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Group_representation</WikiTitle>
+		<WikiTitleID>12695</WikiTitleID>
+		<RankerScore>0.10679061495081903</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Group_representation</WikiTitle> <WikiTitleID>12695</WikiTitleID> <RankerScore>0.10679061495081903</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guantanamo_Bay_attorneys</WikiTitle> <WikiTitleID>9327970</WikiTitleID> <RankerScore>0.09350487437845573</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_House_of_Representatives</WikiTitle> <WikiTitleID>40621</WikiTitleID> <RankerScore>0.0812879728793266</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Symbolism</WikiTitle> <WikiTitleID>443576</WikiTitleID> <RankerScore>0.07982405975459986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mimesis</WikiTitle> <WikiTitleID>329625</WikiTitleID> <RankerScore>0.07982405975459986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Representable_functor</WikiTitle> <WikiTitleID>844461</WikiTitleID> <RankerScore>0.07982405975459986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sports_agent</WikiTitle> <WikiTitleID>775067</WikiTitleID> <RankerScore>0.07982405975459986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tournai_(constituency)</WikiTitle> <WikiTitleID>6966459</WikiTitleID> <RankerScore>0.07982405975459986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Representation_(politics)</WikiTitle> <WikiTitleID>2204161</WikiTitleID> <RankerScore>0.07982405975459986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Representation_theorem</WikiTitle> <WikiTitleID>4783135</WikiTitleID> <RankerScore>0.07982405975459986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queen&apos;s_University_of_Belfast_(Northern_Ireland_Parliament_constituency)</WikiTitle> <WikiTitleID>12190532</WikiTitleID> <RankerScore>0.07982405975459986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Chinese_Taipei_Representatives_to_APEC</WikiTitle> <WikiTitleID>3180401</WikiTitleID> <RankerScore>0.07982405975459986</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Calgary City Council</EntitySurfaceForm>
+	<EntityTextStart>465</EntityTextStart>
+	<EntityTextEnd>485</EntityTextEnd>
+	<LinkerScore>5.6424490740358175</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Calgary_City_Council</WikiTitle>
+		<WikiTitleID>1429317</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>council	politics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Calgary_City_Council</WikiTitle> <WikiTitleID>1429317</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ward</EntitySurfaceForm>
+	<EntityTextStart>491</EntityTextStart>
+	<EntityTextEnd>495</EntityTextEnd>
+	<LinkerScore>0.09861642001658838</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ward_(country_subdivision)</WikiTitle>
+		<WikiTitleID>3283310</WikiTitleID>
+		<RankerScore>0.7458385594159262</RankerScore>
+		<Attributes>division	subdivision</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ward_(country_subdivision)</WikiTitle> <WikiTitleID>3283310</WikiTitleID> <RankerScore>0.7458385594159262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wards_of_Japan</WikiTitle> <WikiTitleID>312535</WikiTitleID> <RankerScore>0.0204291015746041</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ward_(LDS_Church)</WikiTitle> <WikiTitleID>436529</WikiTitleID> <RankerScore>0.010774134401145578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ward</WikiTitle> <WikiTitleID>167338</WikiTitleID> <RankerScore>0.05057205418999483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jim_Ward_(musician)</WikiTitle> <WikiTitleID>1598298</WikiTitleID> <RankerScore>0.010774134401145578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ward_Cleaver</WikiTitle> <WikiTitleID>1548818</WikiTitleID> <RankerScore>0.010774134401145578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ward,_New_Zealand</WikiTitle> <WikiTitleID>1134616</WikiTitleID> <RankerScore>0.010774134401145578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wards_of_the_United_Kingdom</WikiTitle> <WikiTitleID>6041592</WikiTitleID> <RankerScore>0.010774134401145578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bill_Ward_(musician)</WikiTitle> <WikiTitleID>853127</WikiTitleID> <RankerScore>0.010774134401145578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ward_County,_North_Dakota</WikiTitle> <WikiTitleID>93159</WikiTitleID> <RankerScore>0.010774134401145578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Andrew_Ward</WikiTitle> <WikiTitleID>1312469</WikiTitleID> <RankerScore>0.010774134401145578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ward,_Colorado</WikiTitle> <WikiTitleID>108411</WikiTitleID> <RankerScore>0.010774134401145578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ward_County,_Texas</WikiTitle> <WikiTitleID>91413</WikiTitleID> <RankerScore>0.010774134401145578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ward,_South_Carolina</WikiTitle> <WikiTitleID>134655</WikiTitleID> <RankerScore>0.010774134401145578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Special_wards_of_Tokyo</WikiTitle> <WikiTitleID>296875</WikiTitleID> <RankerScore>0.010774134401145578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wards_of_the_United_States</WikiTitle> <WikiTitleID>6041640</WikiTitleID> <RankerScore>0.010774134401145578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ward,_New_York</WikiTitle> <WikiTitleID>126124</WikiTitleID> <RankerScore>0.010774134401145578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ward,_Arkansas</WikiTitle> <WikiTitleID>107118</WikiTitleID> <RankerScore>0.010774134401145578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atlanta_annexations_and_wards</WikiTitle> <WikiTitleID>2021571</WikiTitleID> <RankerScore>0.010774134401145578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algy_Ward</WikiTitle> <WikiTitleID>1603221</WikiTitleID> <RankerScore>0.010774134401145578</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Alderman</EntitySurfaceForm>
+	<EntityTextStart>500</EntityTextStart>
+	<EntityTextEnd>508</EntityTextEnd>
+	<LinkerScore>3.731710504472067</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Alderman</WikiTitle>
+		<WikiTitleID>286925</WikiTitleID>
+		<RankerScore>0.9990807506610365</RankerScore>
+		<Attributes>title	occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Alderman</WikiTitle> <WikiTitleID>286925</WikiTitleID> <RankerScore>0.9990807506610365</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_City_Council</WikiTitle> <WikiTitleID>772102</WikiTitleID> <RankerScore>2.0558405714651418E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Louisville_Board_of_Aldermen</WikiTitle> <WikiTitleID>4373989</WikiTitleID> <RankerScore>2.0534232193588562E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calgary_City_Council</WikiTitle> <WikiTitleID>1429317</WikiTitleID> <RankerScore>8.5762246886174E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_of_London_Corporation</WikiTitle> <WikiTitleID>367477</WikiTitleID> <RankerScore>2.0534232193588562E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Joe Ceci</EntitySurfaceForm>
+	<EntityTextStart>511</EntityTextStart>
+	<EntityTextEnd>519</EntityTextEnd>
+	<LinkerScore>4.307011393298153</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Joe_Ceci</WikiTitle>
+		<WikiTitleID>13276478</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Joe_Ceci</WikiTitle> <WikiTitleID>13276478</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>postal code</EntitySurfaceForm>
+	<EntityTextStart>527</EntityTextStart>
+	<EntityTextEnd>538</EntityTextEnd>
+	<LinkerScore>0.252092536614287</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Postal_codes_in_Canada</WikiTitle>
+		<WikiTitleID>333326</WikiTitleID>
+		<RankerScore>0.44039129337408867</RankerScore>
+		<Attributes>code</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Postal_code</WikiTitle> <WikiTitleID>51549</WikiTitleID> <RankerScore>0.20394588994248405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Postal_codes_in_Canada</WikiTitle> <WikiTitleID>333326</WikiTitleID> <RankerScore>0.44039129337408867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_postal_codes_in_Algeria</WikiTitle> <WikiTitleID>8245068</WikiTitleID> <RankerScore>0.02193790271017876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_postal_codes_in_Portugal</WikiTitle> <WikiTitleID>1025501</WikiTitleID> <RankerScore>0.02193790271017876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_postal_codes_in_China</WikiTitle> <WikiTitleID>866400</WikiTitleID> <RankerScore>0.02193790271017876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_postal_codes_in_Greece</WikiTitle> <WikiTitleID>520126</WikiTitleID> <RankerScore>0.02193790271017876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ZIP_code</WikiTitle> <WikiTitleID>51550</WikiTitleID> <RankerScore>0.026594276030745802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_B_postal_codes_of_Canada</WikiTitle> <WikiTitleID>334937</WikiTitleID> <RankerScore>0.02193790271017876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_postal_codes_in_Belgium</WikiTitle> <WikiTitleID>264444</WikiTitleID> <RankerScore>0.02193790271017876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Postal_codes_in_Argentina</WikiTitle> <WikiTitleID>2835165</WikiTitleID> <RankerScore>0.02193790271017876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>INSEE_code</WikiTitle> <WikiTitleID>573770</WikiTitleID> <RankerScore>0.02193790271017876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Postal_codes_in_France</WikiTitle> <WikiTitleID>664756</WikiTitleID> <RankerScore>0.02193790271017876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indian_Postal_Service</WikiTitle> <WikiTitleID>1094923</WikiTitleID> <RankerScore>0.02193790271017876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_postal_codes_in_Germany</WikiTitle> <WikiTitleID>682065</WikiTitleID> <RankerScore>0.02193790271017876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_postal_codes_in_Austria</WikiTitle> <WikiTitleID>1001027</WikiTitleID> <RankerScore>0.02193790271017876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Postal_Index_Number</WikiTitle> <WikiTitleID>476964</WikiTitleID> <RankerScore>0.02193790271017876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_postal_codes_in_Iceland</WikiTitle> <WikiTitleID>2196618</WikiTitleID> <RankerScore>0.02193790271017876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Postcodes_in_the_United_Kingdom</WikiTitle> <WikiTitleID>99654</WikiTitleID> <RankerScore>0.02193790271017876</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>area</EntitySurfaceForm>
+	<EntityTextStart>549</EntityTextStart>
+	<EntityTextEnd>553</EntityTextEnd>
+	<LinkerScore>2.5921958050341773</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Area</WikiTitle>
+		<WikiTitleID>1209</WikiTitleID>
+		<RankerScore>0.93514289132179</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Area</WikiTitle> <WikiTitleID>1209</WikiTitleID> <RankerScore>0.93514289132179</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Area</WikiTitle> <WikiTitleID>1024221</WikiTitleID> <RankerScore>0.7862204171333196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_places_in_Hong_Kong</WikiTitle> <WikiTitleID>369991</WikiTitleID> <RankerScore>0.0035838352012380987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Area_(LDS_Church)</WikiTitle> <WikiTitleID>12054839</WikiTitleID> <RankerScore>0.0035838352012380987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_countries_and_dependencies_by_area</WikiTitle> <WikiTitleID>72028</WikiTitleID> <RankerScore>0.003931910257162407</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cultural_area</WikiTitle> <WikiTitleID>1526009</WikiTitleID> <RankerScore>0.0035838352012380987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_areas_in_Chicago</WikiTitle> <WikiTitleID>1265165</WikiTitleID> <RankerScore>0.0035838352012380987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Area_of_a_disk</WikiTitle> <WikiTitleID>1896782</WikiTitleID> <RankerScore>0.0035838352012380987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_U.S._states_and_territories_by_area</WikiTitle> <WikiTitleID>87513</WikiTitleID> <RankerScore>0.0035838352012380987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surface_area</WikiTitle> <WikiTitleID>27725</WikiTitleID> <RankerScore>0.0035838352012380987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Area_bombardment</WikiTitle> <WikiTitleID>1469767</WikiTitleID> <RankerScore>0.0035838352012380987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Area_(country_subdivision)</WikiTitle> <WikiTitleID>7117925</WikiTitleID> <RankerScore>0.0035838352012380987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Penalty_area</WikiTitle> <WikiTitleID>53884</WikiTitleID> <RankerScore>0.0035838352012380987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Census-designated_place</WikiTitle> <WikiTitleID>269771</WikiTitleID> <RankerScore>0.0035838352012380987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Territory_(animal)</WikiTitle> <WikiTitleID>501364</WikiTitleID> <RankerScore>0.0035838352012380987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_climbing_areas</WikiTitle> <WikiTitleID>6241</WikiTitleID> <RankerScore>0.0035838352012380987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Portland_metropolitan_area</WikiTitle> <WikiTitleID>1054201</WikiTitleID> <RankerScore>0.0035838352012380987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Phoenix_metropolitan_area</WikiTitle> <WikiTitleID>602951</WikiTitleID> <RankerScore>0.0035838352012380987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_cities_by_area</WikiTitle> <WikiTitleID>996403</WikiTitleID> <RankerScore>0.0035838352012380987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Free_Zone_(region)</WikiTitle> <WikiTitleID>3485861</WikiTitleID> <RankerScore>0.0035838352012380987</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>T2B</EntitySurfaceForm>
+	<EntityTextStart>559</EntityTextStart>
+	<EntityTextEnd>562</EntityTextEnd>
+	<LinkerScore>3.537345041565344</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>List_of_T_postal_codes_of_Canada</WikiTitle>
+		<WikiTitleID>966937</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>list	code	communications</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>List_of_T_postal_codes_of_Canada</WikiTitle> <WikiTitleID>966937</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>2006</EntitySurfaceForm>
+	<EntityTextStart>569</EntityTextStart>
+	<EntityTextEnd>573</EntityTextEnd>
+	<LinkerScore>2.4117841095669563</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2006</WikiTitle>
+		<WikiTitleID>36164</WikiTitleID>
+		<RankerScore>0.9363840042186227</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2006</WikiTitle> <WikiTitleID>36164</WikiTitleID> <RankerScore>0.9363840042186227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IROC_XXX</WikiTitle> <WikiTitleID>7671733</WikiTitleID> <RankerScore>0.028088832645752432</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_N&apos;Djamena_(2006)</WikiTitle> <WikiTitleID>4750854</WikiTitleID> <RankerScore>0.018572893728401287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nauru_at_the_2006_Commonwealth_Games</WikiTitle> <WikiTitleID>4412369</WikiTitleID> <RankerScore>0.016954269407223655</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>neighbourhood</EntitySurfaceForm>
+	<EntityTextStart>578</EntityTextStart>
+	<EntityTextEnd>591</EntityTextEnd>
+	<LinkerScore>1.9458894036522205</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Neighbourhood</WikiTitle>
+		<WikiTitleID>177193</WikiTitleID>
+		<RankerScore>0.7452743559153546</RankerScore>
+		<Attributes>division</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Neighbourhood</WikiTitle> <WikiTitleID>177193</WikiTitleID> <RankerScore>0.7452743559153546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neighbourhood_(mathematics)</WikiTitle> <WikiTitleID>1529485</WikiTitleID> <RankerScore>0.023230730692938455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_neighbourhoods_in_Patras</WikiTitle> <WikiTitleID>10817237</WikiTitleID> <RankerScore>0.04151273569395926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barrios_and_Communes_of_Buenos_Aires</WikiTitle> <WikiTitleID>738917</WikiTitleID> <RankerScore>0.011873886106109227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_neighbourhoods_in_Montreal</WikiTitle> <WikiTitleID>7018451</WikiTitleID> <RankerScore>0.011873886106109227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_places_in_Singapore</WikiTitle> <WikiTitleID>968623</WikiTitleID> <RankerScore>0.011873886106109227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barrios_of_Montevideo</WikiTitle> <WikiTitleID>13437962</WikiTitleID> <RankerScore>0.011873886106109227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_neighbourhoods_in_Toronto</WikiTitle> <WikiTitleID>1150939</WikiTitleID> <RankerScore>0.011873886106109227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_neighbourhoods_of_Seoul</WikiTitle> <WikiTitleID>10063450</WikiTitleID> <RankerScore>0.011873886106109227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neighborhoods_in_Detroit</WikiTitle> <WikiTitleID>3158941</WikiTitleID> <RankerScore>0.011873886106109227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neighbourhood_(graph_theory)</WikiTitle> <WikiTitleID>7309251</WikiTitleID> <RankerScore>0.011873886106109227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_Neighbourhood_Policy</WikiTitle> <WikiTitleID>3319779</WikiTitleID> <RankerScore>0.011873886106109227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Massey_Place,_Saskatoon</WikiTitle> <WikiTitleID>9360407</WikiTitleID> <RankerScore>0.011873886106109227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neighborhoods_of_Tel_Aviv</WikiTitle> <WikiTitleID>5719771</WikiTitleID> <RankerScore>0.011873886106109227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fullwell_Cross</WikiTitle> <WikiTitleID>16090962</WikiTitleID> <RankerScore>0.011873886106109227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dzielnica</WikiTitle> <WikiTitleID>9691991</WikiTitleID> <RankerScore>0.011873886106109227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_Mosconi_neighbourhood</WikiTitle> <WikiTitleID>13510226</WikiTitleID> <RankerScore>0.011873886106109227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Open_set</WikiTitle> <WikiTitleID>39358</WikiTitleID> <RankerScore>0.011873886106109227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neighbourhoods_in_Kolkata</WikiTitle> <WikiTitleID>3415297</WikiTitleID> <RankerScore>0.011873886106109227</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>population</EntitySurfaceForm>
+	<EntityTextStart>598</EntityTextStart>
+	<EntityTextEnd>608</EntityTextEnd>
+	<LinkerScore>3.182914538058607</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Population</WikiTitle>
+		<WikiTitleID>22949</WikiTitleID>
+		<RankerScore>0.8878541396786678</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Population</WikiTitle> <WikiTitleID>22949</WikiTitleID> <RankerScore>0.8878541396786678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statistical_population</WikiTitle> <WikiTitleID>27585</WikiTitleID> <RankerScore>0.011747664745074583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_countries_by_population</WikiTitle> <WikiTitleID>69058</WikiTitleID> <RankerScore>0.005881942825240211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Population_genetics</WikiTitle> <WikiTitleID>219268</WikiTitleID> <RankerScore>0.005559779573589268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_population</WikiTitle> <WikiTitleID>524595</WikiTitleID> <RankerScore>0.005559779573589268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Fiji</WikiTitle> <WikiTitleID>54574</WikiTitleID> <RankerScore>0.005559779573589268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Population_dynamics</WikiTitle> <WikiTitleID>501466</WikiTitleID> <RankerScore>0.005559779573589268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demography_of_Slough</WikiTitle> <WikiTitleID>8688690</WikiTitleID> <RankerScore>0.005559779573589268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_U.S._states_and_territories_by_population</WikiTitle> <WikiTitleID>87525</WikiTitleID> <RankerScore>0.005559779573589268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Overpopulation</WikiTitle> <WikiTitleID>4599275</WikiTitleID> <RankerScore>0.005559779573589268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Population_growth</WikiTitle> <WikiTitleID>940606</WikiTitleID> <RankerScore>0.005559779573589268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Iran</WikiTitle> <WikiTitleID>64699</WikiTitleID> <RankerScore>0.005559779573589268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Romania</WikiTitle> <WikiTitleID>25638</WikiTitleID> <RankerScore>0.005559779573589268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mean_center_of_United_States_population</WikiTitle> <WikiTitleID>391548</WikiTitleID> <RankerScore>0.005559779573589268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_France</WikiTitle> <WikiTitleID>67475</WikiTitleID> <RankerScore>0.005559779573589268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_the_United_States</WikiTitle> <WikiTitleID>70197</WikiTitleID> <RankerScore>0.005559779573589268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demography</WikiTitle> <WikiTitleID>45642</WikiTitleID> <RankerScore>0.005559779573589268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Population_ecology</WikiTitle> <WikiTitleID>1156819</WikiTitleID> <RankerScore>0.005559779573589268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Bhutan</WikiTitle> <WikiTitleID>69003</WikiTitleID> <RankerScore>0.005559779573589268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Tonga</WikiTitle> <WikiTitleID>30161</WikiTitleID> <RankerScore>0.005559779573589268</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Residents</EntitySurfaceForm>
+	<EntityTextStart>620</EntityTextStart>
+	<EntityTextEnd>629</EntityTextEnd>
+	<LinkerScore>0.9050748602716852</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Resident</WikiTitle>
+		<WikiTitleID>221355</WikiTitleID>
+		<RankerScore>0.34373683319838694</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Resident_(title)</WikiTitle> <WikiTitleID>491489</WikiTitleID> <RankerScore>0.17133722044618285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Resident</WikiTitle> <WikiTitleID>221355</WikiTitleID> <RankerScore>0.34373683319838694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Residents</WikiTitle> <WikiTitleID>30629</WikiTitleID> <RankerScore>0.14923541313892721</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Second_Life</WikiTitle> <WikiTitleID>6696604</WikiTitleID> <RankerScore>0.11189684440550102</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Residency_(medicine)</WikiTitle> <WikiTitleID>1147690</WikiTitleID> <RankerScore>0.11189684440550102</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Residency_(domicile)</WikiTitle> <WikiTitleID>2404274</WikiTitleID> <RankerScore>0.11189684440550102</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>community</EntitySurfaceForm>
+	<EntityTextStart>638</EntityTextStart>
+	<EntityTextEnd>647</EntityTextEnd>
+	<LinkerScore>0.713108660237619</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Community</WikiTitle>
+		<WikiTitleID>5695</WikiTitleID>
+		<RankerScore>0.7825256868241818</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Community</WikiTitle> <WikiTitleID>5695</WikiTitleID> <RankerScore>0.7825256868241818</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_(Wales)</WikiTitle> <WikiTitleID>1351640</WikiTitleID> <RankerScore>0.025405430659364615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_radio</WikiTitle> <WikiTitleID>630006</WikiTitleID> <RankerScore>0.007832569729565864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Municipalities_and_communities_of_Greece</WikiTitle> <WikiTitleID>2513752</WikiTitleID> <RankerScore>0.007832569729565864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_council</WikiTitle> <WikiTitleID>1639015</WikiTitleID> <RankerScore>0.007832569729565864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_school</WikiTitle> <WikiTitleID>555442</WikiTitleID> <RankerScore>0.007832569729565864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_college</WikiTitle> <WikiTitleID>5696</WikiTitleID> <RankerScore>0.007832569729565864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_(ecology)</WikiTitle> <WikiTitleID>10599506</WikiTitleID> <RankerScore>0.007832569729565864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Virtual_community</WikiTitle> <WikiTitleID>176320</WikiTitleID> <RankerScore>0.007832569729565864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cenobitic_monasticism</WikiTitle> <WikiTitleID>940009</WikiTitleID> <RankerScore>0.007832569729565864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Residential_community</WikiTitle> <WikiTitleID>1324897</WikiTitleID> <RankerScore>0.06674776684339982</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Unincorporated_area</WikiTitle> <WikiTitleID>232346</WikiTitleID> <RankerScore>0.007832569729565864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intentional_community</WikiTitle> <WikiTitleID>427175</WikiTitleID> <RankerScore>0.007832569729565864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sangha</WikiTitle> <WikiTitleID>28747</WikiTitleID> <RankerScore>0.007832569729565864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_community</WikiTitle> <WikiTitleID>89129</WikiTitleID> <RankerScore>0.007832569729565864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scientific_community</WikiTitle> <WikiTitleID>338705</WikiTitleID> <RankerScore>0.007832569729565864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Free_software_movement</WikiTitle> <WikiTitleID>6974466</WikiTitleID> <RankerScore>0.007832569729565864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kehilla</WikiTitle> <WikiTitleID>3328886</WikiTitleID> <RankerScore>0.007832569729565864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_(ecology)</WikiTitle> <WikiTitleID>1464824</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hacker_(term)</WikiTitle> <WikiTitleID>13533</WikiTitleID> <RankerScore>0.007832569729565864</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>median household income</EntitySurfaceForm>
+	<EntityTextStart>656</EntityTextStart>
+	<EntityTextEnd>679</EntityTextEnd>
+	<LinkerScore>3.791190292585447</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Median_household_income</WikiTitle>
+		<WikiTitleID>2021534</WikiTitleID>
+		<RankerScore>0.9975005512764755</RankerScore>
+		<Attributes>dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Median_household_income</WikiTitle> <WikiTitleID>2021534</WikiTitleID> <RankerScore>0.9975005512764755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Household_income_in_the_United_States</WikiTitle> <WikiTitleID>5755439</WikiTitleID> <RankerScore>7.519103723962052E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Median_household_income_in_Australia_and_New_Zealand</WikiTitle> <WikiTitleID>13732839</WikiTitleID> <RankerScore>5.714247039071288E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_highest-income_counties_in_the_United_States</WikiTitle> <WikiTitleID>1979455</WikiTitleID> <RankerScore>6.046889433140476E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arizona_locations_by_per_capita_income</WikiTitle> <WikiTitleID>1369624</WikiTitleID> <RankerScore>5.714247039071288E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>$</EntitySurfaceForm>
+	<EntityTextStart>687</EntityTextStart>
+	<EntityTextEnd>688</EntityTextEnd>
+	<LinkerScore>3.534143691346217</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Canadian_dollar</WikiTitle>
+		<WikiTitleID>101846</WikiTitleID>
+		<RankerScore>0.9999243020653076</RankerScore>
+		<Attributes>currency	sign</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States_dollar</WikiTitle> <WikiTitleID>38723</WikiTitleID> <RankerScore>4.136665843991047E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_dollar</WikiTitle> <WikiTitleID>101846</WikiTitleID> <RankerScore>0.9999243020653076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dollar_sign</WikiTitle> <WikiTitleID>2308563</WikiTitleID> <RankerScore>1.196840600078152E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australian_dollar</WikiTitle> <WikiTitleID>81215</WikiTitleID> <RankerScore>1.196840600078152E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dollar</WikiTitle> <WikiTitleID>8100</WikiTitleID> <RankerScore>1.196840600078152E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_dollar</WikiTitle> <WikiTitleID>161585</WikiTitleID> <RankerScore>1.196840600078152E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Straits_dollar</WikiTitle> <WikiTitleID>3823390</WikiTitleID> <RankerScore>1.196840600078152E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hexadecimal</WikiTitle> <WikiTitleID>13263</WikiTitleID> <RankerScore>1.196840600078152E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>$_(film)</WikiTitle> <WikiTitleID>4213160</WikiTitleID> <RankerScore>1.196840600078152E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>1.3984986051291725E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexican_peso</WikiTitle> <WikiTitleID>147253</WikiTitleID> <RankerScore>1.196840600078152E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trinidad_and_Tobago_dollar</WikiTitle> <WikiTitleID>1370135</WikiTitleID> <RankerScore>1.196840600078152E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Geary–Khamis_dollar</WikiTitle> <WikiTitleID>10375913</WikiTitleID> <RankerScore>1.196840600078152E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_peso</WikiTitle> <WikiTitleID>710305</WikiTitleID> <RankerScore>1.196840600078152E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_dollar</WikiTitle> <WikiTitleID>309769</WikiTitleID> <RankerScore>1.196840600078152E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_peso</WikiTitle> <WikiTitleID>171898</WikiTitleID> <RankerScore>1.196840600078152E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peso</WikiTitle> <WikiTitleID>179597</WikiTitleID> <RankerScore>1.196840600078152E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Singapore_dollar</WikiTitle> <WikiTitleID>476174</WikiTitleID> <RankerScore>1.196840600078152E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Malaysian_ringgit</WikiTitle> <WikiTitleID>360278</WikiTitleID> <RankerScore>1.196840600078152E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Money</WikiTitle> <WikiTitleID>8983183</WikiTitleID> <RankerScore>1.196840600078152E-6</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>2000</EntitySurfaceForm>
+	<EntityTextStart>700</EntityTextStart>
+	<EntityTextEnd>704</EntityTextEnd>
+	<LinkerScore>2.1168143556626413</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2000</WikiTitle>
+		<WikiTitleID>34548</WikiTitleID>
+		<RankerScore>0.7861263994947717</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2000</WikiTitle> <WikiTitleID>34548</WikiTitleID> <RankerScore>0.7861263994947717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_film</WikiTitle> <WikiTitleID>167091</WikiTitleID> <RankerScore>0.027640725474706956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_music</WikiTitle> <WikiTitleID>160812</WikiTitleID> <RankerScore>0.021071510831744435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_television</WikiTitle> <WikiTitleID>169766</WikiTitleID> <RankerScore>0.009715374364633931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_video_gaming</WikiTitle> <WikiTitleID>1322914</WikiTitleID> <RankerScore>0.009715374364633931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_literature</WikiTitle> <WikiTitleID>190187</WikiTitleID> <RankerScore>0.009715374364633931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_sports</WikiTitle> <WikiTitleID>224719</WikiTitleID> <RankerScore>0.009715374364633931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_Summer_Olympics</WikiTitle> <WikiTitleID>71432</WikiTitleID> <RankerScore>0.009715374364633931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_NFL_season</WikiTitle> <WikiTitleID>2310937</WikiTitleID> <RankerScore>0.009715374364633931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_baseball</WikiTitle> <WikiTitleID>1487553</WikiTitleID> <RankerScore>0.009715374364633931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_presidential_election,_2000</WikiTitle> <WikiTitleID>32009</WikiTitleID> <RankerScore>0.009715374364633931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_federal_election,_2000</WikiTitle> <WikiTitleID>250982</WikiTitleID> <RankerScore>0.009715374364633931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_poetry</WikiTitle> <WikiTitleID>5512957</WikiTitleID> <RankerScore>0.009715374364633931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_House_of_Representatives_elections,_2000</WikiTitle> <WikiTitleID>1341423</WikiTitleID> <RankerScore>0.009715374364633931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_comics</WikiTitle> <WikiTitleID>17474654</WikiTitleID> <RankerScore>0.009715374364633931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_United_States_Census</WikiTitle> <WikiTitleID>432383</WikiTitleID> <RankerScore>0.009715374364633931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Windows_2000</WikiTitle> <WikiTitleID>33941</WikiTitleID> <RankerScore>0.009715374364633931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_African_Cup_of_Nations</WikiTitle> <WikiTitleID>1108322</WikiTitleID> <RankerScore>0.009715374364633931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999–2000_NHL_season</WikiTitle> <WikiTitleID>2173560</WikiTitleID> <RankerScore>0.009715374364633931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_NASCAR</WikiTitle> <WikiTitleID>11474601</WikiTitleID> <RankerScore>0.009715374364633931</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the neighborhood</EntitySurfaceForm>
+	<EntityTextStart>758</EntityTextStart>
+	<EntityTextEnd>774</EntityTextEnd>
+	<LinkerScore>-1.360738207852514</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baharestan_(district)</WikiTitle>
+		<WikiTitleID>12559206</WikiTitleID>
+		<RankerScore>0.5823562302987724</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Woodlawn,_Bronx</WikiTitle> <WikiTitleID>1088456</WikiTitleID> <RankerScore>0.41764376970122774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baharestan_(district)</WikiTitle> <WikiTitleID>12559206</WikiTitleID> <RankerScore>0.5823562302987724</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>neighborhood</EntitySurfaceForm>
+	<EntityTextStart>762</EntityTextStart>
+	<EntityTextEnd>774</EntityTextEnd>
+	<LinkerScore>2.156540813780808</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Neighbourhood</WikiTitle>
+		<WikiTitleID>177193</WikiTitleID>
+		<RankerScore>0.8732222902419574</RankerScore>
+		<Attributes>division</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Neighbourhood</WikiTitle> <WikiTitleID>177193</WikiTitleID> <RankerScore>0.8732222902419574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neighbourhood_(mathematics)</WikiTitle> <WikiTitleID>1529485</WikiTitleID> <RankerScore>0.009067393997453356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neighborhoods_in_New_Orleans</WikiTitle> <WikiTitleID>3950865</WikiTitleID> <RankerScore>0.00516970446942416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neighborhoods_in_Chicago</WikiTitle> <WikiTitleID>1880729</WikiTitleID> <RankerScore>0.02982533978037848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_areas_in_Chicago</WikiTitle> <WikiTitleID>1265165</WikiTitleID> <RankerScore>0.00516970446942416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neighborhoods_in_Miami</WikiTitle> <WikiTitleID>7122027</WikiTitleID> <RankerScore>0.00516970446942416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barrios_and_Communes_of_Buenos_Aires</WikiTitle> <WikiTitleID>738917</WikiTitleID> <RankerScore>0.00516970446942416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Manhattan_neighborhoods</WikiTitle> <WikiTitleID>630681</WikiTitleID> <RankerScore>0.00516970446942416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Harrisburg_neighborhoods</WikiTitle> <WikiTitleID>3495488</WikiTitleID> <RankerScore>0.00516970446942416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neighbourhood_(graph_theory)</WikiTitle> <WikiTitleID>7309251</WikiTitleID> <RankerScore>0.00516970446942416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neighborhoods_and_suburbs_of_Novi_Sad</WikiTitle> <WikiTitleID>7754722</WikiTitleID> <RankerScore>0.00516970446942416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_districts_and_neighborhoods_of_Los_Angeles</WikiTitle> <WikiTitleID>1647580</WikiTitleID> <RankerScore>0.00516970446942416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neighborhoods_in_San_Francisco</WikiTitle> <WikiTitleID>1487556</WikiTitleID> <RankerScore>0.00516970446942416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neighborhoods_of_Milwaukee</WikiTitle> <WikiTitleID>6380751</WikiTitleID> <RankerScore>0.00516970446942416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neighborhoods_in_Washington,_D.C.</WikiTitle> <WikiTitleID>1774491</WikiTitleID> <RankerScore>0.00516970446942416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Pittsburgh_neighborhoods</WikiTitle> <WikiTitleID>558558</WikiTitleID> <RankerScore>0.00516970446942416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_neighbourhoods_in_Patras</WikiTitle> <WikiTitleID>10817237</WikiTitleID> <RankerScore>0.00516970446942416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Brooklyn_neighborhoods</WikiTitle> <WikiTitleID>306379</WikiTitleID> <RankerScore>0.00516970446942416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Cincinnati_neighborhoods</WikiTitle> <WikiTitleID>5749518</WikiTitleID> <RankerScore>0.00516970446942416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neighborhoods_of_Kansas_City,_Missouri_and_Kansas_City,_Kansas</WikiTitle> <WikiTitleID>4574597</WikiTitleID> <RankerScore>0.00516970446942416</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>2000</EntitySurfaceForm>
+	<EntityTextStart>782</EntityTextStart>
+	<EntityTextEnd>786</EntityTextEnd>
+	<LinkerScore>1.9134599250741513</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2000</WikiTitle>
+		<WikiTitleID>34548</WikiTitleID>
+		<RankerScore>0.784352865254088</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2000</WikiTitle> <WikiTitleID>34548</WikiTitleID> <RankerScore>0.784352865254088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_film</WikiTitle> <WikiTitleID>167091</WikiTitleID> <RankerScore>0.027869934563397324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_music</WikiTitle> <WikiTitleID>160812</WikiTitleID> <RankerScore>0.021246245094761262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_television</WikiTitle> <WikiTitleID>169766</WikiTitleID> <RankerScore>0.009795938534573726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_video_gaming</WikiTitle> <WikiTitleID>1322914</WikiTitleID> <RankerScore>0.009795938534573726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_literature</WikiTitle> <WikiTitleID>190187</WikiTitleID> <RankerScore>0.009795938534573726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_sports</WikiTitle> <WikiTitleID>224719</WikiTitleID> <RankerScore>0.009795938534573726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_Summer_Olympics</WikiTitle> <WikiTitleID>71432</WikiTitleID> <RankerScore>0.009795938534573726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_NFL_season</WikiTitle> <WikiTitleID>2310937</WikiTitleID> <RankerScore>0.009795938534573726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_baseball</WikiTitle> <WikiTitleID>1487553</WikiTitleID> <RankerScore>0.009795938534573726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_presidential_election,_2000</WikiTitle> <WikiTitleID>32009</WikiTitleID> <RankerScore>0.009795938534573726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_federal_election,_2000</WikiTitle> <WikiTitleID>250982</WikiTitleID> <RankerScore>0.009795938534573726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_poetry</WikiTitle> <WikiTitleID>5512957</WikiTitleID> <RankerScore>0.009795938534573726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_House_of_Representatives_elections,_2000</WikiTitle> <WikiTitleID>1341423</WikiTitleID> <RankerScore>0.009795938534573726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_comics</WikiTitle> <WikiTitleID>17474654</WikiTitleID> <RankerScore>0.009795938534573726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_United_States_Census</WikiTitle> <WikiTitleID>432383</WikiTitleID> <RankerScore>0.009795938534573726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Windows_2000</WikiTitle> <WikiTitleID>33941</WikiTitleID> <RankerScore>0.009795938534573726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_African_Cup_of_Nations</WikiTitle> <WikiTitleID>1108322</WikiTitleID> <RankerScore>0.009795938534573726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999–2000_NHL_season</WikiTitle> <WikiTitleID>2173560</WikiTitleID> <RankerScore>0.009795938534573726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_NASCAR</WikiTitle> <WikiTitleID>11474601</WikiTitleID> <RankerScore>0.009795938534573726</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>residents</EntitySurfaceForm>
+	<EntityTextStart>801</EntityTextStart>
+	<EntityTextEnd>810</EntityTextEnd>
+	<LinkerScore>0.31912155881431425</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Resident</WikiTitle>
+		<WikiTitleID>221355</WikiTitleID>
+		<RankerScore>0.4490691337308287</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Resident</WikiTitle> <WikiTitleID>221355</WikiTitleID> <RankerScore>0.4490691337308287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Residency_(domicile)</WikiTitle> <WikiTitleID>2404274</WikiTitleID> <RankerScore>0.2178294466742761</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Residency_(medicine)</WikiTitle> <WikiTitleID>1147690</WikiTitleID> <RankerScore>0.08451388026856284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Second_Life</WikiTitle> <WikiTitleID>6696604</WikiTitleID> <RankerScore>0.062146884831583114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Permanent_residency</WikiTitle> <WikiTitleID>1284324</WikiTitleID> <RankerScore>0.062146884831583114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Citizenship</WikiTitle> <WikiTitleID>6784</WikiTitleID> <RankerScore>0.062146884831583114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_refugee</WikiTitle> <WikiTitleID>74681</WikiTitleID> <RankerScore>0.062146884831583114</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>proportion</EntitySurfaceForm>
+	<EntityTextStart>834</EntityTextStart>
+	<EntityTextEnd>844</EntityTextEnd>
+	<LinkerScore>-1.0557380247360344</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Proportionality_(mathematics)</WikiTitle>
+		<WikiTitleID>81863</WikiTitleID>
+		<RankerScore>0.32564155711281756</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Proportionality_(mathematics)</WikiTitle> <WikiTitleID>81863</WikiTitleID> <RankerScore>0.32564155711281756</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proportionality</WikiTitle> <WikiTitleID>771560</WikiTitleID> <RankerScore>0.20149125585578695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Body_proportions</WikiTitle> <WikiTitleID>934991</WikiTitleID> <RankerScore>0.12019238766870093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proportion_(architecture)</WikiTitle> <WikiTitleID>1970102</WikiTitleID> <RankerScore>0.08816869984067366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proportional_representation</WikiTitle> <WikiTitleID>23298</WikiTitleID> <RankerScore>0.08816869984067366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ratio</WikiTitle> <WikiTitleID>87837</WikiTitleID> <RankerScore>0.08816869984067366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proportional_(fair_division)</WikiTitle> <WikiTitleID>2260894</WikiTitleID> <RankerScore>0.08816869984067366</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>buildings</EntitySurfaceForm>
+	<EntityTextStart>861</EntityTextStart>
+	<EntityTextEnd>870</EntityTextEnd>
+	<LinkerScore>2.1329042980828854</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Building</WikiTitle>
+		<WikiTitleID>45995</WikiTitleID>
+		<RankerScore>0.7981499276859814</RankerScore>
+		<Attributes>building</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Building</WikiTitle> <WikiTitleID>45995</WikiTitleID> <RankerScore>0.7981499276859814</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Catherine_de&apos;_Medici&apos;s_building_projects</WikiTitle> <WikiTitleID>13994533</WikiTitleID> <RankerScore>0.02896231914207743</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Building_code</WikiTitle> <WikiTitleID>537481</WikiTitleID> <RankerScore>0.018503146205657402</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Construction</WikiTitle> <WikiTitleID>239038</WikiTitleID> <RankerScore>0.022054943852326262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Architecture</WikiTitle> <WikiTitleID>903378</WikiTitleID> <RankerScore>0.022054943852326262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Brown_University_buildings</WikiTitle> <WikiTitleID>12802889</WikiTitleID> <RankerScore>0.022054943852326262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Building_(mathematics)</WikiTitle> <WikiTitleID>275015</WikiTitleID> <RankerScore>0.022054943852326262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parthenon</WikiTitle> <WikiTitleID>23672</WikiTitleID> <RankerScore>0.022054943852326262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bahá&apos;í_World_Centre_buildings</WikiTitle> <WikiTitleID>1881808</WikiTitleID> <RankerScore>0.022054943852326262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Building_material</WikiTitle> <WikiTitleID>464779</WikiTitleID> <RankerScore>0.022054943852326262</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>condominium</EntitySurfaceForm>
+	<EntityTextStart>878</EntityTextStart>
+	<EntityTextEnd>889</EntityTextEnd>
+	<LinkerScore>4.579751591120938</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Condominium</WikiTitle>
+		<WikiTitleID>375303</WikiTitleID>
+		<RankerScore>0.9994083393826187</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Condominium</WikiTitle> <WikiTitleID>375303</WikiTitleID> <RankerScore>0.9994083393826187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Condominium_(international_law)</WikiTitle> <WikiTitleID>375302</WikiTitleID> <RankerScore>5.916606173812812E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>apartment</EntitySurfaceForm>
+	<EntityTextStart>898</EntityTextStart>
+	<EntityTextEnd>907</EntityTextEnd>
+	<LinkerScore>3.5874898295814996</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Apartment</WikiTitle>
+		<WikiTitleID>265567</WikiTitleID>
+		<RankerScore>0.9992106633067805</RankerScore>
+		<Attributes>apartment	type</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Apartment</WikiTitle> <WikiTitleID>265567</WikiTitleID> <RankerScore>0.9992106633067805</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Friends</WikiTitle> <WikiTitleID>11315</WikiTitleID> <RankerScore>2.6538318042831338E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Apartment</WikiTitle> <WikiTitleID>665817</WikiTitleID> <RankerScore>2.6753441597478367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Al-Qaeda_safe_houses,_Karachi</WikiTitle> <WikiTitleID>8015231</WikiTitleID> <RankerScore>2.6538318042831338E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Condominium</WikiTitle> <WikiTitleID>375303</WikiTitleID> <RankerScore>7.362600571338658E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>housing</EntitySurfaceForm>
+	<EntityTextStart>929</EntityTextStart>
+	<EntityTextEnd>936</EntityTextEnd>
+	<LinkerScore>0.2543693696847847</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Housing</WikiTitle>
+		<WikiTitleID>15360658</WikiTitleID>
+		<RankerScore>0.5124700944867736</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Housing</WikiTitle> <WikiTitleID>15360658</WikiTitleID> <RankerScore>0.5124700944867736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House</WikiTitle> <WikiTitleID>13590</WikiTitleID> <RankerScore>0.02453602277246219</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Public_housing</WikiTitle> <WikiTitleID>177912</WikiTitleID> <RankerScore>0.08586326643991102</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Housing_and_Development_Board</WikiTitle> <WikiTitleID>709376</WikiTitleID> <RankerScore>0.02453602277246219</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dormitory</WikiTitle> <WikiTitleID>317328</WikiTitleID> <RankerScore>0.02453602277246219</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homelessness</WikiTitle> <WikiTitleID>13794</WikiTitleID> <RankerScore>0.02453602277246219</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Residential_area</WikiTitle> <WikiTitleID>543770</WikiTitleID> <RankerScore>0.1808424341211557</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Affordable_housing</WikiTitle> <WikiTitleID>3531662</WikiTitleID> <RankerScore>0.02453602277246219</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Enclosure</WikiTitle> <WikiTitleID>186721</WikiTitleID> <RankerScore>0.02453602277246219</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Housing_cooperative</WikiTitle> <WikiTitleID>570478</WikiTitleID> <RankerScore>0.02453602277246219</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Housing_tenure</WikiTitle> <WikiTitleID>373968</WikiTitleID> <RankerScore>0.02453602277246219</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Housing_in_Japan</WikiTitle> <WikiTitleID>3132228</WikiTitleID> <RankerScore>0.02453602277246219</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>renting</EntitySurfaceForm>
+	<EntityTextStart>952</EntityTextStart>
+	<EntityTextEnd>959</EntityTextEnd>
+	<LinkerScore>3.596030453067407</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Renting</WikiTitle>
+		<WikiTitleID>342324</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Renting</WikiTitle> <WikiTitleID>342324</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>community</EntitySurfaceForm>
+	<EntityTextStart>967</EntityTextStart>
+	<EntityTextEnd>976</EntityTextEnd>
+	<LinkerScore>1.002282423735832</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Community</WikiTitle>
+		<WikiTitleID>5695</WikiTitleID>
+		<RankerScore>0.7677703653425908</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Community</WikiTitle> <WikiTitleID>5695</WikiTitleID> <RankerScore>0.7677703653425908</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_(Wales)</WikiTitle> <WikiTitleID>1351640</WikiTitleID> <RankerScore>0.02604218540619363</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_radio</WikiTitle> <WikiTitleID>630006</WikiTitleID> <RankerScore>0.01038969507289204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Municipalities_and_communities_of_Greece</WikiTitle> <WikiTitleID>2513752</WikiTitleID> <RankerScore>0.01038969507289204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_council</WikiTitle> <WikiTitleID>1639015</WikiTitleID> <RankerScore>0.01038969507289204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_school</WikiTitle> <WikiTitleID>555442</WikiTitleID> <RankerScore>0.039952328084943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_college</WikiTitle> <WikiTitleID>5696</WikiTitleID> <RankerScore>0.01038969507289204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_(ecology)</WikiTitle> <WikiTitleID>10599506</WikiTitleID> <RankerScore>0.01038969507289204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Virtual_community</WikiTitle> <WikiTitleID>176320</WikiTitleID> <RankerScore>0.01038969507289204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cenobitic_monasticism</WikiTitle> <WikiTitleID>940009</WikiTitleID> <RankerScore>0.01038969507289204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Residential_community</WikiTitle> <WikiTitleID>1324897</WikiTitleID> <RankerScore>0.01038969507289204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Unincorporated_area</WikiTitle> <WikiTitleID>232346</WikiTitleID> <RankerScore>0.01038969507289204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intentional_community</WikiTitle> <WikiTitleID>427175</WikiTitleID> <RankerScore>0.01038969507289204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sangha</WikiTitle> <WikiTitleID>28747</WikiTitleID> <RankerScore>0.01038969507289204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_community</WikiTitle> <WikiTitleID>89129</WikiTitleID> <RankerScore>0.01038969507289204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scientific_community</WikiTitle> <WikiTitleID>338705</WikiTitleID> <RankerScore>0.01038969507289204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Free_software_movement</WikiTitle> <WikiTitleID>6974466</WikiTitleID> <RankerScore>0.01038969507289204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kehilla</WikiTitle> <WikiTitleID>3328886</WikiTitleID> <RankerScore>0.01038969507289204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_(ecology)</WikiTitle> <WikiTitleID>1464824</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hacker_(term)</WikiTitle> <WikiTitleID>13533</WikiTitleID> <RankerScore>0.01038969507289204</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>served</EntitySurfaceForm>
+	<EntityTextStart>980</EntityTextStart>
+	<EntityTextEnd>986</EntityTextEnd>
+	<LinkerScore>-0.7202523311876842</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2006</WikiTitle>
+		<WikiTitleID>36164</WikiTitleID>
+		<RankerScore>0.41335184975316314</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Service_of_process</WikiTitle> <WikiTitleID>496674</WikiTitleID> <RankerScore>0.1652566637486837</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wine_tasting</WikiTitle> <WikiTitleID>2431170</WikiTitleID> <RankerScore>0.07619749853811118</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Largs_railway_station</WikiTitle> <WikiTitleID>4387880</WikiTitleID> <RankerScore>0.05753233132667365</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military</WikiTitle> <WikiTitleID>92357</WikiTitleID> <RankerScore>0.05753233132667365</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006</WikiTitle> <WikiTitleID>36164</WikiTitleID> <RankerScore>0.41335184975316314</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rif_War</WikiTitle> <WikiTitleID>5893557</WikiTitleID> <RankerScore>0.05753233132667365</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_service</WikiTitle> <WikiTitleID>938728</WikiTitleID> <RankerScore>0.05753233132667365</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radnor_(SEPTA_Regional_Rail_station)</WikiTitle> <WikiTitleID>2519006</WikiTitleID> <RankerScore>0.05753233132667365</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Summons</WikiTitle> <WikiTitleID>175322</WikiTitleID> <RankerScore>0.05753233132667365</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ian</EntitySurfaceForm>
+	<EntityTextStart>1018</EntityTextStart>
+	<EntityTextEnd>1021</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ian_Willoughby_Bazalgette</WikiTitle>
+		<WikiTitleID>1181101</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	recipient	pilot	officer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ian_Beale</WikiTitle> <WikiTitleID>1983108</WikiTitleID> <RankerScore>0.08930498119751187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ian_Chesterton</WikiTitle> <WikiTitleID>873291</WikiTitleID> <RankerScore>0.09282984203339721</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ian</WikiTitle> <WikiTitleID>4074175</WikiTitleID> <RankerScore>0.11189898933057196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ian_Rotten</WikiTitle> <WikiTitleID>2030286</WikiTitleID> <RankerScore>0.04152742279050111</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_MÄR_characters</WikiTitle> <WikiTitleID>13024631</WikiTitleID> <RankerScore>0.04152742279050111</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ian_Chappell</WikiTitle> <WikiTitleID>151608</WikiTitleID> <RankerScore>0.04152742279050111</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ian_Ballantine</WikiTitle> <WikiTitleID>2618761</WikiTitleID> <RankerScore>0.04152742279050111</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ian_Tyson</WikiTitle> <WikiTitleID>1048172</WikiTitleID> <RankerScore>0.04152742279050111</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ian_Paisley,_Jr.</WikiTitle> <WikiTitleID>214880</WikiTitleID> <RankerScore>0.04152742279050111</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ian_Maxwell</WikiTitle> <WikiTitleID>9342999</WikiTitleID> <RankerScore>0.04152742279050111</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ian_Brightwell</WikiTitle> <WikiTitleID>4735022</WikiTitleID> <RankerScore>0.04152742279050111</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ian_Snodin</WikiTitle> <WikiTitleID>7163926</WikiTitleID> <RankerScore>0.04152742279050111</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ian_Scheckter</WikiTitle> <WikiTitleID>1233850</WikiTitleID> <RankerScore>0.04152742279050111</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ian_Fleming</WikiTitle> <WikiTitleID>57985</WikiTitleID> <RankerScore>0.04152742279050111</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ian_Cooper_(ice_hockey)</WikiTitle> <WikiTitleID>14086505</WikiTitleID> <RankerScore>0.04152742279050111</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Janis_Ian</WikiTitle> <WikiTitleID>89835</WikiTitleID> <RankerScore>0.04152742279050111</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ian_Morrison</WikiTitle> <WikiTitleID>7494179</WikiTitleID> <RankerScore>0.04152742279050111</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ian_Brewer</WikiTitle> <WikiTitleID>11032398</WikiTitleID> <RankerScore>0.04152742279050111</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ian_Lewis_(cricketer)</WikiTitle> <WikiTitleID>12011148</WikiTitleID> <RankerScore>0.04152742279050111</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ian_Wilson_(politician)</WikiTitle> <WikiTitleID>2917166</WikiTitleID> <RankerScore>0.04152742279050111</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ian Bazalgette</EntitySurfaceForm>
+	<EntityTextStart>1018</EntityTextStart>
+	<EntityTextEnd>1032</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ian_Willoughby_Bazalgette</WikiTitle>
+		<WikiTitleID>1181101</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	recipient	pilot	officer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ian_Willoughby_Bazalgette</WikiTitle> <WikiTitleID>1181101</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bazalgette</EntitySurfaceForm>
+	<EntityTextStart>1022</EntityTextStart>
+	<EntityTextEnd>1032</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ian_Willoughby_Bazalgette</WikiTitle>
+		<WikiTitleID>1181101</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	recipient	pilot	officer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bazalgette</WikiTitle> <WikiTitleID>2513467</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Junior</EntitySurfaceForm>
+	<EntityTextStart>1033</EntityTextStart>
+	<EntityTextEnd>1039</EntityTextEnd>
+	<LinkerScore>1.823544078877034</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Middle_school</WikiTitle>
+		<WikiTitleID>234954</WikiTitleID>
+		<RankerScore>0.9116709479965953</RankerScore>
+		<Attributes>type	stage	school</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Junior_ice_hockey</WikiTitle> <WikiTitleID>2145561</WikiTitleID> <RankerScore>0.007312152323206355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Junior_(film)</WikiTitle> <WikiTitleID>1221565</WikiTitleID> <RankerScore>0.014732571059712124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scottish_Junior_Football_Association</WikiTitle> <WikiTitleID>421401</WikiTitleID> <RankerScore>0.0038990781541462416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Junior</WikiTitle> <WikiTitleID>15985</WikiTitleID> <RankerScore>0.0038990781541462416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Junior_(chess)</WikiTitle> <WikiTitleID>172733</WikiTitleID> <RankerScore>0.0038990781541462416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Junior_Soprano</WikiTitle> <WikiTitleID>516390</WikiTitleID> <RankerScore>0.0038990781541462416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Junior_school</WikiTitle> <WikiTitleID>661397</WikiTitleID> <RankerScore>0.0038990781541462416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_EastEnders_characters_(1987)</WikiTitle> <WikiTitleID>6299577</WikiTitleID> <RankerScore>0.0038990781541462416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Junior_de_Barranquilla</WikiTitle> <WikiTitleID>2430883</WikiTitleID> <RankerScore>0.0038990781541462416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Junior_Certificate</WikiTitle> <WikiTitleID>531484</WikiTitleID> <RankerScore>0.0038990781541462416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Junior_(band)</WikiTitle> <WikiTitleID>11792439</WikiTitleID> <RankerScore>0.0038990781541462416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Junior_Giscombe</WikiTitle> <WikiTitleID>2969944</WikiTitleID> <RankerScore>0.0038990781541462416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eleventh_grade</WikiTitle> <WikiTitleID>1066030</WikiTitleID> <RankerScore>0.0038990781541462416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Junior_Vasquez</WikiTitle> <WikiTitleID>868516</WikiTitleID> <RankerScore>0.0038990781541462416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Júnior_(Filipino_singer)</WikiTitle> <WikiTitleID>12954456</WikiTitleID> <RankerScore>0.0038990781541462416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ISU_Junior_Grand_Prix</WikiTitle> <WikiTitleID>7172268</WikiTitleID> <RankerScore>0.0038990781541462416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middle_school</WikiTitle> <WikiTitleID>234954</WikiTitleID> <RankerScore>0.9116709479965953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gibson_Les_Paul_Junior</WikiTitle> <WikiTitleID>5482500</WikiTitleID> <RankerScore>0.0038990781541462416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seniority_in_the_United_States_Senate</WikiTitle> <WikiTitleID>2306166</WikiTitleID> <RankerScore>0.0038990781541462416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leovegildo_Lins_da_Gama_Júnior</WikiTitle> <WikiTitleID>615805</WikiTitleID> <RankerScore>0.0038990781541462416</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Junior High</EntitySurfaceForm>
+	<EntityTextStart>1033</EntityTextStart>
+	<EntityTextEnd>1044</EntityTextEnd>
+	<LinkerScore>3.662832816557086</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Middle_school</WikiTitle>
+		<WikiTitleID>234954</WikiTitleID>
+		<RankerScore>0.996205640764317</RankerScore>
+		<Attributes>type	stage	school</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Middle_school</WikiTitle> <WikiTitleID>234954</WikiTitleID> <RankerScore>0.996205640764317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Secondary_education_in_Japan</WikiTitle> <WikiTitleID>378410</WikiTitleID> <RankerScore>0.0037943592356830085</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>High</EntitySurfaceForm>
+	<EntityTextStart>1040</EntityTextStart>
+	<EntityTextEnd>1044</EntityTextEnd>
+	<LinkerScore>3.2446517279771454</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Middle_school</WikiTitle>
+		<WikiTitleID>234954</WikiTitleID>
+		<RankerScore>0.9976329665042911</RankerScore>
+		<Attributes>type	stage	school</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Middle_school</WikiTitle> <WikiTitleID>234954</WikiTitleID> <RankerScore>0.9976329665042911</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Secondary_education_in_Japan</WikiTitle> <WikiTitleID>378410</WikiTitleID> <RankerScore>0.0023670334957088613</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Valley View</EntitySurfaceForm>
+	<EntityTextStart>1046</EntityTextStart>
+	<EntityTextEnd>1057</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mount_Diablo_Unified_School_District</WikiTitle>
+		<WikiTitleID>7996458</WikiTitleID>
+		<RankerScore>0.3148099973031081</RankerScore>
+		<Attributes>school</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Valley_View,_Ohio</WikiTitle> <WikiTitleID>129125</WikiTitleID> <RankerScore>0.1785561407792412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Valley_View,_South_Australia</WikiTitle> <WikiTitleID>6673069</WikiTitleID> <RankerScore>0.21897647983914073</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Valley_View,_Wichita_County,_Texas</WikiTitle> <WikiTitleID>10945593</WikiTitleID> <RankerScore>0.04794289701308499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Valley_View,_Texas</WikiTitle> <WikiTitleID>135731</WikiTitleID> <RankerScore>0.04794289701308499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Valley_View</WikiTitle> <WikiTitleID>1332173</WikiTitleID> <RankerScore>0.04794289701308499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mount_Diablo_Unified_School_District</WikiTitle> <WikiTitleID>7996458</WikiTitleID> <RankerScore>0.3148099973031081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Valley_View,_Schuylkill_County,_Pennsylvania</WikiTitle> <WikiTitleID>133728</WikiTitleID> <RankerScore>0.04794289701308499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Valley_View,_Kentucky</WikiTitle> <WikiTitleID>15854305</WikiTitleID> <RankerScore>0.04794289701308499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Valley_View_High_School_(Moreno_Valley,_California)</WikiTitle> <WikiTitleID>11794851</WikiTitleID> <RankerScore>0.04794289701308499</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Valley</EntitySurfaceForm>
+	<EntityTextStart>1046</EntityTextStart>
+	<EntityTextEnd>1052</EntityTextEnd>
+	<LinkerScore>-1.7991743815183416</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Valley</WikiTitle>
+		<WikiTitleID>32416</WikiTitleID>
+		<RankerScore>0.1063008790824244</RankerScore>
+		<Attributes>landforms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Valley</WikiTitle> <WikiTitleID>32416</WikiTitleID> <RankerScore>0.1063008790824244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Phoenix_metropolitan_area</WikiTitle> <WikiTitleID>602951</WikiTitleID> <RankerScore>0.04330100752402532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Valley,_Alabama</WikiTitle> <WikiTitleID>104548</WikiTitleID> <RankerScore>0.1025744538670239</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Fernando_Valley</WikiTitle> <WikiTitleID>324331</WikiTitleID> <RankerScore>0.05500753914212119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Valley_County,_Idaho</WikiTitle> <WikiTitleID>96304</WikiTitleID> <RankerScore>0.04330100752402532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Valley,_Nebraska</WikiTitle> <WikiTitleID>123884</WikiTitleID> <RankerScore>0.04330100752402532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Valley,_Anglesey</WikiTitle> <WikiTitleID>2025427</WikiTitleID> <RankerScore>0.04330100752402532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Valley_Township,_Buffalo_County,_Nebraska</WikiTitle> <WikiTitleID>15945397</WikiTitleID> <RankerScore>0.04330100752402532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gila_River_Valley</WikiTitle> <WikiTitleID>15978053</WikiTitleID> <RankerScore>0.04330100752402532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Valley_Township,_Knox_County,_Nebraska</WikiTitle> <WikiTitleID>15981563</WikiTitleID> <RankerScore>0.04330100752402532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Valley_County,_Montana</WikiTitle> <WikiTitleID>94352</WikiTitleID> <RankerScore>0.04330100752402532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Central_Valley_(California)</WikiTitle> <WikiTitleID>82140</WikiTitleID> <RankerScore>0.04330100752402532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Valley_Township,_Stark_County,_Illinois</WikiTitle> <WikiTitleID>10212777</WikiTitleID> <RankerScore>0.04330100752402532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Valley_railway_station</WikiTitle> <WikiTitleID>3559519</WikiTitleID> <RankerScore>0.04330100752402532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fortitude_Valley,_Queensland</WikiTitle> <WikiTitleID>1070159</WikiTitleID> <RankerScore>0.04330100752402532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Santa_Clarita_Valley</WikiTitle> <WikiTitleID>654805</WikiTitleID> <RankerScore>0.04330100752402532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mississippi_River</WikiTitle> <WikiTitleID>19579</WikiTitleID> <RankerScore>0.04330100752402532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Valley_Gang</WikiTitle> <WikiTitleID>1982362</WikiTitleID> <RankerScore>0.04330100752402532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cherry_Valley_massacre</WikiTitle> <WikiTitleID>404284</WikiTitleID> <RankerScore>0.04330100752402532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>RAF_Valley</WikiTitle> <WikiTitleID>652380</WikiTitleID> <RankerScore>0.04330100752402532</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>View</EntitySurfaceForm>
+	<EntityTextStart>1053</EntityTextStart>
+	<EntityTextEnd>1057</EntityTextEnd>
+	<LinkerScore>0.24191264704900997</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>View_(magazine)</WikiTitle>
+		<WikiTitleID>9423430</WikiTitleID>
+		<RankerScore>0.8511787411113235</RankerScore>
+		<Attributes>magazine</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>View_(magazine)</WikiTitle> <WikiTitleID>9423430</WikiTitleID> <RankerScore>0.8511787411113235</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>View_(database)</WikiTitle> <WikiTitleID>1960226</WikiTitleID> <RankerScore>0.05314965222598031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>View</WikiTitle> <WikiTitleID>41848</WikiTitleID> <RankerScore>0.048083703389176745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_View</WikiTitle> <WikiTitleID>656307</WikiTitleID> <RankerScore>0.04758790327351946</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Elementary</EntitySurfaceForm>
+	<EntityTextStart>1058</EntityTextStart>
+	<EntityTextEnd>1068</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Elementary_school</WikiTitle>
+		<WikiTitleID>11749232</WikiTitleID>
+		<RankerScore>0.9315734061967774</RankerScore>
+		<Attributes>type	stage</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Elementary</WikiTitle> <WikiTitleID>2428429</WikiTitleID> <RankerScore>0.031230154533280194</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elementary_school</WikiTitle> <WikiTitleID>11749232</WikiTitleID> <RankerScore>0.9315734061967774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Primary_education</WikiTitle> <WikiTitleID>11722032</WikiTitleID> <RankerScore>0.03433413527748855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elementary</WikiTitle> <WikiTitleID>9651785</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Springfield_(The_Simpsons)</WikiTitle> <WikiTitleID>64780</WikiTitleID> <RankerScore>9.541013308179361E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chemical_element</WikiTitle> <WikiTitleID>5659</WikiTitleID> <RankerScore>9.541013308179361E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wyandotte,_Michigan</WikiTitle> <WikiTitleID>11640232</WikiTitleID> <RankerScore>9.541013308179361E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>public school</EntitySurfaceForm>
+	<EntityTextStart>1097</EntityTextStart>
+	<EntityTextEnd>1110</EntityTextEnd>
+	<LinkerScore>3.218891806207872</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Public_school</WikiTitle>
+		<WikiTitleID>56083</WikiTitleID>
+		<RankerScore>0.9972925722419145</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Public_school</WikiTitle> <WikiTitleID>56083</WikiTitleID> <RankerScore>0.9972925722419145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Independent_school_(United_Kingdom)</WikiTitle> <WikiTitleID>238561</WikiTitleID> <RankerScore>2.6719244161666443E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_school</WikiTitle> <WikiTitleID>471603</WikiTitleID> <RankerScore>4.820182890169295E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_school</WikiTitle> <WikiTitleID>573933</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Education_in_the_United_States</WikiTitle> <WikiTitleID>123427</WikiTitleID> <RankerScore>1.6318475228765763E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Howard_County_Public_School_System</WikiTitle> <WikiTitleID>3340785</WikiTitleID> <RankerScore>1.6318475228765763E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Independent_school</WikiTitle> <WikiTitleID>612857</WikiTitleID> <RankerScore>1.6318475228765763E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bishop&apos;s_Stortford_College</WikiTitle> <WikiTitleID>3757282</WikiTitleID> <RankerScore>1.6318475228765763E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Headmasters&apos;_and_Headmistresses&apos;_Conference</WikiTitle> <WikiTitleID>1393019</WikiTitleID> <RankerScore>1.6318475228765763E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_government_schools_in_New_South_Wales</WikiTitle> <WikiTitleID>2256880</WikiTitleID> <RankerScore>1.6318475228765763E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Public_university</WikiTitle> <WikiTitleID>1640986</WikiTitleID> <RankerScore>1.6318475228765763E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City_Department_of_Education</WikiTitle> <WikiTitleID>2495882</WikiTitleID> <RankerScore>1.6318475228765763E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Erie_District_School_Board</WikiTitle> <WikiTitleID>4827914</WikiTitleID> <RankerScore>1.6318475228765763E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Private_school</WikiTitle> <WikiTitleID>299959</WikiTitleID> <RankerScore>1.6318475228765763E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seattle_Public_Schools</WikiTitle> <WikiTitleID>872452</WikiTitleID> <RankerScore>1.6318475228765763E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milwaukee_Public_Schools</WikiTitle> <WikiTitleID>3241565</WikiTitleID> <RankerScore>1.6318475228765763E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Holy Cross Elementary</EntitySurfaceForm>
+	<EntityTextStart>1128</EntityTextStart>
+	<EntityTextEnd>1149</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Holy_Cross_Elementary</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>school</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

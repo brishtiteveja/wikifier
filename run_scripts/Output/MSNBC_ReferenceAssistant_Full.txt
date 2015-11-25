@@ -1,0 +1,49 @@
+Params:[-referenceAssistant, /Problems, /RawTexts, /WikifierACL2011Output, /scratch2/azehady/nlp/Wikifier2013/Wikifier2013/configs/FULL.xml]
+Usage: either
+	$java ReferenceAssistant -trainSvmModelsOnly <pathToConfigFile>
+or
+	$java ReferenceAssistant -buildTrainingDataAndTrain <pathToProblems> <pathToRawTexts> <pathToConfigFile>
+or
+	$java ReferenceAssistant -annotateData <inputPath> <outputPath> <generateFeatureDumps>  <pathToConfigFile> 
+or
+	$java ReferenceAssistant -referenceAssistant <pathToProblemFileOrFolder> <pathToRawTextFilesFolder> <pathToExplanations>  <pathToConfigFile> 
+Creating wordnet dictionary from data/WordNet/...
+Dictionary opened.
+----------------->Bypassing the curator!
+Loading the most recent redirect pages from Wikipedia to normalize the output links to the latest version
+loading the latest redirects; linecount=1
+Consructing wikipedia summary from a proto buffer
+loading the latest redirects; linecount=100001
+Done - consructing wikipedia summary from a proto buffer
+Opening the index for the complete index interface
+Prefetching the basic information about the wikipedia articles
+0 titles processed out of 2478573
+loading the latest redirects; linecount=200001
+loading the latest redirects; linecount=300001
+loading the latest redirects; linecount=400001
+50000 titles processed out of 2478573
+loading the latest redirects; linecount=500001
+loading the latest redirects; linecount=600001
+loading the latest redirects; linecount=700001
+100000 titles processed out of 2478573
+150000 titles processed out of 2478573
+loading the latest redirects; linecount=800001
+loading the latest redirects; linecount=900001
+200000 titles processed out of 2478573
+loading the latest redirects; linecount=1000001
+loading the latest redirects; linecount=1100001
+loading the latest redirects; linecount=1200001
+250000 titles processed out of 2478573
+loading the latest redirects; linecount=1300001
+loading the latest redirects; linecount=1400001
+300000 titles processed out of 2478573
+loading the latest redirects; linecount=1500001
+350000 titles processed out of 2478573
+400000 titles processed out of 2478573
+loading the latest redirects; linecount=1600001
+loading the latest redirects; linecount=1700001
+loading the latest redirects; linecount=1800001
+450000 titles processed out of 2478573
+loading the latest redirects; linecount=1900001
+loading the latest redirects; linecount=2000001
+loading the latest redirects; linecount=2100001

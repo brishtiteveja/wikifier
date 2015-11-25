@@ -1,0 +1,212 @@
+<ReferenceProblem>
+	<ReferenceFileName>
+		3789881
+	</ReferenceFileName>
+<ReferenceInstance>
+	<SurfaceForm>
+		1333
+	</SurfaceForm>
+	<Offset>
+		6
+	</Offset>
+	<Length>
+		4
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/1333
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/1333
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Genkō War
+	</SurfaceForm>
+	<Offset>
+		53
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Genkō_War
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Genkō_War
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Hōjō clan
+	</SurfaceForm>
+	<Offset>
+		107
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Hōjō_clan
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Hōjō_clan
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Kamakura shogunate
+	</SurfaceForm>
+	<Offset>
+		161
+	</Offset>
+	<Length>
+		18
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Kamakura_shogunate
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Kamakura_shogunate
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Emperor
+	</SurfaceForm>
+	<Offset>
+		225
+	</Offset>
+	<Length>
+		7
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Nitta Yoshisada
+	</SurfaceForm>
+	<Offset>
+		248
+	</Offset>
+	<Length>
+		15
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Nitta_Yoshisada
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Nitta_Yoshisada
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Tōshō-ji
+	</SurfaceForm>
+	<Offset>
+		374
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Tōshō-ji
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Tōshō-ji
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Gokuraku-ji
+	</SurfaceForm>
+	<Offset>
+		745
+	</Offset>
+	<Length>
+		11
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Gokurakuji
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Gokurakuji
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Hōjō
+	</SurfaceForm>
+	<Offset>
+		1184
+	</Offset>
+	<Length>
+		4
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Hōjō_clan
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Hōjō_clan
+		</Annotation>
+</ReferenceInstance>
+</ReferenceProblem>

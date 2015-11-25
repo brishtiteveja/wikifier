@@ -1,0 +1,281 @@
+<ReferenceProblem>
+	<ReferenceFileName>
+		112314
+	</ReferenceFileName>
+<ReferenceInstance>
+	<SurfaceForm>
+		Boone Township
+	</SurfaceForm>
+	<Offset>
+		23
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Boone_Township,_Harrison_County,_Indiana
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Boone_Township,_Harrison_County,_Indiana
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Harrison County
+	</SurfaceForm>
+	<Offset>
+		43
+	</Offset>
+	<Length>
+		15
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Harrison_County,_Indiana
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Harrison_County,_Indiana
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Indiana
+	</SurfaceForm>
+	<Offset>
+		64
+	</Offset>
+	<Length>
+		7
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Indiana
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Indiana
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		United States Census Bureau
+	</SurfaceForm>
+	<Offset>
+		155
+	</Offset>
+	<Length>
+		27
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/United_States_Census_Bureau
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/United_States_Census_Bureau
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		square mile
+	</SurfaceForm>
+	<Offset>
+		228
+	</Offset>
+	<Length>
+		11
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Square_mile
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Square_mile
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Odd Fellows
+	</SurfaceForm>
+	<Offset>
+		321
+	</Offset>
+	<Length>
+		11
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Odd_Fellows
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Odd_Fellows
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		1837
+	</SurfaceForm>
+	<Offset>
+		500
+	</Offset>
+	<Length>
+		4
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/1837
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/1837
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Kintner-Withers House
+	</SurfaceForm>
+	<Offset>
+		524
+	</Offset>
+	<Length>
+		22
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Kintner-Withers_House
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Kintner-Withers_House
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		population density
+	</SurfaceForm>
+	<Offset>
+		712
+	</Offset>
+	<Length>
+		18
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Population_density
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Population_density
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		White
+	</SurfaceForm>
+	<Offset>
+		908
+	</Offset>
+	<Length>
+		5
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Race_and_ethnicity_in_the_United_States_Census
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Race_and_ethnicity_in_the_United_States_Census
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		married couples
+	</SurfaceForm>
+	<Offset>
+		1025
+	</Offset>
+	<Length>
+		15
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Marriage
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Marriage
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		per capita income
+	</SurfaceForm>
+	<Offset>
+		1835
+	</Offset>
+	<Length>
+		17
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Per_capita_income
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Per_capita_income
+		</Annotation>
+</ReferenceInstance>
+</ReferenceProblem>

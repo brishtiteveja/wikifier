@@ -1,0 +1,1799 @@
+<ReferenceProblem>
+	<ReferenceFileName>
+		4445638
+	</ReferenceFileName>
+<ReferenceInstance>
+	<SurfaceForm>
+		Turk
+	</SurfaceForm>
+	<Offset>
+		115
+	</Offset>
+	<Length>
+		4
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Anatolian
+	</SurfaceForm>
+	<Offset>
+		208
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Balkan
+	</SurfaceForm>
+	<Offset>
+		223
+	</Offset>
+	<Length>
+		6
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Balkans
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Balkans
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Caucasian
+	</SurfaceForm>
+	<Offset>
+		235
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Caucasus
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Caucasus
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Albanians
+	</SurfaceForm>
+	<Offset>
+		331
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Albanians
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Albanians
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Arab
+	</SurfaceForm>
+	<Offset>
+		346
+	</Offset>
+	<Length>
+		4
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Arab_people
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Arab_people
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Armenian Muslims
+	</SurfaceForm>
+	<Offset>
+		357
+	</Offset>
+	<Length>
+		16
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Hemshin_peoples
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Hemshin_peoples
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Greek Muslims
+	</SurfaceForm>
+	<Offset>
+		394
+	</Offset>
+	<Length>
+		13
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Greek_Muslims
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Greek_Muslims
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Jew
+	</SurfaceForm>
+	<Offset>
+		413
+	</Offset>
+	<Length>
+		3
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Jews
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Jews
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Roma
+	</SurfaceForm>
+	<Offset>
+		423
+	</Offset>
+	<Length>
+		4
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Roma_people
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Roma_people
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Slavic peoples
+	</SurfaceForm>
+	<Offset>
+		441
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Slavs
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Slavs
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Pomaks
+	</SurfaceForm>
+	<Offset>
+		486
+	</Offset>
+	<Length>
+		6
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Pomaks
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Pomaks
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Iranian peoples
+	</SurfaceForm>
+	<Offset>
+		499
+	</Offset>
+	<Length>
+		15
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Iranian_peoples
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Iranian_peoples
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Zazas
+	</SurfaceForm>
+	<Offset>
+		541
+	</Offset>
+	<Length>
+		5
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Zaza_people
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Zaza_people
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Lazs
+	</SurfaceForm>
+	<Offset>
+		564
+	</Offset>
+	<Length>
+		4
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Laz_people
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Laz_people
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Turkic
+	</SurfaceForm>
+	<Offset>
+		582
+	</Offset>
+	<Length>
+		6
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Turkic_peoples
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Turkic_peoples
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Ottoman Empire
+	</SurfaceForm>
+	<Offset>
+		646
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Ottoman_Empire
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Ottoman_Empire
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		indigenous peoples
+	</SurfaceForm>
+	<Offset>
+		745
+	</Offset>
+	<Length>
+		18
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Indigenous_peoples
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Indigenous_peoples
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Anatolia
+	</SurfaceForm>
+	<Offset>
+		771
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Anatolia
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Anatolia
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		religious conversion
+	</SurfaceForm>
+	<Offset>
+		807
+	</Offset>
+	<Length>
+		20
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Religious_conversion
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Religious_conversion
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		cultural
+	</SurfaceForm>
+	<Offset>
+		833
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Culture
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Culture
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Seljuk Empire
+	</SurfaceForm>
+	<Offset>
+		895
+	</Offset>
+	<Length>
+		13
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Great_Seljuq_Empire
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Great_Seljuq_Empire
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Carian
+	</SurfaceForm>
+	<Offset>
+		1160
+	</Offset>
+	<Length>
+		6
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Carian_language
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Carian_language
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Lydian
+	</SurfaceForm>
+	<Offset>
+		1173
+	</Offset>
+	<Length>
+		6
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Lydian_language
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Lydian_language
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Lycian
+	</SurfaceForm>
+	<Offset>
+		1186
+	</Offset>
+	<Length>
+		6
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Lycian
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Lycian
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Cappadocian
+	</SurfaceForm>
+	<Offset>
+		1199
+	</Offset>
+	<Length>
+		11
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Cappadocia
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Cappadocia
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Cilician
+	</SurfaceForm>
+	<Offset>
+		1217
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Cilicia
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Cilicia
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Hellenization
+	</SurfaceForm>
+	<Offset>
+		1254
+	</Offset>
+	<Length>
+		13
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Hellenization
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Hellenization
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Romanization
+	</SurfaceForm>
+	<Offset>
+		1449
+	</Offset>
+	<Length>
+		12
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Romanization_(cultural)
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Romanization_(cultural)
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Byzantine
+	</SurfaceForm>
+	<Offset>
+		1786
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Byzantine_Empire
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Byzantine_Empire
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Christian heretical
+	</SurfaceForm>
+	<Offset>
+		1834
+	</Offset>
+	<Length>
+		19
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Heresy_in_Christianity
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Heresy_in_Christianity
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Byzantine
+	</SurfaceForm>
+	<Offset>
+		1930
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Byzantine_Empire
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Byzantine_Empire
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Armenian
+	</SurfaceForm>
+	<Offset>
+		2129
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Armenians
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Armenians
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Ottomans
+	</SurfaceForm>
+	<Offset>
+		3499
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Ottoman_Empire
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Ottoman_Empire
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		millet
+	</SurfaceForm>
+	<Offset>
+		4197
+	</Offset>
+	<Length>
+		6
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Millet_(Ottoman_Empire)
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Millet_(Ottoman_Empire)
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Sunni
+	</SurfaceForm>
+	<Offset>
+		4372
+	</Offset>
+	<Length>
+		5
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Sunni_Islam
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Sunni_Islam
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Alevi
+	</SurfaceForm>
+	<Offset>
+		4450
+	</Offset>
+	<Length>
+		5
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Alevi
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Alevi
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Turkish Constitution
+	</SurfaceForm>
+	<Offset>
+		5147
+	</Offset>
+	<Length>
+		20
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Constitution_of_Turkey
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Constitution_of_Turkey
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		citizenship
+	</SurfaceForm>
+	<Offset>
+		5264
+	</Offset>
+	<Length>
+		11
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Turkish_nationality_law
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Turkish_nationality_law
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Anatolia
+	</SurfaceForm>
+	<Offset>
+		5302
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Anatolia
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Anatolia
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Anatolian languages
+	</SurfaceForm>
+	<Offset>
+		5533
+	</Offset>
+	<Length>
+		19
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Anatolian_languages
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Anatolian_languages
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Central Asia
+	</SurfaceForm>
+	<Offset>
+		5739
+	</Offset>
+	<Length>
+		12
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Central_Asia
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Central_Asia
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Turkish people
+	</SurfaceForm>
+	<Offset>
+		5804
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Turkish_people
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Turkish_people
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Turkic peoples
+	</SurfaceForm>
+	<Offset>
+		5869
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Turkic_peoples
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Turkic_peoples
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Anatolian
+	</SurfaceForm>
+	<Offset>
+		5964
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		DNA
+	</SurfaceForm>
+	<Offset>
+		6047
+	</Offset>
+	<Length>
+		3
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/DNA
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/DNA
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Mongols
+	</SurfaceForm>
+	<Offset>
+		6124
+	</Offset>
+	<Length>
+		7
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Mongols
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Mongols
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Mediterranean
+	</SurfaceForm>
+	<Offset>
+		6260
+	</Offset>
+	<Length>
+		13
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Mediterranean_Sea
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Mediterranean_Sea
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Asian
+	</SurfaceForm>
+	<Offset>
+		6317
+	</Offset>
+	<Length>
+		5
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Asian
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Asian
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		genetic
+	</SurfaceForm>
+	<Offset>
+		6472
+	</Offset>
+	<Length>
+		7
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Anatolia
+	</SurfaceForm>
+	<Offset>
+		6517
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Anatolia
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Anatolia
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Asiatic
+	</SurfaceForm>
+	<Offset>
+		6592
+	</Offset>
+	<Length>
+		7
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Turkic languages
+	</SurfaceForm>
+	<Offset>
+		6696
+	</Offset>
+	<Length>
+		16
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Turkic_languages
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Turkic_languages
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Altai
+	</SurfaceForm>
+	<Offset>
+		6737
+	</Offset>
+	<Length>
+		5
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Altay
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Altay
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Sayan
+	</SurfaceForm>
+	<Offset>
+		6747
+	</Offset>
+	<Length>
+		5
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Sayan
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Sayan
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Central Asia
+	</SurfaceForm>
+	<Offset>
+		6767
+	</Offset>
+	<Length>
+		12
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Central_Asia
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Central_Asia
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Mongolia
+	</SurfaceForm>
+	<Offset>
+		6801
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Mongolia
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Mongolia
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		indigenous peoples
+	</SurfaceForm>
+	<Offset>
+		6835
+	</Offset>
+	<Length>
+		18
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Indigenous_peoples
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Indigenous_peoples
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		genetic
+	</SurfaceForm>
+	<Offset>
+		6881
+	</Offset>
+	<Length>
+		7
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Genetic
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Genetic
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		elite
+	</SurfaceForm>
+	<Offset>
+		6924
+	</Offset>
+	<Length>
+		5
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Elite
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Elite
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		dominance
+	</SurfaceForm>
+	<Offset>
+		6947
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Dominance
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Dominance
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		driven linguistic replacement
+	</SurfaceForm>
+	<Offset>
+		6963
+	</Offset>
+	<Length>
+		29
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Language_shift
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Language_shift
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Anatolia
+	</SurfaceForm>
+	<Offset>
+		7042
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Anatolia
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Anatolia
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		migrant
+	</SurfaceForm>
+	<Offset>
+		7073
+	</Offset>
+	<Length>
+		7
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Migrant
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Migrant
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		resident
+	</SurfaceForm>
+	<Offset>
+		7085
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Resident
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Resident
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Turkic migrations
+	</SurfaceForm>
+	<Offset>
+		7119
+	</Offset>
+	<Length>
+		17
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Turkic_migration
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Turkic_migration
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Anatolian
+	</SurfaceForm>
+	<Offset>
+		7180
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Balkan
+	</SurfaceForm>
+	<Offset>
+		7234
+	</Offset>
+	<Length>
+		6
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Balkans
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Balkans
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Central Asian
+	</SurfaceForm>
+	<Offset>
+		7272
+	</Offset>
+	<Length>
+		13
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Central_Asia
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Central_Asia
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Caucasus
+	</SurfaceForm>
+	<Offset>
+		7357
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Caucasus
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Caucasus
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Armenian
+	</SurfaceForm>
+	<Offset>
+		7388
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Armenian_language
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Armenian_language
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Turkic
+	</SurfaceForm>
+	<Offset>
+		7405
+	</Offset>
+	<Length>
+		6
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/List_of_English_words_of_Turkic_origin
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/List_of_English_words_of_Turkic_origin
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Azerbaijanian
+	</SurfaceForm>
+	<Offset>
+		7425
+	</Offset>
+	<Length>
+		13
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Azerbaijani_people
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Azerbaijani_people
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		DNA
+	</SurfaceForm>
+	<Offset>
+		7604
+	</Offset>
+	<Length>
+		3
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/DNA
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/DNA
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		European
+	</SurfaceForm>
+	<Offset>
+		7663
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Ethnic_groups_in_Europe
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Ethnic_groups_in_Europe
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Near Eastern
+	</SurfaceForm>
+	<Offset>
+		7692
+	</Offset>
+	<Length>
+		12
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		haplogroup
+	</SurfaceForm>
+	<Offset>
+		7761
+	</Offset>
+	<Length>
+		10
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Central Asian
+	</SurfaceForm>
+	<Offset>
+		7788
+	</Offset>
+	<Length>
+		13
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Central_Asia
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Central_Asia
+		</Annotation>
+</ReferenceInstance>
+</ReferenceProblem>

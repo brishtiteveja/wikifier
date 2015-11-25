@@ -1,0 +1,494 @@
+<ANNOTATION>
+   <a class="wiki" href="http://en.wikipedia.org/wiki/Washington,_D.C." cat="state	place	district	city	capital">Washington</a>  11-15 (AFP) -  Stewart Talbot,  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">America</a> 's  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States_Assistant_Secretary_of_State" cat="secretary	disestablishment	establishment">Assistant Secretary of State</a>  and "second in charge" at the  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States_Department_of_State" cat="">State Department</a>  after  <a class="wiki" href="http://en.wikipedia.org/wiki/Madeleine_Albright" cat="secretary	citizen	person	member	alumnus	recipient	minister	immigrant	diplomat	convert	president	jew	representative	woman	episcopalian">Madeleine Albright</a> , has decided to resign from the administration to head one of the  <b>departments</b> at  <a class="wiki" href="http://en.wikipedia.org/wiki/Yale_University" cat="institution	university	establishment	college	dispute	building	organization">Yale University</a>  in the state of  <a class="wiki" href="http://en.wikipedia.org/wiki/Connecticut" cat="colony	state">Connecticut</a>  (northeast).    <a class="wiki" href="http://en.wikipedia.org/wiki/Rick_Levin" cat="alumnus	president	person	jew	economist">Richard Levin</a> , the Chancellor of this prestigious  <b>university</b>, said Talbot would head the  <a class="wiki" href="http://en.wikipedia.org/wiki/Center_for_Global_Studies" cat="">Globalization Studies Center</a>  as of next July and would also teach at the  <b>university</b>.   Talbot is the second  <b>top-ranking</b>  <b>American diplomat</b> in a few  <b>days</b> to announce his intention of resigning at the end of  <a class="wiki" href="http://en.wikipedia.org/wiki/Bill_Clinton" cat="humanitarian	recipient	saxophonist	spouse	nominee	candidate	memoirists	lawyer	winner	person	democrat	scholar	official	baptists	president	adoptee	activist	alumnus	companion	figure	politician	vegan">President Bill Clinton</a> 's second term next  <a class="wiki" href="http://en.wikipedia.org/wiki/January_20" cat="days">January 20</a> .   The  <b>special envoy</b> to  <b>the Middle East</b>,  <a class="wiki" href="http://en.wikipedia.org/wiki/Dennis_Ross" cat="person	personnel	director	relations	jew	effort">Dennis Ross</a> , announced last week that he  <b>intends</b> to resign from his post, for personal and family reasons, once the  <b>current administration</b>'s term comes to an end.   Talbot, a  <a class="wiki" href="http://en.wikipedia.org/wiki/Yale_University" cat="institution	university	establishment	college	dispute	building	organization">Yale</a>   <b>graduate</b> and former  <b>correspondent</b> with  <a class="wiki" href="http://en.wikipedia.org/wiki/Time_(magazine)" cat="person	recipient	subsidiary	magazine">Time magazine</a> , was appointed assistant to  <a class="wiki" href="http://en.wikipedia.org/wiki/The_Secretary" cat="episode">the Secretary</a>  of State in  <b>1994</b> after acting as roving  <b>ambassador</b> and  <b>special advisor</b> on former  <a class="wiki" href="http://en.wikipedia.org/wiki/Soviet_Union" cat="federation	disestablishment	state	country	republic	polity">Soviet Union</a>  Affairs. <br>
+</ANNOTATION>
+*Entity:[Washington,textSpan=(2-12)]	-Disambiguation:(tid=108956, Title name=Washington,_D.C.) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Stewart Talbot, America's Assistant Secretary of State,textSpan=(28-82)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Stewart,textSpan=(28-35)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Stewart Talbot,textSpan=(28-42)]	-Disambiguation:*null* gold wikification:=*null* isCorrectPrediction=Correct
+*Entity:[Talbot,textSpan=(36-42)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[America's Assistant Secretary of State,textSpan=(44-82)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[America,textSpan=(44-51)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=United_States isCorrectPrediction=Correct
+*Entity:[Assistant,textSpan=(54-63)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Assistant Secretary,textSpan=(54-73)]	-Disambiguation:(tid=2646955, Title name=United_States_Assistant_Secretary_of_State) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Assistant Secretary of State,textSpan=(54-82)]	-Disambiguation:(tid=2646955, Title name=United_States_Assistant_Secretary_of_State) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Secretary,textSpan=(64-73)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[State,textSpan=(77-82)]	-Disambiguation:*null* gold wikification:=*null* isCorrectPrediction=Correct
+*Entity:[the State Department,textSpan=(109-129)]	-Disambiguation:(tid=31975, Title name=United_States_Department_of_State) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[State,textSpan=(113-118)]	-Disambiguation:(tid=32293, Title name=United_States_Secretary_of_State) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[State Department,textSpan=(113-129)]	-Disambiguation:(tid=31975, Title name=United_States_Department_of_State) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Department,textSpan=(119-129)]	-Disambiguation:(tid=31975, Title name=United_States_Department_of_State) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Madeleine,textSpan=(136-145)]	-Disambiguation:(tid=133249, Title name=Madeleine_Albright) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Madeleine Albright,textSpan=(136-154)]	-Disambiguation:(tid=133249, Title name=Madeleine_Albright) gold wikification:=Madeleine_Albright isCorrectPrediction=Correct
+*Entity:[Albright,textSpan=(146-154)]	-Disambiguation:(tid=133249, Title name=Madeleine_Albright) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[decided,textSpan=(160-167)]	-Disambiguation:(tid=295105, Title name=Paris_Peace_Conference,_1919) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[resign,textSpan=(171-177)]	-Disambiguation:(tid=481387, Title name=Resignation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[administration,textSpan=(187-201)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[head,textSpan=(205-209)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[departments,textSpan=(221-232)]	-Disambiguation:(tid=408044, Title name=Academic_department) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yale,textSpan=(236-240)]	-Disambiguation:(tid=34273, Title name=Yale_University) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yale University,textSpan=(236-251)]	-Disambiguation:(tid=34273, Title name=Yale_University) gold wikification:=Yale_University isCorrectPrediction=Correct
+*Entity:[University,textSpan=(241-251)]	-Disambiguation:(tid=34273, Title name=Yale_University) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the state,textSpan=(255-264)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[state,textSpan=(259-264)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Connecticut,textSpan=(268-279)]	-Disambiguation:(tid=6466, Title name=Connecticut) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[northeast,textSpan=(281-290)]	-Disambiguation:*null* gold wikification:=*null* isCorrectPrediction=Correct
+*Entity:[Richard Levin,textSpan=(295-308)]	-Disambiguation:(tid=457646, Title name=Rick_Levin) gold wikification:=Rick_Levin isCorrectPrediction=Correct
+*Entity:[Richard,textSpan=(295-302)]	-Disambiguation:(tid=457646, Title name=Rick_Levin) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Richard Levin, the Chancellor,textSpan=(295-324)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Levin,textSpan=(303-308)]	-Disambiguation:(tid=457646, Title name=Rick_Levin) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Levin, the Chancellor,textSpan=(303-324)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the Chancellor,textSpan=(310-324)]	-Disambiguation:(tid=70075, Title name=Chancellor_of_the_Exchequer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Chancellor,textSpan=(314-324)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[prestigious,textSpan=(333-344)]	-Disambiguation:(tid=233002, Title name=Prestige) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[university,textSpan=(345-355)]	-Disambiguation:(tid=31794, Title name=University) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Talbot,textSpan=(362-368)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[head,textSpan=(375-379)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Globalization,textSpan=(384-397)]	-Disambiguation:(tid=46313, Title name=Globalization) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Globalization Studies Center,textSpan=(384-412)]	-Disambiguation:(tid=3658264, Title name=Center_for_Global_Studies) gold wikification:=Yale_Center_for_the_Study_of_Globalization isCorrectPrediction=Incorrect
+*Entity:[Studies,textSpan=(398-405)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Center,textSpan=(406-412)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[July,textSpan=(424-428)]	-Disambiguation:(tid=767942, Title name=July_2004) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[teach,textSpan=(444-449)]	-Disambiguation:(tid=9252, Title name=Education) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the university,textSpan=(453-467)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[university,textSpan=(457-467)]	-Disambiguation:(tid=31794, Title name=University) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Talbot,textSpan=(471-477)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the second,textSpan=(481-491)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[second,textSpan=(485-491)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[top-ranking,textSpan=(492-503)]	-Disambiguation:(tid=3658264, Title name=Top_Ranking:_A_Diplo_Dub) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[American,textSpan=(504-512)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[American diplomat,textSpan=(504-521)]	-Disambiguation:(tid=7564, Title name=Foreign_policy_of_the_United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[diplomat,textSpan=(513-521)]	-Disambiguation:(tid=43259, Title name=Diplomacy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[days,textSpan=(531-535)]	-Disambiguation:(tid=8376, Title name=Day) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[announce,textSpan=(539-547)]	-Disambiguation:(tid=71537, Title name=Coming_out) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[intention,textSpan=(552-561)]	-Disambiguation:(tid=527474, Title name=Intention) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the end,textSpan=(578-585)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[President Bill Clinton,textSpan=(589-611)]	-Disambiguation:(tid=3356, Title name=Bill_Clinton) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[President,textSpan=(589-598)]	-Disambiguation:(tid=3356, Title name=Bill_Clinton) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bill Clinton,textSpan=(599-611)]	-Disambiguation:(tid=3356, Title name=Bill_Clinton) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Clinton,textSpan=(604-611)]	-Disambiguation:(tid=3356, Title name=Bill_Clinton) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[second,textSpan=(614-620)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[second term,textSpan=(614-625)]	-Disambiguation:(tid=1143897, Title name=George_W._Bush's_second_term_as_President_of_the_United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[term,textSpan=(621-625)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[January 20,textSpan=(631-641)]	-Disambiguation:(tid=16025, Title name=January_20) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[January,textSpan=(631-638)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[20,textSpan=(639-641)]	-Disambiguation:(tid=16025, Title name=January_20) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[special,textSpan=(649-656)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[special envoy,textSpan=(649-662)]	-Disambiguation:(tid=1204401, Title name=Diplomatic_rank) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[envoy,textSpan=(657-662)]	-Disambiguation:(tid=1207925, Title name=Envoy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the Middle East,textSpan=(666-681)]	-Disambiguation:(tid=19323, Title name=Middle_East) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Middle East,textSpan=(670-681)]	-Disambiguation:(tid=19323, Title name=Middle_East) gold wikification:=Middle_East isCorrectPrediction=Correct
+*Entity:[Middle,textSpan=(670-676)]	-Disambiguation:(tid=19323, Title name=Middle_East) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Middle East, Dennis Ross,textSpan=(670-694)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[East,textSpan=(677-681)]	-Disambiguation:(tid=19323, Title name=Middle_East) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Dennis,textSpan=(683-689)]	-Disambiguation:(tid=1399016, Title name=Dennis_Ross) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Dennis Ross,textSpan=(683-694)]	-Disambiguation:(tid=1399016, Title name=Dennis_Ross) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Ross,textSpan=(690-694)]	-Disambiguation:(tid=1399016, Title name=Dennis_Ross) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[week,textSpan=(711-715)]	-Disambiguation:(tid=33538, Title name=Week) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[intends,textSpan=(724-731)]	-Disambiguation:(tid=11660322, Title name=Intend) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[resign,textSpan=(735-741)]	-Disambiguation:(tid=481387, Title name=Resignation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[post,textSpan=(751-755)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[personal,textSpan=(761-769)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[family,textSpan=(774-780)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reasons,textSpan=(781-788)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the current,textSpan=(795-806)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[current administration,textSpan=(799-821)]	-Disambiguation:(tid=183895, Title name=Presidency_of_George_W._Bush) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[current,textSpan=(799-806)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[administration,textSpan=(807-821)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[term,textSpan=(824-828)]	-Disambiguation:(tid=180184, Title name=Term) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Talbot,textSpan=(848-854)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yale,textSpan=(858-862)]	-Disambiguation:(tid=34273, Title name=Yale_University) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[graduate,textSpan=(863-871)]	-Disambiguation:(tid=346628, Title name=Graduate_school) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[correspondent,textSpan=(883-896)]	-Disambiguation:(tid=511094, Title name=Correspondent) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Time,textSpan=(902-906)]	-Disambiguation:(tid=31600, Title name=Time_(magazine)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Time magazine,textSpan=(902-915)]	-Disambiguation:(tid=31600, Title name=Time_(magazine)) gold wikification:=Time_(magazine) isCorrectPrediction=Correct
+*Entity:[magazine,textSpan=(907-915)]	-Disambiguation:(tid=31600, Title name=Time_(magazine)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[appointed,textSpan=(921-930)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[assistant,textSpan=(931-940)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the Secretary,textSpan=(944-957)]	-Disambiguation:(tid=5186807, Title name=The_Secretary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Secretary of State,textSpan=(948-966)]	-Disambiguation:(tid=29347, Title name=Secretary_of_State) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Secretary,textSpan=(948-957)]	-Disambiguation:(tid=29347, Title name=Secretary_of_State) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[State,textSpan=(961-966)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1994,textSpan=(970-974)]	-Disambiguation:(tid=34663, Title name=1994) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ambassador,textSpan=(998-1008)]	-Disambiguation:(tid=68651, Title name=Ambassador) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[special advisor,textSpan=(1013-1028)]	-Disambiguation:(tid=17919269, Title name=Special_adviser) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[special,textSpan=(1013-1020)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[advisor,textSpan=(1021-1028)]	-Disambiguation:(tid=12466673, Title name=Advisor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Soviet Union,textSpan=(1039-1051)]	-Disambiguation:(tid=26779, Title name=Soviet_Union) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Soviet Union Affairs,textSpan=(1039-1059)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Soviet,textSpan=(1039-1045)]	-Disambiguation:(tid=26779, Title name=Soviet_Union) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Union Affairs,textSpan=(1046-1059)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Union,textSpan=(1046-1051)]	-Disambiguation:(tid=26779, Title name=Soviet_Union) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Affairs,textSpan=(1052-1059)]	-Disambiguation:(tid=169228, Title name=Affair) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Washington' start in text:2 end in text: 12; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Stewart Talbot, America's Assistant Secretary of State' start in text:28 end in text: 82; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Stewart' start in text:28 end in text: 35; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Stewart Talbot' start in text:28 end in text: 42; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Talbot' start in text:36 end in text: 42; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'America's Assistant Secretary of State' start in text:44 end in text: 82; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'America' start in text:44 end in text: 51; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Assistant' start in text:54 end in text: 63; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Assistant Secretary' start in text:54 end in text: 73; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Assistant Secretary of State' start in text:54 end in text: 82; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Secretary' start in text:64 end in text: 73; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'State' start in text:77 end in text: 82; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the State Department' start in text:109 end in text: 129; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'State' start in text:113 end in text: 118; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'State Department' start in text:113 end in text: 129; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Department' start in text:119 end in text: 129; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Madeleine' start in text:136 end in text: 145; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Madeleine Albright' start in text:136 end in text: 154; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Albright' start in text:146 end in text: 154; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'decided' start in text:160 end in text: 167; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'resign' start in text:171 end in text: 177; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'administration' start in text:187 end in text: 201; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'head' start in text:205 end in text: 209; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'departments' start in text:221 end in text: 232; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yale' start in text:236 end in text: 240; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yale University' start in text:236 end in text: 251; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'University' start in text:241 end in text: 251; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the state' start in text:255 end in text: 264; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'state' start in text:259 end in text: 264; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Connecticut' start in text:268 end in text: 279; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'northeast' start in text:281 end in text: 290; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Richard Levin' start in text:295 end in text: 308; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Richard' start in text:295 end in text: 302; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Richard Levin, the Chancellor' start in text:295 end in text: 324; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Levin' start in text:303 end in text: 308; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Levin, the Chancellor' start in text:303 end in text: 324; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'the Chancellor' start in text:310 end in text: 324; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Chancellor' start in text:314 end in text: 324; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'prestigious' start in text:333 end in text: 344; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'university' start in text:345 end in text: 355; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Talbot' start in text:362 end in text: 368; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'head' start in text:375 end in text: 379; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Globalization' start in text:384 end in text: 397; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Globalization Studies Center' start in text:384 end in text: 412; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Studies' start in text:398 end in text: 405; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Center' start in text:406 end in text: 412; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'July' start in text:424 end in text: 428; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'teach' start in text:444 end in text: 449; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the university' start in text:453 end in text: 467; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'university' start in text:457 end in text: 467; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Talbot' start in text:471 end in text: 477; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the second' start in text:481 end in text: 491; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'second' start in text:485 end in text: 491; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'top-ranking' start in text:492 end in text: 503; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'American' start in text:504 end in text: 512; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'American diplomat' start in text:504 end in text: 521; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'diplomat' start in text:513 end in text: 521; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'days' start in text:531 end in text: 535; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'announce' start in text:539 end in text: 547; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'intention' start in text:552 end in text: 561; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the end' start in text:578 end in text: 585; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'President Bill Clinton' start in text:589 end in text: 611; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'President' start in text:589 end in text: 598; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bill Clinton' start in text:599 end in text: 611; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Clinton' start in text:604 end in text: 611; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'second' start in text:614 end in text: 620; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'second term' start in text:614 end in text: 625; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'term' start in text:621 end in text: 625; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'January 20' start in text:631 end in text: 641; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'January' start in text:631 end in text: 638; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '20' start in text:639 end in text: 641; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'special' start in text:649 end in text: 656; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'special envoy' start in text:649 end in text: 662; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'envoy' start in text:657 end in text: 662; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the Middle East' start in text:666 end in text: 681; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Middle East' start in text:670 end in text: 681; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Middle' start in text:670 end in text: 676; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Middle East, Dennis Ross' start in text:670 end in text: 694; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'East' start in text:677 end in text: 681; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Dennis' start in text:683 end in text: 689; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Dennis Ross' start in text:683 end in text: 694; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Ross' start in text:690 end in text: 694; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'week' start in text:711 end in text: 715; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'intends' start in text:724 end in text: 731; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'resign' start in text:735 end in text: 741; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'post' start in text:751 end in text: 755; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'personal' start in text:761 end in text: 769; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'family' start in text:774 end in text: 780; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reasons' start in text:781 end in text: 788; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the current' start in text:795 end in text: 806; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'current administration' start in text:799 end in text: 821; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'current' start in text:799 end in text: 806; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'administration' start in text:807 end in text: 821; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'term' start in text:824 end in text: 828; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Talbot' start in text:848 end in text: 854; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yale' start in text:858 end in text: 862; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'graduate' start in text:863 end in text: 871; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'correspondent' start in text:883 end in text: 896; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Time' start in text:902 end in text: 906; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Time magazine' start in text:902 end in text: 915; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'magazine' start in text:907 end in text: 915; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'appointed' start in text:921 end in text: 930; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'assistant' start in text:931 end in text: 940; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the Secretary' start in text:944 end in text: 957; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Secretary of State' start in text:948 end in text: 966; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Secretary' start in text:948 end in text: 957; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'State' start in text:961 end in text: 966; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1994' start in text:970 end in text: 974; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ambassador' start in text:998 end in text: 1008; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'special advisor' start in text:1013 end in text: 1028; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'special' start in text:1013 end in text: 1020; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'advisor' start in text:1021 end in text: 1028; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Soviet Union' start in text:1039 end in text: 1051; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Soviet Union Affairs' start in text:1039 end in text: 1059; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Soviet' start in text:1039 end in text: 1045; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Union Affairs' start in text:1046 end in text: 1059; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Union' start in text:1046 end in text: 1051; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Affairs' start in text:1052 end in text: 1059; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

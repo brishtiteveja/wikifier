@@ -1,0 +1,695 @@
+<ReferenceProblem>
+	<ReferenceFileName>
+		44417
+	</ReferenceFileName>
+<ReferenceInstance>
+	<SurfaceForm>
+		upper house
+	</SurfaceForm>
+	<Offset>
+		49
+	</Offset>
+	<Length>
+		11
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Upper_house
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Upper_house
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		legislature
+	</SurfaceForm>
+	<Offset>
+		81
+	</Offset>
+	<Length>
+		11
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Legislature
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Legislature
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Roman Senate
+	</SurfaceForm>
+	<Offset>
+		170
+	</Offset>
+	<Length>
+		12
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Roman_Senate
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Roman_Senate
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Latin
+	</SurfaceForm>
+	<Offset>
+		232
+	</Offset>
+	<Length>
+		5
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Latin
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Latin
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Roman Senate
+	</SurfaceForm>
+	<Offset>
+		892
+	</Offset>
+	<Length>
+		12
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Roman_Senate
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Roman_Senate
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		580
+	</SurfaceForm>
+	<Offset>
+		929
+	</Offset>
+	<Length>
+		3
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/580
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/580
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Eastern Roman Empire
+	</SurfaceForm>
+	<Offset>
+		945
+	</Offset>
+	<Length>
+		20
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Byzantine_Empire
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Byzantine_Empire
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Byzantine Senate
+	</SurfaceForm>
+	<Offset>
+		975
+	</Offset>
+	<Length>
+		16
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Byzantine_Senate
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Byzantine_Senate
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Fourth Crusade
+	</SurfaceForm>
+	<Offset>
+		1016
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Fourth_Crusade
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Fourth_Crusade
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		parliamentary system
+	</SurfaceForm>
+	<Offset>
+		1080
+	</Offset>
+	<Length>
+		20
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Parliamentary_system
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Parliamentary_system
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		lower house
+	</SurfaceForm>
+	<Offset>
+		1190
+	</Offset>
+	<Length>
+		11
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Lower_house
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Lower_house
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		House of Representatives
+	</SurfaceForm>
+	<Offset>
+		1233
+	</Offset>
+	<Length>
+		24
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/House_of_Representatives
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/House_of_Representatives
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		House of Commons
+	</SurfaceForm>
+	<Offset>
+		1269
+	</Offset>
+	<Length>
+		16
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/House_of_Commons
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/House_of_Commons
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Chamber of Deputies
+	</SurfaceForm>
+	<Offset>
+		1297
+	</Offset>
+	<Length>
+		19
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Chamber_of_Deputies
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Chamber_of_Deputies
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		National Assembly
+	</SurfaceForm>
+	<Offset>
+		1328
+	</Offset>
+	<Length>
+		17
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/National_Assembly
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/National_Assembly
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Legislative Assembly
+	</SurfaceForm>
+	<Offset>
+		1357
+	</Offset>
+	<Length>
+		20
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Legislative_Assembly
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Legislative_Assembly
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		House of Assembly
+	</SurfaceForm>
+	<Offset>
+		1392
+	</Offset>
+	<Length>
+		17
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/House_of_Assembly
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/House_of_Assembly
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		plurality
+	</SurfaceForm>
+	<Offset>
+		1540
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Plurality
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Plurality
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Nebraska
+	</SurfaceForm>
+	<Offset>
+		1831
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Nebraska
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Nebraska
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Australia
+	</SurfaceForm>
+	<Offset>
+		1868
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Quebec
+	</SurfaceForm>
+	<Offset>
+		2088
+	</Offset>
+	<Length>
+		6
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Quebec
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Quebec
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Legislative Council
+	</SurfaceForm>
+	<Offset>
+		2101
+	</Offset>
+	<Length>
+		19
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Legislative_council
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Legislative_council
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		1968
+	</SurfaceForm>
+	<Offset>
+		2128
+	</Offset>
+	<Length>
+		4
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/1968
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/1968
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Australian Senate
+	</SurfaceForm>
+	<Offset>
+		2299
+	</Offset>
+	<Length>
+		17
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Australian_Senate
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Australian_Senate
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Canadian Senate
+	</SurfaceForm>
+	<Offset>
+		2390
+	</Offset>
+	<Length>
+		15
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Senate_of_Canada
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Senate_of_Canada
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Governor General
+	</SurfaceForm>
+	<Offset>
+		2431
+	</Offset>
+	<Length>
+		16
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Governor_General_of_Canada
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Governor_General_of_Canada
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Prime Minister of Canada
+	</SurfaceForm>
+	<Offset>
+		2483
+	</Offset>
+	<Length>
+		24
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Prime_Minister_of_Canada
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Prime_Minister_of_Canada
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Jamaican Senate
+	</SurfaceForm>
+	<Offset>
+		2671
+	</Offset>
+	<Length>
+		15
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Parliament_of_Jamaica
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Parliament_of_Jamaica
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		leader of the opposition
+	</SurfaceForm>
+	<Offset>
+		2760
+	</Offset>
+	<Length>
+		24
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Opposition_(parliamentary)
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Opposition_(parliamentary)
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		apportionment
+	</SurfaceForm>
+	<Offset>
+		2969
+	</Offset>
+	<Length>
+		13
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Apportionment
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Apportionment
+		</Annotation>
+</ReferenceInstance>
+</ReferenceProblem>

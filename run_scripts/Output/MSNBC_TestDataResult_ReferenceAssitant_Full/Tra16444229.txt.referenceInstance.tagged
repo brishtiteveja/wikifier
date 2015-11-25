@@ -1,0 +1,442 @@
+<ReferenceProblem>
+	<ReferenceFileName>
+		Tra16444229.txt
+	</ReferenceFileName>
+<ReferenceInstance>
+	<SurfaceForm>
+		Texas
+	</SurfaceForm>
+	<Offset>
+		13
+	</Offset>
+	<Length>
+		5
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Texas
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Texas
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		HOUSTON
+	</SurfaceForm>
+	<Offset>
+		121
+	</Offset>
+	<Length>
+		7
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Houston
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Houston
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		George Bush Intercontinental Airport
+	</SurfaceForm>
+	<Offset>
+		241
+	</Offset>
+	<Length>
+		36
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/George_Bush_Intercontinental_Airport
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/George_Bush_Intercontinental_Airport
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Houston
+	</SurfaceForm>
+	<Offset>
+		354
+	</Offset>
+	<Length>
+		7
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Houston
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Houston
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Police
+	</SurfaceForm>
+	<Offset>
+		396
+	</Offset>
+	<Length>
+		6
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Police
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Police
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Manuel
+	</SurfaceForm>
+	<Offset>
+		694
+	</Offset>
+	<Length>
+		6
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Manuel_(Fawlty_Towers)
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Manuel_(Fawlty_Towers)
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Ricardo Aguilar
+	</SurfaceForm>
+	<Offset>
+		705
+	</Offset>
+	<Length>
+		15
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Carlos Osorio
+	</SurfaceForm>
+	<Offset>
+		726
+	</Offset>
+	<Length>
+		13
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Carlos_Manuel_Arana_Osorio
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Carlos_Manuel_Arana_Osorio
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Erick Perez
+	</SurfaceForm>
+	<Offset>
+		745
+	</Offset>
+	<Length>
+		11
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Daniel Venegas
+	</SurfaceForm>
+	<Offset>
+		766
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Osorio
+	</SurfaceForm>
+	<Offset>
+		828
+	</Offset>
+	<Length>
+		6
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Carlos_Manuel_Arana_Osorio
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Carlos_Manuel_Arana_Osorio
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Perez
+	</SurfaceForm>
+	<Offset>
+		839
+	</Offset>
+	<Length>
+		5
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Harris County Jail
+	</SurfaceForm>
+	<Offset>
+		868
+	</Offset>
+	<Length>
+		18
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Venegas
+	</SurfaceForm>
+	<Offset>
+		938
+	</Offset>
+	<Length>
+		7
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Bownds
+	</SurfaceForm>
+	<Offset>
+		1020
+	</Offset>
+	<Length>
+		6
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Menzies Aviation Group
+	</SurfaceForm>
+	<Offset>
+		1051
+	</Offset>
+	<Length>
+		22
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		United States
+	</SurfaceForm>
+	<Offset>
+		1140
+	</Offset>
+	<Length>
+		13
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/United_States
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/United_States
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		London
+	</SurfaceForm>
+	<Offset>
+		1267
+	</Offset>
+	<Length>
+		6
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/London
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/London
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Bownds
+	</SurfaceForm>
+	<Offset>
+		1451
+	</Offset>
+	<Length>
+		6
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+</ReferenceProblem>

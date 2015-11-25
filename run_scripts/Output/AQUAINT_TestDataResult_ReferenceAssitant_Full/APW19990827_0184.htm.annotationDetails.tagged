@@ -1,0 +1,459 @@
+<ANNOTATION>
+   O'Hare  <a class="wiki" href="http://en.wikipedia.org/wiki/Closes_Vol._1" cat="album">Closes</a>   <b>Terminal</b> for Security<br><br>  <b>CHICAGO</b> ( <a class="wiki" href="http://en.wikipedia.org/wiki/Associated_Press" cat="cooperative	agency	establishment	medium	recipient">AP</a> ) --   <a class="wiki" href="http://en.wikipedia.org/wiki/United_Airlines" cat="airline	section	member	company">United Airlines</a>    shut down a   <b>terminal</b>   for hours so authorities could search for a  <b>passenger</b> who ran past a  security   checkpoint and disappeared into the crowd at   <a class="wiki" href="http://en.wikipedia.org/wiki/O'Hare_International_Airport" cat="village	place">O'Hare International Airport</a>   . <br><br> <br><br> United spokeswoman Kristina Price said 131 flights were canceled  <b>Thursday</b> and more than 100 were delayed nationwide because of the incident. About 6,000 passengers were cleared from the  <b>terminal</b> during the search,  <b>airline</b> officials said. <br><br> <br><br> Eighty more flights were canceled today and numerous others were delayed as the effects of the shutdown lingered, Price said, adding that the carrier hoped to be back to a normal schedule by this afternoon. <br><br> <br><br> The man was not found and  <a class="wiki" href="http://en.wikipedia.org/wiki/Chicago_Police_Department" cat="agency">Chicago police</a>  said officers turned up nothing suspicious. <br><br> <br><br> He was leaving a  concourse   and heading toward the   <b>baggage claim</b>  area when he turned back and ran up a  <b>one-way</b>  <b>staircase</b> leading to the concourse, United spokesman Matthew Triaca said.  <b>Guards</b> are stationed at the  <b>staircase</b>, but the man ran past them. <br><br> <br><br> No United flights left the terminal during the search and only a few landed at other United gates. Some flights resumed by early evening. <br><br>
+</ANNOTATION>
+*Entity:[O'Hare Closes Terminal for Security CHICAGO,textSpan=(3-48)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hare Closes Terminal for Security CHICAGO,textSpan=(5-48)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[O'Hare Closes Terminal,textSpan=(0-25)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[O'Hare Closes Terminal for Security,textSpan=(0-38)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[O'Hare,textSpan=(0-9)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Closes Terminal for Security CHICAGO,textSpan=(10-48)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Closes,textSpan=(10-16)]	-Disambiguation:(tid=2248120, Title name=Closes_Vol._1) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Terminal,textSpan=(17-25)]	-Disambiguation:(tid=423849, Title name=Airport_terminal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Security,textSpan=(30-38)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[CHICAGO,textSpan=(41-48)]	-Disambiguation:(tid=213077, Title name=Chicago_(musical)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[AP,textSpan=(50-52)]	-Disambiguation:(tid=47915, Title name=Associated_Press) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United,textSpan=(58-64)]	-Disambiguation:(tid=32307, Title name=United_Airlines) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United Airlines,textSpan=(58-73)]	-Disambiguation:(tid=32307, Title name=United_Airlines) gold wikification:=United_Airlines isCorrectPrediction=Correct
+*Entity:[Airlines,textSpan=(65-73)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[terminal,textSpan=(89-97)]	-Disambiguation:(tid=423849, Title name=Airport_terminal) gold wikification:=Airport_terminal isCorrectPrediction=Correct
+*Entity:[hours,textSpan=(104-109)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[authorities,textSpan=(113-124)]	-Disambiguation:(tid=170653, Title name=Authority) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[search,textSpan=(131-137)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[passenger,textSpan=(144-153)]	-Disambiguation:(tid=4582654, Title name=Passenger) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[security,textSpan=(170-178)]	-Disambiguation:*null* gold wikification:=Airport_security isCorrectPrediction=Incorrect
+*Entity:[the crowd,textSpan=(213-222)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[crowd,textSpan=(217-222)]	-Disambiguation:(tid=928595, Title name=Crowd) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[O'Hare International Airport,textSpan=(227-255)]	-Disambiguation:(tid=248434, Title name=O'Hare_International_Airport) gold wikification:=O'Hare_International_Airport isCorrectPrediction=Correct
+*Entity:[O'Hare International,textSpan=(227-247)]	-Disambiguation:(tid=248434, Title name=O'Hare_International_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[O'Hare,textSpan=(227-233)]	-Disambiguation:(tid=248434, Title name=O'Hare_International_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[International Airport,textSpan=(234-255)]	-Disambiguation:(tid=248434, Title name=O'Hare_International_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[International,textSpan=(234-247)]	-Disambiguation:(tid=248434, Title name=O'Hare_International_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Airport,textSpan=(248-255)]	-Disambiguation:(tid=248434, Title name=O'Hare_International_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United,textSpan=(265-271)]	-Disambiguation:(tid=32307, Title name=United_Airlines) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[spokeswoman,textSpan=(272-283)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Kristina Price,textSpan=(284-298)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Kristina,textSpan=(284-292)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Price,textSpan=(293-298)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[131,textSpan=(304-307)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flights,textSpan=(308-315)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[canceled,textSpan=(321-329)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Thursday,textSpan=(330-338)]	-Disambiguation:(tid=266139, Title name=Thursday_(band)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[more than,textSpan=(343-352)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[100,textSpan=(353-356)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[delayed,textSpan=(362-369)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the incident,textSpan=(392-404)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[incident,textSpan=(396-404)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[About,textSpan=(406-411)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[passengers,textSpan=(418-428)]	-Disambiguation:(tid=4582654, Title name=Passenger) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cleared,textSpan=(434-441)]	-Disambiguation:(tid=204523, Title name=Highland_Clearances) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the terminal,textSpan=(447-459)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[terminal,textSpan=(451-459)]	-Disambiguation:(tid=423849, Title name=Airport_terminal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the search,textSpan=(467-477)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[search,textSpan=(471-477)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airline,textSpan=(479-486)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[officials,textSpan=(487-496)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Eighty,textSpan=(509-515)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flights,textSpan=(521-528)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[canceled,textSpan=(534-542)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[today,textSpan=(543-548)]	-Disambiguation:(tid=36165, Title name=2007) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[numerous others,textSpan=(553-568)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[numerous,textSpan=(553-561)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[delayed,textSpan=(574-581)]	-Disambiguation:(tid=5215871, Title name=Delay_(audio_effect)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[effects,textSpan=(589-596)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[shutdown,textSpan=(604-612)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Price,textSpan=(623-628)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the carrier,textSpan=(647-658)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[carrier,textSpan=(651-658)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[to be,textSpan=(665-670)]	-Disambiguation:(tid=5630, Title name=Copula) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[normal,textSpan=(681-687)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[schedule,textSpan=(688-696)]	-Disambiguation:(tid=277433, Title name=Timetable) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[this afternoon,textSpan=(700-714)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[afternoon,textSpan=(705-714)]	-Disambiguation:(tid=741426, Title name=Afternoon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The man,textSpan=(722-729)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[man,textSpan=(726-729)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[not found,textSpan=(734-743)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Chicago,textSpan=(748-755)]	-Disambiguation:(tid=6886, Title name=Chicago) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Chicago police,textSpan=(748-762)]	-Disambiguation:(tid=753103, Title name=Chicago_Police_Department) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[police,textSpan=(756-762)]	-Disambiguation:(tid=753103, Title name=Chicago_Police_Department) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[officers,textSpan=(768-776)]	-Disambiguation:(tid=310240, Title name=Police_officer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[He,textSpan=(813-815)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[leaving,textSpan=(820-827)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[concourse,textSpan=(831-840)]	-Disambiguation:*null* gold wikification:=Concourse isCorrectPrediction=Incorrect
+*Entity:[baggage claim,textSpan=(867-880)]	-Disambiguation:(tid=973701, Title name=Baggage_claim) gold wikification:=Baggage_claim isCorrectPrediction=Correct
+*Entity:[area,textSpan=(882-886)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[one-way,textSpan=(920-927)]	-Disambiguation:(tid=567633, Title name=One-way) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[staircase,textSpan=(928-937)]	-Disambiguation:(tid=256537, Title name=Stairs) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the concourse,textSpan=(949-962)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[concourse,textSpan=(953-962)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United,textSpan=(964-970)]	-Disambiguation:(tid=32307, Title name=United_Airlines) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[spokesman,textSpan=(971-980)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Matthew,textSpan=(981-988)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Matthew Triaca,textSpan=(981-995)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Guards,textSpan=(1002-1008)]	-Disambiguation:(tid=905866, Title name=Russian_Guards) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[stationed,textSpan=(1013-1022)]	-Disambiguation:(tid=5043324, Title name=Iraq_War) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the staircase,textSpan=(1026-1039)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[staircase,textSpan=(1030-1039)]	-Disambiguation:(tid=256537, Title name=Stairs) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the man,textSpan=(1045-1052)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[man,textSpan=(1049-1052)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[No United,textSpan=(1074-1083)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United,textSpan=(1077-1083)]	-Disambiguation:(tid=32307, Title name=United_Airlines) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flights,textSpan=(1084-1091)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the terminal,textSpan=(1097-1109)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[terminal,textSpan=(1101-1109)]	-Disambiguation:(tid=423849, Title name=Airport_terminal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the search,textSpan=(1117-1127)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[search,textSpan=(1121-1127)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[landed,textSpan=(1143-1149)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United,textSpan=(1159-1165)]	-Disambiguation:(tid=32307, Title name=United_Airlines) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gates,textSpan=(1166-1171)]	-Disambiguation:(tid=6348399, Title name=Gate_(airport)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Some,textSpan=(1173-1177)]	-Disambiguation:(tid=1629738, Title name=Some) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flights,textSpan=(1178-1185)]	-Disambiguation:(tid=1942, Title name=Airline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[early,textSpan=(1197-1202)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[evening,textSpan=(1203-1210)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'O'Hare Closes Terminal for Security CHICAGO' start in text:3 end in text: 48; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Hare Closes Terminal for Security CHICAGO' start in text:5 end in text: 48; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'O'Hare Closes Terminal' start in text:0 end in text: 25; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'O'Hare Closes Terminal for Security' start in text:0 end in text: 38; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'O'Hare' start in text:0 end in text: 9; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Closes Terminal for Security CHICAGO' start in text:10 end in text: 48; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Closes' start in text:10 end in text: 16; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Terminal' start in text:17 end in text: 25; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Security' start in text:30 end in text: 38; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'CHICAGO' start in text:41 end in text: 48; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'AP' start in text:50 end in text: 52; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United' start in text:58 end in text: 64; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United Airlines' start in text:58 end in text: 73; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Airlines' start in text:65 end in text: 73; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'terminal' start in text:89 end in text: 97; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hours' start in text:104 end in text: 109; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'authorities' start in text:113 end in text: 124; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'search' start in text:131 end in text: 137; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'passenger' start in text:144 end in text: 153; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'security' start in text:170 end in text: 178; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the crowd' start in text:213 end in text: 222; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'crowd' start in text:217 end in text: 222; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'O'Hare International Airport' start in text:227 end in text: 255; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'O'Hare International' start in text:227 end in text: 247; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'O'Hare' start in text:227 end in text: 233; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'International Airport' start in text:234 end in text: 255; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'International' start in text:234 end in text: 247; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Airport' start in text:248 end in text: 255; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United' start in text:265 end in text: 271; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'spokeswoman' start in text:272 end in text: 283; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Kristina Price' start in text:284 end in text: 298; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Kristina' start in text:284 end in text: 292; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Price' start in text:293 end in text: 298; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '131' start in text:304 end in text: 307; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flights' start in text:308 end in text: 315; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'canceled' start in text:321 end in text: 329; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thursday' start in text:330 end in text: 338; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'more than' start in text:343 end in text: 352; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '100' start in text:353 end in text: 356; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'delayed' start in text:362 end in text: 369; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the incident' start in text:392 end in text: 404; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'incident' start in text:396 end in text: 404; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'About' start in text:406 end in text: 411; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'passengers' start in text:418 end in text: 428; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cleared' start in text:434 end in text: 441; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the terminal' start in text:447 end in text: 459; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'terminal' start in text:451 end in text: 459; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the search' start in text:467 end in text: 477; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'search' start in text:471 end in text: 477; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airline' start in text:479 end in text: 486; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'officials' start in text:487 end in text: 496; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Eighty' start in text:509 end in text: 515; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flights' start in text:521 end in text: 528; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'canceled' start in text:534 end in text: 542; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'today' start in text:543 end in text: 548; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'numerous others' start in text:553 end in text: 568; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'numerous' start in text:553 end in text: 561; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'delayed' start in text:574 end in text: 581; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'effects' start in text:589 end in text: 596; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shutdown' start in text:604 end in text: 612; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Price' start in text:623 end in text: 628; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the carrier' start in text:647 end in text: 658; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'carrier' start in text:651 end in text: 658; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'to be' start in text:665 end in text: 670; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'normal' start in text:681 end in text: 687; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'schedule' start in text:688 end in text: 696; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'this afternoon' start in text:700 end in text: 714; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'afternoon' start in text:705 end in text: 714; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The man' start in text:722 end in text: 729; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'man' start in text:726 end in text: 729; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'not found' start in text:734 end in text: 743; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Chicago' start in text:748 end in text: 755; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Chicago police' start in text:748 end in text: 762; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'police' start in text:756 end in text: 762; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'officers' start in text:768 end in text: 776; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'He' start in text:813 end in text: 815; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'leaving' start in text:820 end in text: 827; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'concourse' start in text:831 end in text: 840; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'baggage claim' start in text:867 end in text: 880; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'area' start in text:882 end in text: 886; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'one-way' start in text:920 end in text: 927; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'staircase' start in text:928 end in text: 937; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the concourse' start in text:949 end in text: 962; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'concourse' start in text:953 end in text: 962; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United' start in text:964 end in text: 970; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'spokesman' start in text:971 end in text: 980; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Matthew' start in text:981 end in text: 988; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Matthew Triaca' start in text:981 end in text: 995; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Guards' start in text:1002 end in text: 1008; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'stationed' start in text:1013 end in text: 1022; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the staircase' start in text:1026 end in text: 1039; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'staircase' start in text:1030 end in text: 1039; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the man' start in text:1045 end in text: 1052; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'man' start in text:1049 end in text: 1052; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'No United' start in text:1074 end in text: 1083; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'United' start in text:1077 end in text: 1083; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flights' start in text:1084 end in text: 1091; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the terminal' start in text:1097 end in text: 1109; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'terminal' start in text:1101 end in text: 1109; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the search' start in text:1117 end in text: 1127; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'search' start in text:1121 end in text: 1127; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'landed' start in text:1143 end in text: 1149; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United' start in text:1159 end in text: 1165; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gates' start in text:1166 end in text: 1171; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Some' start in text:1173 end in text: 1177; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flights' start in text:1178 end in text: 1185; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'early' start in text:1197 end in text: 1202; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'evening' start in text:1203 end in text: 1210; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

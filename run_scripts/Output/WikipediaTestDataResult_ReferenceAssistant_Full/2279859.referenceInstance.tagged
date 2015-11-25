@@ -1,0 +1,189 @@
+<ReferenceProblem>
+	<ReferenceFileName>
+		2279859
+	</ReferenceFileName>
+<ReferenceInstance>
+	<SurfaceForm>
+		supermodel
+	</SurfaceForm>
+	<Offset>
+		168
+	</Offset>
+	<Length>
+		10
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Supermodel
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Supermodel
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Colorado Springs, Colorado
+	</SurfaceForm>
+	<Offset>
+		236
+	</Offset>
+	<Length>
+		26
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Colorado_Springs,_Colorado
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Colorado_Springs,_Colorado
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		black
+	</SurfaceForm>
+	<Offset>
+		458
+	</Offset>
+	<Length>
+		5
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/African_American
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/African_American
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Colorado Springs Police Department
+	</SurfaceForm>
+	<Offset>
+		494
+	</Offset>
+	<Length>
+		34
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Colorado_Springs_Police_Department
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Colorado_Springs_Police_Department
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Coronado High School
+	</SurfaceForm>
+	<Offset>
+		558
+	</Offset>
+	<Length>
+		20
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Coronado_High_School_(Colorado_Springs,_Colorado)
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Coronado_High_School_(Colorado_Springs,_Colorado)
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Kathy Ireland
+	</SurfaceForm>
+	<Offset>
+		1150
+	</Offset>
+	<Length>
+		13
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Kathy_Ireland
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Kathy_Ireland
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		contact lens
+	</SurfaceForm>
+	<Offset>
+		1222
+	</Offset>
+	<Length>
+		12
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Contact_lens
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Contact_lens
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Tahiti
+	</SurfaceForm>
+	<Offset>
+		2128
+	</Offset>
+	<Length>
+		6
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Tahiti
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Tahiti
+		</Annotation>
+</ReferenceInstance>
+</ReferenceProblem>

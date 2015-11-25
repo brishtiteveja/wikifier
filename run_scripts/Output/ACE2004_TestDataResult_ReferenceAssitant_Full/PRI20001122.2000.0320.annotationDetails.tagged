@@ -1,0 +1,208 @@
+<ANNOTATION>
+  <a class="wiki" href="http://en.wikipedia.org/wiki/The_Palestinian" cat="">The Palestinian</a>   <b>faction</b> headed by  <a class="wiki" href="http://en.wikipedia.org/wiki/Yasser_Arafat" cat="survivor	member	muslim	alumnus	recipient	president	person	engineer	dispute">Yasser Arafat</a>  said today that, it will avenge the deaths of four of its members who were killed today by  <a class="wiki" href="http://en.wikipedia.org/wiki/Israel_Defense_Forces" cat="dispute	recipient	relations	unit">Israeli soldiers</a> . Later in the day, a  <b>car bombing</b> in the Northern  <a class="wiki" href="http://en.wikipedia.org/wiki/Israel" cat="republic	country	state	words">Israeli</a>   <b>town</b> of  <a class="wiki" href="http://en.wikipedia.org/wiki/Hadera" cat="community">Hadera</a> , killed two people and injured at least 50.  <a class="wiki" href="http://en.wikipedia.org/wiki/Prime_Minister_of_Israel" cat="">Israeli Prime Minister</a>   <a class="wiki" href="http://en.wikipedia.org/wiki/Ehud_Barak" cat="politician	jew	person	recipient	member	leaders	commander	alumnus	minister	chief">Ehud Barak</a>  said he would retaliate.  <a class="wiki" href="http://en.wikipedia.org/wiki/Corey_Flintoff" cat="person	personality">Corey Flintoff</a> ,  <a class="wiki" href="http://en.wikipedia.org/wiki/NPR" cat="channels	broadcaster	establishment	company">NPR news</a> , Washington.  <br>
+</ANNOTATION>
+*Entity:[The Palestinian,textSpan=(1-16)]	-Disambiguation:(tid=3658264, Title name=The_Palestinian) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Palestinian,textSpan=(5-16)]	-Disambiguation:(tid=24324, Title name=Palestine_Liberation_Organization) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[faction,textSpan=(17-24)]	-Disambiguation:(tid=713312, Title name=Political_faction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yasser Arafat,textSpan=(35-48)]	-Disambiguation:(tid=34289, Title name=Yasser_Arafat) gold wikification:=Yasser_Arafat isCorrectPrediction=Correct
+*Entity:[Yasser,textSpan=(35-41)]	-Disambiguation:(tid=34289, Title name=Yasser_Arafat) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Arafat,textSpan=(42-48)]	-Disambiguation:(tid=34289, Title name=Yasser_Arafat) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[today,textSpan=(54-59)]	-Disambiguation:(tid=36165, Title name=2007) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[avenge,textSpan=(74-80)]	-Disambiguation:(tid=181361, Title name=Revenge) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the deaths,textSpan=(81-91)]	-Disambiguation:(tid=1965, Title name=Apollo_1) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[deaths,textSpan=(85-91)]	-Disambiguation:(tid=20989, Title name=Munich_massacre) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[members,textSpan=(107-114)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[killed,textSpan=(124-130)]	-Disambiguation:(tid=20989, Title name=Munich_massacre) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[today,textSpan=(131-136)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli,textSpan=(140-147)]	-Disambiguation:(tid=181296, Title name=Israelis) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli soldiers,textSpan=(140-156)]	-Disambiguation:(tid=39237, Title name=Israel_Defense_Forces) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[soldiers,textSpan=(148-156)]	-Disambiguation:(tid=39237, Title name=Israel_Defense_Forces) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the day,textSpan=(167-174)]	-Disambiguation:(tid=3819091, Title name=24_(season_5)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[day,textSpan=(171-174)]	-Disambiguation:(tid=8376, Title name=Day) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a car,textSpan=(176-181)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[car bombing,textSpan=(178-189)]	-Disambiguation:(tid=155282, Title name=Car_bomb) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[car,textSpan=(178-181)]	-Disambiguation:(tid=13673345, Title name=Automobile) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bombing,textSpan=(182-189)]	-Disambiguation:(tid=47628, Title name=Bomb) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Northern,textSpan=(197-205)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Northern Israeli,textSpan=(197-213)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli,textSpan=(206-213)]	-Disambiguation:(tid=9282173, Title name=Israel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[town,textSpan=(214-218)]	-Disambiguation:(tid=52911, Title name=Town) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hadera,textSpan=(222-228)]	-Disambiguation:(tid=323304, Title name=Hadera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[two people,textSpan=(237-247)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[people,textSpan=(241-247)]	-Disambiguation:(tid=3488351, Title name=People) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[50,textSpan=(269-271)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli Prime Minister Ehud Barak,textSpan=(273-306)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli Prime Minister,textSpan=(273-295)]	-Disambiguation:(tid=24898, Title name=Prime_Minister_of_Israel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli,textSpan=(273-280)]	-Disambiguation:(tid=181296, Title name=Israelis) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Prime,textSpan=(281-286)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Prime Minister,textSpan=(281-295)]	-Disambiguation:(tid=24898, Title name=Prime_Minister_of_Israel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Minister,textSpan=(287-295)]	-Disambiguation:(tid=24898, Title name=Prime_Minister_of_Israel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Ehud Barak,textSpan=(296-306)]	-Disambiguation:(tid=168212, Title name=Ehud_Barak) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Ehud,textSpan=(296-300)]	-Disambiguation:(tid=168212, Title name=Ehud_Barak) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Barak,textSpan=(301-306)]	-Disambiguation:(tid=168212, Title name=Ehud_Barak) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[retaliate,textSpan=(321-330)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Corey Flintoff, NPR,textSpan=(332-351)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Corey Flintoff,textSpan=(332-346)]	-Disambiguation:(tid=10448282, Title name=Corey_Flintoff) gold wikification:=Corey_Flintoff isCorrectPrediction=Correct
+*Entity:[Corey,textSpan=(332-337)]	-Disambiguation:(tid=10448282, Title name=Corey_Flintoff) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Flintoff,textSpan=(338-346)]	-Disambiguation:(tid=10448282, Title name=Corey_Flintoff) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Flintoff, NPR,textSpan=(338-351)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[NPR news,textSpan=(348-356)]	-Disambiguation:(tid=44098, Title name=NPR) gold wikification:=NPR isCorrectPrediction=Correct
+*Entity:[NPR,textSpan=(348-351)]	-Disambiguation:(tid=44098, Title name=NPR) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[news,textSpan=(352-356)]	-Disambiguation:(tid=22041, Title name=News) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Washington,textSpan=(358-368)]	-Disambiguation:*null* gold wikification:=Washington,_D.C. isCorrectPrediction=Incorrect
+
+Output Explanation:
+Entity : 'The Palestinian' start in text:1 end in text: 16; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Palestinian' start in text:5 end in text: 16; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'faction' start in text:17 end in text: 24; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yasser Arafat' start in text:35 end in text: 48; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yasser' start in text:35 end in text: 41; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Arafat' start in text:42 end in text: 48; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'today' start in text:54 end in text: 59; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'avenge' start in text:74 end in text: 80; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the deaths' start in text:81 end in text: 91; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'deaths' start in text:85 end in text: 91; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'members' start in text:107 end in text: 114; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'killed' start in text:124 end in text: 130; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'today' start in text:131 end in text: 136; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israeli' start in text:140 end in text: 147; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israeli soldiers' start in text:140 end in text: 156; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'soldiers' start in text:148 end in text: 156; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the day' start in text:167 end in text: 174; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'day' start in text:171 end in text: 174; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a car' start in text:176 end in text: 181; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'car bombing' start in text:178 end in text: 189; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'car' start in text:178 end in text: 181; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bombing' start in text:182 end in text: 189; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Northern' start in text:197 end in text: 205; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Northern Israeli' start in text:197 end in text: 213; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Israeli' start in text:206 end in text: 213; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'town' start in text:214 end in text: 218; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hadera' start in text:222 end in text: 228; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'two people' start in text:237 end in text: 247; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'people' start in text:241 end in text: 247; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '50' start in text:269 end in text: 271; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israeli Prime Minister Ehud Barak' start in text:273 end in text: 306; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Israeli Prime Minister' start in text:273 end in text: 295; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israeli' start in text:273 end in text: 280; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Prime' start in text:281 end in text: 286; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Prime Minister' start in text:281 end in text: 295; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Minister' start in text:287 end in text: 295; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Ehud Barak' start in text:296 end in text: 306; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Ehud' start in text:296 end in text: 300; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Barak' start in text:301 end in text: 306; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'retaliate' start in text:321 end in text: 330; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Corey Flintoff, NPR' start in text:332 end in text: 351; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Corey Flintoff' start in text:332 end in text: 346; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Corey' start in text:332 end in text: 337; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Flintoff' start in text:338 end in text: 346; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Flintoff, NPR' start in text:338 end in text: 351; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'NPR news' start in text:348 end in text: 356; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'NPR' start in text:348 end in text: 351; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'news' start in text:352 end in text: 356; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Washington' start in text:358 end in text: 368; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

@@ -1,0 +1,391 @@
+<ANNOTATION>
+   <a class="wiki" href="http://en.wikipedia.org/wiki/Baghdad" cat="capital	community	place	establishment">Baghdad</a>  11-15 ( <a class="wiki" href="http://en.wikipedia.org/wiki/Agence_France-Presse" cat="agency	company	establishment">AFP</a> ) -   <a class="wiki" href="http://en.wikipedia.org/wiki/Taxidermy" cat="customs	arts">The head</a>  of the  <a class="wiki" href="http://en.wikipedia.org/wiki/France" cat="nation	country	state	republic	member">French</a>   <a class="wiki" href="http://en.wikipedia.org/wiki/Protecting_power" cat="terms">Interests Section</a>  in  <a class="wiki" href="http://en.wikipedia.org/wiki/Baghdad" cat="capital	community	place	establishment">Baghdad</a> ,  <a class="wiki" href="http://en.wikipedia.org/wiki/Ambassador" cat="occupation	ambassador	diplomat">Ambassador</a>  Andre Janier, today Wednesday welcomed  <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraq</a> 's decision to deal in  <b>euros</b> and said this would  <b>encourage</b> relations between the two countries.   In an  <b>interview</b> in today's edition of the official newspaper "al-Jamhouriya," Janier said "we French believe this decision is positive for the  <b>international economy</b>, and this decision encourages  <b>economic</b> relations, especially in terms of  <b>oil</b>, between  <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraq</a>  and  <a class="wiki" href="http://en.wikipedia.org/wiki/France" cat="nation	country	state	republic	member">France</a> ."   The  <a class="wiki" href="http://en.wikipedia.org/wiki/France" cat="nation	country	state	republic	member">French</a>  diplomat carried on to say "we have a  <b>vested interest</b> in this  <b>matter</b> as Europeans and  <a class="wiki" href="http://en.wikipedia.org/wiki/France" cat="nation	country	state	republic	member">French</a>  because all  <b>trade</b> payments and exchanges are paid in  <b>euros</b> and there is no danger to European and  <a class="wiki" href="http://en.wikipedia.org/wiki/List_of_companies_of_France" cat="list	company">French companies</a>  because of fluctuations in the  <b>price</b> of the  <b>dollar</b> on the  <b>stock exchange</b>. This compensates for any loss in buying and selling in  <b>euros</b> rather than  <b>dollars</b>."    <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraq</a>  decided to deal in  <b>euros</b>, rather than the  <b>dollar</b>, as of the sixth of this month for its oil  <b>sales</b> and outside  <b>trade</b> deals. <br>
+</ANNOTATION>
+*Entity:[Baghdad,textSpan=(2-9)]	-Disambiguation:(tid=4492, Title name=Baghdad) gold wikification:=Baghdad isCorrectPrediction=Correct
+*Entity:[AFP,textSpan=(17-20)]	-Disambiguation:(tid=471981, Title name=Agence_France-Presse) gold wikification:=Agence_France-Presse isCorrectPrediction=Correct
+*Entity:[The head,textSpan=(25-33)]	-Disambiguation:(tid=179240, Title name=Taxidermy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[head,textSpan=(29-33)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[French,textSpan=(41-47)]	-Disambiguation:(tid=5843419, Title name=France) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[French Interests Section in Baghdad, Ambassador Andre Janier,textSpan=(41-101)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[French Interests Section,textSpan=(41-65)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Interests Section,textSpan=(48-65)]	-Disambiguation:(tid=8055769, Title name=Protecting_power) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Interests,textSpan=(48-57)]	-Disambiguation:(tid=3658264, Title name=Interests) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Section,textSpan=(58-65)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Baghdad,textSpan=(69-76)]	-Disambiguation:(tid=4492, Title name=Baghdad) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Baghdad, Ambassador Andre Janier,textSpan=(69-101)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Ambassador Andre Janier,textSpan=(78-101)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Ambassador,textSpan=(78-88)]	-Disambiguation:(tid=68651, Title name=Ambassador) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Andre,textSpan=(89-94)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Andre Janier,textSpan=(89-101)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[today,textSpan=(103-108)]	-Disambiguation:(tid=35825, Title name=2008) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wednesday,textSpan=(109-118)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq,textSpan=(128-132)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=Iraq isCorrectPrediction=Correct
+*Entity:[decision,textSpan=(135-143)]	-Disambiguation:(tid=1196827, Title name=Decision) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[deal,textSpan=(147-151)]	-Disambiguation:(tid=7567, Title name=Contract) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[euros,textSpan=(155-160)]	-Disambiguation:(tid=9472, Title name=Euro) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[encourage,textSpan=(181-190)]	-Disambiguation:(tid=5366620, Title name=Courage_International) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[relations,textSpan=(191-200)]	-Disambiguation:(tid=43259, Title name=Diplomacy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[countries,textSpan=(217-226)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[interview,textSpan=(236-245)]	-Disambiguation:(tid=236975, Title name=Interview) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[today,textSpan=(249-254)]	-Disambiguation:(tid=35984, Title name=2005) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[edition,textSpan=(257-264)]	-Disambiguation:(tid=253661, Title name=Edition) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Janier,textSpan=(308-314)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[French,textSpan=(324-330)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[decision,textSpan=(344-352)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the international,textSpan=(369-386)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[international,textSpan=(373-386)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[international economy,textSpan=(373-394)]	-Disambiguation:(tid=630327, Title name=International_political_economy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[economy,textSpan=(387-394)]	-Disambiguation:(tid=6639133, Title name=Economy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[decision,textSpan=(405-413)]	-Disambiguation:(tid=1196827, Title name=Decision) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[economic,textSpan=(425-433)]	-Disambiguation:(tid=6639133, Title name=Economy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[relations,textSpan=(434-443)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[terms,textSpan=(459-464)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[oil,textSpan=(468-471)]	-Disambiguation:(tid=23195, Title name=Petroleum) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq,textSpan=(481-485)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq and France,textSpan=(481-496)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[France,textSpan=(490-496)]	-Disambiguation:(tid=5843419, Title name=France) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[French,textSpan=(505-511)]	-Disambiguation:(tid=5843419, Title name=France) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[say,textSpan=(535-538)]	-Disambiguation:(tid=3353015, Title name=Saying) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[vested,textSpan=(550-556)]	-Disambiguation:(tid=859072, Title name=Vesting) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[vested interest,textSpan=(550-565)]	-Disambiguation:(tid=548214, Title name=Vested_interest) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[matter,textSpan=(574-580)]	-Disambiguation:(tid=19585, Title name=Matter) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Europeans,textSpan=(584-593)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Europeans and French,textSpan=(584-604)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[French,textSpan=(598-604)]	-Disambiguation:(tid=5843419, Title name=France) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[trade,textSpan=(617-622)]	-Disambiguation:(tid=29678, Title name=Trade) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[payments,textSpan=(623-631)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[exchanges,textSpan=(636-645)]	-Disambiguation:(tid=28168, Title name=Stock_exchange) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[paid,textSpan=(650-654)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[euros,textSpan=(658-663)]	-Disambiguation:(tid=9472, Title name=Euro) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[danger,textSpan=(680-686)]	-Disambiguation:(tid=3178886, Title name=Danger) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[European and French,textSpan=(690-709)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[European,textSpan=(690-698)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[French companies,textSpan=(703-719)]	-Disambiguation:(tid=87608, Title name=List_of_companies_of_France) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[French,textSpan=(703-709)]	-Disambiguation:(tid=5843419, Title name=France) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[companies,textSpan=(710-719)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fluctuations,textSpan=(731-743)]	-Disambiguation:(tid=1663444, Title name=Business_cycle) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the price,textSpan=(747-756)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[price,textSpan=(751-756)]	-Disambiguation:(tid=211295, Title name=Price) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the dollar,textSpan=(760-770)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dollar,textSpan=(764-770)]	-Disambiguation:(tid=38723, Title name=United_States_dollar) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[stock,textSpan=(778-783)]	-Disambiguation:(tid=29249, Title name=Stock) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[stock exchange,textSpan=(778-792)]	-Disambiguation:(tid=28168, Title name=Stock_exchange) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[exchange,textSpan=(784-792)]	-Disambiguation:(tid=28168, Title name=Stock_exchange) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[This,textSpan=(794-798)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[loss,textSpan=(819-823)]	-Disambiguation:(tid=41969, Title name=Loss) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[buying,textSpan=(827-833)]	-Disambiguation:(tid=29678, Title name=Trade) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[buying and selling,textSpan=(827-845)]	-Disambiguation:(tid=29678, Title name=Trade) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[selling,textSpan=(838-845)]	-Disambiguation:(tid=436327, Title name=Selling) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[euros,textSpan=(849-854)]	-Disambiguation:(tid=9472, Title name=Euro) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dollars,textSpan=(867-874)]	-Disambiguation:(tid=38723, Title name=United_States_dollar) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq,textSpan=(879-883)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[decided,textSpan=(884-891)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[deal,textSpan=(895-899)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[euros,textSpan=(903-908)]	-Disambiguation:(tid=9472, Title name=Euro) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the dollar,textSpan=(922-932)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dollar,textSpan=(926-932)]	-Disambiguation:(tid=38723, Title name=United_States_dollar) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the sixth,textSpan=(940-949)]	-Disambiguation:(tid=858575, Title name=Harry_Potter_and_the_Half-Blood_Prince_(film)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sixth,textSpan=(944-949)]	-Disambiguation:(tid=424655, Title name=Sixth) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[month,textSpan=(958-963)]	-Disambiguation:(tid=20354, Title name=Month) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[oil,textSpan=(972-975)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sales,textSpan=(976-981)]	-Disambiguation:(tid=155698, Title name=Sales) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[outside,textSpan=(986-993)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[trade,textSpan=(994-999)]	-Disambiguation:(tid=29678, Title name=Trade) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[deals,textSpan=(1000-1005)]	-Disambiguation:(tid=3658264, Title name=Deals) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Baghdad' start in text:2 end in text: 9; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'AFP' start in text:17 end in text: 20; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The head' start in text:25 end in text: 33; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'head' start in text:29 end in text: 33; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'French' start in text:41 end in text: 47; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'French Interests Section in Baghdad, Ambassador Andre Janier' start in text:41 end in text: 101; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'French Interests Section' start in text:41 end in text: 65; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Interests Section' start in text:48 end in text: 65; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Interests' start in text:48 end in text: 57; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Section' start in text:58 end in text: 65; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Baghdad' start in text:69 end in text: 76; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Baghdad, Ambassador Andre Janier' start in text:69 end in text: 101; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Ambassador Andre Janier' start in text:78 end in text: 101; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Ambassador' start in text:78 end in text: 88; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Andre' start in text:89 end in text: 94; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Andre Janier' start in text:89 end in text: 101; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'today' start in text:103 end in text: 108; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wednesday' start in text:109 end in text: 118; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq' start in text:128 end in text: 132; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'decision' start in text:135 end in text: 143; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'deal' start in text:147 end in text: 151; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'euros' start in text:155 end in text: 160; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'encourage' start in text:181 end in text: 190; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'relations' start in text:191 end in text: 200; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'countries' start in text:217 end in text: 226; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'interview' start in text:236 end in text: 245; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'today' start in text:249 end in text: 254; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'edition' start in text:257 end in text: 264; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Janier' start in text:308 end in text: 314; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'French' start in text:324 end in text: 330; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'decision' start in text:344 end in text: 352; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the international' start in text:369 end in text: 386; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'international' start in text:373 end in text: 386; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'international economy' start in text:373 end in text: 394; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'economy' start in text:387 end in text: 394; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'decision' start in text:405 end in text: 413; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'economic' start in text:425 end in text: 433; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'relations' start in text:434 end in text: 443; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'terms' start in text:459 end in text: 464; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'oil' start in text:468 end in text: 471; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq' start in text:481 end in text: 485; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq and France' start in text:481 end in text: 496; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'France' start in text:490 end in text: 496; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'French' start in text:505 end in text: 511; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'say' start in text:535 end in text: 538; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'vested' start in text:550 end in text: 556; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'vested interest' start in text:550 end in text: 565; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'matter' start in text:574 end in text: 580; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Europeans' start in text:584 end in text: 593; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Europeans and French' start in text:584 end in text: 604; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'French' start in text:598 end in text: 604; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'trade' start in text:617 end in text: 622; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'payments' start in text:623 end in text: 631; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'exchanges' start in text:636 end in text: 645; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'paid' start in text:650 end in text: 654; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'euros' start in text:658 end in text: 663; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'danger' start in text:680 end in text: 686; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'European and French' start in text:690 end in text: 709; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'European' start in text:690 end in text: 698; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'French companies' start in text:703 end in text: 719; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'French' start in text:703 end in text: 709; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'companies' start in text:710 end in text: 719; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fluctuations' start in text:731 end in text: 743; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the price' start in text:747 end in text: 756; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'price' start in text:751 end in text: 756; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the dollar' start in text:760 end in text: 770; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'dollar' start in text:764 end in text: 770; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'stock' start in text:778 end in text: 783; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'stock exchange' start in text:778 end in text: 792; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'exchange' start in text:784 end in text: 792; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'This' start in text:794 end in text: 798; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'loss' start in text:819 end in text: 823; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'buying' start in text:827 end in text: 833; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'buying and selling' start in text:827 end in text: 845; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'selling' start in text:838 end in text: 845; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'euros' start in text:849 end in text: 854; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dollars' start in text:867 end in text: 874; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq' start in text:879 end in text: 883; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'decided' start in text:884 end in text: 891; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'deal' start in text:895 end in text: 899; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'euros' start in text:903 end in text: 908; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the dollar' start in text:922 end in text: 932; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'dollar' start in text:926 end in text: 932; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the sixth' start in text:940 end in text: 949; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sixth' start in text:944 end in text: 949; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'month' start in text:958 end in text: 963; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'oil' start in text:972 end in text: 975; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sales' start in text:976 end in text: 981; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'outside' start in text:986 end in text: 993; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'trade' start in text:994 end in text: 999; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'deals' start in text:1000 end in text: 1005; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+

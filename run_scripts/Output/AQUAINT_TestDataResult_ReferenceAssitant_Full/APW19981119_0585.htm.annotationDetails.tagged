@@ -1,0 +1,407 @@
+<ANNOTATION>
+   This "Dracula'' kills   <b>cattle</b>   and deer<br><br> A giant black   <b>bear</b>  , whom   <b>peasants</b>   have nicknamed "Dracula,'' is creating  <b>anxiety</b> in western   <a class="wiki" href="http://en.wikipedia.org/wiki/Romania" cat="member	state	monarchy	country	republic">Romania</a>    because of his  <b>taste</b> for  <b>cattle</b> and   <b>sheep</b>  , an official said  <b>Thursday</b>. <br><br>  <b>Peasants</b> whose   <b>livestock</b>   has been devoured by the hungry  <b>bear</b> have  <b>lodged</b> seven complaints in the past six weeks, said Nicolae Onetiu, head of the state hunting and fishing  reserves   in western  <a class="wiki" href="http://en.wikipedia.org/wiki/Romania" cat="member	state	monarchy	country	republic">Romania</a> . <br><br>  Dracula   was named after the   <a class="wiki" href="http://en.wikipedia.org/wiki/Transylvania" cat="country	region	dispute">Transylvania</a>   n   <b>vampire</b>   count of  <b>legend</b> because of his bloody  <b>appetite</b>, said Onetiu. The  <b>male</b>  <b>bruin</b> weighs at least 300   <b>kilograms</b>   (660 pounds) and has moved closer to inhabited areas from forested  <b>regions</b> with the onset of cold  <b>weather</b>, but is apparently not yet ready to   <b>hibernate</b>  . <br><br> Dracula has killed at least six  <b>cows</b> and seven  <b>sheep</b> over the past six weeks. <br><br> Most bears are   <b>omnivorous</b>  , but in  <a class="wiki" href="http://en.wikipedia.org/wiki/Romania" cat="member	state	monarchy	country	republic">Romania</a> , many bears were   <b>weaned</b>   on meat, said Onetiu.   <a class="wiki" href="http://en.wikipedia.org/wiki/Nicolae_Ceaușescu" cat="secretary	atheist	recipient	person	leaders	member	execution	president	ruler	inmate">Nicolae Ceausescu</a>   , the   <b>communist</b>    dictator   toppled and  <b>executed</b> almost a  <b>decade</b> ago, was an avid  <b>hunter</b>, and  <b>hunting reserve</b>  <b>cubs</b> were fed meat to make them grow bigger quicker, leaving generations partial to meat. <br><br> State   <b>rangers</b>   count  <b>135</b> bears living in the   <a class="wiki" href="http://en.wikipedia.org/wiki/Apuseni_Mountains" cat="">Apuseni Mountains</a>   in western  <a class="wiki" href="http://en.wikipedia.org/wiki/Romania" cat="member	state	monarchy	country	republic">Romania</a> , all of them protected by law. <br><br> (str/am/gj ) <br><br>
+</ANNOTATION>
+*Entity:[Dracula,textSpan=(9-16)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cattle,textSpan=(26-32)]	-Disambiguation:(tid=5307, Title name=Cattle) gold wikification:=Cattle isCorrectPrediction=Correct
+*Entity:[bear,textSpan=(61-65)]	-Disambiguation:(tid=4400, Title name=Bear) gold wikification:=Bear isCorrectPrediction=Correct
+*Entity:[peasants,textSpan=(75-83)]	-Disambiguation:(tid=68282, Title name=Peasant) gold wikification:=Peasant isCorrectPrediction=Correct
+*Entity:[nicknamed,textSpan=(91-100)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Dracula,textSpan=(102-109)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[creating,textSpan=(116-124)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[anxiety,textSpan=(125-132)]	-Disambiguation:(tid=922, Title name=Anxiety) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Romania,textSpan=(145-152)]	-Disambiguation:(tid=25445, Title name=Romania) gold wikification:=Romania isCorrectPrediction=Correct
+*Entity:[taste,textSpan=(170-175)]	-Disambiguation:(tid=47205, Title name=Taste) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cattle,textSpan=(180-186)]	-Disambiguation:(tid=5307, Title name=Cattle) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sheep,textSpan=(192-197)]	-Disambiguation:(tid=17158563, Title name=Sheep) gold wikification:=Sheep isCorrectPrediction=Correct
+*Entity:[official,textSpan=(204-212)]	-Disambiguation:(tid=725182, Title name=Official) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Thursday,textSpan=(218-226)]	-Disambiguation:(tid=266139, Title name=Thursday_(band)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Peasants,textSpan=(231-239)]	-Disambiguation:(tid=68282, Title name=Peasant) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[livestock,textSpan=(247-256)]	-Disambiguation:(tid=46103, Title name=Livestock) gold wikification:=Livestock isCorrectPrediction=Correct
+*Entity:[has been,textSpan=(259-267)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[devoured,textSpan=(268-276)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hungry,textSpan=(284-290)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bear,textSpan=(291-295)]	-Disambiguation:(tid=4400, Title name=Bear) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[lodged,textSpan=(301-307)]	-Disambiguation:(tid=230468, Title name=Lodging) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[complaints,textSpan=(314-324)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the past,textSpan=(328-336)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[past,textSpan=(332-336)]	-Disambiguation:(tid=758833, Title name=Past) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[six weeks,textSpan=(337-346)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[weeks,textSpan=(341-346)]	-Disambiguation:(tid=1288424, Title name=Week) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Nicolae,textSpan=(353-360)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Nicolae Onetiu,textSpan=(353-367)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[head,textSpan=(369-373)]	-Disambiguation:(tid=1209545, Title name=Head) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reserves,textSpan=(408-416)]	-Disambiguation:*null* gold wikification:=Game_reserve isCorrectPrediction=Incorrect
+*Entity:[western,textSpan=(422-429)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Romania,textSpan=(430-437)]	-Disambiguation:(tid=25445, Title name=Romania) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Dracula,textSpan=(443-450)]	-Disambiguation:*null* gold wikification:=Dracula isCorrectPrediction=Incorrect
+*Entity:[named,textSpan=(457-462)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Transylvania,textSpan=(474-486)]	-Disambiguation:(tid=30853, Title name=Transylvania) gold wikification:=Transylvania isCorrectPrediction=Correct
+*Entity:[vampire,textSpan=(491-498)]	-Disambiguation:(tid=32362, Title name=Vampire) gold wikification:=Vampire isCorrectPrediction=Correct
+*Entity:[legend,textSpan=(510-516)]	-Disambiguation:(tid=53974, Title name=Legend) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bloody,textSpan=(532-538)]	-Disambiguation:(tid=328012, Title name=Bloody) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[appetite,textSpan=(539-547)]	-Disambiguation:(tid=235548, Title name=Appetite) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Onetiu,textSpan=(554-560)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[male,textSpan=(566-570)]	-Disambiguation:(tid=1822282, Title name=Male) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bruin,textSpan=(571-576)]	-Disambiguation:(tid=4888, Title name=Bruin) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[kilograms,textSpan=(598-607)]	-Disambiguation:(tid=16619, Title name=Kilogram) gold wikification:=Kilogram isCorrectPrediction=Correct
+*Entity:[moved,textSpan=(631-636)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[inhabited,textSpan=(647-656)]	-Disambiguation:(tid=22949, Title name=Population) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[areas,textSpan=(657-662)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[forested,textSpan=(668-676)]	-Disambiguation:(tid=11090, Title name=Forest) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[regions,textSpan=(677-684)]	-Disambiguation:(tid=2125190, Title name=Regions_of_Togo) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the onset,textSpan=(690-699)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[onset,textSpan=(694-699)]	-Disambiguation:(tid=1574359, Title name=Onset) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cold weather,textSpan=(703-715)]	-Disambiguation:(tid=33978, Title name=Weather) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cold,textSpan=(703-707)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[weather,textSpan=(708-715)]	-Disambiguation:(tid=33978, Title name=Weather) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hibernate,textSpan=(753-762)]	-Disambiguation:(tid=71088, Title name=Hibernation) gold wikification:=Hibernation isCorrectPrediction=Correct
+*Entity:[Dracula,textSpan=(769-776)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[killed,textSpan=(781-787)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cows,textSpan=(801-805)]	-Disambiguation:(tid=5307, Title name=Cattle) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sheep,textSpan=(816-821)]	-Disambiguation:(tid=17158563, Title name=Sheep) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the past,textSpan=(827-835)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[past,textSpan=(831-835)]	-Disambiguation:(tid=758833, Title name=Past) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[six weeks,textSpan=(836-845)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[weeks,textSpan=(840-845)]	-Disambiguation:(tid=1288424, Title name=Week) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Most,textSpan=(850-854)]	-Disambiguation:(tid=858741, Title name=Most) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bears,textSpan=(855-860)]	-Disambiguation:(tid=4400, Title name=Bear) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[omnivorous,textSpan=(866-876)]	-Disambiguation:(tid=159403, Title name=Omnivore) gold wikification:=Omnivore isCorrectPrediction=Correct
+*Entity:[Romania,textSpan=(887-894)]	-Disambiguation:(tid=25445, Title name=Romania) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bears,textSpan=(901-906)]	-Disambiguation:(tid=4400, Title name=Bear) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[weaned,textSpan=(913-919)]	-Disambiguation:(tid=348349, Title name=Weaning) gold wikification:=Breastfeeding isCorrectPrediction=Incorrect
+*Entity:[meat,textSpan=(925-929)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Onetiu,textSpan=(936-942)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Nicolae Ceausescu,textSpan=(945-962)]	-Disambiguation:(tid=49562, Title name=Nicolae_Ceaușescu) gold wikification:=Nicolae_Ceaușescu isCorrectPrediction=Correct
+*Entity:[Nicolae,textSpan=(945-952)]	-Disambiguation:(tid=49562, Title name=Nicolae_Ceaușescu) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Ceausescu,textSpan=(953-962)]	-Disambiguation:(tid=49562, Title name=Nicolae_Ceaușescu) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[communist,textSpan=(971-980)]	-Disambiguation:(tid=9209651, Title name=Communism) gold wikification:=Communism isCorrectPrediction=Correct
+*Entity:[dictator,textSpan=(984-992)]	-Disambiguation:*null* gold wikification:=Dictator isCorrectPrediction=Incorrect
+*Entity:[toppled,textSpan=(995-1002)]	-Disambiguation:(tid=347268, Title name=Iranian_Revolution) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[executed,textSpan=(1007-1015)]	-Disambiguation:(tid=5902, Title name=Capital_punishment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a decade,textSpan=(1023-1031)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[decade,textSpan=(1025-1031)]	-Disambiguation:(tid=695530, Title name=Decade) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[avid,textSpan=(1044-1048)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hunter,textSpan=(1049-1055)]	-Disambiguation:(tid=38791, Title name=Hunting) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hunting reserve,textSpan=(1061-1076)]	-Disambiguation:(tid=508017, Title name=Game_reserve) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hunting,textSpan=(1061-1068)]	-Disambiguation:(tid=38791, Title name=Hunting) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reserve,textSpan=(1069-1076)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cubs,textSpan=(1077-1081)]	-Disambiguation:(tid=341336, Title name=Cubs) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fed,textSpan=(1087-1090)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[meat,textSpan=(1091-1095)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bigger,textSpan=(1114-1120)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[generations,textSpan=(1138-1149)]	-Disambiguation:(tid=94535, Title name=Generation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[meat,textSpan=(1161-1165)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rangers,textSpan=(1177-1184)]	-Disambiguation:(tid=499846, Title name=Park_ranger) gold wikification:=Park_ranger isCorrectPrediction=Correct
+*Entity:[135,textSpan=(1193-1196)]	-Disambiguation:(tid=35434, Title name=135) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bears,textSpan=(1197-1202)]	-Disambiguation:(tid=4400, Title name=Bear) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Apuseni Mountains,textSpan=(1218-1235)]	-Disambiguation:(tid=1876231, Title name=Apuseni_Mountains) gold wikification:=Apuseni_Mountains isCorrectPrediction=Correct
+*Entity:[western,textSpan=(1240-1247)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Romania,textSpan=(1248-1255)]	-Disambiguation:(tid=25445, Title name=Romania) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[law,textSpan=(1282-1285)]	-Disambiguation:(tid=17538, Title name=Law) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Dracula' start in text:9 end in text: 16; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cattle' start in text:26 end in text: 32; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bear' start in text:61 end in text: 65; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'peasants' start in text:75 end in text: 83; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nicknamed' start in text:91 end in text: 100; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Dracula' start in text:102 end in text: 109; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'creating' start in text:116 end in text: 124; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'anxiety' start in text:125 end in text: 132; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Romania' start in text:145 end in text: 152; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'taste' start in text:170 end in text: 175; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cattle' start in text:180 end in text: 186; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sheep' start in text:192 end in text: 197; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'official' start in text:204 end in text: 212; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thursday' start in text:218 end in text: 226; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Peasants' start in text:231 end in text: 239; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'livestock' start in text:247 end in text: 256; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'has been' start in text:259 end in text: 267; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'devoured' start in text:268 end in text: 276; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'hungry' start in text:284 end in text: 290; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bear' start in text:291 end in text: 295; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'lodged' start in text:301 end in text: 307; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'complaints' start in text:314 end in text: 324; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the past' start in text:328 end in text: 336; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'past' start in text:332 end in text: 336; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'six weeks' start in text:337 end in text: 346; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'weeks' start in text:341 end in text: 346; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Nicolae' start in text:353 end in text: 360; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Nicolae Onetiu' start in text:353 end in text: 367; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'head' start in text:369 end in text: 373; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reserves' start in text:408 end in text: 416; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'western' start in text:422 end in text: 429; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Romania' start in text:430 end in text: 437; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Dracula' start in text:443 end in text: 450; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'named' start in text:457 end in text: 462; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Transylvania' start in text:474 end in text: 486; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'vampire' start in text:491 end in text: 498; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'legend' start in text:510 end in text: 516; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bloody' start in text:532 end in text: 538; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'appetite' start in text:539 end in text: 547; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Onetiu' start in text:554 end in text: 560; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'male' start in text:566 end in text: 570; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bruin' start in text:571 end in text: 576; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'kilograms' start in text:598 end in text: 607; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'moved' start in text:631 end in text: 636; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'inhabited' start in text:647 end in text: 656; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'areas' start in text:657 end in text: 662; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'forested' start in text:668 end in text: 676; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'regions' start in text:677 end in text: 684; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the onset' start in text:690 end in text: 699; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'onset' start in text:694 end in text: 699; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cold weather' start in text:703 end in text: 715; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cold' start in text:703 end in text: 707; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'weather' start in text:708 end in text: 715; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hibernate' start in text:753 end in text: 762; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Dracula' start in text:769 end in text: 776; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'killed' start in text:781 end in text: 787; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cows' start in text:801 end in text: 805; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sheep' start in text:816 end in text: 821; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the past' start in text:827 end in text: 835; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'past' start in text:831 end in text: 835; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'six weeks' start in text:836 end in text: 845; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'weeks' start in text:840 end in text: 845; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Most' start in text:850 end in text: 854; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bears' start in text:855 end in text: 860; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'omnivorous' start in text:866 end in text: 876; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Romania' start in text:887 end in text: 894; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bears' start in text:901 end in text: 906; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'weaned' start in text:913 end in text: 919; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'meat' start in text:925 end in text: 929; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Onetiu' start in text:936 end in text: 942; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Nicolae Ceausescu' start in text:945 end in text: 962; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Nicolae' start in text:945 end in text: 952; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Ceausescu' start in text:953 end in text: 962; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'communist' start in text:971 end in text: 980; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dictator' start in text:984 end in text: 992; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'toppled' start in text:995 end in text: 1002; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'executed' start in text:1007 end in text: 1015; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a decade' start in text:1023 end in text: 1031; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'decade' start in text:1025 end in text: 1031; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'avid' start in text:1044 end in text: 1048; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hunter' start in text:1049 end in text: 1055; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hunting reserve' start in text:1061 end in text: 1076; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hunting' start in text:1061 end in text: 1068; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reserve' start in text:1069 end in text: 1076; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cubs' start in text:1077 end in text: 1081; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fed' start in text:1087 end in text: 1090; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'meat' start in text:1091 end in text: 1095; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bigger' start in text:1114 end in text: 1120; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'generations' start in text:1138 end in text: 1149; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'meat' start in text:1161 end in text: 1165; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rangers' start in text:1177 end in text: 1184; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '135' start in text:1193 end in text: 1196; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bears' start in text:1197 end in text: 1202; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Apuseni Mountains' start in text:1218 end in text: 1235; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'western' start in text:1240 end in text: 1247; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Romania' start in text:1248 end in text: 1255; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'law' start in text:1282 end in text: 1285; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

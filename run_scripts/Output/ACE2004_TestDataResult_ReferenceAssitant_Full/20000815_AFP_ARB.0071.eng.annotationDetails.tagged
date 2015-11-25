@@ -1,0 +1,623 @@
+<ANNOTATION>
+   <a class="wiki" href="http://en.wikipedia.org/wiki/Beirut" cat="crusade	site	place	colony	mint	capital	city	location">Beirut</a>  8-15 ( <a class="wiki" href="http://en.wikipedia.org/wiki/Agence_France-Presse" cat="agency	company	establishment">AFP</a> ) -   <a class="wiki" href="http://en.wikipedia.org/wiki/Lebanon" cat="place	city">Lebanon</a>  has asked the  <b>international peacekeeping</b>  <b>force</b> operating in the south to investigate reports indicating that  <a class="wiki" href="http://en.wikipedia.org/wiki/Israel" cat="republic	country	state	words">Israel</a>  is penetrating the shared  <b>border</b> between the two countries and to prevent this from  <b>happening</b>.   According to official sources, the  <a class="wiki" href="http://en.wikipedia.org/wiki/Lebanon" cat="place	city">Lebanese</a>  authorities contacted the  <b>peacekeeping</b>  <b>high command</b> and asked it to put an end to infringements by  <a class="wiki" href="http://en.wikipedia.org/wiki/Israel" cat="republic	country	state	words">Israel</a> , which is carrying out operations inside  <a class="wiki" href="http://en.wikipedia.org/wiki/Lebanon" cat="place	city">Lebanese territory</a> , in particular dumping  <b>sand</b> and building slopes.    <a class="wiki" href="http://en.wikipedia.org/wiki/Proto-Human_language" cat="language">The source</a>  added that if this is confirmed, then such acts constitute a provocation and an infringement of  <a class="wiki" href="http://en.wikipedia.org/wiki/Lebanon" cat="place	city">Lebanese</a>   <b>sovereignty</b>.   Witnesses said two Israeli  <b>bulldozers</b> started work today Tuesday on a  <b>slope</b> in the  <b>Abbad</b> sector inside  <a class="wiki" href="http://en.wikipedia.org/wiki/Lebanon" cat="place	city">Lebanese territory</a>  on the  <b>border</b> between  <a class="wiki" href="http://en.wikipedia.org/wiki/Lebanon" cat="place	city">Lebanon</a>  and  <a class="wiki" href="http://en.wikipedia.org/wiki/Israel" cat="republic	country	state	words">Israel</a> .   These witnesses told  <a class="wiki" href="http://en.wikipedia.org/wiki/Agence_France-Presse" cat="agency	company	establishment">Agence France Presse</a>  that an  <a class="wiki" href="http://en.wikipedia.org/wiki/Israel_Defense_Forces" cat="dispute	recipient	relations	unit">Israeli army</a>   <b>patrol</b> equipped with ultra-modern  <b>binoculars</b> penetrated a few  <b>meters</b> into  <a class="wiki" href="http://en.wikipedia.org/wiki/Lebanon" cat="place	city">Lebanese territory</a>  but withdrew back to Israeli territory as soon as a  <b>peacekeeping</b>  <b>patrol</b> arrived.    <b>Families</b> in southern  <a class="wiki" href="http://en.wikipedia.org/wiki/Lebanon" cat="place	city">Lebanon</a>  visit this  <b>area</b> where, according to  <b>tradition</b>, the  <b>burial</b> site of  <a class="wiki" href="http://en.wikipedia.org/wiki/Sheikh" cat="surname">Sheikh</a>   <b>Abbad</b>, who died 500 years ago, is located.  For their part, Israelis also regard the site as a  <b>shrine</b> because, according to them,  <a class="wiki" href="http://en.wikipedia.org/wiki/Rav_Ashi" cat="person">Rabbi Ashi</a>  lived there in the  <b>5th century</b>.    <a class="wiki" href="http://en.wikipedia.org/wiki/Israeli_checkpoint" cat="">The Israeli army</a>  had previously carried out operations inside  <a class="wiki" href="http://en.wikipedia.org/wiki/Lebanon" cat="place	city">Lebanese territory</a>  in the same  <b>border region</b> on  <a class="wiki" href="http://en.wikipedia.org/wiki/August_11" cat="days">August 11</a> .   Last Friday, an Israeli  <b>bulldozer</b> crossed the  <b>wire</b>  <b>fence</b> in  <a class="wiki" href="http://en.wikipedia.org/wiki/Wadi" cat="words	landforms	body">Wadi</a>   <a class="wiki" href="http://en.wikipedia.org/wiki/Marjayoun" cat="place">Marjayoun</a>  near the  <a class="wiki" href="http://en.wikipedia.org/wiki/Israel" cat="republic	country	state	words">Israeli</a>   <b>village</b> of  <a class="wiki" href="http://en.wikipedia.org/wiki/Matla" cat="">Matla</a>  and spread  <b>sand</b> over a length of hundreds of  <b>meters</b> and a width of six  <b>meters</b> in order to expose the  <b>footprints</b> of people crossing the border or  <b>tire</b> prints of  <b>cars</b> from the Lebanese side. <br>
+</ANNOTATION>
+*Entity:[Beirut,textSpan=(2-8)]	-Disambiguation:(tid=37428, Title name=Beirut) gold wikification:=Beirut isCorrectPrediction=Correct
+*Entity:[AFP,textSpan=(15-18)]	-Disambiguation:(tid=471981, Title name=Agence_France-Presse) gold wikification:=Agence_France-Presse isCorrectPrediction=Correct
+*Entity:[Lebanon,textSpan=(23-30)]	-Disambiguation:(tid=17771, Title name=Lebanon) gold wikification:=Lebanon isCorrectPrediction=Correct
+*Entity:[asked,textSpan=(35-40)]	-Disambiguation:(tid=704177, Title name=Push_poll) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the international,textSpan=(41-58)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[international peacekeeping,textSpan=(45-71)]	-Disambiguation:(tid=84617, Title name=Peacekeeping) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[international,textSpan=(45-58)]	-Disambiguation:(tid=3741372, Title name=International) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[peacekeeping,textSpan=(59-71)]	-Disambiguation:(tid=84617, Title name=Peacekeeping) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[peacekeeping force,textSpan=(59-77)]	-Disambiguation:(tid=84617, Title name=Peacekeeping) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[force,textSpan=(72-77)]	-Disambiguation:(tid=10902, Title name=Force) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[operating,textSpan=(78-87)]	-Disambiguation:(tid=41453, Title name=Operation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the south,textSpan=(91-100)]	-Disambiguation:(tid=179553, Title name=Southern_United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[south,textSpan=(95-100)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[investigate,textSpan=(104-115)]	-Disambiguation:(tid=1806804, Title name=Investigation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reports,textSpan=(116-123)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israel,textSpan=(140-146)]	-Disambiguation:(tid=9282173, Title name=Israel) gold wikification:=Israel isCorrectPrediction=Correct
+*Entity:[penetrating,textSpan=(150-161)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[shared,textSpan=(166-172)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[border,textSpan=(173-179)]	-Disambiguation:(tid=987817, Title name=Blue_Line_(Lebanon)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[countries,textSpan=(196-205)]	-Disambiguation:(tid=5165, Title name=Country) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[prevent,textSpan=(213-220)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[happening,textSpan=(231-240)]	-Disambiguation:(tid=144048, Title name=Happening) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[official,textSpan=(257-265)]	-Disambiguation:(tid=725182, Title name=Official) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sources,textSpan=(266-273)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lebanese,textSpan=(279-287)]	-Disambiguation:(tid=17771, Title name=Lebanon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[authorities,textSpan=(288-299)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[peacekeeping,textSpan=(314-326)]	-Disambiguation:(tid=84617, Title name=Peacekeeping) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[high command,textSpan=(327-339)]	-Disambiguation:(tid=1858038, Title name=High_command) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[high,textSpan=(327-331)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[command,textSpan=(332-339)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israel,textSpan=(387-393)]	-Disambiguation:(tid=9282173, Title name=Israel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[carrying,textSpan=(404-412)]	-Disambiguation:(tid=13549287, Title name=Carry) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[operations,textSpan=(417-427)]	-Disambiguation:(tid=314792, Title name=Operation_Defensive_Shield) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lebanese,textSpan=(435-443)]	-Disambiguation:(tid=17771, Title name=Lebanon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lebanese territory,textSpan=(435-453)]	-Disambiguation:(tid=17771, Title name=Lebanon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[territory,textSpan=(444-453)]	-Disambiguation:(tid=17771, Title name=Lebanon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[particular,textSpan=(458-468)]	-Disambiguation:(tid=23196, Title name=Particular) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dumping,textSpan=(469-476)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sand,textSpan=(477-481)]	-Disambiguation:(tid=37317, Title name=Sand) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[building,textSpan=(486-494)]	-Disambiguation:(tid=45995, Title name=Building) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[slopes,textSpan=(495-501)]	-Disambiguation:(tid=259162, Title name=Grade_(slope)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The source,textSpan=(505-515)]	-Disambiguation:(tid=23940, Title name=Proto-Human_language) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[source,textSpan=(509-515)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[confirmed,textSpan=(538-547)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[acts,textSpan=(559-563)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[provocation,textSpan=(577-588)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[infringement,textSpan=(596-608)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lebanese,textSpan=(612-620)]	-Disambiguation:(tid=17771, Title name=Lebanon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sovereignty,textSpan=(621-632)]	-Disambiguation:(tid=28791, Title name=Sovereignty) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Witnesses,textSpan=(636-645)]	-Disambiguation:(tid=50956, Title name=Witness) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli,textSpan=(655-662)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bulldozers,textSpan=(663-673)]	-Disambiguation:(tid=313830, Title name=Bulldozer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[work,textSpan=(682-686)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[today,textSpan=(687-692)]	-Disambiguation:(tid=36164, Title name=2006) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Tuesday,textSpan=(693-700)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[slope,textSpan=(706-711)]	-Disambiguation:(tid=29368, Title name=Slope) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Abbad,textSpan=(719-724)]	-Disambiguation:(tid=18234983, Title name=Abbad) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sector,textSpan=(725-731)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lebanese territory,textSpan=(739-757)]	-Disambiguation:(tid=17771, Title name=Lebanon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lebanese,textSpan=(739-747)]	-Disambiguation:(tid=17771, Title name=Lebanon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[territory,textSpan=(748-757)]	-Disambiguation:(tid=17771, Title name=Lebanon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the border,textSpan=(761-771)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[border,textSpan=(765-771)]	-Disambiguation:(tid=987817, Title name=Blue_Line_(Lebanon)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lebanon and Israel,textSpan=(780-798)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lebanon,textSpan=(780-787)]	-Disambiguation:(tid=17771, Title name=Lebanon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israel,textSpan=(792-798)]	-Disambiguation:(tid=9282173, Title name=Israel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[These,textSpan=(802-807)]	-Disambiguation:(tid=6359984, Title name=These) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[witnesses,textSpan=(808-817)]	-Disambiguation:(tid=50956, Title name=Witness) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Agence France Presse,textSpan=(823-843)]	-Disambiguation:(tid=471981, Title name=Agence_France-Presse) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[France,textSpan=(830-836)]	-Disambiguation:(tid=5843419, Title name=France) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli,textSpan=(852-859)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli army,textSpan=(852-864)]	-Disambiguation:(tid=39237, Title name=Israel_Defense_Forces) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[army,textSpan=(860-864)]	-Disambiguation:(tid=39237, Title name=Israel_Defense_Forces) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[patrol,textSpan=(865-871)]	-Disambiguation:(tid=1464138, Title name=Patrol) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[binoculars,textSpan=(899-909)]	-Disambiguation:(tid=86058, Title name=Binoculars) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[meters,textSpan=(927-933)]	-Disambiguation:(tid=18947, Title name=Metre) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lebanese,textSpan=(939-947)]	-Disambiguation:(tid=17771, Title name=Lebanon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lebanese territory,textSpan=(939-957)]	-Disambiguation:(tid=17771, Title name=Lebanon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[territory,textSpan=(948-957)]	-Disambiguation:(tid=17771, Title name=Lebanon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli,textSpan=(979-986)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[territory,textSpan=(987-996)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[soon,textSpan=(1000-1004)]	-Disambiguation:(tid=35825, Title name=2008) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[peacekeeping,textSpan=(1010-1022)]	-Disambiguation:(tid=84617, Title name=Peacekeeping) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[patrol,textSpan=(1023-1029)]	-Disambiguation:(tid=1464138, Title name=Patrol) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Families,textSpan=(1041-1049)]	-Disambiguation:(tid=2026464, Title name=Families_(TV_series)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[southern,textSpan=(1053-1061)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lebanon,textSpan=(1062-1069)]	-Disambiguation:(tid=17771, Title name=Lebanon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[visit,textSpan=(1070-1075)]	-Disambiguation:(tid=6571718, Title name=Visit) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[area,textSpan=(1081-1085)]	-Disambiguation:(tid=1209, Title name=Area) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tradition,textSpan=(1106-1115)]	-Disambiguation:(tid=30067, Title name=Tradition) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the burial,textSpan=(1117-1127)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[burial,textSpan=(1121-1127)]	-Disambiguation:(tid=177497, Title name=Burial) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[burial site,textSpan=(1121-1132)]	-Disambiguation:(tid=63507, Title name=Lists_of_cemeteries) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sheikh Abbad,textSpan=(1136-1148)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sheikh,textSpan=(1136-1142)]	-Disambiguation:(tid=178433, Title name=Sheikh) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Abbad,textSpan=(1143-1148)]	-Disambiguation:(tid=18234983, Title name=Abbad) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[500,textSpan=(1159-1162)]	-Disambiguation:(tid=35684, Title name=500) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[years,textSpan=(1163-1168)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[located,textSpan=(1177-1184)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israelis,textSpan=(1203-1211)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the site,textSpan=(1224-1232)]	-Disambiguation:(tid=65719, Title name=Temple_Mount) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[shrine,textSpan=(1238-1244)]	-Disambiguation:(tid=465979, Title name=Shrine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Rabbi Ashi,textSpan=(1273-1283)]	-Disambiguation:(tid=59044, Title name=Rav_Ashi) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Rabbi,textSpan=(1273-1278)]	-Disambiguation:(tid=51273, Title name=Rabbi) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Ashi,textSpan=(1279-1283)]	-Disambiguation:(tid=59044, Title name=Rav_Ashi) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the 5th,textSpan=(1299-1306)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[5th century,textSpan=(1303-1314)]	-Disambiguation:(tid=34742, Title name=5th_century) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[5th,textSpan=(1303-1306)]	-Disambiguation:(tid=34742, Title name=5th_century) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[century,textSpan=(1307-1314)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The Israeli army,textSpan=(1318-1334)]	-Disambiguation:(tid=3866679, Title name=Israeli_checkpoint) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli army,textSpan=(1322-1334)]	-Disambiguation:(tid=39237, Title name=Israel_Defense_Forces) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli,textSpan=(1322-1329)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[army,textSpan=(1330-1334)]	-Disambiguation:(tid=39237, Title name=Israel_Defense_Forces) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[operations,textSpan=(1362-1372)]	-Disambiguation:(tid=314792, Title name=Operation_Defensive_Shield) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lebanese,textSpan=(1380-1388)]	-Disambiguation:(tid=17771, Title name=Lebanon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lebanese territory,textSpan=(1380-1398)]	-Disambiguation:(tid=17771, Title name=Lebanon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[territory,textSpan=(1389-1398)]	-Disambiguation:(tid=17771, Title name=Lebanon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the same,textSpan=(1402-1410)]	-Disambiguation:(tid=1363640, Title name=300_(comics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[border,textSpan=(1411-1417)]	-Disambiguation:(tid=987817, Title name=Blue_Line_(Lebanon)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[border region,textSpan=(1411-1424)]	-Disambiguation:(tid=2817606, Title name=Mexico–United_States_border) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[region,textSpan=(1418-1424)]	-Disambiguation:(tid=58846, Title name=Regions_of_France) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[August 11,textSpan=(1428-1437)]	-Disambiguation:(tid=2192, Title name=August_11) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[August,textSpan=(1428-1434)]	-Disambiguation:(tid=1005, Title name=August) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[11,textSpan=(1435-1437)]	-Disambiguation:(tid=2192, Title name=August_11) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Last Friday,textSpan=(1441-1452)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Friday,textSpan=(1446-1452)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli,textSpan=(1457-1464)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bulldozer,textSpan=(1465-1474)]	-Disambiguation:(tid=313830, Title name=Bulldozer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the wire,textSpan=(1483-1491)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wire,textSpan=(1487-1491)]	-Disambiguation:(tid=33498, Title name=Wire) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fence,textSpan=(1492-1497)]	-Disambiguation:(tid=370681, Title name=Separation_barrier) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wadi,textSpan=(1501-1505)]	-Disambiguation:(tid=393632, Title name=Wadi) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wadi Marjayoun,textSpan=(1501-1515)]	-Disambiguation:*null* gold wikification:=*null* isCorrectPrediction=Correct
+*Entity:[Marjayoun,textSpan=(1506-1515)]	-Disambiguation:(tid=6236310, Title name=Marjayoun) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli,textSpan=(1525-1532)]	-Disambiguation:(tid=9282173, Title name=Israel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[village,textSpan=(1533-1540)]	-Disambiguation:(tid=53509, Title name=Village) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Matla,textSpan=(1544-1549)]	-Disambiguation:(tid=1178266, Title name=Matla) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sand,textSpan=(1561-1565)]	-Disambiguation:(tid=37317, Title name=Sand) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[length,textSpan=(1573-1579)]	-Disambiguation:(tid=18542, Title name=Length) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hundreds,textSpan=(1583-1591)]	-Disambiguation:(tid=357346, Title name=Hundred_(county_division)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[meters,textSpan=(1595-1601)]	-Disambiguation:(tid=18947, Title name=Metre) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[width,textSpan=(1608-1613)]	-Disambiguation:(tid=18542, Title name=Length) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[meters,textSpan=(1621-1627)]	-Disambiguation:(tid=18947, Title name=Metre) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[expose,textSpan=(1640-1646)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[footprints,textSpan=(1651-1661)]	-Disambiguation:(tid=6160922, Title name=Footprint) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[people,textSpan=(1665-1671)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the border,textSpan=(1681-1691)]	-Disambiguation:(tid=2817606, Title name=Mexico–United_States_border) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[border,textSpan=(1685-1691)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tire,textSpan=(1695-1699)]	-Disambiguation:(tid=65037, Title name=Tire) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[prints,textSpan=(1700-1706)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cars,textSpan=(1710-1714)]	-Disambiguation:(tid=13673345, Title name=Automobile) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lebanese,textSpan=(1724-1732)]	-Disambiguation:(tid=17771, Title name=Lebanon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Beirut' start in text:2 end in text: 8; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'AFP' start in text:15 end in text: 18; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lebanon' start in text:23 end in text: 30; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'asked' start in text:35 end in text: 40; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the international' start in text:41 end in text: 58; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'international peacekeeping' start in text:45 end in text: 71; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'international' start in text:45 end in text: 58; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'peacekeeping' start in text:59 end in text: 71; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'peacekeeping force' start in text:59 end in text: 77; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'force' start in text:72 end in text: 77; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'operating' start in text:78 end in text: 87; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the south' start in text:91 end in text: 100; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'south' start in text:95 end in text: 100; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'investigate' start in text:104 end in text: 115; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reports' start in text:116 end in text: 123; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israel' start in text:140 end in text: 146; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'penetrating' start in text:150 end in text: 161; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shared' start in text:166 end in text: 172; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'border' start in text:173 end in text: 179; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'countries' start in text:196 end in text: 205; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'prevent' start in text:213 end in text: 220; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'happening' start in text:231 end in text: 240; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'official' start in text:257 end in text: 265; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sources' start in text:266 end in text: 273; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lebanese' start in text:279 end in text: 287; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'authorities' start in text:288 end in text: 299; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'peacekeeping' start in text:314 end in text: 326; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'high command' start in text:327 end in text: 339; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'high' start in text:327 end in text: 331; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'command' start in text:332 end in text: 339; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israel' start in text:387 end in text: 393; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'carrying' start in text:404 end in text: 412; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'operations' start in text:417 end in text: 427; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lebanese' start in text:435 end in text: 443; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lebanese territory' start in text:435 end in text: 453; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'territory' start in text:444 end in text: 453; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'particular' start in text:458 end in text: 468; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dumping' start in text:469 end in text: 476; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sand' start in text:477 end in text: 481; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'building' start in text:486 end in text: 494; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'slopes' start in text:495 end in text: 501; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The source' start in text:505 end in text: 515; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'source' start in text:509 end in text: 515; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'confirmed' start in text:538 end in text: 547; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'acts' start in text:559 end in text: 563; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'provocation' start in text:577 end in text: 588; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'infringement' start in text:596 end in text: 608; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lebanese' start in text:612 end in text: 620; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sovereignty' start in text:621 end in text: 632; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Witnesses' start in text:636 end in text: 645; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israeli' start in text:655 end in text: 662; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bulldozers' start in text:663 end in text: 673; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'work' start in text:682 end in text: 686; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'today' start in text:687 end in text: 692; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Tuesday' start in text:693 end in text: 700; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'slope' start in text:706 end in text: 711; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Abbad' start in text:719 end in text: 724; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sector' start in text:725 end in text: 731; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lebanese territory' start in text:739 end in text: 757; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lebanese' start in text:739 end in text: 747; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'territory' start in text:748 end in text: 757; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the border' start in text:761 end in text: 771; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'border' start in text:765 end in text: 771; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lebanon and Israel' start in text:780 end in text: 798; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Lebanon' start in text:780 end in text: 787; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israel' start in text:792 end in text: 798; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'These' start in text:802 end in text: 807; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'witnesses' start in text:808 end in text: 817; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Agence France Presse' start in text:823 end in text: 843; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'France' start in text:830 end in text: 836; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israeli' start in text:852 end in text: 859; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israeli army' start in text:852 end in text: 864; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'army' start in text:860 end in text: 864; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'patrol' start in text:865 end in text: 871; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'binoculars' start in text:899 end in text: 909; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'meters' start in text:927 end in text: 933; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lebanese' start in text:939 end in text: 947; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lebanese territory' start in text:939 end in text: 957; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'territory' start in text:948 end in text: 957; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israeli' start in text:979 end in text: 986; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'territory' start in text:987 end in text: 996; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'soon' start in text:1000 end in text: 1004; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'peacekeeping' start in text:1010 end in text: 1022; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'patrol' start in text:1023 end in text: 1029; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Families' start in text:1041 end in text: 1049; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'southern' start in text:1053 end in text: 1061; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lebanon' start in text:1062 end in text: 1069; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'visit' start in text:1070 end in text: 1075; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'area' start in text:1081 end in text: 1085; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tradition' start in text:1106 end in text: 1115; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the burial' start in text:1117 end in text: 1127; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'burial' start in text:1121 end in text: 1127; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'burial site' start in text:1121 end in text: 1132; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sheikh Abbad' start in text:1136 end in text: 1148; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Sheikh' start in text:1136 end in text: 1142; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Abbad' start in text:1143 end in text: 1148; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '500' start in text:1159 end in text: 1162; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'years' start in text:1163 end in text: 1168; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'located' start in text:1177 end in text: 1184; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israelis' start in text:1203 end in text: 1211; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the site' start in text:1224 end in text: 1232; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shrine' start in text:1238 end in text: 1244; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Rabbi Ashi' start in text:1273 end in text: 1283; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Rabbi' start in text:1273 end in text: 1278; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Ashi' start in text:1279 end in text: 1283; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the 5th' start in text:1299 end in text: 1306; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '5th century' start in text:1303 end in text: 1314; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '5th' start in text:1303 end in text: 1306; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'century' start in text:1307 end in text: 1314; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The Israeli army' start in text:1318 end in text: 1334; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israeli army' start in text:1322 end in text: 1334; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israeli' start in text:1322 end in text: 1329; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'army' start in text:1330 end in text: 1334; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'operations' start in text:1362 end in text: 1372; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lebanese' start in text:1380 end in text: 1388; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lebanese territory' start in text:1380 end in text: 1398; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'territory' start in text:1389 end in text: 1398; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the same' start in text:1402 end in text: 1410; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'border' start in text:1411 end in text: 1417; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'border region' start in text:1411 end in text: 1424; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'region' start in text:1418 end in text: 1424; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'August 11' start in text:1428 end in text: 1437; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'August' start in text:1428 end in text: 1434; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '11' start in text:1435 end in text: 1437; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Last Friday' start in text:1441 end in text: 1452; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Friday' start in text:1446 end in text: 1452; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israeli' start in text:1457 end in text: 1464; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bulldozer' start in text:1465 end in text: 1474; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the wire' start in text:1483 end in text: 1491; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'wire' start in text:1487 end in text: 1491; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fence' start in text:1492 end in text: 1497; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wadi' start in text:1501 end in text: 1505; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wadi Marjayoun' start in text:1501 end in text: 1515; Entity types: NER,LOC,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Marjayoun' start in text:1506 end in text: 1515; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israeli' start in text:1525 end in text: 1532; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'village' start in text:1533 end in text: 1540; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Matla' start in text:1544 end in text: 1549; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sand' start in text:1561 end in text: 1565; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'length' start in text:1573 end in text: 1579; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hundreds' start in text:1583 end in text: 1591; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'meters' start in text:1595 end in text: 1601; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'width' start in text:1608 end in text: 1613; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'meters' start in text:1621 end in text: 1627; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'expose' start in text:1640 end in text: 1646; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'footprints' start in text:1651 end in text: 1661; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'people' start in text:1665 end in text: 1671; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the border' start in text:1681 end in text: 1691; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'border' start in text:1685 end in text: 1691; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tire' start in text:1695 end in text: 1699; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'prints' start in text:1700 end in text: 1706; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cars' start in text:1710 end in text: 1714; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lebanese' start in text:1724 end in text: 1732; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

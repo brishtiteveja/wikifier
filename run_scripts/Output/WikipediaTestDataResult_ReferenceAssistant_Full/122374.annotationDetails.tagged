@@ -1,0 +1,610 @@
+<ANNOTATION>
+ <a class="wiki" href="http://en.wikipedia.org/wiki/Duck_Hill,_Mississippi" cat="place">Duck Hill</a>  is a  <b>town</b> in    <a class="wiki" href="http://en.wikipedia.org/wiki/Montgomery_County,_Mississippi" cat="county">Montgomery County</a>   ,    <a class="wiki" href="http://en.wikipedia.org/wiki/Mississippi" cat="state	colony">Mississippi</a>   ,    <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">United States</a>   .  <a class="wiki" href="http://en.wikipedia.org/wiki/Demography_of_the_United_Kingdom" cat="demographic">The population</a>  was  <b>746</b> at the  <b>2000 census</b>.<br>According to the    <a class="wiki" href="http://en.wikipedia.org/wiki/United_States_Census_Bureau" cat="census	agency	services">United States Census Bureau</a>   , the  <b>town</b> has a total  <b>area</b> of 1.0 "  <b>nbsp</b>;   <b>square mile</b>  s (2.7 " nbsp;  km   ), all of it land.<br>As of the   census   of  <b>2000</b>, there were  <b>746</b> people, 307 households, and 201 families residing in the  <b>town</b>. The    <b>population density</b>   was 720.8 people per square mile (279.6/km ). There were  <b>331</b>  <b>housing units</b> at an average  <b>density</b> of 319.8/sq " nbsp;mi (124.1/km ). The racial makeup of the town was 63.27%    <a class="wiki" href="http://en.wikipedia.org/wiki/Race_and_ethnicity_in_the_United_States_Census" cat="group	demographic">African American</a>   , 36.06%    <a class="wiki" href="http://en.wikipedia.org/wiki/Race_and_ethnicity_in_the_United_States_Census" cat="group	demographic">White</a>    and 0.67% from  <b>two or more races</b>.    <a class="wiki" href="http://en.wikipedia.org/wiki/Race_and_ethnicity_in_the_United_States_Census" cat="group	demographic">Hispanic</a>    or    <a class="wiki" href="http://en.wikipedia.org/wiki/Latino_(demonym)" cat="group">Latino</a>    of any  <b>race</b> were 0.80% of the  <b>population</b>.<br>There were 307 households out of which 36.8% had children under the age of 18 living with them, 44.3% were    <b>married couples</b>   living together, 16.6% had a  <b>female</b> householder with no husband present, and 34.5% were non-families. 33.2% of all households were made up of individuals and 16.9% had someone living alone who was 65 years of age or older. The average household size was 2.43 and the average  <b>family</b> size was 3.11.<br>In the  <b>town</b> the  <b>population</b> was spread out with 30.3% under the age of 18, 7.0% from 18 to  <b>24</b>, 26.5% from 25 to 44, 20.4% from 45 to 64, and 15.8% who were 65 years of age or older. The  <b>median</b> age was  <b>34</b> years. For every 100 females there were 81.5 males. For every 100 females age 18 and over, there were 69.9 males.<br>The  <b>median</b>  <b>income</b> for a household in the town was $24,118, and the  <b>median</b>  <b>income</b> for a  <b>family</b> was $29,375. Males had a  <b>median</b>  <b>income</b> of $26,731 versus $17,639 for females. The    <b>per capita income</b>   for the town was $11,550. About 18.9% of families and 21.4% of the population were below the   poverty line  , including 21.3% of those under age 18 and 32.6% of those age 65 or over.<br><br>
+</ANNOTATION>
+*Entity:[Duck,textSpan=(0-4)]	-Disambiguation:(tid=122374, Title name=Duck_Hill,_Mississippi) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Duck Hill,textSpan=(0-9)]	-Disambiguation:(tid=122374, Title name=Duck_Hill,_Mississippi) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hill,textSpan=(5-9)]	-Disambiguation:(tid=122374, Title name=Duck_Hill,_Mississippi) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a town,textSpan=(13-19)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[town,textSpan=(15-19)]	-Disambiguation:(tid=3400990, Title name=New_England_town) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Montgomery County,textSpan=(25-42)]	-Disambiguation:(tid=57959, Title name=Montgomery_County,_Mississippi) gold wikification:=Montgomery_County,_Mississippi isCorrectPrediction=Correct
+*Entity:[Montgomery,textSpan=(25-35)]	-Disambiguation:(tid=51259, Title name=Montgomery_County,_New_York) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[County,textSpan=(36-42)]	-Disambiguation:(tid=57959, Title name=Montgomery_County,_Mississippi) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mississippi , United States,textSpan=(48-78)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mississippi,textSpan=(48-59)]	-Disambiguation:(tid=16949861, Title name=Mississippi) gold wikification:=Mississippi isCorrectPrediction=Correct
+*Entity:[United,textSpan=(65-71)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United States,textSpan=(65-78)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[States,textSpan=(72-78)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The population,textSpan=(82-96)]	-Disambiguation:(tid=31725, Title name=Demography_of_the_United_Kingdom) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[population,textSpan=(86-96)]	-Disambiguation:(tid=22949, Title name=Population) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[746,textSpan=(101-104)]	-Disambiguation:(tid=35409, Title name=746) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[2000,textSpan=(112-116)]	-Disambiguation:(tid=34548, Title name=2000) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[2000 census,textSpan=(112-123)]	-Disambiguation:(tid=432383, Title name=2000_United_States_Census) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[census,textSpan=(117-123)]	-Disambiguation:(tid=6889, Title name=Census) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United States Census Bureau,textSpan=(144-171)]	-Disambiguation:(tid=57070, Title name=United_States_Census_Bureau) gold wikification:=United_States_Census_Bureau isCorrectPrediction=Correct
+*Entity:[the town,textSpan=(175-183)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[town,textSpan=(179-183)]	-Disambiguation:(tid=3400990, Title name=New_England_town) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[total,textSpan=(190-195)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[total area,textSpan=(190-200)]	-Disambiguation:(tid=72028, Title name=List_of_countries_and_dependencies_by_area) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[area,textSpan=(196-200)]	-Disambiguation:(tid=1209, Title name=Area) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1.0,textSpan=(204-207)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nbsp,textSpan=(210-214)]	-Disambiguation:(tid=933901, Title name=Non-breaking_space) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[square mile,textSpan=(217-228)]	-Disambiguation:(tid=88945, Title name=Square_mile) gold wikification:=Square_mile isCorrectPrediction=Correct
+*Entity:[square,textSpan=(217-223)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[mile,textSpan=(224-228)]	-Disambiguation:(tid=19159, Title name=Mile) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[land,textSpan=(264-268)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[2000,textSpan=(294-298)]	-Disambiguation:(tid=34548, Title name=2000) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[746,textSpan=(311-314)]	-Disambiguation:(tid=35409, Title name=746) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[people,textSpan=(315-321)]	-Disambiguation:(tid=3488351, Title name=People) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[307,textSpan=(323-326)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[households,textSpan=(327-337)]	-Disambiguation:(tid=725893, Title name=Household) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[201,textSpan=(343-346)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[families,textSpan=(347-355)]	-Disambiguation:(tid=10401954, Title name=Family) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the town,textSpan=(368-376)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[town,textSpan=(372-376)]	-Disambiguation:(tid=52911, Title name=Town) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[population density,textSpan=(384-402)]	-Disambiguation:(tid=128608, Title name=Population_density) gold wikification:=Population_density isCorrectPrediction=Correct
+*Entity:[people,textSpan=(415-421)]	-Disambiguation:(tid=3488351, Title name=People) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[There,textSpan=(451-456)]	-Disambiguation:(tid=463437, Title name=There) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[331,textSpan=(462-465)]	-Disambiguation:(tid=35315, Title name=331) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[housing,textSpan=(466-473)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[housing units,textSpan=(466-479)]	-Disambiguation:(tid=11164027, Title name=Unit_(housing)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[units,textSpan=(474-479)]	-Disambiguation:(tid=11164027, Title name=Unit_(housing)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[average,textSpan=(486-493)]	-Disambiguation:(tid=60167, Title name=Average) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[average density,textSpan=(486-501)]	-Disambiguation:(tid=8429, Title name=Density) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[density,textSpan=(494-501)]	-Disambiguation:(tid=128608, Title name=Population_density) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[racial makeup,textSpan=(541-554)]	-Disambiguation:(tid=273285, Title name=Race_and_ethnicity_in_the_United_States_Census) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[racial,textSpan=(541-547)]	-Disambiguation:(tid=273285, Title name=Race_and_ethnicity_in_the_United_States_Census) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[makeup,textSpan=(548-554)]	-Disambiguation:(tid=158015, Title name=Cosmetics) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the town,textSpan=(558-566)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[town,textSpan=(562-566)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[African American,textSpan=(580-596)]	-Disambiguation:(tid=273285, Title name=Race_and_ethnicity_in_the_United_States_Census) gold wikification:=Race_and_ethnicity_in_the_United_States_Census isCorrectPrediction=Correct
+*Entity:[White,textSpan=(609-614)]	-Disambiguation:(tid=273285, Title name=Race_and_ethnicity_in_the_United_States_Census) gold wikification:=Race_and_ethnicity_in_the_United_States_Census isCorrectPrediction=Correct
+*Entity:[two or more races,textSpan=(632-649)]	-Disambiguation:(tid=273285, Title name=Race_and_ethnicity_in_the_United_States_Census) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[races,textSpan=(644-649)]	-Disambiguation:(tid=273285, Title name=Race_and_ethnicity_in_the_United_States_Census) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hispanic,textSpan=(653-661)]	-Disambiguation:(tid=273285, Title name=Race_and_ethnicity_in_the_United_States_Census) gold wikification:=Race_and_ethnicity_in_the_United_States_Census isCorrectPrediction=Correct
+*Entity:[Latino,textSpan=(669-675)]	-Disambiguation:(tid=18522, Title name=Latino_(demonym)) gold wikification:=Race_and_ethnicity_in_the_United_States_Census isCorrectPrediction=Incorrect
+*Entity:[race,textSpan=(685-689)]	-Disambiguation:(tid=273285, Title name=Race_and_ethnicity_in_the_United_States_Census) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the population,textSpan=(704-718)]	-Disambiguation:(tid=31725, Title name=Demography_of_the_United_Kingdom) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[population,textSpan=(708-718)]	-Disambiguation:(tid=22949, Title name=Population) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[There,textSpan=(720-725)]	-Disambiguation:(tid=463437, Title name=There) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[307,textSpan=(731-734)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[households,textSpan=(735-745)]	-Disambiguation:(tid=725893, Title name=Household) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[children,textSpan=(769-777)]	-Disambiguation:(tid=128987, Title name=Child) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the age,textSpan=(784-791)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[age,textSpan=(788-791)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[18,textSpan=(795-797)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[living,textSpan=(798-804)]	-Disambiguation:(tid=18393, Title name=Life) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[married couples,textSpan=(829-844)]	-Disambiguation:(tid=19728, Title name=Marriage) gold wikification:=Marriage isCorrectPrediction=Correct
+*Entity:[married,textSpan=(829-836)]	-Disambiguation:(tid=19728, Title name=Marriage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[couples,textSpan=(837-844)]	-Disambiguation:(tid=19728, Title name=Marriage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[female,textSpan=(876-882)]	-Disambiguation:(tid=11096, Title name=Female) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[householder,textSpan=(883-894)]	-Disambiguation:(tid=1291564, Title name=Householder) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[husband,textSpan=(903-910)]	-Disambiguation:(tid=4318352, Title name=Husband) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[present,textSpan=(911-918)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[households,textSpan=(962-972)]	-Disambiguation:(tid=725893, Title name=Household) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[individuals,textSpan=(989-1000)]	-Disambiguation:(tid=14593, Title name=Individual) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[65,textSpan=(1044-1046)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[years,textSpan=(1047-1052)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[age,textSpan=(1056-1059)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[average,textSpan=(1074-1081)]	-Disambiguation:(tid=60167, Title name=Average) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[household,textSpan=(1082-1091)]	-Disambiguation:(tid=725893, Title name=Household) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[size,textSpan=(1092-1096)]	-Disambiguation:(tid=264558, Title name=Size) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[average,textSpan=(1114-1121)]	-Disambiguation:(tid=60167, Title name=Average) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[family,textSpan=(1122-1128)]	-Disambiguation:(tid=10401954, Title name=Family) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[family size,textSpan=(1122-1133)]	-Disambiguation:(tid=10401954, Title name=Family) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[size,textSpan=(1129-1133)]	-Disambiguation:(tid=1209, Title name=Area) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[3.11,textSpan=(1138-1142)]	-Disambiguation:(tid=167719, Title name=Windows_3.1x) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the town,textSpan=(1147-1155)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[town,textSpan=(1151-1155)]	-Disambiguation:(tid=52911, Title name=Town) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the population,textSpan=(1156-1170)]	-Disambiguation:(tid=31725, Title name=Demography_of_the_United_Kingdom) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[population,textSpan=(1160-1170)]	-Disambiguation:(tid=22949, Title name=Population) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[spread,textSpan=(1175-1181)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the age,textSpan=(1203-1210)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[age,textSpan=(1207-1210)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[18,textSpan=(1214-1216)]	-Disambiguation:(tid=35209, Title name=18) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[18,textSpan=(1228-1230)]	-Disambiguation:(tid=35209, Title name=18) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[24,textSpan=(1234-1236)]	-Disambiguation:(tid=68769, Title name=24_(TV_series)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[25,textSpan=(1249-1251)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[44,textSpan=(1255-1257)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[45,textSpan=(1270-1272)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[64,textSpan=(1276-1278)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[65,textSpan=(1299-1301)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[years,textSpan=(1302-1307)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[age,textSpan=(1311-1314)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[median,textSpan=(1329-1335)]	-Disambiguation:(tid=18837, Title name=Median) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[median age,textSpan=(1329-1339)]	-Disambiguation:(tid=989011, Title name=Population_pyramid) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[age,textSpan=(1336-1339)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[34,textSpan=(1344-1346)]	-Disambiguation:(tid=391919, Title name=34_(number)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[years,textSpan=(1347-1352)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[100,textSpan=(1364-1367)]	-Disambiguation:(tid=195007, Title name=Centenarian) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[females,textSpan=(1368-1375)]	-Disambiguation:(tid=11096, Title name=Female) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[males,textSpan=(1392-1397)]	-Disambiguation:(tid=1822282, Title name=Male) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[100,textSpan=(1409-1412)]	-Disambiguation:(tid=195007, Title name=Centenarian) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[females,textSpan=(1413-1420)]	-Disambiguation:(tid=11096, Title name=Female) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[age,textSpan=(1421-1424)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[18,textSpan=(1425-1427)]	-Disambiguation:(tid=35209, Title name=18) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[males,textSpan=(1454-1459)]	-Disambiguation:(tid=1822282, Title name=Male) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[median,textSpan=(1465-1471)]	-Disambiguation:(tid=18837, Title name=Median) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[median income,textSpan=(1465-1478)]	-Disambiguation:(tid=2021534, Title name=Median_household_income) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[income,textSpan=(1472-1478)]	-Disambiguation:(tid=15037, Title name=Income) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[household,textSpan=(1485-1494)]	-Disambiguation:(tid=725893, Title name=Household) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the town,textSpan=(1498-1506)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[town,textSpan=(1502-1506)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[median,textSpan=(1528-1534)]	-Disambiguation:(tid=18837, Title name=Median) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[median income,textSpan=(1528-1541)]	-Disambiguation:(tid=2021534, Title name=Median_household_income) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[income,textSpan=(1535-1541)]	-Disambiguation:(tid=15037, Title name=Income) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a family,textSpan=(1546-1554)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[family,textSpan=(1548-1554)]	-Disambiguation:(tid=10401954, Title name=Family) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Males,textSpan=(1568-1573)]	-Disambiguation:(tid=1822282, Title name=Male) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[median,textSpan=(1580-1586)]	-Disambiguation:(tid=18837, Title name=Median) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[median income,textSpan=(1580-1593)]	-Disambiguation:(tid=2021534, Title name=Median_household_income) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[income,textSpan=(1587-1593)]	-Disambiguation:(tid=15037, Title name=Income) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[versus,textSpan=(1605-1611)]	-Disambiguation:(tid=1801119, Title name=Versus) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[females,textSpan=(1624-1631)]	-Disambiguation:(tid=11096, Title name=Female) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[per capita income,textSpan=(1639-1656)]	-Disambiguation:(tid=23893, Title name=Per_capita_income) gold wikification:=Per_capita_income isCorrectPrediction=Correct
+*Entity:[the town,textSpan=(1663-1671)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[town,textSpan=(1667-1671)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[families,textSpan=(1700-1708)]	-Disambiguation:(tid=10401954, Title name=Family) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the population,textSpan=(1722-1736)]	-Disambiguation:(tid=31725, Title name=Demography_of_the_United_Kingdom) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[population,textSpan=(1726-1736)]	-Disambiguation:(tid=22949, Title name=Population) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[age,textSpan=(1801-1804)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[18,textSpan=(1805-1807)]	-Disambiguation:(tid=35209, Title name=18) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[age,textSpan=(1827-1830)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[65,textSpan=(1831-1833)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Duck' start in text:0 end in text: 4; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Duck Hill' start in text:0 end in text: 9; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hill' start in text:5 end in text: 9; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a town' start in text:13 end in text: 19; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'town' start in text:15 end in text: 19; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Montgomery County' start in text:25 end in text: 42; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Montgomery' start in text:25 end in text: 35; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'County' start in text:36 end in text: 42; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mississippi , United States' start in text:48 end in text: 78; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Mississippi' start in text:48 end in text: 59; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United' start in text:65 end in text: 71; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United States' start in text:65 end in text: 78; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'States' start in text:72 end in text: 78; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The population' start in text:82 end in text: 96; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'population' start in text:86 end in text: 96; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '746' start in text:101 end in text: 104; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '2000' start in text:112 end in text: 116; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '2000 census' start in text:112 end in text: 123; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'census' start in text:117 end in text: 123; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United States Census Bureau' start in text:144 end in text: 171; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the town' start in text:175 end in text: 183; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'town' start in text:179 end in text: 183; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'total' start in text:190 end in text: 195; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'total area' start in text:190 end in text: 200; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'area' start in text:196 end in text: 200; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1.0' start in text:204 end in text: 207; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nbsp' start in text:210 end in text: 214; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'square mile' start in text:217 end in text: 228; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'square' start in text:217 end in text: 223; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'mile' start in text:224 end in text: 228; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'land' start in text:264 end in text: 268; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '2000' start in text:294 end in text: 298; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '746' start in text:311 end in text: 314; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'people' start in text:315 end in text: 321; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '307' start in text:323 end in text: 326; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'households' start in text:327 end in text: 337; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '201' start in text:343 end in text: 346; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'families' start in text:347 end in text: 355; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the town' start in text:368 end in text: 376; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'town' start in text:372 end in text: 376; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'population density' start in text:384 end in text: 402; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'people' start in text:415 end in text: 421; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'There' start in text:451 end in text: 456; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '331' start in text:462 end in text: 465; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'housing' start in text:466 end in text: 473; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'housing units' start in text:466 end in text: 479; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'units' start in text:474 end in text: 479; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'average' start in text:486 end in text: 493; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'average density' start in text:486 end in text: 501; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'density' start in text:494 end in text: 501; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'racial makeup' start in text:541 end in text: 554; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'racial' start in text:541 end in text: 547; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'makeup' start in text:548 end in text: 554; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the town' start in text:558 end in text: 566; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'town' start in text:562 end in text: 566; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'African American' start in text:580 end in text: 596; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'White' start in text:609 end in text: 614; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'two or more races' start in text:632 end in text: 649; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'races' start in text:644 end in text: 649; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hispanic' start in text:653 end in text: 661; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Latino' start in text:669 end in text: 675; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'race' start in text:685 end in text: 689; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the population' start in text:704 end in text: 718; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'population' start in text:708 end in text: 718; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'There' start in text:720 end in text: 725; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '307' start in text:731 end in text: 734; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'households' start in text:735 end in text: 745; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'children' start in text:769 end in text: 777; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the age' start in text:784 end in text: 791; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'age' start in text:788 end in text: 791; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '18' start in text:795 end in text: 797; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'living' start in text:798 end in text: 804; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'married couples' start in text:829 end in text: 844; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'married' start in text:829 end in text: 836; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'couples' start in text:837 end in text: 844; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'female' start in text:876 end in text: 882; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'householder' start in text:883 end in text: 894; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'husband' start in text:903 end in text: 910; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'present' start in text:911 end in text: 918; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'households' start in text:962 end in text: 972; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'individuals' start in text:989 end in text: 1000; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '65' start in text:1044 end in text: 1046; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'years' start in text:1047 end in text: 1052; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'age' start in text:1056 end in text: 1059; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'average' start in text:1074 end in text: 1081; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'household' start in text:1082 end in text: 1091; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'size' start in text:1092 end in text: 1096; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'average' start in text:1114 end in text: 1121; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'family' start in text:1122 end in text: 1128; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'family size' start in text:1122 end in text: 1133; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'size' start in text:1129 end in text: 1133; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '3.11' start in text:1138 end in text: 1142; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the town' start in text:1147 end in text: 1155; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'town' start in text:1151 end in text: 1155; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the population' start in text:1156 end in text: 1170; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'population' start in text:1160 end in text: 1170; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'spread' start in text:1175 end in text: 1181; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the age' start in text:1203 end in text: 1210; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'age' start in text:1207 end in text: 1210; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '18' start in text:1214 end in text: 1216; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '18' start in text:1228 end in text: 1230; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '24' start in text:1234 end in text: 1236; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '25' start in text:1249 end in text: 1251; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '44' start in text:1255 end in text: 1257; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '45' start in text:1270 end in text: 1272; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '64' start in text:1276 end in text: 1278; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '65' start in text:1299 end in text: 1301; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'years' start in text:1302 end in text: 1307; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'age' start in text:1311 end in text: 1314; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'median' start in text:1329 end in text: 1335; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'median age' start in text:1329 end in text: 1339; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'age' start in text:1336 end in text: 1339; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '34' start in text:1344 end in text: 1346; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'years' start in text:1347 end in text: 1352; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '100' start in text:1364 end in text: 1367; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'females' start in text:1368 end in text: 1375; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'males' start in text:1392 end in text: 1397; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '100' start in text:1409 end in text: 1412; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'females' start in text:1413 end in text: 1420; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'age' start in text:1421 end in text: 1424; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '18' start in text:1425 end in text: 1427; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'males' start in text:1454 end in text: 1459; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'median' start in text:1465 end in text: 1471; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'median income' start in text:1465 end in text: 1478; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'income' start in text:1472 end in text: 1478; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'household' start in text:1485 end in text: 1494; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the town' start in text:1498 end in text: 1506; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'town' start in text:1502 end in text: 1506; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'median' start in text:1528 end in text: 1534; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'median income' start in text:1528 end in text: 1541; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'income' start in text:1535 end in text: 1541; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a family' start in text:1546 end in text: 1554; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'family' start in text:1548 end in text: 1554; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Males' start in text:1568 end in text: 1573; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'median' start in text:1580 end in text: 1586; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'median income' start in text:1580 end in text: 1593; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'income' start in text:1587 end in text: 1593; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'versus' start in text:1605 end in text: 1611; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'females' start in text:1624 end in text: 1631; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'per capita income' start in text:1639 end in text: 1656; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the town' start in text:1663 end in text: 1671; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'town' start in text:1667 end in text: 1671; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'families' start in text:1700 end in text: 1708; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the population' start in text:1722 end in text: 1736; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'population' start in text:1726 end in text: 1736; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'age' start in text:1801 end in text: 1804; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '18' start in text:1805 end in text: 1807; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'age' start in text:1827 end in text: 1830; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '65' start in text:1831 end in text: 1833; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

@@ -1,0 +1,452 @@
+<ANNOTATION>
+ <b>Museum</b> To Return 3 Stolen Works<br><br>   <a class="wiki" href="http://en.wikipedia.org/wiki/Los_Angeles" cat="train	introduction">LOS ANGELES</a>    ( <a class="wiki" href="http://en.wikipedia.org/wiki/Associated_Press" cat="cooperative	agency	establishment	medium	recipient">AP</a> ) --   <a class="wiki" href="http://en.wikipedia.org/wiki/Getty_Center" cat="building	museum	person">The J. Paul Getty Museum</a>    is returning three ancient   <b>works of art</b>   to   <a class="wiki" href="http://en.wikipedia.org/wiki/Italy" cat="country	nation	member	state	monarchy">Italy</a>    after determining they were stolen. <br><br> <br><br> One   <b>sculpture</b>   sat in its  collection   for 17 years. The objects will be  <b>flown</b> to  <a class="wiki" href="http://en.wikipedia.org/wiki/Italy" cat="country	nation	member	state	monarchy">Italy</a>  this week, along with pieces that were loaned to the  <b>museum</b> for an   <b>antiquities</b>   exhibit, according to a statement issued by  <a class="wiki" href="http://en.wikipedia.org/wiki/J._Paul_Getty_Museum" cat="museum	mountain">the Getty</a>  on Monday. <br><br> <br><br> The stolen items are a  <b>terra cotta</b> drinking cup from 480   <a class="wiki" href="http://en.wikipedia.org/wiki/Anno_Domini" cat="controversy	terms	phrase">B.C.</a>   , found to have been illegally   <b>excavated</b>   from an  archaeological site  ; a   <b>torso</b>   of the god   <a class="wiki" href="http://en.wikipedia.org/wiki/Mithraic_mysteries" cat="religion	mystery">Mithras</a>    from the   <b>2nd century</b>  , found to have been stolen from a  <b>private</b> Italian collection; and the sculpted head of a victorious  <b>athlete</b>, a 2nd century  Roman   copy of an earlier  Greek   work, which was apparently taken from the storeroom of a scientific  <b>excavation</b>. <br><br> <br><br> For  <b>security</b> reasons, the  <b>museum</b> did not say how much the pieces are worth. <br><br> <br><br> Although nobody claimed the works,  <b>Getty</b> decided to return them based on information supplied by experts in the  <b>field</b> and in consultation with Italian officials. <br><br> <br><br> International concern has been growing about rampant  thefts   of priceless  <b>art</b> from collections and the   <b>looting</b>   of  <b>archaeological sites</b>. <br><br> <br><br> The billion-dollar  <b>museum</b>, located on a  <b>hill</b> in the  Brentwood  area, opened in 1997. <br><br>
+</ANNOTATION>
+*Entity:[Museum To Return,textSpan=(0-19)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Museum,textSpan=(0-9)]	-Disambiguation:(tid=3499721, Title name=Getty_Villa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[To Return,textSpan=(10-19)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Return,textSpan=(13-19)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Stolen,textSpan=(22-28)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Stolen Works,textSpan=(22-34)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Works,textSpan=(29-34)]	-Disambiguation:(tid=523882, Title name=Works_(Pink_Floyd_album)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[LOS ANGELES,textSpan=(38-49)]	-Disambiguation:(tid=18110, Title name=Los_Angeles) gold wikification:=Los_Angeles isCorrectPrediction=Correct
+*Entity:[AP,textSpan=(53-55)]	-Disambiguation:(tid=47915, Title name=Associated_Press) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The J. Paul Getty Museum,textSpan=(61-85)]	-Disambiguation:(tid=261793, Title name=Getty_Center) gold wikification:=Getty_Center isCorrectPrediction=Correct
+*Entity:[J.,textSpan=(65-67)]	-Disambiguation:(tid=261793, Title name=Getty_Center) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[J. Paul Getty,textSpan=(65-78)]	-Disambiguation:(tid=261793, Title name=Getty_Center) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[J. Paul Getty Museum,textSpan=(65-85)]	-Disambiguation:(tid=261793, Title name=Getty_Center) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Paul,textSpan=(68-72)]	-Disambiguation:(tid=261793, Title name=Getty_Center) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Paul Getty,textSpan=(68-78)]	-Disambiguation:(tid=261793, Title name=Getty_Center) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Paul Getty Museum,textSpan=(68-85)]	-Disambiguation:(tid=261793, Title name=Getty_Center) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Getty,textSpan=(73-78)]	-Disambiguation:(tid=261793, Title name=Getty_Center) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Getty Museum,textSpan=(73-85)]	-Disambiguation:(tid=261793, Title name=Getty_Center) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Museum,textSpan=(79-85)]	-Disambiguation:(tid=261793, Title name=Getty_Center) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[returning,textSpan=(91-100)]	-Disambiguation:(tid=933831, Title name=Return_statement) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[works of art,textSpan=(116-128)]	-Disambiguation:(tid=752, Title name=Art) gold wikification:=Work_of_art isCorrectPrediction=Incorrect
+*Entity:[art,textSpan=(125-128)]	-Disambiguation:(tid=752, Title name=Art) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Italy,textSpan=(135-140)]	-Disambiguation:(tid=14532, Title name=Italy) gold wikification:=Italy isCorrectPrediction=Correct
+*Entity:[sculpture,textSpan=(190-199)]	-Disambiguation:(tid=26714, Title name=Sculpture) gold wikification:=Sculpture isCorrectPrediction=Correct
+*Entity:[collection,textSpan=(214-224)]	-Disambiguation:(tid=3218952, Title name=Collection_(artwork)) gold wikification:=Collection_(artwork) isCorrectPrediction=Correct
+*Entity:[17,textSpan=(231-233)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[years,textSpan=(234-239)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[objects,textSpan=(245-252)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[will be,textSpan=(253-260)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flown,textSpan=(261-266)]	-Disambiguation:(tid=159472, Title name=Flight) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Italy,textSpan=(270-275)]	-Disambiguation:(tid=14532, Title name=Italy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[this week,textSpan=(276-285)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[week,textSpan=(281-285)]	-Disambiguation:(tid=33538, Title name=Week) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pieces,textSpan=(298-304)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[loaned,textSpan=(315-321)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the museum,textSpan=(325-335)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[museum,textSpan=(329-335)]	-Disambiguation:(tid=37585, Title name=Museum) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[antiquities,textSpan=(344-355)]	-Disambiguation:(tid=1431051, Title name=Antiquities) gold wikification:=Antiquities isCorrectPrediction=Correct
+*Entity:[statement,textSpan=(382-391)]	-Disambiguation:(tid=304097, Title name=Press_release) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the Getty,textSpan=(402-411)]	-Disambiguation:(tid=3658264, Title name=J._Paul_Getty_Museum) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Getty on Monday,textSpan=(406-421)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Getty,textSpan=(406-411)]	-Disambiguation:(tid=261793, Title name=Getty_Center) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Monday,textSpan=(415-421)]	-Disambiguation:(tid=54406, Title name=Monday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[stolen,textSpan=(433-439)]	-Disambiguation:(tid=425514, Title name=Art_theft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[items,textSpan=(440-445)]	-Disambiguation:(tid=254656, Title name=Item) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[terra,textSpan=(452-457)]	-Disambiguation:(tid=85154, Title name=Terra) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[terra cotta,textSpan=(452-463)]	-Disambiguation:(tid=174241, Title name=Terracotta) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cotta,textSpan=(458-463)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[drinking cup,textSpan=(464-476)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[drinking,textSpan=(464-472)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cup,textSpan=(473-476)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[B.C.,textSpan=(487-491)]	-Disambiguation:(tid=1400, Title name=Anno_Domini) gold wikification:=Anno_Domini isCorrectPrediction=Correct
+*Entity:[excavated,textSpan=(525-534)]	-Disambiguation:(tid=60697, Title name=Excavation_(archaeology)) gold wikification:=Excavation isCorrectPrediction=Incorrect
+*Entity:[archaeological site,textSpan=(546-565)]	-Disambiguation:*null* gold wikification:=Archaeological_site isCorrectPrediction=Incorrect
+*Entity:[torso,textSpan=(572-577)]	-Disambiguation:(tid=674207, Title name=Trunk_(anatomy)) gold wikification:=Trunk_(anatomy) isCorrectPrediction=Correct
+*Entity:[Mithras,textSpan=(592-599)]	-Disambiguation:(tid=20826, Title name=Mithraic_mysteries) gold wikification:=Mithraic_mysteries isCorrectPrediction=Correct
+*Entity:[2nd century,textSpan=(612-623)]	-Disambiguation:(tid=34744, Title name=2nd_century) gold wikification:=2nd_century isCorrectPrediction=Correct
+*Entity:[have been,textSpan=(636-645)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[stolen,textSpan=(646-652)]	-Disambiguation:(tid=425514, Title name=Art_theft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[private,textSpan=(660-667)]	-Disambiguation:(tid=299959, Title name=Private_school) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Italian,textSpan=(668-675)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[collection,textSpan=(676-686)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sculpted,textSpan=(696-704)]	-Disambiguation:(tid=26714, Title name=Sculpture) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[head,textSpan=(705-709)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[victorious,textSpan=(715-725)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[athlete,textSpan=(726-733)]	-Disambiguation:(tid=43719, Title name=Track_and_field) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Roman,textSpan=(750-755)]	-Disambiguation:*null* gold wikification:=Ancient_Rome isCorrectPrediction=Incorrect
+*Entity:[Greek,textSpan=(778-783)]	-Disambiguation:*null* gold wikification:=Ancient_Greece isCorrectPrediction=Incorrect
+*Entity:[apparently,textSpan=(802-812)]	-Disambiguation:(tid=35825, Title name=2008) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[taken,textSpan=(813-818)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[scientific,textSpan=(843-853)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[excavation,textSpan=(854-864)]	-Disambiguation:(tid=60697, Title name=Excavation_(archaeology)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[security,textSpan=(876-884)]	-Disambiguation:(tid=41684, Title name=Security) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reasons,textSpan=(885-892)]	-Disambiguation:(tid=42446, Title name=Reason) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the museum,textSpan=(894-904)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[museum,textSpan=(898-904)]	-Disambiguation:(tid=37585, Title name=Museum) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[did not,textSpan=(905-912)]	-Disambiguation:(tid=25762, Title name=Russian_Revolution) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[say,textSpan=(913-916)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pieces,textSpan=(930-936)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the works,textSpan=(978-987)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[works,textSpan=(982-987)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Getty,textSpan=(989-994)]	-Disambiguation:(tid=261793, Title name=Getty_Center) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[decided,textSpan=(995-1002)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[to return,textSpan=(1003-1012)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[return,textSpan=(1006-1012)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[experts,textSpan=(1051-1058)]	-Disambiguation:(tid=570, Title name=Archaeology) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the field,textSpan=(1062-1071)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[field,textSpan=(1066-1071)]	-Disambiguation:(tid=10603, Title name=Field_(mathematics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[consultation,textSpan=(1079-1091)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Italian,textSpan=(1097-1104)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[officials,textSpan=(1105-1114)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[International,textSpan=(1122-1135)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[concern,textSpan=(1136-1143)]	-Disambiguation:(tid=6769649, Title name=Concern) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[has been,textSpan=(1144-1152)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[growing,textSpan=(1153-1160)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[thefts,textSpan=(1176-1182)]	-Disambiguation:(tid=31287, Title name=Theft) gold wikification:=Art_theft isCorrectPrediction=Incorrect
+*Entity:[priceless,textSpan=(1188-1197)]	-Disambiguation:(tid=1359494, Title name=Priceless) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[art,textSpan=(1198-1201)]	-Disambiguation:(tid=752, Title name=Art) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[collections,textSpan=(1207-1218)]	-Disambiguation:(tid=3218952, Title name=Collection_(artwork)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[looting,textSpan=(1228-1235)]	-Disambiguation:(tid=209811, Title name=Looting) gold wikification:=Looting isCorrectPrediction=Correct
+*Entity:[archaeological,textSpan=(1241-1255)]	-Disambiguation:(tid=570, Title name=Archaeology) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[archaeological sites,textSpan=(1241-1261)]	-Disambiguation:(tid=570, Title name=Archaeology) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sites,textSpan=(1256-1261)]	-Disambiguation:(tid=570, Title name=Archaeology) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[museum,textSpan=(1288-1294)]	-Disambiguation:(tid=37585, Title name=Museum) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a hill,textSpan=(1307-1313)]	-Disambiguation:(tid=481246, Title name=Cumorah) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hill,textSpan=(1309-1313)]	-Disambiguation:(tid=1408983, Title name=Hill) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Brentwood,textSpan=(1322-1331)]	-Disambiguation:*null* gold wikification:=Brentwood,_Los_Angeles isCorrectPrediction=Incorrect
+*Entity:[1997,textSpan=(1349-1353)]	-Disambiguation:(tid=34601, Title name=1997) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Museum To Return' start in text:0 end in text: 19; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Museum' start in text:0 end in text: 9; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'To Return' start in text:10 end in text: 19; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Return' start in text:13 end in text: 19; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Stolen' start in text:22 end in text: 28; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Stolen Works' start in text:22 end in text: 34; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Works' start in text:29 end in text: 34; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'LOS ANGELES' start in text:38 end in text: 49; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'AP' start in text:53 end in text: 55; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The J. Paul Getty Museum' start in text:61 end in text: 85; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'J.' start in text:65 end in text: 67; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'J. Paul Getty' start in text:65 end in text: 78; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'J. Paul Getty Museum' start in text:65 end in text: 85; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Paul' start in text:68 end in text: 72; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Paul Getty' start in text:68 end in text: 78; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Paul Getty Museum' start in text:68 end in text: 85; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Getty' start in text:73 end in text: 78; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Getty Museum' start in text:73 end in text: 85; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Museum' start in text:79 end in text: 85; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'returning' start in text:91 end in text: 100; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'works of art' start in text:116 end in text: 128; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'art' start in text:125 end in text: 128; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Italy' start in text:135 end in text: 140; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sculpture' start in text:190 end in text: 199; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'collection' start in text:214 end in text: 224; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '17' start in text:231 end in text: 233; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'years' start in text:234 end in text: 239; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'objects' start in text:245 end in text: 252; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'will be' start in text:253 end in text: 260; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flown' start in text:261 end in text: 266; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Italy' start in text:270 end in text: 275; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'this week' start in text:276 end in text: 285; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'week' start in text:281 end in text: 285; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pieces' start in text:298 end in text: 304; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'loaned' start in text:315 end in text: 321; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the museum' start in text:325 end in text: 335; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'museum' start in text:329 end in text: 335; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'antiquities' start in text:344 end in text: 355; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'statement' start in text:382 end in text: 391; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the Getty' start in text:402 end in text: 411; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Getty on Monday' start in text:406 end in text: 421; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Getty' start in text:406 end in text: 411; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Monday' start in text:415 end in text: 421; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'stolen' start in text:433 end in text: 439; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'items' start in text:440 end in text: 445; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'terra' start in text:452 end in text: 457; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'terra cotta' start in text:452 end in text: 463; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cotta' start in text:458 end in text: 463; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'drinking cup' start in text:464 end in text: 476; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'drinking' start in text:464 end in text: 472; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cup' start in text:473 end in text: 476; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'B.C.' start in text:487 end in text: 491; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'excavated' start in text:525 end in text: 534; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'archaeological site' start in text:546 end in text: 565; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'torso' start in text:572 end in text: 577; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mithras' start in text:592 end in text: 599; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '2nd century' start in text:612 end in text: 623; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'have been' start in text:636 end in text: 645; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'stolen' start in text:646 end in text: 652; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'private' start in text:660 end in text: 667; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Italian' start in text:668 end in text: 675; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'collection' start in text:676 end in text: 686; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sculpted' start in text:696 end in text: 704; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'head' start in text:705 end in text: 709; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'victorious' start in text:715 end in text: 725; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'athlete' start in text:726 end in text: 733; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Roman' start in text:750 end in text: 755; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Greek' start in text:778 end in text: 783; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'apparently' start in text:802 end in text: 812; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'taken' start in text:813 end in text: 818; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'scientific' start in text:843 end in text: 853; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'excavation' start in text:854 end in text: 864; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'security' start in text:876 end in text: 884; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reasons' start in text:885 end in text: 892; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the museum' start in text:894 end in text: 904; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'museum' start in text:898 end in text: 904; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'did not' start in text:905 end in text: 912; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'say' start in text:913 end in text: 916; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pieces' start in text:930 end in text: 936; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the works' start in text:978 end in text: 987; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'works' start in text:982 end in text: 987; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Getty' start in text:989 end in text: 994; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'decided' start in text:995 end in text: 1002; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'to return' start in text:1003 end in text: 1012; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'return' start in text:1006 end in text: 1012; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'experts' start in text:1051 end in text: 1058; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the field' start in text:1062 end in text: 1071; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'field' start in text:1066 end in text: 1071; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'consultation' start in text:1079 end in text: 1091; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Italian' start in text:1097 end in text: 1104; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'officials' start in text:1105 end in text: 1114; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'International' start in text:1122 end in text: 1135; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'concern' start in text:1136 end in text: 1143; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'has been' start in text:1144 end in text: 1152; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'growing' start in text:1153 end in text: 1160; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'thefts' start in text:1176 end in text: 1182; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'priceless' start in text:1188 end in text: 1197; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'art' start in text:1198 end in text: 1201; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'collections' start in text:1207 end in text: 1218; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'looting' start in text:1228 end in text: 1235; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'archaeological' start in text:1241 end in text: 1255; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'archaeological sites' start in text:1241 end in text: 1261; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sites' start in text:1256 end in text: 1261; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'museum' start in text:1288 end in text: 1294; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a hill' start in text:1307 end in text: 1313; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hill' start in text:1309 end in text: 1313; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Brentwood' start in text:1322 end in text: 1331; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1997' start in text:1349 end in text: 1353; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

@@ -1,0 +1,453 @@
+<ANNOTATION>
+ <a class="wiki" href="http://en.wikipedia.org/wiki/Portugal" cat="country	state	monarchy	member	republic">Portugal</a>  and  <a class="wiki" href="http://en.wikipedia.org/wiki/Spain" cat="member	state	country">Spain</a>  reach agreement on common water supplies<br><br>   <a class="wiki" href="http://en.wikipedia.org/wiki/Portugal" cat="country	state	monarchy	member	republic">Portugal</a>    and   <a class="wiki" href="http://en.wikipedia.org/wiki/Spain" cat="member	state	country">Spain</a>    on Monday reached an agreement over shared   <b>water resources</b>   on the   <a class="wiki" href="http://en.wikipedia.org/wiki/Iberian_Peninsula" cat="landforms	region	community">Iberian peninsula</a>   , wrapping up a two-day summit that both premiers called historic. <br><br> "It is an ambitious, modern, wide-ranging and efficient agreement,''  <a class="wiki" href="http://en.wikipedia.org/wiki/Portugal" cat="country	state	monarchy	member	republic">Portugal</a> 's   <a class="wiki" href="http://en.wikipedia.org/wiki/Prime_minister" cat="title	minister">Prime Minister</a>      <a class="wiki" href="http://en.wikipedia.org/wiki/António_Guterres" cat="politician	person	engineer	commissioner	socialist	president	catholic">Antonio Guterres</a>    said at the end of the  <b>summit</b> in  <a class="wiki" href="http://en.wikipedia.org/wiki/Albufeira" cat="city">Albufeira</a> , about 200 kilometers (125 miles) south of   <a class="wiki" href="http://en.wikipedia.org/wiki/Lisbon" cat="">Lisbon</a>   . <br><br> Both governments worked out a shared  <b>management</b> plan to monitor water   <b>volume</b>   in the  <b>rivers</b> which supply both countries. <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Spain" cat="member	state	country">Spanish</a>  Premier   <a class="wiki" href="http://en.wikipedia.org/wiki/José_María_Aznar" cat="member	survivor	person	catholic">Jose Maria Aznar</a>    said the agreement reflected "an exceptional moment'' of relations between the two Iberian countries. <br><br>   <a class="wiki" href="http://en.wikipedia.org/wiki/Water_supply" cat="">Water supply</a>    on the southwest  <a class="wiki" href="http://en.wikipedia.org/wiki/Europe" cat="concept">European peninsula</a>  was one of the few sticking points between the two countries, which have strong  <b>trade</b> links and close political ties. <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Spain" cat="member	state	country">Spanish</a>  plans to develop   <b>hydroelectric</b>   projects on its side of the  <b>border</b> have been a constant threat to  <a class="wiki" href="http://en.wikipedia.org/wiki/Portugal" cat="country	state	monarchy	member	republic">Portugal</a> 's supply, which comes mainly from  <b>rivers</b> with sources in the neighboring country. <br><br> Both governments also reiterated their decision jointly to campaign for continued development funds provided by wealthier   <a class="wiki" href="http://en.wikipedia.org/wiki/European_Union" cat="organization	system	establishment">European Union</a>    nations. <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Cabinet_of_the_United_Kingdom" cat="">Cabinet Members</a>  also agreed to build new  <b>road</b> and  <b>railway</b> links between the two countries. <br><br> The  <a class="wiki" href="http://en.wikipedia.org/wiki/Albufeira" cat="city">Albufeira</a>  summit also produced a plan to increase  <b>cooperation</b> between  <b>police</b> at the  <b>border</b>, in order to  <b>curb</b>   <b>illegal immigration</b>   and  drug trafficking . <br><br>
+</ANNOTATION>
+*Entity:[Portugal and Spain,textSpan=(3-21)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Portugal,textSpan=(0-11)]	-Disambiguation:(tid=23033, Title name=Portugal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Spain,textSpan=(16-21)]	-Disambiguation:(tid=26667, Title name=Spain) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[agreement,textSpan=(28-37)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[common,textSpan=(41-47)]	-Disambiguation:(tid=5254, Title name=Common_law) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[water supplies,textSpan=(48-62)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[water,textSpan=(48-53)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[supplies,textSpan=(54-62)]	-Disambiguation:(tid=684928, Title name=Water_supply) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Portugal,textSpan=(66-74)]	-Disambiguation:(tid=23033, Title name=Portugal) gold wikification:=Portugal isCorrectPrediction=Correct
+*Entity:[Portugal and Spain on Monday,textSpan=(66-99)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Spain,textSpan=(82-87)]	-Disambiguation:(tid=26667, Title name=Spain) gold wikification:=Spain isCorrectPrediction=Correct
+*Entity:[Spain on Monday,textSpan=(82-99)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Monday,textSpan=(93-99)]	-Disambiguation:(tid=54406, Title name=Monday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[an agreement,textSpan=(108-120)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[agreement,textSpan=(111-120)]	-Disambiguation:(tid=217117, Title name=Agreement) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[water resources,textSpan=(134-149)]	-Disambiguation:(tid=18581463, Title name=Water_resources) gold wikification:=Water_resources isCorrectPrediction=Correct
+*Entity:[Iberian peninsula,textSpan=(160-177)]	-Disambiguation:(tid=14883, Title name=Iberian_Peninsula) gold wikification:=Iberian_Peninsula isCorrectPrediction=Correct
+*Entity:[Iberian,textSpan=(160-167)]	-Disambiguation:(tid=602383, Title name=Iberian) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[summit,textSpan=(203-209)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[premiers,textSpan=(220-228)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[It,textSpan=(250-252)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:['',textSpan=(315-317)]	-Disambiguation:(tid=10671108, Title name=Dirty_(film)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Portugal,textSpan=(318-326)]	-Disambiguation:(tid=23033, Title name=Portugal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Portugal's Prime Minister Antonio Guterres,textSpan=(318-364)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Prime Minister,textSpan=(330-344)]	-Disambiguation:(tid=24109, Title name=Prime_minister) gold wikification:=Prime_minister isCorrectPrediction=Correct
+*Entity:[Antonio Guterres,textSpan=(348-364)]	-Disambiguation:(tid=471806, Title name=António_Guterres) gold wikification:=António_Guterres isCorrectPrediction=Correct
+*Entity:[the end,textSpan=(375-382)]	-Disambiguation:(tid=6031490, Title name=Sukhumi_massacre) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the summit,textSpan=(386-396)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[summit,textSpan=(390-396)]	-Disambiguation:(tid=144685, Title name=Summit) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Albufeira,textSpan=(400-409)]	-Disambiguation:(tid=1871459, Title name=Albufeira) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lisbon,textSpan=(454-460)]	-Disambiguation:(tid=18091, Title name=Lisbon) gold wikification:=Lisbon isCorrectPrediction=Correct
+*Entity:[Both,textSpan=(467-471)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[governments,textSpan=(472-483)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[shared,textSpan=(497-503)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[management,textSpan=(504-514)]	-Disambiguation:(tid=19881, Title name=Management) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plan,textSpan=(515-519)]	-Disambiguation:(tid=179824, Title name=Plan) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[monitor,textSpan=(523-530)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[volume,textSpan=(538-544)]	-Disambiguation:(tid=32498, Title name=Volume) gold wikification:=Volume isCorrectPrediction=Correct
+*Entity:[rivers,textSpan=(554-560)]	-Disambiguation:(tid=25510, Title name=River) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[countries,textSpan=(579-588)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Spanish,textSpan=(593-600)]	-Disambiguation:(tid=26667, Title name=Spain) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jose Maria Aznar,textSpan=(610-626)]	-Disambiguation:(tid=197618, Title name=José_María_Aznar) gold wikification:=José_María_Aznar isCorrectPrediction=Correct
+*Entity:[the agreement,textSpan=(634-647)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[agreement,textSpan=(638-647)]	-Disambiguation:(tid=217117, Title name=Agreement) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[relations,textSpan=(686-695)]	-Disambiguation:(tid=82533, Title name=International_relations) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iberian,textSpan=(712-719)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[countries,textSpan=(720-729)]	-Disambiguation:(tid=5165, Title name=Country) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Water,textSpan=(735-740)]	-Disambiguation:(tid=33306, Title name=Water) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Water supply,textSpan=(735-747)]	-Disambiguation:(tid=684928, Title name=Water_supply) gold wikification:=Water_supply isCorrectPrediction=Correct
+*Entity:[supply,textSpan=(741-747)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the southwest,textSpan=(753-766)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[southwest,textSpan=(757-766)]	-Disambiguation:(tid=200085, Title name=Cardinal_direction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[European peninsula,textSpan=(767-785)]	-Disambiguation:(tid=9239, Title name=Europe) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[European,textSpan=(767-775)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[peninsula,textSpan=(776-785)]	-Disambiguation:(tid=23260, Title name=Peninsula) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the few,textSpan=(797-804)]	-Disambiguation:(tid=22315, Title name=Oligarchy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sticking,textSpan=(805-813)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[points,textSpan=(814-820)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[countries,textSpan=(837-846)]	-Disambiguation:(tid=5165, Title name=Country) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[strong,textSpan=(859-865)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[trade,textSpan=(866-871)]	-Disambiguation:(tid=29678, Title name=Trade) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[close,textSpan=(882-887)]	-Disambiguation:(tid=594771, Title name=Close_vowel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[political,textSpan=(888-897)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ties,textSpan=(898-902)]	-Disambiguation:(tid=529780, Title name=Railroad_tie) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Spanish,textSpan=(907-914)]	-Disambiguation:(tid=26667, Title name=Spain) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plans,textSpan=(915-920)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[develop,textSpan=(924-931)]	-Disambiguation:(tid=148131, Title name=Economic_development) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hydroelectric,textSpan=(933-946)]	-Disambiguation:(tid=381399, Title name=Hydroelectricity) gold wikification:=Hydroelectricity isCorrectPrediction=Correct
+*Entity:[the border,textSpan=(973-983)]	-Disambiguation:(tid=2817606, Title name=Mexico–United_States_border) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[border,textSpan=(977-983)]	-Disambiguation:(tid=247613, Title name=Border) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[constant,textSpan=(996-1004)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[threat,textSpan=(1005-1011)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Portugal,textSpan=(1015-1023)]	-Disambiguation:(tid=23033, Title name=Portugal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[supply,textSpan=(1026-1032)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rivers,textSpan=(1058-1064)]	-Disambiguation:(tid=25510, Title name=River) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sources,textSpan=(1070-1077)]	-Disambiguation:(tid=415088, Title name=River_source) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[neighboring,textSpan=(1085-1096)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[country,textSpan=(1097-1104)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Both,textSpan=(1109-1113)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[governments,textSpan=(1114-1125)]	-Disambiguation:(tid=12229, Title name=Government) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[their decision,textSpan=(1142-1156)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[decision,textSpan=(1148-1156)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[campaign,textSpan=(1168-1176)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[continued,textSpan=(1181-1190)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[development,textSpan=(1191-1202)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[funds,textSpan=(1203-1208)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[European Union,textSpan=(1232-1246)]	-Disambiguation:(tid=9317, Title name=European_Union) gold wikification:=European_Union isCorrectPrediction=Correct
+*Entity:[Cabinet Members,textSpan=(1261-1276)]	-Disambiguation:(tid=162790, Title name=Cabinet_of_the_United_Kingdom) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cabinet,textSpan=(1261-1268)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Members,textSpan=(1269-1276)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[agreed,textSpan=(1282-1288)]	-Disambiguation:(tid=30432, Title name=Treaty) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[agreed to,textSpan=(1282-1291)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[build,textSpan=(1292-1297)]	-Disambiguation:(tid=2788153, Title name=Software_build) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[new road,textSpan=(1298-1306)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[road,textSpan=(1302-1306)]	-Disambiguation:(tid=25897, Title name=Road) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[railway,textSpan=(1311-1318)]	-Disambiguation:(tid=25715, Title name=Rail_transport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[countries,textSpan=(1341-1350)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Albufeira,textSpan=(1359-1368)]	-Disambiguation:(tid=1871459, Title name=Albufeira) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[summit,textSpan=(1369-1375)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a plan,textSpan=(1390-1396)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plan,textSpan=(1392-1396)]	-Disambiguation:(tid=179824, Title name=Plan) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[increase,textSpan=(1400-1408)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cooperation,textSpan=(1409-1420)]	-Disambiguation:(tid=43259, Title name=Diplomacy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[police,textSpan=(1429-1435)]	-Disambiguation:(tid=23627, Title name=Police) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the border,textSpan=(1439-1449)]	-Disambiguation:(tid=2817606, Title name=Mexico–United_States_border) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[border,textSpan=(1443-1449)]	-Disambiguation:(tid=247613, Title name=Border) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[curb,textSpan=(1463-1467)]	-Disambiguation:(tid=3600229, Title name=Curb) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[illegal immigration,textSpan=(1469-1488)]	-Disambiguation:(tid=7124412, Title name=Illegal_immigration) gold wikification:=Illegal_immigration isCorrectPrediction=Correct
+*Entity:[drug trafficking,textSpan=(1496-1512)]	-Disambiguation:(tid=218449, Title name=Illegal_drug_trade) gold wikification:=Illegal_drug_trade isCorrectPrediction=Correct
+
+Output Explanation:
+Entity : 'Portugal and Spain' start in text:3 end in text: 21; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Portugal' start in text:0 end in text: 11; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Spain' start in text:16 end in text: 21; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'agreement' start in text:28 end in text: 37; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'common' start in text:41 end in text: 47; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'water supplies' start in text:48 end in text: 62; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'water' start in text:48 end in text: 53; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'supplies' start in text:54 end in text: 62; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Portugal' start in text:66 end in text: 74; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Portugal and Spain on Monday' start in text:66 end in text: 99; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Spain' start in text:82 end in text: 87; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Spain on Monday' start in text:82 end in text: 99; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Monday' start in text:93 end in text: 99; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'an agreement' start in text:108 end in text: 120; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'agreement' start in text:111 end in text: 120; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'water resources' start in text:134 end in text: 149; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iberian peninsula' start in text:160 end in text: 177; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iberian' start in text:160 end in text: 167; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'summit' start in text:203 end in text: 209; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'premiers' start in text:220 end in text: 228; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'It' start in text:250 end in text: 252; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '''' start in text:315 end in text: 317; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Portugal' start in text:318 end in text: 326; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Portugal's Prime Minister Antonio Guterres' start in text:318 end in text: 364; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Prime Minister' start in text:330 end in text: 344; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Antonio Guterres' start in text:348 end in text: 364; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the end' start in text:375 end in text: 382; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the summit' start in text:386 end in text: 396; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'summit' start in text:390 end in text: 396; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Albufeira' start in text:400 end in text: 409; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lisbon' start in text:454 end in text: 460; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Both' start in text:467 end in text: 471; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'governments' start in text:472 end in text: 483; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shared' start in text:497 end in text: 503; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'management' start in text:504 end in text: 514; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plan' start in text:515 end in text: 519; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'monitor' start in text:523 end in text: 530; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'volume' start in text:538 end in text: 544; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rivers' start in text:554 end in text: 560; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'countries' start in text:579 end in text: 588; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Spanish' start in text:593 end in text: 600; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jose Maria Aznar' start in text:610 end in text: 626; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the agreement' start in text:634 end in text: 647; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'agreement' start in text:638 end in text: 647; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'relations' start in text:686 end in text: 695; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iberian' start in text:712 end in text: 719; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'countries' start in text:720 end in text: 729; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Water' start in text:735 end in text: 740; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Water supply' start in text:735 end in text: 747; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'supply' start in text:741 end in text: 747; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the southwest' start in text:753 end in text: 766; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'southwest' start in text:757 end in text: 766; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'European peninsula' start in text:767 end in text: 785; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'European' start in text:767 end in text: 775; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'peninsula' start in text:776 end in text: 785; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the few' start in text:797 end in text: 804; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sticking' start in text:805 end in text: 813; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'points' start in text:814 end in text: 820; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'countries' start in text:837 end in text: 846; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'strong' start in text:859 end in text: 865; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'trade' start in text:866 end in text: 871; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'close' start in text:882 end in text: 887; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'political' start in text:888 end in text: 897; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ties' start in text:898 end in text: 902; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Spanish' start in text:907 end in text: 914; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plans' start in text:915 end in text: 920; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'develop' start in text:924 end in text: 931; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hydroelectric' start in text:933 end in text: 946; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the border' start in text:973 end in text: 983; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'border' start in text:977 end in text: 983; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'constant' start in text:996 end in text: 1004; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'threat' start in text:1005 end in text: 1011; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Portugal' start in text:1015 end in text: 1023; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'supply' start in text:1026 end in text: 1032; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rivers' start in text:1058 end in text: 1064; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sources' start in text:1070 end in text: 1077; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'neighboring' start in text:1085 end in text: 1096; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'country' start in text:1097 end in text: 1104; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Both' start in text:1109 end in text: 1113; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'governments' start in text:1114 end in text: 1125; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'their decision' start in text:1142 end in text: 1156; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'decision' start in text:1148 end in text: 1156; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'campaign' start in text:1168 end in text: 1176; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'continued' start in text:1181 end in text: 1190; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'development' start in text:1191 end in text: 1202; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'funds' start in text:1203 end in text: 1208; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'European Union' start in text:1232 end in text: 1246; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cabinet Members' start in text:1261 end in text: 1276; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cabinet' start in text:1261 end in text: 1268; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Members' start in text:1269 end in text: 1276; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'agreed' start in text:1282 end in text: 1288; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'agreed to' start in text:1282 end in text: 1291; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'build' start in text:1292 end in text: 1297; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'new road' start in text:1298 end in text: 1306; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'road' start in text:1302 end in text: 1306; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'railway' start in text:1311 end in text: 1318; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'countries' start in text:1341 end in text: 1350; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Albufeira' start in text:1359 end in text: 1368; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'summit' start in text:1369 end in text: 1375; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a plan' start in text:1390 end in text: 1396; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plan' start in text:1392 end in text: 1396; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'increase' start in text:1400 end in text: 1408; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cooperation' start in text:1409 end in text: 1420; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'police' start in text:1429 end in text: 1435; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the border' start in text:1439 end in text: 1449; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'border' start in text:1443 end in text: 1449; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'curb' start in text:1463 end in text: 1467; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'illegal immigration' start in text:1469 end in text: 1488; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'drug trafficking' start in text:1496 end in text: 1512; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

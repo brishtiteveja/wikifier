@@ -1,0 +1,463 @@
+<ANNOTATION>
+ <a class="wiki" href="http://en.wikipedia.org/wiki/Saddam_Hussein" cat="member	person">Saddam</a>  says U.S. will reap nothing, urges  <a class="wiki" href="http://en.wikipedia.org/wiki/Iran" cat="nation	country	state	republic">Iran</a>  to  <b>normalize</b> ties<br><br> President   <a class="wiki" href="http://en.wikipedia.org/wiki/Saddam_Hussein" cat="member	person">Saddam Hussein</a>    said Saturday the   <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">United States</a>    will reap nothing but a "harvest ... full of thorns'' from its campaign against   <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraq</a>   . <br><br> Addressing the nation on  <b>television</b> to mark the  <b>anniversary</b> of the end of the 1980-88   <a class="wiki" href="http://en.wikipedia.org/wiki/Iran–Iraq_War" cat="war">Iran-Iraq war</a>   ,  <a class="wiki" href="http://en.wikipedia.org/wiki/Saddam_Hussein" cat="member	person">Saddam</a>  also urged  <a class="wiki" href="http://en.wikipedia.org/wiki/Iran" cat="nation	country	state	republic">Iran</a>  to  <b>normalize</b> relations with  <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraq</a> . <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Saddam_Hussein" cat="member	person">Saddam</a>  did not refer to his decision Wednesday to  <b>freeze</b>  <b>cooperation</b> with   <a class="wiki" href="http://en.wikipedia.org/wiki/United_Nations_Special_Commission" cat="">U.N.</a>    arms inspectors, but he said the  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">United States</a>  and its   <b>allies</b>   would be misled if they thought they could bring  <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraq</a>  to its knees. <br><br> This is exactly what the   <a class="wiki" href="http://en.wikipedia.org/wiki/Politics_of_Iran" cat="politics">Iranian government</a>    under the late   <a class="wiki" href="http://en.wikipedia.org/wiki/Ruhollah_Khomeini" cat="tree	poet	person	leaders	imam">Ayatollah Ruhollah Khomeini</a>    thought it could do in the war, but it failed,  <a class="wiki" href="http://en.wikipedia.org/wiki/Saddam_Hussein" cat="member	person">Saddam</a>  said. <br><br> "Those imposing  <b>aggression</b> on  <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraq</a>  ... and the unfair   <b>embargo</b>   neglect this fact today,''  <a class="wiki" href="http://en.wikipedia.org/wiki/Saddam_Hussein" cat="member	person">Saddam</a>  said, referring to sweeping   <b>sanctions</b>    <b>the United Nations</b> imposed after  <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraq</a> 's  <b>1990</b> invasion of   <a class="wiki" href="http://en.wikipedia.org/wiki/Kuwait" cat="state	country">Kuwait</a>   . <br><br> "They are making the same mistake. Their harvest will be full of thorns and the outcome will be a  <b>taste</b> of  <b>bitterness</b>.'' <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/George_W._Bush" cat="convert	owner	alumnus	aviator	candidate	executive	republican	president	industrialist	person	politician	player	methodists	officer	episcopalian	recipient	nominee	speaker">The president</a>  delivered his speech in a  <b>black suit</b>. He had decreed that Saturday be celebrated as a day of victory over  <a class="wiki" href="http://en.wikipedia.org/wiki/Iran" cat="nation	country	state	republic">Iran</a> , and an   <b>artillery</b>   salute of 101  <b>guns</b> boomed over   <a class="wiki" href="http://en.wikipedia.org/wiki/Baghdad" cat="capital	community	place	establishment">Baghdad</a>    in the  <b>early morning</b>.  <a class="wiki" href="http://en.wikipedia.org/wiki/Radio_New_Zealand_National" cat="stations">National radio</a>  and  <b>television</b> played   <b>patriotic</b>  songs for the occasion. <br><br> Saddam spoke, 7th graf pvs <br><br>
+</ANNOTATION>
+*Entity:[Saddam,textSpan=(0-9)]	-Disambiguation:(tid=29490, Title name=Saddam_Hussein) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[U.S.,textSpan=(15-19)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reap,textSpan=(25-29)]	-Disambiguation:(tid=7839016, Title name=Reap) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran,textSpan=(45-49)]	-Disambiguation:(tid=14653, Title name=Iran) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[normalize,textSpan=(53-62)]	-Disambiguation:(tid=499386, Title name=Normalization) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ties,textSpan=(63-67)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saddam Hussein,textSpan=(81-95)]	-Disambiguation:(tid=29490, Title name=Saddam_Hussein) gold wikification:=Saddam_Hussein isCorrectPrediction=Correct
+*Entity:[Saturday the United States,textSpan=(103-130)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saturday,textSpan=(103-111)]	-Disambiguation:(tid=54631, Title name=Saturday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United States,textSpan=(117-130)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=United_States isCorrectPrediction=Correct
+*Entity:[reap,textSpan=(138-142)]	-Disambiguation:(tid=7839016, Title name=Reap) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[thorns,textSpan=(178-184)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[campaign,textSpan=(196-204)]	-Disambiguation:(tid=519775, Title name=Political_campaign) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq,textSpan=(214-218)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=Iraq isCorrectPrediction=Correct
+*Entity:[the nation,textSpan=(236-246)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nation,textSpan=(240-246)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[television,textSpan=(250-260)]	-Disambiguation:(tid=29831, Title name=Television) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[mark,textSpan=(264-268)]	-Disambiguation:(tid=19049, Title name=Mark) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the anniversary,textSpan=(269-284)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[anniversary,textSpan=(273-284)]	-Disambiguation:(tid=477069, Title name=Anniversary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the end,textSpan=(288-295)]	-Disambiguation:(tid=6031490, Title name=Sukhumi_massacre) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran-Iraq,textSpan=(312-321)]	-Disambiguation:(tid=14889, Title name=Iran–Iraq_War) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran-Iraq war,textSpan=(312-325)]	-Disambiguation:(tid=14889, Title name=Iran–Iraq_War) gold wikification:=Iran–Iraq_War isCorrectPrediction=Correct
+*Entity:[Saddam,textSpan=(329-335)]	-Disambiguation:(tid=29490, Title name=Saddam_Hussein) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran,textSpan=(347-351)]	-Disambiguation:(tid=14653, Title name=Iran) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[normalize,textSpan=(355-364)]	-Disambiguation:(tid=499386, Title name=Normalization) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[relations,textSpan=(365-374)]	-Disambiguation:(tid=43259, Title name=Diplomacy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq,textSpan=(380-384)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saddam,textSpan=(389-395)]	-Disambiguation:(tid=29490, Title name=Saddam_Hussein) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[did not,textSpan=(396-403)]	-Disambiguation:(tid=25762, Title name=Russian_Revolution) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[refer,textSpan=(404-409)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[decision,textSpan=(417-425)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wednesday,textSpan=(426-435)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[freeze,textSpan=(439-445)]	-Disambiguation:(tid=3826929, Title name=Freeze_(b-boy_move)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cooperation,textSpan=(446-457)]	-Disambiguation:(tid=43259, Title name=Diplomacy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[U.N.,textSpan=(464-468)]	-Disambiguation:(tid=173504, Title name=United_Nations_Special_Commission) gold wikification:=United_Nations isCorrectPrediction=Incorrect
+*Entity:[the United States,textSpan=(500-517)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United States,textSpan=(504-517)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United,textSpan=(504-510)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[States,textSpan=(511-517)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[allies,textSpan=(527-533)]	-Disambiguation:(tid=2198844, Title name=Allies_of_World_War_II) gold wikification:=Allies isCorrectPrediction=Incorrect
+*Entity:[misled,textSpan=(545-551)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bring,textSpan=(579-584)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq,textSpan=(585-589)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[knees,textSpan=(597-602)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[This,textSpan=(607-611)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iranian government,textSpan=(633-651)]	-Disambiguation:(tid=64702, Title name=Politics_of_Iran) gold wikification:=Politics_of_Iran isCorrectPrediction=Correct
+*Entity:[Iranian,textSpan=(633-640)]	-Disambiguation:(tid=14653, Title name=Iran) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Ayatollah Ruhollah Khomeini,textSpan=(670-697)]	-Disambiguation:(tid=26232, Title name=Ruhollah_Khomeini) gold wikification:=Ruhollah_Khomeini isCorrectPrediction=Correct
+*Entity:[Ruhollah Khomeini,textSpan=(680-697)]	-Disambiguation:(tid=26232, Title name=Ruhollah_Khomeini) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the war,textSpan=(723-730)]	-Disambiguation:(tid=14889, Title name=Iran–Iraq_War) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[war,textSpan=(727-730)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saddam,textSpan=(747-753)]	-Disambiguation:(tid=29490, Title name=Saddam_Hussein) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[aggression,textSpan=(779-789)]	-Disambiguation:(tid=608199, Title name=War_of_aggression) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq,textSpan=(793-797)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[embargo,textSpan=(818-825)]	-Disambiguation:(tid=61660, Title name=Embargo) gold wikification:=Embargo isCorrectPrediction=Correct
+*Entity:[fact,textSpan=(841-845)]	-Disambiguation:(tid=58617, Title name=Fact) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[today,textSpan=(846-851)]	-Disambiguation:(tid=35825, Title name=2008) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:['',textSpan=(852-854)]	-Disambiguation:(tid=10671108, Title name=Dirty_(film)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saddam,textSpan=(855-861)]	-Disambiguation:(tid=29490, Title name=Saddam_Hussein) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sanctions,textSpan=(891-900)]	-Disambiguation:(tid=411320, Title name=Economic_sanctions) gold wikification:=Sanctions isCorrectPrediction=Incorrect
+*Entity:[the United Nations,textSpan=(903-921)]	-Disambiguation:(tid=31769, Title name=United_Nations) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United,textSpan=(907-913)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United Nations,textSpan=(907-921)]	-Disambiguation:(tid=31769, Title name=United_Nations) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Nations,textSpan=(914-921)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq,textSpan=(936-940)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1990,textSpan=(943-947)]	-Disambiguation:(tid=34635, Title name=1990) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[invasion,textSpan=(948-956)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Kuwait,textSpan=(961-967)]	-Disambiguation:(tid=7515890, Title name=Kuwait) gold wikification:=Kuwait isCorrectPrediction=Correct
+*Entity:[making,textSpan=(984-990)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the same,textSpan=(991-999)]	-Disambiguation:(tid=1363640, Title name=300_(comics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[same mistake,textSpan=(995-1007)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[mistake,textSpan=(1000-1007)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Their,textSpan=(1009-1014)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[harvest,textSpan=(1015-1022)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[thorns,textSpan=(1039-1045)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the outcome,textSpan=(1050-1061)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[outcome,textSpan=(1054-1061)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[taste,textSpan=(1072-1077)]	-Disambiguation:(tid=47205, Title name=Taste) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bitterness,textSpan=(1081-1091)]	-Disambiguation:(tid=4394, Title name=Bitter) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The president,textSpan=(1098-1111)]	-Disambiguation:(tid=3414021, Title name=George_W._Bush) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[president,textSpan=(1102-1111)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[speech,textSpan=(1126-1132)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[black,textSpan=(1138-1143)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[black suit,textSpan=(1138-1148)]	-Disambiguation:(tid=2951632, Title name=Symbiote_(comics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[suit,textSpan=(1144-1148)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[He,textSpan=(1150-1152)]	-Disambiguation:(tid=7907317, Title name=Mahmoud_Ahmadinejad) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[decreed,textSpan=(1157-1164)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saturday,textSpan=(1170-1178)]	-Disambiguation:(tid=54631, Title name=Saturday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a day,textSpan=(1196-1201)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[day,textSpan=(1198-1201)]	-Disambiguation:(tid=180283, Title name=Calendar_of_saints) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[victory,textSpan=(1205-1212)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran,textSpan=(1218-1222)]	-Disambiguation:(tid=14653, Title name=Iran) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[artillery,textSpan=(1232-1241)]	-Disambiguation:(tid=2508, Title name=Artillery) gold wikification:=Artillery isCorrectPrediction=Correct
+*Entity:[101,textSpan=(1254-1257)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[guns,textSpan=(1258-1262)]	-Disambiguation:(tid=7053, Title name=Cannon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Baghdad,textSpan=(1276-1283)]	-Disambiguation:(tid=4492, Title name=Baghdad) gold wikification:=Baghdad isCorrectPrediction=Correct
+*Entity:[the early,textSpan=(1289-1298)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[early,textSpan=(1293-1298)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[early morning,textSpan=(1293-1306)]	-Disambiguation:(tid=650327, Title name=Morning) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[morning,textSpan=(1299-1306)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[National,textSpan=(1308-1316)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[National radio,textSpan=(1308-1322)]	-Disambiguation:(tid=953958, Title name=Radio_New_Zealand_National) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radio and television,textSpan=(1317-1337)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radio,textSpan=(1317-1322)]	-Disambiguation:(tid=5523819, Title name=National_Radio_Company) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[television,textSpan=(1327-1337)]	-Disambiguation:(tid=29831, Title name=Television) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[patriotic,textSpan=(1346-1355)]	-Disambiguation:(tid=24552, Title name=Patriotism) gold wikification:=Patriotism isCorrectPrediction=Correct
+*Entity:[occasion,textSpan=(1371-1379)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saddam,textSpan=(1384-1390)]	-Disambiguation:(tid=29490, Title name=Saddam_Hussein) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[7th,textSpan=(1398-1401)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[graf,textSpan=(1402-1406)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pvs,textSpan=(1407-1410)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Saddam' start in text:0 end in text: 9; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'U.S.' start in text:15 end in text: 19; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reap' start in text:25 end in text: 29; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iran' start in text:45 end in text: 49; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'normalize' start in text:53 end in text: 62; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ties' start in text:63 end in text: 67; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saddam Hussein' start in text:81 end in text: 95; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saturday the United States' start in text:103 end in text: 130; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Saturday' start in text:103 end in text: 111; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United States' start in text:117 end in text: 130; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reap' start in text:138 end in text: 142; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'thorns' start in text:178 end in text: 184; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'campaign' start in text:196 end in text: 204; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq' start in text:214 end in text: 218; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the nation' start in text:236 end in text: 246; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nation' start in text:240 end in text: 246; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'television' start in text:250 end in text: 260; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'mark' start in text:264 end in text: 268; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the anniversary' start in text:269 end in text: 284; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'anniversary' start in text:273 end in text: 284; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the end' start in text:288 end in text: 295; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iran-Iraq' start in text:312 end in text: 321; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iran-Iraq war' start in text:312 end in text: 325; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saddam' start in text:329 end in text: 335; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iran' start in text:347 end in text: 351; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'normalize' start in text:355 end in text: 364; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'relations' start in text:365 end in text: 374; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq' start in text:380 end in text: 384; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saddam' start in text:389 end in text: 395; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'did not' start in text:396 end in text: 403; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'refer' start in text:404 end in text: 409; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'decision' start in text:417 end in text: 425; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wednesday' start in text:426 end in text: 435; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'freeze' start in text:439 end in text: 445; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cooperation' start in text:446 end in text: 457; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'U.N.' start in text:464 end in text: 468; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the United States' start in text:500 end in text: 517; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United States' start in text:504 end in text: 517; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United' start in text:504 end in text: 510; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'States' start in text:511 end in text: 517; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'allies' start in text:527 end in text: 533; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'misled' start in text:545 end in text: 551; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bring' start in text:579 end in text: 584; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Iraq' start in text:585 end in text: 589; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'knees' start in text:597 end in text: 602; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'This' start in text:607 end in text: 611; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iranian government' start in text:633 end in text: 651; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iranian' start in text:633 end in text: 640; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Ayatollah Ruhollah Khomeini' start in text:670 end in text: 697; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Ruhollah Khomeini' start in text:680 end in text: 697; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the war' start in text:723 end in text: 730; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'war' start in text:727 end in text: 730; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saddam' start in text:747 end in text: 753; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'aggression' start in text:779 end in text: 789; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq' start in text:793 end in text: 797; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'embargo' start in text:818 end in text: 825; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fact' start in text:841 end in text: 845; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'today' start in text:846 end in text: 851; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '''' start in text:852 end in text: 854; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saddam' start in text:855 end in text: 861; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sanctions' start in text:891 end in text: 900; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the United Nations' start in text:903 end in text: 921; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United' start in text:907 end in text: 913; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United Nations' start in text:907 end in text: 921; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Nations' start in text:914 end in text: 921; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq' start in text:936 end in text: 940; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1990' start in text:943 end in text: 947; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'invasion' start in text:948 end in text: 956; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Kuwait' start in text:961 end in text: 967; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'making' start in text:984 end in text: 990; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the same' start in text:991 end in text: 999; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'same mistake' start in text:995 end in text: 1007; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'mistake' start in text:1000 end in text: 1007; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Their' start in text:1009 end in text: 1014; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'harvest' start in text:1015 end in text: 1022; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'thorns' start in text:1039 end in text: 1045; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the outcome' start in text:1050 end in text: 1061; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'outcome' start in text:1054 end in text: 1061; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'taste' start in text:1072 end in text: 1077; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bitterness' start in text:1081 end in text: 1091; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The president' start in text:1098 end in text: 1111; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'president' start in text:1102 end in text: 1111; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'speech' start in text:1126 end in text: 1132; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'black' start in text:1138 end in text: 1143; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'black suit' start in text:1138 end in text: 1148; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'suit' start in text:1144 end in text: 1148; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'He' start in text:1150 end in text: 1152; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'decreed' start in text:1157 end in text: 1164; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saturday' start in text:1170 end in text: 1178; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a day' start in text:1196 end in text: 1201; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'day' start in text:1198 end in text: 1201; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'victory' start in text:1205 end in text: 1212; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iran' start in text:1218 end in text: 1222; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'artillery' start in text:1232 end in text: 1241; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '101' start in text:1254 end in text: 1257; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'guns' start in text:1258 end in text: 1262; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Baghdad' start in text:1276 end in text: 1283; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the early' start in text:1289 end in text: 1298; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'early' start in text:1293 end in text: 1298; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'early morning' start in text:1293 end in text: 1306; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'morning' start in text:1299 end in text: 1306; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'National' start in text:1308 end in text: 1316; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'National radio' start in text:1308 end in text: 1322; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radio and television' start in text:1317 end in text: 1337; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radio' start in text:1317 end in text: 1322; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'television' start in text:1327 end in text: 1337; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'patriotic' start in text:1346 end in text: 1355; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'occasion' start in text:1371 end in text: 1379; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saddam' start in text:1384 end in text: 1390; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '7th' start in text:1398 end in text: 1401; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'graf' start in text:1402 end in text: 1406; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pvs' start in text:1407 end in text: 1410; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+

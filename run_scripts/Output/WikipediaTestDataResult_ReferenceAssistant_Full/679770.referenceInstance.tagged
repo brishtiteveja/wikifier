@@ -1,0 +1,488 @@
+<ReferenceProblem>
+	<ReferenceFileName>
+		679770
+	</ReferenceFileName>
+<ReferenceInstance>
+	<SurfaceForm>
+		Bulgaria
+	</SurfaceForm>
+	<Offset>
+		75
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Bulgaria
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Bulgaria
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Bulgarian Football Union
+	</SurfaceForm>
+	<Offset>
+		113
+	</Offset>
+	<Length>
+		24
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Bulgarian_Football_Union
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Bulgarian_Football_Union
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		World Cup
+	</SurfaceForm>
+	<Offset>
+		159
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/FIFA_World_Cup
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/FIFA_World_Cup
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		1994 World Cup
+	</SurfaceForm>
+	<Offset>
+		196
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Germany
+	</SurfaceForm>
+	<Offset>
+		239
+	</Offset>
+	<Length>
+		7
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Germany_national_football_team
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Germany_national_football_team
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Italy
+	</SurfaceForm>
+	<Offset>
+		287
+	</Offset>
+	<Length>
+		5
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Italy_national_football_team
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Italy_national_football_team
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Sweden
+	</SurfaceForm>
+	<Offset>
+		350
+	</Offset>
+	<Length>
+		6
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Sweden_national_football_team
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Sweden_national_football_team
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		1962 World Cup
+	</SurfaceForm>
+	<Offset>
+		441
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Chile
+	</SurfaceForm>
+	<Offset>
+		463
+	</Offset>
+	<Length>
+		5
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Chile_national_football_team
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Chile_national_football_team
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		1966
+	</SurfaceForm>
+	<Offset>
+		557
+	</Offset>
+	<Length>
+		4
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Mexico
+	</SurfaceForm>
+	<Offset>
+		567
+	</Offset>
+	<Length>
+		6
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Mexico_national_football_team
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Mexico_national_football_team
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		1970
+	</SurfaceForm>
+	<Offset>
+		581
+	</Offset>
+	<Length>
+		4
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/1970_FIFA_World_Cup
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/1970_FIFA_World_Cup
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		West Germany
+	</SurfaceForm>
+	<Offset>
+		595
+	</Offset>
+	<Length>
+		12
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Germany_national_football_team
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Germany_national_football_team
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		1974
+	</SurfaceForm>
+	<Offset>
+		615
+	</Offset>
+	<Length>
+		4
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		1986
+	</SurfaceForm>
+	<Offset>
+		672
+	</Offset>
+	<Length>
+		4
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		1998 World Cup
+	</SurfaceForm>
+	<Offset>
+		1453
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Euro 2000
+	</SurfaceForm>
+	<Offset>
+		1676
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/UEFA_Euro_2000
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/UEFA_Euro_2000
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		2002 World Cup
+	</SurfaceForm>
+	<Offset>
+		1702
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Euro 2004
+	</SurfaceForm>
+	<Offset>
+		1740
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/UEFA_Euro_2004
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/UEFA_Euro_2004
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Vasil Levski
+	</SurfaceForm>
+	<Offset>
+		1953
+	</Offset>
+	<Length>
+		12
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Vasil_Levski
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Vasil_Levski
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Chelsea F.C.
+	</SurfaceForm>
+	<Offset>
+		2273
+	</Offset>
+	<Length>
+		12
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Chelsea_F.C.
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Chelsea_F.C.
+		</Annotation>
+</ReferenceInstance>
+</ReferenceProblem>

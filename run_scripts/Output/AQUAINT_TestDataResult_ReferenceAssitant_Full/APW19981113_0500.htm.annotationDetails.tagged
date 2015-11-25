@@ -1,0 +1,458 @@
+<ANNOTATION>
+ <a class="wiki" href="http://en.wikipedia.org/wiki/Airport_(film)" cat="">Airport</a>  ready for operation;  <a class="wiki" href="http://en.wikipedia.org/wiki/Palestinian_people" cat="group	citizen	person">Palestinians</a>  await word from  <a class="wiki" href="http://en.wikipedia.org/wiki/Israel" cat="republic	country	state	words">Israel</a> <br><br> The new   <a class="wiki" href="http://en.wikipedia.org/wiki/Palestinian_people" cat="group	citizen	person">Palestinian</a>     airport  , a powerful  <b>symbol</b> of fledgling  <b>independence</b>, is ready to open, the head of the Palestinian   <b>Civil Aviation</b>   Authority said  <b>Friday</b> after an operations drill with   <a class="wiki" href="http://en.wikipedia.org/wiki/Israelis" cat="person">Israeli</a>    officials. <br><br>   <a class="wiki" href="http://en.wikipedia.org/wiki/Yasser_Arafat_International_Airport" cat="airport	building">Yasser Arafat International Airport</a>    in the southern   <a class="wiki" href="http://en.wikipedia.org/wiki/Gaza_Strip" cat="">Gaza Strip</a>    was to have opened last week as part of the   <a class="wiki" href="http://en.wikipedia.org/wiki/Israeli–Palestinian_conflict" cat="dispute">Israeli-Palestinian</a>  peace agreement  . However,  <a class="wiki" href="http://en.wikipedia.org/wiki/Israel" cat="republic	country	state	words">Israel</a>  fell behind schedule when it held up Cabinet  <b>ratification</b> of the accord by two weeks. <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Prime_Minister_of_Israel" cat="">Prime Minister</a>   <a class="wiki" href="http://en.wikipedia.org/wiki/Benjamin_Netanyahu" cat="jew	leaders	member	person	politician	alumnus	representative	minister">Benjamin Netanyahu</a>  has said the  <b>airport</b> would start operating next week, but has not set a date. <br><br> On  <b>Thursday</b>,  <a class="wiki" href="http://en.wikipedia.org/wiki/Israelis" cat="person">Israeli</a>  and  <a class="wiki" href="http://en.wikipedia.org/wiki/Palestinian_people" cat="group	citizen	person">Palestinian</a>  officials staged a four-hour  <b>drill</b>, said Fayez Zeidan, head of the Palestinian   <a class="wiki" href="http://en.wikipedia.org/wiki/Civil_Aviation_Authority_(United_Kingdom)" cat="authorities	organisation	corporation">Civil Aviation Authority</a>   . <br><br> About 100  <a class="wiki" href="http://en.wikipedia.org/wiki/Palestinian_people" cat="group	citizen	person">Palestinian</a>   <b>airport</b> employees and 50   <a class="wiki" href="http://en.wikipedia.org/wiki/Israelis" cat="person">Israelis</a>    who will share   <b>security</b>   duties played the roles of passengers and  <b>airport</b> personnel. For lack of a  <b>plane</b>, the "passengers'' arrived by   <b>bus</b> . <br><br> Zeidan said the  <b>exercise</b> covered  <b>arrival and departure</b> procedures, including  <b>passport</b>  <b>checks</b> as well as  <b>customs</b> and  <b>luggage</b>  <b>inspection</b>. <br><br> He said the  <b>airport</b> was ready for operation. "We just  <b>need to</b> hear from the Israelis,'' Zeidan said. sa-kl <br><br>
+</ANNOTATION>
+*Entity:[Airport,textSpan=(0-10)]	-Disambiguation:(tid=99459, Title name=Airport_(film)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[operation,textSpan=(21-30)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Palestinians,textSpan=(32-44)]	-Disambiguation:(tid=23267, Title name=Palestinian_people) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[word,textSpan=(51-55)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israel,textSpan=(61-67)]	-Disambiguation:(tid=9282173, Title name=Israel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Palestinian,textSpan=(79-90)]	-Disambiguation:(tid=23267, Title name=Palestinian_people) gold wikification:=Palestinian_people isCorrectPrediction=Correct
+*Entity:[airport,textSpan=(94-101)]	-Disambiguation:*null* gold wikification:=Airport isCorrectPrediction=Incorrect
+*Entity:[powerful,textSpan=(107-115)]	-Disambiguation:(tid=147885, Title name=Power_(social_and_political)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[symbol,textSpan=(116-122)]	-Disambiguation:(tid=37673, Title name=Symbol) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fledgling,textSpan=(126-135)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[independence,textSpan=(136-148)]	-Disambiguation:(tid=14696, Title name=Israeli_Declaration_of_Independence) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the head,textSpan=(168-176)]	-Disambiguation:(tid=320917, Title name=David_Geffen) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[head,textSpan=(172-176)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Palestinian Civil Aviation Authority,textSpan=(184-223)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Civil Aviation,textSpan=(197-211)]	-Disambiguation:(tid=296168, Title name=Civil_aviation) gold wikification:=Civil_aviation isCorrectPrediction=Correct
+*Entity:[Friday,textSpan=(229-235)]	-Disambiguation:(tid=54632, Title name=Friday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[operations,textSpan=(245-255)]	-Disambiguation:(tid=314792, Title name=Operation_Defensive_Shield) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli,textSpan=(268-275)]	-Disambiguation:(tid=181296, Title name=Israelis) gold wikification:=Israel isCorrectPrediction=Incorrect
+*Entity:[Yasser Arafat International Airport,textSpan=(293-328)]	-Disambiguation:(tid=1765793, Title name=Yasser_Arafat_International_Airport) gold wikification:=Yasser_Arafat_International_Airport isCorrectPrediction=Correct
+*Entity:[Yasser,textSpan=(293-299)]	-Disambiguation:(tid=1591749, Title name=Yasser_Hashemi_Rafsanjani) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yasser Arafat,textSpan=(293-306)]	-Disambiguation:(tid=34289, Title name=Yasser_Arafat) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Arafat,textSpan=(300-306)]	-Disambiguation:(tid=34289, Title name=Yasser_Arafat) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Arafat International Airport,textSpan=(300-328)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[International Airport,textSpan=(307-328)]	-Disambiguation:(tid=1765793, Title name=Yasser_Arafat_International_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[International,textSpan=(307-320)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Airport,textSpan=(321-328)]	-Disambiguation:(tid=1519705, Title name=International_airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gaza Strip,textSpan=(348-358)]	-Disambiguation:(tid=12047, Title name=Gaza_Strip) gold wikification:=Gaza_Strip isCorrectPrediction=Correct
+*Entity:[was to,textSpan=(361-367)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[opened,textSpan=(373-379)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[week,textSpan=(385-389)]	-Disambiguation:(tid=33538, Title name=Week) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli-Palestinian,textSpan=(406-425)]	-Disambiguation:(tid=46216, Title name=Israeli–Palestinian_conflict) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[However, Israel,textSpan=(445-460)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israel,textSpan=(454-460)]	-Disambiguation:(tid=9282173, Title name=Israel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[schedule,textSpan=(473-481)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cabinet,textSpan=(498-505)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ratification,textSpan=(506-518)]	-Disambiguation:(tid=429650, Title name=Ratification) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the accord,textSpan=(522-532)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[accord,textSpan=(526-532)]	-Disambiguation:(tid=1124168, Title name=Accord) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[two weeks,textSpan=(536-545)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[weeks,textSpan=(540-545)]	-Disambiguation:(tid=1288424, Title name=Week) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Prime Minister Benjamin Netanyahu,textSpan=(550-583)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Prime,textSpan=(550-555)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Prime Minister,textSpan=(550-564)]	-Disambiguation:(tid=24898, Title name=Prime_Minister_of_Israel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Minister Benjamin Netanyahu,textSpan=(556-583)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Minister,textSpan=(556-564)]	-Disambiguation:(tid=24898, Title name=Prime_Minister_of_Israel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Benjamin Netanyahu,textSpan=(565-583)]	-Disambiguation:(tid=56472, Title name=Benjamin_Netanyahu) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Benjamin,textSpan=(565-573)]	-Disambiguation:(tid=56472, Title name=Benjamin_Netanyahu) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Netanyahu,textSpan=(574-583)]	-Disambiguation:(tid=56472, Title name=Benjamin_Netanyahu) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[said,textSpan=(588-592)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the airport,textSpan=(593-604)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airport,textSpan=(597-604)]	-Disambiguation:(tid=37575, Title name=Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[start,textSpan=(611-616)]	-Disambiguation:(tid=35825, Title name=2008) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[operating,textSpan=(617-626)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[week,textSpan=(632-636)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[has not,textSpan=(642-649)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[set,textSpan=(650-653)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[date,textSpan=(656-660)]	-Disambiguation:(tid=7123, Title name=Calendar_date) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[On Thursday, Israeli and Palestinian,textSpan=(665-701)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Thursday,textSpan=(668-676)]	-Disambiguation:(tid=266139, Title name=Thursday_(band)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Thursday, Israeli and Palestinian,textSpan=(668-701)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli and Palestinian,textSpan=(678-701)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli,textSpan=(678-685)]	-Disambiguation:(tid=181296, Title name=Israelis) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Palestinian,textSpan=(690-701)]	-Disambiguation:(tid=23267, Title name=Palestinian_people) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[officials,textSpan=(702-711)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[drill,textSpan=(731-736)]	-Disambiguation:(tid=205126, Title name=Drill) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Fayez,textSpan=(743-748)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Fayez Zeidan,textSpan=(743-755)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[head,textSpan=(757-761)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Palestinian Civil Aviation Authority,textSpan=(769-806)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Civil Aviation Authority,textSpan=(782-806)]	-Disambiguation:(tid=684737, Title name=Civil_Aviation_Authority_(United_Kingdom)) gold wikification:=National_aviation_authority isCorrectPrediction=Incorrect
+*Entity:[About,textSpan=(813-818)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[100,textSpan=(819-822)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Palestinian,textSpan=(823-834)]	-Disambiguation:(tid=23267, Title name=Palestinian_people) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airport,textSpan=(835-842)]	-Disambiguation:(tid=37575, Title name=Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[employees,textSpan=(843-852)]	-Disambiguation:(tid=314993, Title name=Employment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israelis,textSpan=(861-869)]	-Disambiguation:(tid=181296, Title name=Israelis) gold wikification:=Israelis isCorrectPrediction=Correct
+*Entity:[share,textSpan=(881-886)]	-Disambiguation:(tid=866243, Title name=Share) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[security,textSpan=(888-896)]	-Disambiguation:(tid=41684, Title name=Security) gold wikification:=Airport_security isCorrectPrediction=Incorrect
+*Entity:[roles,textSpan=(917-922)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[passengers,textSpan=(926-936)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airport,textSpan=(941-948)]	-Disambiguation:(tid=37575, Title name=Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[personnel,textSpan=(949-958)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[lack,textSpan=(964-968)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plane,textSpan=(974-979)]	-Disambiguation:(tid=46770, Title name=Fixed-wing_aircraft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bus,textSpan=(1011-1014)]	-Disambiguation:(tid=4146, Title name=Bus) gold wikification:=Bus isCorrectPrediction=Correct
+*Entity:[Zeidan,textSpan=(1020-1026)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[exercise,textSpan=(1036-1044)]	-Disambiguation:(tid=189037, Title name=Physical_exercise) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[arrival and departure,textSpan=(1053-1074)]	-Disambiguation:(tid=1402490, Title name=Arrival_and_Departure) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[arrival,textSpan=(1053-1060)]	-Disambiguation:(tid=1558839, Title name=Arrival) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[departure,textSpan=(1065-1074)]	-Disambiguation:(tid=1048636, Title name=Departure) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[procedures,textSpan=(1075-1085)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[passport,textSpan=(1097-1105)]	-Disambiguation:(tid=23287, Title name=Passport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[checks,textSpan=(1106-1112)]	-Disambiguation:(tid=1267494, Title name=Cheque) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[customs,textSpan=(1124-1131)]	-Disambiguation:(tid=59214, Title name=Customs) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[luggage,textSpan=(1136-1143)]	-Disambiguation:(tid=979665, Title name=Baggage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[inspection,textSpan=(1144-1154)]	-Disambiguation:(tid=467888, Title name=Inspection) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[He,textSpan=(1159-1161)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the airport,textSpan=(1167-1178)]	-Disambiguation:(tid=248457, Title name=Hong_Kong_International_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airport,textSpan=(1171-1178)]	-Disambiguation:(tid=37575, Title name=Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[operation,textSpan=(1193-1202)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[We,textSpan=(1205-1207)]	-Disambiguation:(tid=234555, Title name=We_(novel)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[need to,textSpan=(1213-1220)]	-Disambiguation:(tid=5653743, Title name=Need_To) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[need,textSpan=(1213-1217)]	-Disambiguation:(tid=622545, Title name=Need) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hear,textSpan=(1221-1225)]	-Disambiguation:(tid=331264, Title name=Hearing_(sense)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israelis,textSpan=(1235-1243)]	-Disambiguation:(tid=181296, Title name=Israelis) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:['',textSpan=(1244-1246)]	-Disambiguation:(tid=10671108, Title name=Dirty_(film)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Zeidan,textSpan=(1247-1253)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[said.,textSpan=(1254-1259)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Airport' start in text:0 end in text: 10; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'operation' start in text:21 end in text: 30; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Palestinians' start in text:32 end in text: 44; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'word' start in text:51 end in text: 55; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israel' start in text:61 end in text: 67; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Palestinian' start in text:79 end in text: 90; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airport' start in text:94 end in text: 101; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'powerful' start in text:107 end in text: 115; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'symbol' start in text:116 end in text: 122; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fledgling' start in text:126 end in text: 135; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'independence' start in text:136 end in text: 148; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the head' start in text:168 end in text: 176; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'head' start in text:172 end in text: 176; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Palestinian Civil Aviation Authority' start in text:184 end in text: 223; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Civil Aviation' start in text:197 end in text: 211; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Friday' start in text:229 end in text: 235; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'operations' start in text:245 end in text: 255; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israeli' start in text:268 end in text: 275; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yasser Arafat International Airport' start in text:293 end in text: 328; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yasser' start in text:293 end in text: 299; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yasser Arafat' start in text:293 end in text: 306; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Arafat' start in text:300 end in text: 306; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Arafat International Airport' start in text:300 end in text: 328; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'International Airport' start in text:307 end in text: 328; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'International' start in text:307 end in text: 320; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Airport' start in text:321 end in text: 328; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Gaza Strip' start in text:348 end in text: 358; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'was to' start in text:361 end in text: 367; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'opened' start in text:373 end in text: 379; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'week' start in text:385 end in text: 389; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israeli-Palestinian' start in text:406 end in text: 425; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'However, Israel' start in text:445 end in text: 460; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Israel' start in text:454 end in text: 460; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'schedule' start in text:473 end in text: 481; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cabinet' start in text:498 end in text: 505; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ratification' start in text:506 end in text: 518; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the accord' start in text:522 end in text: 532; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'accord' start in text:526 end in text: 532; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'two weeks' start in text:536 end in text: 545; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'weeks' start in text:540 end in text: 545; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Prime Minister Benjamin Netanyahu' start in text:550 end in text: 583; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Prime' start in text:550 end in text: 555; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Prime Minister' start in text:550 end in text: 564; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Minister Benjamin Netanyahu' start in text:556 end in text: 583; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Minister' start in text:556 end in text: 564; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Benjamin Netanyahu' start in text:565 end in text: 583; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Benjamin' start in text:565 end in text: 573; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Netanyahu' start in text:574 end in text: 583; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'said' start in text:588 end in text: 592; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the airport' start in text:593 end in text: 604; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airport' start in text:597 end in text: 604; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'start' start in text:611 end in text: 616; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'operating' start in text:617 end in text: 626; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'week' start in text:632 end in text: 636; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'has not' start in text:642 end in text: 649; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'set' start in text:650 end in text: 653; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'date' start in text:656 end in text: 660; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'On Thursday, Israeli and Palestinian' start in text:665 end in text: 701; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Thursday' start in text:668 end in text: 676; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thursday, Israeli and Palestinian' start in text:668 end in text: 701; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Israeli and Palestinian' start in text:678 end in text: 701; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Israeli' start in text:678 end in text: 685; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Palestinian' start in text:690 end in text: 701; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'officials' start in text:702 end in text: 711; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'drill' start in text:731 end in text: 736; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Fayez' start in text:743 end in text: 748; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Fayez Zeidan' start in text:743 end in text: 755; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'head' start in text:757 end in text: 761; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Palestinian Civil Aviation Authority' start in text:769 end in text: 806; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Civil Aviation Authority' start in text:782 end in text: 806; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'About' start in text:813 end in text: 818; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '100' start in text:819 end in text: 822; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Palestinian' start in text:823 end in text: 834; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airport' start in text:835 end in text: 842; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'employees' start in text:843 end in text: 852; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israelis' start in text:861 end in text: 869; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'share' start in text:881 end in text: 886; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'security' start in text:888 end in text: 896; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'roles' start in text:917 end in text: 922; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'passengers' start in text:926 end in text: 936; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airport' start in text:941 end in text: 948; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'personnel' start in text:949 end in text: 958; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'lack' start in text:964 end in text: 968; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plane' start in text:974 end in text: 979; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bus' start in text:1011 end in text: 1014; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Zeidan' start in text:1020 end in text: 1026; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'exercise' start in text:1036 end in text: 1044; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'arrival and departure' start in text:1053 end in text: 1074; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'arrival' start in text:1053 end in text: 1060; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'departure' start in text:1065 end in text: 1074; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'procedures' start in text:1075 end in text: 1085; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'passport' start in text:1097 end in text: 1105; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'checks' start in text:1106 end in text: 1112; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'customs' start in text:1124 end in text: 1131; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'luggage' start in text:1136 end in text: 1143; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'inspection' start in text:1144 end in text: 1154; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'He' start in text:1159 end in text: 1161; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the airport' start in text:1167 end in text: 1178; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airport' start in text:1171 end in text: 1178; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'operation' start in text:1193 end in text: 1202; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'We' start in text:1205 end in text: 1207; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'need to' start in text:1213 end in text: 1220; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'need' start in text:1213 end in text: 1217; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hear' start in text:1221 end in text: 1225; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israelis' start in text:1235 end in text: 1243; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '''' start in text:1244 end in text: 1246; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Zeidan' start in text:1247 end in text: 1253; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'said.' start in text:1254 end in text: 1259; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

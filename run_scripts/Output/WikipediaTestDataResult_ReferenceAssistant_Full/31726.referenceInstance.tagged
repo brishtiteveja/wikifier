@@ -1,0 +1,2420 @@
+<ReferenceProblem>
+	<ReferenceFileName>
+		31726
+	</ReferenceFileName>
+<ReferenceInstance>
+	<SurfaceForm>
+		constitutional monarchy
+	</SurfaceForm>
+	<Offset>
+		109
+	</Offset>
+	<Length>
+		23
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Constitutional_monarchy
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Constitutional_monarchy
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Monarch
+	</SurfaceForm>
+	<Offset>
+		151
+	</Offset>
+	<Length>
+		7
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Monarchy
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Monarchy
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		head of state
+	</SurfaceForm>
+	<Offset>
+		166
+	</Offset>
+	<Length>
+		13
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Head_of_state
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Head_of_state
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Prime Minister
+	</SurfaceForm>
+	<Offset>
+		192
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Prime_Minister_of_the_United_Kingdom
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Prime_Minister_of_the_United_Kingdom
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		United Kingdom
+	</SurfaceForm>
+	<Offset>
+		218
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/United_Kingdom
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/United_Kingdom
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		head of government
+	</SurfaceForm>
+	<Offset>
+		244
+	</Offset>
+	<Length>
+		18
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Head_of_government
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Head_of_government
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Executive power
+	</SurfaceForm>
+	<Offset>
+		268
+	</Offset>
+	<Length>
+		15
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Executive_(government)
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Executive_(government)
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		UK government
+	</SurfaceForm>
+	<Offset>
+		308
+	</Offset>
+	<Length>
+		13
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		devolved
+	</SurfaceForm>
+	<Offset>
+		334
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Devolution
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Devolution
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Scotland
+	</SurfaceForm>
+	<Offset>
+		362
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Scotland
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Scotland
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Wales
+	</SurfaceForm>
+	<Offset>
+		379
+	</Offset>
+	<Length>
+		5
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Wales
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Wales
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Legislative power
+	</SurfaceForm>
+	<Offset>
+		432
+	</Offset>
+	<Length>
+		17
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Legislature
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Legislature
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		House of Commons
+	</SurfaceForm>
+	<Offset>
+		527
+	</Offset>
+	<Length>
+		16
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/House_of_Commons_of_the_United_Kingdom
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/House_of_Commons_of_the_United_Kingdom
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		House of Lords
+	</SurfaceForm>
+	<Offset>
+		556
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/House_of_Lords
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/House_of_Lords
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Scottish parliament
+	</SurfaceForm>
+	<Offset>
+		594
+	</Offset>
+	<Length>
+		19
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Scottish_Parliament
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Scottish_Parliament
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		judiciary
+	</SurfaceForm>
+	<Offset>
+		663
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Judiciary
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Judiciary
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		senior judges
+	</SurfaceForm>
+	<Offset>
+		745
+	</Offset>
+	<Length>
+		13
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Lords_of_Appeal_in_Ordinary
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Lords_of_Appeal_in_Ordinary
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		House of Lords
+	</SurfaceForm>
+	<Offset>
+		788
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/House_of_Lords
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/House_of_Lords
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		House of Lords
+	</SurfaceForm>
+	<Offset>
+		985
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/House_of_Lords
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/House_of_Lords
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Constitutional Reform Act 2005
+	</SurfaceForm>
+	<Offset>
+		1031
+	</Offset>
+	<Length>
+		30
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Constitutional_Reform_Act_2005
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Constitutional_Reform_Act_2005
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		multi-party system
+	</SurfaceForm>
+	<Offset>
+		1079
+	</Offset>
+	<Length>
+		18
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Multi-party_system
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Multi-party_system
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Conservative Party
+	</SurfaceForm>
+	<Offset>
+		1171
+	</Offset>
+	<Length>
+		18
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Conservative_Party_(UK)
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Conservative_Party_(UK)
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Labour Party
+	</SurfaceForm>
+	<Offset>
+		1202
+	</Offset>
+	<Length>
+		12
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Labour_Party_(UK)
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Labour_Party_(UK)
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Parliamentary
+	</SurfaceForm>
+	<Offset>
+		1297
+	</Offset>
+	<Length>
+		13
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Parliament_of_the_United_Kingdom
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Parliament_of_the_United_Kingdom
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		first-past-the-post
+	</SurfaceForm>
+	<Offset>
+		1329
+	</Offset>
+	<Length>
+		19
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Plurality_voting_system
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Plurality_voting_system
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		general elections
+	</SurfaceForm>
+	<Offset>
+		1379
+	</Offset>
+	<Length>
+		17
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Liberal Democrats
+	</SurfaceForm>
+	<Offset>
+		1567
+	</Offset>
+	<Length>
+		17
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Liberal_Democrats
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Liberal_Democrats
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Liberal Party
+	</SurfaceForm>
+	<Offset>
+		1633
+	</Offset>
+	<Length>
+		13
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Liberal_Party_(UK)
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Liberal_Party_(UK)
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Social Democratic Party
+	</SurfaceForm>
+	<Offset>
+		1655
+	</Offset>
+	<Length>
+		23
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Social_Democratic_Party_(UK)
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Social_Democratic_Party_(UK)
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		devolution
+	</SurfaceForm>
+	<Offset>
+		1978
+	</Offset>
+	<Length>
+		10
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Devolution
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Devolution
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		devolution
+	</SurfaceForm>
+	<Offset>
+		2263
+	</Offset>
+	<Length>
+		10
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Devolution
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Devolution
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Scottish Government
+	</SurfaceForm>
+	<Offset>
+		2540
+	</Offset>
+	<Length>
+		19
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Scottish_Government
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Scottish_Government
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Plaid Cymru
+	</SurfaceForm>
+	<Offset>
+		2676
+	</Offset>
+	<Length>
+		11
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Plaid_Cymru
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Plaid_Cymru
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Welsh Assembly Government
+	</SurfaceForm>
+	<Offset>
+		2732
+	</Offset>
+	<Length>
+		25
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Welsh_Government
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Welsh_Government
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		constitution
+	</SurfaceForm>
+	<Offset>
+		2767
+	</Offset>
+	<Length>
+		12
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Constitution_of_Canada
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Constitution_of_Canada
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		constitutional convention
+	</SurfaceForm>
+	<Offset>
+		2816
+	</Offset>
+	<Length>
+		25
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Constitutional_convention_(political_custom)
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Constitutional_convention_(political_custom)
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		statute
+	</SurfaceForm>
+	<Offset>
+		2848
+	</Offset>
+	<Length>
+		7
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Statute
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Statute
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Westminster system
+	</SurfaceForm>
+	<Offset>
+		2923
+	</Offset>
+	<Length>
+		18
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Westminster_system
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Westminster_system
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Canada
+	</SurfaceForm>
+	<Offset>
+		3002
+	</Offset>
+	<Length>
+		6
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Canada
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Canada
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		India
+	</SurfaceForm>
+	<Offset>
+		3014
+	</Offset>
+	<Length>
+		5
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/India
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/India
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Australia
+	</SurfaceForm>
+	<Offset>
+		3025
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Australia
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Australia
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Singapore
+	</SurfaceForm>
+	<Offset>
+		3057
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Singapore
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Singapore
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Malaysia
+	</SurfaceForm>
+	<Offset>
+		3072
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Malaysia
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Malaysia
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Jamaica
+	</SurfaceForm>
+	<Offset>
+		3089
+	</Offset>
+	<Length>
+		7
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Jamaica
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Jamaica
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		British Empire
+	</SurfaceForm>
+	<Offset>
+		3137
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/British_Empire
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/British_Empire
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		head of state
+	</SurfaceForm>
+	<Offset>
+		3161
+	</Offset>
+	<Length>
+		13
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Head_of_state
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Head_of_state
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		executive
+	</SurfaceForm>
+	<Offset>
+		3218
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Executive_(government)
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Executive_(government)
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		judicial
+	</SurfaceForm>
+	<Offset>
+		3233
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Judiciary
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Judiciary
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		legislative
+	</SurfaceForm>
+	<Offset>
+		3250
+	</Offset>
+	<Length>
+		11
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Legislature
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Legislature
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		British monarch
+	</SurfaceForm>
+	<Offset>
+		3289
+	</Offset>
+	<Length>
+		15
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Monarchy_of_the_United_Kingdom
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Monarchy_of_the_United_Kingdom
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Elizabeth II
+	</SurfaceForm>
+	<Offset>
+		3326
+	</Offset>
+	<Length>
+		12
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Elizabeth_II
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Elizabeth_II
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		English Bill of Rights in 1689
+	</SurfaceForm>
+	<Offset>
+		3419
+	</Offset>
+	<Length>
+		30
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Bill_of_Rights_1689
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Bill_of_Rights_1689
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Parliamentary sovereignty
+	</SurfaceForm>
+	<Offset>
+		3490
+	</Offset>
+	<Length>
+		25
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Parliamentary_sovereignty
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Parliamentary_sovereignty
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Prime Minister
+	</SurfaceForm>
+	<Offset>
+		3684
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Parliament
+	</SurfaceForm>
+	<Offset>
+		3738
+	</Offset>
+	<Length>
+		10
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Parliament_of_the_United_Kingdom
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Parliament_of_the_United_Kingdom
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		House of Commons
+	</SurfaceForm>
+	<Offset>
+		3900
+	</Offset>
+	<Length>
+		16
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/House_of_Commons_of_the_United_Kingdom
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/House_of_Commons_of_the_United_Kingdom
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		dissolved
+	</SurfaceForm>
+	<Offset>
+		3940
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Dissolution_of_the_Parliament_of_the_United_Kingdom
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Dissolution_of_the_Parliament_of_the_United_Kingdom
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		bill
+	</SurfaceForm>
+	<Offset>
+		4036
+	</Offset>
+	<Length>
+		4
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Royal Assent
+	</SurfaceForm>
+	<Offset>
+		4045
+	</Offset>
+	<Length>
+		12
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Royal_Assent
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Royal_Assent
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		constitutional crisis
+	</SurfaceForm>
+	<Offset>
+		4149
+	</Offset>
+	<Length>
+		21
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Constitutional_crisis
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Constitutional_crisis
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Queen Anne
+	</SurfaceForm>
+	<Offset>
+		4176
+	</Offset>
+	<Length>
+		10
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Anne_of_Great_Britain
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Anne_of_Great_Britain
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		11 March
+	</SurfaceForm>
+	<Offset>
+		4253
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/March_11
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/March_11
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		1708
+	</SurfaceForm>
+	<Offset>
+		4266
+	</Offset>
+	<Length>
+		4
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/1708
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/1708
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Scotland
+	</SurfaceForm>
+	<Offset>
+		4331
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Scotland
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Scotland
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		public opinion
+	</SurfaceForm>
+	<Offset>
+		4677
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Public_opinion
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Public_opinion
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Prime Minister
+	</SurfaceForm>
+	<Offset>
+		5132
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Gordon Brown
+	</SurfaceForm>
+	<Offset>
+		5152
+	</Offset>
+	<Length>
+		12
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Gordon_Brown
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Gordon_Brown
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		27 June
+	</SurfaceForm>
+	<Offset>
+		5175
+	</Offset>
+	<Length>
+		7
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/June_27
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/June_27
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		2007
+	</SurfaceForm>
+	<Offset>
+		5187
+	</Offset>
+	<Length>
+		4
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/June_2007
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/June_2007
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		subjects and citizens
+	</SurfaceForm>
+	<Offset>
+		5694
+	</Offset>
+	<Length>
+		21
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/British_subject
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/British_subject
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		commander-in-chief
+	</SurfaceForm>
+	<Offset>
+		5914
+	</Offset>
+	<Length>
+		18
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Commander-in-chief
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Commander-in-chief
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		oath of allegiance
+	</SurfaceForm>
+	<Offset>
+		5971
+	</Offset>
+	<Length>
+		18
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Oath_of_allegiance
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Oath_of_allegiance
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Executive power
+	</SurfaceForm>
+	<Offset>
+		6002
+	</Offset>
+	<Length>
+		15
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Executive_(government)
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Executive_(government)
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		UK government
+	</SurfaceForm>
+	<Offset>
+		6155
+	</Offset>
+	<Length>
+		13
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Government_of_the_United_Kingdom
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Government_of_the_United_Kingdom
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		devolved
+	</SurfaceForm>
+	<Offset>
+		6181
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Devolution
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Devolution
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Scottish Government
+	</SurfaceForm>
+	<Offset>
+		6194
+	</Offset>
+	<Length>
+		19
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Scottish_Government
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Scottish_Government
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Welsh Assembly Government
+	</SurfaceForm>
+	<Offset>
+		6219
+	</Offset>
+	<Length>
+		25
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Welsh_Government
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Welsh_Government
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Northern Ireland Executive
+	</SurfaceForm>
+	<Offset>
+		6257
+	</Offset>
+	<Length>
+		26
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Northern_Ireland_Executive
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Northern_Ireland_Executive
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Prime Minister
+	</SurfaceForm>
+	<Offset>
+		6312
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Prime_minister
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Prime_minister
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Her Majesty's Government
+	</SurfaceForm>
+	<Offset>
+		6346
+	</Offset>
+	<Length>
+		24
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Government_of_the_United_Kingdom
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Government_of_the_United_Kingdom
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		political party
+	</SurfaceForm>
+	<Offset>
+		6601
+	</Offset>
+	<Length>
+		15
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Political_party
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Political_party
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Ministers
+	</SurfaceForm>
+	<Offset>
+		6758
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Minister_(government)
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Minister_(government)
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Government Departments
+	</SurfaceForm>
+	<Offset>
+		6843
+	</Offset>
+	<Length>
+		22
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Ministry_(government_department)
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Ministry_(government_department)
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		constitutional convention
+	</SurfaceForm>
+	<Offset>
+		7034
+	</Offset>
+	<Length>
+		25
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Constitutional_convention_(political_custom)
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Constitutional_convention_(political_custom)
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Members of Parliament
+	</SurfaceForm>
+	<Offset>
+		7112
+	</Offset>
+	<Length>
+		21
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		peers
+	</SurfaceForm>
+	<Offset>
+		7141
+	</Offset>
+	<Length>
+		5
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		House of Lords
+	</SurfaceForm>
+	<Offset>
+		7158
+	</Offset>
+	<Length>
+		14
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/House_of_Lords
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/House_of_Lords
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		parliamentary system
+	</SurfaceForm>
+	<Offset>
+		7197
+	</Offset>
+	<Length>
+		20
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Parliamentary_system
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Parliamentary_system
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Westminster System
+	</SurfaceForm>
+	<Offset>
+		7270
+	</Offset>
+	<Length>
+		18
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Westminster_system
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Westminster_system
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		parliamentary dissolution
+	</SurfaceForm>
+	<Offset>
+		7482
+	</Offset>
+	<Length>
+		25
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Dissolution_of_parliament
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Dissolution_of_parliament
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		general election
+	</SurfaceForm>
+	<Offset>
+		7518
+	</Offset>
+	<Length>
+		16
+	</Length>
+	<ChosenAnnotation>
+		*null*
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			*null*
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		whips
+	</SurfaceForm>
+	<Offset>
+		7623
+	</Offset>
+	<Length>
+		5
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Whip_(politics)
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Whip_(politics)
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		proposal
+	</SurfaceForm>
+	<Offset>
+		7883
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Terrorism_Act_2006
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Terrorism_Act_2006
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		House of Commons
+	</SurfaceForm>
+	<Offset>
+		8039
+	</Offset>
+	<Length>
+		16
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/House_of_Commons_of_the_United_Kingdom
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/House_of_Commons_of_the_United_Kingdom
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		majority
+	</SurfaceForm>
+	<Offset>
+		8161
+	</Offset>
+	<Length>
+		8
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Majority
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Majority
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		coalition government
+	</SurfaceForm>
+	<Offset>
+		8178
+	</Offset>
+	<Length>
+		20
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Coalition_government
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Coalition_government
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Margaret Thatcher
+	</SurfaceForm>
+	<Offset>
+		8358
+	</Offset>
+	<Length>
+		17
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Margaret_Thatcher
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Margaret_Thatcher
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		John Major
+	</SurfaceForm>
+	<Offset>
+		8741
+	</Offset>
+	<Length>
+		10
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/John_Major
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/John_Major
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		backbench
+	</SurfaceForm>
+	<Offset>
+		8824
+	</Offset>
+	<Length>
+		9
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Backbencher
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Backbencher
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		ministries
+	</SurfaceForm>
+	<Offset>
+		9192
+	</Offset>
+	<Length>
+		10
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Ministry_(government_department)
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Ministry_(government_department)
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Ministry of Defence
+	</SurfaceForm>
+	<Offset>
+		9265
+	</Offset>
+	<Length>
+		19
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Ministry_of_Defence_(United_Kingdom)
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Ministry_of_Defence_(United_Kingdom)
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Government Minister
+	</SurfaceForm>
+	<Offset>
+		9321
+	</Offset>
+	<Length>
+		19
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Minister_(government)
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Minister_(government)
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Secretary of State
+	</SurfaceForm>
+	<Offset>
+		9360
+	</Offset>
+	<Length>
+		18
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Secretary_of_State
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Secretary_of_State
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Department of Health
+	</SurfaceForm>
+	<Offset>
+		9691
+	</Offset>
+	<Length>
+		20
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Department_of_Health_(United_Kingdom)
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Department_of_Health_(United_Kingdom)
+		</Annotation>
+</ReferenceInstance>
+<ReferenceInstance>
+	<SurfaceForm>
+		Department for Children, Schools and Families
+	</SurfaceForm>
+	<Offset>
+		9780
+	</Offset>
+	<Length>
+		45
+	</Length>
+	<ChosenAnnotation>
+		http://en.wikipedia.org/wiki/Department_for_Children,_Schools_and_Families
+	</ChosenAnnotation>
+	<NumAnnotators>
+		1
+	</NumAnnotators>
+		<AnnotatorId>
+			CogcompWikifier
+		</AnnotatorId>
+		<Annotation>
+			http://en.wikipedia.org/wiki/Department_for_Children,_Schools_and_Families
+		</Annotation>
+</ReferenceInstance>
+</ReferenceProblem>

@@ -1,0 +1,3549 @@
+<WikifierOutput>
+<InputFilename>
+3789881
+</InputFilename>
+<InputText>
+The   1333   siege of Kamakura was a battle of the   Genkō War  , and marked the end of the power of the   Hōjō clan  , which had dominated the regency of the   Kamakura shogunate   for over a century.  Forces loyal to the   Emperor   and led by   Nitta Yoshisada   entered the city from multiple directions and destroyed it; in the end, the Hōjō leaders retreated to the   Tōshō-ji  , where they committed suicide.
+The hills surrounding the shogunal capital of Kamakura contained seven passes, each with guarded checkpoints. Nitta Yoshisada attacked from the north, east, and west, dividing his force in three. However, after many hours of fighting, little progress had been made towards the city, particularly on the western passes near the   Gokuraku-ji  , which was guarded with rows upon rows of wooden shielding.  Nitta realized the Gokuraku-ji could be bypassed by marching around the cape, where the Inamuragasaki promontory juts out into the water.  According to the chronicles, he threw his sword into the sea as an offering to   Amaterasu  , the Sun Goddess, and the sea parted as if by a miracle.
+Thus the rebels were able to enter the city, and began to force back the   Hōjō   forces. The Hōjō were eventually forced to retreat to a cave behind the Tōshō-ji, where they committed suicide.
+
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>1333</EntitySurfaceForm>
+	<EntityTextStart>6</EntityTextStart>
+	<EntityTextEnd>10</EntityTextEnd>
+	<LinkerScore>5.5549745341530405</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1333</WikiTitle>
+		<WikiTitleID>36357</WikiTitleID>
+		<RankerScore>0.9999115998632946</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1333</WikiTitle> <WikiTitleID>36357</WikiTitleID> <RankerScore>0.9999115998632946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1333_in_Ireland</WikiTitle> <WikiTitleID>10536990</WikiTitleID> <RankerScore>2.688577558462199E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1330s_in_England</WikiTitle> <WikiTitleID>11098430</WikiTitleID> <RankerScore>9.334062650272266E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_1333</WikiTitle> <WikiTitleID>1080323</WikiTitleID> <RankerScore>4.2846235820344015E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1330s_BC</WikiTitle> <WikiTitleID>62715</WikiTitleID> <RankerScore>9.334062650272266E-6</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Kamakura</EntitySurfaceForm>
+	<EntityTextStart>22</EntityTextStart>
+	<EntityTextEnd>30</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Kamakura,_Kanagawa</WikiTitle>
+		<WikiTitleID>61759</WikiTitleID>
+		<RankerScore>0.9294111831424815</RankerScore>
+		<Attributes>city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Kamakura,_Kanagawa</WikiTitle> <WikiTitleID>61759</WikiTitleID> <RankerScore>0.9294111831424815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kamakura_shogunate</WikiTitle> <WikiTitleID>84505</WikiTitleID> <RankerScore>0.04879312025569293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kamakura_period</WikiTitle> <WikiTitleID>201198</WikiTitleID> <RankerScore>3.939199235938444E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kōtoku-in</WikiTitle> <WikiTitleID>730217</WikiTitleID> <RankerScore>3.939199235938444E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kamakura_(G.I._Joe)</WikiTitle> <WikiTitleID>9111614</WikiTitleID> <RankerScore>3.939199235938444E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kamakura,_Kanagawa</WikiTitle> <WikiTitleID>61758</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hōjō_clan</WikiTitle> <WikiTitleID>313320</WikiTitleID> <RankerScore>0.020613936831043983</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>a battle</EntitySurfaceForm>
+	<EntityTextStart>35</EntityTextStart>
+	<EntityTextEnd>43</EntityTextEnd>
+	<LinkerScore>-1.485682613162034</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Battle_of_St_Pol_de_Léon</WikiTitle>
+		<WikiTitleID>3194709</WikiTitleID>
+		<RankerScore>0.24274956639722403</RankerScore>
+		<Attributes>battle</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Battle_of_St_Pol_de_Léon</WikiTitle> <WikiTitleID>3194709</WikiTitleID> <RankerScore>0.24274956639722403</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Oriamendi</WikiTitle> <WikiTitleID>13202109</WikiTitleID> <RankerScore>0.1148305083319541</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Lumphanan</WikiTitle> <WikiTitleID>253564</WikiTitleID> <RankerScore>0.08530486323947267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Albuera</WikiTitle> <WikiTitleID>619750</WikiTitleID> <RankerScore>0.21589560907345853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Star_by_Star</WikiTitle> <WikiTitleID>386988</WikiTitleID> <RankerScore>0.08530486323947267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Montgisard</WikiTitle> <WikiTitleID>643071</WikiTitleID> <RankerScore>0.08530486323947267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Saint-Denis_(1837)</WikiTitle> <WikiTitleID>3891479</WikiTitleID> <RankerScore>0.08530486323947267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Harim</WikiTitle> <WikiTitleID>3220874</WikiTitleID> <RankerScore>0.08530486323947267</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>battle</EntitySurfaceForm>
+	<EntityTextStart>37</EntityTextStart>
+	<EntityTextEnd>43</EntityTextEnd>
+	<LinkerScore>1.5489411480724313</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Battle</WikiTitle>
+		<WikiTitleID>4181</WikiTitleID>
+		<RankerScore>0.6250593328867162</RankerScore>
+		<Attributes>battle</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Battle</WikiTitle> <WikiTitleID>4181</WikiTitleID> <RankerScore>0.6250593328867162</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_between_HMAS_Sydney_and_German_auxiliary_cruiser_Kormoran</WikiTitle> <WikiTitleID>3025352</WikiTitleID> <RankerScore>0.022085930853291007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Gettysburg</WikiTitle> <WikiTitleID>4849</WikiTitleID> <RankerScore>0.028000964926768707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Covadonga</WikiTitle> <WikiTitleID>52150</WikiTitleID> <RankerScore>0.019109045372542592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>War</WikiTitle> <WikiTitleID>33158</WikiTitleID> <RankerScore>0.019109045372542592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Hampton_Roads</WikiTitle> <WikiTitleID>251485</WikiTitleID> <RankerScore>0.019109045372542592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_San_Jacinto</WikiTitle> <WikiTitleID>165630</WikiTitleID> <RankerScore>0.019109045372542592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battles_(band)</WikiTitle> <WikiTitleID>2054016</WikiTitleID> <RankerScore>0.019109045372542592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Pydna</WikiTitle> <WikiTitleID>89348</WikiTitleID> <RankerScore>0.019109045372542592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Warsaw_(1656)</WikiTitle> <WikiTitleID>1411514</WikiTitleID> <RankerScore>0.019109045372542592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Alesia</WikiTitle> <WikiTitleID>391164</WikiTitleID> <RankerScore>0.019109045372542592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_battles</WikiTitle> <WikiTitleID>18693</WikiTitleID> <RankerScore>0.019109045372542592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battles_of_Lexington_and_Concord</WikiTitle> <WikiTitleID>4321886</WikiTitleID> <RankerScore>0.019109045372542592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medieval_warfare</WikiTitle> <WikiTitleID>20503</WikiTitleID> <RankerScore>0.019109045372542592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Barrosa</WikiTitle> <WikiTitleID>1583018</WikiTitleID> <RankerScore>0.019109045372542592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Najaf_(2007)</WikiTitle> <WikiTitleID>9604273</WikiTitleID> <RankerScore>0.019109045372542592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Mainz_(406)</WikiTitle> <WikiTitleID>9174065</WikiTitleID> <RankerScore>0.019109045372542592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kurukshetra_War</WikiTitle> <WikiTitleID>2263093</WikiTitleID> <RankerScore>0.019109045372542592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_history_of_the_Warsaw_Uprising</WikiTitle> <WikiTitleID>891109</WikiTitleID> <RankerScore>0.019109045372542592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Watling_Street</WikiTitle> <WikiTitleID>1056186</WikiTitleID> <RankerScore>0.019109045372542592</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Genkō War</EntitySurfaceForm>
+	<EntityTextStart>53</EntityTextStart>
+	<EntityTextEnd>62</EntityTextEnd>
+	<LinkerScore>4.766515455834564</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Genkō_War</WikiTitle>
+		<WikiTitleID>6279651</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>conflict	war</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Genkō_War</WikiTitle> <WikiTitleID>6279651</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the end</EntitySurfaceForm>
+	<EntityTextStart>77</EntityTextStart>
+	<EntityTextEnd>84</EntityTextEnd>
+	<LinkerScore>1.5009372242561594</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sukhumi_massacre</WikiTitle>
+		<WikiTitleID>6031490</WikiTitleID>
+		<RankerScore>0.7200487906502839</RankerScore>
+		<Attributes>crime	massacre</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sukhumi_massacre</WikiTitle> <WikiTitleID>6031490</WikiTitleID> <RankerScore>0.7200487906502839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_End</WikiTitle> <WikiTitleID>867478</WikiTitleID> <RankerScore>0.17624904733546926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>End</WikiTitle> <WikiTitleID>2551334</WikiTitleID> <RankerScore>0.10370216201424677</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>power</EntitySurfaceForm>
+	<EntityTextStart>92</EntityTextStart>
+	<EntityTextEnd>97</EntityTextEnd>
+	<LinkerScore>-0.8439280978803193</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Power_(social_and_political)</WikiTitle>
+		<WikiTitleID>147885</WikiTitleID>
+		<RankerScore>0.35087804611955664</RankerScore>
+		<Attributes>terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Power_(physics)</WikiTitle> <WikiTitleID>24236</WikiTitleID> <RankerScore>0.153766052687238</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Power_(social_and_political)</WikiTitle> <WikiTitleID>147885</WikiTitleID> <RankerScore>0.35087804611955664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electric_power</WikiTitle> <WikiTitleID>3270043</WikiTitleID> <RankerScore>0.03918477869509687</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Power_(social_and_political)</WikiTitle> <WikiTitleID>604028</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Power_(international_relations)</WikiTitle> <WikiTitleID>228753</WikiTitleID> <RankerScore>0.028510695156131784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Exponentiation</WikiTitle> <WikiTitleID>99491</WikiTitleID> <RankerScore>0.028510695156131784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Power</WikiTitle> <WikiTitleID>427769</WikiTitleID> <RankerScore>0.028510695156131784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Power_metal</WikiTitle> <WikiTitleID>183303</WikiTitleID> <RankerScore>0.028510695156131784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electricity</WikiTitle> <WikiTitleID>9550</WikiTitleID> <RankerScore>0.028510695156131784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statistical_power</WikiTitle> <WikiTitleID>238695</WikiTitleID> <RankerScore>0.028510695156131784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superpower_(ability)</WikiTitle> <WikiTitleID>11368868</WikiTitleID> <RankerScore>0.028510695156131784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Motive_power</WikiTitle> <WikiTitleID>3507310</WikiTitleID> <RankerScore>0.028510695156131784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_power</WikiTitle> <WikiTitleID>3331228</WikiTitleID> <RankerScore>0.028510695156131784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hydropower</WikiTitle> <WikiTitleID>14073</WikiTitleID> <RankerScore>0.028510695156131784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electricity_generation</WikiTitle> <WikiTitleID>9540</WikiTitleID> <RankerScore>0.028510695156131784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electric_power_industry</WikiTitle> <WikiTitleID>277750</WikiTitleID> <RankerScore>0.028510695156131784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Power_of_a_point</WikiTitle> <WikiTitleID>2094044</WikiTitleID> <RankerScore>0.028510695156131784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horsepower</WikiTitle> <WikiTitleID>14019</WikiTitleID> <RankerScore>0.028510695156131784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Effective_radiated_power</WikiTitle> <WikiTitleID>272483</WikiTitleID> <RankerScore>0.028510695156131784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Slugging_percentage</WikiTitle> <WikiTitleID>63059</WikiTitleID> <RankerScore>0.028510695156131784</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Hōjō clan</EntitySurfaceForm>
+	<EntityTextStart>107</EntityTextStart>
+	<EntityTextEnd>116</EntityTextEnd>
+	<LinkerScore>4.592352310412972</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hōjō_clan</WikiTitle>
+		<WikiTitleID>313320</WikiTitleID>
+		<RankerScore>0.9975773192243184</RankerScore>
+		<Attributes>clan</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hōjō_clan</WikiTitle> <WikiTitleID>313320</WikiTitleID> <RankerScore>0.9975773192243184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Late_Hōjō_clan</WikiTitle> <WikiTitleID>1894880</WikiTitleID> <RankerScore>0.0024226807756816213</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>dominated</EntitySurfaceForm>
+	<EntityTextStart>130</EntityTextStart>
+	<EntityTextEnd>139</EntityTextEnd>
+	<LinkerScore>-1.817505046157465</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Strategic_dominance</WikiTitle>
+		<WikiTitleID>2352847</WikiTitleID>
+		<RankerScore>0.3904216339340769</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Strategic_dominance</WikiTitle> <WikiTitleID>2352847</WikiTitleID> <RankerScore>0.3904216339340769</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dominant-party_system</WikiTitle> <WikiTitleID>620513</WikiTitleID> <RankerScore>0.32966161613500783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glossary_of_professional_wrestling_terms</WikiTitle> <WikiTitleID>558230</WikiTitleID> <RankerScore>0.14358071543807147</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Domination_(poker)</WikiTitle> <WikiTitleID>4960748</WikiTitleID> <RankerScore>0.1363360344928439</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>regency</EntitySurfaceForm>
+	<EntityTextStart>144</EntityTextStart>
+	<EntityTextEnd>151</EntityTextEnd>
+	<LinkerScore>-0.5802996579178659</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Regency_(government)</WikiTitle>
+		<WikiTitleID>141495</WikiTitleID>
+		<RankerScore>0.39649112732864106</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Regency_(government)</WikiTitle> <WikiTitleID>141495</WikiTitleID> <RankerScore>0.39649112732864106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_regencies_and_cities_of_Indonesia</WikiTitle> <WikiTitleID>7174670</WikiTitleID> <RankerScore>0.16413546837114668</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regency</WikiTitle> <WikiTitleID>154925</WikiTitleID> <RankerScore>0.13467598819129095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regency_architecture</WikiTitle> <WikiTitleID>478270</WikiTitleID> <RankerScore>0.05078290268482021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sesshō_and_Kampaku</WikiTitle> <WikiTitleID>347618</WikiTitleID> <RankerScore>0.05078290268482021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regency_era</WikiTitle> <WikiTitleID>154908</WikiTitleID> <RankerScore>0.05078290268482021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pekalongan_Regency</WikiTitle> <WikiTitleID>10865441</WikiTitleID> <RankerScore>0.05078290268482021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chinoiserie</WikiTitle> <WikiTitleID>1063807</WikiTitleID> <RankerScore>0.05078290268482021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Hungary_(1920–1946)</WikiTitle> <WikiTitleID>11668053</WikiTitleID> <RankerScore>0.05078290268482021</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Kamakura shogunate</EntitySurfaceForm>
+	<EntityTextStart>161</EntityTextStart>
+	<EntityTextEnd>179</EntityTextEnd>
+	<LinkerScore>4.410318756774866</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Kamakura_shogunate</WikiTitle>
+		<WikiTitleID>84505</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>disestablishment	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Kamakura_shogunate</WikiTitle> <WikiTitleID>84505</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kamakura_shogunate</WikiTitle> <WikiTitleID>84505</WikiTitleID> <RankerScore>7.829856344003223</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Kamakura</EntitySurfaceForm>
+	<EntityTextStart>161</EntityTextStart>
+	<EntityTextEnd>169</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Kamakura,_Kanagawa</WikiTitle>
+		<WikiTitleID>61759</WikiTitleID>
+		<RankerScore>0.9294111831424815</RankerScore>
+		<Attributes>city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Kamakura,_Kanagawa</WikiTitle> <WikiTitleID>61759</WikiTitleID> <RankerScore>0.9294111831424815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kamakura_shogunate</WikiTitle> <WikiTitleID>84505</WikiTitleID> <RankerScore>0.04879312025569293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kamakura_period</WikiTitle> <WikiTitleID>201198</WikiTitleID> <RankerScore>3.939199235938444E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kōtoku-in</WikiTitle> <WikiTitleID>730217</WikiTitleID> <RankerScore>3.939199235938444E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kamakura_(G.I._Joe)</WikiTitle> <WikiTitleID>9111614</WikiTitleID> <RankerScore>3.939199235938444E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kamakura,_Kanagawa</WikiTitle> <WikiTitleID>61758</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hōjō_clan</WikiTitle> <WikiTitleID>313320</WikiTitleID> <RankerScore>0.020613936831043983</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>a century</EntitySurfaceForm>
+	<EntityTextStart>191</EntityTextStart>
+	<EntityTextEnd>200</EntityTextEnd>
+	<LinkerScore>2.606085253550861</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>19th_century</WikiTitle>
+		<WikiTitleID>34571</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>19th_century</WikiTitle> <WikiTitleID>34571</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>century</EntitySurfaceForm>
+	<EntityTextStart>193</EntityTextStart>
+	<EntityTextEnd>200</EntityTextEnd>
+	<LinkerScore>-0.2053003176183288</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Century</WikiTitle>
+		<WikiTitleID>5881</WikiTitleID>
+		<RankerScore>0.3572733444538716</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Century_(cricket)</WikiTitle> <WikiTitleID>1671458</WikiTitleID> <RankerScore>0.29356221262525206</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Century</WikiTitle> <WikiTitleID>5881</WikiTitleID> <RankerScore>0.3572733444538716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>20th_century</WikiTitle> <WikiTitleID>34558</WikiTitleID> <RankerScore>0.03620797746966084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Centuria</WikiTitle> <WikiTitleID>1880720</WikiTitleID> <RankerScore>0.04470806649303079</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>17th_century</WikiTitle> <WikiTitleID>34569</WikiTitleID> <RankerScore>0.04470806649303079</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glossary_of_cricket_terms</WikiTitle> <WikiTitleID>463755</WikiTitleID> <RankerScore>0.04470806649303079</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Challenge_riding</WikiTitle> <WikiTitleID>513881</WikiTitleID> <RankerScore>0.04470806649303079</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>21st_century</WikiTitle> <WikiTitleID>34572</WikiTitleID> <RankerScore>0.04470806649303079</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>18_(number)</WikiTitle> <WikiTitleID>208294</WikiTitleID> <RankerScore>0.04470806649303079</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>3rd_century_BC</WikiTitle> <WikiTitleID>34838</WikiTitleID> <RankerScore>0.04470806649303079</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Forces</EntitySurfaceForm>
+	<EntityTextStart>203</EntityTextStart>
+	<EntityTextEnd>209</EntityTextEnd>
+	<LinkerScore>-0.6147324215140668</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Force</WikiTitle>
+		<WikiTitleID>10902</WikiTitleID>
+		<RankerScore>0.326693546563486</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Armed_forces</WikiTitle> <WikiTitleID>18905</WikiTitleID> <RankerScore>0.09895939715425324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Force</WikiTitle> <WikiTitleID>10902</WikiTitleID> <RankerScore>0.326693546563486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Forces_Programme</WikiTitle> <WikiTitleID>3968657</WikiTitleID> <RankerScore>0.08431748275304662</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Forces_(The_Concretes_single)</WikiTitle> <WikiTitleID>7477876</WikiTitleID> <RankerScore>0.07000422478988774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Berserk_(manga)</WikiTitle> <WikiTitleID>5235613</WikiTitleID> <RankerScore>0.07000422478988774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Panamanian_Public_Forces</WikiTitle> <WikiTitleID>79807</WikiTitleID> <RankerScore>0.07000422478988774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Armed_forces</WikiTitle> <WikiTitleID>807786</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australian_Naval_and_Military_Expeditionary_Force</WikiTitle> <WikiTitleID>1146293</WikiTitleID> <RankerScore>0.07000422478988774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Peru</WikiTitle> <WikiTitleID>23438</WikiTitleID> <RankerScore>0.07000422478988774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Army</WikiTitle> <WikiTitleID>25682</WikiTitleID> <RankerScore>0.07000422478988774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Armed_Forces</WikiTitle> <WikiTitleID>31730</WikiTitleID> <RankerScore>0.07000422478988774</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>loyal</EntitySurfaceForm>
+	<EntityTextStart>210</EntityTextStart>
+	<EntityTextEnd>215</EntityTextEnd>
+	<LinkerScore>-1.7599793092682456</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Loyal</WikiTitle>
+		<WikiTitleID>861851</WikiTitleID>
+		<RankerScore>0.32797541022858373</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Loyalty</WikiTitle> <WikiTitleID>189043</WikiTitleID> <RankerScore>0.31124746249968943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Loyal</WikiTitle> <WikiTitleID>861851</WikiTitleID> <RankerScore>0.32797541022858373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brand_loyalty</WikiTitle> <WikiTitleID>1926571</WikiTitleID> <RankerScore>0.0763106249628844</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Loyalist_(American_Revolution)</WikiTitle> <WikiTitleID>1146288</WikiTitleID> <RankerScore>0.13184525238307362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fan_loyalty</WikiTitle> <WikiTitleID>2346208</WikiTitleID> <RankerScore>0.0763106249628844</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Loyalism</WikiTitle> <WikiTitleID>219394</WikiTitleID> <RankerScore>0.0763106249628844</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Emperor</EntitySurfaceForm>
+	<EntityTextStart>225</EntityTextStart>
+	<EntityTextEnd>232</EntityTextEnd>
+	<LinkerScore>-2.585770595314722</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Emperor</WikiTitle>
+		<WikiTitleID>10111</WikiTitleID>
+		<RankerScore>0.29483638658519645</RankerScore>
+		<Attributes>title	emperor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Emperor</WikiTitle> <WikiTitleID>10111</WikiTitleID> <RankerScore>0.29483638658519645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Emperor_(band)</WikiTitle> <WikiTitleID>140257</WikiTitleID> <RankerScore>0.08079877324883358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Emperor_of_Japan</WikiTitle> <WikiTitleID>10110</WikiTitleID> <RankerScore>0.2445907098596736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_emperor</WikiTitle> <WikiTitleID>219117</WikiTitleID> <RankerScore>0.022339654723899784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Holy_Roman_Emperor</WikiTitle> <WikiTitleID>50853</WikiTitleID> <RankerScore>0.022339654723899784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Byzantine_emperors</WikiTitle> <WikiTitleID>4016</WikiTitleID> <RankerScore>0.022339654723899784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Emperor_of_China</WikiTitle> <WikiTitleID>58669</WikiTitleID> <RankerScore>0.022339654723899784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Emperor_of_Ethiopia</WikiTitle> <WikiTitleID>606626</WikiTitleID> <RankerScore>0.022339654723899784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palpatine</WikiTitle> <WikiTitleID>18426653</WikiTitleID> <RankerScore>0.022339654723899784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Russian_rulers</WikiTitle> <WikiTitleID>971988</WikiTitleID> <RankerScore>0.022339654723899784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Emperor_of_Austria</WikiTitle> <WikiTitleID>495262</WikiTitleID> <RankerScore>0.022339654723899784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Holy_Roman_Empire</WikiTitle> <WikiTitleID>13277</WikiTitleID> <RankerScore>0.022339654723899784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Vietnamese_monarchs</WikiTitle> <WikiTitleID>5229588</WikiTitleID> <RankerScore>0.022339654723899784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Padishah_Emperor</WikiTitle> <WikiTitleID>1823923</WikiTitleID> <RankerScore>0.022339654723899784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsar</WikiTitle> <WikiTitleID>43111</WikiTitleID> <RankerScore>0.022339654723899784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Carolingian_Empire</WikiTitle> <WikiTitleID>62229</WikiTitleID> <RankerScore>0.022339654723899784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Khmer_Empire</WikiTitle> <WikiTitleID>222431</WikiTitleID> <RankerScore>0.022339654723899784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Galactic_Empire_(Star_Wars)</WikiTitle> <WikiTitleID>68430</WikiTitleID> <RankerScore>0.022339654723899784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_French_monarchs</WikiTitle> <WikiTitleID>62519</WikiTitleID> <RankerScore>0.022339654723899784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Franz_Joseph_I_of_Austria</WikiTitle> <WikiTitleID>51695</WikiTitleID> <RankerScore>0.022339654723899784</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Nitta Yoshisada</EntitySurfaceForm>
+	<EntityTextStart>248</EntityTextStart>
+	<EntityTextEnd>263</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Nitta_Yoshisada</WikiTitle>
+		<WikiTitleID>1879814</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>personnel	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Nitta_Yoshisada</WikiTitle> <WikiTitleID>1879814</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Nitta</EntitySurfaceForm>
+	<EntityTextStart>248</EntityTextStart>
+	<EntityTextEnd>253</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Nitta_Yoshisada</WikiTitle>
+		<WikiTitleID>1879814</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>personnel	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Nitta_clan</WikiTitle> <WikiTitleID>1360537</WikiTitleID> <RankerScore>0.876046245985828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nitta,_Gunma</WikiTitle> <WikiTitleID>868697</WikiTitleID> <RankerScore>0.07049749208345946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nitta_Station_(Miyagi)</WikiTitle> <WikiTitleID>5005321</WikiTitleID> <RankerScore>0.04077823099545949</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nitta_District,_Gunma</WikiTitle> <WikiTitleID>868417</WikiTitleID> <RankerScore>0.012678030935253012</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yoshisada</EntitySurfaceForm>
+	<EntityTextStart>254</EntityTextStart>
+	<EntityTextEnd>263</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Nitta_Yoshisada</WikiTitle>
+		<WikiTitleID>1879814</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>personnel	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Isshiki_Yoshisada</WikiTitle> <WikiTitleID>15178917</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the city</EntitySurfaceForm>
+	<EntityTextStart>274</EntityTextStart>
+	<EntityTextEnd>282</EntityTextEnd>
+	<LinkerScore>1.6089081796684666</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rome</WikiTitle>
+		<WikiTitleID>25458</WikiTitleID>
+		<RankerScore>0.2492430808211189</RankerScore>
+		<Attributes>variety</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lima</WikiTitle> <WikiTitleID>85423</WikiTitleID> <RankerScore>0.09376136016177987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City</WikiTitle> <WikiTitleID>645042</WikiTitleID> <RankerScore>0.065592403205641</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Novi_Sad</WikiTitle> <WikiTitleID>113288</WikiTitleID> <RankerScore>0.03478842093008589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ponce,_Puerto_Rico</WikiTitle> <WikiTitleID>84165</WikiTitleID> <RankerScore>0.03478842093008589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rome</WikiTitle> <WikiTitleID>25458</WikiTitleID> <RankerScore>0.2492430808211189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Green_Bay,_Wisconsin</WikiTitle> <WikiTitleID>217033</WikiTitleID> <RankerScore>0.03478842093008589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Melbourne_City_Centre</WikiTitle> <WikiTitleID>7467700</WikiTitleID> <RankerScore>0.03478842093008589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sydney</WikiTitle> <WikiTitleID>27862</WikiTitleID> <RankerScore>0.03478842093008589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mulberry,_Florida</WikiTitle> <WikiTitleID>109723</WikiTitleID> <RankerScore>0.03478842093008589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Szeged</WikiTitle> <WikiTitleID>397272</WikiTitleID> <RankerScore>0.03478842093008589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sydney_central_business_district</WikiTitle> <WikiTitleID>1740289</WikiTitleID> <RankerScore>0.03478842093008589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cleveland</WikiTitle> <WikiTitleID>5951</WikiTitleID> <RankerScore>0.03478842093008589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vancouver,_Washington</WikiTitle> <WikiTitleID>18592743</WikiTitleID> <RankerScore>0.03478842093008589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Omaha,_Nebraska</WikiTitle> <WikiTitleID>46159</WikiTitleID> <RankerScore>0.03478842093008589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Old_Toronto</WikiTitle> <WikiTitleID>4559844</WikiTitleID> <RankerScore>0.03478842093008589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coronado,_California</WikiTitle> <WikiTitleID>108033</WikiTitleID> <RankerScore>0.03478842093008589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Antioch</WikiTitle> <WikiTitleID>36900</WikiTitleID> <RankerScore>0.03478842093008589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surabaya</WikiTitle> <WikiTitleID>212635</WikiTitleID> <RankerScore>0.03478842093008589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Orleans</WikiTitle> <WikiTitleID>53842</WikiTitleID> <RankerScore>0.03478842093008589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_honorary_citizens_of_Hamburg</WikiTitle> <WikiTitleID>766595</WikiTitleID> <RankerScore>0.03478842093008589</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>city</EntitySurfaceForm>
+	<EntityTextStart>278</EntityTextStart>
+	<EntityTextEnd>282</EntityTextEnd>
+	<LinkerScore>0.5027183777972241</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>City</WikiTitle>
+		<WikiTitleID>5391</WikiTitleID>
+		<RankerScore>0.5949078186003424</RankerScore>
+		<Attributes>place	city	division</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>City</WikiTitle> <WikiTitleID>5391</WikiTitleID> <RankerScore>0.5949078186003424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cities_of_Japan</WikiTitle> <WikiTitleID>214461</WikiTitleID> <RankerScore>0.1676487474008831</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cities_of_the_Philippines</WikiTitle> <WikiTitleID>246350</WikiTitleID> <RankerScore>0.016781013804491356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Types_of_inhabited_localities_in_Russia</WikiTitle> <WikiTitleID>2813519</WikiTitleID> <RankerScore>0.012980142364369606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stad_(Sweden)</WikiTitle> <WikiTitleID>2499608</WikiTitleID> <RankerScore>0.012980142364369606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_status_in_the_United_Kingdom</WikiTitle> <WikiTitleID>70841</WikiTitleID> <RankerScore>0.012980142364369606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_divisions_of_South_Korea</WikiTitle> <WikiTitleID>892192</WikiTitleID> <RankerScore>0.012980142364369606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_(New_Jersey)</WikiTitle> <WikiTitleID>2879687</WikiTitleID> <RankerScore>0.012980142364369606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Municipalities_of_Japan</WikiTitle> <WikiTitleID>452027</WikiTitleID> <RankerScore>0.012980142364369606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_in_Lithuania</WikiTitle> <WikiTitleID>2796933</WikiTitleID> <RankerScore>0.012980142364369606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Municipalities_of_Sweden</WikiTitle> <WikiTitleID>191302</WikiTitleID> <RankerScore>0.012980142364369606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_regencies_and_cities_of_Indonesia</WikiTitle> <WikiTitleID>7174670</WikiTitleID> <RankerScore>0.012980142364369606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_in_the_Dominican_Republic</WikiTitle> <WikiTitleID>410702</WikiTitleID> <RankerScore>0.012980142364369606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_in_Luxembourg</WikiTitle> <WikiTitleID>467853</WikiTitleID> <RankerScore>0.012980142364369606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communes_of_France</WikiTitle> <WikiTitleID>410219</WikiTitleID> <RankerScore>0.012980142364369606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Urban_areas_in_Sweden</WikiTitle> <WikiTitleID>1269662</WikiTitleID> <RankerScore>0.012980142364369606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_in_Turkey</WikiTitle> <WikiTitleID>214476</WikiTitleID> <RankerScore>0.012980142364369606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Perth</WikiTitle> <WikiTitleID>24355</WikiTitleID> <RankerScore>0.012980142364369606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_of_London</WikiTitle> <WikiTitleID>6883</WikiTitleID> <RankerScore>0.012980142364369606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sydney_central_business_district</WikiTitle> <WikiTitleID>1740289</WikiTitleID> <RankerScore>0.012980142364369606</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>multiple</EntitySurfaceForm>
+	<EntityTextStart>288</EntityTextStart>
+	<EntityTextEnd>296</EntityTextEnd>
+	<LinkerScore>-1.4677305744913203</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Multiple</WikiTitle>
+		<WikiTitleID>3355266</WikiTitleID>
+		<RankerScore>0.3147722765594387</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Multiple</WikiTitle> <WikiTitleID>3355266</WikiTitleID> <RankerScore>0.3147722765594387</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Multiple_(mathematics)</WikiTitle> <WikiTitleID>3912709</WikiTitleID> <RankerScore>0.2028197902755213</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Multiple_unit</WikiTitle> <WikiTitleID>97070</WikiTitleID> <RankerScore>0.053144653896503954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Divisor</WikiTitle> <WikiTitleID>49492</WikiTitleID> <RankerScore>0.05365790990856701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Creedence_Clearwater_Revival_discography</WikiTitle> <WikiTitleID>13370036</WikiTitleID> <RankerScore>0.05365790990856701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Power_of_two</WikiTitle> <WikiTitleID>376948</WikiTitleID> <RankerScore>0.05365790990856701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dissociative_identity_disorder</WikiTitle> <WikiTitleID>39653</WikiTitleID> <RankerScore>0.05365790990856701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Multiple-unit_train_control</WikiTitle> <WikiTitleID>560839</WikiTitleID> <RankerScore>0.05365790990856701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Multiple_inheritance</WikiTitle> <WikiTitleID>19550</WikiTitleID> <RankerScore>0.05365790990856701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Symmetric_multiprocessing</WikiTitle> <WikiTitleID>50318</WikiTitleID> <RankerScore>0.05365790990856701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Multiple_star</WikiTitle> <WikiTitleID>209434</WikiTitleID> <RankerScore>0.05365790990856701</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>directions</EntitySurfaceForm>
+	<EntityTextStart>297</EntityTextStart>
+	<EntityTextEnd>307</EntityTextEnd>
+	<LinkerScore>-0.6776223018763189</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Direction</WikiTitle>
+		<WikiTitleID>378364</WikiTitleID>
+		<RankerScore>0.5722787002036093</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Direction</WikiTitle> <WikiTitleID>378364</WikiTitleID> <RankerScore>0.5722787002036093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Navigation</WikiTitle> <WikiTitleID>21854</WikiTitleID> <RankerScore>0.15247760214565087</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Theatre_director</WikiTitle> <WikiTitleID>103078</WikiTitleID> <RankerScore>0.13744436374714256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Direction_(geometry)</WikiTitle> <WikiTitleID>4767947</WikiTitleID> <RankerScore>0.13779933390359744</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the end</EntitySurfaceForm>
+	<EntityTextStart>329</EntityTextStart>
+	<EntityTextEnd>336</EntityTextEnd>
+	<LinkerScore>0.04339498394224173</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sukhumi_massacre</WikiTitle>
+		<WikiTitleID>6031490</WikiTitleID>
+		<RankerScore>0.5444809633639873</RankerScore>
+		<Attributes>crime	massacre</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sukhumi_massacre</WikiTitle> <WikiTitleID>6031490</WikiTitleID> <RankerScore>0.5444809633639873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_End</WikiTitle> <WikiTitleID>867478</WikiTitleID> <RankerScore>0.2696572918360594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>End</WikiTitle> <WikiTitleID>2551334</WikiTitleID> <RankerScore>0.18586174479995332</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Tōshō-ji</EntitySurfaceForm>
+	<EntityTextStart>374</EntityTextStart>
+	<EntityTextEnd>382</EntityTextEnd>
+	<LinkerScore>4.800212395990919</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tōshō-ji</WikiTitle>
+		<WikiTitleID>17208453</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tōshō-ji</WikiTitle> <WikiTitleID>17208453</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>suicide</EntitySurfaceForm>
+	<EntityTextStart>407</EntityTextStart>
+	<EntityTextEnd>414</EntityTextEnd>
+	<LinkerScore>1.7588765366409334</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Suicide</WikiTitle>
+		<WikiTitleID>16831059</WikiTitleID>
+		<RankerScore>0.8284076799271586</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Suicide</WikiTitle> <WikiTitleID>16831059</WikiTitleID> <RankerScore>0.8284076799271586</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Youth_suicide</WikiTitle> <WikiTitleID>766589</WikiTitleID> <RankerScore>0.007156816016960336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Death_of_Adolf_Hitler</WikiTitle> <WikiTitleID>1033897</WikiTitleID> <RankerScore>0.006755927022646644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seppuku</WikiTitle> <WikiTitleID>29505</WikiTitleID> <RankerScore>0.06985252573882807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suicide_attack</WikiTitle> <WikiTitleID>29361</WikiTitleID> <RankerScore>0.006755927022646644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_suicides</WikiTitle> <WikiTitleID>143848</WikiTitleID> <RankerScore>0.006755927022646644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mass_suicide</WikiTitle> <WikiTitleID>1618662</WikiTitleID> <RankerScore>0.006755927022646644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cult_suicide</WikiTitle> <WikiTitleID>7746</WikiTitleID> <RankerScore>0.006755927022646644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suicide_door</WikiTitle> <WikiTitleID>523350</WikiTitleID> <RankerScore>0.006755927022646644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chris_Benoit_double_murder_and_suicide</WikiTitle> <WikiTitleID>12144557</WikiTitleID> <RankerScore>0.006755927022646644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_in_British_music</WikiTitle> <WikiTitleID>2205402</WikiTitleID> <RankerScore>0.006755927022646644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Antichess</WikiTitle> <WikiTitleID>150161</WikiTitleID> <RankerScore>0.006755927022646644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Trevor_Project</WikiTitle> <WikiTitleID>4398469</WikiTitleID> <RankerScore>0.006755927022646644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suicide_(band)</WikiTitle> <WikiTitleID>172914</WikiTitleID> <RankerScore>0.006755927022646644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guantanamo_Bay_detention_camp_suicide_attempts</WikiTitle> <WikiTitleID>5509655</WikiTitleID> <RankerScore>0.006755927022646644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Forced_suicide</WikiTitle> <WikiTitleID>2332535</WikiTitleID> <RankerScore>0.006755927022646644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kamikaze</WikiTitle> <WikiTitleID>16625</WikiTitleID> <RankerScore>0.006755927022646644</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The hills</EntitySurfaceForm>
+	<EntityTextStart>416</EntityTextStart>
+	<EntityTextEnd>425</EntityTextEnd>
+	<LinkerScore>2.8265902206937015</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Seven_hills_of_Rome</WikiTitle>
+		<WikiTitleID>44828</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Seven_hills_of_Rome</WikiTitle> <WikiTitleID>44828</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hills</EntitySurfaceForm>
+	<EntityTextStart>420</EntityTextStart>
+	<EntityTextEnd>425</EntityTextEnd>
+	<LinkerScore>0.6435692719614041</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hill</WikiTitle>
+		<WikiTitleID>1408983</WikiTitleID>
+		<RankerScore>0.8676426275156014</RankerScore>
+		<Attributes>mountain</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hill</WikiTitle> <WikiTitleID>1408983</WikiTitleID> <RankerScore>0.8676426275156014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adelaide_Hills</WikiTitle> <WikiTitleID>1476672</WikiTitleID> <RankerScore>0.033741459951413005</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Berkeley_Hills</WikiTitle> <WikiTitleID>4232573</WikiTitleID> <RankerScore>0.028833261890057655</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mountain</WikiTitle> <WikiTitleID>37754</WikiTitleID> <RankerScore>0.034891325321463926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kalrayan_Hills</WikiTitle> <WikiTitleID>7405475</WikiTitleID> <RankerScore>0.034891325321463926</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>shogunal</EntitySurfaceForm>
+	<EntityTextStart>442</EntityTextStart>
+	<EntityTextEnd>450</EntityTextEnd>
+	<LinkerScore>2.9243435458050038</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Shogun</WikiTitle>
+		<WikiTitleID>28943</WikiTitleID>
+		<RankerScore>0.9994329656986848</RankerScore>
+		<Attributes>rank	position	title</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Shogun</WikiTitle> <WikiTitleID>28943</WikiTitleID> <RankerScore>0.9994329656986848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tokugawa_shogunate</WikiTitle> <WikiTitleID>84507</WikiTitleID> <RankerScore>5.670343013151013E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>capital</EntitySurfaceForm>
+	<EntityTextStart>451</EntityTextStart>
+	<EntityTextEnd>458</EntityTextEnd>
+	<LinkerScore>2.2120496744034464</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Capital</WikiTitle>
+		<WikiTitleID>181337</WikiTitleID>
+		<RankerScore>0.8399329638292272</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Capital</WikiTitle> <WikiTitleID>181337</WikiTitleID> <RankerScore>0.8399329638292272</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Capital_(economics)</WikiTitle> <WikiTitleID>181293</WikiTitleID> <RankerScore>0.021346604128801332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Capital_(architecture)</WikiTitle> <WikiTitleID>355024</WikiTitleID> <RankerScore>0.011659390911006807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Letter_case</WikiTitle> <WikiTitleID>73468</WikiTitleID> <RankerScore>0.007474178890056744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Capital_punishment</WikiTitle> <WikiTitleID>5902</WikiTitleID> <RankerScore>0.007474178890056744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Financial_capital</WikiTitle> <WikiTitleID>45807</WikiTitleID> <RankerScore>0.007474178890056744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Capitalism</WikiTitle> <WikiTitleID>5416</WikiTitleID> <RankerScore>0.007474178890056744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lists_of_capitals</WikiTitle> <WikiTitleID>8134902</WikiTitleID> <RankerScore>0.007474178890056744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Oregon_State_Capitol</WikiTitle> <WikiTitleID>3598864</WikiTitleID> <RankerScore>0.007474178890056744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_and_union_territory_capitals_in_India</WikiTitle> <WikiTitleID>2371868</WikiTitleID> <RankerScore>0.007474178890056744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Budapest</WikiTitle> <WikiTitleID>36787</WikiTitleID> <RankerScore>0.007474178890056744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madrid</WikiTitle> <WikiTitleID>20780</WikiTitleID> <RankerScore>0.007474178890056744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Australian_capital_cities</WikiTitle> <WikiTitleID>3326582</WikiTitleID> <RankerScore>0.007474178890056744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Capital_of_Japan</WikiTitle> <WikiTitleID>494807</WikiTitleID> <RankerScore>0.007474178890056744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_capitals_in_the_United_States</WikiTitle> <WikiTitleID>255627</WikiTitleID> <RankerScore>0.007474178890056744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Buenos_Aires</WikiTitle> <WikiTitleID>255919</WikiTitleID> <RankerScore>0.007474178890056744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Capitalization</WikiTitle> <WikiTitleID>215741</WikiTitleID> <RankerScore>0.007474178890056744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Capital_of_the_Netherlands</WikiTitle> <WikiTitleID>169683</WikiTitleID> <RankerScore>0.007474178890056744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pyongyang</WikiTitle> <WikiTitleID>47948</WikiTitleID> <RankerScore>0.007474178890056744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Provinces_and_territories_of_Canada</WikiTitle> <WikiTitleID>75763</WikiTitleID> <RankerScore>0.007474178890056744</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Kamakura</EntitySurfaceForm>
+	<EntityTextStart>462</EntityTextStart>
+	<EntityTextEnd>470</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Kamakura,_Kanagawa</WikiTitle>
+		<WikiTitleID>61759</WikiTitleID>
+		<RankerScore>0.9294111831424815</RankerScore>
+		<Attributes>city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Kamakura,_Kanagawa</WikiTitle> <WikiTitleID>61759</WikiTitleID> <RankerScore>0.9294111831424815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kamakura_shogunate</WikiTitle> <WikiTitleID>84505</WikiTitleID> <RankerScore>0.04879312025569293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kamakura_period</WikiTitle> <WikiTitleID>201198</WikiTitleID> <RankerScore>3.939199235938444E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kōtoku-in</WikiTitle> <WikiTitleID>730217</WikiTitleID> <RankerScore>3.939199235938444E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kamakura_(G.I._Joe)</WikiTitle> <WikiTitleID>9111614</WikiTitleID> <RankerScore>3.939199235938444E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kamakura,_Kanagawa</WikiTitle> <WikiTitleID>61758</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hōjō_clan</WikiTitle> <WikiTitleID>313320</WikiTitleID> <RankerScore>0.020613936831043983</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>passes</EntitySurfaceForm>
+	<EntityTextStart>487</EntityTextStart>
+	<EntityTextEnd>493</EntityTextEnd>
+	<LinkerScore>0.37475117793148993</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mountain_pass</WikiTitle>
+		<WikiTitleID>374673</WikiTitleID>
+		<RankerScore>0.5098518871616394</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mountain_pass</WikiTitle> <WikiTitleID>374673</WikiTitleID> <RankerScore>0.5098518871616394</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Forward_pass</WikiTitle> <WikiTitleID>10654</WikiTitleID> <RankerScore>0.1207915218550621</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Passing_(racial_identity)</WikiTitle> <WikiTitleID>7705854</WikiTitleID> <RankerScore>0.0858993504843358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pass</WikiTitle> <WikiTitleID>374635</WikiTitleID> <RankerScore>0.09448574683298756</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Passing_(sociology)</WikiTitle> <WikiTitleID>189941</WikiTitleID> <RankerScore>0.09448574683298756</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pass_(United_States_military)</WikiTitle> <WikiTitleID>488740</WikiTitleID> <RankerScore>0.09448574683298756</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>guarded</EntitySurfaceForm>
+	<EntityTextStart>505</EntityTextStart>
+	<EntityTextEnd>512</EntityTextEnd>
+	<LinkerScore>2.3599006278751706</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Guard_(computer_science)</WikiTitle>
+		<WikiTitleID>1186249</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>construct</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Guard_(computer_science)</WikiTitle> <WikiTitleID>1186249</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>checkpoints</EntitySurfaceForm>
+	<EntityTextStart>513</EntityTextStart>
+	<EntityTextEnd>524</EntityTextEnd>
+	<LinkerScore>-0.237417062552564</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Checkpoint</WikiTitle>
+		<WikiTitleID>2188880</WikiTitleID>
+		<RankerScore>0.47512835246174834</RankerScore>
+		<Attributes>film</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Checkpoint</WikiTitle> <WikiTitleID>2188880</WikiTitleID> <RankerScore>0.47512835246174834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_checkpoint</WikiTitle> <WikiTitleID>3866679</WikiTitleID> <RankerScore>0.17547722487592055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saved_game</WikiTitle> <WikiTitleID>1265019</WikiTitleID> <RankerScore>0.1264936313220913</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Border_checkpoint</WikiTitle> <WikiTitleID>288329</WikiTitleID> <RankerScore>0.11145039567011988</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cell_cycle_checkpoint</WikiTitle> <WikiTitleID>3730562</WikiTitleID> <RankerScore>0.11145039567011988</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Nitta</EntitySurfaceForm>
+	<EntityTextStart>526</EntityTextStart>
+	<EntityTextEnd>531</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Nitta_Yoshisada</WikiTitle>
+		<WikiTitleID>1879814</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>personnel	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Nitta_clan</WikiTitle> <WikiTitleID>1360537</WikiTitleID> <RankerScore>0.8486506476573138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nitta,_Gunma</WikiTitle> <WikiTitleID>868697</WikiTitleID> <RankerScore>0.08741296140693301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nitta_Station_(Miyagi)</WikiTitle> <WikiTitleID>5005321</WikiTitleID> <RankerScore>0.0482163391139495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nitta_District,_Gunma</WikiTitle> <WikiTitleID>868417</WikiTitleID> <RankerScore>0.015720051821803638</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Nitta Yoshisada</EntitySurfaceForm>
+	<EntityTextStart>526</EntityTextStart>
+	<EntityTextEnd>541</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Nitta_Yoshisada</WikiTitle>
+		<WikiTitleID>1879814</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>personnel	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Nitta_Yoshisada</WikiTitle> <WikiTitleID>1879814</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yoshisada</EntitySurfaceForm>
+	<EntityTextStart>532</EntityTextStart>
+	<EntityTextEnd>541</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Nitta_Yoshisada</WikiTitle>
+		<WikiTitleID>1879814</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>personnel	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Isshiki_Yoshisada</WikiTitle> <WikiTitleID>15178917</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the north</EntitySurfaceForm>
+	<EntityTextStart>556</EntityTextStart>
+	<EntityTextEnd>565</EntityTextEnd>
+	<LinkerScore>-0.4338478170734468</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Northern_England</WikiTitle>
+		<WikiTitleID>714694</WikiTitleID>
+		<RankerScore>0.3585767365173339</RankerScore>
+		<Attributes>region</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Northern_England</WikiTitle> <WikiTitleID>714694</WikiTitleID> <RankerScore>0.3585767365173339</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Canada</WikiTitle> <WikiTitleID>79987</WikiTitleID> <RankerScore>0.2601211471297706</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Wales</WikiTitle> <WikiTitleID>686069</WikiTitleID> <RankerScore>0.2518926593617688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norte_Grande</WikiTitle> <WikiTitleID>10163484</WikiTitleID> <RankerScore>0.12940945699112671</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>north</EntitySurfaceForm>
+	<EntityTextStart>560</EntityTextStart>
+	<EntityTextEnd>565</EntityTextEnd>
+	<LinkerScore>2.4652234821718566</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>North</WikiTitle>
+		<WikiTitleID>56478</WikiTitleID>
+		<RankerScore>0.7516968728639384</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>North</WikiTitle> <WikiTitleID>56478</WikiTitleID> <RankerScore>0.7516968728639384</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>True_north</WikiTitle> <WikiTitleID>3666492</WikiTitleID> <RankerScore>0.017023280117220353</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Wales</WikiTitle> <WikiTitleID>686069</WikiTitleID> <RankerScore>0.015025101246810878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Dallas</WikiTitle> <WikiTitleID>2172228</WikiTitleID> <RankerScore>0.01272086739835473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Omaha,_Nebraska</WikiTitle> <WikiTitleID>4242653</WikiTitleID> <RankerScore>0.01272086739835473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_England</WikiTitle> <WikiTitleID>714694</WikiTitleID> <RankerScore>0.01272086739835473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ireland</WikiTitle> <WikiTitleID>21265</WikiTitleID> <RankerScore>0.01272086739835473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Pole</WikiTitle> <WikiTitleID>21836</WikiTitleID> <RankerScore>0.01272086739835473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_India</WikiTitle> <WikiTitleID>1552939</WikiTitleID> <RankerScore>0.01272086739835473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Nigeria</WikiTitle> <WikiTitleID>5114180</WikiTitleID> <RankerScore>0.01272086739835473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_United_States</WikiTitle> <WikiTitleID>509638</WikiTitleID> <RankerScore>0.01272086739835473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Region,_Brazil</WikiTitle> <WikiTitleID>1279803</WikiTitleID> <RankerScore>0.01272086739835473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Thailand</WikiTitle> <WikiTitleID>879139</WikiTitleID> <RankerScore>0.01272086739835473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada–United_States_border</WikiTitle> <WikiTitleID>630260</WikiTitleID> <RankerScore>0.01272086739835473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Europe</WikiTitle> <WikiTitleID>159865</WikiTitleID> <RankerScore>0.01272086739835473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norte_Region,_Portugal</WikiTitle> <WikiTitleID>2528128</WikiTitleID> <RankerScore>0.01272086739835473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_China</WikiTitle> <WikiTitleID>923364</WikiTitleID> <RankerScore>0.01272086739835473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Vietnam</WikiTitle> <WikiTitleID>59871</WikiTitleID> <RankerScore>0.01272086739835473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Region,_Ghana</WikiTitle> <WikiTitleID>2227697</WikiTitleID> <RankerScore>0.01272086739835473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Shore_(Montreal)</WikiTitle> <WikiTitleID>15832875</WikiTitleID> <RankerScore>0.01272086739835473</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>west</EntitySurfaceForm>
+	<EntityTextStart>577</EntityTextStart>
+	<EntityTextEnd>581</EntityTextEnd>
+	<LinkerScore>3.3662627116761366</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>West</WikiTitle>
+		<WikiTitleID>61026</WikiTitleID>
+		<RankerScore>0.9031879669073263</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>West</WikiTitle> <WikiTitleID>61026</WikiTitleID> <RankerScore>0.9031879669073263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_world</WikiTitle> <WikiTitleID>374761</WikiTitleID> <RankerScore>0.006109049438194639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_United_States</WikiTitle> <WikiTitleID>179578</WikiTitleID> <RankerScore>0.004952332601662496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Longitude</WikiTitle> <WikiTitleID>17617</WikiTitleID> <RankerScore>0.006513329426216556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Front_(World_War_I)</WikiTitle> <WikiTitleID>51499</WikiTitleID> <RankerScore>0.004952332601662496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Catholic_Church</WikiTitle> <WikiTitleID>606848</WikiTitleID> <RankerScore>0.004952332601662496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Germany</WikiTitle> <WikiTitleID>33166</WikiTitleID> <RankerScore>0.004952332601662496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_frontier</WikiTitle> <WikiTitleID>252507</WikiTitleID> <RankerScore>0.004952332601662496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Canada</WikiTitle> <WikiTitleID>519100</WikiTitleID> <RankerScore>0.004952332601662496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Europe</WikiTitle> <WikiTitleID>33800</WikiTitleID> <RankerScore>0.004952332601662496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Xionites</WikiTitle> <WikiTitleID>2526426</WikiTitleID> <RankerScore>0.004952332601662496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Changi_Air_Base_(West)</WikiTitle> <WikiTitleID>1963250</WikiTitleID> <RankerScore>0.004952332601662496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Konkan</WikiTitle> <WikiTitleID>488395</WikiTitleID> <RankerScore>0.004952332601662496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Norway</WikiTitle> <WikiTitleID>1436846</WikiTitleID> <RankerScore>0.004952332601662496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Java</WikiTitle> <WikiTitleID>314356</WikiTitleID> <RankerScore>0.004952332601662496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsavo_West_National_Park</WikiTitle> <WikiTitleID>16992009</WikiTitleID> <RankerScore>0.004952332601662496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolton_West_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>1811187</WikiTitleID> <RankerScore>0.004952332601662496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_America</WikiTitle> <WikiTitleID>21139</WikiTitleID> <RankerScore>0.004952332601662496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belfast_West</WikiTitle> <WikiTitleID>3789527</WikiTitleID> <RankerScore>0.004952332601662496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Texas</WikiTitle> <WikiTitleID>616362</WikiTitleID> <RankerScore>0.004952332601662496</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>force</EntitySurfaceForm>
+	<EntityTextStart>596</EntityTextStart>
+	<EntityTextEnd>601</EntityTextEnd>
+	<LinkerScore>1.6309612602208212</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Force</WikiTitle>
+		<WikiTitleID>10902</WikiTitleID>
+		<RankerScore>0.8255730354091301</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Force</WikiTitle> <WikiTitleID>10902</WikiTitleID> <RankerScore>0.8255730354091301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Potentiality_and_actuality</WikiTitle> <WikiTitleID>2384021</WikiTitleID> <RankerScore>0.01023191264979534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Force_play</WikiTitle> <WikiTitleID>898293</WikiTitleID> <RankerScore>0.007414080060365858</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Force_(law)</WikiTitle> <WikiTitleID>140339</WikiTitleID> <RankerScore>0.009222410110629926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Force_(Star_Wars)</WikiTitle> <WikiTitleID>67780</WikiTitleID> <RankerScore>0.009222410110629926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Armed_forces</WikiTitle> <WikiTitleID>18905</WikiTitleID> <RankerScore>0.009222410110629926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cornering_force</WikiTitle> <WikiTitleID>2137836</WikiTitleID> <RankerScore>0.009222410110629926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Use_of_force</WikiTitle> <WikiTitleID>1155141</WikiTitleID> <RankerScore>0.009222410110629926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Army</WikiTitle> <WikiTitleID>1376</WikiTitleID> <RankerScore>0.009222410110629926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electromagnetism</WikiTitle> <WikiTitleID>9809</WikiTitleID> <RankerScore>0.009222410110629926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beaufort_scale</WikiTitle> <WikiTitleID>155110</WikiTitleID> <RankerScore>0.009222410110629926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vanguard</WikiTitle> <WikiTitleID>444807</WikiTitleID> <RankerScore>0.009222410110629926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Army</WikiTitle> <WikiTitleID>4887</WikiTitleID> <RankerScore>0.009222410110629926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Power_(social_and_political)</WikiTitle> <WikiTitleID>604028</WikiTitleID> <RankerScore>0.009222410110629926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military</WikiTitle> <WikiTitleID>92357</WikiTitleID> <RankerScore>0.009222410110629926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Navy</WikiTitle> <WikiTitleID>21533</WikiTitleID> <RankerScore>0.009222410110629926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fundamental_interaction</WikiTitle> <WikiTitleID>10890</WikiTitleID> <RankerScore>0.009222410110629926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lorentz_force</WikiTitle> <WikiTitleID>18631</WikiTitleID> <RankerScore>0.009222410110629926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victoria_Police</WikiTitle> <WikiTitleID>1120591</WikiTitleID> <RankerScore>0.009222410110629926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Violence</WikiTitle> <WikiTitleID>46112</WikiTitleID> <RankerScore>0.009222410110629926</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hours</EntitySurfaceForm>
+	<EntityTextStart>632</EntityTextStart>
+	<EntityTextEnd>637</EntityTextEnd>
+	<LinkerScore>0.6207916706632262</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hours</WikiTitle>
+		<WikiTitleID>634045</WikiTitleID>
+		<RankerScore>0.7586666640611902</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hours</WikiTitle> <WikiTitleID>634045</WikiTitleID> <RankerScore>0.7586666640611902</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canonical_hours</WikiTitle> <WikiTitleID>203688</WikiTitleID> <RankerScore>0.03120505775575321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Working_time</WikiTitle> <WikiTitleID>552168</WikiTitleID> <RankerScore>0.03036244637746418</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hour</WikiTitle> <WikiTitleID>14004</WikiTitleID> <RankerScore>0.03595316636111848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hourly_worker</WikiTitle> <WikiTitleID>15586447</WikiTitleID> <RankerScore>0.03595316636111848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Liturgy_of_the_Hours</WikiTitle> <WikiTitleID>1951124</WikiTitleID> <RankerScore>0.03595316636111848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>24-hour_clock</WikiTitle> <WikiTitleID>241342</WikiTitleID> <RankerScore>0.03595316636111848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horae</WikiTitle> <WikiTitleID>80513</WikiTitleID> <RankerScore>0.03595316636111848</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>fighting</EntitySurfaceForm>
+	<EntityTextStart>641</EntityTextStart>
+	<EntityTextEnd>649</EntityTextEnd>
+	<LinkerScore>1.1141350597429107</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Combat</WikiTitle>
+		<WikiTitleID>43702</WikiTitleID>
+		<RankerScore>0.16790916883187193</RankerScore>
+		<Attributes>operations</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Combat</WikiTitle> <WikiTitleID>43702</WikiTitleID> <RankerScore>0.16790916883187193</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fighting_game</WikiTitle> <WikiTitleID>32398</WikiTitleID> <RankerScore>0.06371556939585372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fighting_in_ice_hockey</WikiTitle> <WikiTitleID>568048</WikiTitleID> <RankerScore>0.03772456711845372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dog_fighting</WikiTitle> <WikiTitleID>305835</WikiTitleID> <RankerScore>0.04297945262669533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>War</WikiTitle> <WikiTitleID>33158</WikiTitleID> <RankerScore>0.04297945262669533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>War_in_Somalia_(2006–09)</WikiTitle> <WikiTitleID>6069615</WikiTitleID> <RankerScore>0.04297945262669533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Street_fighting</WikiTitle> <WikiTitleID>357980</WikiTitleID> <RankerScore>0.04297945262669533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operation_Michael</WikiTitle> <WikiTitleID>2660115</WikiTitleID> <RankerScore>0.04297945262669533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Catfight</WikiTitle> <WikiTitleID>1321828</WikiTitleID> <RankerScore>0.04297945262669533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kosovo_War</WikiTitle> <WikiTitleID>16760</WikiTitleID> <RankerScore>0.04297945262669533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eastern_Front_(World_War_II)</WikiTitle> <WikiTitleID>519489</WikiTitleID> <RankerScore>0.04297945262669533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Domestic_violence</WikiTitle> <WikiTitleID>18582471</WikiTitleID> <RankerScore>0.04297945262669533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fighter_kite</WikiTitle> <WikiTitleID>13754651</WikiTitleID> <RankerScore>0.04297945262669533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Halbe</WikiTitle> <WikiTitleID>1173061</WikiTitleID> <RankerScore>0.04297945262669533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Army_invasion_of_Georgia</WikiTitle> <WikiTitleID>7761715</WikiTitleID> <RankerScore>0.04297945262669533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hand-to-hand_combat</WikiTitle> <WikiTitleID>1494071</WikiTitleID> <RankerScore>0.04297945262669533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beat_&apos;em_up</WikiTitle> <WikiTitleID>3552022</WikiTitleID> <RankerScore>0.04297945262669533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sri_Lankan_Civil_War</WikiTitle> <WikiTitleID>225283</WikiTitleID> <RankerScore>0.04297945262669533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Border_War_(Kansas–Missouri_rivalry)</WikiTitle> <WikiTitleID>14411847</WikiTitleID> <RankerScore>0.04297945262669533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexican–American_War</WikiTitle> <WikiTitleID>44155</WikiTitleID> <RankerScore>0.04297945262669533</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>little</EntitySurfaceForm>
+	<EntityTextStart>651</EntityTextStart>
+	<EntityTextEnd>657</EntityTextEnd>
+	<LinkerScore>-1.6100009629371468</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Little</WikiTitle>
+		<WikiTitleID>6986454</WikiTitleID>
+		<RankerScore>0.3713130581283657</RankerScore>
+		<Attributes>surname</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Little</WikiTitle> <WikiTitleID>6986454</WikiTitleID> <RankerScore>0.3713130581283657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diminutive</WikiTitle> <WikiTitleID>505892</WikiTitleID> <RankerScore>0.1625121627184475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Little_Econlockhatchee_River</WikiTitle> <WikiTitleID>9167793</WikiTitleID> <RankerScore>0.1994159088663242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Little_Owl</WikiTitle> <WikiTitleID>200421</WikiTitleID> <RankerScore>0.13337943514343134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Little_finger</WikiTitle> <WikiTitleID>950991</WikiTitleID> <RankerScore>0.13337943514343134</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>progress</EntitySurfaceForm>
+	<EntityTextStart>658</EntityTextStart>
+	<EntityTextEnd>666</EntityTextEnd>
+	<LinkerScore>-1.2322773116676895</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Progress</WikiTitle>
+		<WikiTitleID>178207</WikiTitleID>
+		<RankerScore>0.3146155963051524</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Progress</WikiTitle> <WikiTitleID>178207</WikiTitleID> <RankerScore>0.3146155963051524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Philosophical_progress</WikiTitle> <WikiTitleID>394744</WikiTitleID> <RankerScore>0.18215278494745643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Social_progress</WikiTitle> <WikiTitleID>2118843</WikiTitleID> <RankerScore>0.07771251928923216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Entry</WikiTitle> <WikiTitleID>13462164</WikiTitleID> <RankerScore>0.053189887432269864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Largest-scale_trends_in_evolution</WikiTitle> <WikiTitleID>6692007</WikiTitleID> <RankerScore>0.053189887432269864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_american_progress</WikiTitle> <WikiTitleID>11100413</WikiTitleID> <RankerScore>0.053189887432269864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_technology</WikiTitle> <WikiTitleID>803661</WikiTitleID> <RankerScore>0.053189887432269864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Astrological_progression</WikiTitle> <WikiTitleID>10663191</WikiTitleID> <RankerScore>0.053189887432269864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scientific_progress</WikiTitle> <WikiTitleID>1359791</WikiTitleID> <RankerScore>0.053189887432269864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progress_(history)</WikiTitle> <WikiTitleID>1729341</WikiTitleID> <RankerScore>0.053189887432269864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressivism</WikiTitle> <WikiTitleID>2009513</WikiTitleID> <RankerScore>0.053189887432269864</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the city</EntitySurfaceForm>
+	<EntityTextStart>689</EntityTextStart>
+	<EntityTextEnd>697</EntityTextEnd>
+	<LinkerScore>-1.144324405239676</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lima</WikiTitle>
+		<WikiTitleID>85423</WikiTitleID>
+		<RankerScore>0.11842189384896941</RankerScore>
+		<Attributes>capital	place	city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lima</WikiTitle> <WikiTitleID>85423</WikiTitleID> <RankerScore>0.11842189384896941</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City</WikiTitle> <WikiTitleID>645042</WikiTitleID> <RankerScore>0.08424411982469841</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Novi_Sad</WikiTitle> <WikiTitleID>113288</WikiTitleID> <RankerScore>0.07006600458952617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ponce,_Puerto_Rico</WikiTitle> <WikiTitleID>84165</WikiTitleID> <RankerScore>0.04278046951392976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rome</WikiTitle> <WikiTitleID>25458</WikiTitleID> <RankerScore>0.04278046951392976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Green_Bay,_Wisconsin</WikiTitle> <WikiTitleID>217033</WikiTitleID> <RankerScore>0.04278046951392976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Melbourne_City_Centre</WikiTitle> <WikiTitleID>7467700</WikiTitleID> <RankerScore>0.04278046951392976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sydney</WikiTitle> <WikiTitleID>27862</WikiTitleID> <RankerScore>0.04278046951392976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mulberry,_Florida</WikiTitle> <WikiTitleID>109723</WikiTitleID> <RankerScore>0.04278046951392976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Szeged</WikiTitle> <WikiTitleID>397272</WikiTitleID> <RankerScore>0.04278046951392976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sydney_central_business_district</WikiTitle> <WikiTitleID>1740289</WikiTitleID> <RankerScore>0.04278046951392976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cleveland</WikiTitle> <WikiTitleID>5951</WikiTitleID> <RankerScore>0.04278046951392976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vancouver,_Washington</WikiTitle> <WikiTitleID>18592743</WikiTitleID> <RankerScore>0.04278046951392976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Omaha,_Nebraska</WikiTitle> <WikiTitleID>46159</WikiTitleID> <RankerScore>0.04278046951392976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Old_Toronto</WikiTitle> <WikiTitleID>4559844</WikiTitleID> <RankerScore>0.04278046951392976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coronado,_California</WikiTitle> <WikiTitleID>108033</WikiTitleID> <RankerScore>0.04278046951392976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Antioch</WikiTitle> <WikiTitleID>36900</WikiTitleID> <RankerScore>0.04278046951392976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surabaya</WikiTitle> <WikiTitleID>212635</WikiTitleID> <RankerScore>0.04278046951392976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Orleans</WikiTitle> <WikiTitleID>53842</WikiTitleID> <RankerScore>0.04278046951392976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_honorary_citizens_of_Hamburg</WikiTitle> <WikiTitleID>766595</WikiTitleID> <RankerScore>0.04278046951392976</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>city</EntitySurfaceForm>
+	<EntityTextStart>693</EntityTextStart>
+	<EntityTextEnd>697</EntityTextEnd>
+	<LinkerScore>2.05693686683708</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>City</WikiTitle>
+		<WikiTitleID>5391</WikiTitleID>
+		<RankerScore>0.6431481037467444</RankerScore>
+		<Attributes>place	city	division</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>City</WikiTitle> <WikiTitleID>5391</WikiTitleID> <RankerScore>0.6431481037467444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cities_of_Japan</WikiTitle> <WikiTitleID>214461</WikiTitleID> <RankerScore>0.14888498863248845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cities_of_the_Philippines</WikiTitle> <WikiTitleID>246350</WikiTitleID> <RankerScore>0.014611408736812001</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Types_of_inhabited_localities_in_Russia</WikiTitle> <WikiTitleID>2813519</WikiTitleID> <RankerScore>0.011373852875526783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stad_(Sweden)</WikiTitle> <WikiTitleID>2499608</WikiTitleID> <RankerScore>0.011373852875526783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_status_in_the_United_Kingdom</WikiTitle> <WikiTitleID>70841</WikiTitleID> <RankerScore>0.011373852875526783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_divisions_of_South_Korea</WikiTitle> <WikiTitleID>892192</WikiTitleID> <RankerScore>0.011373852875526783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_(New_Jersey)</WikiTitle> <WikiTitleID>2879687</WikiTitleID> <RankerScore>0.011373852875526783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Municipalities_of_Japan</WikiTitle> <WikiTitleID>452027</WikiTitleID> <RankerScore>0.011373852875526783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_in_Lithuania</WikiTitle> <WikiTitleID>2796933</WikiTitleID> <RankerScore>0.011373852875526783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Municipalities_of_Sweden</WikiTitle> <WikiTitleID>191302</WikiTitleID> <RankerScore>0.011373852875526783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_regencies_and_cities_of_Indonesia</WikiTitle> <WikiTitleID>7174670</WikiTitleID> <RankerScore>0.011373852875526783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_in_the_Dominican_Republic</WikiTitle> <WikiTitleID>410702</WikiTitleID> <RankerScore>0.011373852875526783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_in_Luxembourg</WikiTitle> <WikiTitleID>467853</WikiTitleID> <RankerScore>0.011373852875526783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communes_of_France</WikiTitle> <WikiTitleID>410219</WikiTitleID> <RankerScore>0.011373852875526783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Urban_areas_in_Sweden</WikiTitle> <WikiTitleID>1269662</WikiTitleID> <RankerScore>0.011373852875526783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_in_Turkey</WikiTitle> <WikiTitleID>214476</WikiTitleID> <RankerScore>0.011373852875526783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Perth</WikiTitle> <WikiTitleID>24355</WikiTitleID> <RankerScore>0.011373852875526783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_of_London</WikiTitle> <WikiTitleID>6883</WikiTitleID> <RankerScore>0.011373852875526783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sydney_central_business_district</WikiTitle> <WikiTitleID>1740289</WikiTitleID> <RankerScore>0.011373852875526783</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>western</EntitySurfaceForm>
+	<EntityTextStart>719</EntityTextStart>
+	<EntityTextEnd>726</EntityTextEnd>
+	<LinkerScore>-1.9336704355303662</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Western_(genre)</WikiTitle>
+		<WikiTitleID>65758</WikiTitleID>
+		<RankerScore>0.1743195126516814</RankerScore>
+		<Attributes>genre	film</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Western_(genre)</WikiTitle> <WikiTitleID>65758</WikiTitleID> <RankerScore>0.1743195126516814</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_world</WikiTitle> <WikiTitleID>374761</WikiTitleID> <RankerScore>0.05045967754319186</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_United_States</WikiTitle> <WikiTitleID>179578</WikiTitleID> <RankerScore>0.16836326198131427</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_culture</WikiTitle> <WikiTitleID>434688</WikiTitleID> <RankerScore>0.03792859673898828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_fiction</WikiTitle> <WikiTitleID>655326</WikiTitleID> <RankerScore>0.03792859673898828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greater_Western_Sydney</WikiTitle> <WikiTitleID>717277</WikiTitleID> <RankerScore>0.03792859673898828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_music</WikiTitle> <WikiTitleID>58441</WikiTitleID> <RankerScore>0.03792859673898828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_frontier</WikiTitle> <WikiTitleID>252507</WikiTitleID> <RankerScore>0.03792859673898828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_riding</WikiTitle> <WikiTitleID>7115069</WikiTitleID> <RankerScore>0.03792859673898828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Europe</WikiTitle> <WikiTitleID>33800</WikiTitleID> <RankerScore>0.03792859673898828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Region,_Singapore</WikiTitle> <WikiTitleID>2740441</WikiTitleID> <RankerScore>0.03792859673898828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Massachusetts</WikiTitle> <WikiTitleID>1069034</WikiTitleID> <RankerScore>0.03792859673898828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Roman_Empire</WikiTitle> <WikiTitleID>504379</WikiTitleID> <RankerScore>0.03792859673898828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_India</WikiTitle> <WikiTitleID>2978812</WikiTitleID> <RankerScore>0.03792859673898828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_New_York</WikiTitle> <WikiTitleID>650427</WikiTitleID> <RankerScore>0.03792859673898828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West</WikiTitle> <WikiTitleID>61026</WikiTitleID> <RankerScore>0.03792859673898828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Country_music</WikiTitle> <WikiTitleID>5247</WikiTitleID> <RankerScore>0.03792859673898828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Pennsylvania</WikiTitle> <WikiTitleID>1351168</WikiTitleID> <RankerScore>0.03792859673898828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Coast,_Tasmania</WikiTitle> <WikiTitleID>2179764</WikiTitleID> <RankerScore>0.03792859673898828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_world</WikiTitle> <WikiTitleID>74831</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>passes</EntitySurfaceForm>
+	<EntityTextStart>727</EntityTextStart>
+	<EntityTextEnd>733</EntityTextEnd>
+	<LinkerScore>2.2874461974463953</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mountain_pass</WikiTitle>
+		<WikiTitleID>374673</WikiTitleID>
+		<RankerScore>0.6735485660008274</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mountain_pass</WikiTitle> <WikiTitleID>374673</WikiTitleID> <RankerScore>0.6735485660008274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Forward_pass</WikiTitle> <WikiTitleID>10654</WikiTitleID> <RankerScore>0.08038173290725659</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Passing_(racial_identity)</WikiTitle> <WikiTitleID>7705854</WikiTitleID> <RankerScore>0.05744069926714311</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pass</WikiTitle> <WikiTitleID>374635</WikiTitleID> <RankerScore>0.06287633394159099</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Passing_(sociology)</WikiTitle> <WikiTitleID>189941</WikiTitleID> <RankerScore>0.06287633394159099</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pass_(United_States_military)</WikiTitle> <WikiTitleID>488740</WikiTitleID> <RankerScore>0.06287633394159099</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Gokuraku-ji</EntitySurfaceForm>
+	<EntityTextStart>745</EntityTextStart>
+	<EntityTextEnd>756</EntityTextEnd>
+	<LinkerScore>1.3471087918611413</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gokurakuji</WikiTitle>
+		<WikiTitleID>8407177</WikiTitleID>
+		<RankerScore>0.9476515177555868</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gokuraku-ji_(Kamakura)</WikiTitle> <WikiTitleID>8407191</WikiTitleID> <RankerScore>0.052348482244413186</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gokurakuji</WikiTitle> <WikiTitleID>8407177</WikiTitleID> <RankerScore>0.9476515177555868</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>guarded</EntitySurfaceForm>
+	<EntityTextStart>770</EntityTextStart>
+	<EntityTextEnd>777</EntityTextEnd>
+	<LinkerScore>2.3599006278751706</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Guard_(computer_science)</WikiTitle>
+		<WikiTitleID>1186249</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>construct</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Guard_(computer_science)</WikiTitle> <WikiTitleID>1186249</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>rows</EntitySurfaceForm>
+	<EntityTextStart>783</EntityTextStart>
+	<EntityTextEnd>787</EntityTextEnd>
+	<LinkerScore>3.356980695659644</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Row_(database)</WikiTitle>
+		<WikiTitleID>1041142</WikiTitleID>
+		<RankerScore>0.9534070054931616</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Row_(database)</WikiTitle> <WikiTitleID>1041142</WikiTitleID> <RankerScore>0.9534070054931616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tone_row</WikiTitle> <WikiTitleID>31045</WikiTitleID> <RankerScore>0.04659299450683833</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>rows</EntitySurfaceForm>
+	<EntityTextStart>793</EntityTextStart>
+	<EntityTextEnd>797</EntityTextEnd>
+	<LinkerScore>3.3717884772386295</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Row_(database)</WikiTitle>
+		<WikiTitleID>1041142</WikiTitleID>
+		<RankerScore>0.9580671127979491</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Row_(database)</WikiTitle> <WikiTitleID>1041142</WikiTitleID> <RankerScore>0.9580671127979491</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tone_row</WikiTitle> <WikiTitleID>31045</WikiTitleID> <RankerScore>0.041932887202050906</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>wooden</EntitySurfaceForm>
+	<EntityTextStart>801</EntityTextStart>
+	<EntityTextEnd>807</EntityTextEnd>
+	<LinkerScore>0.5989883079339282</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wood</WikiTitle>
+		<WikiTitleID>33550</WikiTitleID>
+		<RankerScore>0.7170307010520792</RankerScore>
+		<Attributes>material</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Wood</WikiTitle> <WikiTitleID>33550</WikiTitleID> <RankerScore>0.7170307010520792</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wooden_roller_coaster</WikiTitle> <WikiTitleID>607576</WikiTitleID> <RankerScore>0.07041872820452771</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lumber</WikiTitle> <WikiTitleID>59399</WikiTitleID> <RankerScore>0.038645313522795884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shake_(shingle)</WikiTitle> <WikiTitleID>1023510</WikiTitleID> <RankerScore>0.04347631430514932</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stave_church</WikiTitle> <WikiTitleID>641642</WikiTitleID> <RankerScore>0.04347631430514932</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Woodworking</WikiTitle> <WikiTitleID>33118</WikiTitleID> <RankerScore>0.04347631430514932</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ship</WikiTitle> <WikiTitleID>27008</WikiTitleID> <RankerScore>0.04347631430514932</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>shielding</EntitySurfaceForm>
+	<EntityTextStart>808</EntityTextStart>
+	<EntityTextEnd>817</EntityTextEnd>
+	<LinkerScore>-1.159972450284612</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Radiation_protection</WikiTitle>
+		<WikiTitleID>333692</WikiTitleID>
+		<RankerScore>0.3244240777675984</RankerScore>
+		<Attributes>effects</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Electromagnetic_shielding</WikiTitle> <WikiTitleID>1564394</WikiTitleID> <RankerScore>0.13014775009753654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radiation_protection</WikiTitle> <WikiTitleID>333692</WikiTitleID> <RankerScore>0.3244240777675984</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Force_shield</WikiTitle> <WikiTitleID>550627</WikiTitleID> <RankerScore>0.06702542561159246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electric-field_screening</WikiTitle> <WikiTitleID>191897</WikiTitleID> <RankerScore>0.06834324950332464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lead_shielding</WikiTitle> <WikiTitleID>3514565</WikiTitleID> <RankerScore>0.06834324950332464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trench_shield</WikiTitle> <WikiTitleID>8616368</WikiTitleID> <RankerScore>0.06834324950332464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shielded_cable</WikiTitle> <WikiTitleID>1527031</WikiTitleID> <RankerScore>0.06834324950332464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_shield</WikiTitle> <WikiTitleID>147008</WikiTitleID> <RankerScore>0.06834324950332464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shielding_effect</WikiTitle> <WikiTitleID>482469</WikiTitleID> <RankerScore>0.06834324950332464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chemical_shift</WikiTitle> <WikiTitleID>1228638</WikiTitleID> <RankerScore>0.06834324950332464</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Nitta</EntitySurfaceForm>
+	<EntityTextStart>820</EntityTextStart>
+	<EntityTextEnd>825</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Nitta_Yoshisada</WikiTitle>
+		<WikiTitleID>1879814</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>personnel	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Nitta_clan</WikiTitle> <WikiTitleID>1360537</WikiTitleID> <RankerScore>0.9158939801488979</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nitta,_Gunma</WikiTitle> <WikiTitleID>868697</WikiTitleID> <RankerScore>0.04780849910227284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nitta_Station_(Miyagi)</WikiTitle> <WikiTitleID>5005321</WikiTitleID> <RankerScore>0.02769980169991515</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nitta_District,_Gunma</WikiTitle> <WikiTitleID>868417</WikiTitleID> <RankerScore>0.008597719048914107</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Gokuraku-ji</EntitySurfaceForm>
+	<EntityTextStart>839</EntityTextStart>
+	<EntityTextEnd>850</EntityTextEnd>
+	<LinkerScore>-0.13028710112751313</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gokurakuji</WikiTitle>
+		<WikiTitleID>8407177</WikiTitleID>
+		<RankerScore>0.8435343508230329</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gokuraku-ji_(Kamakura)</WikiTitle> <WikiTitleID>8407191</WikiTitleID> <RankerScore>0.15646564917696712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gokurakuji</WikiTitle> <WikiTitleID>8407177</WikiTitleID> <RankerScore>0.8435343508230329</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>bypassed</EntitySurfaceForm>
+	<EntityTextStart>860</EntityTextStart>
+	<EntityTextEnd>868</EntityTextEnd>
+	<LinkerScore>0.8961829519402975</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bypass_(road)</WikiTitle>
+		<WikiTitleID>3220876</WikiTitleID>
+		<RankerScore>0.874843872071294</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bypass_(road)</WikiTitle> <WikiTitleID>3220876</WikiTitleID> <RankerScore>0.874843872071294</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Goulburn_Valley_Freeway</WikiTitle> <WikiTitleID>6368003</WikiTitleID> <RankerScore>0.125156127928706</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>cape</EntitySurfaceForm>
+	<EntityTextStart>892</EntityTextStart>
+	<EntityTextEnd>896</EntityTextEnd>
+	<LinkerScore>-0.4776235984473949</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cape</WikiTitle>
+		<WikiTitleID>157489</WikiTitleID>
+		<RankerScore>0.6035235686218614</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cape</WikiTitle> <WikiTitleID>157489</WikiTitleID> <RankerScore>0.6035235686218614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Headlands_and_bays</WikiTitle> <WikiTitleID>275124</WikiTitleID> <RankerScore>0.2514751043219383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cape_(dog)</WikiTitle> <WikiTitleID>5539237</WikiTitleID> <RankerScore>0.08469284418608387</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Headland</WikiTitle> <WikiTitleID>275117</WikiTitleID> <RankerScore>0.060308482870116545</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Inamuragasaki</EntitySurfaceForm>
+	<EntityTextStart>908</EntityTextStart>
+	<EntityTextEnd>921</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Inamuragasaki</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>headland</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>promontory</EntitySurfaceForm>
+	<EntityTextStart>922</EntityTextStart>
+	<EntityTextEnd>932</EntityTextEnd>
+	<LinkerScore>1.9105957069718882</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Promontory</WikiTitle>
+		<WikiTitleID>11217970</WikiTitleID>
+		<RankerScore>0.9314996383093127</RankerScore>
+		<Attributes>landforms	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Promontory</WikiTitle> <WikiTitleID>11217970</WikiTitleID> <RankerScore>0.9314996383093127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Headlands_and_bays</WikiTitle> <WikiTitleID>275124</WikiTitleID> <RankerScore>0.035016943776874934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Promontory_fort</WikiTitle> <WikiTitleID>488761</WikiTitleID> <RankerScore>0.005605182935188911</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peninsula</WikiTitle> <WikiTitleID>23260</WikiTitleID> <RankerScore>0.027878234978623358</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>water</EntitySurfaceForm>
+	<EntityTextStart>951</EntityTextStart>
+	<EntityTextEnd>956</EntityTextEnd>
+	<LinkerScore>1.2186478942805066</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Water</WikiTitle>
+		<WikiTitleID>33306</WikiTitleID>
+		<RankerScore>0.7939322681773014</RankerScore>
+		<Attributes>solvent	resource	oxide</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Water</WikiTitle> <WikiTitleID>33306</WikiTitleID> <RankerScore>0.7939322681773014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Properties_of_water</WikiTitle> <WikiTitleID>17118471</WikiTitleID> <RankerScore>0.018426958864599743</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_(classical_element)</WikiTitle> <WikiTitleID>6316</WikiTitleID> <RankerScore>0.013607313033433592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_pollution</WikiTitle> <WikiTitleID>312266</WikiTitleID> <RankerScore>0.01023726234850972</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drinking_water</WikiTitle> <WikiTitleID>198725</WikiTitleID> <RankerScore>0.01023726234850972</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_industry</WikiTitle> <WikiTitleID>1338601</WikiTitleID> <RankerScore>0.01023726234850972</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_supply</WikiTitle> <WikiTitleID>684928</WikiTitleID> <RankerScore>0.01023726234850972</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_resources</WikiTitle> <WikiTitleID>18581463</WikiTitleID> <RankerScore>0.01023726234850972</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_clock</WikiTitle> <WikiTitleID>424964</WikiTitleID> <RankerScore>0.01023726234850972</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_conservation</WikiTitle> <WikiTitleID>460253</WikiTitleID> <RankerScore>0.01023726234850972</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_cooling</WikiTitle> <WikiTitleID>531184</WikiTitleID> <RankerScore>0.01023726234850972</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_speed_record</WikiTitle> <WikiTitleID>1631951</WikiTitleID> <RankerScore>0.01023726234850972</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Astrological_sign</WikiTitle> <WikiTitleID>2527575</WikiTitleID> <RankerScore>0.01023726234850972</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_supply_network</WikiTitle> <WikiTitleID>1249122</WikiTitleID> <RankerScore>0.01023726234850972</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hydropower</WikiTitle> <WikiTitleID>14073</WikiTitleID> <RankerScore>0.01023726234850972</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_law</WikiTitle> <WikiTitleID>550781</WikiTitleID> <RankerScore>0.01023726234850972</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_quality</WikiTitle> <WikiTitleID>306773</WikiTitleID> <RankerScore>0.01023726234850972</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Holy_water</WikiTitle> <WikiTitleID>847357</WikiTitleID> <RankerScore>0.01023726234850972</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Watermill</WikiTitle> <WikiTitleID>150243</WikiTitleID> <RankerScore>0.01023726234850972</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Classical_element</WikiTitle> <WikiTitleID>6313</WikiTitleID> <RankerScore>0.01023726234850972</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>chronicles</EntitySurfaceForm>
+	<EntityTextStart>976</EntityTextStart>
+	<EntityTextEnd>986</EntityTextEnd>
+	<LinkerScore>-0.9525545609848953</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chronicles</WikiTitle>
+		<WikiTitleID>405455</WikiTitleID>
+		<RankerScore>0.5302627303108086</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chronicles</WikiTitle> <WikiTitleID>405455</WikiTitleID> <RankerScore>0.5302627303108086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chronicle</WikiTitle> <WikiTitleID>7507</WikiTitleID> <RankerScore>0.1975741208094756</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Froissart&apos;s_Chronicles</WikiTitle> <WikiTitleID>2019263</WikiTitleID> <RankerScore>0.13814739984625168</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Timeline_of_the_telephone</WikiTitle> <WikiTitleID>503734</WikiTitleID> <RankerScore>0.1340157490334641</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>his sword</EntitySurfaceForm>
+	<EntityTextStart>997</EntityTextStart>
+	<EntityTextEnd>1006</EntityTextEnd>
+	<LinkerScore>-1.6749997046557328</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>List_of_InuYasha_characters</WikiTitle>
+		<WikiTitleID>293747</WikiTitleID>
+		<RankerScore>0.5261404612597573</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>List_of_InuYasha_characters</WikiTitle> <WikiTitleID>293747</WikiTitleID> <RankerScore>0.5261404612597573</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sword_of_Martin</WikiTitle> <WikiTitleID>3791328</WikiTitleID> <RankerScore>0.4738595387402428</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sword</EntitySurfaceForm>
+	<EntityTextStart>1001</EntityTextStart>
+	<EntityTextEnd>1006</EntityTextEnd>
+	<LinkerScore>1.0431655406340197</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sword</WikiTitle>
+		<WikiTitleID>27863</WikiTitleID>
+		<RankerScore>0.5777208046922472</RankerScore>
+		<Attributes>weapon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sword</WikiTitle> <WikiTitleID>27863</WikiTitleID> <RankerScore>0.5777208046922472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Katana</WikiTitle> <WikiTitleID>14715409</WikiTitleID> <RankerScore>0.01953228827651556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jian</WikiTitle> <WikiTitleID>181413</WikiTitleID> <RankerScore>0.018295003313126754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spada_da_lato</WikiTitle> <WikiTitleID>1086518</WikiTitleID> <RankerScore>0.02261481786577121</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sword_of_Martin</WikiTitle> <WikiTitleID>3791328</WikiTitleID> <RankerScore>0.02261481786577121</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bronze_Age_sword</WikiTitle> <WikiTitleID>2421056</WikiTitleID> <RankerScore>0.02261481786577121</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Excalibur</WikiTitle> <WikiTitleID>9717</WikiTitleID> <RankerScore>0.02261481786577121</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japanese_sword</WikiTitle> <WikiTitleID>16860</WikiTitleID> <RankerScore>0.02261481786577121</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gladius</WikiTitle> <WikiTitleID>57986</WikiTitleID> <RankerScore>0.02261481786577121</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chrysaor</WikiTitle> <WikiTitleID>79009</WikiTitleID> <RankerScore>0.02261481786577121</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Taijijian</WikiTitle> <WikiTitleID>5174872</WikiTitleID> <RankerScore>0.02261481786577121</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ōdachi</WikiTitle> <WikiTitleID>714567</WikiTitleID> <RankerScore>0.02261481786577121</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gram_(mythology)</WikiTitle> <WikiTitleID>146838</WikiTitleID> <RankerScore>0.02261481786577121</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chinese_swords</WikiTitle> <WikiTitleID>10076246</WikiTitleID> <RankerScore>0.02261481786577121</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swordstick</WikiTitle> <WikiTitleID>1305846</WikiTitleID> <RankerScore>0.02261481786577121</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Executioner&apos;s_sword</WikiTitle> <WikiTitleID>10158675</WikiTitleID> <RankerScore>0.02261481786577121</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scimitar</WikiTitle> <WikiTitleID>1441761</WikiTitleID> <RankerScore>0.02261481786577121</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korean_sword</WikiTitle> <WikiTitleID>1813985</WikiTitleID> <RankerScore>0.02261481786577121</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tachi</WikiTitle> <WikiTitleID>31337</WikiTitleID> <RankerScore>0.02261481786577121</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ken</WikiTitle> <WikiTitleID>532327</WikiTitleID> <RankerScore>0.02261481786577121</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sea</EntitySurfaceForm>
+	<EntityTextStart>1016</EntityTextStart>
+	<EntityTextEnd>1019</EntityTextEnd>
+	<LinkerScore>1.6075836335091465</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sea</WikiTitle>
+		<WikiTitleID>26831</WikiTitleID>
+		<RankerScore>0.7869762415561895</RankerScore>
+		<Attributes>body</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sea</WikiTitle> <WikiTitleID>26831</WikiTitleID> <RankerScore>0.7869762415561895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atlantic_Ocean</WikiTitle> <WikiTitleID>698</WikiTitleID> <RankerScore>0.060749558184233825</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Naval_warfare</WikiTitle> <WikiTitleID>201948</WikiTitleID> <RankerScore>0.006684489429538686</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_Channel</WikiTitle> <WikiTitleID>9230</WikiTitleID> <RankerScore>0.008564100637061058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Sea_Grant_College_Program</WikiTitle> <WikiTitleID>343725</WikiTitleID> <RankerScore>0.008564100637061058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ocean</WikiTitle> <WikiTitleID>22212</WikiTitleID> <RankerScore>0.008564100637061058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Navy</WikiTitle> <WikiTitleID>21533</WikiTitleID> <RankerScore>0.008564100637061058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Sea</WikiTitle> <WikiTitleID>21179</WikiTitleID> <RankerScore>0.008564100637061058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ship_transport</WikiTitle> <WikiTitleID>28769</WikiTitleID> <RankerScore>0.008564100637061058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Settlement_of_Iceland</WikiTitle> <WikiTitleID>4715219</WikiTitleID> <RankerScore>0.008564100637061058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mediterranean_Sea</WikiTitle> <WikiTitleID>19006</WikiTitleID> <RankerScore>0.008564100637061058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Naval_offensive</WikiTitle> <WikiTitleID>18293601</WikiTitleID> <RankerScore>0.008564100637061058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Sea</WikiTitle> <WikiTitleID>3335</WikiTitleID> <RankerScore>0.008564100637061058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Burial_at_sea</WikiTitle> <WikiTitleID>617383</WikiTitleID> <RankerScore>0.008564100637061058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sea_turtle</WikiTitle> <WikiTitleID>142905</WikiTitleID> <RankerScore>0.008564100637061058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dirac_sea</WikiTitle> <WikiTitleID>312308</WikiTitleID> <RankerScore>0.008564100637061058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Samudra</WikiTitle> <WikiTitleID>2739551</WikiTitleID> <RankerScore>0.008564100637061058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Height_above_mean_sea_level</WikiTitle> <WikiTitleID>315878</WikiTitleID> <RankerScore>0.008564100637061058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bass_Strait</WikiTitle> <WikiTitleID>65928</WikiTitleID> <RankerScore>0.008564100637061058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adriatic_Sea</WikiTitle> <WikiTitleID>1447</WikiTitleID> <RankerScore>0.008564100637061058</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>offering</EntitySurfaceForm>
+	<EntityTextStart>1026</EntityTextStart>
+	<EntityTextEnd>1034</EntityTextEnd>
+	<LinkerScore>-0.41926021902575183</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Offering</WikiTitle>
+		<WikiTitleID>2584262</WikiTitleID>
+		<RankerScore>0.5180166861235632</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Offering</WikiTitle> <WikiTitleID>2584262</WikiTitleID> <RankerScore>0.5180166861235632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korban</WikiTitle> <WikiTitleID>877154</WikiTitleID> <RankerScore>0.10682196930844814</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sacrifice</WikiTitle> <WikiTitleID>80329</WikiTitleID> <RankerScore>0.05922038253831099</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Securities_offering</WikiTitle> <WikiTitleID>3150950</WikiTitleID> <RankerScore>0.06318819240593553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Votive_offering</WikiTitle> <WikiTitleID>704120</WikiTitleID> <RankerScore>0.06318819240593553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Offer_and_acceptance</WikiTitle> <WikiTitleID>2056222</WikiTitleID> <RankerScore>0.06318819240593553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sin_offering</WikiTitle> <WikiTitleID>69233</WikiTitleID> <RankerScore>0.06318819240593553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tithe</WikiTitle> <WikiTitleID>147619</WikiTitleID> <RankerScore>0.06318819240593553</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Amaterasu</EntitySurfaceForm>
+	<EntityTextStart>1040</EntityTextStart>
+	<EntityTextEnd>1049</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Amaterasu</WikiTitle>
+		<WikiTitleID>39220</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>goddess	personification</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Amaterasu</WikiTitle> <WikiTitleID>39220</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sun</EntitySurfaceForm>
+	<EntityTextStart>1057</EntityTextStart>
+	<EntityTextEnd>1060</EntityTextEnd>
+	<LinkerScore>0.04038008099358875</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Solar_deity</WikiTitle>
+		<WikiTitleID>27560</WikiTitleID>
+		<RankerScore>0.4886455934929504</RankerScore>
+		<Attributes>deity</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sun</WikiTitle> <WikiTitleID>26751</WikiTitleID> <RankerScore>0.40638760995028334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun_Microsystems</WikiTitle> <WikiTitleID>26980</WikiTitleID> <RankerScore>0.006926310239595753</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun-Hwa_Kwon</WikiTitle> <WikiTitleID>2231019</WikiTitleID> <RankerScore>0.006127530394823165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun_(astrology)</WikiTitle> <WikiTitleID>2386809</WikiTitleID> <RankerScore>0.006127530394823165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun</WikiTitle> <WikiTitleID>30989</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun_Records</WikiTitle> <WikiTitleID>98455</WikiTitleID> <RankerScore>0.006127530394823165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun_(supermarket_tabloid)</WikiTitle> <WikiTitleID>1950000</WikiTitleID> <RankerScore>0.006127530394823165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ra</WikiTitle> <WikiTitleID>63634</WikiTitleID> <RankerScore>0.006127530394823165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Re</WikiTitle> <WikiTitleID>4826013</WikiTitleID> <RankerScore>0.006127530394823165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surya</WikiTitle> <WikiTitleID>99792</WikiTitleID> <RankerScore>0.006127530394823165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Sun_(New_York)</WikiTitle> <WikiTitleID>1310577</WikiTitleID> <RankerScore>0.006127530394823165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Solar_deity</WikiTitle> <WikiTitleID>27560</WikiTitleID> <RankerScore>0.4886455934929504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Helios</WikiTitle> <WikiTitleID>67230</WikiTitleID> <RankerScore>0.006127530394823165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sol</WikiTitle> <WikiTitleID>3341630</WikiTitleID> <RankerScore>0.006127530394823165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun,_Louisiana</WikiTitle> <WikiTitleID>115784</WikiTitleID> <RankerScore>0.006127530394823165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun_(surname)</WikiTitle> <WikiTitleID>1443318</WikiTitleID> <RankerScore>0.006127530394823165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun-style_t&apos;ai_chi_ch&apos;uan</WikiTitle> <WikiTitleID>1015710</WikiTitleID> <RankerScore>0.006127530394823165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ho_Yeow_Sun</WikiTitle> <WikiTitleID>1912580</WikiTitleID> <RankerScore>0.006127530394823165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun_Bowl</WikiTitle> <WikiTitleID>335338</WikiTitleID> <RankerScore>0.006127530394823165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_New_York_Sun</WikiTitle> <WikiTitleID>49625</WikiTitleID> <RankerScore>0.006127530394823165</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sun Goddess</EntitySurfaceForm>
+	<EntityTextStart>1057</EntityTextStart>
+	<EntityTextEnd>1068</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Solar_deity</WikiTitle>
+		<WikiTitleID>27560</WikiTitleID>
+		<RankerScore>0.9144846842297254</RankerScore>
+		<Attributes>deity</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Solar_deity</WikiTitle> <WikiTitleID>27560</WikiTitleID> <RankerScore>0.9144846842297254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun_Goddess_(album)</WikiTitle> <WikiTitleID>13651965</WikiTitleID> <RankerScore>0.018362106235895476</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amaterasu</WikiTitle> <WikiTitleID>39220</WikiTitleID> <RankerScore>0.06715320953437924</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Goddess</EntitySurfaceForm>
+	<EntityTextStart>1061</EntityTextStart>
+	<EntityTextEnd>1068</EntityTextEnd>
+	<LinkerScore>3.466272967742774</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Goddess</WikiTitle>
+		<WikiTitleID>12734</WikiTitleID>
+		<RankerScore>0.8441946063624086</RankerScore>
+		<Attributes>goddess	deity</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Goddess</WikiTitle> <WikiTitleID>12734</WikiTitleID> <RankerScore>0.8441946063624086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_Warlock</WikiTitle> <WikiTitleID>2144334</WikiTitleID> <RankerScore>0.032042367371487517</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Devi</WikiTitle> <WikiTitleID>100184</WikiTitleID> <RankerScore>0.011485219888019274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Triple_goddess</WikiTitle> <WikiTitleID>473727</WikiTitleID> <RankerScore>0.011227780637808465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Goddess_(1934_film)</WikiTitle> <WikiTitleID>6506395</WikiTitleID> <RankerScore>0.011227780637808465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mumba_Devi_Temple</WikiTitle> <WikiTitleID>982366</WikiTitleID> <RankerScore>0.011227780637808465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Goddess_movement</WikiTitle> <WikiTitleID>1088368</WikiTitleID> <RankerScore>0.011227780637808465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Goddess_worship</WikiTitle> <WikiTitleID>53456</WikiTitleID> <RankerScore>0.011227780637808465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wiccan_views_of_divinity</WikiTitle> <WikiTitleID>10907292</WikiTitleID> <RankerScore>0.011227780637808465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sitala</WikiTitle> <WikiTitleID>11823671</WikiTitleID> <RankerScore>0.011227780637808465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deity</WikiTitle> <WikiTitleID>39438</WikiTitleID> <RankerScore>0.011227780637808465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kali</WikiTitle> <WikiTitleID>16909</WikiTitleID> <RankerScore>0.011227780637808465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sorceress_of_Castle_Grayskull</WikiTitle> <WikiTitleID>2842611</WikiTitleID> <RankerScore>0.011227780637808465</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sea</EntitySurfaceForm>
+	<EntityTextStart>1078</EntityTextStart>
+	<EntityTextEnd>1081</EntityTextEnd>
+	<LinkerScore>2.3411774675626122</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sea</WikiTitle>
+		<WikiTitleID>26831</WikiTitleID>
+		<RankerScore>0.8028047888037082</RankerScore>
+		<Attributes>body</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sea</WikiTitle> <WikiTitleID>26831</WikiTitleID> <RankerScore>0.8028047888037082</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atlantic_Ocean</WikiTitle> <WikiTitleID>698</WikiTitleID> <RankerScore>0.05538612200135777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Naval_warfare</WikiTitle> <WikiTitleID>201948</WikiTitleID> <RankerScore>0.0062126133772184376</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_Channel</WikiTitle> <WikiTitleID>9230</WikiTitleID> <RankerScore>0.00797626328339503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Sea_Grant_College_Program</WikiTitle> <WikiTitleID>343725</WikiTitleID> <RankerScore>0.00797626328339503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ocean</WikiTitle> <WikiTitleID>22212</WikiTitleID> <RankerScore>0.00797626328339503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Navy</WikiTitle> <WikiTitleID>21533</WikiTitleID> <RankerScore>0.00797626328339503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Sea</WikiTitle> <WikiTitleID>21179</WikiTitleID> <RankerScore>0.00797626328339503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ship_transport</WikiTitle> <WikiTitleID>28769</WikiTitleID> <RankerScore>0.00797626328339503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Settlement_of_Iceland</WikiTitle> <WikiTitleID>4715219</WikiTitleID> <RankerScore>0.00797626328339503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mediterranean_Sea</WikiTitle> <WikiTitleID>19006</WikiTitleID> <RankerScore>0.00797626328339503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Naval_offensive</WikiTitle> <WikiTitleID>18293601</WikiTitleID> <RankerScore>0.00797626328339503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Sea</WikiTitle> <WikiTitleID>3335</WikiTitleID> <RankerScore>0.00797626328339503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Burial_at_sea</WikiTitle> <WikiTitleID>617383</WikiTitleID> <RankerScore>0.00797626328339503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sea_turtle</WikiTitle> <WikiTitleID>142905</WikiTitleID> <RankerScore>0.00797626328339503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dirac_sea</WikiTitle> <WikiTitleID>312308</WikiTitleID> <RankerScore>0.00797626328339503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Samudra</WikiTitle> <WikiTitleID>2739551</WikiTitleID> <RankerScore>0.00797626328339503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Height_above_mean_sea_level</WikiTitle> <WikiTitleID>315878</WikiTitleID> <RankerScore>0.00797626328339503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bass_Strait</WikiTitle> <WikiTitleID>65928</WikiTitleID> <RankerScore>0.00797626328339503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adriatic_Sea</WikiTitle> <WikiTitleID>1447</WikiTitleID> <RankerScore>0.00797626328339503</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>miracle</EntitySurfaceForm>
+	<EntityTextStart>1100</EntityTextStart>
+	<EntityTextEnd>1107</EntityTextEnd>
+	<LinkerScore>2.2453994429184445</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Miracle</WikiTitle>
+		<WikiTitleID>52041</WikiTitleID>
+		<RankerScore>0.8388224588559438</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Miracle</WikiTitle> <WikiTitleID>52041</WikiTitleID> <RankerScore>0.8388224588559438</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miracles_of_Jesus</WikiTitle> <WikiTitleID>911479</WikiTitleID> <RankerScore>0.0322525316112848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miracle_temperament</WikiTitle> <WikiTitleID>3202198</WikiTitleID> <RankerScore>0.0337201968194421</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Corporal_of_Bolsena</WikiTitle> <WikiTitleID>1051085</WikiTitleID> <RankerScore>0.027764419074445115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mystery_play</WikiTitle> <WikiTitleID>38124</WikiTitleID> <RankerScore>0.0337201968194421</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Incorruptibility</WikiTitle> <WikiTitleID>1688154</WikiTitleID> <RankerScore>0.0337201968194421</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the rebels</EntitySurfaceForm>
+	<EntityTextStart>1114</EntityTextStart>
+	<EntityTextEnd>1124</EntityTextEnd>
+	<LinkerScore>-0.10020612442884858</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mukti_Bahini</WikiTitle>
+		<WikiTitleID>858617</WikiTitleID>
+		<RankerScore>0.5980548673165302</RankerScore>
+		<Attributes>army	movement</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Transitional_Government_of_National_Unity</WikiTitle> <WikiTitleID>3686988</WikiTitleID> <RankerScore>0.4019451326834697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mukti_Bahini</WikiTitle> <WikiTitleID>858617</WikiTitleID> <RankerScore>0.5980548673165302</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>rebels</EntitySurfaceForm>
+	<EntityTextStart>1118</EntityTextStart>
+	<EntityTextEnd>1124</EntityTextEnd>
+	<LinkerScore>1.223661911728943</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rebellion</WikiTitle>
+		<WikiTitleID>513246</WikiTitleID>
+		<RankerScore>0.3866383537568924</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rebellion</WikiTitle> <WikiTitleID>513246</WikiTitleID> <RankerScore>0.3866383537568924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Forces_Nouvelles_de_Côte_d&apos;Ivoire</WikiTitle> <WikiTitleID>11717572</WikiTitleID> <RankerScore>0.04709599811106235</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rebel_Alliance</WikiTitle> <WikiTitleID>95868</WikiTitleID> <RankerScore>0.03873812479339806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_Volunteers</WikiTitle> <WikiTitleID>341550</WikiTitleID> <RankerScore>0.04795704757624065</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Protection_War</WikiTitle> <WikiTitleID>6767286</WikiTitleID> <RankerScore>0.04795704757624065</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cristero_War</WikiTitle> <WikiTitleID>1017527</WikiTitleID> <RankerScore>0.04795704757624065</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communist_Party_of_Nepal_(Maoist)</WikiTitle> <WikiTitleID>403685</WikiTitleID> <RankerScore>0.04795704757624065</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rebel</WikiTitle> <WikiTitleID>7399237</WikiTitleID> <RankerScore>0.04795704757624065</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Confederate_States_of_America</WikiTitle> <WikiTitleID>7023</WikiTitleID> <RankerScore>0.04795704757624065</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lower_Canada_Rebellion</WikiTitle> <WikiTitleID>210223</WikiTitleID> <RankerScore>0.04795704757624065</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roundhead</WikiTitle> <WikiTitleID>69093</WikiTitleID> <RankerScore>0.04795704757624065</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Patriote_movement</WikiTitle> <WikiTitleID>7696589</WikiTitleID> <RankerScore>0.04795704757624065</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kett&apos;s_Rebellion</WikiTitle> <WikiTitleID>58359</WikiTitleID> <RankerScore>0.04795704757624065</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indian_Rebellion_of_1857</WikiTitle> <WikiTitleID>590246</WikiTitleID> <RankerScore>0.04795704757624065</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>enter</EntitySurfaceForm>
+	<EntityTextStart>1138</EntityTextStart>
+	<EntityTextEnd>1143</EntityTextEnd>
+	<LinkerScore>-2.270197101159952</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Viral_entry</WikiTitle>
+		<WikiTitleID>6074076</WikiTitleID>
+		<RankerScore>0.42495858058625774</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Viral_entry</WikiTitle> <WikiTitleID>6074076</WikiTitleID> <RankerScore>0.42495858058625774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Entryism</WikiTitle> <WikiTitleID>358610</WikiTitleID> <RankerScore>0.24499804376702733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bird_migration</WikiTitle> <WikiTitleID>201943</WikiTitleID> <RankerScore>0.18621059356977598</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Immigration</WikiTitle> <WikiTitleID>4599312</WikiTitleID> <RankerScore>0.14383278207693886</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the city</EntitySurfaceForm>
+	<EntityTextStart>1144</EntityTextStart>
+	<EntityTextEnd>1152</EntityTextEnd>
+	<LinkerScore>-2.2198810060587935</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lima</WikiTitle>
+		<WikiTitleID>85423</WikiTitleID>
+		<RankerScore>0.11441187095143528</RankerScore>
+		<Attributes>capital	place	city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lima</WikiTitle> <WikiTitleID>85423</WikiTitleID> <RankerScore>0.11441187095143528</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City</WikiTitle> <WikiTitleID>645042</WikiTitleID> <RankerScore>0.10232378837124854</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Novi_Sad</WikiTitle> <WikiTitleID>113288</WikiTitleID> <RankerScore>0.06470178789981414</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ponce,_Puerto_Rico</WikiTitle> <WikiTitleID>84165</WikiTitleID> <RankerScore>0.04226838545750012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rome</WikiTitle> <WikiTitleID>25458</WikiTitleID> <RankerScore>0.04226838545750012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Green_Bay,_Wisconsin</WikiTitle> <WikiTitleID>217033</WikiTitleID> <RankerScore>0.04226838545750012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Melbourne_City_Centre</WikiTitle> <WikiTitleID>7467700</WikiTitleID> <RankerScore>0.04226838545750012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sydney</WikiTitle> <WikiTitleID>27862</WikiTitleID> <RankerScore>0.04226838545750012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mulberry,_Florida</WikiTitle> <WikiTitleID>109723</WikiTitleID> <RankerScore>0.04226838545750012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Szeged</WikiTitle> <WikiTitleID>397272</WikiTitleID> <RankerScore>0.04226838545750012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sydney_central_business_district</WikiTitle> <WikiTitleID>1740289</WikiTitleID> <RankerScore>0.04226838545750012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cleveland</WikiTitle> <WikiTitleID>5951</WikiTitleID> <RankerScore>0.04226838545750012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vancouver,_Washington</WikiTitle> <WikiTitleID>18592743</WikiTitleID> <RankerScore>0.04226838545750012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Omaha,_Nebraska</WikiTitle> <WikiTitleID>46159</WikiTitleID> <RankerScore>0.04226838545750012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Old_Toronto</WikiTitle> <WikiTitleID>4559844</WikiTitleID> <RankerScore>0.04226838545750012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coronado,_California</WikiTitle> <WikiTitleID>108033</WikiTitleID> <RankerScore>0.04226838545750012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Antioch</WikiTitle> <WikiTitleID>36900</WikiTitleID> <RankerScore>0.04226838545750012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surabaya</WikiTitle> <WikiTitleID>212635</WikiTitleID> <RankerScore>0.04226838545750012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Orleans</WikiTitle> <WikiTitleID>53842</WikiTitleID> <RankerScore>0.04226838545750012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_honorary_citizens_of_Hamburg</WikiTitle> <WikiTitleID>766595</WikiTitleID> <RankerScore>0.04226838545750012</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>city</EntitySurfaceForm>
+	<EntityTextStart>1148</EntityTextStart>
+	<EntityTextEnd>1152</EntityTextEnd>
+	<LinkerScore>0.08833551383531357</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>City</WikiTitle>
+		<WikiTitleID>5391</WikiTitleID>
+		<RankerScore>0.5884614511694917</RankerScore>
+		<Attributes>place	city	division</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>City</WikiTitle> <WikiTitleID>5391</WikiTitleID> <RankerScore>0.5884614511694917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cities_of_Japan</WikiTitle> <WikiTitleID>214461</WikiTitleID> <RankerScore>0.16948612026276866</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cities_of_the_Philippines</WikiTitle> <WikiTitleID>246350</WikiTitleID> <RankerScore>0.01697861044692157</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Types_of_inhabited_localities_in_Russia</WikiTitle> <WikiTitleID>2813519</WikiTitleID> <RankerScore>0.013239636360048122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stad_(Sweden)</WikiTitle> <WikiTitleID>2499608</WikiTitleID> <RankerScore>0.013239636360048122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_status_in_the_United_Kingdom</WikiTitle> <WikiTitleID>70841</WikiTitleID> <RankerScore>0.013239636360048122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_divisions_of_South_Korea</WikiTitle> <WikiTitleID>892192</WikiTitleID> <RankerScore>0.013239636360048122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_(New_Jersey)</WikiTitle> <WikiTitleID>2879687</WikiTitleID> <RankerScore>0.013239636360048122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Municipalities_of_Japan</WikiTitle> <WikiTitleID>452027</WikiTitleID> <RankerScore>0.013239636360048122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_in_Lithuania</WikiTitle> <WikiTitleID>2796933</WikiTitleID> <RankerScore>0.013239636360048122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Municipalities_of_Sweden</WikiTitle> <WikiTitleID>191302</WikiTitleID> <RankerScore>0.013239636360048122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_regencies_and_cities_of_Indonesia</WikiTitle> <WikiTitleID>7174670</WikiTitleID> <RankerScore>0.013239636360048122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_in_the_Dominican_Republic</WikiTitle> <WikiTitleID>410702</WikiTitleID> <RankerScore>0.013239636360048122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_in_Luxembourg</WikiTitle> <WikiTitleID>467853</WikiTitleID> <RankerScore>0.013239636360048122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communes_of_France</WikiTitle> <WikiTitleID>410219</WikiTitleID> <RankerScore>0.013239636360048122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Urban_areas_in_Sweden</WikiTitle> <WikiTitleID>1269662</WikiTitleID> <RankerScore>0.013239636360048122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_in_Turkey</WikiTitle> <WikiTitleID>214476</WikiTitleID> <RankerScore>0.013239636360048122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Perth</WikiTitle> <WikiTitleID>24355</WikiTitleID> <RankerScore>0.013239636360048122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_of_London</WikiTitle> <WikiTitleID>6883</WikiTitleID> <RankerScore>0.013239636360048122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sydney_central_business_district</WikiTitle> <WikiTitleID>1740289</WikiTitleID> <RankerScore>0.013239636360048122</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>began</EntitySurfaceForm>
+	<EntityTextStart>1158</EntityTextStart>
+	<EntityTextEnd>1163</EntityTextEnd>
+	<LinkerScore>-2.234891810734724</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Common_year_starting_on_Monday</WikiTitle>
+		<WikiTitleID>168880</WikiTitleID>
+		<RankerScore>0.23243686249350895</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2006_Hezbollah_cross-border_raid</WikiTitle> <WikiTitleID>6299231</WikiTitleID> <RankerScore>0.1953556444543311</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Common_year_starting_on_Monday</WikiTitle> <WikiTitleID>168880</WikiTitleID> <RankerScore>0.23243686249350895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Common_year_starting_on_Sunday</WikiTitle> <WikiTitleID>168851</WikiTitleID> <RankerScore>0.13508881300658163</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>An_Unearthly_Child</WikiTitle> <WikiTitleID>426392</WikiTitleID> <RankerScore>0.08742373600911567</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leap_year_starting_on_Tuesday</WikiTitle> <WikiTitleID>319727</WikiTitleID> <RankerScore>0.08742373600911567</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Common_year_starting_on_Saturday</WikiTitle> <WikiTitleID>321295</WikiTitleID> <RankerScore>0.08742373600911567</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prelude_to_the_Warsaw_Uprising</WikiTitle> <WikiTitleID>891200</WikiTitleID> <RankerScore>0.08742373600911567</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MLB_Japan_Opening_Series_2008</WikiTitle> <WikiTitleID>16412091</WikiTitleID> <RankerScore>0.08742373600911567</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>force</EntitySurfaceForm>
+	<EntityTextStart>1167</EntityTextStart>
+	<EntityTextEnd>1172</EntityTextEnd>
+	<LinkerScore>3.261633109343678</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Force</WikiTitle>
+		<WikiTitleID>10902</WikiTitleID>
+		<RankerScore>0.8258967807278521</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Force</WikiTitle> <WikiTitleID>10902</WikiTitleID> <RankerScore>0.8258967807278521</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Potentiality_and_actuality</WikiTitle> <WikiTitleID>2384021</WikiTitleID> <RankerScore>0.010244525128517108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Force_play</WikiTitle> <WikiTitleID>898293</WikiTitleID> <RankerScore>0.007823340086741013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Force_(law)</WikiTitle> <WikiTitleID>140339</WikiTitleID> <RankerScore>0.009178550238640578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Force_(Star_Wars)</WikiTitle> <WikiTitleID>67780</WikiTitleID> <RankerScore>0.009178550238640578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Armed_forces</WikiTitle> <WikiTitleID>18905</WikiTitleID> <RankerScore>0.009178550238640578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cornering_force</WikiTitle> <WikiTitleID>2137836</WikiTitleID> <RankerScore>0.009178550238640578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Use_of_force</WikiTitle> <WikiTitleID>1155141</WikiTitleID> <RankerScore>0.009178550238640578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Army</WikiTitle> <WikiTitleID>1376</WikiTitleID> <RankerScore>0.009178550238640578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electromagnetism</WikiTitle> <WikiTitleID>9809</WikiTitleID> <RankerScore>0.009178550238640578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beaufort_scale</WikiTitle> <WikiTitleID>155110</WikiTitleID> <RankerScore>0.009178550238640578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vanguard</WikiTitle> <WikiTitleID>444807</WikiTitleID> <RankerScore>0.009178550238640578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Army</WikiTitle> <WikiTitleID>4887</WikiTitleID> <RankerScore>0.009178550238640578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Power_(social_and_political)</WikiTitle> <WikiTitleID>604028</WikiTitleID> <RankerScore>0.009178550238640578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military</WikiTitle> <WikiTitleID>92357</WikiTitleID> <RankerScore>0.009178550238640578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Navy</WikiTitle> <WikiTitleID>21533</WikiTitleID> <RankerScore>0.009178550238640578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fundamental_interaction</WikiTitle> <WikiTitleID>10890</WikiTitleID> <RankerScore>0.009178550238640578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lorentz_force</WikiTitle> <WikiTitleID>18631</WikiTitleID> <RankerScore>0.009178550238640578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victoria_Police</WikiTitle> <WikiTitleID>1120591</WikiTitleID> <RankerScore>0.009178550238640578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Violence</WikiTitle> <WikiTitleID>46112</WikiTitleID> <RankerScore>0.009178550238640578</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Hōjō</EntitySurfaceForm>
+	<EntityTextStart>1184</EntityTextStart>
+	<EntityTextEnd>1188</EntityTextEnd>
+	<LinkerScore>1.0508855379957687</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hōjō_clan</WikiTitle>
+		<WikiTitleID>313320</WikiTitleID>
+		<RankerScore>0.7821059112905716</RankerScore>
+		<Attributes>clan</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Late_Hōjō_clan</WikiTitle> <WikiTitleID>1894880</WikiTitleID> <RankerScore>0.06772916156299497</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hōjō_clan</WikiTitle> <WikiTitleID>313320</WikiTitleID> <RankerScore>0.7821059112905716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hojo</WikiTitle> <WikiTitleID>313310</WikiTitleID> <RankerScore>0.14576264827267837</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hōjō,_Tottori</WikiTitle> <WikiTitleID>555990</WikiTitleID> <RankerScore>0.0011005697184387423</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hōjō,_Ehime</WikiTitle> <WikiTitleID>329392</WikiTitleID> <RankerScore>0.0011005697184387423</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hōjō,_Fukuoka</WikiTitle> <WikiTitleID>479084</WikiTitleID> <RankerScore>0.0011005697184387423</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_InuYasha_characters</WikiTitle> <WikiTitleID>1348594</WikiTitleID> <RankerScore>0.0011005697184387423</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>eventually</EntitySurfaceForm>
+	<EntityTextStart>1213</EntityTextStart>
+	<EntityTextEnd>1223</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Eventually</WikiTitle>
+		<WikiTitleID>9839687</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>forced</EntitySurfaceForm>
+	<EntityTextStart>1224</EntityTextStart>
+	<EntityTextEnd>1230</EntityTextEnd>
+	<LinkerScore>-2.4468872838570808</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Unfree_labour</WikiTitle>
+		<WikiTitleID>541048</WikiTitleID>
+		<RankerScore>0.1220427034786649</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Unfree_labour</WikiTitle> <WikiTitleID>541048</WikiTitleID> <RankerScore>0.1220427034786649</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Forced_marriage</WikiTitle> <WikiTitleID>2277678</WikiTitleID> <RankerScore>0.09380350609073476</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Force_play</WikiTitle> <WikiTitleID>898293</WikiTitleID> <RankerScore>0.07702607898073367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Forcible_entry</WikiTitle> <WikiTitleID>1590921</WikiTitleID> <RankerScore>0.07702607898073367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Power_(social_and_political)</WikiTitle> <WikiTitleID>604028</WikiTitleID> <RankerScore>0.07702607898073367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operation_Polo</WikiTitle> <WikiTitleID>906792</WikiTitleID> <RankerScore>0.07702607898073367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Two-alternative_forced_choice</WikiTitle> <WikiTitleID>17258308</WikiTitleID> <RankerScore>0.07702607898073367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Force</WikiTitle> <WikiTitleID>10902</WikiTitleID> <RankerScore>0.07702607898073367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Forced_suicide</WikiTitle> <WikiTitleID>2332535</WikiTitleID> <RankerScore>0.09091907960399738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Force_(law)</WikiTitle> <WikiTitleID>140339</WikiTitleID> <RankerScore>0.07702607898073367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Involuntary_commitment</WikiTitle> <WikiTitleID>15416</WikiTitleID> <RankerScore>0.07702607898073367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>False_confession</WikiTitle> <WikiTitleID>3366106</WikiTitleID> <RankerScore>0.07702607898073367</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>retreat</EntitySurfaceForm>
+	<EntityTextStart>1234</EntityTextStart>
+	<EntityTextEnd>1241</EntityTextEnd>
+	<LinkerScore>-0.8654775064864676</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Retreat_(spiritual)</WikiTitle>
+		<WikiTitleID>70707</WikiTitleID>
+		<RankerScore>0.29288901394453093</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Retreat_(spiritual)</WikiTitle> <WikiTitleID>70707</WikiTitleID> <RankerScore>0.29288901394453093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Withdrawal_(military)</WikiTitle> <WikiTitleID>1531454</WikiTitleID> <RankerScore>0.24509756752836015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Retreat</WikiTitle> <WikiTitleID>8011338</WikiTitleID> <RankerScore>0.12799580235238808</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Retreat_(survivalism)</WikiTitle> <WikiTitleID>14846161</WikiTitleID> <RankerScore>0.027834801347893397</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Retreat_of_glaciers_since_1850</WikiTitle> <WikiTitleID>4804597</WikiTitleID> <RankerScore>0.027834801347893397</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Appomattox_Campaign</WikiTitle> <WikiTitleID>1652975</WikiTitleID> <RankerScore>0.027834801347893397</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glacier_retreat</WikiTitle> <WikiTitleID>4562659</WikiTitleID> <RankerScore>0.027834801347893397</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chinese_Civil_War</WikiTitle> <WikiTitleID>54422</WikiTitleID> <RankerScore>0.027834801347893397</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Retreat</WikiTitle> <WikiTitleID>2658864</WikiTitleID> <RankerScore>0.027834801347893397</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1842_retreat_from_Kabul</WikiTitle> <WikiTitleID>8936535</WikiTitleID> <RankerScore>0.027834801347893397</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Serbian_Campaign_(World_War_I)</WikiTitle> <WikiTitleID>4731980</WikiTitleID> <RankerScore>0.027834801347893397</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bird_migration</WikiTitle> <WikiTitleID>201943</WikiTitleID> <RankerScore>0.027834801347893397</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Little_White_House</WikiTitle> <WikiTitleID>869841</WikiTitleID> <RankerScore>0.027834801347893397</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Carlson&apos;s_patrol</WikiTitle> <WikiTitleID>11987789</WikiTitleID> <RankerScore>0.027834801347893397</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Holocene_glacial_retreat</WikiTitle> <WikiTitleID>4108235</WikiTitleID> <RankerScore>0.027834801347893397</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>cave</EntitySurfaceForm>
+	<EntityTextStart>1247</EntityTextStart>
+	<EntityTextEnd>1251</EntityTextEnd>
+	<LinkerScore>2.491513238435835</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cave</WikiTitle>
+		<WikiTitleID>5778</WikiTitleID>
+		<RankerScore>0.8648519284702882</RankerScore>
+		<Attributes>cave</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cave</WikiTitle> <WikiTitleID>5778</WikiTitleID> <RankerScore>0.8648519284702882</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cave_painting</WikiTitle> <WikiTitleID>182028</WikiTitleID> <RankerScore>0.010884191276986211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_caves_in_Greece</WikiTitle> <WikiTitleID>1617639</WikiTitleID> <RankerScore>0.02182235414118088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexican_tetra</WikiTitle> <WikiTitleID>3209</WikiTitleID> <RankerScore>0.012805190763943092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cave_diving</WikiTitle> <WikiTitleID>291811</WikiTitleID> <RankerScore>0.012805190763943092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fingal&apos;s_Cave</WikiTitle> <WikiTitleID>677054</WikiTitleID> <RankerScore>0.012805190763943092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cueva_del_Milodón_Natural_Monument</WikiTitle> <WikiTitleID>8375471</WikiTitleID> <RankerScore>0.012805190763943092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Caving</WikiTitle> <WikiTitleID>5776</WikiTitleID> <RankerScore>0.012805190763943092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milarepa&apos;s_Cave</WikiTitle> <WikiTitleID>5717049</WikiTitleID> <RankerScore>0.012805190763943092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cave_of_the_Patriarchs</WikiTitle> <WikiTitleID>74664</WikiTitleID> <RankerScore>0.012805190763943092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wine_cave</WikiTitle> <WikiTitleID>4301973</WikiTitleID> <RankerScore>0.012805190763943092</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>suicide</EntitySurfaceForm>
+	<EntityTextStart>1294</EntityTextStart>
+	<EntityTextEnd>1301</EntityTextEnd>
+	<LinkerScore>1.599184360327826</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Suicide</WikiTitle>
+		<WikiTitleID>16831059</WikiTitleID>
+		<RankerScore>0.8613247026268653</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Suicide</WikiTitle> <WikiTitleID>16831059</WikiTitleID> <RankerScore>0.8613247026268653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Youth_suicide</WikiTitle> <WikiTitleID>766589</WikiTitleID> <RankerScore>0.004556845667587398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Death_of_Adolf_Hitler</WikiTitle> <WikiTitleID>1033897</WikiTitleID> <RankerScore>0.004301593992458031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seppuku</WikiTitle> <WikiTitleID>29505</WikiTitleID> <RankerScore>0.0738961358111349</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suicide_attack</WikiTitle> <WikiTitleID>29361</WikiTitleID> <RankerScore>0.004301593992458031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_suicides</WikiTitle> <WikiTitleID>143848</WikiTitleID> <RankerScore>0.004301593992458031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mass_suicide</WikiTitle> <WikiTitleID>1618662</WikiTitleID> <RankerScore>0.004301593992458031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cult_suicide</WikiTitle> <WikiTitleID>7746</WikiTitleID> <RankerScore>0.004301593992458031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suicide_door</WikiTitle> <WikiTitleID>523350</WikiTitleID> <RankerScore>0.004301593992458031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chris_Benoit_double_murder_and_suicide</WikiTitle> <WikiTitleID>12144557</WikiTitleID> <RankerScore>0.004301593992458031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_in_British_music</WikiTitle> <WikiTitleID>2205402</WikiTitleID> <RankerScore>0.004301593992458031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Antichess</WikiTitle> <WikiTitleID>150161</WikiTitleID> <RankerScore>0.004301593992458031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Trevor_Project</WikiTitle> <WikiTitleID>4398469</WikiTitleID> <RankerScore>0.004301593992458031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suicide_(band)</WikiTitle> <WikiTitleID>172914</WikiTitleID> <RankerScore>0.004301593992458031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guantanamo_Bay_detention_camp_suicide_attempts</WikiTitle> <WikiTitleID>5509655</WikiTitleID> <RankerScore>0.004301593992458031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Forced_suicide</WikiTitle> <WikiTitleID>2332535</WikiTitleID> <RankerScore>0.004301593992458031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kamikaze</WikiTitle> <WikiTitleID>16625</WikiTitleID> <RankerScore>0.004301593992458031</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

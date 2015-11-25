@@ -1,0 +1,3494 @@
+<WikifierOutput>
+<InputFilename>
+14257100
+</InputFilename>
+<InputText>
+ &quot; The Fever &quot;  is an early   Bruce Springsteen   song, perhaps first written in 1971 under the title  &quot; (I Got the) Fever For the Girl &quot; .  It was performed by Springsteen in concert beginning in March 1973.  It was recorded in   914 Sound Studios   in May 1973, during sessions for Springsteen&apos;s second album &apos;&apos;  The Wild, the Innocent  &quot;  the E Street Shuffle  &apos;&apos;, but was directed towards a demo purposing for manager   Mike Appel  &apos;s Laurel Canyon publishing arm instead and named  &quot; Fever For the Girl &quot; .  In early 1974 Appel sent to it several   progressive rock radio   stations, where it became a  &quot; turntable hit &quot;  in the ramp-up of Springsteen expectations prior to &apos;&apos;  Born to Run  &apos;&apos;.  
+It was recorded by UK singer   Alan Rich   in 1975 but failed to make much impact.  In 1976, it was recorded on   Southside Johnny and The Asbury Jukes  &apos; debut album &apos;&apos;I Don&apos;t Want to Go Home&apos;&apos;, entitled as simply  &quot; The Fever &quot; , and became better known.  In 1979   The Pointer Sisters   gave it a go on their &apos;&apos;  Priority  &apos;&apos; album, to minimal effect.  The original Springsteen recording finally achieved official surfacing in 1998 on his &apos;&apos;  18 Tracks  &apos;&apos; outtakes collection.
+
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>The Fever</EntitySurfaceForm>
+	<EntityTextStart>3</EntityTextStart>
+	<EntityTextEnd>12</EntityTextEnd>
+	<LinkerScore>2.844323238857639</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Fever_(Bruce_Springsteen_song)</WikiTitle>
+		<WikiTitleID>14257100</WikiTitleID>
+		<RankerScore>0.999959803508499</RankerScore>
+		<Attributes>song</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fever_(Aerosmith_song)</WikiTitle> <WikiTitleID>8326182</WikiTitleID> <RankerScore>1.2369674302868794E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Fever_(The_Twilight_Zone)</WikiTitle> <WikiTitleID>113327</WikiTitleID> <RankerScore>2.3068241767420747E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Fever_(Bruce_Springsteen_song)</WikiTitle> <WikiTitleID>14257100</WikiTitleID> <RankerScore>0.999959803508499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Fever_(band)</WikiTitle> <WikiTitleID>18478042</WikiTitleID> <RankerScore>4.7585754307632534E-6</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Fever</EntitySurfaceForm>
+	<EntityTextStart>7</EntityTextStart>
+	<EntityTextEnd>12</EntityTextEnd>
+	<LinkerScore>-1.2005160931083914</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fever_(Little_Willie_John_song)</WikiTitle>
+		<WikiTitleID>2305460</WikiTitleID>
+		<RankerScore>0.22674299275743934</RankerScore>
+		<Attributes>song	video	singles</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fever</WikiTitle> <WikiTitleID>46253</WikiTitleID> <RankerScore>0.10065281324910655</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(Little_Willie_John_song)</WikiTitle> <WikiTitleID>2305460</WikiTitleID> <RankerScore>0.22674299275743934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(album)</WikiTitle> <WikiTitleID>414908</WikiTitleID> <RankerScore>0.18771642181703443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(Little_Willie_John_song)</WikiTitle> <WikiTitleID>2987787</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(Aerosmith_song)</WikiTitle> <WikiTitleID>8326182</WikiTitleID> <RankerScore>0.03729905939818613</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(1999_film)</WikiTitle> <WikiTitleID>3726605</WikiTitleID> <RankerScore>0.03729905939818613</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(Kylie_Minogue_album)</WikiTitle> <WikiTitleID>2393573</WikiTitleID> <RankerScore>0.03729905939818613</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(novel)</WikiTitle> <WikiTitleID>1030595</WikiTitleID> <RankerScore>0.03729905939818613</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(Starsailor_song)</WikiTitle> <WikiTitleID>13110259</WikiTitleID> <RankerScore>0.03729905939818613</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(DC_Comics)</WikiTitle> <WikiTitleID>2974866</WikiTitleID> <RankerScore>0.03729905939818613</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Black_Books_episodes</WikiTitle> <WikiTitleID>13424869</WikiTitleID> <RankerScore>0.03729905939818613</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(1989_film)</WikiTitle> <WikiTitleID>16395338</WikiTitleID> <RankerScore>0.03729905939818613</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_104_FM</WikiTitle> <WikiTitleID>8887623</WikiTitleID> <RankerScore>0.03729905939818613</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(band)</WikiTitle> <WikiTitleID>2174180</WikiTitleID> <RankerScore>0.03729905939818613</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Free_Your_Mind_33</WikiTitle> <WikiTitleID>6564294</WikiTitleID> <RankerScore>0.03729905939818613</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indiana_Fever</WikiTitle> <WikiTitleID>240214</WikiTitleID> <RankerScore>0.03729905939818613</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(EP)</WikiTitle> <WikiTitleID>1278163</WikiTitleID> <RankerScore>0.03729905939818613</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bruce Springsteen</EntitySurfaceForm>
+	<EntityTextStart>30</EntityTextStart>
+	<EntityTextEnd>47</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bruce_Springsteen</WikiTitle>
+		<WikiTitleID>60192</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>artist	winner	person	democrat	baritone	singer	musician	songwriter	member	guitarist</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bruce_Springsteen</WikiTitle> <WikiTitleID>60192</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1971</EntitySurfaceForm>
+	<EntityTextStart>81</EntityTextStart>
+	<EntityTextEnd>85</EntityTextEnd>
+	<LinkerScore>1.9834847331874663</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1971</WikiTitle>
+		<WikiTitleID>34748</WikiTitleID>
+		<RankerScore>0.8774344989063632</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1971</WikiTitle> <WikiTitleID>34748</WikiTitleID> <RankerScore>0.8774344989063632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_in_film</WikiTitle> <WikiTitleID>171680</WikiTitleID> <RankerScore>0.02004702282596157</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_in_music</WikiTitle> <WikiTitleID>160408</WikiTitleID> <RankerScore>0.027141665692673445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_in_literature</WikiTitle> <WikiTitleID>191081</WikiTitleID> <RankerScore>0.0044339301514707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_in_television</WikiTitle> <WikiTitleID>169715</WikiTitleID> <RankerScore>0.0044339301514707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_in_sports</WikiTitle> <WikiTitleID>171799</WikiTitleID> <RankerScore>0.0044339301514707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_in_baseball</WikiTitle> <WikiTitleID>2441297</WikiTitleID> <RankerScore>0.0044339301514707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_NFL_season</WikiTitle> <WikiTitleID>2455178</WikiTitleID> <RankerScore>0.0044339301514707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_in_aviation</WikiTitle> <WikiTitleID>566603</WikiTitleID> <RankerScore>0.0044339301514707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_in_poetry</WikiTitle> <WikiTitleID>5812302</WikiTitleID> <RankerScore>0.0044339301514707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1970–71_NHL_season</WikiTitle> <WikiTitleID>2910492</WikiTitleID> <RankerScore>0.0044339301514707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_PGA_Tour</WikiTitle> <WikiTitleID>14685408</WikiTitleID> <RankerScore>0.0044339301514707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_CFL_season</WikiTitle> <WikiTitleID>2922921</WikiTitleID> <RankerScore>0.0044339301514707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_Grand_Prix_motorcycle_racing_season</WikiTitle> <WikiTitleID>8013730</WikiTitleID> <RankerScore>0.0044339301514707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_in_games</WikiTitle> <WikiTitleID>2081991</WikiTitleID> <RankerScore>0.0044339301514707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ontario_general_election,_1971</WikiTitle> <WikiTitleID>1587264</WikiTitleID> <RankerScore>0.0044339301514707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indo-Pakistani_War_of_1971</WikiTitle> <WikiTitleID>464071</WikiTitleID> <RankerScore>0.0044339301514707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_in_country_music</WikiTitle> <WikiTitleID>2011608</WikiTitleID> <RankerScore>0.0044339301514707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1971_World_Series</WikiTitle> <WikiTitleID>1219631</WikiTitleID> <RankerScore>0.0044339301514707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_at_the_1971_South_Pacific_Games</WikiTitle> <WikiTitleID>15622885</WikiTitleID> <RankerScore>0.0044339301514707</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Girl</EntitySurfaceForm>
+	<EntityTextStart>131</EntityTextStart>
+	<EntityTextEnd>135</EntityTextEnd>
+	<LinkerScore>-8.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Girl_(band)</WikiTitle>
+		<WikiTitleID>1543525</WikiTitleID>
+		<RankerScore>0.19978998755546917</RankerScore>
+		<Attributes>person	member	guitarist</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Girl_(band)</WikiTitle> <WikiTitleID>1543525</WikiTitleID> <RankerScore>0.19978998755546917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl</WikiTitle> <WikiTitleID>1723133</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_(Destiny&apos;s_Child_song)</WikiTitle> <WikiTitleID>2607357</WikiTitleID> <RankerScore>0.13611514599587052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_(The_Beatles_song)</WikiTitle> <WikiTitleID>2249559</WikiTitleID> <RankerScore>0.15670506928182878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_(Dannii_Minogue_album)</WikiTitle> <WikiTitleID>3751912</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_(Eskimo_Joe_album)</WikiTitle> <WikiTitleID>5229240</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_(film)</WikiTitle> <WikiTitleID>6960205</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_(Beck_song)</WikiTitle> <WikiTitleID>6312903</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_Distribution_Company</WikiTitle> <WikiTitleID>3376354</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_(Paul_Wall_song)</WikiTitle> <WikiTitleID>5944005</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_(Chinese_constellation)</WikiTitle> <WikiTitleID>6792457</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_(The_Time_song)</WikiTitle> <WikiTitleID>7167576</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Call_girl</WikiTitle> <WikiTitleID>321487</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_6_(album)</WikiTitle> <WikiTitleID>2229800</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_Scouts_of_the_USA</WikiTitle> <WikiTitleID>295087</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>It</EntitySurfaceForm>
+	<EntityTextStart>141</EntityTextStart>
+	<EntityTextEnd>143</EntityTextEnd>
+	<LinkerScore>-0.9501876172894419</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>It_(1990_film)</WikiTitle>
+		<WikiTitleID>685938</WikiTitleID>
+		<RankerScore>0.4862526743573042</RankerScore>
+		<Attributes>film	novel	movie</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>It_(novel)</WikiTitle> <WikiTitleID>271590</WikiTitleID> <RankerScore>0.20029511519361268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(1990_film)</WikiTitle> <WikiTitleID>685938</WikiTitleID> <RankerScore>0.4862526743573042</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(1927_film)</WikiTitle> <WikiTitleID>271588</WikiTitleID> <RankerScore>0.026126327015362057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(album)</WikiTitle> <WikiTitleID>557662</WikiTitleID> <RankerScore>0.10444159432618658</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It</WikiTitle> <WikiTitleID>74821</WikiTitleID> <RankerScore>0.026126327015362057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Phish_festivals</WikiTitle> <WikiTitleID>4160240</WikiTitleID> <RankerScore>0.026126327015362057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_language</WikiTitle> <WikiTitleID>14708</WikiTitleID> <RankerScore>0.026126327015362057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(2004_film)</WikiTitle> <WikiTitleID>4710990</WikiTitleID> <RankerScore>0.026126327015362057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_girl</WikiTitle> <WikiTitleID>2199811</WikiTitleID> <RankerScore>0.026126327015362057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ordinary_People</WikiTitle> <WikiTitleID>106335</WikiTitleID> <RankerScore>0.026126327015362057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tag_(game)</WikiTitle> <WikiTitleID>536639</WikiTitleID> <RankerScore>0.026126327015362057</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>performed</EntitySurfaceForm>
+	<EntityTextStart>148</EntityTextStart>
+	<EntityTextEnd>157</EntityTextEnd>
+	<LinkerScore>-1.748015944738365</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Actor</WikiTitle>
+		<WikiTitleID>753</WikiTitleID>
+		<RankerScore>0.5930072384789263</RankerScore>
+		<Attributes>profession	occupation	actor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Actor</WikiTitle> <WikiTitleID>753</WikiTitleID> <RankerScore>0.5930072384789263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Performance</WikiTitle> <WikiTitleID>224515</WikiTitleID> <RankerScore>0.07019913613727992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Wall_–_Live_in_Berlin</WikiTitle> <WikiTitleID>3291023</WikiTitleID> <RankerScore>0.2155828872691227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Performing_arts</WikiTitle> <WikiTitleID>22938</WikiTitleID> <RankerScore>0.024242147622934217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Specific_performance</WikiTitle> <WikiTitleID>794364</WikiTitleID> <RankerScore>0.024242147622934217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Concert_dance</WikiTitle> <WikiTitleID>691909</WikiTitleID> <RankerScore>0.024242147622934217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Musical_composition</WikiTitle> <WikiTitleID>47962</WikiTitleID> <RankerScore>0.024242147622934217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Finite_field_arithmetic</WikiTitle> <WikiTitleID>576387</WikiTitleID> <RankerScore>0.024242147622934217</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Springsteen</EntitySurfaceForm>
+	<EntityTextStart>161</EntityTextStart>
+	<EntityTextEnd>172</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bruce_Springsteen</WikiTitle>
+		<WikiTitleID>60192</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>artist	winner	person	democrat	baritone	singer	musician	songwriter	member	guitarist</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bruce_Springsteen</WikiTitle> <WikiTitleID>60192</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>concert</EntitySurfaceForm>
+	<EntityTextStart>176</EntityTextStart>
+	<EntityTextEnd>183</EntityTextEnd>
+	<LinkerScore>1.0238555224232764</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Concert</WikiTitle>
+		<WikiTitleID>236918</WikiTitleID>
+		<RankerScore>0.7588193976282401</RankerScore>
+		<Attributes>tours	concert</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Concert</WikiTitle> <WikiTitleID>236918</WikiTitleID> <RankerScore>0.7588193976282401</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Concert_band</WikiTitle> <WikiTitleID>312722</WikiTitleID> <RankerScore>0.017398341036719035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rock_concert</WikiTitle> <WikiTitleID>2105858</WikiTitleID> <RankerScore>0.07036464220434277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_concert_halls</WikiTitle> <WikiTitleID>847040</WikiTitleID> <RankerScore>0.017046402125633114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>War_Tour</WikiTitle> <WikiTitleID>3661023</WikiTitleID> <RankerScore>0.017046402125633114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>7/8/03_–_New_York,_New_York</WikiTitle> <WikiTitleID>5061640</WikiTitleID> <RankerScore>0.017046402125633114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Concert_for_Diana</WikiTitle> <WikiTitleID>11142487</WikiTitleID> <RankerScore>0.017046402125633114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Concert_for_George</WikiTitle> <WikiTitleID>186247</WikiTitleID> <RankerScore>0.017046402125633114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pink_Floyd_live_performances</WikiTitle> <WikiTitleID>4075189</WikiTitleID> <RankerScore>0.017046402125633114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aloha_from_Hawaii_Via_Satellite</WikiTitle> <WikiTitleID>2253517</WikiTitleID> <RankerScore>0.017046402125633114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Concert_dance</WikiTitle> <WikiTitleID>691909</WikiTitleID> <RankerScore>0.017046402125633114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_30th_Anniversary_Concert_Celebration</WikiTitle> <WikiTitleID>2164333</WikiTitleID> <RankerScore>0.017046402125633114</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>March</EntitySurfaceForm>
+	<EntityTextStart>197</EntityTextStart>
+	<EntityTextEnd>202</EntityTextEnd>
+	<LinkerScore>0.9580538539023914</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>March</WikiTitle>
+		<WikiTitleID>19344</WikiTitleID>
+		<RankerScore>0.2741156362626295</RankerScore>
+		<Attributes>month</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>March</WikiTitle> <WikiTitleID>19344</WikiTitleID> <RankerScore>0.2741156362626295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_Engineering</WikiTitle> <WikiTitleID>1347020</WikiTitleID> <RankerScore>0.09615359198089247</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March,_Cambridgeshire</WikiTitle> <WikiTitleID>457278</WikiTitleID> <RankerScore>0.10820720851274407</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_2006</WikiTitle> <WikiTitleID>4238742</WikiTitleID> <RankerScore>0.030677856661396108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_2004</WikiTitle> <WikiTitleID>497739</WikiTitleID> <RankerScore>0.030677856661396108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_2005_in_sports</WikiTitle> <WikiTitleID>1230138</WikiTitleID> <RankerScore>0.030677856661396108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_2000</WikiTitle> <WikiTitleID>1478016</WikiTitleID> <RankerScore>0.030677856661396108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_2005</WikiTitle> <WikiTitleID>1559702</WikiTitleID> <RankerScore>0.030677856661396108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_(music)</WikiTitle> <WikiTitleID>4635444</WikiTitleID> <RankerScore>0.030677856661396108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_2003</WikiTitle> <WikiTitleID>190939</WikiTitleID> <RankerScore>0.030677856661396108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_(territory)</WikiTitle> <WikiTitleID>317549</WikiTitleID> <RankerScore>0.030677856661396108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_2001</WikiTitle> <WikiTitleID>287347</WikiTitleID> <RankerScore>0.030677856661396108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_2002</WikiTitle> <WikiTitleID>106480</WikiTitleID> <RankerScore>0.030677856661396108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_District</WikiTitle> <WikiTitleID>3421816</WikiTitleID> <RankerScore>0.030677856661396108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_in_India</WikiTitle> <WikiTitleID>1454554</WikiTitleID> <RankerScore>0.030677856661396108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_2006_in_science</WikiTitle> <WikiTitleID>4240824</WikiTitleID> <RankerScore>0.030677856661396108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_2006_in_sports</WikiTitle> <WikiTitleID>4238664</WikiTitleID> <RankerScore>0.030677856661396108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_2005_in_science</WikiTitle> <WikiTitleID>1358094</WikiTitleID> <RankerScore>0.030677856661396108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_2007_in_sports</WikiTitle> <WikiTitleID>9783806</WikiTitleID> <RankerScore>0.030677856661396108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_2007_in_science</WikiTitle> <WikiTitleID>9858507</WikiTitleID> <RankerScore>0.030677856661396108</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>March 1973</EntitySurfaceForm>
+	<EntityTextStart>197</EntityTextStart>
+	<EntityTextEnd>207</EntityTextEnd>
+	<LinkerScore>4.355103340146725</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1973</WikiTitle>
+		<WikiTitleID>34751</WikiTitleID>
+		<RankerScore>0.9926427580140122</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1973</WikiTitle> <WikiTitleID>34751</WikiTitleID> <RankerScore>0.9926427580140122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1973_in_radio</WikiTitle> <WikiTitleID>3329165</WikiTitleID> <RankerScore>0.007357241985987717</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1973</EntitySurfaceForm>
+	<EntityTextStart>203</EntityTextStart>
+	<EntityTextEnd>207</EntityTextEnd>
+	<LinkerScore>3.6865380452529752</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1973</WikiTitle>
+		<WikiTitleID>34751</WikiTitleID>
+		<RankerScore>0.9965257399484354</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1973</WikiTitle> <WikiTitleID>34751</WikiTitleID> <RankerScore>0.9965257399484354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1973_in_radio</WikiTitle> <WikiTitleID>3329165</WikiTitleID> <RankerScore>0.0034742600515646448</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>It</EntitySurfaceForm>
+	<EntityTextStart>210</EntityTextStart>
+	<EntityTextEnd>212</EntityTextEnd>
+	<LinkerScore>-1.0296957587404303</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>It_(1990_film)</WikiTitle>
+		<WikiTitleID>685938</WikiTitleID>
+		<RankerScore>0.4436002078450478</RankerScore>
+		<Attributes>film	novel	movie</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>It_(novel)</WikiTitle> <WikiTitleID>271590</WikiTitleID> <RankerScore>0.18325455474703217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(1990_film)</WikiTitle> <WikiTitleID>685938</WikiTitleID> <RankerScore>0.4436002078450478</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(1927_film)</WikiTitle> <WikiTitleID>271588</WikiTitleID> <RankerScore>0.023903570587567737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(album)</WikiTitle> <WikiTitleID>557662</WikiTitleID> <RankerScore>0.18191667270737813</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It</WikiTitle> <WikiTitleID>74821</WikiTitleID> <RankerScore>0.023903570587567737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Phish_festivals</WikiTitle> <WikiTitleID>4160240</WikiTitleID> <RankerScore>0.023903570587567737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_language</WikiTitle> <WikiTitleID>14708</WikiTitleID> <RankerScore>0.023903570587567737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(2004_film)</WikiTitle> <WikiTitleID>4710990</WikiTitleID> <RankerScore>0.023903570587567737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_girl</WikiTitle> <WikiTitleID>2199811</WikiTitleID> <RankerScore>0.023903570587567737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ordinary_People</WikiTitle> <WikiTitleID>106335</WikiTitleID> <RankerScore>0.023903570587567737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tag_(game)</WikiTitle> <WikiTitleID>536639</WikiTitleID> <RankerScore>0.023903570587567737</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>recorded</EntitySurfaceForm>
+	<EntityTextStart>217</EntityTextStart>
+	<EntityTextEnd>225</EntityTextEnd>
+	<LinkerScore>-0.4597600363174508</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Recording_studio</WikiTitle>
+		<WikiTitleID>234751</WikiTitleID>
+		<RankerScore>0.6988541146101832</RankerScore>
+		<Attributes>studio</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sound_recording_and_reproduction</WikiTitle> <WikiTitleID>2417230</WikiTitleID> <RankerScore>0.2539099814484934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Recording</WikiTitle> <WikiTitleID>414743</WikiTitleID> <RankerScore>0.0030889995518053287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Audio_engineer</WikiTitle> <WikiTitleID>597478</WikiTitleID> <RankerScore>0.0030889995518053287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Digital_recording</WikiTitle> <WikiTitleID>673951</WikiTitleID> <RankerScore>0.0030889995518053287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Live_album</WikiTitle> <WikiTitleID>988516</WikiTitleID> <RankerScore>0.007078909767854016</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sokoli_e_Mirusha_(album)</WikiTitle> <WikiTitleID>9026173</WikiTitleID> <RankerScore>0.0030889995518053287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charity_record</WikiTitle> <WikiTitleID>1250986</WikiTitleID> <RankerScore>0.0030889995518053287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Recording_studio</WikiTitle> <WikiTitleID>234751</WikiTitleID> <RankerScore>0.6988541146101832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gramophone_record</WikiTitle> <WikiTitleID>172121</WikiTitleID> <RankerScore>0.0030889995518053287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Video_recorder</WikiTitle> <WikiTitleID>152431</WikiTitleID> <RankerScore>0.0030889995518053287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DVD_recorder</WikiTitle> <WikiTitleID>1203932</WikiTitleID> <RankerScore>0.0030889995518053287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Videotape</WikiTitle> <WikiTitleID>147952</WikiTitleID> <RankerScore>0.0030889995518053287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_disc_drive</WikiTitle> <WikiTitleID>299592</WikiTitleID> <RankerScore>0.0030889995518053287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Recorder_of_deeds</WikiTitle> <WikiTitleID>1181649</WikiTitleID> <RankerScore>0.0030889995518053287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chronicle_of_Ireland</WikiTitle> <WikiTitleID>7754560</WikiTitleID> <RankerScore>0.0030889995518053287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cover_version</WikiTitle> <WikiTitleID>159031</WikiTitleID> <RankerScore>0.0030889995518053287</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>914</EntitySurfaceForm>
+	<EntityTextStart>231</EntityTextStart>
+	<EntityTextEnd>234</EntityTextEnd>
+	<LinkerScore>2.5188757056656583</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>914</WikiTitle>
+		<WikiTitleID>51094</WikiTitleID>
+		<RankerScore>0.7750167178849056</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>914</WikiTitle> <WikiTitleID>51094</WikiTitleID> <RankerScore>0.7750167178849056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Porsche_914</WikiTitle> <WikiTitleID>37419</WikiTitleID> <RankerScore>0.04207244351034542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>10th_century_in_Ireland</WikiTitle> <WikiTitleID>10256948</WikiTitleID> <RankerScore>0.08922008784318701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Area_code_914</WikiTitle> <WikiTitleID>1180890</WikiTitleID> <RankerScore>0.031230250253854015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>910s_BC</WikiTitle> <WikiTitleID>55508</WikiTitleID> <RankerScore>0.031230250253854015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_914</WikiTitle> <WikiTitleID>1231702</WikiTitleID> <RankerScore>0.031230250253854015</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>914 Sound Studios</EntitySurfaceForm>
+	<EntityTextStart>231</EntityTextStart>
+	<EntityTextEnd>248</EntityTextEnd>
+	<LinkerScore>5.396555767492834</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>914_Sound_Studios</WikiTitle>
+		<WikiTitleID>15068142</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>studio</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>914_Sound_Studios</WikiTitle> <WikiTitleID>15068142</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sound</EntitySurfaceForm>
+	<EntityTextStart>235</EntityTextStart>
+	<EntityTextEnd>240</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sound_recording_and_reproduction</WikiTitle>
+		<WikiTitleID>2417230</WikiTitleID>
+		<RankerScore>0.039678466509392815</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sound</WikiTitle> <WikiTitleID>27017</WikiTitleID> <RankerScore>0.612245349555419</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Academy_Award_for_Best_Sound</WikiTitle> <WikiTitleID>99028</WikiTitleID> <RankerScore>0.028863933954631375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Øresund</WikiTitle> <WikiTitleID>55268</WikiTitleID> <RankerScore>0.02128081666537045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sound_(geography)</WikiTitle> <WikiTitleID>385319</WikiTitleID> <RankerScore>0.02128081666537045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polish_Academy_Award_for_Best_Sound</WikiTitle> <WikiTitleID>10105505</WikiTitleID> <RankerScore>0.02128081666537045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sound,_Cheshire</WikiTitle> <WikiTitleID>12769745</WikiTitleID> <RankerScore>0.02128081666537045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calf_Sound</WikiTitle> <WikiTitleID>2518023</WikiTitleID> <RankerScore>0.02128081666537045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BAFTA_Award_for_Best_Sound</WikiTitle> <WikiTitleID>11160406</WikiTitleID> <RankerScore>0.02128081666537045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sound_design</WikiTitle> <WikiTitleID>488401</WikiTitleID> <RankerScore>0.02128081666537045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plymouth_Sound</WikiTitle> <WikiTitleID>25163</WikiTitleID> <RankerScore>0.02128081666537045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Puget_Sound</WikiTitle> <WikiTitleID>23682</WikiTitleID> <RankerScore>0.02128081666537045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sound_(album)</WikiTitle> <WikiTitleID>7227745</WikiTitleID> <RankerScore>0.02128081666537045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sound,_Lerwick</WikiTitle> <WikiTitleID>8852497</WikiTitleID> <RankerScore>0.02128081666537045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sound_(medical_instrument)</WikiTitle> <WikiTitleID>3218154</WikiTitleID> <RankerScore>0.02128081666537045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sound_chip</WikiTitle> <WikiTitleID>360301</WikiTitleID> <RankerScore>0.02128081666537045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sonar</WikiTitle> <WikiTitleID>29438</WikiTitleID> <RankerScore>0.02128081666537045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sound_recording_and_reproduction</WikiTitle> <WikiTitleID>2417230</WikiTitleID> <RankerScore>0.039678466509392815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>César_Award_for_Best_Sound</WikiTitle> <WikiTitleID>7983199</WikiTitleID> <RankerScore>0.02128081666537045</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Studios</EntitySurfaceForm>
+	<EntityTextStart>241</EntityTextStart>
+	<EntityTextEnd>248</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Recording_studio</WikiTitle>
+		<WikiTitleID>234751</WikiTitleID>
+		<RankerScore>0.9541613012107306</RankerScore>
+		<Attributes>studio</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Film_studio</WikiTitle> <WikiTitleID>13242006</WikiTitleID> <RankerScore>0.014545607260523593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Studio</WikiTitle> <WikiTitleID>725885</WikiTitleID> <RankerScore>0.0048516593237496915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Recording_studio</WikiTitle> <WikiTitleID>234751</WikiTitleID> <RankerScore>0.9541613012107306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Studio_apartment</WikiTitle> <WikiTitleID>569848</WikiTitleID> <RankerScore>0.0048516593237496915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abbey_Road_Studios</WikiTitle> <WikiTitleID>140630</WikiTitleID> <RankerScore>0.016738113557496614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lego_Studios</WikiTitle> <WikiTitleID>6982617</WikiTitleID> <RankerScore>0.0048516593237496915</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>May</EntitySurfaceForm>
+	<EntityTextStart>254</EntityTextStart>
+	<EntityTextEnd>257</EntityTextEnd>
+	<LinkerScore>-0.25895247241537556</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>May</WikiTitle>
+		<WikiTitleID>19345</WikiTitleID>
+		<RankerScore>0.335825172604118</RankerScore>
+		<Attributes>month</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>May</WikiTitle> <WikiTitleID>19345</WikiTitleID> <RankerScore>0.335825172604118</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Guilty_Gear_characters</WikiTitle> <WikiTitleID>3145552</WikiTitleID> <RankerScore>0.09585030027530267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_2006</WikiTitle> <WikiTitleID>5377858</WikiTitleID> <RankerScore>0.031506613390231517</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_2002</WikiTitle> <WikiTitleID>61800</WikiTitleID> <RankerScore>0.031577524337079284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_2000</WikiTitle> <WikiTitleID>1478019</WikiTitleID> <RankerScore>0.031577524337079284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_2005_in_sports</WikiTitle> <WikiTitleID>1852665</WikiTitleID> <RankerScore>0.031577524337079284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_2004</WikiTitle> <WikiTitleID>581758</WikiTitleID> <RankerScore>0.031577524337079284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_(film)</WikiTitle> <WikiTitleID>3095818</WikiTitleID> <RankerScore>0.031577524337079284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_2005_in_science</WikiTitle> <WikiTitleID>1679278</WikiTitleID> <RankerScore>0.031577524337079284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_2005</WikiTitle> <WikiTitleID>1490048</WikiTitleID> <RankerScore>0.031577524337079284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_2003</WikiTitle> <WikiTitleID>224666</WikiTitleID> <RankerScore>0.031577524337079284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_2001</WikiTitle> <WikiTitleID>423865</WikiTitleID> <RankerScore>0.031577524337079284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_2007_in_sports</WikiTitle> <WikiTitleID>10995316</WikiTitleID> <RankerScore>0.031577524337079284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_2006_in_sports</WikiTitle> <WikiTitleID>4967521</WikiTitleID> <RankerScore>0.031577524337079284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_2007_in_science</WikiTitle> <WikiTitleID>11009463</WikiTitleID> <RankerScore>0.031577524337079284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_2006_in_science</WikiTitle> <WikiTitleID>4976691</WikiTitleID> <RankerScore>0.031577524337079284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_2005_in_Canada</WikiTitle> <WikiTitleID>1822499</WikiTitleID> <RankerScore>0.031577524337079284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deaths_in_May_2005</WikiTitle> <WikiTitleID>1925371</WikiTitleID> <RankerScore>0.031577524337079284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_in_India</WikiTitle> <WikiTitleID>1826482</WikiTitleID> <RankerScore>0.031577524337079284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deaths_in_May_2006</WikiTitle> <WikiTitleID>3916303</WikiTitleID> <RankerScore>0.031577524337079284</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>May 1973</EntitySurfaceForm>
+	<EntityTextStart>254</EntityTextStart>
+	<EntityTextEnd>262</EntityTextEnd>
+	<LinkerScore>2.941666852469947</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Kingdom_local_elections,_1973</WikiTitle>
+		<WikiTitleID>6958963</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>election</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Kingdom_local_elections,_1973</WikiTitle> <WikiTitleID>6958963</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1973</EntitySurfaceForm>
+	<EntityTextStart>258</EntityTextStart>
+	<EntityTextEnd>262</EntityTextEnd>
+	<LinkerScore>2.941666852469947</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Kingdom_local_elections,_1973</WikiTitle>
+		<WikiTitleID>6958963</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>election</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Kingdom_local_elections,_1973</WikiTitle> <WikiTitleID>6958963</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sessions</EntitySurfaceForm>
+	<EntityTextStart>271</EntityTextStart>
+	<EntityTextEnd>279</EntityTextEnd>
+	<LinkerScore>-0.9664537966822814</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Session_musician</WikiTitle>
+		<WikiTitleID>882485</WikiTitleID>
+		<RankerScore>0.4238282534325424</RankerScore>
+		<Attributes>occupation	musician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Session_(computer_science)</WikiTitle> <WikiTitleID>865452</WikiTitleID> <RankerScore>0.08070000341082637</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legislative_session</WikiTitle> <WikiTitleID>4927404</WikiTitleID> <RankerScore>0.05122687427960569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_traditional_music_session</WikiTitle> <WikiTitleID>14943</WikiTitleID> <RankerScore>0.05122687427960569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Session_musician</WikiTitle> <WikiTitleID>882485</WikiTitleID> <RankerScore>0.4238282534325424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sessions</WikiTitle> <WikiTitleID>27960</WikiTitleID> <RankerScore>0.05122687427960569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sound_recording_and_reproduction</WikiTitle> <WikiTitleID>2417230</WikiTitleID> <RankerScore>0.1881104974789971</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Login_session</WikiTitle> <WikiTitleID>5275940</WikiTitleID> <RankerScore>0.05122687427960569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_disc_authoring</WikiTitle> <WikiTitleID>421795</WikiTitleID> <RankerScore>0.05122687427960569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Psychotherapy</WikiTitle> <WikiTitleID>24931</WikiTitleID> <RankerScore>0.05122687427960569</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Springsteen</EntitySurfaceForm>
+	<EntityTextStart>284</EntityTextStart>
+	<EntityTextEnd>295</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bruce_Springsteen</WikiTitle>
+		<WikiTitleID>60192</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>artist	winner	person	democrat	baritone	singer	musician	songwriter	member	guitarist</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bruce_Springsteen</WikiTitle> <WikiTitleID>60192</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>second</EntitySurfaceForm>
+	<EntityTextStart>298</EntityTextStart>
+	<EntityTextEnd>304</EntityTextEnd>
+	<LinkerScore>2.042562964188137</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Second</WikiTitle>
+		<WikiTitleID>26873</WikiTitleID>
+		<RankerScore>0.3309727331320424</RankerScore>
+		<Attributes>unit	order</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Second</WikiTitle> <WikiTitleID>26873</WikiTitleID> <RankerScore>0.3309727331320424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_baseman</WikiTitle> <WikiTitleID>576847</WikiTitleID> <RankerScore>0.03174261494359314</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2nd_century</WikiTitle> <WikiTitleID>34744</WikiTitleID> <RankerScore>0.03249033092917068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2nd_century_BC</WikiTitle> <WikiTitleID>34837</WikiTitleID> <RankerScore>0.03249033092917068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_War_II</WikiTitle> <WikiTitleID>32927</WikiTitleID> <RankerScore>0.08494902612846283</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_language</WikiTitle> <WikiTitleID>162986</WikiTitleID> <RankerScore>0.03249033092917068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_law_of_thermodynamics</WikiTitle> <WikiTitleID>133017</WikiTitleID> <RankerScore>0.03249033092917068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Balkenende_cabinet</WikiTitle> <WikiTitleID>235886</WikiTitleID> <RankerScore>0.03249033092917068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>I_Ain&apos;t_Marching_Anymore</WikiTitle> <WikiTitleID>1515913</WikiTitleID> <RankerScore>0.03249033092917068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Harry_Potter_and_the_Chamber_of_Secrets_(film)</WikiTitle> <WikiTitleID>667368</WikiTitleID> <RankerScore>0.03249033092917068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minute_of_arc</WikiTitle> <WikiTitleID>2431</WikiTitleID> <RankerScore>0.03249033092917068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fantaghirò_2</WikiTitle> <WikiTitleID>11216928</WikiTitleID> <RankerScore>0.03249033092917068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Encirclement_Campaign</WikiTitle> <WikiTitleID>8653638</WikiTitleID> <RankerScore>0.03249033092917068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>WGGB-DT2</WikiTitle> <WikiTitleID>16688016</WikiTitleID> <RankerScore>0.03249033092917068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Aliyah</WikiTitle> <WikiTitleID>5585018</WikiTitleID> <RankerScore>0.03249033092917068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lost_(season_2)</WikiTitle> <WikiTitleID>1958665</WikiTitleID> <RankerScore>0.03249033092917068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2nd_New_Zealand_Parliament</WikiTitle> <WikiTitleID>1024710</WikiTitleID> <RankerScore>0.03249033092917068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Epistle_of_John</WikiTitle> <WikiTitleID>28612</WikiTitleID> <RankerScore>0.03249033092917068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_metacarpal_bone</WikiTitle> <WikiTitleID>4405796</WikiTitleID> <RankerScore>0.03249033092917068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_legislative_election,_1951</WikiTitle> <WikiTitleID>7966801</WikiTitleID> <RankerScore>0.03249033092917068</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>second album</EntitySurfaceForm>
+	<EntityTextStart>298</EntityTextStart>
+	<EntityTextEnd>310</EntityTextEnd>
+	<LinkerScore>-1.5407354120413637</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Beatles&apos;_Second_Album</WikiTitle>
+		<WikiTitleID>1127645</WikiTitleID>
+		<RankerScore>0.14460669009417218</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>The_Beatles&apos;_Second_Album</WikiTitle> <WikiTitleID>1127645</WikiTitleID> <RankerScore>0.14460669009417218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Led_Zeppelin_II</WikiTitle> <WikiTitleID>50239</WikiTitleID> <RankerScore>0.055370570276032226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Without_You_I&apos;m_Nothing_(Placebo_album)</WikiTitle> <WikiTitleID>7376948</WikiTitleID> <RankerScore>0.06491276133732068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peter_Gabriel_(1978_album)</WikiTitle> <WikiTitleID>1336708</WikiTitleID> <RankerScore>0.04324176342896912</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cassie&apos;s_second_studio_album</WikiTitle> <WikiTitleID>15806584</WikiTitleID> <RankerScore>0.04324176342896912</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tindersticks_(1995_album)</WikiTitle> <WikiTitleID>1252502</WikiTitleID> <RankerScore>0.04324176342896912</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blue_(Third_Eye_Blind_album)</WikiTitle> <WikiTitleID>1517475</WikiTitleID> <RankerScore>0.04324176342896912</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>For_Your_Pleasure</WikiTitle> <WikiTitleID>1821758</WikiTitleID> <RankerScore>0.04324176342896912</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Days_of_the_New_(1999_album)</WikiTitle> <WikiTitleID>1881411</WikiTitleID> <RankerScore>0.04324176342896912</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reggatta_de_Blanc</WikiTitle> <WikiTitleID>231896</WikiTitleID> <RankerScore>0.04324176342896912</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Don&apos;t_Don</WikiTitle> <WikiTitleID>13257607</WikiTitleID> <RankerScore>0.04324176342896912</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elvis_(1956_album)</WikiTitle> <WikiTitleID>4971561</WikiTitleID> <RankerScore>0.04324176342896912</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seal_(1994_album)</WikiTitle> <WikiTitleID>2131111</WikiTitleID> <RankerScore>0.04324176342896912</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More_Songs_About_Buildings_and_Food</WikiTitle> <WikiTitleID>195277</WikiTitleID> <RankerScore>0.04324176342896912</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Breathless_(Shayne_Ward_album)</WikiTitle> <WikiTitleID>13391083</WikiTitleID> <RankerScore>0.04324176342896912</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>In-A-Gadda-Da-Vida_(album)</WikiTitle> <WikiTitleID>5704594</WikiTitleID> <RankerScore>0.04324176342896912</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hangin&apos;_Tough</WikiTitle> <WikiTitleID>3131977</WikiTitleID> <RankerScore>0.04324176342896912</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Coming_(album)</WikiTitle> <WikiTitleID>1368440</WikiTitleID> <RankerScore>0.04324176342896912</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tin_Machine_II</WikiTitle> <WikiTitleID>2008270</WikiTitleID> <RankerScore>0.04324176342896912</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honesty_(album)</WikiTitle> <WikiTitleID>4270620</WikiTitleID> <RankerScore>0.04324176342896912</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>album</EntitySurfaceForm>
+	<EntityTextStart>305</EntityTextStart>
+	<EntityTextEnd>310</EntityTextEnd>
+	<LinkerScore>2.9498200238637287</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Album</WikiTitle>
+		<WikiTitleID>528282</WikiTitleID>
+		<RankerScore>0.9593762838833771</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Album</WikiTitle> <WikiTitleID>528282</WikiTitleID> <RankerScore>0.9593762838833771</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Studio_album</WikiTitle> <WikiTitleID>2206131</WikiTitleID> <RankerScore>0.0037704825632202733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LP_record</WikiTitle> <WikiTitleID>8975473</WikiTitleID> <RankerScore>0.00192311522442131</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gramophone_record</WikiTitle> <WikiTitleID>172121</WikiTitleID> <RankerScore>0.00192311522442131</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sound_recording_and_reproduction</WikiTitle> <WikiTitleID>2417230</WikiTitleID> <RankerScore>0.00416027473824021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Compilation_album</WikiTitle> <WikiTitleID>504309</WikiTitleID> <RankerScore>0.00192311522442131</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Compact_disc</WikiTitle> <WikiTitleID>6429</WikiTitleID> <RankerScore>0.00192311522442131</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stamp_album</WikiTitle> <WikiTitleID>1187317</WikiTitleID> <RankerScore>0.00192311522442131</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Live_album</WikiTitle> <WikiTitleID>988516</WikiTitleID> <RankerScore>0.00192311522442131</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stacie_Orrico_(album)</WikiTitle> <WikiTitleID>1034375</WikiTitleID> <RankerScore>0.00192311522442131</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sedum_album</WikiTitle> <WikiTitleID>17165941</WikiTitleID> <RankerScore>0.00192311522442131</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Back_Room</WikiTitle> <WikiTitleID>2491878</WikiTitleID> <RankerScore>0.00192311522442131</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grateful_Dead_(album)</WikiTitle> <WikiTitleID>2577061</WikiTitleID> <RankerScore>0.00192311522442131</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transplants_(album)</WikiTitle> <WikiTitleID>1165710</WikiTitleID> <RankerScore>0.00192311522442131</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Concert_for_Bangladesh_(album)</WikiTitle> <WikiTitleID>2505234</WikiTitleID> <RankerScore>0.00192311522442131</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Unison_(album)</WikiTitle> <WikiTitleID>3294646</WikiTitleID> <RankerScore>0.00192311522442131</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orange_Blossom_Special_(album)</WikiTitle> <WikiTitleID>5873768</WikiTitleID> <RankerScore>0.00192311522442131</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_recording_sales_certification</WikiTitle> <WikiTitleID>308242</WikiTitleID> <RankerScore>0.00192311522442131</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Autobahn_(album)</WikiTitle> <WikiTitleID>173281</WikiTitleID> <RankerScore>0.00192311522442131</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Serenity_(Blood_for_Blood_album)</WikiTitle> <WikiTitleID>6181921</WikiTitleID> <RankerScore>0.00192311522442131</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>&apos;&apos;</EntitySurfaceForm>
+	<EntityTextStart>311</EntityTextStart>
+	<EntityTextEnd>313</EntityTextEnd>
+	<LinkerScore>-1.7840202960368707</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>List_of_recurring_That_&apos;70s_Show_characters</WikiTitle>
+		<WikiTitleID>3441561</WikiTitleID>
+		<RankerScore>0.5002472571084077</RankerScore>
+		<Attributes>character</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dirty_(film)</WikiTitle> <WikiTitleID>10671108</WikiTitleID> <RankerScore>0.4997527428915923</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_recurring_That_&apos;70s_Show_characters</WikiTitle> <WikiTitleID>3441561</WikiTitleID> <RankerScore>0.5002472571084077</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The Wild</EntitySurfaceForm>
+	<EntityTextStart>315</EntityTextStart>
+	<EntityTextEnd>323</EntityTextEnd>
+	<LinkerScore>1.0392490336835791</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Wild</WikiTitle>
+		<WikiTitleID>1101306</WikiTitleID>
+		<RankerScore>0.9011564515356053</RankerScore>
+		<Attributes>film	character	lion	animal</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>The_Wild</WikiTitle> <WikiTitleID>1101306</WikiTitleID> <RankerScore>0.9011564515356053</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Wild_(novel)</WikiTitle> <WikiTitleID>10252206</WikiTitleID> <RankerScore>0.09884354846439472</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Wild</EntitySurfaceForm>
+	<EntityTextStart>319</EntityTextStart>
+	<EntityTextEnd>323</EntityTextEnd>
+	<LinkerScore>1.5662055329315572</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wild_(album)</WikiTitle>
+		<WikiTitleID>1910874</WikiTitleID>
+		<RankerScore>0.49679162531950743</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Minnesota_Wild</WikiTitle> <WikiTitleID>73132</WikiTitleID> <RankerScore>0.0826280614268714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wild_(band)</WikiTitle> <WikiTitleID>2264677</WikiTitleID> <RankerScore>0.19819890229180756</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wild</WikiTitle> <WikiTitleID>1101278</WikiTitleID> <RankerScore>0.04447628219236272</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wild_(album)</WikiTitle> <WikiTitleID>1910874</WikiTitleID> <RankerScore>0.49679162531950743</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frank_Wild</WikiTitle> <WikiTitleID>4337970</WikiTitleID> <RankerScore>0.04447628219236272</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wildlife</WikiTitle> <WikiTitleID>144219</WikiTitleID> <RankerScore>0.04447628219236272</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wild_(company)</WikiTitle> <WikiTitleID>6042345</WikiTitleID> <RankerScore>0.04447628219236272</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007–08_Minnesota_Wild_season</WikiTitle> <WikiTitleID>11739153</WikiTitleID> <RankerScore>0.04447628219236272</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>E Street Shuffle</EntitySurfaceForm>
+	<EntityTextStart>346</EntityTextStart>
+	<EntityTextEnd>362</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Wild,_the_Innocent_&amp;_the_E_Street_Shuffle</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>directed</EntitySurfaceForm>
+	<EntityTextStart>376</EntityTextStart>
+	<EntityTextEnd>384</EntityTextEnd>
+	<LinkerScore>-0.22279352046271284</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Film_director</WikiTitle>
+		<WikiTitleID>506181</WikiTitleID>
+		<RankerScore>0.3897320083449826</RankerScore>
+		<Attributes>occupation	director</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Film_director</WikiTitle> <WikiTitleID>506181</WikiTitleID> <RankerScore>0.3897320083449826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_director</WikiTitle> <WikiTitleID>518021</WikiTitleID> <RankerScore>0.0518504961682667</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Direction</WikiTitle> <WikiTitleID>378364</WikiTitleID> <RankerScore>0.07094587194917173</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_video_director</WikiTitle> <WikiTitleID>1901819</WikiTitleID> <RankerScore>0.048747162353757895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Theatre_director</WikiTitle> <WikiTitleID>103078</WikiTitleID> <RankerScore>0.048747162353757895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Directed_set</WikiTitle> <WikiTitleID>9165</WikiTitleID> <RankerScore>0.048747162353757895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Video_game_producer</WikiTitle> <WikiTitleID>2283342</WikiTitleID> <RankerScore>0.048747162353757895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_film_and_television_directors</WikiTitle> <WikiTitleID>409918</WikiTitleID> <RankerScore>0.048747162353757895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Titles_in_academia</WikiTitle> <WikiTitleID>7075436</WikiTitleID> <RankerScore>0.048747162353757895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_director</WikiTitle> <WikiTitleID>438428</WikiTitleID> <RankerScore>0.048747162353757895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conducting</WikiTitle> <WikiTitleID>199162</WikiTitleID> <RankerScore>0.048747162353757895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Directeur_sportif</WikiTitle> <WikiTitleID>4627336</WikiTitleID> <RankerScore>0.048747162353757895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Director</WikiTitle> <WikiTitleID>8388</WikiTitleID> <RankerScore>0.048747162353757895</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>demo</EntitySurfaceForm>
+	<EntityTextStart>395</EntityTextStart>
+	<EntityTextEnd>399</EntityTextEnd>
+	<LinkerScore>2.830776366870432</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Demo_(music)</WikiTitle>
+		<WikiTitleID>1833814</WikiTitleID>
+		<RankerScore>0.8488329002798426</RankerScore>
+		<Attributes>type	album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Demo_(music)</WikiTitle> <WikiTitleID>1833814</WikiTitleID> <RankerScore>0.8488329002798426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Game_demo</WikiTitle> <WikiTitleID>1989124</WikiTitleID> <RankerScore>0.017991035752119282</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demo_(computer_programming)</WikiTitle> <WikiTitleID>1833815</WikiTitleID> <RankerScore>0.010939281159920409</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shareware</WikiTitle> <WikiTitleID>163582</WikiTitleID> <RankerScore>0.007639798925507356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demo</WikiTitle> <WikiTitleID>172954</WikiTitleID> <RankerScore>0.007639798925507356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demo_(music)</WikiTitle> <WikiTitleID>7633624</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demoscene</WikiTitle> <WikiTitleID>172959</WikiTitleID> <RankerScore>0.007639798925507356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1993_Demo</WikiTitle> <WikiTitleID>5548180</WikiTitleID> <RankerScore>0.007639798925507356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_prototyping</WikiTitle> <WikiTitleID>1090852</WikiTitleID> <RankerScore>0.007639798925507356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demonstration</WikiTitle> <WikiTitleID>6787330</WikiTitleID> <RankerScore>0.007639798925507356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Grimmrobe_Demos</WikiTitle> <WikiTitleID>2920264</WikiTitleID> <RankerScore>0.007639798925507356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demogroup</WikiTitle> <WikiTitleID>172956</WikiTitleID> <RankerScore>0.007639798925507356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deli_Creeps</WikiTitle> <WikiTitleID>15873137</WikiTitleID> <RankerScore>0.007639798925507356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics</WikiTitle> <WikiTitleID>231086</WikiTitleID> <RankerScore>0.007639798925507356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mate._Feed._Kill._Repeat.</WikiTitle> <WikiTitleID>2349760</WikiTitleID> <RankerScore>0.007639798925507356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>As_Friends_Rust_Demo</WikiTitle> <WikiTitleID>8878579</WikiTitleID> <RankerScore>0.007639798925507356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technology_demonstration</WikiTitle> <WikiTitleID>970198</WikiTitleID> <RankerScore>0.007639798925507356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Synthesizer</WikiTitle> <WikiTitleID>3674187</WikiTitleID> <RankerScore>0.007639798925507356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Virgin_Black_(album)</WikiTitle> <WikiTitleID>9489407</WikiTitleID> <RankerScore>0.007639798925507356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Speedrun</WikiTitle> <WikiTitleID>501086</WikiTitleID> <RankerScore>0.007639798925507356</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mike Appel</EntitySurfaceForm>
+	<EntityTextStart>424</EntityTextStart>
+	<EntityTextEnd>434</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mike_Appel</WikiTitle>
+		<WikiTitleID>3321753</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>producer	person	songwriter</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mike_Appel</WikiTitle> <WikiTitleID>3321753</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Laurel</EntitySurfaceForm>
+	<EntityTextStart>439</EntityTextStart>
+	<EntityTextEnd>445</EntityTextEnd>
+	<LinkerScore>-1.3250590315478856</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Laurel,_Maryland</WikiTitle>
+		<WikiTitleID>116541</WikiTitleID>
+		<RankerScore>0.11896199763369136</RankerScore>
+		<Attributes>place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Laurel,_Maryland</WikiTitle> <WikiTitleID>116541</WikiTitleID> <RankerScore>0.11896199763369136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laurel,_Mississippi</WikiTitle> <WikiTitleID>122332</WikiTitleID> <RankerScore>0.09577988189257264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laurel,_Delaware</WikiTitle> <WikiTitleID>108945</WikiTitleID> <RankerScore>0.09361709969424513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laurel</WikiTitle> <WikiTitleID>61301</WikiTitleID> <RankerScore>0.04068476592820535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laurel,_Montana</WikiTitle> <WikiTitleID>123658</WikiTitleID> <RankerScore>0.04068476592820535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stan_Laurel</WikiTitle> <WikiTitleID>897299</WikiTitleID> <RankerScore>0.04068476592820535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laurel_County,_Kentucky</WikiTitle> <WikiTitleID>95577</WikiTitleID> <RankerScore>0.04068476592820535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laurel,_New_York</WikiTitle> <WikiTitleID>127315</WikiTitleID> <RankerScore>0.04068476592820535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bay_Laurel</WikiTitle> <WikiTitleID>429044</WikiTitleID> <RankerScore>0.04068476592820535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laurel,_California</WikiTitle> <WikiTitleID>16618796</WikiTitleID> <RankerScore>0.04068476592820535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laurel,_Nebraska</WikiTitle> <WikiTitleID>123774</WikiTitleID> <RankerScore>0.04068476592820535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laurel_Thomas</WikiTitle> <WikiTitleID>3453049</WikiTitleID> <RankerScore>0.04068476592820535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laurel,_Batangas</WikiTitle> <WikiTitleID>2123187</WikiTitleID> <RankerScore>0.04068476592820535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laurel,_Virginia</WikiTitle> <WikiTitleID>137636</WikiTitleID> <RankerScore>0.04068476592820535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nissan_Laurel</WikiTitle> <WikiTitleID>1168066</WikiTitleID> <RankerScore>0.04068476592820535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laurel,_Iowa</WikiTitle> <WikiTitleID>114054</WikiTitleID> <RankerScore>0.04068476592820535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laurel,_Indiana</WikiTitle> <WikiTitleID>112258</WikiTitleID> <RankerScore>0.04068476592820535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laurel_(band)</WikiTitle> <WikiTitleID>10453218</WikiTitleID> <RankerScore>0.04068476592820535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laurel_(English_coin)</WikiTitle> <WikiTitleID>227174</WikiTitleID> <RankerScore>0.04068476592820535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Young_Women_(organization)</WikiTitle> <WikiTitleID>5585736</WikiTitleID> <RankerScore>0.04068476592820535</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Laurel Canyon</EntitySurfaceForm>
+	<EntityTextStart>439</EntityTextStart>
+	<EntityTextEnd>452</EntityTextEnd>
+	<LinkerScore>-1.1406664967649491</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Laurel_Canyon,_Los_Angeles</WikiTitle>
+		<WikiTitleID>1324127</WikiTitleID>
+		<RankerScore>0.43603322817981155</RankerScore>
+		<Attributes>1960s</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Laurel_Canyon,_Los_Angeles</WikiTitle> <WikiTitleID>1324127</WikiTitleID> <RankerScore>0.43603322817981155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laurel_Canyon,_Los_Angeles</WikiTitle> <WikiTitleID>2003477</WikiTitleID> <RankerScore>1.7394117829105988</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laurel_Canyon_(film)</WikiTitle> <WikiTitleID>474031</WikiTitleID> <RankerScore>0.3766526910717714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laurel_Canyon_Boulevard</WikiTitle> <WikiTitleID>4119575</WikiTitleID> <RankerScore>0.062438026916139075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>La_Cienega_Boulevard</WikiTitle> <WikiTitleID>1742663</WikiTitleID> <RankerScore>0.062438026916139075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laurel_Canyon_(Los_Angeles_Metro_station)</WikiTitle> <WikiTitleID>4754319</WikiTitleID> <RankerScore>0.062438026916139075</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Canyon</EntitySurfaceForm>
+	<EntityTextStart>446</EntityTextStart>
+	<EntityTextEnd>452</EntityTextEnd>
+	<LinkerScore>0.9559968505491437</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Canyon,_Texas</WikiTitle>
+		<WikiTitleID>136504</WikiTitleID>
+		<RankerScore>0.343812586370092</RankerScore>
+		<Attributes>city	seats</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Canyon,_Texas</WikiTitle> <WikiTitleID>136504</WikiTitleID> <RankerScore>0.343812586370092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canyon</WikiTitle> <WikiTitleID>78478</WikiTitleID> <RankerScore>0.06554448071641074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canyon,_California</WikiTitle> <WikiTitleID>1168445</WikiTitleID> <RankerScore>0.11532029577262402</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canyon_County,_Idaho</WikiTitle> <WikiTitleID>96345</WikiTitleID> <RankerScore>0.047532263714087315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pony_Canyon</WikiTitle> <WikiTitleID>450997</WikiTitleID> <RankerScore>0.047532263714087315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canyon_(band)</WikiTitle> <WikiTitleID>11813253</WikiTitleID> <RankerScore>0.047532263714087315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chevrolet_Colorado</WikiTitle> <WikiTitleID>947409</WikiTitleID> <RankerScore>0.047532263714087315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Canyon_of_the_Yellowstone</WikiTitle> <WikiTitleID>524440</WikiTitleID> <RankerScore>0.047532263714087315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fraser_Canyon</WikiTitle> <WikiTitleID>1897554</WikiTitleID> <RankerScore>0.047532263714087315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canyon_(satellite)</WikiTitle> <WikiTitleID>7339588</WikiTitleID> <RankerScore>0.047532263714087315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canyon,_Minnesota</WikiTitle> <WikiTitleID>11284313</WikiTitleID> <RankerScore>0.047532263714087315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tara_River_Canyon</WikiTitle> <WikiTitleID>6997749</WikiTitleID> <RankerScore>0.047532263714087315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canyon_High_School_(Santa_Clarita,_California)</WikiTitle> <WikiTitleID>4831284</WikiTitleID> <RankerScore>0.047532263714087315</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>publishing</EntitySurfaceForm>
+	<EntityTextStart>453</EntityTextStart>
+	<EntityTextEnd>463</EntityTextEnd>
+	<LinkerScore>0.1939690275612454</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Publishing</WikiTitle>
+		<WikiTitleID>68761</WikiTitleID>
+		<RankerScore>0.6215701054451271</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Publishing</WikiTitle> <WikiTitleID>68761</WikiTitleID> <RankerScore>0.6215701054451271</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_publisher_(popular_music)</WikiTitle> <WikiTitleID>2387895</WikiTitleID> <RankerScore>0.20995385163094177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Video_game_publisher</WikiTitle> <WikiTitleID>101812</WikiTitleID> <RankerScore>0.035079366444610856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electronic_publishing</WikiTitle> <WikiTitleID>190831</WikiTitleID> <RankerScore>0.044465558826440085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_publisher</WikiTitle> <WikiTitleID>11081468</WikiTitleID> <RankerScore>0.044465558826440085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Academic_publishing</WikiTitle> <WikiTitleID>324570</WikiTitleID> <RankerScore>0.044465558826440085</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>arm</EntitySurfaceForm>
+	<EntityTextStart>464</EntityTextStart>
+	<EntityTextEnd>467</EntityTextEnd>
+	<LinkerScore>0.45487447110150403</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Arm</WikiTitle>
+		<WikiTitleID>53238</WikiTitleID>
+		<RankerScore>0.7866488606148464</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arm</WikiTitle> <WikiTitleID>53238</WikiTitleID> <RankerScore>0.7866488606148464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arm_(geography)</WikiTitle> <WikiTitleID>2621884</WikiTitleID> <RankerScore>0.060296005408964626</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anabranch</WikiTitle> <WikiTitleID>7597595</WikiTitleID> <RankerScore>0.0258637285761605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Armenian_language</WikiTitle> <WikiTitleID>2217</WikiTitleID> <RankerScore>0.03179785135000712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cephalopod_limb</WikiTitle> <WikiTitleID>13564973</WikiTitleID> <RankerScore>0.03179785135000712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sea</WikiTitle> <WikiTitleID>26831</WikiTitleID> <RankerScore>0.03179785135000712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Firearm</WikiTitle> <WikiTitleID>11966</WikiTitleID> <RankerScore>0.03179785135000712</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Fever</EntitySurfaceForm>
+	<EntityTextStart>489</EntityTextStart>
+	<EntityTextEnd>494</EntityTextEnd>
+	<LinkerScore>1.3302202773699017</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fever_(Little_Willie_John_song)</WikiTitle>
+		<WikiTitleID>2987787</WikiTitleID>
+		<RankerScore>0.4102428293969533</RankerScore>
+		<Attributes>song	video	singles</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fever</WikiTitle> <WikiTitleID>46253</WikiTitleID> <RankerScore>0.0832538618341346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(Little_Willie_John_song)</WikiTitle> <WikiTitleID>2305460</WikiTitleID> <RankerScore>1.7456995018724644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(album)</WikiTitle> <WikiTitleID>414908</WikiTitleID> <RankerScore>0.03617880776920801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(Little_Willie_John_song)</WikiTitle> <WikiTitleID>2987787</WikiTitleID> <RankerScore>0.4102428293969533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(Aerosmith_song)</WikiTitle> <WikiTitleID>8326182</WikiTitleID> <RankerScore>0.03617880776920801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(1999_film)</WikiTitle> <WikiTitleID>3726605</WikiTitleID> <RankerScore>0.03617880776920801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(Kylie_Minogue_album)</WikiTitle> <WikiTitleID>2393573</WikiTitleID> <RankerScore>0.03617880776920801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(novel)</WikiTitle> <WikiTitleID>1030595</WikiTitleID> <RankerScore>0.03617880776920801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(Starsailor_song)</WikiTitle> <WikiTitleID>13110259</WikiTitleID> <RankerScore>0.03617880776920801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(DC_Comics)</WikiTitle> <WikiTitleID>2974866</WikiTitleID> <RankerScore>0.03617880776920801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Black_Books_episodes</WikiTitle> <WikiTitleID>13424869</WikiTitleID> <RankerScore>0.03617880776920801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(1989_film)</WikiTitle> <WikiTitleID>16395338</WikiTitleID> <RankerScore>0.03617880776920801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_104_FM</WikiTitle> <WikiTitleID>8887623</WikiTitleID> <RankerScore>0.03617880776920801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(band)</WikiTitle> <WikiTitleID>2174180</WikiTitleID> <RankerScore>0.03617880776920801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Free_Your_Mind_33</WikiTitle> <WikiTitleID>6564294</WikiTitleID> <RankerScore>0.03617880776920801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indiana_Fever</WikiTitle> <WikiTitleID>240214</WikiTitleID> <RankerScore>0.03617880776920801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(EP)</WikiTitle> <WikiTitleID>1278163</WikiTitleID> <RankerScore>0.03617880776920801</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Girl</EntitySurfaceForm>
+	<EntityTextStart>503</EntityTextStart>
+	<EntityTextEnd>507</EntityTextEnd>
+	<LinkerScore>-8.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Girl_(band)</WikiTitle>
+		<WikiTitleID>1543525</WikiTitleID>
+		<RankerScore>0.19978998755546917</RankerScore>
+		<Attributes>person	member	guitarist</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Girl_(band)</WikiTitle> <WikiTitleID>1543525</WikiTitleID> <RankerScore>0.19978998755546917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl</WikiTitle> <WikiTitleID>1723133</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_(Destiny&apos;s_Child_song)</WikiTitle> <WikiTitleID>2607357</WikiTitleID> <RankerScore>0.13611514599587052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_(The_Beatles_song)</WikiTitle> <WikiTitleID>2249559</WikiTitleID> <RankerScore>0.15670506928182878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_(Dannii_Minogue_album)</WikiTitle> <WikiTitleID>3751912</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_(Eskimo_Joe_album)</WikiTitle> <WikiTitleID>5229240</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_(film)</WikiTitle> <WikiTitleID>6960205</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_(Beck_song)</WikiTitle> <WikiTitleID>6312903</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_Distribution_Company</WikiTitle> <WikiTitleID>3376354</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_(Paul_Wall_song)</WikiTitle> <WikiTitleID>5944005</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_(Chinese_constellation)</WikiTitle> <WikiTitleID>6792457</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_(The_Time_song)</WikiTitle> <WikiTitleID>7167576</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Call_girl</WikiTitle> <WikiTitleID>321487</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_6_(album)</WikiTitle> <WikiTitleID>2229800</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girl_Scouts_of_the_USA</WikiTitle> <WikiTitleID>295087</WikiTitleID> <RankerScore>0.04228248309723596</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>early</EntitySurfaceForm>
+	<EntityTextStart>516</EntityTextStart>
+	<EntityTextEnd>521</EntityTextEnd>
+	<LinkerScore>-1.5252785712813248</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Early</WikiTitle>
+		<WikiTitleID>1312138</WikiTitleID>
+		<RankerScore>0.22539906101974094</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Early_music</WikiTitle> <WikiTitleID>10033</WikiTitleID> <RankerScore>0.13364579089641376</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early</WikiTitle> <WikiTitleID>1312138</WikiTitleID> <RankerScore>0.22539906101974094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_protein</WikiTitle> <WikiTitleID>4228959</WikiTitleID> <RankerScore>0.12998836239698258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_Christianity</WikiTitle> <WikiTitleID>1027957</WikiTitleID> <RankerScore>0.06387084821085785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Evolutionary_history_of_plants</WikiTitle> <WikiTitleID>11008314</WikiTitleID> <RankerScore>0.06387084821085785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sangam_literature</WikiTitle> <WikiTitleID>4225440</WikiTitleID> <RankerScore>0.06387084821085785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Patristics</WikiTitle> <WikiTitleID>2168500</WikiTitleID> <RankerScore>0.06387084821085785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Britain</WikiTitle> <WikiTitleID>13525</WikiTitleID> <RankerScore>0.06387084821085785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_Cretaceous</WikiTitle> <WikiTitleID>1849092</WikiTitleID> <RankerScore>0.06387084821085785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Old_Kingdom_of_Egypt</WikiTitle> <WikiTitleID>152500</WikiTitleID> <RankerScore>0.06387084821085785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_Buddhist_schools</WikiTitle> <WikiTitleID>573646</WikiTitleID> <RankerScore>0.06387084821085785</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1974</EntitySurfaceForm>
+	<EntityTextStart>522</EntityTextStart>
+	<EntityTextEnd>526</EntityTextEnd>
+	<LinkerScore>2.058841903108422</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1974</WikiTitle>
+		<WikiTitleID>34654</WikiTitleID>
+		<RankerScore>0.975225667468471</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1974</WikiTitle> <WikiTitleID>34654</WikiTitleID> <RankerScore>0.975225667468471</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1974_in_film</WikiTitle> <WikiTitleID>171671</WikiTitleID> <RankerScore>0.0035549654776470957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1974_in_music</WikiTitle> <WikiTitleID>160778</WikiTitleID> <RankerScore>0.004076114114212135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1974_FIFA_World_Cup</WikiTitle> <WikiTitleID>157228</WikiTitleID> <RankerScore>0.0010084266435099873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1974_in_literature</WikiTitle> <WikiTitleID>191075</WikiTitleID> <RankerScore>0.0010084266435099873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_federal_election,_1974</WikiTitle> <WikiTitleID>626478</WikiTitleID> <RankerScore>0.0010084266435099873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1974_in_television</WikiTitle> <WikiTitleID>169718</WikiTitleID> <RankerScore>0.0010084266435099873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1974_NFL_season</WikiTitle> <WikiTitleID>2454701</WikiTitleID> <RankerScore>0.0010084266435099873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1974_in_baseball</WikiTitle> <WikiTitleID>2585478</WikiTitleID> <RankerScore>0.0010084266435099873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1974_in_sports</WikiTitle> <WikiTitleID>171795</WikiTitleID> <RankerScore>0.0010084266435099873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1974_in_poetry</WikiTitle> <WikiTitleID>5521366</WikiTitleID> <RankerScore>0.0010084266435099873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1974_in_aviation</WikiTitle> <WikiTitleID>566605</WikiTitleID> <RankerScore>0.0010084266435099873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1974_in_games</WikiTitle> <WikiTitleID>1544875</WikiTitleID> <RankerScore>0.0010084266435099873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1974_CFL_season</WikiTitle> <WikiTitleID>2913830</WikiTitleID> <RankerScore>0.0010084266435099873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1974_PGA_Tour</WikiTitle> <WikiTitleID>14685298</WikiTitleID> <RankerScore>0.0010084266435099873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1973–74_NHL_season</WikiTitle> <WikiTitleID>2920314</WikiTitleID> <RankerScore>0.0010084266435099873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1974_African_Cup_of_Nations</WikiTitle> <WikiTitleID>1108218</WikiTitleID> <RankerScore>0.0010084266435099873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1974_World_Series</WikiTitle> <WikiTitleID>1219572</WikiTitleID> <RankerScore>0.0010084266435099873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIBT_World_Championships_1974</WikiTitle> <WikiTitleID>11327114</WikiTitleID> <RankerScore>0.0010084266435099873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1974_Hardie-Ferodo_1000</WikiTitle> <WikiTitleID>14301866</WikiTitleID> <RankerScore>0.0010084266435099873</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Appel</EntitySurfaceForm>
+	<EntityTextStart>527</EntityTextStart>
+	<EntityTextEnd>532</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mike_Appel</WikiTitle>
+		<WikiTitleID>3321753</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>producer	person	songwriter</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Karel_Appel</WikiTitle> <WikiTitleID>253803</WikiTitleID> <RankerScore>0.27924788399987044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kenneth_Appel</WikiTitle> <WikiTitleID>311544</WikiTitleID> <RankerScore>0.12907859396257018</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Appel,_Germany</WikiTitle> <WikiTitleID>11928353</WikiTitleID> <RankerScore>0.3797196781742716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Appel</WikiTitle> <WikiTitleID>316994</WikiTitleID> <RankerScore>0.10597692193164389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Appel,_Netherlands</WikiTitle> <WikiTitleID>16204816</WikiTitleID> <RankerScore>0.10597692193164389</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>progressive rock radio</EntitySurfaceForm>
+	<EntityTextStart>554</EntityTextStart>
+	<EntityTextEnd>576</EntityTextEnd>
+	<LinkerScore>4.184213371551066</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Progressive_rock_(radio_format)</WikiTitle>
+		<WikiTitleID>3598350</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>format</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Progressive_rock_(radio_format)</WikiTitle> <WikiTitleID>3598350</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>ramp-up</EntitySurfaceForm>
+	<EntityTextStart>634</EntityTextStart>
+	<EntityTextEnd>641</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ramp_up</WikiTitle>
+		<WikiTitleID>18460335</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>economics	terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Springsteen</EntitySurfaceForm>
+	<EntityTextStart>645</EntityTextStart>
+	<EntityTextEnd>656</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bruce_Springsteen</WikiTitle>
+		<WikiTitleID>60192</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>artist	winner	person	democrat	baritone	singer	musician	songwriter	member	guitarist</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bruce_Springsteen</WikiTitle> <WikiTitleID>60192</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>expectations</EntitySurfaceForm>
+	<EntityTextStart>657</EntityTextStart>
+	<EntityTextEnd>669</EntityTextEnd>
+	<LinkerScore>-1.0681448292421096</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Expectation</WikiTitle>
+		<WikiTitleID>243395</WikiTitleID>
+		<RankerScore>0.4155844785765727</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Expectation</WikiTitle> <WikiTitleID>243395</WikiTitleID> <RankerScore>0.4155844785765727</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Expected_value</WikiTitle> <WikiTitleID>9653</WikiTitleID> <RankerScore>0.2540906436315082</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adaptive_expectations</WikiTitle> <WikiTitleID>3205</WikiTitleID> <RankerScore>0.1723838019547549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>User_expectations</WikiTitle> <WikiTitleID>1462927</WikiTitleID> <RankerScore>0.15794107583716435</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Born to Run</EntitySurfaceForm>
+	<EntityTextStart>683</EntityTextStart>
+	<EntityTextEnd>694</EntityTextEnd>
+	<LinkerScore>2.7174719561358613</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Born_to_Run</WikiTitle>
+		<WikiTitleID>202460</WikiTitleID>
+		<RankerScore>0.866662645418793</RankerScore>
+		<Attributes>album	recording</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Born_to_Run</WikiTitle> <WikiTitleID>202460</WikiTitleID> <RankerScore>0.866662645418793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Born_to_Run_(song)</WikiTitle> <WikiTitleID>1124680</WikiTitleID> <RankerScore>0.13193518388587408</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Born_to_Run_(Lost)</WikiTitle> <WikiTitleID>4366361</WikiTitleID> <RankerScore>0.0014021706953329558</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Run</EntitySurfaceForm>
+	<EntityTextStart>691</EntityTextStart>
+	<EntityTextEnd>694</EntityTextEnd>
+	<LinkerScore>-2.430922611528699</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Run_(Snow_Patrol_song)</WikiTitle>
+		<WikiTitleID>4240793</WikiTitleID>
+		<RankerScore>0.17882355921109086</RankerScore>
+		<Attributes>singles	song	video</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Run_(Snow_Patrol_song)</WikiTitle> <WikiTitleID>4240793</WikiTitleID> <RankerScore>0.17882355921109086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Run</WikiTitle> <WikiTitleID>6676549</WikiTitleID> <RankerScore>0.14692183982813098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Run_(island)</WikiTitle> <WikiTitleID>2760821</WikiTitleID> <RankerScore>0.07388439351008702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joseph_Simmons</WikiTitle> <WikiTitleID>1038359</WikiTitleID> <RankerScore>0.04002468049671275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Run_(2002_film)</WikiTitle> <WikiTitleID>403051</WikiTitleID> <RankerScore>0.04002468049671275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Run_(1991_film)</WikiTitle> <WikiTitleID>6406105</WikiTitleID> <RankerScore>0.04002468049671275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Run_of_Alt_Clut</WikiTitle> <WikiTitleID>4835497</WikiTitleID> <RankerScore>0.04002468049671275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Run_(2004_film)</WikiTitle> <WikiTitleID>8383529</WikiTitleID> <RankerScore>0.04002468049671275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Run</WikiTitle> <WikiTitleID>355367</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sandie_Shaw</WikiTitle> <WikiTitleID>6243621</WikiTitleID> <RankerScore>0.04002468049671275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Run_2</WikiTitle> <WikiTitleID>1097630</WikiTitleID> <RankerScore>0.04002468049671275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Run_(Amy_Macdonald_song)</WikiTitle> <WikiTitleID>15700474</WikiTitleID> <RankerScore>0.04002468049671275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Run_(baseball)</WikiTitle> <WikiTitleID>300747</WikiTitleID> <RankerScore>0.04002468049671275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Run_(Cog_song)</WikiTitle> <WikiTitleID>5114391</WikiTitleID> <RankerScore>0.04002468049671275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Run_(George_Strait_song)</WikiTitle> <WikiTitleID>5816712</WikiTitleID> <RankerScore>0.04002468049671275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Run_(I&apos;m_a_Natural_Disaster)</WikiTitle> <WikiTitleID>15820603</WikiTitleID> <RankerScore>0.04002468049671275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Run_(cricket)</WikiTitle> <WikiTitleID>896043</WikiTitleID> <RankerScore>0.04002468049671275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rhun_Hir_ap_Maelgwn</WikiTitle> <WikiTitleID>1157898</WikiTitleID> <RankerScore>0.04002468049671275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Talkie_Walkie</WikiTitle> <WikiTitleID>1329776</WikiTitleID> <RankerScore>0.04002468049671275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Run</WikiTitle> <WikiTitleID>13541641</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>It</EntitySurfaceForm>
+	<EntityTextStart>702</EntityTextStart>
+	<EntityTextEnd>704</EntityTextEnd>
+	<LinkerScore>-0.9501876172894419</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>It_(1990_film)</WikiTitle>
+		<WikiTitleID>685938</WikiTitleID>
+		<RankerScore>0.4990252153509431</RankerScore>
+		<Attributes>film	novel	movie</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>It_(novel)</WikiTitle> <WikiTitleID>271590</WikiTitleID> <RankerScore>0.20555632547490812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(1990_film)</WikiTitle> <WikiTitleID>685938</WikiTitleID> <RankerScore>0.4990252153509431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(1927_film)</WikiTitle> <WikiTitleID>271588</WikiTitleID> <RankerScore>0.026812594876527013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(album)</WikiTitle> <WikiTitleID>557662</WikiTitleID> <RankerScore>0.08091770016193273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It</WikiTitle> <WikiTitleID>74821</WikiTitleID> <RankerScore>0.026812594876527013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Phish_festivals</WikiTitle> <WikiTitleID>4160240</WikiTitleID> <RankerScore>0.026812594876527013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_language</WikiTitle> <WikiTitleID>14708</WikiTitleID> <RankerScore>0.026812594876527013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(2004_film)</WikiTitle> <WikiTitleID>4710990</WikiTitleID> <RankerScore>0.026812594876527013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_girl</WikiTitle> <WikiTitleID>2199811</WikiTitleID> <RankerScore>0.026812594876527013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ordinary_People</WikiTitle> <WikiTitleID>106335</WikiTitleID> <RankerScore>0.026812594876527013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tag_(game)</WikiTitle> <WikiTitleID>536639</WikiTitleID> <RankerScore>0.026812594876527013</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>recorded</EntitySurfaceForm>
+	<EntityTextStart>709</EntityTextStart>
+	<EntityTextEnd>717</EntityTextEnd>
+	<LinkerScore>-0.4067390844119797</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sound_recording_and_reproduction</WikiTitle>
+		<WikiTitleID>2417230</WikiTitleID>
+		<RankerScore>0.45343879855031083</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sound_recording_and_reproduction</WikiTitle> <WikiTitleID>2417230</WikiTitleID> <RankerScore>0.45343879855031083</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Recording</WikiTitle> <WikiTitleID>414743</WikiTitleID> <RankerScore>0.2716606361479478</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Audio_engineer</WikiTitle> <WikiTitleID>597478</WikiTitleID> <RankerScore>0.017926903842653306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Digital_recording</WikiTitle> <WikiTitleID>673951</WikiTitleID> <RankerScore>0.017926903842653306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Live_album</WikiTitle> <WikiTitleID>988516</WikiTitleID> <RankerScore>0.04185081534724834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sokoli_e_Mirusha_(album)</WikiTitle> <WikiTitleID>9026173</WikiTitleID> <RankerScore>0.017926903842653306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charity_record</WikiTitle> <WikiTitleID>1250986</WikiTitleID> <RankerScore>0.017926903842653306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Recording_studio</WikiTitle> <WikiTitleID>234751</WikiTitleID> <RankerScore>0.017926903842653306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gramophone_record</WikiTitle> <WikiTitleID>172121</WikiTitleID> <RankerScore>0.017926903842653306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Video_recorder</WikiTitle> <WikiTitleID>152431</WikiTitleID> <RankerScore>0.017926903842653306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DVD_recorder</WikiTitle> <WikiTitleID>1203932</WikiTitleID> <RankerScore>0.017926903842653306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Videotape</WikiTitle> <WikiTitleID>147952</WikiTitleID> <RankerScore>0.017926903842653306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_disc_drive</WikiTitle> <WikiTitleID>299592</WikiTitleID> <RankerScore>0.017926903842653306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Recorder_of_deeds</WikiTitle> <WikiTitleID>1181649</WikiTitleID> <RankerScore>0.017926903842653306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chronicle_of_Ireland</WikiTitle> <WikiTitleID>7754560</WikiTitleID> <RankerScore>0.017926903842653306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cover_version</WikiTitle> <WikiTitleID>159031</WikiTitleID> <RankerScore>0.017926903842653306</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>UK</EntitySurfaceForm>
+	<EntityTextStart>721</EntityTextStart>
+	<EntityTextEnd>723</EntityTextEnd>
+	<LinkerScore>2.266968124193629</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Kingdom</WikiTitle>
+		<WikiTitleID>31717</WikiTitleID>
+		<RankerScore>0.8792673122631793</RankerScore>
+		<Attributes>country	member	nation	state	template</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.8792673122631793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UK_Singles_Chart</WikiTitle> <WikiTitleID>3349146</WikiTitleID> <RankerScore>0.008633908132742625</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UK_Albums_Chart</WikiTitle> <WikiTitleID>2465857</WikiTitleID> <RankerScore>0.008023393462569878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UK_(band)</WikiTitle> <WikiTitleID>925525</WikiTitleID> <RankerScore>0.006122081537735778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_of_Great_Britain_and_Ireland</WikiTitle> <WikiTitleID>152256</WikiTitleID> <RankerScore>0.006122081537735778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_English</WikiTitle> <WikiTitleID>4179</WikiTitleID> <RankerScore>0.006122081537735778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.006122081537735778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_the_United_Kingdom</WikiTitle> <WikiTitleID>13964</WikiTitleID> <RankerScore>0.006122081537735778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Phonographic_Industry</WikiTitle> <WikiTitleID>3897803</WikiTitleID> <RankerScore>0.006122081537735778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kentucky_Wildcats</WikiTitle> <WikiTitleID>2627960</WikiTitleID> <RankerScore>0.006122081537735778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bingo_(Commonwealth)</WikiTitle> <WikiTitleID>4775799</WikiTitleID> <RankerScore>0.006122081537735778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Public_holidays_in_the_United_Kingdom</WikiTitle> <WikiTitleID>1477996</WikiTitleID> <RankerScore>0.006122081537735778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UK_Records</WikiTitle> <WikiTitleID>1050691</WikiTitleID> <RankerScore>0.006122081537735778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peerage_of_the_United_Kingdom</WikiTitle> <WikiTitleID>413079</WikiTitleID> <RankerScore>0.006122081537735778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_in_the_Eurovision_Song_Contest</WikiTitle> <WikiTitleID>17766232</WikiTitleID> <RankerScore>0.006122081537735778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.006122081537735778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_United_Kingdom</WikiTitle> <WikiTitleID>31723</WikiTitleID> <RankerScore>0.006122081537735778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_in_the_United_Kingdom</WikiTitle> <WikiTitleID>182410</WikiTitleID> <RankerScore>0.006122081537735778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Antarctic_Territory</WikiTitle> <WikiTitleID>204418</WikiTitleID> <RankerScore>0.006122081537735778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Education_in_the_United_Kingdom</WikiTitle> <WikiTitleID>339549</WikiTitleID> <RankerScore>0.006122081537735778</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Alan Rich</EntitySurfaceForm>
+	<EntityTextStart>733</EntityTextStart>
+	<EntityTextEnd>742</EntityTextEnd>
+	<LinkerScore>3.2924969431102977</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Alan_Rich</WikiTitle>
+		<WikiTitleID>6433197</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	critic	journalist	alumnus</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Alan_Rich</WikiTitle> <WikiTitleID>6433197</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1975</EntitySurfaceForm>
+	<EntityTextStart>748</EntityTextStart>
+	<EntityTextEnd>752</EntityTextEnd>
+	<LinkerScore>1.3603007459467913</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1975</WikiTitle>
+		<WikiTitleID>34752</WikiTitleID>
+		<RankerScore>0.9264275231032226</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1975</WikiTitle> <WikiTitleID>34752</WikiTitleID> <RankerScore>0.9264275231032226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1975_in_film</WikiTitle> <WikiTitleID>171668</WikiTitleID> <RankerScore>0.0030332047386322945</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1975_in_music</WikiTitle> <WikiTitleID>160780</WikiTitleID> <RankerScore>0.052326622005464514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1975_in_literature</WikiTitle> <WikiTitleID>191073</WikiTitleID> <RankerScore>0.0010713323619223863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1975_in_television</WikiTitle> <WikiTitleID>169722</WikiTitleID> <RankerScore>0.0010713323619223863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1975_in_sports</WikiTitle> <WikiTitleID>171784</WikiTitleID> <RankerScore>0.0010713323619223863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1975_in_baseball</WikiTitle> <WikiTitleID>2544048</WikiTitleID> <RankerScore>0.0010713323619223863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1975_NFL_season</WikiTitle> <WikiTitleID>2454457</WikiTitleID> <RankerScore>0.0010713323619223863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1975_in_poetry</WikiTitle> <WikiTitleID>5521357</WikiTitleID> <RankerScore>0.0010713323619223863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1975_in_games</WikiTitle> <WikiTitleID>1544906</WikiTitleID> <RankerScore>0.0010713323619223863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1974–75_NHL_season</WikiTitle> <WikiTitleID>2936389</WikiTitleID> <RankerScore>0.0010713323619223863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1975_in_aviation</WikiTitle> <WikiTitleID>566606</WikiTitleID> <RankerScore>0.0010713323619223863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ontario_general_election,_1975</WikiTitle> <WikiTitleID>1587271</WikiTitleID> <RankerScore>0.0010713323619223863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1975_PGA_Tour</WikiTitle> <WikiTitleID>14685268</WikiTitleID> <RankerScore>0.0010713323619223863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1975_Grand_Prix_motorcycle_racing_season</WikiTitle> <WikiTitleID>4721736</WikiTitleID> <RankerScore>0.0010713323619223863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1975_World_Series</WikiTitle> <WikiTitleID>393452</WikiTitleID> <RankerScore>0.0010713323619223863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1975_CFL_season</WikiTitle> <WikiTitleID>2913334</WikiTitleID> <RankerScore>0.0010713323619223863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1974–75_WHA_season</WikiTitle> <WikiTitleID>2658303</WikiTitleID> <RankerScore>0.0010713323619223863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1975_Cricket_World_Cup</WikiTitle> <WikiTitleID>180351</WikiTitleID> <RankerScore>0.0010713323619223863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Juno_Awards_of_1975</WikiTitle> <WikiTitleID>5539101</WikiTitleID> <RankerScore>0.0010713323619223863</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>failed</EntitySurfaceForm>
+	<EntityTextStart>757</EntityTextStart>
+	<EntityTextEnd>763</EntityTextEnd>
+	<LinkerScore>-0.8636345911635905</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mars_program</WikiTitle>
+		<WikiTitleID>47791</WikiTitleID>
+		<RankerScore>0.5800418766736358</RankerScore>
+		<Attributes>mission</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mars_program</WikiTitle> <WikiTitleID>47791</WikiTitleID> <RankerScore>0.5800418766736358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polish–Ukrainian_War</WikiTitle> <WikiTitleID>1400986</WikiTitleID> <RankerScore>0.1223789498609543</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Failure_causes</WikiTitle> <WikiTitleID>1227042</WikiTitleID> <RankerScore>0.11182472453273141</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_invasions_of_the_Río_de_la_Plata</WikiTitle> <WikiTitleID>1220090</WikiTitleID> <RankerScore>0.09287722446633921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flameout</WikiTitle> <WikiTitleID>1451948</WikiTitleID> <RankerScore>0.09287722446633921</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>impact</EntitySurfaceForm>
+	<EntityTextStart>777</EntityTextStart>
+	<EntityTextEnd>783</EntityTextEnd>
+	<LinkerScore>-1.1777621665466493</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Impact</WikiTitle>
+		<WikiTitleID>1060901</WikiTitleID>
+		<RankerScore>0.34011072033574113</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Impact</WikiTitle> <WikiTitleID>1060901</WikiTitleID> <RankerScore>0.34011072033574113</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Impact_event</WikiTitle> <WikiTitleID>63794</WikiTitleID> <RankerScore>0.19197458867197298</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Impact_crater</WikiTitle> <WikiTitleID>6416</WikiTitleID> <RankerScore>0.06181693600556984</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Impact_(mechanics)</WikiTitle> <WikiTitleID>2325044</WikiTitleID> <RankerScore>0.06768295916445269</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collision</WikiTitle> <WikiTitleID>40898</WikiTitleID> <RankerScore>0.06768295916445269</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicxulub_crater</WikiTitle> <WikiTitleID>174609</WikiTitleID> <RankerScore>0.06768295916445269</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Social_change</WikiTitle> <WikiTitleID>329948</WikiTitleID> <RankerScore>0.06768295916445269</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Countries_affected_by_the_2004_Indian_Ocean_earthquake</WikiTitle> <WikiTitleID>1339607</WikiTitleID> <RankerScore>0.06768295916445269</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fuse_(explosives)</WikiTitle> <WikiTitleID>683343</WikiTitleID> <RankerScore>0.06768295916445269</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1976</EntitySurfaceForm>
+	<EntityTextStart>789</EntityTextStart>
+	<EntityTextEnd>793</EntityTextEnd>
+	<LinkerScore>2.324431791933835</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States_presidential_election,_1976</WikiTitle>
+		<WikiTitleID>40569</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States_presidential_election,_1976</WikiTitle> <WikiTitleID>40569</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>recorded</EntitySurfaceForm>
+	<EntityTextStart>802</EntityTextStart>
+	<EntityTextEnd>810</EntityTextEnd>
+	<LinkerScore>0.08993892085530764</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sound_recording_and_reproduction</WikiTitle>
+		<WikiTitleID>2417230</WikiTitleID>
+		<RankerScore>0.4779797956917228</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sound_recording_and_reproduction</WikiTitle> <WikiTitleID>2417230</WikiTitleID> <RankerScore>0.4779797956917228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Recording</WikiTitle> <WikiTitleID>414743</WikiTitleID> <RankerScore>0.17340310034686446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Audio_engineer</WikiTitle> <WikiTitleID>597478</WikiTitleID> <RankerScore>0.024595409379486285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Digital_recording</WikiTitle> <WikiTitleID>673951</WikiTitleID> <RankerScore>0.024595409379486285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Live_album</WikiTitle> <WikiTitleID>988516</WikiTitleID> <RankerScore>0.028876782028091068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sokoli_e_Mirusha_(album)</WikiTitle> <WikiTitleID>9026173</WikiTitleID> <RankerScore>0.024595409379486285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charity_record</WikiTitle> <WikiTitleID>1250986</WikiTitleID> <RankerScore>0.024595409379486285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Recording_studio</WikiTitle> <WikiTitleID>234751</WikiTitleID> <RankerScore>0.024595409379486285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gramophone_record</WikiTitle> <WikiTitleID>172121</WikiTitleID> <RankerScore>0.024595409379486285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Video_recorder</WikiTitle> <WikiTitleID>152431</WikiTitleID> <RankerScore>0.024595409379486285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DVD_recorder</WikiTitle> <WikiTitleID>1203932</WikiTitleID> <RankerScore>0.024595409379486285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Videotape</WikiTitle> <WikiTitleID>147952</WikiTitleID> <RankerScore>0.024595409379486285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_disc_drive</WikiTitle> <WikiTitleID>299592</WikiTitleID> <RankerScore>0.024595409379486285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Recorder_of_deeds</WikiTitle> <WikiTitleID>1181649</WikiTitleID> <RankerScore>0.024595409379486285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chronicle_of_Ireland</WikiTitle> <WikiTitleID>7754560</WikiTitleID> <RankerScore>0.024595409379486285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cover_version</WikiTitle> <WikiTitleID>159031</WikiTitleID> <RankerScore>0.024595409379486285</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Southside</EntitySurfaceForm>
+	<EntityTextStart>816</EntityTextStart>
+	<EntityTextEnd>825</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Southside_Johnny</WikiTitle>
+		<WikiTitleID>1855728</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	member	singer	musician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Southside,_Dublin</WikiTitle> <WikiTitleID>382596</WikiTitleID> <RankerScore>0.10539513292493564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southside</WikiTitle> <WikiTitleID>623022</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southside,_Berkeley,_California</WikiTitle> <WikiTitleID>14354225</WikiTitleID> <RankerScore>0.03452030444759632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southside</WikiTitle> <WikiTitleID>2963758</WikiTitleID> <RankerScore>0.1808570153615069</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southside_(Richmond,_Virginia)</WikiTitle> <WikiTitleID>2877361</WikiTitleID> <RankerScore>0.03452030444759632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southside_(Virginia)</WikiTitle> <WikiTitleID>762620</WikiTitleID> <RankerScore>0.03452030444759632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southside_(Birmingham)</WikiTitle> <WikiTitleID>1206485</WikiTitleID> <RankerScore>0.03452030444759632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Side_(Pittsburgh)</WikiTitle> <WikiTitleID>2603700</WikiTitleID> <RankerScore>0.03452030444759632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southside,_Alabama</WikiTitle> <WikiTitleID>103743</WikiTitleID> <RankerScore>0.03452030444759632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southside_(Texas_album)</WikiTitle> <WikiTitleID>3418755</WikiTitleID> <RankerScore>0.2649838938948053</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southside_Festival</WikiTitle> <WikiTitleID>1565062</WikiTitleID> <RankerScore>0.03452030444759632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Side_Flats</WikiTitle> <WikiTitleID>2926262</WikiTitleID> <RankerScore>0.03452030444759632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southside</WikiTitle> <WikiTitleID>10278522</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Finding_Forever</WikiTitle> <WikiTitleID>5067721</WikiTitleID> <RankerScore>0.03452030444759632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southside_Wandsworth</WikiTitle> <WikiTitleID>1986760</WikiTitleID> <RankerScore>0.03452030444759632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Hampton_Roads</WikiTitle> <WikiTitleID>1155271</WikiTitleID> <RankerScore>0.03452030444759632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Side_(song)</WikiTitle> <WikiTitleID>1721451</WikiTitleID> <RankerScore>0.03452030444759632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southside_(Lil&apos;_Keke_song)</WikiTitle> <WikiTitleID>17625422</WikiTitleID> <RankerScore>0.03452030444759632</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Southside Johnny</EntitySurfaceForm>
+	<EntityTextStart>816</EntityTextStart>
+	<EntityTextEnd>832</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Southside_Johnny</WikiTitle>
+		<WikiTitleID>1855728</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	member	singer	musician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Southside_Johnny</WikiTitle> <WikiTitleID>1855728</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Southside Johnny and The Asbury Jukes</EntitySurfaceForm>
+	<EntityTextStart>816</EntityTextStart>
+	<EntityTextEnd>853</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Southside_Johnny</WikiTitle>
+		<WikiTitleID>1855728</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	member	singer	musician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Southside_Johnny</WikiTitle> <WikiTitleID>1855728</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Johnny</EntitySurfaceForm>
+	<EntityTextStart>826</EntityTextStart>
+	<EntityTextEnd>832</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Southside_Johnny</WikiTitle>
+		<WikiTitleID>1855728</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	member	singer	musician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Southside_Johnny</WikiTitle> <WikiTitleID>1855728</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The Asbury Jukes</EntitySurfaceForm>
+	<EntityTextStart>837</EntityTextStart>
+	<EntityTextEnd>853</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Southside_Johnny</WikiTitle>
+		<WikiTitleID>1855728</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	member	singer	musician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Asbury</EntitySurfaceForm>
+	<EntityTextStart>841</EntityTextStart>
+	<EntityTextEnd>847</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Southside_Johnny</WikiTitle>
+		<WikiTitleID>1855728</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	member	singer	musician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Asbury,_Iowa</WikiTitle> <WikiTitleID>113004</WikiTitleID> <RankerScore>0.363329584942929</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Asbury</WikiTitle> <WikiTitleID>1328156</WikiTitleID> <RankerScore>0.15970414676827513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Asbury,_Stokes_County,_North_Carolina</WikiTitle> <WikiTitleID>2284278</WikiTitleID> <RankerScore>0.2549434439446463</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Asbury,_Missouri</WikiTitle> <WikiTitleID>122779</WikiTitleID> <RankerScore>0.07400760811471652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Francis_Asbury</WikiTitle> <WikiTitleID>169082</WikiTitleID> <RankerScore>0.07400760811471652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Asbury,_New_Jersey</WikiTitle> <WikiTitleID>10586542</WikiTitleID> <RankerScore>0.07400760811471652</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Asbury Jukes</EntitySurfaceForm>
+	<EntityTextStart>841</EntityTextStart>
+	<EntityTextEnd>853</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Southside_Johnny</WikiTitle>
+		<WikiTitleID>1855728</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	member	singer	musician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Southside_Johnny</WikiTitle> <WikiTitleID>1855728</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Jukes</EntitySurfaceForm>
+	<EntityTextStart>848</EntityTextStart>
+	<EntityTextEnd>853</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Southside_Johnny</WikiTitle>
+		<WikiTitleID>1855728</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	member	singer	musician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>The_Jukes_family</WikiTitle> <WikiTitleID>12136950</WikiTitleID> <RankerScore>0.8727279681098594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thomas_H._Jukes</WikiTitle> <WikiTitleID>11268218</WikiTitleID> <RankerScore>0.12727203189014066</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Go Home</EntitySurfaceForm>
+	<EntityTextStart>887</EntityTextStart>
+	<EntityTextEnd>894</EntityTextEnd>
+	<LinkerScore>3.118453071396401</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Go_Home</WikiTitle>
+		<WikiTitleID>5554605</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>song	singles</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Go_Home</WikiTitle> <WikiTitleID>5554605</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The Fever</EntitySurfaceForm>
+	<EntityTextStart>920</EntityTextStart>
+	<EntityTextEnd>929</EntityTextEnd>
+	<LinkerScore>0.3871586006963968</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Fever_(Bruce_Springsteen_song)</WikiTitle>
+		<WikiTitleID>14257100</WikiTitleID>
+		<RankerScore>0.9522870277500126</RankerScore>
+		<Attributes>song</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fever_(Aerosmith_song)</WikiTitle> <WikiTitleID>8326182</WikiTitleID> <RankerScore>0.01605821128237846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Fever_(The_Twilight_Zone)</WikiTitle> <WikiTitleID>113327</WikiTitleID> <RankerScore>0.026303316067423237</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Fever_(Bruce_Springsteen_song)</WikiTitle> <WikiTitleID>14257100</WikiTitleID> <RankerScore>0.9522870277500126</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Fever_(band)</WikiTitle> <WikiTitleID>18478042</WikiTitleID> <RankerScore>0.005351444900185671</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Fever</EntitySurfaceForm>
+	<EntityTextStart>924</EntityTextStart>
+	<EntityTextEnd>929</EntityTextEnd>
+	<LinkerScore>-0.6419228639068125</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fever_(album)</WikiTitle>
+		<WikiTitleID>414908</WikiTitleID>
+		<RankerScore>0.23326981776851174</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fever</WikiTitle> <WikiTitleID>46253</WikiTitleID> <RankerScore>0.08455533162269044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(Little_Willie_John_song)</WikiTitle> <WikiTitleID>2305460</WikiTitleID> <RankerScore>0.20449798041704081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(album)</WikiTitle> <WikiTitleID>414908</WikiTitleID> <RankerScore>0.23326981776851174</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(Little_Willie_John_song)</WikiTitle> <WikiTitleID>2987787</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(Aerosmith_song)</WikiTitle> <WikiTitleID>8326182</WikiTitleID> <RankerScore>0.036744374630135156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(1999_film)</WikiTitle> <WikiTitleID>3726605</WikiTitleID> <RankerScore>0.036744374630135156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(Kylie_Minogue_album)</WikiTitle> <WikiTitleID>2393573</WikiTitleID> <RankerScore>0.036744374630135156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(novel)</WikiTitle> <WikiTitleID>1030595</WikiTitleID> <RankerScore>0.036744374630135156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(Starsailor_song)</WikiTitle> <WikiTitleID>13110259</WikiTitleID> <RankerScore>0.036744374630135156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(DC_Comics)</WikiTitle> <WikiTitleID>2974866</WikiTitleID> <RankerScore>0.036744374630135156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Black_Books_episodes</WikiTitle> <WikiTitleID>13424869</WikiTitleID> <RankerScore>0.036744374630135156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(1989_film)</WikiTitle> <WikiTitleID>16395338</WikiTitleID> <RankerScore>0.036744374630135156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_104_FM</WikiTitle> <WikiTitleID>8887623</WikiTitleID> <RankerScore>0.036744374630135156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(band)</WikiTitle> <WikiTitleID>2174180</WikiTitleID> <RankerScore>0.036744374630135156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Free_Your_Mind_33</WikiTitle> <WikiTitleID>6564294</WikiTitleID> <RankerScore>0.036744374630135156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indiana_Fever</WikiTitle> <WikiTitleID>240214</WikiTitleID> <RankerScore>0.036744374630135156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(EP)</WikiTitle> <WikiTitleID>1278163</WikiTitleID> <RankerScore>0.036744374630135156</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>better</EntitySurfaceForm>
+	<EntityTextStart>945</EntityTextStart>
+	<EntityTextEnd>951</EntityTextEnd>
+	<LinkerScore>-1.5578811023408174</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Better</WikiTitle>
+		<WikiTitleID>7973413</WikiTitleID>
+		<RankerScore>0.4603872337039654</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Better</WikiTitle> <WikiTitleID>7973413</WikiTitleID> <RankerScore>0.4603872337039654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Data_compression_ratio</WikiTitle> <WikiTitleID>8681</WikiTitleID> <RankerScore>0.2831799536056307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Comparison_of_Pascal_and_C</WikiTitle> <WikiTitleID>1986891</WikiTitleID> <RankerScore>0.25643281269040386</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>known</EntitySurfaceForm>
+	<EntityTextStart>952</EntityTextStart>
+	<EntityTextEnd>957</EntityTextEnd>
+	<LinkerScore>0.35996075667515526</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1997</WikiTitle>
+		<WikiTitleID>34601</WikiTitleID>
+		<RankerScore>0.6232003238814675</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Knowledge</WikiTitle> <WikiTitleID>243391</WikiTitleID> <RankerScore>0.13248361820439797</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997</WikiTitle> <WikiTitleID>34601</WikiTitleID> <RankerScore>0.6232003238814675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Known-plaintext_attack</WikiTitle> <WikiTitleID>517019</WikiTitleID> <RankerScore>0.06217384657387458</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maschke&apos;s_theorem</WikiTitle> <WikiTitleID>595735</WikiTitleID> <RankerScore>0.0607140704467533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_37&apos;s</WikiTitle> <WikiTitleID>2953967</WikiTitleID> <RankerScore>0.0607140704467533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popularity</WikiTitle> <WikiTitleID>229719</WikiTitleID> <RankerScore>0.0607140704467533</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The Pointer Sisters</EntitySurfaceForm>
+	<EntityTextStart>970</EntityTextStart>
+	<EntityTextEnd>989</EntityTextEnd>
+	<LinkerScore>2.840963011119153</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Pointer_Sisters</WikiTitle>
+		<WikiTitleID>546311</WikiTitleID>
+		<RankerScore>0.9820048906713722</RankerScore>
+		<Attributes>group	artist	winner	quartet	trio</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>The_Pointer_Sisters</WikiTitle> <WikiTitleID>546311</WikiTitleID> <RankerScore>0.9820048906713722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Pointer_Sisters_(album)</WikiTitle> <WikiTitleID>10528253</WikiTitleID> <RankerScore>0.017995109328627842</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Pointer Sisters</EntitySurfaceForm>
+	<EntityTextStart>974</EntityTextStart>
+	<EntityTextEnd>989</EntityTextEnd>
+	<LinkerScore>3.5676804957324846</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Pointer_Sisters</WikiTitle>
+		<WikiTitleID>546311</WikiTitleID>
+		<RankerScore>0.97875333382135</RankerScore>
+		<Attributes>group	artist	winner	quartet	trio</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>The_Pointer_Sisters</WikiTitle> <WikiTitleID>546311</WikiTitleID> <RankerScore>0.97875333382135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Pointer_Sisters_(album)</WikiTitle> <WikiTitleID>10528253</WikiTitleID> <RankerScore>0.021246666178650068</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Priority</EntitySurfaceForm>
+	<EntityTextStart>1018</EntityTextStart>
+	<EntityTextEnd>1026</EntityTextEnd>
+	<LinkerScore>2.4966896493786757</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Priority_(album)</WikiTitle>
+		<WikiTitleID>10529625</WikiTitleID>
+		<RankerScore>0.9906634229881531</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Priority_Records</WikiTitle> <WikiTitleID>1198613</WikiTitleID> <RankerScore>0.008290738648498332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Priority</WikiTitle> <WikiTitleID>41582</WikiTitleID> <RankerScore>0.0010458383633485703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Priority_(album)</WikiTitle> <WikiTitleID>10529625</WikiTitleID> <RankerScore>0.9906634229881531</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>minimal</EntitySurfaceForm>
+	<EntityTextStart>1041</EntityTextStart>
+	<EntityTextEnd>1048</EntityTextEnd>
+	<LinkerScore>0.9973882531851607</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Minimal_music</WikiTitle>
+		<WikiTitleID>571263</WikiTitleID>
+		<RankerScore>0.21245990222452274</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Minimal_music</WikiTitle> <WikiTitleID>571263</WikiTitleID> <RankerScore>0.21245990222452274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minimalism</WikiTitle> <WikiTitleID>20836</WikiTitleID> <RankerScore>0.12082867646653142</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minimal</WikiTitle> <WikiTitleID>303380</WikiTitleID> <RankerScore>0.12890259504643659</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maximal_element</WikiTitle> <WikiTitleID>303398</WikiTitleID> <RankerScore>0.0597565362513899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minimal_techno</WikiTitle> <WikiTitleID>1960927</WikiTitleID> <RankerScore>0.0597565362513899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Microhouse</WikiTitle> <WikiTitleID>233470</WikiTitleID> <RankerScore>0.0597565362513899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Max-flow_min-cut_theorem</WikiTitle> <WikiTitleID>78130</WikiTitleID> <RankerScore>0.0597565362513899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minimalism_(computing)</WikiTitle> <WikiTitleID>2375218</WikiTitleID> <RankerScore>0.0597565362513899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Complete_coloring</WikiTitle> <WikiTitleID>690736</WikiTitleID> <RankerScore>0.0597565362513899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mathematical_optimization</WikiTitle> <WikiTitleID>52033</WikiTitleID> <RankerScore>0.0597565362513899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maxima_and_minima</WikiTitle> <WikiTitleID>260963</WikiTitleID> <RankerScore>0.0597565362513899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minimal_model</WikiTitle> <WikiTitleID>672568</WikiTitleID> <RankerScore>0.0597565362513899</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>effect</EntitySurfaceForm>
+	<EntityTextStart>1049</EntityTextStart>
+	<EntityTextEnd>1055</EntityTextEnd>
+	<LinkerScore>0.9812586389979912</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sound_effect</WikiTitle>
+		<WikiTitleID>44187</WikiTitleID>
+		<RankerScore>0.371020573232635</RankerScore>
+		<Attributes>effects	technique</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Effect</WikiTitle> <WikiTitleID>317492</WikiTitleID> <RankerScore>0.14837361658700135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sound_effect</WikiTitle> <WikiTitleID>44187</WikiTitleID> <RankerScore>0.371020573232635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Effects_unit</WikiTitle> <WikiTitleID>10165</WikiTitleID> <RankerScore>0.0448782061051985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Result</WikiTitle> <WikiTitleID>1948710</WikiTitleID> <RankerScore>0.03351750800578193</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Special_effect</WikiTitle> <WikiTitleID>53017</WikiTitleID> <RankerScore>0.03351750800578193</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extended_technique</WikiTitle> <WikiTitleID>410014</WikiTitleID> <RankerScore>0.03351750800578193</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Symptom</WikiTitle> <WikiTitleID>196967</WikiTitleID> <RankerScore>0.03351750800578193</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christiansen_effect</WikiTitle> <WikiTitleID>9839265</WikiTitleID> <RankerScore>0.03351750800578193</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demo_effect</WikiTitle> <WikiTitleID>5476620</WikiTitleID> <RankerScore>0.03351750800578193</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Malmquist_bias</WikiTitle> <WikiTitleID>2073846</WikiTitleID> <RankerScore>0.03351750800578193</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Observer_effect</WikiTitle> <WikiTitleID>1437617</WikiTitleID> <RankerScore>0.03351750800578193</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Phenotype</WikiTitle> <WikiTitleID>24543</WikiTitleID> <RankerScore>0.03351750800578193</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Faraday_effect</WikiTitle> <WikiTitleID>518692</WikiTitleID> <RankerScore>0.03351750800578193</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Causality</WikiTitle> <WikiTitleID>37196</WikiTitleID> <RankerScore>0.03351750800578193</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Josephson_effect</WikiTitle> <WikiTitleID>446712</WikiTitleID> <RankerScore>0.03351750800578193</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Effects_unit</WikiTitle> <WikiTitleID>3444849</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gunn_diode</WikiTitle> <WikiTitleID>1290862</WikiTitleID> <RankerScore>0.03351750800578193</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Effects_unit</WikiTitle> <WikiTitleID>1524177</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The original</EntitySurfaceForm>
+	<EntityTextStart>1058</EntityTextStart>
+	<EntityTextEnd>1070</EntityTextEnd>
+	<LinkerScore>-2.043405261621807</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Jet_Set_Radio</WikiTitle>
+		<WikiTitleID>1058067</WikiTitleID>
+		<RankerScore>0.10293544335109964</RankerScore>
+		<Attributes>game</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Jet_Set_Radio</WikiTitle> <WikiTitleID>1058067</WikiTitleID> <RankerScore>0.10293544335109964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sin_(video_game)</WikiTitle> <WikiTitleID>58990</WikiTitleID> <RankerScore>0.09496739188233369</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Freaky_Friday_(1976_film)</WikiTitle> <WikiTitleID>7533357</WikiTitleID> <RankerScore>0.08602125374416576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>I_Know_What_You_Did_Last_Summer</WikiTitle> <WikiTitleID>255049</WikiTitleID> <RankerScore>0.08950948887780012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Golden_Axe</WikiTitle> <WikiTitleID>1149057</WikiTitleID> <RankerScore>0.08950948887780012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>This_Summer</WikiTitle> <WikiTitleID>6808839</WikiTitleID> <RankerScore>0.08950948887780012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Super_Smash_Bros.</WikiTitle> <WikiTitleID>154550</WikiTitleID> <RankerScore>0.08950948887780012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Texas_Chainsaw_Massacre</WikiTitle> <WikiTitleID>10033318</WikiTitleID> <RankerScore>0.08950948887780012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Smells_Like_Teen_Spirit</WikiTitle> <WikiTitleID>59993</WikiTitleID> <RankerScore>0.08950948887780012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Wonderful_Flight_to_the_Mushroom_Planet</WikiTitle> <WikiTitleID>7155427</WikiTitleID> <RankerScore>0.08950948887780012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Break_the_Bank_(1948_game_show)</WikiTitle> <WikiTitleID>14716896</WikiTitleID> <RankerScore>0.08950948887780012</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>original</EntitySurfaceForm>
+	<EntityTextStart>1062</EntityTextStart>
+	<EntityTextEnd>1070</EntityTextEnd>
+	<LinkerScore>-0.7761093634337722</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Originality</WikiTitle>
+		<WikiTitleID>1127541</WikiTitleID>
+		<RankerScore>0.1926874994595027</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Originality</WikiTitle> <WikiTitleID>1127541</WikiTitleID> <RankerScore>0.1926874994595027</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battlestar_Galactica_(1978_TV_series)</WikiTitle> <WikiTitleID>3034262</WikiTitleID> <RankerScore>0.04348776659857418</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Star_Wars</WikiTitle> <WikiTitleID>26678</WikiTitleID> <RankerScore>0.038320119466002125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Original_jurisdiction</WikiTitle> <WikiTitleID>377046</WikiTitleID> <RankerScore>0.04267674202799535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rififi</WikiTitle> <WikiTitleID>1981903</WikiTitleID> <RankerScore>0.04267674202799535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Goose_Girl</WikiTitle> <WikiTitleID>2834272</WikiTitleID> <RankerScore>0.04267674202799535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Watchers_(film)</WikiTitle> <WikiTitleID>3509188</WikiTitleID> <RankerScore>0.04267674202799535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gangsta_Gangsta_(N.W.A_song)</WikiTitle> <WikiTitleID>12770934</WikiTitleID> <RankerScore>0.04267674202799535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orchestration</WikiTitle> <WikiTitleID>47398</WikiTitleID> <RankerScore>0.04267674202799535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Film_score</WikiTitle> <WikiTitleID>176945</WikiTitleID> <RankerScore>0.04267674202799535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Original_sin</WikiTitle> <WikiTitleID>22735</WikiTitleID> <RankerScore>0.04267674202799535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Killed_the_Family_and_Went_to_the_Movies_(1969_film)</WikiTitle> <WikiTitleID>11055552</WikiTitleID> <RankerScore>0.04267674202799535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sisters_Are_Doin&apos;_It_for_Themselves</WikiTitle> <WikiTitleID>4429888</WikiTitleID> <RankerScore>0.04267674202799535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ObsCure_(video_game)</WikiTitle> <WikiTitleID>2491305</WikiTitleID> <RankerScore>0.04267674202799535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Godzilla_(1954_film)</WikiTitle> <WikiTitleID>12004</WikiTitleID> <RankerScore>0.04267674202799535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trapped_in_the_Closet</WikiTitle> <WikiTitleID>1974184</WikiTitleID> <RankerScore>0.04267674202799535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Blob</WikiTitle> <WikiTitleID>761788</WikiTitleID> <RankerScore>0.04267674202799535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prototype</WikiTitle> <WikiTitleID>72718</WikiTitleID> <RankerScore>0.04267674202799535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Land_of_the_Lost_(1974_TV_series)</WikiTitle> <WikiTitleID>170342</WikiTitleID> <RankerScore>0.04267674202799535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IE_2600_Class</WikiTitle> <WikiTitleID>10301960</WikiTitleID> <RankerScore>0.04267674202799535</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Springsteen</EntitySurfaceForm>
+	<EntityTextStart>1071</EntityTextStart>
+	<EntityTextEnd>1082</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bruce_Springsteen</WikiTitle>
+		<WikiTitleID>60192</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>artist	winner	person	democrat	baritone	singer	musician	songwriter	member	guitarist</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bruce_Springsteen</WikiTitle> <WikiTitleID>60192</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>recording</EntitySurfaceForm>
+	<EntityTextStart>1083</EntityTextStart>
+	<EntityTextEnd>1092</EntityTextEnd>
+	<LinkerScore>-1.6469249949340319</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Recording</WikiTitle>
+		<WikiTitleID>414743</WikiTitleID>
+		<RankerScore>0.29971465514767953</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sound_recording_and_reproduction</WikiTitle> <WikiTitleID>2417230</WikiTitleID> <RankerScore>0.18585587492236066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Recording</WikiTitle> <WikiTitleID>414743</WikiTitleID> <RankerScore>0.29971465514767953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Audio_engineer</WikiTitle> <WikiTitleID>597478</WikiTitleID> <RankerScore>0.018892273205475242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gramophone_record</WikiTitle> <WikiTitleID>172121</WikiTitleID> <RankerScore>0.19326082543688072</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_industry</WikiTitle> <WikiTitleID>52512</WikiTitleID> <RankerScore>0.018892273205475242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Recording_studio</WikiTitle> <WikiTitleID>234751</WikiTitleID> <RankerScore>0.018892273205475242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Film_recorder</WikiTitle> <WikiTitleID>507421</WikiTitleID> <RankerScore>0.018892273205475242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_disc_drive</WikiTitle> <WikiTitleID>299592</WikiTitleID> <RankerScore>0.018892273205475242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Album</WikiTitle> <WikiTitleID>528282</WikiTitleID> <RankerScore>0.018892273205475242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Recording_(real_estate)</WikiTitle> <WikiTitleID>5549826</WikiTitleID> <RankerScore>0.018892273205475242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Record_label</WikiTitle> <WikiTitleID>147101</WikiTitleID> <RankerScore>0.018892273205475242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tape_recorder</WikiTitle> <WikiTitleID>70912</WikiTitleID> <RankerScore>0.018892273205475242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Single_context_recording</WikiTitle> <WikiTitleID>7586825</WikiTitleID> <RankerScore>0.018892273205475242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chronology</WikiTitle> <WikiTitleID>55931</WikiTitleID> <RankerScore>0.018892273205475242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Look_of_Love_(1967_song)</WikiTitle> <WikiTitleID>7730150</WikiTitleID> <RankerScore>0.018892273205475242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Video_recorder</WikiTitle> <WikiTitleID>152431</WikiTitleID> <RankerScore>0.018892273205475242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jet_Boy,_Jet_Girl</WikiTitle> <WikiTitleID>2225754</WikiTitleID> <RankerScore>0.018892273205475242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_music_ripping</WikiTitle> <WikiTitleID>9107632</WikiTitleID> <RankerScore>0.018892273205475242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Data_storage_device</WikiTitle> <WikiTitleID>28174</WikiTitleID> <RankerScore>0.018892273205475242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ferenc_Gyurcsány&apos;s_speech_in_Balatonőszöd_in_May_2006</WikiTitle> <WikiTitleID>7062907</WikiTitleID> <RankerScore>0.018892273205475242</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>official</EntitySurfaceForm>
+	<EntityTextStart>1110</EntityTextStart>
+	<EntityTextEnd>1118</EntityTextEnd>
+	<LinkerScore>-0.04513977750831921</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Official</WikiTitle>
+		<WikiTitleID>725182</WikiTitleID>
+		<RankerScore>0.31221502058316525</RankerScore>
+		<Attributes>occupation	position	title</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Official</WikiTitle> <WikiTitleID>725182</WikiTitleID> <RankerScore>0.31221502058316525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Official_(American_football)</WikiTitle> <WikiTitleID>1481025</WikiTitleID> <RankerScore>0.07218428986448128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Official_language</WikiTitle> <WikiTitleID>193178</WikiTitleID> <RankerScore>0.034069031261589416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Official_(ice_hockey)</WikiTitle> <WikiTitleID>1272618</WikiTitleID> <RankerScore>0.03420774460533906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Police</WikiTitle> <WikiTitleID>23627</WikiTitleID> <RankerScore>0.03420774460533906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mandarin_(bureaucrat)</WikiTitle> <WikiTitleID>1524821</WikiTitleID> <RankerScore>0.03420774460533906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_Conference_of_Seventh-day_Adventists</WikiTitle> <WikiTitleID>905194</WikiTitleID> <RankerScore>0.03420774460533906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palatine</WikiTitle> <WikiTitleID>3671235</WikiTitleID> <RankerScore>0.03420774460533906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Descent_(video_game)</WikiTitle> <WikiTitleID>11145107</WikiTitleID> <RankerScore>0.03420774460533906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Umpire_(cricket)</WikiTitle> <WikiTitleID>86701</WikiTitleID> <RankerScore>0.03420774460533906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Official_(basketball)</WikiTitle> <WikiTitleID>11230394</WikiTitleID> <RankerScore>0.03420774460533906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Secretary_of_state_(U.S._state_government)</WikiTitle> <WikiTitleID>3585823</WikiTitleID> <RankerScore>0.03420774460533906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Video_game</WikiTitle> <WikiTitleID>5363</WikiTitleID> <RankerScore>0.03420774460533906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civil_service</WikiTitle> <WikiTitleID>160793</WikiTitleID> <RankerScore>0.03420774460533906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Official_mail</WikiTitle> <WikiTitleID>15724093</WikiTitleID> <RankerScore>0.03420774460533906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Official_residence</WikiTitle> <WikiTitleID>1579280</WikiTitleID> <RankerScore>0.03420774460533906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scholar-official</WikiTitle> <WikiTitleID>3835551</WikiTitleID> <RankerScore>0.03420774460533906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canon_(fiction)</WikiTitle> <WikiTitleID>772629</WikiTitleID> <RankerScore>0.03420774460533906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Languages_of_Finland</WikiTitle> <WikiTitleID>4006362</WikiTitleID> <RankerScore>0.03420774460533906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bilingualism_in_Hong_Kong</WikiTitle> <WikiTitleID>11534075</WikiTitleID> <RankerScore>0.03420774460533906</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1998</EntitySurfaceForm>
+	<EntityTextStart>1132</EntityTextStart>
+	<EntityTextEnd>1136</EntityTextEnd>
+	<LinkerScore>1.111933558837921</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1998</WikiTitle>
+		<WikiTitleID>34647</WikiTitleID>
+		<RankerScore>0.8153295613949971</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1998</WikiTitle> <WikiTitleID>34647</WikiTitleID> <RankerScore>0.8153295613949971</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_film</WikiTitle> <WikiTitleID>169574</WikiTitleID> <RankerScore>0.022891267569427144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_music</WikiTitle> <WikiTitleID>160809</WikiTitleID> <RankerScore>0.03462891664945055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_FIFA_World_Cup</WikiTitle> <WikiTitleID>126460</WikiTitleID> <RankerScore>0.007479426728595599</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_video_gaming</WikiTitle> <WikiTitleID>1322989</WikiTitleID> <RankerScore>0.007479426728595599</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_television</WikiTitle> <WikiTitleID>169762</WikiTitleID> <RankerScore>0.007479426728595599</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_literature</WikiTitle> <WikiTitleID>190194</WikiTitleID> <RankerScore>0.007479426728595599</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_sports</WikiTitle> <WikiTitleID>224724</WikiTitleID> <RankerScore>0.007479426728595599</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_NFL_season</WikiTitle> <WikiTitleID>2313880</WikiTitleID> <RankerScore>0.007479426728595599</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_baseball</WikiTitle> <WikiTitleID>1822834</WikiTitleID> <RankerScore>0.007479426728595599</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_Winter_Olympics</WikiTitle> <WikiTitleID>113189</WikiTitleID> <RankerScore>0.007479426728595599</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_poetry</WikiTitle> <WikiTitleID>5512977</WikiTitleID> <RankerScore>0.007479426728595599</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_House_of_Representatives_elections,_1998</WikiTitle> <WikiTitleID>1341453</WikiTitleID> <RankerScore>0.007479426728595599</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_comics</WikiTitle> <WikiTitleID>9438892</WikiTitleID> <RankerScore>0.007479426728595599</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_NASCAR</WikiTitle> <WikiTitleID>11474593</WikiTitleID> <RankerScore>0.007479426728595599</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Quebec_general_election,_1998</WikiTitle> <WikiTitleID>514571</WikiTitleID> <RankerScore>0.007479426728595599</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_African_Cup_of_Nations</WikiTitle> <WikiTitleID>1108342</WikiTitleID> <RankerScore>0.007479426728595599</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_aviation</WikiTitle> <WikiTitleID>566633</WikiTitleID> <RankerScore>0.007479426728595599</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997–98_NHL_season</WikiTitle> <WikiTitleID>1903294</WikiTitleID> <RankerScore>0.007479426728595599</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_NASCAR_Busch_Series</WikiTitle> <WikiTitleID>4286207</WikiTitleID> <RankerScore>0.007479426728595599</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>18 Tracks</EntitySurfaceForm>
+	<EntityTextStart>1148</EntityTextStart>
+	<EntityTextEnd>1157</EntityTextEnd>
+	<LinkerScore>5.425140897191986</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>18_Tracks</WikiTitle>
+		<WikiTitleID>2070430</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>18_Tracks</WikiTitle> <WikiTitleID>2070430</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>collection</EntitySurfaceForm>
+	<EntityTextStart>1171</EntityTextStart>
+	<EntityTextEnd>1181</EntityTextEnd>
+	<LinkerScore>-1.7619317742868306</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Collection</WikiTitle>
+		<WikiTitleID>6084</WikiTitleID>
+		<RankerScore>0.15846149827819436</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Collection</WikiTitle> <WikiTitleID>6084</WikiTitleID> <RankerScore>0.15846149827819436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collection_(artwork)</WikiTitle> <WikiTitleID>3218952</WikiTitleID> <RankerScore>0.06673343692000715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collection_(horse)</WikiTitle> <WikiTitleID>309876</WikiTitleID> <RankerScore>0.0930783719156159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collecting</WikiTitle> <WikiTitleID>40097</WikiTitleID> <RankerScore>0.04010157016977545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anthology</WikiTitle> <WikiTitleID>316889</WikiTitleID> <RankerScore>0.04010157016977545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collection_(abstract_data_type)</WikiTitle> <WikiTitleID>12119816</WikiTitleID> <RankerScore>0.04010157016977545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Class_(set_theory)</WikiTitle> <WikiTitleID>20696</WikiTitleID> <RankerScore>0.04010157016977545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Container_(abstract_data_type)</WikiTitle> <WikiTitleID>5170615</WikiTitleID> <RankerScore>0.04010157016977545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Offertory</WikiTitle> <WikiTitleID>3254441</WikiTitleID> <RankerScore>0.04010157016977545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Set</WikiTitle> <WikiTitleID>26691</WikiTitleID> <RankerScore>0.04010157016977545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greatest_hits_album</WikiTitle> <WikiTitleID>478673</WikiTitleID> <RankerScore>0.04010157016977545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Compilation_album</WikiTitle> <WikiTitleID>504309</WikiTitleID> <RankerScore>0.04010157016977545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Short_story</WikiTitle> <WikiTitleID>28296</WikiTitleID> <RankerScore>0.04010157016977545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waste_collection</WikiTitle> <WikiTitleID>3411618</WikiTitleID> <RankerScore>0.04010157016977545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intelligence_collection_management</WikiTitle> <WikiTitleID>13979372</WikiTitleID> <RankerScore>0.04010157016977545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Set_(music)</WikiTitle> <WikiTitleID>3189755</WikiTitleID> <RankerScore>0.04010157016977545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grimms&apos;_Fairy_Tales</WikiTitle> <WikiTitleID>3017525</WikiTitleID> <RankerScore>0.04010157016977545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collection_agency</WikiTitle> <WikiTitleID>1576578</WikiTitleID> <RankerScore>0.04010157016977545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trade_paperback_(comics)</WikiTitle> <WikiTitleID>1639565</WikiTitleID> <RankerScore>0.04010157016977545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Statuary_Hall_Collection</WikiTitle> <WikiTitleID>700241</WikiTitleID> <RankerScore>0.04010157016977545</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

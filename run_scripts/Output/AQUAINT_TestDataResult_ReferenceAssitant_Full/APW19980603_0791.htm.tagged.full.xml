@@ -1,0 +1,4143 @@
+<WikifierOutput>
+<InputFilename>
+APW19980603_0791.htm
+</InputFilename>
+<InputText>
+   THAILAND
+
+ MORE and more people are dying or suffering from fatal diseases such as  brain tumours  , mammarian or  breast cancer   and brain  haemorrhage   due to a lack of proper medical care.However, things may change as the Srisiam Hospital in  Bangkok   has now established the first ever  Radio Surgery   Institute in  Thailand   -- (there are presently more than 100 radio surgery centres around the world). 
+
+ Radio surgery is a modern technique which doesn&apos;t require surgery in order to remove  cancerous   growth or  tissues  . It involves a  three dimensional   method known as  Stereotaxic Surgery  , which is also used in conjunction with  radiation   equipment known as the  Linear Accelerator  . 
+
+ With this new technology, doctors are able to removal cancerous tissues embedded deep inside the brain or near sensitive organs that makes normal surgery very difficult and risky. With radio surgery, every step is controlled by computers and patients are  conscious   while they undergo treatment. 
+
+ This new technique is also capable of treating diseases such as Artero Venous  Malformation   (the  clotting   of veins or blood  capillaries  in the brain).So far, ninety per cent of the radio surgery treatments have been successful and patients only have to remain in hospital for three days. Additionally, there is no need for patients to shave their heads and radio surgery causes no scar, little blood loss and is not expensive.For more information contact the hospital at srisiam ksc.th.com. 
+
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>THAILAND</EntitySurfaceForm>
+	<EntityTextStart>0</EntityTextStart>
+	<EntityTextEnd>11</EntityTextEnd>
+	<LinkerScore>12.568580429720415</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Thailand</WikiTitle>
+		<WikiTitleID>30128</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>country</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Thailand</WikiTitle> <WikiTitleID>30128</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>people</EntitySurfaceForm>
+	<EntityTextStart>28</EntityTextStart>
+	<EntityTextEnd>34</EntityTextEnd>
+	<LinkerScore>-7.848686583369439</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Human</WikiTitle>
+		<WikiTitleID>682482</WikiTitleID>
+		<RankerScore>0.38480303646090724</RankerScore>
+		<Attributes>species	animal</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>People</WikiTitle> <WikiTitleID>3488351</WikiTitleID> <RankerScore>0.13399776500961869</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Person</WikiTitle> <WikiTitleID>219599</WikiTitleID> <RankerScore>0.19721060468508175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nation</WikiTitle> <WikiTitleID>21754</WikiTitleID> <RankerScore>0.016705211402611317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human</WikiTitle> <WikiTitleID>682482</WikiTitleID> <RankerScore>0.38480303646090724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ethnic_group</WikiTitle> <WikiTitleID>105004</WikiTitleID> <RankerScore>0.016705211402611317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scottish_people</WikiTitle> <WikiTitleID>884446</WikiTitleID> <RankerScore>0.016705211402611317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Portuguese_people</WikiTitle> <WikiTitleID>970642</WikiTitleID> <RankerScore>0.016705211402611317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_France</WikiTitle> <WikiTitleID>67475</WikiTitleID> <RankerScore>0.016705211402611317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_people</WikiTitle> <WikiTitleID>962731</WikiTitleID> <RankerScore>0.016705211402611317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plebs</WikiTitle> <WikiTitleID>244404</WikiTitleID> <RankerScore>0.016705211402611317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Germans</WikiTitle> <WikiTitleID>152735</WikiTitleID> <RankerScore>0.016705211402611317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>People_smuggling</WikiTitle> <WikiTitleID>68714</WikiTitleID> <RankerScore>0.016705211402611317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cornish_people</WikiTitle> <WikiTitleID>2300559</WikiTitleID> <RankerScore>0.016705211402611317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_Dutch</WikiTitle> <WikiTitleID>177674</WikiTitleID> <RankerScore>0.016705211402611317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_Americans_in_the_United_States</WikiTitle> <WikiTitleID>21217</WikiTitleID> <RankerScore>0.016705211402611317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Salem_witch_trials</WikiTitle> <WikiTitleID>205246</WikiTitleID> <RankerScore>0.016705211402611317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Democracy</WikiTitle> <WikiTitleID>7959</WikiTitleID> <RankerScore>0.016705211402611317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tamilakam</WikiTitle> <WikiTitleID>4161033</WikiTitleID> <RankerScore>0.016705211402611317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lithuanian_people</WikiTitle> <WikiTitleID>459375</WikiTitleID> <RankerScore>0.016705211402611317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Quebec</WikiTitle> <WikiTitleID>406992</WikiTitleID> <RankerScore>0.016705211402611317</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>dying</EntitySurfaceForm>
+	<EntityTextStart>39</EntityTextStart>
+	<EntityTextEnd>44</EntityTextEnd>
+	<LinkerScore>9.057515399824917</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Death</WikiTitle>
+		<WikiTitleID>8221</WikiTitleID>
+		<RankerScore>0.9981501927086249</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Death</WikiTitle> <WikiTitleID>8221</WikiTitleID> <RankerScore>0.9981501927086249</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Endangered_language</WikiTitle> <WikiTitleID>161708</WikiTitleID> <RankerScore>0.0010071783649346193</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yasser_Arafat</WikiTitle> <WikiTitleID>34289</WikiTitleID> <RankerScore>8.426289264403136E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>suffering</EntitySurfaceForm>
+	<EntityTextStart>48</EntityTextStart>
+	<EntityTextEnd>57</EntityTextEnd>
+	<LinkerScore>3.5881077246455706</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Suffering</WikiTitle>
+		<WikiTitleID>206583</WikiTitleID>
+		<RankerScore>0.9367734098673611</RankerScore>
+		<Attributes>issue</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Suffering</WikiTitle> <WikiTitleID>206583</WikiTitleID> <RankerScore>0.9367734098673611</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dukkha</WikiTitle> <WikiTitleID>8702</WikiTitleID> <RankerScore>0.027720343689172852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Four_Noble_Truths</WikiTitle> <WikiTitleID>11393</WikiTitleID> <RankerScore>0.004757109818578755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Holocaust</WikiTitle> <WikiTitleID>10396793</WikiTitleID> <RankerScore>0.0076872841562218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Animal_welfare</WikiTitle> <WikiTitleID>174438</WikiTitleID> <RankerScore>0.0076872841562218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crucifixion_of_Jesus</WikiTitle> <WikiTitleID>4782432</WikiTitleID> <RankerScore>0.0076872841562218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Passion_(Christianity)</WikiTitle> <WikiTitleID>150302</WikiTitleID> <RankerScore>0.0076872841562218</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>fatal</EntitySurfaceForm>
+	<EntityTextStart>63</EntityTextStart>
+	<EntityTextEnd>68</EntityTextEnd>
+	<LinkerScore>4.056138049657196</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Death</WikiTitle>
+		<WikiTitleID>8221</WikiTitleID>
+		<RankerScore>0.9954243798506179</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Death</WikiTitle> <WikiTitleID>8221</WikiTitleID> <RankerScore>0.9954243798506179</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brain_death</WikiTitle> <WikiTitleID>187262</WikiTitleID> <RankerScore>0.0036533524378553513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lethal_dose</WikiTitle> <WikiTitleID>575776</WikiTitleID> <RankerScore>9.222677115265763E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>diseases</EntitySurfaceForm>
+	<EntityTextStart>69</EntityTextStart>
+	<EntityTextEnd>77</EntityTextEnd>
+	<LinkerScore>5.01261038696419</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Disease</WikiTitle>
+		<WikiTitleID>8072</WikiTitleID>
+		<RankerScore>0.9322489222837353</RankerScore>
+		<Attributes>transformer	motorcycle</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Disease</WikiTitle> <WikiTitleID>8072</WikiTitleID> <RankerScore>0.9322489222837353</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Infectious_disease</WikiTitle> <WikiTitleID>14795</WikiTitleID> <RankerScore>0.06275178688442791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_pathology</WikiTitle> <WikiTitleID>147484</WikiTitleID> <RankerScore>2.3969912583592134E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pandemic</WikiTitle> <WikiTitleID>24255</WikiTitleID> <RankerScore>2.3969912583592134E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_diseases_of_the_honey_bee</WikiTitle> <WikiTitleID>222937</WikiTitleID> <RankerScore>2.3969912583592134E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ciliopathy</WikiTitle> <WikiTitleID>18211344</WikiTitleID> <RankerScore>2.3969912583592134E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbian_Exchange</WikiTitle> <WikiTitleID>622746</WikiTitleID> <RankerScore>2.3969912583592134E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kidney</WikiTitle> <WikiTitleID>17025</WikiTitleID> <RankerScore>0.002841998699313432</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Disease</WikiTitle> <WikiTitleID>240401</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_epidemics</WikiTitle> <WikiTitleID>945818</WikiTitleID> <RankerScore>2.3969912583592134E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tropical_disease</WikiTitle> <WikiTitleID>889672</WikiTitleID> <RankerScore>2.3969912583592134E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nine_diseases</WikiTitle> <WikiTitleID>6059380</WikiTitleID> <RankerScore>2.3969912583592134E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Respiratory_disease</WikiTitle> <WikiTitleID>3055114</WikiTitleID> <RankerScore>2.3969912583592134E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>brain tumours</EntitySurfaceForm>
+	<EntityTextStart>87</EntityTextStart>
+	<EntityTextEnd>100</EntityTextEnd>
+	<LinkerScore>1.6232757472287989</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Brain_tumor</WikiTitle>
+		<WikiTitleID>37284</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>disorder</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Brain_tumor</WikiTitle> <WikiTitleID>37284</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>brain</EntitySurfaceForm>
+	<EntityTextStart>87</EntityTextStart>
+	<EntityTextEnd>92</EntityTextEnd>
+	<LinkerScore>0.9855187485430237</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Brain</WikiTitle>
+		<WikiTitleID>3717</WikiTitleID>
+		<RankerScore>0.9259975184870657</RankerScore>
+		<Attributes>organs</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Brain</WikiTitle> <WikiTitleID>3717</WikiTitleID> <RankerScore>0.9259975184870657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_brain</WikiTitle> <WikiTitleID>490620</WikiTitleID> <RankerScore>9.149300342603171E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brain_tumor</WikiTitle> <WikiTitleID>37284</WikiTitleID> <RankerScore>0.07244250161809478</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neuroimaging</WikiTitle> <WikiTitleID>3557219</WikiTitleID> <RankerScore>8.063123257240691E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neuroscience</WikiTitle> <WikiTitleID>21245</WikiTitleID> <RankerScore>8.063123257240691E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brain_damage</WikiTitle> <WikiTitleID>304588</WikiTitleID> <RankerScore>8.063123257240691E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cerebrum</WikiTitle> <WikiTitleID>487841</WikiTitleID> <RankerScore>8.063123257240691E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visual_cortex</WikiTitle> <WikiTitleID>32528</WikiTitleID> <RankerScore>8.063123257240691E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brain_abscess</WikiTitle> <WikiTitleID>3840</WikiTitleID> <RankerScore>8.063123257240691E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Central_nervous_system</WikiTitle> <WikiTitleID>7251</WikiTitleID> <RankerScore>8.063123257240691E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cerebral_angiography</WikiTitle> <WikiTitleID>1078464</WikiTitleID> <RankerScore>8.063123257240691E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>tumours</EntitySurfaceForm>
+	<EntityTextStart>93</EntityTextStart>
+	<EntityTextEnd>100</EntityTextEnd>
+	<LinkerScore>3.244038236811325</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tumor</WikiTitle>
+		<WikiTitleID>31214</WikiTitleID>
+		<RankerScore>0.990775893882373</RankerScore>
+		<Attributes>sign</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tumor</WikiTitle> <WikiTitleID>31214</WikiTitleID> <RankerScore>0.990775893882373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pancreatic_cancer</WikiTitle> <WikiTitleID>363559</WikiTitleID> <RankerScore>0.009224106117627006</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>breast cancer</EntitySurfaceForm>
+	<EntityTextStart>118</EntityTextStart>
+	<EntityTextEnd>131</EntityTextEnd>
+	<LinkerScore>4.741100117271554</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Breast_cancer</WikiTitle>
+		<WikiTitleID>70547</WikiTitleID>
+		<RankerScore>0.9919496757630568</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Breast_cancer</WikiTitle> <WikiTitleID>70547</WikiTitleID> <RankerScore>0.9919496757630568</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Breast</WikiTitle> <WikiTitleID>4489</WikiTitleID> <RankerScore>0.00805032423694319</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>haemorrhage</EntitySurfaceForm>
+	<EntityTextStart>145</EntityTextStart>
+	<EntityTextEnd>156</EntityTextEnd>
+	<LinkerScore>5.267350802418282</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bleeding</WikiTitle>
+		<WikiTitleID>146315</WikiTitleID>
+		<RankerScore>0.8713838710239701</RankerScore>
+		<Attributes>emergency</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bleeding</WikiTitle> <WikiTitleID>146315</WikiTitleID> <RankerScore>0.8713838710239701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Obstetrical_hemorrhage</WikiTitle> <WikiTitleID>1812471</WikiTitleID> <RankerScore>0.0030570834257224078</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cerebral_hemorrhage</WikiTitle> <WikiTitleID>2959528</WikiTitleID> <RankerScore>0.12555904555030742</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>lack</EntitySurfaceForm>
+	<EntityTextStart>168</EntityTextStart>
+	<EntityTextEnd>172</EntityTextEnd>
+	<LinkerScore>-0.4857648926827989</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lack</WikiTitle>
+		<WikiTitleID>973625</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lack</WikiTitle> <WikiTitleID>973625</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>proper</EntitySurfaceForm>
+	<EntityTextStart>176</EntityTextStart>
+	<EntityTextEnd>182</EntityTextEnd>
+	<LinkerScore>-0.14937011575455283</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Proper_morphism</WikiTitle>
+		<WikiTitleID>603782</WikiTitleID>
+		<RankerScore>0.10153531495161383</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Proper_(liturgy)</WikiTitle> <WikiTitleID>2046824</WikiTitleID> <RankerScore>0.10082014729687876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proper_morphism</WikiTitle> <WikiTitleID>603782</WikiTitleID> <RankerScore>0.10153531495161383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proper_map</WikiTitle> <WikiTitleID>1190262</WikiTitleID> <RankerScore>0.08446588629984106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proper</WikiTitle> <WikiTitleID>1715544</WikiTitleID> <RankerScore>0.059431554287638855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tincture_(heraldry)</WikiTitle> <WikiTitleID>368995</WikiTitleID> <RankerScore>0.059431554287638855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Subset</WikiTitle> <WikiTitleID>27631</WikiTitleID> <RankerScore>0.059431554287638855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rothenberg_propriety</WikiTitle> <WikiTitleID>5498678</WikiTitleID> <RankerScore>0.059431554287638855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Class_(set_theory)</WikiTitle> <WikiTitleID>20696</WikiTitleID> <RankerScore>0.059431554287638855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proper_transfer_function</WikiTitle> <WikiTitleID>1276320</WikiTitleID> <RankerScore>0.059431554287638855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World&apos;s_largest_cities</WikiTitle> <WikiTitleID>14649921</WikiTitleID> <RankerScore>0.059431554287638855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Isla_Grande_de_Tierra_del_Fuego</WikiTitle> <WikiTitleID>873027</WikiTitleID> <RankerScore>0.059431554287638855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Properly_discontinuous_action</WikiTitle> <WikiTitleID>356421</WikiTitleID> <RankerScore>0.059431554287638855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Subgroup</WikiTitle> <WikiTitleID>28011</WikiTitleID> <RankerScore>0.059431554287638855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proper_motion</WikiTitle> <WikiTitleID>52015</WikiTitleID> <RankerScore>0.059431554287638855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kashrut</WikiTitle> <WikiTitleID>16881</WikiTitleID> <RankerScore>0.059431554287638855</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>medical</EntitySurfaceForm>
+	<EntityTextStart>183</EntityTextStart>
+	<EntityTextEnd>190</EntityTextEnd>
+	<LinkerScore>15.101912063060054</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Medicine</WikiTitle>
+		<WikiTitleID>18957</WikiTitleID>
+		<RankerScore>0.9828749046250853</RankerScore>
+		<Attributes>occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Medicine</WikiTitle> <WikiTitleID>18957</WikiTitleID> <RankerScore>0.9828749046250853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medical_school</WikiTitle> <WikiTitleID>465584</WikiTitleID> <RankerScore>0.011449444751794399</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medical_cannabis</WikiTitle> <WikiTitleID>175440</WikiTitleID> <RankerScore>2.4355771221780956E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medicine_in_the_medieval_Islamic_world</WikiTitle> <WikiTitleID>2106879</WikiTitleID> <RankerScore>2.4355771221780956E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Health_care</WikiTitle> <WikiTitleID>261925</WikiTitleID> <RankerScore>0.001535169515417611</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medical_emergency</WikiTitle> <WikiTitleID>146290</WikiTitleID> <RankerScore>2.4355771221780956E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medical_abortion</WikiTitle> <WikiTitleID>1188287</WikiTitleID> <RankerScore>2.4355771221780956E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internal_medicine</WikiTitle> <WikiTitleID>205264</WikiTitleID> <RankerScore>2.4355771221780956E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Physical_examination</WikiTitle> <WikiTitleID>602919</WikiTitleID> <RankerScore>2.4355771221780956E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_Medicine</WikiTitle> <WikiTitleID>428966</WikiTitleID> <RankerScore>2.4355771221780956E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medical_model</WikiTitle> <WikiTitleID>5574392</WikiTitleID> <RankerScore>2.4355771221780956E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Physician</WikiTitle> <WikiTitleID>23315</WikiTitleID> <RankerScore>2.4355771221780956E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medical_imaging</WikiTitle> <WikiTitleID>234714</WikiTitleID> <RankerScore>2.4355771221780956E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nuclear_medicine</WikiTitle> <WikiTitleID>347838</WikiTitleID> <RankerScore>2.4355771221780956E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ophthalmology</WikiTitle> <WikiTitleID>56153</WikiTitleID> <RankerScore>2.4355771221780956E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chemotherapy</WikiTitle> <WikiTitleID>7172</WikiTitleID> <RankerScore>2.4355771221780956E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery</WikiTitle> <WikiTitleID>45599</WikiTitleID> <RankerScore>2.4355771221780956E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medical_education_in_the_United_States</WikiTitle> <WikiTitleID>3557044</WikiTitleID> <RankerScore>2.4355771221780956E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medical_school_in_the_United_States</WikiTitle> <WikiTitleID>11945311</WikiTitleID> <RankerScore>2.4355771221780956E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medical_record</WikiTitle> <WikiTitleID>1107036</WikiTitleID> <RankerScore>2.4355771221780956E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>things</EntitySurfaceForm>
+	<EntityTextStart>205</EntityTextStart>
+	<EntityTextEnd>211</EntityTextEnd>
+	<LinkerScore>-1.9712381101214524</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Thing_(assembly)</WikiTitle>
+		<WikiTitleID>198970</WikiTitleID>
+		<RankerScore>0.3992636368842416</RankerScore>
+		<Attributes>subdivision</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Thing_(assembly)</WikiTitle> <WikiTitleID>198970</WikiTitleID> <RankerScore>0.3992636368842416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thing</WikiTitle> <WikiTitleID>501678</WikiTitleID> <RankerScore>0.21369694538938938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Object_(philosophy)</WikiTitle> <WikiTitleID>47353</WikiTitleID> <RankerScore>0.1539280021994131</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>String_instrument</WikiTitle> <WikiTitleID>50076</WikiTitleID> <RankerScore>0.23311141552695597</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>change</EntitySurfaceForm>
+	<EntityTextStart>216</EntityTextStart>
+	<EntityTextEnd>222</EntityTextEnd>
+	<LinkerScore>3.874823983065857</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Change</WikiTitle>
+		<WikiTitleID>162941</WikiTitleID>
+		<RankerScore>0.5743285421121094</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Change</WikiTitle> <WikiTitleID>162941</WikiTitleID> <RankerScore>0.5743285421121094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shapeshifting</WikiTitle> <WikiTitleID>244219</WikiTitleID> <RankerScore>0.035424755464145544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Language_change</WikiTitle> <WikiTitleID>1361369</WikiTitleID> <RankerScore>0.021720627279992494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Change_management</WikiTitle> <WikiTitleID>14599027</WikiTitleID> <RankerScore>0.030710506261979388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Changeup</WikiTitle> <WikiTitleID>467842</WikiTitleID> <RankerScore>0.030710506261979388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coin</WikiTitle> <WikiTitleID>7558</WikiTitleID> <RankerScore>0.030710506261979388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Break-of-gauge</WikiTitle> <WikiTitleID>1607270</WikiTitleID> <RankerScore>0.030710506261979388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>I_Ching</WikiTitle> <WikiTitleID>15282</WikiTitleID> <RankerScore>0.030710506261979388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electoral_reform_in_New_Zealand</WikiTitle> <WikiTitleID>344125</WikiTitleID> <RankerScore>0.030710506261979388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Social_change</WikiTitle> <WikiTitleID>329948</WikiTitleID> <RankerScore>0.030710506261979388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regnal_year</WikiTitle> <WikiTitleID>2156650</WikiTitleID> <RankerScore>0.030710506261979388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diaper</WikiTitle> <WikiTitleID>54205</WikiTitleID> <RankerScore>0.030710506261979388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Change_request</WikiTitle> <WikiTitleID>3919967</WikiTitleID> <RankerScore>0.030710506261979388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Evolution</WikiTitle> <WikiTitleID>9236</WikiTitleID> <RankerScore>0.030710506261979388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boiling</WikiTitle> <WikiTitleID>52636</WikiTitleID> <RankerScore>0.030710506261979388</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Hospital</EntitySurfaceForm>
+	<EntityTextStart>238</EntityTextStart>
+	<EntityTextEnd>246</EntityTextEnd>
+	<LinkerScore>11.602578122767044</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hospital</WikiTitle>
+		<WikiTitleID>67214</WikiTitleID>
+		<RankerScore>0.9776013080162748</RankerScore>
+		<Attributes>hospital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hospital</WikiTitle> <WikiTitleID>67214</WikiTitleID> <RankerScore>0.9776013080162748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hospital_District</WikiTitle> <WikiTitleID>11151437</WikiTitleID> <RankerScore>0.005116275167944666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hospital,_County_Limerick</WikiTitle> <WikiTitleID>1034881</WikiTitleID> <RankerScore>0.0017999965233368176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hospital_(TransMilenio)</WikiTitle> <WikiTitleID>5162715</WikiTitleID> <RankerScore>9.67651268277733E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knights_Hospitaller</WikiTitle> <WikiTitleID>8055956</WikiTitleID> <RankerScore>9.67651268277733E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_Hospital</WikiTitle> <WikiTitleID>879734</WikiTitleID> <RankerScore>9.67651268277733E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hospital_pharmacy</WikiTitle> <WikiTitleID>6930471</WikiTitleID> <RankerScore>9.67651268277733E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_hospitals_in_New_Zealand</WikiTitle> <WikiTitleID>713644</WikiTitleID> <RankerScore>9.67651268277733E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hospital_(1970_film)</WikiTitle> <WikiTitleID>74376</WikiTitleID> <RankerScore>9.67651268277733E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Kansas_Hospital</WikiTitle> <WikiTitleID>17758458</WikiTitleID> <RankerScore>9.67651268277733E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St_Helier_Hospital</WikiTitle> <WikiTitleID>12419054</WikiTitleID> <RankerScore>9.67651268277733E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hospital_(film)</WikiTitle> <WikiTitleID>14352097</WikiTitleID> <RankerScore>9.67651268277733E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_Medical_Center_Hamburg-Eppendorf</WikiTitle> <WikiTitleID>17464404</WikiTitleID> <RankerScore>9.67651268277733E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Wisconsin_Hospital_and_Clinics</WikiTitle> <WikiTitleID>10919966</WikiTitleID> <RankerScore>9.67651268277733E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NHS_hospital_trust</WikiTitle> <WikiTitleID>4944466</WikiTitleID> <RankerScore>9.67651268277733E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chailey_Heritage_Marine_Hospital</WikiTitle> <WikiTitleID>4642632</WikiTitleID> <RankerScore>9.67651268277733E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Helsinki_University_Central_Hospital</WikiTitle> <WikiTitleID>1628374</WikiTitleID> <RankerScore>9.67651268277733E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turku_University_Hospital</WikiTitle> <WikiTitleID>1733164</WikiTitleID> <RankerScore>9.67651268277733E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Teaching_hospital</WikiTitle> <WikiTitleID>485700</WikiTitleID> <RankerScore>9.67651268277733E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bangkok</EntitySurfaceForm>
+	<EntityTextStart>251</EntityTextStart>
+	<EntityTextEnd>258</EntityTextEnd>
+	<LinkerScore>16.17710892498253</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bangkok</WikiTitle>
+		<WikiTitleID>56615</WikiTitleID>
+		<RankerScore>0.9518906096456484</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bangkok</WikiTitle> <WikiTitleID>56615</WikiTitleID> <RankerScore>0.9518906096456484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>PTT_Bangkok_Open</WikiTitle> <WikiTitleID>6444255</WikiTitleID> <RankerScore>0.013595702038787925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suvarnabhumi_Airport</WikiTitle> <WikiTitleID>360700</WikiTitleID> <RankerScore>0.008159169520632642</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Bangkok</WikiTitle> <WikiTitleID>1058854</WikiTitleID> <RankerScore>0.006588629698732763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Don_Mueang_International_Airport</WikiTitle> <WikiTitleID>266286</WikiTitleID> <RankerScore>0.006588629698732763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_people_on_stamps_of_Thailand</WikiTitle> <WikiTitleID>1174747</WikiTitleID> <RankerScore>0.006588629698732763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thailand_Open</WikiTitle> <WikiTitleID>676530</WikiTitleID> <RankerScore>0.006588629698732763</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>established</EntitySurfaceForm>
+	<EntityTextStart>269</EntityTextStart>
+	<EntityTextEnd>280</EntityTextEnd>
+	<LinkerScore>-6.676267688802655</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Establishment</WikiTitle>
+		<WikiTitleID>242094</WikiTitleID>
+		<RankerScore>0.15961337019720123</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>State_religion</WikiTitle> <WikiTitleID>650451</WikiTitleID> <RankerScore>0.11301153605672713</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_religion</WikiTitle> <WikiTitleID>292285</WikiTitleID> <RankerScore>0.1437717190137357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Establishment</WikiTitle> <WikiTitleID>242094</WikiTitleID> <RankerScore>0.15961337019720123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_religion</WikiTitle> <WikiTitleID>175218</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Date_of_establishment</WikiTitle> <WikiTitleID>4270511</WikiTitleID> <RankerScore>0.09092188671825895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Naturalisation_(biology)</WikiTitle> <WikiTitleID>2280670</WikiTitleID> <RankerScore>0.09092188671825895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dayton_Agreement</WikiTitle> <WikiTitleID>168269</WikiTitleID> <RankerScore>0.09092188671825895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_ascent</WikiTitle> <WikiTitleID>375674</WikiTitleID> <RankerScore>0.09092188671825895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Declaration_of_Independence</WikiTitle> <WikiTitleID>14696</WikiTitleID> <RankerScore>0.09092188671825895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Establishment</WikiTitle> <WikiTitleID>804003</WikiTitleID> <RankerScore>0.09092188671825895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_and_Zurich_Agreements</WikiTitle> <WikiTitleID>6883815</WikiTitleID> <RankerScore>0.09092188671825895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Precedent</WikiTitle> <WikiTitleID>77516</WikiTitleID> <RankerScore>0.09092188671825895</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the first</EntitySurfaceForm>
+	<EntityTextStart>281</EntityTextStart>
+	<EntityTextEnd>290</EntityTextEnd>
+	<LinkerScore>-6.5310560761790954</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>List_of_automotive_superlatives</WikiTitle>
+		<WikiTitleID>858694</WikiTitleID>
+		<RankerScore>0.06769994777721976</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>List_of_automotive_superlatives</WikiTitle> <WikiTitleID>858694</WikiTitleID> <RankerScore>0.06769994777721976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indo-Pakistani_War_of_1947</WikiTitle> <WikiTitleID>506952</WikiTitleID> <RankerScore>0.04837168077762168</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Essex-class_aircraft_carrier</WikiTitle> <WikiTitleID>402288</WikiTitleID> <RankerScore>0.057375227589844584</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HMS_Sirius_(1786)</WikiTitle> <WikiTitleID>297673</WikiTitleID> <RankerScore>0.04862077316795964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Semele_(Eccles)</WikiTitle> <WikiTitleID>355836</WikiTitleID> <RankerScore>0.04862077316795964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1987_Rugby_World_Cup</WikiTitle> <WikiTitleID>380206</WikiTitleID> <RankerScore>0.04862077316795964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diana_Ross_(1970_album)</WikiTitle> <WikiTitleID>2414116</WikiTitleID> <RankerScore>0.04862077316795964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Gravelines_(1558)</WikiTitle> <WikiTitleID>1879313</WikiTitleID> <RankerScore>0.04862077316795964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bandini_1100</WikiTitle> <WikiTitleID>17879586</WikiTitleID> <RankerScore>0.04862077316795964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Treaty_of_Aix-la-Chapelle_(1668)</WikiTitle> <WikiTitleID>592240</WikiTitleID> <RankerScore>0.04862077316795964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Timeline_of_computer_animation_in_film_and_television</WikiTitle> <WikiTitleID>747985</WikiTitleID> <RankerScore>0.04862077316795964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_France</WikiTitle> <WikiTitleID>70764</WikiTitleID> <RankerScore>0.04862077316795964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_X_Factor_(UK_series_1)</WikiTitle> <WikiTitleID>2497671</WikiTitleID> <RankerScore>0.04862077316795964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Richmond_Renegades_(ECHL)</WikiTitle> <WikiTitleID>2803070</WikiTitleID> <RankerScore>0.04862077316795964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Don&apos;t_Bother_Me</WikiTitle> <WikiTitleID>2253717</WikiTitleID> <RankerScore>0.04862077316795964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scream_(1996_film)</WikiTitle> <WikiTitleID>113549</WikiTitleID> <RankerScore>0.04862077316795964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1923_FA_Cup_Final</WikiTitle> <WikiTitleID>4055377</WikiTitleID> <RankerScore>0.04862077316795964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Harry_Potter_and_the_Philosopher&apos;s_Stone_(film)</WikiTitle> <WikiTitleID>667361</WikiTitleID> <RankerScore>0.04862077316795964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2nd_century_AH</WikiTitle> <WikiTitleID>7099380</WikiTitleID> <RankerScore>0.04862077316795964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Black_Company_(novel)</WikiTitle> <WikiTitleID>5667292</WikiTitleID> <RankerScore>0.04862077316795964</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Radio Surgery</EntitySurfaceForm>
+	<EntityTextStart>297</EntityTextStart>
+	<EntityTextEnd>310</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Radiosurgery</WikiTitle>
+		<WikiTitleID>1172094</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>treatment	robot</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Thailand</EntitySurfaceForm>
+	<EntityTextStart>327</EntityTextStart>
+	<EntityTextEnd>335</EntityTextEnd>
+	<LinkerScore>3.9428830197684905</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Thailand</WikiTitle>
+		<WikiTitleID>30128</WikiTitleID>
+		<RankerScore>0.587690508872557</RankerScore>
+		<Attributes>country</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Thailand</WikiTitle> <WikiTitleID>30128</WikiTitleID> <RankerScore>0.587690508872557</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thailand_national_football_team</WikiTitle> <WikiTitleID>1110063</WikiTitleID> <RankerScore>0.0581797733227302</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thailand_at_the_2005_Southeast_Asian_Games</WikiTitle> <WikiTitleID>3294279</WikiTitleID> <RankerScore>0.0707344531853566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_Thailand</WikiTitle> <WikiTitleID>4389625</WikiTitleID> <RankerScore>0.016670309683491542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thailand_national_badminton_team</WikiTitle> <WikiTitleID>17359714</WikiTitleID> <RankerScore>0.016670309683491542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Thailand</WikiTitle> <WikiTitleID>4333783</WikiTitleID> <RankerScore>0.016670309683491542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Thailand</WikiTitle> <WikiTitleID>7283135</WikiTitleID> <RankerScore>0.016670309683491542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thailand_national_cricket_team</WikiTitle> <WikiTitleID>5001821</WikiTitleID> <RankerScore>0.016670309683491542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thai_cuisine</WikiTitle> <WikiTitleID>30529</WikiTitleID> <RankerScore>0.016670309683491542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thailand_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>927794</WikiTitleID> <RankerScore>0.016670309683491542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_Association_of_Thailand</WikiTitle> <WikiTitleID>5735997</WikiTitleID> <RankerScore>0.016670309683491542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Malaysia–Thailand_border</WikiTitle> <WikiTitleID>3956827</WikiTitleID> <RankerScore>0.016670309683491542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Thailand</WikiTitle> <WikiTitleID>320695</WikiTitleID> <RankerScore>0.016670309683491542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Buddhism_in_Thailand</WikiTitle> <WikiTitleID>2291915</WikiTitleID> <RankerScore>0.016670309683491542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thailand_national_amateur_boxing_athletes</WikiTitle> <WikiTitleID>8405496</WikiTitleID> <RankerScore>0.016670309683491542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Thailand</WikiTitle> <WikiTitleID>30135</WikiTitleID> <RankerScore>0.016670309683491542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thailand_national_rugby_union_team</WikiTitle> <WikiTitleID>8082794</WikiTitleID> <RankerScore>0.016670309683491542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_Thailand</WikiTitle> <WikiTitleID>4317552</WikiTitleID> <RankerScore>0.016670309683491542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_Thailand</WikiTitle> <WikiTitleID>1309790</WikiTitleID> <RankerScore>0.016670309683491542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japanese_invasion_of_Thailand</WikiTitle> <WikiTitleID>4756676</WikiTitleID> <RankerScore>0.016670309683491542</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>more than</EntitySurfaceForm>
+	<EntityTextStart>362</EntityTextStart>
+	<EntityTextEnd>371</EntityTextEnd>
+	<LinkerScore>-2.412510312846038</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ring_Around_the_Sun</WikiTitle>
+		<WikiTitleID>5248620</WikiTitleID>
+		<RankerScore>0.5216902856834794</RankerScore>
+		<Attributes>story</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Inequality</WikiTitle> <WikiTitleID>89489</WikiTitleID> <RankerScore>0.47830971431652064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ring_Around_the_Sun</WikiTitle> <WikiTitleID>5248620</WikiTitleID> <RankerScore>0.5216902856834794</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>100</EntitySurfaceForm>
+	<EntityTextStart>372</EntityTextStart>
+	<EntityTextEnd>375</EntityTextEnd>
+	<LinkerScore>-9.138207927526366</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>100</WikiTitle>
+		<WikiTitleID>35309</WikiTitleID>
+		<RankerScore>0.2657412254804897</RankerScore>
+		<Attributes>episode</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>100</WikiTitle> <WikiTitleID>35309</WikiTitleID> <RankerScore>0.2657412254804897</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>100_metres</WikiTitle> <WikiTitleID>1231316</WikiTitleID> <RankerScore>0.04375514292748394</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>100_(number)</WikiTitle> <WikiTitleID>407384</WikiTitleID> <RankerScore>0.07181990792342</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>100_BC</WikiTitle> <WikiTitleID>35648</WikiTitleID> <RankerScore>0.03639316021580038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>100_(audio_drama)</WikiTitle> <WikiTitleID>11158238</WikiTitleID> <RankerScore>0.03639316021580038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Audi_100</WikiTitle> <WikiTitleID>619565</WikiTitleID> <RankerScore>0.03639316021580038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Centenarian</WikiTitle> <WikiTitleID>195007</WikiTitleID> <RankerScore>0.03639316021580038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>100_(DC_Comics)</WikiTitle> <WikiTitleID>3934961</WikiTitleID> <RankerScore>0.03639316021580038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>No._100_Squadron_RAF</WikiTitle> <WikiTitleID>2167299</WikiTitleID> <RankerScore>0.03639316021580038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minnesota_State_Highway_100</WikiTitle> <WikiTitleID>995964</WikiTitleID> <RankerScore>0.03639316021580038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ethernet_over_twisted_pair</WikiTitle> <WikiTitleID>35203</WikiTitleID> <RankerScore>0.03639316021580038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maine_State_Route_100</WikiTitle> <WikiTitleID>4647439</WikiTitleID> <RankerScore>0.03639316021580038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>100_metres_hurdles</WikiTitle> <WikiTitleID>2407552</WikiTitleID> <RankerScore>0.03639316021580038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Austin-Healey_100</WikiTitle> <WikiTitleID>1636243</WikiTitleID> <RankerScore>0.03639316021580038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_bus_routes_in_London</WikiTitle> <WikiTitleID>12443075</WikiTitleID> <RankerScore>0.03639316021580038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>100_(album)</WikiTitle> <WikiTitleID>6843392</WikiTitleID> <RankerScore>0.03639316021580038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wilt_Chamberlain&apos;s_100-point_game</WikiTitle> <WikiTitleID>9499391</WikiTitleID> <RankerScore>0.03639316021580038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>100_(Andy_Stochansky_album)</WikiTitle> <WikiTitleID>9844839</WikiTitleID> <RankerScore>0.03639316021580038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ohio_State_Route_100</WikiTitle> <WikiTitleID>7804490</WikiTitleID> <RankerScore>0.03639316021580038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orders_of_magnitude_(mass)</WikiTitle> <WikiTitleID>203875</WikiTitleID> <RankerScore>0.03639316021580038</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>radio</EntitySurfaceForm>
+	<EntityTextStart>376</EntityTextStart>
+	<EntityTextEnd>381</EntityTextEnd>
+	<LinkerScore>2.4385787301004713</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Radio</WikiTitle>
+		<WikiTitleID>15368428</WikiTitleID>
+		<RankerScore>0.5788788272504685</RankerScore>
+		<Attributes>invention</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Radio</WikiTitle> <WikiTitleID>15368428</WikiTitleID> <RankerScore>0.5788788272504685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_broadcasting</WikiTitle> <WikiTitleID>173088</WikiTitleID> <RankerScore>0.03315825775401994</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_programming</WikiTitle> <WikiTitleID>103661</WikiTitleID> <RankerScore>0.04753763235577469</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_personality</WikiTitle> <WikiTitleID>3206586</WikiTitleID> <RankerScore>0.020025016625866875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Old-time_radio</WikiTitle> <WikiTitleID>82583</WikiTitleID> <RankerScore>0.020025016625866875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_radio</WikiTitle> <WikiTitleID>20841</WikiTitleID> <RankerScore>0.020025016625866875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_frequency</WikiTitle> <WikiTitleID>42852</WikiTitleID> <RankerScore>0.020025016625866875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_advertisement</WikiTitle> <WikiTitleID>3571486</WikiTitleID> <RankerScore>0.020025016625866875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Receiver_(radio)</WikiTitle> <WikiTitleID>491851</WikiTitleID> <RankerScore>0.020025016625866875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_network</WikiTitle> <WikiTitleID>224694</WikiTitleID> <RankerScore>0.020025016625866875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_producer</WikiTitle> <WikiTitleID>2670542</WikiTitleID> <RankerScore>0.020025016625866875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_astronomy</WikiTitle> <WikiTitleID>82961</WikiTitleID> <RankerScore>0.020025016625866875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_drama</WikiTitle> <WikiTitleID>54954</WikiTitleID> <RankerScore>0.020025016625866875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_waves</WikiTitle> <WikiTitleID>98132</WikiTitleID> <RankerScore>0.020025016625866875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_radio_stations_in_Australia</WikiTitle> <WikiTitleID>575787</WikiTitleID> <RankerScore>0.020025016625866875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Airplay</WikiTitle> <WikiTitleID>1986945</WikiTitleID> <RankerScore>0.020025016625866875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Talk_radio</WikiTitle> <WikiTitleID>30077</WikiTitleID> <RankerScore>0.020025016625866875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Radio</WikiTitle> <WikiTitleID>167583</WikiTitleID> <RankerScore>0.020025016625866875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Broadcasting</WikiTitle> <WikiTitleID>113604</WikiTitleID> <RankerScore>0.020025016625866875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Commercial_broadcasting</WikiTitle> <WikiTitleID>1551784</WikiTitleID> <RankerScore>0.020025016625866875</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>radio surgery</EntitySurfaceForm>
+	<EntityTextStart>376</EntityTextStart>
+	<EntityTextEnd>389</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Radiosurgery</WikiTitle>
+		<WikiTitleID>1172094</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>treatment	robot</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>surgery</EntitySurfaceForm>
+	<EntityTextStart>382</EntityTextStart>
+	<EntityTextEnd>389</EntityTextEnd>
+	<LinkerScore>3.5216213549404154</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Surgery</WikiTitle>
+		<WikiTitleID>45599</WikiTitleID>
+		<RankerScore>0.9791941916797184</RankerScore>
+		<Attributes>obstetrics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Surgery</WikiTitle> <WikiTitleID>45599</WikiTitleID> <RankerScore>0.9791941916797184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery</WikiTitle> <WikiTitleID>82385</WikiTitleID> <RankerScore>4.469836422257888E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neurosurgery</WikiTitle> <WikiTitleID>21848</WikiTitleID> <RankerScore>0.01919470087258842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery_theory</WikiTitle> <WikiTitleID>5961115</WikiTitleID> <RankerScore>6.847787090984499E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tommy_John_surgery</WikiTitle> <WikiTitleID>306900</WikiTitleID> <RankerScore>6.847787090984499E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery_(politics)</WikiTitle> <WikiTitleID>1797711</WikiTitleID> <RankerScore>6.847787090984499E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intersex_surgery</WikiTitle> <WikiTitleID>927942</WikiTitleID> <RankerScore>6.847787090984499E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_surgery</WikiTitle> <WikiTitleID>587878</WikiTitleID> <RankerScore>6.847787090984499E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery_(female-to-male)</WikiTitle> <WikiTitleID>627972</WikiTitleID> <RankerScore>6.847787090984499E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_intersex_surgery</WikiTitle> <WikiTitleID>928084</WikiTitleID> <RankerScore>6.847787090984499E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Breast_implant</WikiTitle> <WikiTitleID>4892591</WikiTitleID> <RankerScore>6.847787090984499E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colectomy</WikiTitle> <WikiTitleID>1883708</WikiTitleID> <RankerScore>6.847787090984499E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coronary_artery_bypass_surgery</WikiTitle> <WikiTitleID>195248</WikiTitleID> <RankerScore>6.847787090984499E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lung_cancer_surgery</WikiTitle> <WikiTitleID>11957814</WikiTitleID> <RankerScore>6.847787090984499E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Corneal_transplantation</WikiTitle> <WikiTitleID>1425134</WikiTitleID> <RankerScore>6.847787090984499E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_surgery</WikiTitle> <WikiTitleID>42048</WikiTitleID> <RankerScore>6.847787090984499E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Veterinary_surgery</WikiTitle> <WikiTitleID>495575</WikiTitleID> <RankerScore>6.847787090984499E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dental_surgery</WikiTitle> <WikiTitleID>982883</WikiTitleID> <RankerScore>6.847787090984499E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery_(male-to-female)</WikiTitle> <WikiTitleID>627982</WikiTitleID> <RankerScore>6.847787090984499E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Decortication_of_lung</WikiTitle> <WikiTitleID>1582910</WikiTitleID> <RankerScore>6.847787090984499E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Radio</EntitySurfaceForm>
+	<EntityTextStart>420</EntityTextStart>
+	<EntityTextEnd>425</EntityTextEnd>
+	<LinkerScore>6.81877201089328</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Radio</WikiTitle>
+		<WikiTitleID>15368428</WikiTitleID>
+		<RankerScore>0.18364069677525466</RankerScore>
+		<Attributes>invention</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Radio</WikiTitle> <WikiTitleID>15368428</WikiTitleID> <RankerScore>0.18364069677525466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_(film)</WikiTitle> <WikiTitleID>1898116</WikiTitleID> <RankerScore>0.14817879405418682</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_(song)</WikiTitle> <WikiTitleID>2845618</WikiTitleID> <RankerScore>0.12236719255727281</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_(LL_Cool_J_album)</WikiTitle> <WikiTitleID>211553</WikiTitleID> <RankerScore>0.03210666568313446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_(The_Corrs_song)</WikiTitle> <WikiTitleID>7587979</WikiTitleID> <RankerScore>0.03210666568313446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_(X-Dream_album)</WikiTitle> <WikiTitleID>796212</WikiTitleID> <RankerScore>0.03210666568313446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_radio_stations_in_Greece</WikiTitle> <WikiTitleID>332119</WikiTitleID> <RankerScore>0.03210666568313446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_(Wise_Guys_album)</WikiTitle> <WikiTitleID>8429585</WikiTitleID> <RankerScore>0.03210666568313446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_(Naked_City_album)</WikiTitle> <WikiTitleID>9851240</WikiTitleID> <RankerScore>0.03210666568313446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_broadcasting</WikiTitle> <WikiTitleID>173088</WikiTitleID> <RankerScore>0.03210666568313446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_programming</WikiTitle> <WikiTitleID>103661</WikiTitleID> <RankerScore>0.03210666568313446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tuner_(radio)</WikiTitle> <WikiTitleID>903897</WikiTitleID> <RankerScore>0.03210666568313446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Old-time_radio</WikiTitle> <WikiTitleID>82583</WikiTitleID> <RankerScore>0.03210666568313446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amateur_radio</WikiTitle> <WikiTitleID>52956</WikiTitleID> <RankerScore>0.03210666568313446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_y_Televisión_Martí</WikiTitle> <WikiTitleID>286342</WikiTitleID> <RankerScore>0.03210666568313446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Radio</WikiTitle> <WikiTitleID>167583</WikiTitleID> <RankerScore>0.03210666568313446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>RadioShack</WikiTitle> <WikiTitleID>327612</WikiTitleID> <RankerScore>0.03210666568313446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AOL_Radio</WikiTitle> <WikiTitleID>6332351</WikiTitleID> <RankerScore>0.03210666568313446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_radio</WikiTitle> <WikiTitleID>20841</WikiTitleID> <RankerScore>0.03210666568313446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>WMBD_(AM)</WikiTitle> <WikiTitleID>8764177</WikiTitleID> <RankerScore>0.03210666568313446</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Radio surgery</EntitySurfaceForm>
+	<EntityTextStart>420</EntityTextStart>
+	<EntityTextEnd>433</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Radiosurgery</WikiTitle>
+		<WikiTitleID>1172094</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>treatment	robot</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>surgery</EntitySurfaceForm>
+	<EntityTextStart>426</EntityTextStart>
+	<EntityTextEnd>433</EntityTextEnd>
+	<LinkerScore>2.438777961777279</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Surgery</WikiTitle>
+		<WikiTitleID>45599</WikiTitleID>
+		<RankerScore>0.988626480974458</RankerScore>
+		<Attributes>obstetrics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Surgery</WikiTitle> <WikiTitleID>45599</WikiTitleID> <RankerScore>0.988626480974458</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery</WikiTitle> <WikiTitleID>82385</WikiTitleID> <RankerScore>2.2175337983702193E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neurosurgery</WikiTitle> <WikiTitleID>21848</WikiTitleID> <RankerScore>0.010406408504613553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery_theory</WikiTitle> <WikiTitleID>5961115</WikiTitleID> <RankerScore>4.384453771125455E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tommy_John_surgery</WikiTitle> <WikiTitleID>306900</WikiTitleID> <RankerScore>4.384453771125455E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery_(politics)</WikiTitle> <WikiTitleID>1797711</WikiTitleID> <RankerScore>4.384453771125455E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intersex_surgery</WikiTitle> <WikiTitleID>927942</WikiTitleID> <RankerScore>4.384453771125455E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_surgery</WikiTitle> <WikiTitleID>587878</WikiTitleID> <RankerScore>4.384453771125455E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery_(female-to-male)</WikiTitle> <WikiTitleID>627972</WikiTitleID> <RankerScore>4.384453771125455E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_intersex_surgery</WikiTitle> <WikiTitleID>928084</WikiTitleID> <RankerScore>4.384453771125455E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Breast_implant</WikiTitle> <WikiTitleID>4892591</WikiTitleID> <RankerScore>4.384453771125455E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colectomy</WikiTitle> <WikiTitleID>1883708</WikiTitleID> <RankerScore>4.384453771125455E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coronary_artery_bypass_surgery</WikiTitle> <WikiTitleID>195248</WikiTitleID> <RankerScore>4.384453771125455E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lung_cancer_surgery</WikiTitle> <WikiTitleID>11957814</WikiTitleID> <RankerScore>4.384453771125455E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Corneal_transplantation</WikiTitle> <WikiTitleID>1425134</WikiTitleID> <RankerScore>4.384453771125455E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_surgery</WikiTitle> <WikiTitleID>42048</WikiTitleID> <RankerScore>4.384453771125455E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Veterinary_surgery</WikiTitle> <WikiTitleID>495575</WikiTitleID> <RankerScore>4.384453771125455E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dental_surgery</WikiTitle> <WikiTitleID>982883</WikiTitleID> <RankerScore>4.384453771125455E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery_(male-to-female)</WikiTitle> <WikiTitleID>627982</WikiTitleID> <RankerScore>4.384453771125455E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Decortication_of_lung</WikiTitle> <WikiTitleID>1582910</WikiTitleID> <RankerScore>4.384453771125455E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>modern</EntitySurfaceForm>
+	<EntityTextStart>439</EntityTextStart>
+	<EntityTextEnd>445</EntityTextEnd>
+	<LinkerScore>-4.883275651054834</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Modern</WikiTitle>
+		<WikiTitleID>207319</WikiTitleID>
+		<RankerScore>0.1453861853568439</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Modern_art</WikiTitle> <WikiTitleID>163543</WikiTitleID> <RankerScore>0.06853709703984194</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modernism</WikiTitle> <WikiTitleID>19547</WikiTitleID> <RankerScore>0.040594953528109025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modern</WikiTitle> <WikiTitleID>207319</WikiTitleID> <RankerScore>0.1453861853568439</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modern_architecture</WikiTitle> <WikiTitleID>315927</WikiTitleID> <RankerScore>0.04659261025470032</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modern_history</WikiTitle> <WikiTitleID>4399619</WikiTitleID> <RankerScore>0.04659261025470032</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modernity</WikiTitle> <WikiTitleID>185130</WikiTitleID> <RankerScore>0.04659261025470032</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modern_dance</WikiTitle> <WikiTitleID>20957</WikiTitleID> <RankerScore>0.04659261025470032</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modern_Greek</WikiTitle> <WikiTitleID>292885</WikiTitleID> <RankerScore>0.04659261025470032</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modern_Age_of_Comic_Books</WikiTitle> <WikiTitleID>1295181</WikiTitleID> <RankerScore>0.04659261025470032</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modern_music</WikiTitle> <WikiTitleID>1467342</WikiTitleID> <RankerScore>0.04659261025470032</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modern_history</WikiTitle> <WikiTitleID>885795</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Contemporary_classical_music</WikiTitle> <WikiTitleID>330217</WikiTitleID> <RankerScore>0.04659261025470032</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modern_rock</WikiTitle> <WikiTitleID>975247</WikiTitleID> <RankerScore>0.04659261025470032</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modernism_(music)</WikiTitle> <WikiTitleID>841986</WikiTitleID> <RankerScore>0.04659261025470032</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modern_philosophy</WikiTitle> <WikiTitleID>806467</WikiTitleID> <RankerScore>0.04659261025470032</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007</WikiTitle> <WikiTitleID>36165</WikiTitleID> <RankerScore>0.04659261025470032</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>20th_century</WikiTitle> <WikiTitleID>34558</WikiTitleID> <RankerScore>0.04659261025470032</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mass_of_Paul_VI</WikiTitle> <WikiTitleID>101135</WikiTitleID> <RankerScore>0.04659261025470032</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second-wave_feminism</WikiTitle> <WikiTitleID>631216</WikiTitleID> <RankerScore>0.04659261025470032</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modern_literature</WikiTitle> <WikiTitleID>1780285</WikiTitleID> <RankerScore>0.04659261025470032</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>modern technique</EntitySurfaceForm>
+	<EntityTextStart>439</EntityTextStart>
+	<EntityTextEnd>455</EntityTextEnd>
+	<LinkerScore>-0.45830343541633</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Modern_Technique_of_the_Pistol</WikiTitle>
+		<WikiTitleID>11901400</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>technique</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Modern_Technique_of_the_Pistol</WikiTitle> <WikiTitleID>11901400</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>technique</EntitySurfaceForm>
+	<EntityTextStart>446</EntityTextStart>
+	<EntityTextEnd>455</EntityTextEnd>
+	<LinkerScore>-4.205756145656106</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Technique</WikiTitle>
+		<WikiTitleID>426196</WikiTitleID>
+		<RankerScore>0.26876899775301766</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Technique</WikiTitle> <WikiTitleID>426196</WikiTitleID> <RankerScore>0.26876899775301766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kimarite</WikiTitle> <WikiTitleID>2773330</WikiTitleID> <RankerScore>0.059884814921157874</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Musical_technique</WikiTitle> <WikiTitleID>7389142</WikiTitleID> <RankerScore>0.07426934096666836</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Literary_technique</WikiTitle> <WikiTitleID>65761</WikiTitleID> <RankerScore>0.049756403863263014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_judo_techniques</WikiTitle> <WikiTitleID>3941385</WikiTitleID> <RankerScore>0.049756403863263014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Silvering</WikiTitle> <WikiTitleID>2243850</WikiTitleID> <RankerScore>0.049756403863263014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fire_breathing</WikiTitle> <WikiTitleID>314667</WikiTitleID> <RankerScore>0.049756403863263014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cecchetti_method</WikiTitle> <WikiTitleID>376553</WikiTitleID> <RankerScore>0.049756403863263014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vocal_pedagogy</WikiTitle> <WikiTitleID>7196725</WikiTitleID> <RankerScore>0.049756403863263014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pizzicato</WikiTitle> <WikiTitleID>50190</WikiTitleID> <RankerScore>0.049756403863263014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medical_procedure</WikiTitle> <WikiTitleID>8210888</WikiTitleID> <RankerScore>0.049756403863263014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ballet_technique</WikiTitle> <WikiTitleID>775161</WikiTitleID> <RankerScore>0.049756403863263014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cue_sports_techniques</WikiTitle> <WikiTitleID>6150292</WikiTitleID> <RankerScore>0.049756403863263014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scientific_technique</WikiTitle> <WikiTitleID>15305567</WikiTitleID> <RankerScore>0.049756403863263014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extended_technique</WikiTitle> <WikiTitleID>410014</WikiTitleID> <RankerScore>0.049756403863263014</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>surgery</EntitySurfaceForm>
+	<EntityTextStart>478</EntityTextStart>
+	<EntityTextEnd>485</EntityTextEnd>
+	<LinkerScore>4.264907279209413</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Surgery</WikiTitle>
+		<WikiTitleID>45599</WikiTitleID>
+		<RankerScore>0.9967694513497698</RankerScore>
+		<Attributes>obstetrics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Surgery</WikiTitle> <WikiTitleID>45599</WikiTitleID> <RankerScore>0.9967694513497698</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery</WikiTitle> <WikiTitleID>82385</WikiTitleID> <RankerScore>1.3345300984544903E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neurosurgery</WikiTitle> <WikiTitleID>21848</WikiTitleID> <RankerScore>0.0029632171464957853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery_theory</WikiTitle> <WikiTitleID>5961115</WikiTitleID> <RankerScore>4.046138699707278E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tommy_John_surgery</WikiTitle> <WikiTitleID>306900</WikiTitleID> <RankerScore>1.3345300984544903E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery_(politics)</WikiTitle> <WikiTitleID>1797711</WikiTitleID> <RankerScore>1.3345300984544903E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intersex_surgery</WikiTitle> <WikiTitleID>927942</WikiTitleID> <RankerScore>1.3345300984544903E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_surgery</WikiTitle> <WikiTitleID>587878</WikiTitleID> <RankerScore>1.3345300984544903E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery_(female-to-male)</WikiTitle> <WikiTitleID>627972</WikiTitleID> <RankerScore>1.3345300984544903E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_intersex_surgery</WikiTitle> <WikiTitleID>928084</WikiTitleID> <RankerScore>1.3345300984544903E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Breast_implant</WikiTitle> <WikiTitleID>4892591</WikiTitleID> <RankerScore>1.3345300984544903E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colectomy</WikiTitle> <WikiTitleID>1883708</WikiTitleID> <RankerScore>1.3345300984544903E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coronary_artery_bypass_surgery</WikiTitle> <WikiTitleID>195248</WikiTitleID> <RankerScore>1.3345300984544903E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lung_cancer_surgery</WikiTitle> <WikiTitleID>11957814</WikiTitleID> <RankerScore>1.3345300984544903E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Corneal_transplantation</WikiTitle> <WikiTitleID>1425134</WikiTitleID> <RankerScore>1.3345300984544903E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_surgery</WikiTitle> <WikiTitleID>42048</WikiTitleID> <RankerScore>1.3345300984544903E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Veterinary_surgery</WikiTitle> <WikiTitleID>495575</WikiTitleID> <RankerScore>1.3345300984544903E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dental_surgery</WikiTitle> <WikiTitleID>982883</WikiTitleID> <RankerScore>1.3345300984544903E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery_(male-to-female)</WikiTitle> <WikiTitleID>627982</WikiTitleID> <RankerScore>1.3345300984544903E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Decortication_of_lung</WikiTitle> <WikiTitleID>1582910</WikiTitleID> <RankerScore>1.3345300984544903E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>remove</EntitySurfaceForm>
+	<EntityTextStart>498</EntityTextStart>
+	<EntityTextEnd>504</EntityTextEnd>
+	<LinkerScore>-0.6928147870773067</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Endoscopic_foreign_body_retrieval</WikiTitle>
+		<WikiTitleID>5439729</WikiTitleID>
+		<RankerScore>0.2132135433795231</RankerScore>
+		<Attributes>procedure</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Indian_removal</WikiTitle> <WikiTitleID>15080</WikiTitleID> <RankerScore>0.09014823514213403</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Impeachment</WikiTitle> <WikiTitleID>15328</WikiTitleID> <RankerScore>0.04973715084638573</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Endoscopic_foreign_body_retrieval</WikiTitle> <WikiTitleID>5439729</WikiTitleID> <RankerScore>0.2132135433795231</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Disciplinary_council</WikiTitle> <WikiTitleID>2465553</WikiTitleID> <RankerScore>0.06469010706319571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_purification</WikiTitle> <WikiTitleID>214701</WikiTitleID> <RankerScore>0.06469010706319571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Removal</WikiTitle> <WikiTitleID>3470595</WikiTitleID> <RankerScore>0.06469010706319571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Removal_jurisdiction</WikiTitle> <WikiTitleID>3470592</WikiTitleID> <RankerScore>0.06469010706319571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_polymerase_I</WikiTitle> <WikiTitleID>505425</WikiTitleID> <RankerScore>0.06469010706319571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel&apos;s_unilateral_disengagement_plan</WikiTitle> <WikiTitleID>597862</WikiTitleID> <RankerScore>0.06469010706319571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Remove</WikiTitle> <WikiTitleID>13210091</WikiTitleID> <RankerScore>0.06469010706319571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Censorship</WikiTitle> <WikiTitleID>17253537</WikiTitleID> <RankerScore>0.06469010706319571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Island_restoration</WikiTitle> <WikiTitleID>2290792</WikiTitleID> <RankerScore>0.06469010706319571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Local_extinction</WikiTitle> <WikiTitleID>1231673</WikiTitleID> <RankerScore>0.06469010706319571</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>cancerous</EntitySurfaceForm>
+	<EntityTextStart>506</EntityTextStart>
+	<EntityTextEnd>515</EntityTextEnd>
+	<LinkerScore>4.204657036297595</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cancer</WikiTitle>
+		<WikiTitleID>105219</WikiTitleID>
+		<RankerScore>0.9939864158878314</RankerScore>
+		<Attributes>disease	cause</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cancer</WikiTitle> <WikiTitleID>105219</WikiTitleID> <RankerScore>0.9939864158878314</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lung_cancer</WikiTitle> <WikiTitleID>18450</WikiTitleID> <RankerScore>0.0060135841121686795</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>tissues</EntitySurfaceForm>
+	<EntityTextStart>529</EntityTextStart>
+	<EntityTextEnd>536</EntityTextEnd>
+	<LinkerScore>7.036421759273013</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tissue_(biology)</WikiTitle>
+		<WikiTitleID>103915</WikiTitleID>
+		<RankerScore>0.9898390689236162</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tissue_(biology)</WikiTitle> <WikiTitleID>103915</WikiTitleID> <RankerScore>0.9898390689236162</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Facial_tissue</WikiTitle> <WikiTitleID>2894782</WikiTitleID> <RankerScore>0.002654023033028916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tissue</WikiTitle> <WikiTitleID>31184</WikiTitleID> <RankerScore>0.005823492367661105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tissue_paper</WikiTitle> <WikiTitleID>2026564</WikiTitleID> <RankerScore>0.0016834156756939166</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>It</EntitySurfaceForm>
+	<EntityTextStart>540</EntityTextStart>
+	<EntityTextEnd>542</EntityTextEnd>
+	<LinkerScore>0.0018849800980786924</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>It_(novel)</WikiTitle>
+		<WikiTitleID>271590</WikiTitleID>
+		<RankerScore>0.3093953451309306</RankerScore>
+		<Attributes>novel</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>It_(novel)</WikiTitle> <WikiTitleID>271590</WikiTitleID> <RankerScore>0.3093953451309306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(1990_film)</WikiTitle> <WikiTitleID>685938</WikiTitleID> <RankerScore>0.1465199071522926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(1927_film)</WikiTitle> <WikiTitleID>271588</WikiTitleID> <RankerScore>0.17975641995553043</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(album)</WikiTitle> <WikiTitleID>557662</WikiTitleID> <RankerScore>0.0455410409701558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It</WikiTitle> <WikiTitleID>74821</WikiTitleID> <RankerScore>0.0455410409701558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Phish_festivals</WikiTitle> <WikiTitleID>4160240</WikiTitleID> <RankerScore>0.0455410409701558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_language</WikiTitle> <WikiTitleID>14708</WikiTitleID> <RankerScore>0.0455410409701558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(2004_film)</WikiTitle> <WikiTitleID>4710990</WikiTitleID> <RankerScore>0.0455410409701558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_girl</WikiTitle> <WikiTitleID>2199811</WikiTitleID> <RankerScore>0.0455410409701558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ordinary_People</WikiTitle> <WikiTitleID>106335</WikiTitleID> <RankerScore>0.0455410409701558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tag_(game)</WikiTitle> <WikiTitleID>536639</WikiTitleID> <RankerScore>0.0455410409701558</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>three dimensional</EntitySurfaceForm>
+	<EntityTextStart>555</EntityTextStart>
+	<EntityTextEnd>572</EntityTextEnd>
+	<LinkerScore>5.3156936213481005</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>3D_computer_graphics</WikiTitle>
+		<WikiTitleID>10175073</WikiTitleID>
+		<RankerScore>0.5415029488064227</RankerScore>
+		<Attributes>effects	graphics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>3D_computer_graphics</WikiTitle> <WikiTitleID>10175073</WikiTitleID> <RankerScore>0.5415029488064227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Three-dimensional_space</WikiTitle> <WikiTitleID>3054853</WikiTitleID> <RankerScore>0.24233287107870835</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dimension_(mathematics_and_physics)</WikiTitle> <WikiTitleID>8398</WikiTitleID> <RankerScore>0.1019945629772994</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stereoscopy</WikiTitle> <WikiTitleID>201460</WikiTitleID> <RankerScore>0.1141696171375696</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Surgery</EntitySurfaceForm>
+	<EntityTextStart>604</EntityTextStart>
+	<EntityTextEnd>611</EntityTextEnd>
+	<LinkerScore>5.121728586659234</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Surgery</WikiTitle>
+		<WikiTitleID>45599</WikiTitleID>
+		<RankerScore>0.9960087857936786</RankerScore>
+		<Attributes>obstetrics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Surgery</WikiTitle> <WikiTitleID>45599</WikiTitleID> <RankerScore>0.9960087857936786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Craniofacial_surgery</WikiTitle> <WikiTitleID>2812665</WikiTitleID> <RankerScore>8.466749178966076E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Veterinary_surgery</WikiTitle> <WikiTitleID>5090546</WikiTitleID> <RankerScore>4.999848075397916E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suture</WikiTitle> <WikiTitleID>13896574</WikiTitleID> <RankerScore>4.999848075397916E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orthopedic_surgery</WikiTitle> <WikiTitleID>430380</WikiTitleID> <RankerScore>0.0029445453654089026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Oral_and_maxillofacial_surgery</WikiTitle> <WikiTitleID>1137766</WikiTitleID> <RankerScore>4.999848075397916E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery_(album)</WikiTitle> <WikiTitleID>15558751</WikiTitleID> <RankerScore>4.999848075397916E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>conjunction</EntitySurfaceForm>
+	<EntityTextStart>637</EntityTextStart>
+	<EntityTextEnd>648</EntityTextEnd>
+	<LinkerScore>-3.1248635175955304</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Conjunction</WikiTitle>
+		<WikiTitleID>74959</WikiTitleID>
+		<RankerScore>0.5055917320067533</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Conjunction</WikiTitle> <WikiTitleID>74959</WikiTitleID> <RankerScore>0.5055917320067533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conjunction_(grammar)</WikiTitle> <WikiTitleID>113500</WikiTitleID> <RankerScore>0.14290837762086248</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conjunction_(astronomy)</WikiTitle> <WikiTitleID>49434</WikiTitleID> <RankerScore>0.14389366019613412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Logical_conjunction</WikiTitle> <WikiTitleID>18152</WikiTitleID> <RankerScore>0.06920207672541669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Concurrency_(road)</WikiTitle> <WikiTitleID>1237887</WikiTitleID> <RankerScore>0.06920207672541669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_moon</WikiTitle> <WikiTitleID>21833</WikiTitleID> <RankerScore>0.06920207672541669</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>radiation</EntitySurfaceForm>
+	<EntityTextStart>655</EntityTextStart>
+	<EntityTextEnd>664</EntityTextEnd>
+	<LinkerScore>9.461491201946382</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Radiation_therapy</WikiTitle>
+		<WikiTitleID>26350</WikiTitleID>
+		<RankerScore>0.7296985333705677</RankerScore>
+		<Attributes>doctor	treatment	specialty	effects</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Radiation</WikiTitle> <WikiTitleID>25856</WikiTitleID> <RankerScore>0.1835977963767368</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ionizing_radiation</WikiTitle> <WikiTitleID>202522</WikiTitleID> <RankerScore>0.018667163258333678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electromagnetic_radiation</WikiTitle> <WikiTitleID>9426</WikiTitleID> <RankerScore>0.004252281687147617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thermal_radiation</WikiTitle> <WikiTitleID>185239</WikiTitleID> <RankerScore>0.004252281687147617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Evolutionary_radiation</WikiTitle> <WikiTitleID>1422728</WikiTitleID> <RankerScore>0.004252281687147617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radiation_therapy</WikiTitle> <WikiTitleID>26350</WikiTitleID> <RankerScore>0.7296985333705677</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radioactive_decay</WikiTitle> <WikiTitleID>197767</WikiTitleID> <RankerScore>0.004252281687147617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adaptive_radiation</WikiTitle> <WikiTitleID>1909</WikiTitleID> <RankerScore>0.004252281687147617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radioactive_contamination</WikiTitle> <WikiTitleID>621749</WikiTitleID> <RankerScore>0.004252281687147617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radiant_energy</WikiTitle> <WikiTitleID>477175</WikiTitleID> <RankerScore>0.004252281687147617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Particle_radiation</WikiTitle> <WikiTitleID>23891</WikiTitleID> <RankerScore>0.004252281687147617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sunlight</WikiTitle> <WikiTitleID>214998</WikiTitleID> <RankerScore>0.004252281687147617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Light</WikiTitle> <WikiTitleID>17939</WikiTitleID> <RankerScore>0.004252281687147617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radiation_therapy</WikiTitle> <WikiTitleID>11082435</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nuclear_fallout</WikiTitle> <WikiTitleID>53683</WikiTitleID> <RankerScore>0.004252281687147617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Acute_radiation_syndrome</WikiTitle> <WikiTitleID>151196</WikiTitleID> <RankerScore>0.004252281687147617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ultraviolet</WikiTitle> <WikiTitleID>31990</WikiTitleID> <RankerScore>0.004252281687147617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bremsstrahlung</WikiTitle> <WikiTitleID>54147</WikiTitleID> <RankerScore>0.004252281687147617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radiation_zone</WikiTitle> <WikiTitleID>1235913</WikiTitleID> <RankerScore>0.004252281687147617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Background_radiation</WikiTitle> <WikiTitleID>4882</WikiTitleID> <RankerScore>0.004252281687147617</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Linear Accelerator</EntitySurfaceForm>
+	<EntityTextStart>691</EntityTextStart>
+	<EntityTextEnd>709</EntityTextEnd>
+	<LinkerScore>7.814414016265454</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Linear_particle_accelerator</WikiTitle>
+		<WikiTitleID>273524</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Linear_particle_accelerator</WikiTitle> <WikiTitleID>273524</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>new technology</EntitySurfaceForm>
+	<EntityTextStart>726</EntityTextStart>
+	<EntityTextEnd>740</EntityTextEnd>
+	<LinkerScore>2.770460163817592</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Technology</WikiTitle>
+		<WikiTitleID>29816</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Technology</WikiTitle> <WikiTitleID>29816</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>technology</EntitySurfaceForm>
+	<EntityTextStart>730</EntityTextStart>
+	<EntityTextEnd>740</EntityTextEnd>
+	<LinkerScore>-0.0826652055026944</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Technology</WikiTitle>
+		<WikiTitleID>29816</WikiTitleID>
+		<RankerScore>0.612213015454757</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Technology</WikiTitle> <WikiTitleID>29816</WikiTitleID> <RankerScore>0.612213015454757</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Food_technology</WikiTitle> <WikiTitleID>1636646</WikiTitleID> <RankerScore>0.019940006005963896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_inventions_in_the_medieval_Islamic_world</WikiTitle> <WikiTitleID>7660879</WikiTitleID> <RankerScore>0.12627963201213252</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_technology</WikiTitle> <WikiTitleID>803661</WikiTitleID> <RankerScore>0.014209843913361563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Production_function</WikiTitle> <WikiTitleID>424218</WikiTitleID> <RankerScore>0.014209843913361563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Information_technology</WikiTitle> <WikiTitleID>15340</WikiTitleID> <RankerScore>0.014209843913361563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technology_College</WikiTitle> <WikiTitleID>7393577</WikiTitleID> <RankerScore>0.014209843913361563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_tech</WikiTitle> <WikiTitleID>525028</WikiTitleID> <RankerScore>0.014209843913361563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Environmental_technology</WikiTitle> <WikiTitleID>1443002</WikiTitleID> <RankerScore>0.014209843913361563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technology_of_television</WikiTitle> <WikiTitleID>14682695</WikiTitleID> <RankerScore>0.014209843913361563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Timeline_of_science_and_engineering_in_the_Islamic_world</WikiTitle> <WikiTitleID>2309315</WikiTitleID> <RankerScore>0.014209843913361563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Institute_of_technology</WikiTitle> <WikiTitleID>1121030</WikiTitleID> <RankerScore>0.014209843913361563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technology_in_Stargate</WikiTitle> <WikiTitleID>4638959</WikiTitleID> <RankerScore>0.014209843913361563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Science_and_technology_of_the_Song_Dynasty</WikiTitle> <WikiTitleID>10444102</WikiTitleID> <RankerScore>0.014209843913361563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Video_game_development</WikiTitle> <WikiTitleID>700265</WikiTitleID> <RankerScore>0.014209843913361563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mythology_of_Stargate</WikiTitle> <WikiTitleID>2418006</WikiTitleID> <RankerScore>0.014209843913361563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Goa&apos;uld_technology_in_Stargate</WikiTitle> <WikiTitleID>4634432</WikiTitleID> <RankerScore>0.014209843913361563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biotechnology</WikiTitle> <WikiTitleID>4502</WikiTitleID> <RankerScore>0.014209843913361563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Renaissance_technology</WikiTitle> <WikiTitleID>9240851</WikiTitleID> <RankerScore>0.014209843913361563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technological_change</WikiTitle> <WikiTitleID>1605798</WikiTitleID> <RankerScore>0.014209843913361563</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>doctors</EntitySurfaceForm>
+	<EntityTextStart>742</EntityTextStart>
+	<EntityTextEnd>749</EntityTextEnd>
+	<LinkerScore>14.670874856202689</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Medicine</WikiTitle>
+		<WikiTitleID>18957</WikiTitleID>
+		<RankerScore>0.65296096162502</RankerScore>
+		<Attributes>occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Physician</WikiTitle> <WikiTitleID>23315</WikiTitleID> <RankerScore>0.3408435966836919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor</WikiTitle> <WikiTitleID>662249</WikiTitleID> <RankerScore>0.0030130184667988362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medicine</WikiTitle> <WikiTitleID>18957</WikiTitleID> <RankerScore>0.65296096162502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_Medicine</WikiTitle> <WikiTitleID>428966</WikiTitleID> <RankerScore>3.978029030611653E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_(title)</WikiTitle> <WikiTitleID>8881</WikiTitleID> <RankerScore>3.978029030611653E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_the_Church</WikiTitle> <WikiTitleID>340345</WikiTitleID> <RankerScore>3.978029030611653E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctors_(soap_opera)</WikiTitle> <WikiTitleID>146307</WikiTitleID> <RankerScore>3.978029030611653E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_Physical_Therapy</WikiTitle> <WikiTitleID>2110699</WikiTitleID> <RankerScore>3.978029030611653E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctorate</WikiTitle> <WikiTitleID>188886</WikiTitleID> <RankerScore>3.978029030611653E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_practitioner</WikiTitle> <WikiTitleID>197817</WikiTitleID> <RankerScore>3.978029030611653E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_Theology</WikiTitle> <WikiTitleID>2065969</WikiTitleID> <RankerScore>3.978029030611653E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>removal</EntitySurfaceForm>
+	<EntityTextStart>762</EntityTextStart>
+	<EntityTextEnd>769</EntityTextEnd>
+	<LinkerScore>1.1604090321815692</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Removal</WikiTitle>
+		<WikiTitleID>3470595</WikiTitleID>
+		<RankerScore>0.18987826037398003</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Indian_removal</WikiTitle> <WikiTitleID>15080</WikiTitleID> <RankerScore>0.18502982377606317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Removal</WikiTitle> <WikiTitleID>3470595</WikiTitleID> <RankerScore>0.18987826037398003</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Island_restoration</WikiTitle> <WikiTitleID>2290792</WikiTitleID> <RankerScore>0.0660206530380514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Asbestos_abatement</WikiTitle> <WikiTitleID>10181586</WikiTitleID> <RankerScore>0.09317854380198425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Natural_resource</WikiTitle> <WikiTitleID>1074737</WikiTitleID> <RankerScore>0.09317854380198425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Recall_election</WikiTitle> <WikiTitleID>129203</WikiTitleID> <RankerScore>0.09317854380198425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Removal_jurisdiction</WikiTitle> <WikiTitleID>3470592</WikiTitleID> <RankerScore>0.09317854380198425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trail_of_Tears</WikiTitle> <WikiTitleID>71973</WikiTitleID> <RankerScore>0.09317854380198425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Salvation_Run</WikiTitle> <WikiTitleID>13707275</WikiTitleID> <RankerScore>0.09317854380198425</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>cancerous</EntitySurfaceForm>
+	<EntityTextStart>770</EntityTextStart>
+	<EntityTextEnd>779</EntityTextEnd>
+	<LinkerScore>3.7608047758215464</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cancer</WikiTitle>
+		<WikiTitleID>105219</WikiTitleID>
+		<RankerScore>0.9879583685806872</RankerScore>
+		<Attributes>disease	cause</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cancer</WikiTitle> <WikiTitleID>105219</WikiTitleID> <RankerScore>0.9879583685806872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lung_cancer</WikiTitle> <WikiTitleID>18450</WikiTitleID> <RankerScore>0.01204163141931273</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>tissues</EntitySurfaceForm>
+	<EntityTextStart>780</EntityTextStart>
+	<EntityTextEnd>787</EntityTextEnd>
+	<LinkerScore>12.134346422579094</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tissue_(biology)</WikiTitle>
+		<WikiTitleID>103915</WikiTitleID>
+		<RankerScore>0.9949310296259752</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tissue_(biology)</WikiTitle> <WikiTitleID>103915</WikiTitleID> <RankerScore>0.9949310296259752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Facial_tissue</WikiTitle> <WikiTitleID>2894782</WikiTitleID> <RankerScore>0.0011056829426322938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tissue</WikiTitle> <WikiTitleID>31184</WikiTitleID> <RankerScore>0.0032619657115691603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tissue_paper</WikiTitle> <WikiTitleID>2026564</WikiTitleID> <RankerScore>7.01321719823334E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>brain</EntitySurfaceForm>
+	<EntityTextStart>813</EntityTextStart>
+	<EntityTextEnd>818</EntityTextEnd>
+	<LinkerScore>5.990579571044657</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Brain</WikiTitle>
+		<WikiTitleID>3717</WikiTitleID>
+		<RankerScore>0.9962861493748714</RankerScore>
+		<Attributes>organs</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Brain</WikiTitle> <WikiTitleID>3717</WikiTitleID> <RankerScore>0.9962861493748714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_brain</WikiTitle> <WikiTitleID>490620</WikiTitleID> <RankerScore>9.478999043667751E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brain_tumor</WikiTitle> <WikiTitleID>37284</WikiTitleID> <RankerScore>0.0034881862877084156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neuroimaging</WikiTitle> <WikiTitleID>3557219</WikiTitleID> <RankerScore>1.6359293372944855E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neuroscience</WikiTitle> <WikiTitleID>21245</WikiTitleID> <RankerScore>1.6359293372944855E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brain_damage</WikiTitle> <WikiTitleID>304588</WikiTitleID> <RankerScore>1.6359293372944855E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cerebrum</WikiTitle> <WikiTitleID>487841</WikiTitleID> <RankerScore>1.6359293372944855E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visual_cortex</WikiTitle> <WikiTitleID>32528</WikiTitleID> <RankerScore>1.6359293372944855E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brain_abscess</WikiTitle> <WikiTitleID>3840</WikiTitleID> <RankerScore>1.6359293372944855E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Central_nervous_system</WikiTitle> <WikiTitleID>7251</WikiTitleID> <RankerScore>1.6359293372944855E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cerebral_angiography</WikiTitle> <WikiTitleID>1078464</WikiTitleID> <RankerScore>1.6359293372944855E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sensitive</EntitySurfaceForm>
+	<EntityTextStart>827</EntityTextStart>
+	<EntityTextEnd>836</EntityTextEnd>
+	<LinkerScore>5.801126363586509</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Testicle</WikiTitle>
+		<WikiTitleID>67193</WikiTitleID>
+		<RankerScore>0.6368326141519624</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sensitivity_and_specificity</WikiTitle> <WikiTitleID>5599330</WikiTitleID> <RankerScore>0.07707728241050102</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sensitivity</WikiTitle> <WikiTitleID>41690</WikiTitleID> <RankerScore>0.07146361315231682</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sensitivity_(electronics)</WikiTitle> <WikiTitleID>455092</WikiTitleID> <RankerScore>0.03066092718360282</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sensitivity_(human)</WikiTitle> <WikiTitleID>455088</WikiTitleID> <RankerScore>0.03066092718360282</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Testicle</WikiTitle> <WikiTitleID>67193</WikiTitleID> <RankerScore>0.6368326141519624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Insulin_resistance</WikiTitle> <WikiTitleID>54448</WikiTitleID> <RankerScore>0.03066092718360282</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Information_sensitivity</WikiTitle> <WikiTitleID>5316476</WikiTitleID> <RankerScore>0.03066092718360282</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Clairvoyance</WikiTitle> <WikiTitleID>7737</WikiTitleID> <RankerScore>0.03066092718360282</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Antibiotic_sensitivity</WikiTitle> <WikiTitleID>2943640</WikiTitleID> <RankerScore>0.03066092718360282</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Film_speed</WikiTitle> <WikiTitleID>168568</WikiTitleID> <RankerScore>0.03066092718360282</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>organs</EntitySurfaceForm>
+	<EntityTextStart>837</EntityTextStart>
+	<EntityTextEnd>843</EntityTextEnd>
+	<LinkerScore>3.6565612645303505</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Organ_(anatomy)</WikiTitle>
+		<WikiTitleID>152776</WikiTitleID>
+		<RankerScore>0.9216493202840818</RankerScore>
+		<Attributes>organs	system</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Organ_(anatomy)</WikiTitle> <WikiTitleID>152776</WikiTitleID> <RankerScore>0.9216493202840818</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Organ_(music)</WikiTitle> <WikiTitleID>152778</WikiTitleID> <RankerScore>7.598994255048357E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pipe_organ</WikiTitle> <WikiTitleID>149996</WikiTitleID> <RankerScore>8.032198935788005E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Viscus</WikiTitle> <WikiTitleID>67059</WikiTitleID> <RankerScore>8.032198935788005E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electronic_organ</WikiTitle> <WikiTitleID>996250</WikiTitleID> <RankerScore>8.032198935788005E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Organist</WikiTitle> <WikiTitleID>190952</WikiTitleID> <RankerScore>8.032198935788005E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Offal</WikiTitle> <WikiTitleID>342509</WikiTitleID> <RankerScore>8.032198935788005E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Organ_theft</WikiTitle> <WikiTitleID>8543743</WikiTitleID> <RankerScore>8.032198935788005E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hammond_organ</WikiTitle> <WikiTitleID>13312</WikiTitleID> <RankerScore>8.032198935788005E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Organ_transplantation</WikiTitle> <WikiTitleID>167166</WikiTitleID> <RankerScore>0.0719682410353618</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>normal</EntitySurfaceForm>
+	<EntityTextStart>855</EntityTextStart>
+	<EntityTextEnd>861</EntityTextEnd>
+	<LinkerScore>-7.046751219092161</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Normal_(geometry)</WikiTitle>
+		<WikiTitleID>173224</WikiTitleID>
+		<RankerScore>0.21914785073300014</RankerScore>
+		<Attributes>surface</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Normal_(geometry)</WikiTitle> <WikiTitleID>173224</WikiTitleID> <RankerScore>0.21914785073300014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Normal_space</WikiTitle> <WikiTitleID>48629</WikiTitleID> <RankerScore>0.06830402123368824</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Normal_distribution</WikiTitle> <WikiTitleID>21462</WikiTitleID> <RankerScore>0.03465145544687083</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Normal_subgroup</WikiTitle> <WikiTitleID>21918</WikiTitleID> <RankerScore>0.04236854203665255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Normality_(behavior)</WikiTitle> <WikiTitleID>1791712</WikiTitleID> <RankerScore>0.04236854203665255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Normal_matrix</WikiTitle> <WikiTitleID>170366</WikiTitleID> <RankerScore>0.04236854203665255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Normal_lens</WikiTitle> <WikiTitleID>176351</WikiTitleID> <RankerScore>0.04236854203665255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Normal_number</WikiTitle> <WikiTitleID>204277</WikiTitleID> <RankerScore>0.04236854203665255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Normal_morphism</WikiTitle> <WikiTitleID>142626</WikiTitleID> <RankerScore>0.04236854203665255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Normal_operator</WikiTitle> <WikiTitleID>190167</WikiTitleID> <RankerScore>0.04236854203665255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Normal</WikiTitle> <WikiTitleID>151652</WikiTitleID> <RankerScore>0.04236854203665255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Normality</WikiTitle> <WikiTitleID>669965</WikiTitleID> <RankerScore>0.04236854203665255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Normal_scheme</WikiTitle> <WikiTitleID>2629423</WikiTitleID> <RankerScore>0.04236854203665255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Normal_mapping</WikiTitle> <WikiTitleID>395270</WikiTitleID> <RankerScore>0.04236854203665255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Normal_extension</WikiTitle> <WikiTitleID>929925</WikiTitleID> <RankerScore>0.04236854203665255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orthogonality</WikiTitle> <WikiTitleID>102221</WikiTitleID> <RankerScore>0.04236854203665255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Magic_square</WikiTitle> <WikiTitleID>52202</WikiTitleID> <RankerScore>0.04236854203665255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Normal_science</WikiTitle> <WikiTitleID>171087</WikiTitleID> <RankerScore>0.04236854203665255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tangential_and_normal_components</WikiTitle> <WikiTitleID>10387769</WikiTitleID> <RankerScore>0.04236854203665255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Normal</WikiTitle> <WikiTitleID>1343007</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>surgery</EntitySurfaceForm>
+	<EntityTextStart>862</EntityTextStart>
+	<EntityTextEnd>869</EntityTextEnd>
+	<LinkerScore>-0.3861782809327121</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Surgery</WikiTitle>
+		<WikiTitleID>45599</WikiTitleID>
+		<RankerScore>0.9940909796679015</RankerScore>
+		<Attributes>obstetrics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Surgery</WikiTitle> <WikiTitleID>45599</WikiTitleID> <RankerScore>0.9940909796679015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery</WikiTitle> <WikiTitleID>82385</WikiTitleID> <RankerScore>2.3005692387685576E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neurosurgery</WikiTitle> <WikiTitleID>21848</WikiTitleID> <RankerScore>0.0050284655848634756</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery_theory</WikiTitle> <WikiTitleID>5961115</WikiTitleID> <RankerScore>3.826457784459485E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tommy_John_surgery</WikiTitle> <WikiTitleID>306900</WikiTitleID> <RankerScore>3.826457784459485E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery_(politics)</WikiTitle> <WikiTitleID>1797711</WikiTitleID> <RankerScore>3.826457784459485E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intersex_surgery</WikiTitle> <WikiTitleID>927942</WikiTitleID> <RankerScore>3.826457784459485E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_surgery</WikiTitle> <WikiTitleID>587878</WikiTitleID> <RankerScore>3.826457784459485E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery_(female-to-male)</WikiTitle> <WikiTitleID>627972</WikiTitleID> <RankerScore>3.826457784459485E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_intersex_surgery</WikiTitle> <WikiTitleID>928084</WikiTitleID> <RankerScore>3.826457784459485E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Breast_implant</WikiTitle> <WikiTitleID>4892591</WikiTitleID> <RankerScore>3.826457784459485E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colectomy</WikiTitle> <WikiTitleID>1883708</WikiTitleID> <RankerScore>3.826457784459485E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coronary_artery_bypass_surgery</WikiTitle> <WikiTitleID>195248</WikiTitleID> <RankerScore>3.826457784459485E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lung_cancer_surgery</WikiTitle> <WikiTitleID>11957814</WikiTitleID> <RankerScore>3.826457784459485E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Corneal_transplantation</WikiTitle> <WikiTitleID>1425134</WikiTitleID> <RankerScore>3.826457784459485E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_surgery</WikiTitle> <WikiTitleID>42048</WikiTitleID> <RankerScore>3.826457784459485E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Veterinary_surgery</WikiTitle> <WikiTitleID>495575</WikiTitleID> <RankerScore>3.826457784459485E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dental_surgery</WikiTitle> <WikiTitleID>982883</WikiTitleID> <RankerScore>3.826457784459485E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery_(male-to-female)</WikiTitle> <WikiTitleID>627982</WikiTitleID> <RankerScore>3.826457784459485E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Decortication_of_lung</WikiTitle> <WikiTitleID>1582910</WikiTitleID> <RankerScore>3.826457784459485E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>difficult</EntitySurfaceForm>
+	<EntityTextStart>875</EntityTextStart>
+	<EntityTextEnd>884</EntityTextEnd>
+	<LinkerScore>7.695800318808704</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dyspnea</WikiTitle>
+		<WikiTitleID>200033</WikiTitleID>
+		<RankerScore>0.5862185824340133</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dyspnea</WikiTitle> <WikiTitleID>200033</WikiTitleID> <RankerScore>0.5862185824340133</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Difficulty</WikiTitle> <WikiTitleID>7639546</WikiTitleID> <RankerScore>0.10125138417391785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Natural_stress</WikiTitle> <WikiTitleID>14697873</WikiTitleID> <RankerScore>0.312530033392069</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>risky</EntitySurfaceForm>
+	<EntityTextStart>889</EntityTextStart>
+	<EntityTextEnd>894</EntityTextEnd>
+	<LinkerScore>4.975990026993342</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Risk</WikiTitle>
+		<WikiTitleID>25617</WikiTitleID>
+		<RankerScore>0.5521303332931435</RankerScore>
+		<Attributes>issue</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Risk</WikiTitle> <WikiTitleID>25617</WikiTitleID> <RankerScore>0.5521303332931435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Financial_risk</WikiTitle> <WikiTitleID>2460491</WikiTitleID> <RankerScore>0.4478696667068565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Financial_risk</WikiTitle> <WikiTitleID>3711365</WikiTitleID> <RankerScore>-0.17036775070138552</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>radio surgery</EntitySurfaceForm>
+	<EntityTextStart>901</EntityTextStart>
+	<EntityTextEnd>914</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Radiosurgery</WikiTitle>
+		<WikiTitleID>1172094</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>treatment	robot</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>radio</EntitySurfaceForm>
+	<EntityTextStart>901</EntityTextStart>
+	<EntityTextEnd>906</EntityTextEnd>
+	<LinkerScore>0.4167361260922142</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Radio</WikiTitle>
+		<WikiTitleID>15368428</WikiTitleID>
+		<RankerScore>0.5417908587096276</RankerScore>
+		<Attributes>invention</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Radio</WikiTitle> <WikiTitleID>15368428</WikiTitleID> <RankerScore>0.5417908587096276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_broadcasting</WikiTitle> <WikiTitleID>173088</WikiTitleID> <RankerScore>0.02443282360023706</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_programming</WikiTitle> <WikiTitleID>103661</WikiTitleID> <RankerScore>0.028301095085670636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_personality</WikiTitle> <WikiTitleID>3206586</WikiTitleID> <RankerScore>0.02385148368261556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Old-time_radio</WikiTitle> <WikiTitleID>82583</WikiTitleID> <RankerScore>0.02385148368261556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_radio</WikiTitle> <WikiTitleID>20841</WikiTitleID> <RankerScore>0.02385148368261556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_frequency</WikiTitle> <WikiTitleID>42852</WikiTitleID> <RankerScore>0.02385148368261556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_advertisement</WikiTitle> <WikiTitleID>3571486</WikiTitleID> <RankerScore>0.02385148368261556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Receiver_(radio)</WikiTitle> <WikiTitleID>491851</WikiTitleID> <RankerScore>0.02385148368261556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_network</WikiTitle> <WikiTitleID>224694</WikiTitleID> <RankerScore>0.02385148368261556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_producer</WikiTitle> <WikiTitleID>2670542</WikiTitleID> <RankerScore>0.02385148368261556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_astronomy</WikiTitle> <WikiTitleID>82961</WikiTitleID> <RankerScore>0.02385148368261556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_drama</WikiTitle> <WikiTitleID>54954</WikiTitleID> <RankerScore>0.02385148368261556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_waves</WikiTitle> <WikiTitleID>98132</WikiTitleID> <RankerScore>0.02385148368261556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_radio_stations_in_Australia</WikiTitle> <WikiTitleID>575787</WikiTitleID> <RankerScore>0.02385148368261556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Airplay</WikiTitle> <WikiTitleID>1986945</WikiTitleID> <RankerScore>0.02385148368261556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Talk_radio</WikiTitle> <WikiTitleID>30077</WikiTitleID> <RankerScore>0.02385148368261556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Radio</WikiTitle> <WikiTitleID>167583</WikiTitleID> <RankerScore>0.02385148368261556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Broadcasting</WikiTitle> <WikiTitleID>113604</WikiTitleID> <RankerScore>0.02385148368261556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Commercial_broadcasting</WikiTitle> <WikiTitleID>1551784</WikiTitleID> <RankerScore>0.02385148368261556</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>surgery</EntitySurfaceForm>
+	<EntityTextStart>907</EntityTextStart>
+	<EntityTextEnd>914</EntityTextEnd>
+	<LinkerScore>1.2809332024119005</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Surgery</WikiTitle>
+		<WikiTitleID>45599</WikiTitleID>
+		<RankerScore>0.993283718198934</RankerScore>
+		<Attributes>obstetrics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Surgery</WikiTitle> <WikiTitleID>45599</WikiTitleID> <RankerScore>0.993283718198934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery</WikiTitle> <WikiTitleID>82385</WikiTitleID> <RankerScore>2.1424668293162244E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neurosurgery</WikiTitle> <WikiTitleID>21848</WikiTitleID> <RankerScore>0.005926200909932929</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery_theory</WikiTitle> <WikiTitleID>5961115</WikiTitleID> <RankerScore>3.3872600482441024E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tommy_John_surgery</WikiTitle> <WikiTitleID>306900</WikiTitleID> <RankerScore>3.3872600482441024E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery_(politics)</WikiTitle> <WikiTitleID>1797711</WikiTitleID> <RankerScore>3.3872600482441024E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intersex_surgery</WikiTitle> <WikiTitleID>927942</WikiTitleID> <RankerScore>3.3872600482441024E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_surgery</WikiTitle> <WikiTitleID>587878</WikiTitleID> <RankerScore>3.3872600482441024E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery_(female-to-male)</WikiTitle> <WikiTitleID>627972</WikiTitleID> <RankerScore>3.3872600482441024E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_intersex_surgery</WikiTitle> <WikiTitleID>928084</WikiTitleID> <RankerScore>3.3872600482441024E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Breast_implant</WikiTitle> <WikiTitleID>4892591</WikiTitleID> <RankerScore>3.3872600482441024E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colectomy</WikiTitle> <WikiTitleID>1883708</WikiTitleID> <RankerScore>3.3872600482441024E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coronary_artery_bypass_surgery</WikiTitle> <WikiTitleID>195248</WikiTitleID> <RankerScore>3.3872600482441024E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lung_cancer_surgery</WikiTitle> <WikiTitleID>11957814</WikiTitleID> <RankerScore>3.3872600482441024E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Corneal_transplantation</WikiTitle> <WikiTitleID>1425134</WikiTitleID> <RankerScore>3.3872600482441024E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_surgery</WikiTitle> <WikiTitleID>42048</WikiTitleID> <RankerScore>3.3872600482441024E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Veterinary_surgery</WikiTitle> <WikiTitleID>495575</WikiTitleID> <RankerScore>3.3872600482441024E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dental_surgery</WikiTitle> <WikiTitleID>982883</WikiTitleID> <RankerScore>3.3872600482441024E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery_(male-to-female)</WikiTitle> <WikiTitleID>627982</WikiTitleID> <RankerScore>3.3872600482441024E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Decortication_of_lung</WikiTitle> <WikiTitleID>1582910</WikiTitleID> <RankerScore>3.3872600482441024E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>step</EntitySurfaceForm>
+	<EntityTextStart>922</EntityTextStart>
+	<EntityTextEnd>926</EntityTextEnd>
+	<LinkerScore>2.6843660551455915</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Step</WikiTitle>
+		<WikiTitleID>426290</WikiTitleID>
+		<RankerScore>0.21371459303129053</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Step</WikiTitle> <WikiTitleID>426290</WikiTitleID> <RankerScore>0.21371459303129053</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Steps_and_skips</WikiTitle> <WikiTitleID>3594213</WikiTitleID> <RankerScore>0.14773338233914712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dance_move</WikiTitle> <WikiTitleID>160240</WikiTitleID> <RankerScore>0.048751627060050616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stairs</WikiTitle> <WikiTitleID>256015</WikiTitleID> <RankerScore>0.06553337750772352</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heaviside_step_function</WikiTitle> <WikiTitleID>87299</WikiTitleID> <RankerScore>0.06553337750772352</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stepping_(African-American)</WikiTitle> <WikiTitleID>2808074</WikiTitleID> <RankerScore>0.06553337750772352</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Key_signature</WikiTitle> <WikiTitleID>17394</WikiTitleID> <RankerScore>0.06553337750772352</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stepfamily</WikiTitle> <WikiTitleID>223979</WikiTitleID> <RankerScore>0.06553337750772352</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reaction_step</WikiTitle> <WikiTitleID>8078684</WikiTitleID> <RankerScore>0.06553337750772352</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dubstep</WikiTitle> <WikiTitleID>2619852</WikiTitleID> <RankerScore>0.06553337750772352</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Step_function</WikiTitle> <WikiTitleID>170939</WikiTitleID> <RankerScore>0.06553337750772352</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Step_dance</WikiTitle> <WikiTitleID>454904</WikiTitleID> <RankerScore>0.06553337750772352</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>controlled</EntitySurfaceForm>
+	<EntityTextStart>930</EntityTextStart>
+	<EntityTextEnd>940</EntityTextEnd>
+	<LinkerScore>-2.325492080261231</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Scientific_control</WikiTitle>
+		<WikiTitleID>1640288</WikiTitleID>
+		<RankerScore>0.4114459072597111</RankerScore>
+		<Attributes>experiment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Scientific_control</WikiTitle> <WikiTitleID>1640288</WikiTitleID> <RankerScore>0.4114459072597111</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Controlled_substance</WikiTitle> <WikiTitleID>2471575</WikiTitleID> <RankerScore>0.05474262500985356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Remote_control</WikiTitle> <WikiTitleID>105803</WikiTitleID> <RankerScore>0.04496499860553989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Tanzania</WikiTitle> <WikiTitleID>30119</WikiTitleID> <RankerScore>0.061105808640611915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flight_controls</WikiTitle> <WikiTitleID>13939199</WikiTitleID> <RankerScore>0.061105808640611915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Urinalysis</WikiTitle> <WikiTitleID>568003</WikiTitleID> <RankerScore>0.061105808640611915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Limited-access_road</WikiTitle> <WikiTitleID>1300026</WikiTitleID> <RankerScore>0.061105808640611915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Control_system</WikiTitle> <WikiTitleID>275473</WikiTitleID> <RankerScore>0.061105808640611915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Controlled_vocabulary</WikiTitle> <WikiTitleID>1850719</WikiTitleID> <RankerScore>0.061105808640611915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Access_control</WikiTitle> <WikiTitleID>40684</WikiTitleID> <RankerScore>0.061105808640611915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Randomized_controlled_trial</WikiTitle> <WikiTitleID>163180</WikiTitleID> <RankerScore>0.061105808640611915</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>computers</EntitySurfaceForm>
+	<EntityTextStart>944</EntityTextStart>
+	<EntityTextEnd>953</EntityTextEnd>
+	<LinkerScore>4.2672101990524975</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Computer</WikiTitle>
+		<WikiTitleID>7878457</WikiTitleID>
+		<RankerScore>0.7466610553201326</RankerScore>
+		<Attributes>computer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Computer</WikiTitle> <WikiTitleID>7878457</WikiTitleID> <RankerScore>0.7466610553201326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Personal_computer</WikiTitle> <WikiTitleID>18457137</WikiTitleID> <RankerScore>0.01680213994918464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Home_computer</WikiTitle> <WikiTitleID>13950</WikiTitleID> <RankerScore>0.010372615119834526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_computer</WikiTitle> <WikiTitleID>3833695</WikiTitleID> <RankerScore>0.01884701580090402</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_industry</WikiTitle> <WikiTitleID>517650</WikiTitleID> <RankerScore>0.01884701580090402</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computational_economics</WikiTitle> <WikiTitleID>1420447</WikiTitleID> <RankerScore>0.01884701580090402</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_camp</WikiTitle> <WikiTitleID>295848</WikiTitleID> <RankerScore>0.01884701580090402</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_chess</WikiTitle> <WikiTitleID>68367</WikiTitleID> <RankerScore>0.01884701580090402</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Whirlwind_(computer)</WikiTitle> <WikiTitleID>78027</WikiTitleID> <RankerScore>0.01884701580090402</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computing</WikiTitle> <WikiTitleID>5213</WikiTitleID> <RankerScore>0.01884701580090402</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Macintosh</WikiTitle> <WikiTitleID>2420</WikiTitleID> <RankerScore>0.01884701580090402</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_monitor</WikiTitle> <WikiTitleID>7677</WikiTitleID> <RankerScore>0.01884701580090402</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dive_computer</WikiTitle> <WikiTitleID>302027</WikiTitleID> <RankerScore>0.01884701580090402</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_recycling</WikiTitle> <WikiTitleID>1664937</WikiTitleID> <RankerScore>0.01884701580090402</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_addiction</WikiTitle> <WikiTitleID>174397</WikiTitleID> <RankerScore>0.01884701580090402</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>patients</EntitySurfaceForm>
+	<EntityTextStart>958</EntityTextStart>
+	<EntityTextEnd>966</EntityTextEnd>
+	<LinkerScore>-0.3697606509129199</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Patient</WikiTitle>
+		<WikiTitleID>437724</WikiTitleID>
+		<RankerScore>0.9823683381702016</RankerScore>
+		<Attributes>terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Patient</WikiTitle> <WikiTitleID>437724</WikiTitleID> <RankerScore>0.9823683381702016</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medical_record</WikiTitle> <WikiTitleID>1107036</WikiTitleID> <RankerScore>0.016711360042057935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Theta_role</WikiTitle> <WikiTitleID>906742</WikiTitleID> <RankerScore>3.687025010398446E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Patient_(grammar)</WikiTitle> <WikiTitleID>1418611</WikiTitleID> <RankerScore>5.515992867005972E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>conscious</EntitySurfaceForm>
+	<EntityTextStart>972</EntityTextStart>
+	<EntityTextEnd>981</EntityTextEnd>
+	<LinkerScore>9.538601134561626</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Consciousness</WikiTitle>
+		<WikiTitleID>5664</WikiTitleID>
+		<RankerScore>0.9861125047641963</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Consciousness</WikiTitle> <WikiTitleID>5664</WikiTitleID> <RankerScore>0.9861125047641963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Political_hip_hop</WikiTitle> <WikiTitleID>4842094</WikiTitleID> <RankerScore>0.0050775136979867635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Subconscious</WikiTitle> <WikiTitleID>1124997</WikiTitleID> <RankerScore>0.003458784439583475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Self-awareness</WikiTitle> <WikiTitleID>422247</WikiTitleID> <RankerScore>0.005351197098233445</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>treatment</EntitySurfaceForm>
+	<EntityTextStart>1003</EntityTextStart>
+	<EntityTextEnd>1012</EntityTextEnd>
+	<LinkerScore>-6.038170268713815</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pharmaceutical_drug</WikiTitle>
+		<WikiTitleID>180121</WikiTitleID>
+		<RankerScore>0.9009002853219841</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Treatment</WikiTitle> <WikiTitleID>197042</WikiTitleID> <RankerScore>0.030201387340879616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Film_treatment</WikiTitle> <WikiTitleID>976560</WikiTitleID> <RankerScore>0.0126253135270187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pharmaceutical_drug</WikiTitle> <WikiTitleID>180121</WikiTitleID> <RankerScore>0.9009002853219841</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sewage_treatment</WikiTitle> <WikiTitleID>16079692</WikiTitleID> <RankerScore>0.0033101772829480887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Therapy</WikiTitle> <WikiTitleID>13311819</WikiTitleID> <RankerScore>0.0033101772829480887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Psychotherapy</WikiTitle> <WikiTitleID>24931</WikiTitleID> <RankerScore>0.0033101772829480887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_treatment</WikiTitle> <WikiTitleID>239926</WikiTitleID> <RankerScore>0.0033101772829480887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tuberculosis_management</WikiTitle> <WikiTitleID>1330683</WikiTitleID> <RankerScore>0.0033101772829480887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Substance_dependence</WikiTitle> <WikiTitleID>102961</WikiTitleID> <RankerScore>0.0033101772829480887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Oncology</WikiTitle> <WikiTitleID>66580</WikiTitleID> <RankerScore>0.0033101772829480887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wood_preservation</WikiTitle> <WikiTitleID>481484</WikiTitleID> <RankerScore>0.0033101772829480887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drug_treatment</WikiTitle> <WikiTitleID>990982</WikiTitleID> <RankerScore>0.0033101772829480887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drug_rehabilitation</WikiTitle> <WikiTitleID>427922</WikiTitleID> <RankerScore>0.0033101772829480887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Autism_therapies</WikiTitle> <WikiTitleID>4078100</WikiTitleID> <RankerScore>0.0033101772829480887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_purification</WikiTitle> <WikiTitleID>214701</WikiTitleID> <RankerScore>0.0033101772829480887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chemotherapy</WikiTitle> <WikiTitleID>7172</WikiTitleID> <RankerScore>0.0033101772829480887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Clinical_psychology</WikiTitle> <WikiTitleID>492271</WikiTitleID> <RankerScore>0.0033101772829480887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lumber</WikiTitle> <WikiTitleID>59399</WikiTitleID> <RankerScore>0.0033101772829480887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chemical_substance</WikiTitle> <WikiTitleID>9722260</WikiTitleID> <RankerScore>0.0033101772829480887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Physical_therapy</WikiTitle> <WikiTitleID>24022</WikiTitleID> <RankerScore>0.0033101772829480887</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>This</EntitySurfaceForm>
+	<EntityTextStart>1017</EntityTextStart>
+	<EntityTextEnd>1021</EntityTextEnd>
+	<LinkerScore>-4.275521458017619</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>This_(Gescom_EP)</WikiTitle>
+		<WikiTitleID>14896497</WikiTitleID>
+		<RankerScore>0.31711976228970556</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>This_(journal)</WikiTitle> <WikiTitleID>4726835</WikiTitleID> <RankerScore>0.27573567377402486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>This</WikiTitle> <WikiTitleID>931481</WikiTitleID> <RankerScore>0.27166554103340557</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>This_(Gescom_EP)</WikiTitle> <WikiTitleID>14896497</WikiTitleID> <RankerScore>0.31711976228970556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Example_of_a_non-associative_algebra</WikiTitle> <WikiTitleID>2394650</WikiTitleID> <RankerScore>0.06773951145143198</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Girga</WikiTitle> <WikiTitleID>3913393</WikiTitleID> <RankerScore>0.06773951145143198</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>technique</EntitySurfaceForm>
+	<EntityTextStart>1026</EntityTextStart>
+	<EntityTextEnd>1035</EntityTextEnd>
+	<LinkerScore>-6.752676879073454</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Technique</WikiTitle>
+		<WikiTitleID>426196</WikiTitleID>
+		<RankerScore>0.28495247142290275</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Technique</WikiTitle> <WikiTitleID>426196</WikiTitleID> <RankerScore>0.28495247142290275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kimarite</WikiTitle> <WikiTitleID>2773330</WikiTitleID> <RankerScore>0.05574242280941264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Musical_technique</WikiTitle> <WikiTitleID>7389142</WikiTitleID> <RankerScore>0.07103641997195931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Literary_technique</WikiTitle> <WikiTitleID>65761</WikiTitleID> <RankerScore>0.0490223904829771</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_judo_techniques</WikiTitle> <WikiTitleID>3941385</WikiTitleID> <RankerScore>0.0490223904829771</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Silvering</WikiTitle> <WikiTitleID>2243850</WikiTitleID> <RankerScore>0.0490223904829771</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fire_breathing</WikiTitle> <WikiTitleID>314667</WikiTitleID> <RankerScore>0.0490223904829771</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cecchetti_method</WikiTitle> <WikiTitleID>376553</WikiTitleID> <RankerScore>0.0490223904829771</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vocal_pedagogy</WikiTitle> <WikiTitleID>7196725</WikiTitleID> <RankerScore>0.0490223904829771</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pizzicato</WikiTitle> <WikiTitleID>50190</WikiTitleID> <RankerScore>0.0490223904829771</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medical_procedure</WikiTitle> <WikiTitleID>8210888</WikiTitleID> <RankerScore>0.0490223904829771</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ballet_technique</WikiTitle> <WikiTitleID>775161</WikiTitleID> <RankerScore>0.0490223904829771</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cue_sports_techniques</WikiTitle> <WikiTitleID>6150292</WikiTitleID> <RankerScore>0.0490223904829771</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scientific_technique</WikiTitle> <WikiTitleID>15305567</WikiTitleID> <RankerScore>0.0490223904829771</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extended_technique</WikiTitle> <WikiTitleID>410014</WikiTitleID> <RankerScore>0.0490223904829771</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>diseases</EntitySurfaceForm>
+	<EntityTextStart>1064</EntityTextStart>
+	<EntityTextEnd>1072</EntityTextEnd>
+	<LinkerScore>1.4674026967520193</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Disease</WikiTitle>
+		<WikiTitleID>8072</WikiTitleID>
+		<RankerScore>0.9310465782959038</RankerScore>
+		<Attributes>transformer	motorcycle</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Disease</WikiTitle> <WikiTitleID>8072</WikiTitleID> <RankerScore>0.9310465782959038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Infectious_disease</WikiTitle> <WikiTitleID>14795</WikiTitleID> <RankerScore>0.06407862513469259</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_pathology</WikiTitle> <WikiTitleID>147484</WikiTitleID> <RankerScore>3.376236272680063E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pandemic</WikiTitle> <WikiTitleID>24255</WikiTitleID> <RankerScore>5.041303269039571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_diseases_of_the_honey_bee</WikiTitle> <WikiTitleID>222937</WikiTitleID> <RankerScore>5.041303269039571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ciliopathy</WikiTitle> <WikiTitleID>18211344</WikiTitleID> <RankerScore>5.041303269039571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbian_Exchange</WikiTitle> <WikiTitleID>622746</WikiTitleID> <RankerScore>5.041303269039571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kidney</WikiTitle> <WikiTitleID>17025</WikiTitleID> <RankerScore>5.041303269039571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Disease</WikiTitle> <WikiTitleID>240401</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_epidemics</WikiTitle> <WikiTitleID>945818</WikiTitleID> <RankerScore>5.041303269039571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tropical_disease</WikiTitle> <WikiTitleID>889672</WikiTitleID> <RankerScore>5.041303269039571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nine_diseases</WikiTitle> <WikiTitleID>6059380</WikiTitleID> <RankerScore>5.041303269039571E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Respiratory_disease</WikiTitle> <WikiTitleID>3055114</WikiTitleID> <RankerScore>5.041303269039571E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Malformation</EntitySurfaceForm>
+	<EntityTextStart>1096</EntityTextStart>
+	<EntityTextEnd>1108</EntityTextEnd>
+	<LinkerScore>4.449648875017527</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Congenital_disorder</WikiTitle>
+		<WikiTitleID>321263</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>disorder</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Congenital_disorder</WikiTitle> <WikiTitleID>321263</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>clotting</EntitySurfaceForm>
+	<EntityTextStart>1117</EntityTextStart>
+	<EntityTextEnd>1125</EntityTextEnd>
+	<LinkerScore>-1.8987582966184569</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Coagulation</WikiTitle>
+		<WikiTitleID>212193</WikiTitleID>
+		<RankerScore>0.6468503073288786</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Coagulation</WikiTitle> <WikiTitleID>212193</WikiTitleID> <RankerScore>0.6468503073288786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thrombus</WikiTitle> <WikiTitleID>183058</WikiTitleID> <RankerScore>0.08477079818258226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thrombosis</WikiTitle> <WikiTitleID>183048</WikiTitleID> <RankerScore>0.26837889448853924</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>veins</EntitySurfaceForm>
+	<EntityTextStart>1131</EntityTextStart>
+	<EntityTextEnd>1136</EntityTextEnd>
+	<LinkerScore>8.929158301475058</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Vein</WikiTitle>
+		<WikiTitleID>53227</WikiTitleID>
+		<RankerScore>0.9902856938581509</RankerScore>
+		<Attributes>vein</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Vein</WikiTitle> <WikiTitleID>53227</WikiTitleID> <RankerScore>0.9902856938581509</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vein_(geology)</WikiTitle> <WikiTitleID>3464580</WikiTitleID> <RankerScore>0.008004963312009146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stratum</WikiTitle> <WikiTitleID>554469</WikiTitleID> <RankerScore>0.0017093428298399172</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>capillaries</EntitySurfaceForm>
+	<EntityTextStart>1147</EntityTextStart>
+	<EntityTextEnd>1158</EntityTextEnd>
+	<LinkerScore>5.128358433172043</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Capillary</WikiTitle>
+		<WikiTitleID>56512</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Capillary</WikiTitle> <WikiTitleID>56512</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>cent</EntitySurfaceForm>
+	<EntityTextStart>1193</EntityTextStart>
+	<EntityTextEnd>1197</EntityTextEnd>
+	<LinkerScore>3.0701927495077874</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cent_(currency)</WikiTitle>
+		<WikiTitleID>269035</WikiTitleID>
+		<RankerScore>0.4812093197799067</RankerScore>
+		<Attributes>sign</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cent_(currency)</WikiTitle> <WikiTitleID>269035</WikiTitleID> <RankerScore>0.4812093197799067</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cent_(music)</WikiTitle> <WikiTitleID>269036</WikiTitleID> <RankerScore>0.11847236430125337</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Penny_(United_States_coin)</WikiTitle> <WikiTitleID>164092</WikiTitleID> <RankerScore>0.05423339119670665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_dollar</WikiTitle> <WikiTitleID>38723</WikiTitleID> <RankerScore>0.05768082078702221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Penny_(Canadian_coin)</WikiTitle> <WikiTitleID>1560173</WikiTitleID> <RankerScore>0.05768082078702221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dutch_guilder</WikiTitle> <WikiTitleID>3055040</WikiTitleID> <RankerScore>0.05768082078702221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indian_Head_cent</WikiTitle> <WikiTitleID>2221172</WikiTitleID> <RankerScore>0.05768082078702221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cent_(unit)</WikiTitle> <WikiTitleID>4577685</WikiTitleID> <RankerScore>0.05768082078702221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lincoln_cent</WikiTitle> <WikiTitleID>1835871</WikiTitleID> <RankerScore>0.05768082078702221</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>radio</EntitySurfaceForm>
+	<EntityTextStart>1205</EntityTextStart>
+	<EntityTextEnd>1210</EntityTextEnd>
+	<LinkerScore>0.30946872975298056</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Radio</WikiTitle>
+		<WikiTitleID>15368428</WikiTitleID>
+		<RankerScore>0.5471047728494882</RankerScore>
+		<Attributes>invention</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Radio</WikiTitle> <WikiTitleID>15368428</WikiTitleID> <RankerScore>0.5471047728494882</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_broadcasting</WikiTitle> <WikiTitleID>173088</WikiTitleID> <RankerScore>0.023581908080496376</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_programming</WikiTitle> <WikiTitleID>103661</WikiTitleID> <RankerScore>0.030443524853828025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_personality</WikiTitle> <WikiTitleID>3206586</WikiTitleID> <RankerScore>0.023462929071540434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Old-time_radio</WikiTitle> <WikiTitleID>82583</WikiTitleID> <RankerScore>0.023462929071540434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_radio</WikiTitle> <WikiTitleID>20841</WikiTitleID> <RankerScore>0.023462929071540434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_frequency</WikiTitle> <WikiTitleID>42852</WikiTitleID> <RankerScore>0.023462929071540434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_advertisement</WikiTitle> <WikiTitleID>3571486</WikiTitleID> <RankerScore>0.023462929071540434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Receiver_(radio)</WikiTitle> <WikiTitleID>491851</WikiTitleID> <RankerScore>0.023462929071540434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_network</WikiTitle> <WikiTitleID>224694</WikiTitleID> <RankerScore>0.023462929071540434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_producer</WikiTitle> <WikiTitleID>2670542</WikiTitleID> <RankerScore>0.023462929071540434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_astronomy</WikiTitle> <WikiTitleID>82961</WikiTitleID> <RankerScore>0.023462929071540434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_drama</WikiTitle> <WikiTitleID>54954</WikiTitleID> <RankerScore>0.023462929071540434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_waves</WikiTitle> <WikiTitleID>98132</WikiTitleID> <RankerScore>0.023462929071540434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_radio_stations_in_Australia</WikiTitle> <WikiTitleID>575787</WikiTitleID> <RankerScore>0.023462929071540434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Airplay</WikiTitle> <WikiTitleID>1986945</WikiTitleID> <RankerScore>0.023462929071540434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Talk_radio</WikiTitle> <WikiTitleID>30077</WikiTitleID> <RankerScore>0.023462929071540434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Radio</WikiTitle> <WikiTitleID>167583</WikiTitleID> <RankerScore>0.023462929071540434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Broadcasting</WikiTitle> <WikiTitleID>113604</WikiTitleID> <RankerScore>0.023462929071540434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Commercial_broadcasting</WikiTitle> <WikiTitleID>1551784</WikiTitleID> <RankerScore>0.023462929071540434</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>radio surgery</EntitySurfaceForm>
+	<EntityTextStart>1205</EntityTextStart>
+	<EntityTextEnd>1218</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Radiosurgery</WikiTitle>
+		<WikiTitleID>1172094</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>treatment	robot</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>surgery</EntitySurfaceForm>
+	<EntityTextStart>1211</EntityTextStart>
+	<EntityTextEnd>1218</EntityTextEnd>
+	<LinkerScore>-2.1071043581524416</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Surgery</WikiTitle>
+		<WikiTitleID>45599</WikiTitleID>
+		<RankerScore>0.9978686326919856</RankerScore>
+		<Attributes>obstetrics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Surgery</WikiTitle> <WikiTitleID>45599</WikiTitleID> <RankerScore>0.9978686326919856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery</WikiTitle> <WikiTitleID>82385</WikiTitleID> <RankerScore>6.149694507425705E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neurosurgery</WikiTitle> <WikiTitleID>21848</WikiTitleID> <RankerScore>0.001898294415203545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery_theory</WikiTitle> <WikiTitleID>5961115</WikiTitleID> <RankerScore>1.0092702808037346E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tommy_John_surgery</WikiTitle> <WikiTitleID>306900</WikiTitleID> <RankerScore>1.0092702808037346E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery_(politics)</WikiTitle> <WikiTitleID>1797711</WikiTitleID> <RankerScore>1.0092702808037346E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intersex_surgery</WikiTitle> <WikiTitleID>927942</WikiTitleID> <RankerScore>1.0092702808037346E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_surgery</WikiTitle> <WikiTitleID>587878</WikiTitleID> <RankerScore>1.0092702808037346E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery_(female-to-male)</WikiTitle> <WikiTitleID>627972</WikiTitleID> <RankerScore>1.0092702808037346E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_intersex_surgery</WikiTitle> <WikiTitleID>928084</WikiTitleID> <RankerScore>1.0092702808037346E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Breast_implant</WikiTitle> <WikiTitleID>4892591</WikiTitleID> <RankerScore>1.0092702808037346E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colectomy</WikiTitle> <WikiTitleID>1883708</WikiTitleID> <RankerScore>1.0092702808037346E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coronary_artery_bypass_surgery</WikiTitle> <WikiTitleID>195248</WikiTitleID> <RankerScore>1.0092702808037346E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lung_cancer_surgery</WikiTitle> <WikiTitleID>11957814</WikiTitleID> <RankerScore>1.0092702808037346E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Corneal_transplantation</WikiTitle> <WikiTitleID>1425134</WikiTitleID> <RankerScore>1.0092702808037346E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_surgery</WikiTitle> <WikiTitleID>42048</WikiTitleID> <RankerScore>1.0092702808037346E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Veterinary_surgery</WikiTitle> <WikiTitleID>495575</WikiTitleID> <RankerScore>1.0092702808037346E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dental_surgery</WikiTitle> <WikiTitleID>982883</WikiTitleID> <RankerScore>1.0092702808037346E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery_(male-to-female)</WikiTitle> <WikiTitleID>627982</WikiTitleID> <RankerScore>1.0092702808037346E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Decortication_of_lung</WikiTitle> <WikiTitleID>1582910</WikiTitleID> <RankerScore>1.0092702808037346E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>treatments</EntitySurfaceForm>
+	<EntityTextStart>1219</EntityTextStart>
+	<EntityTextEnd>1229</EntityTextEnd>
+	<LinkerScore>5.104988042810806</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Medicine</WikiTitle>
+		<WikiTitleID>18957</WikiTitleID>
+		<RankerScore>0.9784159218156869</RankerScore>
+		<Attributes>occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Therapy</WikiTitle> <WikiTitleID>13311819</WikiTitleID> <RankerScore>0.016986633453892085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tensor</WikiTitle> <WikiTitleID>196449</WikiTitleID> <RankerScore>0.001632686324477241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Treatment_of_mental_disorders</WikiTitle> <WikiTitleID>4786873</WikiTitleID> <RankerScore>0.001482379202971944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medicine</WikiTitle> <WikiTitleID>18957</WikiTitleID> <RankerScore>0.9784159218156869</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Film_treatment</WikiTitle> <WikiTitleID>976560</WikiTitleID> <RankerScore>0.001482379202971944</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>patients</EntitySurfaceForm>
+	<EntityTextStart>1255</EntityTextStart>
+	<EntityTextEnd>1263</EntityTextEnd>
+	<LinkerScore>-0.5112450330718201</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Patient</WikiTitle>
+		<WikiTitleID>437724</WikiTitleID>
+		<RankerScore>0.9896452676285211</RankerScore>
+		<Attributes>terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Patient</WikiTitle> <WikiTitleID>437724</WikiTitleID> <RankerScore>0.9896452676285211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medical_record</WikiTitle> <WikiTitleID>1107036</WikiTitleID> <RankerScore>0.00966731541422158</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Theta_role</WikiTitle> <WikiTitleID>906742</WikiTitleID> <RankerScore>2.748611337238721E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Patient_(grammar)</WikiTitle> <WikiTitleID>1418611</WikiTitleID> <RankerScore>4.125558235333572E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>remain</EntitySurfaceForm>
+	<EntityTextStart>1277</EntityTextStart>
+	<EntityTextEnd>1283</EntityTextEnd>
+	<LinkerScore>-4.572336647540107</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Indefinite_leave_to_remain</WikiTitle>
+		<WikiTitleID>7497717</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>document</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Indefinite_leave_to_remain</WikiTitle> <WikiTitleID>7497717</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indefinite_leave_to_remain</WikiTitle> <WikiTitleID>668835</WikiTitleID> <RankerScore>0.0816537462929654</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hospital</EntitySurfaceForm>
+	<EntityTextStart>1287</EntityTextStart>
+	<EntityTextEnd>1295</EntityTextEnd>
+	<LinkerScore>11.197962244720093</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hospital</WikiTitle>
+		<WikiTitleID>67214</WikiTitleID>
+		<RankerScore>0.9493622832126881</RankerScore>
+		<Attributes>hospital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hospital</WikiTitle> <WikiTitleID>67214</WikiTitleID> <RankerScore>0.9493622832126881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bimarestan</WikiTitle> <WikiTitleID>8284152</WikiTitleID> <RankerScore>0.03708663529074835</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stoke_Mandeville_Hospital</WikiTitle> <WikiTitleID>393514</WikiTitleID> <RankerScore>5.597666004631843E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Psychiatric_hospital</WikiTitle> <WikiTitleID>38722</WikiTitleID> <RankerScore>0.00403504928868942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greystone_Park_Psychiatric_Hospital</WikiTitle> <WikiTitleID>3963096</WikiTitleID> <RankerScore>5.597666004631843E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_Hospital</WikiTitle> <WikiTitleID>879734</WikiTitleID> <RankerScore>5.597666004631843E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modbury_Hospital</WikiTitle> <WikiTitleID>13790829</WikiTitleID> <RankerScore>5.597666004631843E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sabbatsbergs_sjukhus</WikiTitle> <WikiTitleID>10109977</WikiTitleID> <RankerScore>5.597666004631843E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hospital_Albert_Schweitzer_Haiti</WikiTitle> <WikiTitleID>11665086</WikiTitleID> <RankerScore>5.597666004631843E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_hospitals_in_Saudi_Arabia</WikiTitle> <WikiTitleID>711236</WikiTitleID> <RankerScore>5.597666004631843E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Robert_Wood_Johnson_University_Hospital</WikiTitle> <WikiTitleID>6739361</WikiTitleID> <RankerScore>5.597666004631843E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Amsterdam_Public_Hospital</WikiTitle> <WikiTitleID>7449722</WikiTitleID> <RankerScore>5.597666004631843E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aga_Khan_University_Hospital,_Nairobi</WikiTitle> <WikiTitleID>7941437</WikiTitleID> <RankerScore>5.597666004631843E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ninewells_Hospital</WikiTitle> <WikiTitleID>7108193</WikiTitleID> <RankerScore>5.597666004631843E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_Medical_Center_Hamburg-Eppendorf</WikiTitle> <WikiTitleID>17464404</WikiTitleID> <RankerScore>5.597666004631843E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Business_locations_in_A_Series_of_Unfortunate_Events</WikiTitle> <WikiTitleID>8090523</WikiTitleID> <RankerScore>5.597666004631843E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Providence_Saint_Joseph_Medical_Center</WikiTitle> <WikiTitleID>10698935</WikiTitleID> <RankerScore>5.597666004631843E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Norway_Regional_Health_Authority</WikiTitle> <WikiTitleID>13725701</WikiTitleID> <RankerScore>5.597666004631843E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Whitgift_Foundation</WikiTitle> <WikiTitleID>1926811</WikiTitleID> <RankerScore>5.597666004631843E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sacred_Heart_Hospital</WikiTitle> <WikiTitleID>6999651</WikiTitleID> <RankerScore>5.597666004631843E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>three days</EntitySurfaceForm>
+	<EntityTextStart>1300</EntityTextStart>
+	<EntityTextEnd>1310</EntityTextEnd>
+	<LinkerScore>-2.7892710732748576</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Three_Days_(1997_film)</WikiTitle>
+		<WikiTitleID>3113234</WikiTitleID>
+		<RankerScore>0.5686782655827418</RankerScore>
+		<Attributes>film</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Three_Days_(1997_film)</WikiTitle> <WikiTitleID>3113234</WikiTitleID> <RankerScore>0.5686782655827418</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_26</WikiTitle> <WikiTitleID>19648</WikiTitleID> <RankerScore>0.4313217344172582</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>days</EntitySurfaceForm>
+	<EntityTextStart>1306</EntityTextStart>
+	<EntityTextEnd>1310</EntityTextEnd>
+	<LinkerScore>-1.896504540578935</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Day</WikiTitle>
+		<WikiTitleID>8376</WikiTitleID>
+		<RankerScore>0.7323722731718565</RankerScore>
+		<Attributes>unit	order</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Day</WikiTitle> <WikiTitleID>8376</WikiTitleID> <RankerScore>0.7323722731718565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Names_of_the_days_of_the_week</WikiTitle> <WikiTitleID>1277350</WikiTitleID> <RankerScore>0.13367923423380043</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Week</WikiTitle> <WikiTitleID>33538</WikiTitleID> <RankerScore>0.13394849259434316</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>patients</EntitySurfaceForm>
+	<EntityTextStart>1347</EntityTextStart>
+	<EntityTextEnd>1355</EntityTextEnd>
+	<LinkerScore>4.461399946124441</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Patient</WikiTitle>
+		<WikiTitleID>437724</WikiTitleID>
+		<RankerScore>0.988760563315742</RankerScore>
+		<Attributes>terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Patient</WikiTitle> <WikiTitleID>437724</WikiTitleID> <RankerScore>0.988760563315742</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medical_record</WikiTitle> <WikiTitleID>1107036</WikiTitleID> <RankerScore>0.010453293892937572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Theta_role</WikiTitle> <WikiTitleID>906742</WikiTitleID> <RankerScore>3.143362941660952E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Patient_(grammar)</WikiTitle> <WikiTitleID>1418611</WikiTitleID> <RankerScore>4.718064971542902E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>shave</EntitySurfaceForm>
+	<EntityTextStart>1359</EntityTextStart>
+	<EntityTextEnd>1364</EntityTextEnd>
+	<LinkerScore>4.515111543898613</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Shave</WikiTitle>
+		<WikiTitleID>223364</WikiTitleID>
+		<RankerScore>0.8151842472668168</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Shave</WikiTitle> <WikiTitleID>223364</WikiTitleID> <RankerScore>0.8151842472668168</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shaving</WikiTitle> <WikiTitleID>155154</WikiTitleID> <RankerScore>0.18481575273318326</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>heads</EntitySurfaceForm>
+	<EntityTextStart>1371</EntityTextStart>
+	<EntityTextEnd>1376</EntityTextEnd>
+	<LinkerScore>-1.6901426558248538</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Head</WikiTitle>
+		<WikiTitleID>1209545</WikiTitleID>
+		<RankerScore>0.2076965828776081</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Head</WikiTitle> <WikiTitleID>1209545</WikiTitleID> <RankerScore>0.2076965828776081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_(linguistics)</WikiTitle> <WikiTitleID>887484</WikiTitleID> <RankerScore>0.0507990483058601</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cylinder_head</WikiTitle> <WikiTitleID>230978</WikiTitleID> <RankerScore>0.04166576243110883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pseudanthium</WikiTitle> <WikiTitleID>1209543</WikiTitleID> <RankerScore>0.05383373895272484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Recording_head</WikiTitle> <WikiTitleID>981575</WikiTitleID> <RankerScore>0.05383373895272484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Disk_read-and-write_head</WikiTitle> <WikiTitleID>67310</WikiTitleID> <RankerScore>0.05383373895272484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_(watercraft)</WikiTitle> <WikiTitleID>1675303</WikiTitleID> <RankerScore>0.05383373895272484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drumhead</WikiTitle> <WikiTitleID>322059</WikiTitleID> <RankerScore>0.05383373895272484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moai</WikiTitle> <WikiTitleID>455038</WikiTitleID> <RankerScore>0.05383373895272484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inflorescence</WikiTitle> <WikiTitleID>63528</WikiTitleID> <RankerScore>0.05383373895272484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iemoto</WikiTitle> <WikiTitleID>5176630</WikiTitleID> <RankerScore>0.05383373895272484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hydraulic_head</WikiTitle> <WikiTitleID>1854369</WikiTitleID> <RankerScore>0.05383373895272484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Zygomasseteric_system</WikiTitle> <WikiTitleID>6110623</WikiTitleID> <RankerScore>0.05383373895272484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Primogeniture</WikiTitle> <WikiTitleID>136535</WikiTitleID> <RankerScore>0.05383373895272484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_masters_of_Gresham&apos;s_School</WikiTitle> <WikiTitleID>10484027</WikiTitleID> <RankerScore>0.05383373895272484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_(vessel)</WikiTitle> <WikiTitleID>9286935</WikiTitleID> <RankerScore>0.05383373895272484</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>radio</EntitySurfaceForm>
+	<EntityTextStart>1381</EntityTextStart>
+	<EntityTextEnd>1386</EntityTextEnd>
+	<LinkerScore>0.6182346146610254</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Radio</WikiTitle>
+		<WikiTitleID>15368428</WikiTitleID>
+		<RankerScore>0.5480350228138795</RankerScore>
+		<Attributes>invention</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Radio</WikiTitle> <WikiTitleID>15368428</WikiTitleID> <RankerScore>0.5480350228138795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_broadcasting</WikiTitle> <WikiTitleID>173088</WikiTitleID> <RankerScore>0.026140917201963144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_programming</WikiTitle> <WikiTitleID>103661</WikiTitleID> <RankerScore>0.029707869787328707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_personality</WikiTitle> <WikiTitleID>3206586</WikiTitleID> <RankerScore>0.02330095236451933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Old-time_radio</WikiTitle> <WikiTitleID>82583</WikiTitleID> <RankerScore>0.02330095236451933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_radio</WikiTitle> <WikiTitleID>20841</WikiTitleID> <RankerScore>0.02330095236451933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_frequency</WikiTitle> <WikiTitleID>42852</WikiTitleID> <RankerScore>0.02330095236451933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_advertisement</WikiTitle> <WikiTitleID>3571486</WikiTitleID> <RankerScore>0.02330095236451933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Receiver_(radio)</WikiTitle> <WikiTitleID>491851</WikiTitleID> <RankerScore>0.02330095236451933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_network</WikiTitle> <WikiTitleID>224694</WikiTitleID> <RankerScore>0.02330095236451933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_producer</WikiTitle> <WikiTitleID>2670542</WikiTitleID> <RankerScore>0.02330095236451933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_astronomy</WikiTitle> <WikiTitleID>82961</WikiTitleID> <RankerScore>0.02330095236451933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_drama</WikiTitle> <WikiTitleID>54954</WikiTitleID> <RankerScore>0.02330095236451933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_waves</WikiTitle> <WikiTitleID>98132</WikiTitleID> <RankerScore>0.02330095236451933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_radio_stations_in_Australia</WikiTitle> <WikiTitleID>575787</WikiTitleID> <RankerScore>0.02330095236451933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Airplay</WikiTitle> <WikiTitleID>1986945</WikiTitleID> <RankerScore>0.02330095236451933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Talk_radio</WikiTitle> <WikiTitleID>30077</WikiTitleID> <RankerScore>0.02330095236451933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Radio</WikiTitle> <WikiTitleID>167583</WikiTitleID> <RankerScore>0.02330095236451933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Broadcasting</WikiTitle> <WikiTitleID>113604</WikiTitleID> <RankerScore>0.02330095236451933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Commercial_broadcasting</WikiTitle> <WikiTitleID>1551784</WikiTitleID> <RankerScore>0.02330095236451933</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>radio surgery</EntitySurfaceForm>
+	<EntityTextStart>1381</EntityTextStart>
+	<EntityTextEnd>1394</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Radiosurgery</WikiTitle>
+		<WikiTitleID>1172094</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>treatment	robot</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>surgery</EntitySurfaceForm>
+	<EntityTextStart>1387</EntityTextStart>
+	<EntityTextEnd>1394</EntityTextEnd>
+	<LinkerScore>4.806450138596101</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Surgery</WikiTitle>
+		<WikiTitleID>45599</WikiTitleID>
+		<RankerScore>0.9929489979136782</RankerScore>
+		<Attributes>obstetrics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Surgery</WikiTitle> <WikiTitleID>45599</WikiTitleID> <RankerScore>0.9929489979136782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery</WikiTitle> <WikiTitleID>82385</WikiTitleID> <RankerScore>1.916909183519256E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neurosurgery</WikiTitle> <WikiTitleID>21848</WikiTitleID> <RankerScore>0.006369824526971958</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery_theory</WikiTitle> <WikiTitleID>5961115</WikiTitleID> <RankerScore>2.879333182340642E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tommy_John_surgery</WikiTitle> <WikiTitleID>306900</WikiTitleID> <RankerScore>2.879333182340642E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery_(politics)</WikiTitle> <WikiTitleID>1797711</WikiTitleID> <RankerScore>2.879333182340642E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intersex_surgery</WikiTitle> <WikiTitleID>927942</WikiTitleID> <RankerScore>2.879333182340642E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_surgery</WikiTitle> <WikiTitleID>587878</WikiTitleID> <RankerScore>2.879333182340642E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery_(female-to-male)</WikiTitle> <WikiTitleID>627972</WikiTitleID> <RankerScore>2.879333182340642E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_intersex_surgery</WikiTitle> <WikiTitleID>928084</WikiTitleID> <RankerScore>2.879333182340642E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Breast_implant</WikiTitle> <WikiTitleID>4892591</WikiTitleID> <RankerScore>2.879333182340642E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colectomy</WikiTitle> <WikiTitleID>1883708</WikiTitleID> <RankerScore>2.879333182340642E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coronary_artery_bypass_surgery</WikiTitle> <WikiTitleID>195248</WikiTitleID> <RankerScore>2.879333182340642E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lung_cancer_surgery</WikiTitle> <WikiTitleID>11957814</WikiTitleID> <RankerScore>2.879333182340642E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Corneal_transplantation</WikiTitle> <WikiTitleID>1425134</WikiTitleID> <RankerScore>2.879333182340642E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_surgery</WikiTitle> <WikiTitleID>42048</WikiTitleID> <RankerScore>2.879333182340642E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Veterinary_surgery</WikiTitle> <WikiTitleID>495575</WikiTitleID> <RankerScore>2.879333182340642E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dental_surgery</WikiTitle> <WikiTitleID>982883</WikiTitleID> <RankerScore>2.879333182340642E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery_(male-to-female)</WikiTitle> <WikiTitleID>627982</WikiTitleID> <RankerScore>2.879333182340642E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Decortication_of_lung</WikiTitle> <WikiTitleID>1582910</WikiTitleID> <RankerScore>2.879333182340642E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>scar</EntitySurfaceForm>
+	<EntityTextStart>1405</EntityTextStart>
+	<EntityTextEnd>1409</EntityTextEnd>
+	<LinkerScore>6.200374681856532</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Scar</WikiTitle>
+		<WikiTitleID>77668</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>ending</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Scar</WikiTitle> <WikiTitleID>77668</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>little</EntitySurfaceForm>
+	<EntityTextStart>1411</EntityTextStart>
+	<EntityTextEnd>1417</EntityTextEnd>
+	<LinkerScore>-6.201347023100511</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Little</WikiTitle>
+		<WikiTitleID>6986454</WikiTitleID>
+		<RankerScore>0.344939641878611</RankerScore>
+		<Attributes>surname</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Little</WikiTitle> <WikiTitleID>6986454</WikiTitleID> <RankerScore>0.344939641878611</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diminutive</WikiTitle> <WikiTitleID>505892</WikiTitleID> <RankerScore>0.14010003316548406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Little_Econlockhatchee_River</WikiTitle> <WikiTitleID>9167793</WikiTitleID> <RankerScore>0.18831814790617013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Little_Owl</WikiTitle> <WikiTitleID>200421</WikiTitleID> <RankerScore>0.16332108852486743</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Little_finger</WikiTitle> <WikiTitleID>950991</WikiTitleID> <RankerScore>0.16332108852486743</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>blood loss</EntitySurfaceForm>
+	<EntityTextStart>1418</EntityTextStart>
+	<EntityTextEnd>1428</EntityTextEnd>
+	<LinkerScore>3.972496492445016</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bleeding</WikiTitle>
+		<WikiTitleID>146315</WikiTitleID>
+		<RankerScore>0.8885264548672887</RankerScore>
+		<Attributes>emergency</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bleeding</WikiTitle> <WikiTitleID>146315</WikiTitleID> <RankerScore>0.8885264548672887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_gastrointestinal_bleeding</WikiTitle> <WikiTitleID>540100</WikiTitleID> <RankerScore>0.11147354513271143</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>blood</EntitySurfaceForm>
+	<EntityTextStart>1418</EntityTextStart>
+	<EntityTextEnd>1423</EntityTextEnd>
+	<LinkerScore>11.201291749085616</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Blood</WikiTitle>
+		<WikiTitleID>3997</WikiTitleID>
+		<RankerScore>0.9503673845415795</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Blood</WikiTitle> <WikiTitleID>3997</WikiTitleID> <RankerScore>0.9503673845415795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blood_test</WikiTitle> <WikiTitleID>336557</WikiTitleID> <RankerScore>0.005555738844123368</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Circulatory_system</WikiTitle> <WikiTitleID>57330</WikiTitleID> <RankerScore>0.013646541784098779</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blood_of_Christ</WikiTitle> <WikiTitleID>5223729</WikiTitleID> <RankerScore>0.0017900196958940155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blood_donation</WikiTitle> <WikiTitleID>505536</WikiTitleID> <RankerScore>0.0017900196958940155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blood_vessel</WikiTitle> <WikiTitleID>48530</WikiTitleID> <RankerScore>0.0017900196958940155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blood_as_food</WikiTitle> <WikiTitleID>11633366</WikiTitleID> <RankerScore>0.0017900196958940155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leukemia</WikiTitle> <WikiTitleID>18539</WikiTitleID> <RankerScore>0.0017900196958940155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blood_knot</WikiTitle> <WikiTitleID>383390</WikiTitleID> <RankerScore>0.0017900196958940155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blood_alcohol_content</WikiTitle> <WikiTitleID>4845</WikiTitleID> <RankerScore>0.0017900196958940155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blood_culture</WikiTitle> <WikiTitleID>1250090</WikiTitleID> <RankerScore>0.0017900196958940155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hematophagy</WikiTitle> <WikiTitleID>2177545</WikiTitleID> <RankerScore>0.0017900196958940155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hemothorax</WikiTitle> <WikiTitleID>2166658</WikiTitleID> <RankerScore>0.0017900196958940155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bleeding</WikiTitle> <WikiTitleID>146315</WikiTitleID> <RankerScore>0.0017900196958940155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blood_agent</WikiTitle> <WikiTitleID>1095283</WikiTitleID> <RankerScore>0.0017900196958940155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blood_transfusion</WikiTitle> <WikiTitleID>88857</WikiTitleID> <RankerScore>0.0017900196958940155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Venipuncture</WikiTitle> <WikiTitleID>234819</WikiTitleID> <RankerScore>0.0017900196958940155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Serology</WikiTitle> <WikiTitleID>1063406</WikiTitleID> <RankerScore>0.0017900196958940155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blood_fetishism</WikiTitle> <WikiTitleID>3554440</WikiTitleID> <RankerScore>0.0017900196958940155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_blood_cell</WikiTitle> <WikiTitleID>144480</WikiTitleID> <RankerScore>0.0017900196958940155</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>loss</EntitySurfaceForm>
+	<EntityTextStart>1424</EntityTextStart>
+	<EntityTextEnd>1428</EntityTextEnd>
+	<LinkerScore>5.076832716416068</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Loss</WikiTitle>
+		<WikiTitleID>41969</WikiTitleID>
+		<RankerScore>0.24193636422452036</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Loss</WikiTitle> <WikiTitleID>41969</WikiTitleID> <RankerScore>0.24193636422452036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Win–loss_record_(pitching)</WikiTitle> <WikiTitleID>6969090</WikiTitleID> <RankerScore>0.09070463174351932</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Loss_function</WikiTitle> <WikiTitleID>442137</WikiTitleID> <RankerScore>0.05069595495632982</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grief</WikiTitle> <WikiTitleID>234798</WikiTitleID> <RankerScore>0.04743561915966388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Win–loss_record_(pitching)</WikiTitle> <WikiTitleID>300785</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deafness</WikiTitle> <WikiTitleID>49604</WikiTitleID> <RankerScore>0.04743561915966388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extinction</WikiTitle> <WikiTitleID>49417</WikiTitleID> <RankerScore>0.04743561915966388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Weight_loss</WikiTitle> <WikiTitleID>400199</WikiTitleID> <RankerScore>0.04743561915966388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Time_War_(Doctor_Who)</WikiTitle> <WikiTitleID>2150520</WikiTitleID> <RankerScore>0.04743561915966388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Habitat_destruction</WikiTitle> <WikiTitleID>1707053</WikiTitleID> <RankerScore>0.04743561915966388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Muscle_atrophy</WikiTitle> <WikiTitleID>5308641</WikiTitleID> <RankerScore>0.04743561915966388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coupling_loss</WikiTitle> <WikiTitleID>2888093</WikiTitleID> <RankerScore>0.04743561915966388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Space_Shuttle_Challenger_disaster</WikiTitle> <WikiTitleID>403717</WikiTitleID> <RankerScore>0.04743561915966388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Attenuation</WikiTitle> <WikiTitleID>40735</WikiTitleID> <RankerScore>0.04743561915966388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Larry_Holmes_vs._Gerry_Cooney</WikiTitle> <WikiTitleID>439771</WikiTitleID> <RankerScore>0.04743561915966388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deficit</WikiTitle> <WikiTitleID>312605</WikiTitleID> <RankerScore>0.04743561915966388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Income_statement</WikiTitle> <WikiTitleID>312893</WikiTitleID> <RankerScore>0.04743561915966388</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>contact</EntitySurfaceForm>
+	<EntityTextStart>1471</EntityTextStart>
+	<EntityTextEnd>1478</EntityTextEnd>
+	<LinkerScore>-0.08185267728064716</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Contact</WikiTitle>
+		<WikiTitleID>317955</WikiTitleID>
+		<RankerScore>0.11975082152305662</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Contact</WikiTitle> <WikiTitleID>317955</WikiTitleID> <RankerScore>0.11975082152305662</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Contact_(law)</WikiTitle> <WikiTitleID>4146263</WikiTitleID> <RankerScore>0.07731190704891672</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Language_contact</WikiTitle> <WikiTitleID>1361149</WikiTitleID> <RankerScore>0.049938102459260295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sparśa</WikiTitle> <WikiTitleID>4958151</WikiTitleID> <RankerScore>0.10380383699838255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Contact_(mathematics)</WikiTitle> <WikiTitleID>396068</WikiTitleID> <RankerScore>0.049938102459260295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_contact</WikiTitle> <WikiTitleID>81805</WikiTitleID> <RankerScore>0.049938102459260295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Contact_(amateur_radio)</WikiTitle> <WikiTitleID>4866258</WikiTitleID> <RankerScore>0.049938102459260295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_contact_(science_fiction)</WikiTitle> <WikiTitleID>2052562</WikiTitleID> <RankerScore>0.049938102459260295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Contact_geometry</WikiTitle> <WikiTitleID>476398</WikiTitleID> <RankerScore>0.049938102459260295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Contact_force</WikiTitle> <WikiTitleID>2053742</WikiTitleID> <RankerScore>0.049938102459260295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Social_network</WikiTitle> <WikiTitleID>6949837</WikiTitleID> <RankerScore>0.049938102459260295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1642</WikiTitle> <WikiTitleID>34587</WikiTitleID> <RankerScore>0.049938102459260295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Negiah</WikiTitle> <WikiTitleID>1548471</WikiTitleID> <RankerScore>0.049938102459260295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Interpersonal_relationship</WikiTitle> <WikiTitleID>161744</WikiTitleID> <RankerScore>0.049938102459260295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maceration_(wine)</WikiTitle> <WikiTitleID>1455948</WikiTitleID> <RankerScore>0.049938102459260295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Contact_print</WikiTitle> <WikiTitleID>742431</WikiTitleID> <RankerScore>0.049938102459260295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_contact_(anthropology)</WikiTitle> <WikiTitleID>1244968</WikiTitleID> <RankerScore>0.049938102459260295</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the hospital</EntitySurfaceForm>
+	<EntityTextStart>1479</EntityTextStart>
+	<EntityTextEnd>1491</EntityTextEnd>
+	<LinkerScore>8.726685841786244</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sacred_Heart_Hospital</WikiTitle>
+		<WikiTitleID>6999651</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sacred_Heart_Hospital</WikiTitle> <WikiTitleID>6999651</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hospital</EntitySurfaceForm>
+	<EntityTextStart>1483</EntityTextStart>
+	<EntityTextEnd>1491</EntityTextEnd>
+	<LinkerScore>6.8041371015192365</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hospital</WikiTitle>
+		<WikiTitleID>67214</WikiTitleID>
+		<RankerScore>0.919580948151769</RankerScore>
+		<Attributes>hospital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hospital</WikiTitle> <WikiTitleID>67214</WikiTitleID> <RankerScore>0.919580948151769</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bimarestan</WikiTitle> <WikiTitleID>8284152</WikiTitleID> <RankerScore>0.06756309550385767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stoke_Mandeville_Hospital</WikiTitle> <WikiTitleID>393514</WikiTitleID> <RankerScore>6.217912690052197E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Psychiatric_hospital</WikiTitle> <WikiTitleID>38722</WikiTitleID> <RankerScore>0.002285504771284582</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greystone_Park_Psychiatric_Hospital</WikiTitle> <WikiTitleID>3963096</WikiTitleID> <RankerScore>6.217912690052197E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_Hospital</WikiTitle> <WikiTitleID>879734</WikiTitleID> <RankerScore>6.217912690052197E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modbury_Hospital</WikiTitle> <WikiTitleID>13790829</WikiTitleID> <RankerScore>6.217912690052197E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sabbatsbergs_sjukhus</WikiTitle> <WikiTitleID>10109977</WikiTitleID> <RankerScore>6.217912690052197E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hospital_Albert_Schweitzer_Haiti</WikiTitle> <WikiTitleID>11665086</WikiTitleID> <RankerScore>6.217912690052197E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_hospitals_in_Saudi_Arabia</WikiTitle> <WikiTitleID>711236</WikiTitleID> <RankerScore>6.217912690052197E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Robert_Wood_Johnson_University_Hospital</WikiTitle> <WikiTitleID>6739361</WikiTitleID> <RankerScore>6.217912690052197E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Amsterdam_Public_Hospital</WikiTitle> <WikiTitleID>7449722</WikiTitleID> <RankerScore>6.217912690052197E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aga_Khan_University_Hospital,_Nairobi</WikiTitle> <WikiTitleID>7941437</WikiTitleID> <RankerScore>6.217912690052197E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ninewells_Hospital</WikiTitle> <WikiTitleID>7108193</WikiTitleID> <RankerScore>6.217912690052197E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_Medical_Center_Hamburg-Eppendorf</WikiTitle> <WikiTitleID>17464404</WikiTitleID> <RankerScore>6.217912690052197E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Business_locations_in_A_Series_of_Unfortunate_Events</WikiTitle> <WikiTitleID>8090523</WikiTitleID> <RankerScore>6.217912690052197E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Providence_Saint_Joseph_Medical_Center</WikiTitle> <WikiTitleID>10698935</WikiTitleID> <RankerScore>6.217912690052197E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Norway_Regional_Health_Authority</WikiTitle> <WikiTitleID>13725701</WikiTitleID> <RankerScore>6.217912690052197E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Whitgift_Foundation</WikiTitle> <WikiTitleID>1926811</WikiTitleID> <RankerScore>6.217912690052197E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sacred_Heart_Hospital</WikiTitle> <WikiTitleID>6999651</WikiTitleID> <RankerScore>6.217912690052197E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

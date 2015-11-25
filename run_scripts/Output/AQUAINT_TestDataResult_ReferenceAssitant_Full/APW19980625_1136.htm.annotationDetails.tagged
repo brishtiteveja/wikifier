@@ -1,0 +1,568 @@
+<ANNOTATION>
+   Report: Plane robbed by  <b>gunmen</b> in  <a class="wiki" href="http://en.wikipedia.org/wiki/Nigeria" cat="member	state	nation	colony	country">Nigerian</a>   <b>airport</b><br><br> An   <a class="wiki" href="http://en.wikipedia.org/wiki/Air_Afrique" cat="airline	member">Air Afrique</a>      <a class="wiki" href="http://en.wikipedia.org/wiki/Boeing" cat="manufacturer	company	contractor">Boeing</a>   -727 jet was the third passenger  <b>liner</b> looted in the past month by  <b>armed robbers</b> while awaiting  <b>takeoff</b> at   <a class="wiki" href="http://en.wikipedia.org/wiki/Nigeria" cat="member	state	nation	colony	country">Nigeria</a> 's  <b>largest international airport</b>  , the   <a class="wiki" href="http://en.wikipedia.org/wiki/Lagos" cat="city	capital	place">Lagos</a>      <a class="wiki" href="http://en.wikipedia.org/wiki/The_Guardian" cat="list	newspaper	source">Guardian newspaper</a>    reported on Thursday. <br><br> The thieves broke into the  <b>aircraft</b>'s  <b>luggage</b>  <b>compartment</b> and escaped with a large quantity of  <b>baggage</b> as the  <b>plane</b> was awaiting permission to take off from the  <a class="wiki" href="http://en.wikipedia.org/wiki/Lagos" cat="city	capital	place">Lagos</a>   <b>international airport</b>  <b>control tower</b> around 9 p.m. on  <b>Tuesday</b> night,  <a class="wiki" href="http://en.wikipedia.org/wiki/The_Guardian" cat="list	newspaper	source">the Guardian</a>  said. It was not clear where the  <b>airliner</b> was destined. <br><br> There was no immediate  <b>confirmation</b> of the report. <br><br> The plane's  <b>captain</b>, who noticed the  <b>theft</b>, sent a   <b>distress call</b>   that  <b>went</b> unanswered by  <b>airport</b> officials.   <b>Security</b>   personnel on duty later said said they were unable to capture the culprits because their only  <b>security vehicle</b> had been taken away for  <b>routine maintenance</b>. <br><br> In another incident last week involving an unidentified passenger  <b>jet</b>, landing gear worth dlrs 1 million was stripped from while the plane was waiting to take off, the newspaper said. In May, a   <a class="wiki" href="http://en.wikipedia.org/wiki/Cameroon_Airlines" cat="airline	member">Cameroon Airlines</a>    plane was robbed of its  <b>luggage</b> after armed  <b>thieves</b> blocked the  <b>plane</b> on the   <b>tarmac</b>   with a large log. <br><br> The robberies came despite orders from  <b>airport security</b> officials to shoot suspected thieves on  <b>sight</b>. <br><br>   <a class="wiki" href="http://en.wikipedia.org/wiki/Nigeria" cat="member	state	nation	colony	country">Nigeria</a>   ,  <a class="wiki" href="http://en.wikipedia.org/wiki/Africa" cat="">Africa</a> 's most populous country, has a notoriously high rate of   <b>violent crime</b>  accompanied by a breakdown of  <b>law and order</b> under years of military rule. <br><br> (fa-gam) <br><br>
+</ANNOTATION>
+*Entity:[gunmen,textSpan=(27-33)]	-Disambiguation:(tid=3122760, Title name=Gunman) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Nigerian,textSpan=(37-45)]	-Disambiguation:(tid=21383, Title name=Nigeria) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airport,textSpan=(46-53)]	-Disambiguation:(tid=37575, Title name=Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Air Afrique,textSpan=(60-71)]	-Disambiguation:(tid=2108164, Title name=Air_Afrique) gold wikification:=Air_Afrique isCorrectPrediction=Correct
+*Entity:[Boeing,textSpan=(75-81)]	-Disambiguation:(tid=3709, Title name=Boeing) gold wikification:=Boeing isCorrectPrediction=Correct
+*Entity:[the third,textSpan=(96-105)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[passenger,textSpan=(106-115)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[passenger liner,textSpan=(106-121)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[liner,textSpan=(116-121)]	-Disambiguation:(tid=319558, Title name=Ocean_liner) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the past,textSpan=(132-140)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[past,textSpan=(136-140)]	-Disambiguation:(tid=758833, Title name=Past) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[month,textSpan=(141-146)]	-Disambiguation:(tid=20354, Title name=Month) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[armed robbers,textSpan=(150-163)]	-Disambiguation:(tid=54849, Title name=Robbery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[armed,textSpan=(150-155)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[robbers,textSpan=(156-163)]	-Disambiguation:(tid=54849, Title name=Robbery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[takeoff,textSpan=(179-186)]	-Disambiguation:(tid=165096, Title name=Takeoff) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Nigeria,textSpan=(191-198)]	-Disambiguation:(tid=21383, Title name=Nigeria) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[largest,textSpan=(201-208)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[largest international airport,textSpan=(201-230)]	-Disambiguation:(tid=265702, Title name=Auckland_Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[international airport,textSpan=(209-230)]	-Disambiguation:(tid=1519705, Title name=International_airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[international,textSpan=(209-222)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airport,textSpan=(223-230)]	-Disambiguation:(tid=37575, Title name=Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lagos,textSpan=(239-244)]	-Disambiguation:(tid=85232, Title name=Lagos) gold wikification:=Lagos isCorrectPrediction=Correct
+*Entity:[Guardian newspaper,textSpan=(248-266)]	-Disambiguation:(tid=46973, Title name=The_Guardian) gold wikification:=The_Guardian_(Nigeria) isCorrectPrediction=Incorrect
+*Entity:[Thursday,textSpan=(281-289)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The thieves,textSpan=(294-305)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[thieves,textSpan=(298-305)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[aircraft,textSpan=(321-329)]	-Disambiguation:(tid=849, Title name=Aircraft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[luggage compartment,textSpan=(332-351)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[luggage,textSpan=(332-339)]	-Disambiguation:(tid=979665, Title name=Baggage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[compartment,textSpan=(340-351)]	-Disambiguation:(tid=11307865, Title name=Compartment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[large,textSpan=(371-376)]	-Disambiguation:(tid=187750, Title name=Large_numbers) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[quantity,textSpan=(377-385)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[baggage,textSpan=(389-396)]	-Disambiguation:(tid=979665, Title name=Baggage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the plane,textSpan=(400-409)]	-Disambiguation:(tid=84029, Title name=Plane_(geometry)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plane,textSpan=(404-409)]	-Disambiguation:(tid=46770, Title name=Fixed-wing_aircraft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[permission,textSpan=(423-433)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lagos,textSpan=(455-460)]	-Disambiguation:(tid=85232, Title name=Lagos) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[international,textSpan=(461-474)]	-Disambiguation:(tid=3741372, Title name=International) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[international airport,textSpan=(461-482)]	-Disambiguation:(tid=1519705, Title name=International_airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airport,textSpan=(475-482)]	-Disambiguation:(tid=37575, Title name=Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airport control tower,textSpan=(475-496)]	-Disambiguation:(tid=1395991, Title name=Air_traffic_control) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[control tower,textSpan=(483-496)]	-Disambiguation:(tid=1395991, Title name=Air_traffic_control) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[control,textSpan=(483-490)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tower,textSpan=(491-496)]	-Disambiguation:(tid=1395991, Title name=Air_traffic_control) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[p.m.,textSpan=(506-510)]	-Disambiguation:(tid=241267, Title name=12-hour_clock) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Tuesday,textSpan=(514-521)]	-Disambiguation:(tid=54635, Title name=Tuesday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[night,textSpan=(522-527)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the Guardian,textSpan=(529-541)]	-Disambiguation:(tid=46973, Title name=The_Guardian) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Guardian,textSpan=(533-541)]	-Disambiguation:(tid=46973, Title name=The_Guardian) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[It,textSpan=(548-550)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airliner,textSpan=(575-583)]	-Disambiguation:(tid=51215, Title name=Airliner) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[destined,textSpan=(588-596)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[There,textSpan=(601-606)]	-Disambiguation:(tid=463437, Title name=There) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[immediate,textSpan=(614-623)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[confirmation,textSpan=(624-636)]	-Disambiguation:(tid=217733, Title name=Confirmation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the report,textSpan=(640-650)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[report,textSpan=(644-650)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The plane,textSpan=(655-664)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plane,textSpan=(659-664)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[captain,textSpan=(667-674)]	-Disambiguation:(tid=166852, Title name=Captain) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the theft,textSpan=(688-697)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[theft,textSpan=(692-697)]	-Disambiguation:(tid=31287, Title name=Theft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[distress call,textSpan=(707-720)]	-Disambiguation:(tid=303507, Title name=Distress_signal) gold wikification:=Distress_signal isCorrectPrediction=Correct
+*Entity:[went,textSpan=(728-732)]	-Disambiguation:(tid=5773695, Title name=Went) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airport,textSpan=(747-754)]	-Disambiguation:(tid=37575, Title name=Airport) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[officials,textSpan=(755-764)]	-Disambiguation:(tid=725182, Title name=Official) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Security,textSpan=(767-775)]	-Disambiguation:(tid=41684, Title name=Security) gold wikification:=Airport_security isCorrectPrediction=Incorrect
+*Entity:[duty,textSpan=(791-795)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[said,textSpan=(802-806)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[said,textSpan=(807-811)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[capture,textSpan=(832-839)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[security vehicle,textSpan=(872-888)]	-Disambiguation:(tid=3658264, Title name=Internal_security_vehicle) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[security,textSpan=(872-880)]	-Disambiguation:(tid=41684, Title name=Security) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[vehicle,textSpan=(881-888)]	-Disambiguation:(tid=32410, Title name=Vehicle) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[had been,textSpan=(889-897)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[taken,textSpan=(898-903)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[routine,textSpan=(913-920)]	-Disambiguation:(tid=232802, Title name=Routine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[routine maintenance,textSpan=(913-932)]	-Disambiguation:(tid=3658264, Title name=Planned_maintenance) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[maintenance,textSpan=(921-932)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[incident,textSpan=(948-956)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[week,textSpan=(962-966)]	-Disambiguation:(tid=33538, Title name=Week) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[unidentified,textSpan=(980-992)]	-Disambiguation:(tid=31814, Title name=Unidentified_flying_object) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[passenger jet,textSpan=(993-1006)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[passenger,textSpan=(993-1002)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[jet,textSpan=(1003-1006)]	-Disambiguation:(tid=164656, Title name=Jet_aircraft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[landing,textSpan=(1008-1015)]	-Disambiguation:(tid=230159, Title name=Landing) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[landing gear,textSpan=(1008-1020)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gear,textSpan=(1016-1020)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[worth,textSpan=(1021-1026)]	-Disambiguation:(tid=4095185, Title name=Value_(economics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1 million,textSpan=(1032-1041)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[stripped,textSpan=(1046-1054)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the plane,textSpan=(1066-1075)]	-Disambiguation:(tid=84029, Title name=Plane_(geometry)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plane,textSpan=(1070-1075)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[waiting,textSpan=(1080-1087)]	-Disambiguation:(tid=309917, Title name=Waiting_staff) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the newspaper,textSpan=(1101-1114)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[newspaper,textSpan=(1105-1114)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[May,textSpan=(1124-1127)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cameroon Airlines,textSpan=(1132-1149)]	-Disambiguation:(tid=1459639, Title name=Cameroon_Airlines) gold wikification:=Cameroon_Airlines isCorrectPrediction=Correct
+*Entity:[robbed,textSpan=(1162-1168)]	-Disambiguation:(tid=54849, Title name=Robbery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[luggage,textSpan=(1176-1183)]	-Disambiguation:(tid=979665, Title name=Baggage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[armed,textSpan=(1190-1195)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[thieves,textSpan=(1196-1203)]	-Disambiguation:(tid=31287, Title name=Theft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the plane,textSpan=(1212-1221)]	-Disambiguation:(tid=84029, Title name=Plane_(geometry)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plane,textSpan=(1216-1221)]	-Disambiguation:(tid=46770, Title name=Fixed-wing_aircraft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tarmac,textSpan=(1230-1236)]	-Disambiguation:(tid=167921, Title name=Tarmac) gold wikification:=Tarmac isCorrectPrediction=Correct
+*Entity:[large,textSpan=(1246-1251)]	-Disambiguation:(tid=187750, Title name=Large_numbers) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[log,textSpan=(1252-1255)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[robberies,textSpan=(1264-1273)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[orders,textSpan=(1287-1293)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airport,textSpan=(1299-1306)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[airport security,textSpan=(1299-1315)]	-Disambiguation:(tid=284770, Title name=Airport_security) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[security,textSpan=(1307-1315)]	-Disambiguation:(tid=41684, Title name=Security) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[officials,textSpan=(1316-1325)]	-Disambiguation:(tid=725182, Title name=Official) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[shoot,textSpan=(1329-1334)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[suspected,textSpan=(1335-1344)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[thieves,textSpan=(1345-1352)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sight,textSpan=(1356-1361)]	-Disambiguation:(tid=159265, Title name=Sight) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Nigeria , Africa's,textSpan=(1367-1386)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Nigeria,textSpan=(1367-1374)]	-Disambiguation:(tid=21383, Title name=Nigeria) gold wikification:=Nigeria isCorrectPrediction=Correct
+*Entity:[Africa,textSpan=(1378-1384)]	-Disambiguation:(tid=5334607, Title name=Africa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[populous,textSpan=(1392-1400)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[country,textSpan=(1401-1408)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[notoriously high,textSpan=(1416-1432)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[high,textSpan=(1428-1432)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rate,textSpan=(1433-1437)]	-Disambiguation:(tid=10618616, Title name=Rate) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[violent crime,textSpan=(1442-1455)]	-Disambiguation:(tid=273381, Title name=Violent_crime) gold wikification:=Violent_crime isCorrectPrediction=Correct
+*Entity:[violent,textSpan=(1442-1449)]	-Disambiguation:(tid=273381, Title name=Violent_crime) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[crime,textSpan=(1450-1455)]	-Disambiguation:(tid=5785, Title name=Crime) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[breakdown,textSpan=(1474-1483)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[law and order,textSpan=(1487-1500)]	-Disambiguation:(tid=23627, Title name=Police) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[law,textSpan=(1487-1490)]	-Disambiguation:(tid=17538, Title name=Law) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[order,textSpan=(1495-1500)]	-Disambiguation:(tid=53580, Title name=Order) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[years,textSpan=(1507-1512)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[military rule,textSpan=(1516-1529)]	-Disambiguation:(tid=146728, Title name=Military_dictatorship) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[military,textSpan=(1516-1524)]	-Disambiguation:(tid=92357, Title name=Military) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rule,textSpan=(1525-1529)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'gunmen' start in text:27 end in text: 33; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Nigerian' start in text:37 end in text: 45; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airport' start in text:46 end in text: 53; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Air Afrique' start in text:60 end in text: 71; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Boeing' start in text:75 end in text: 81; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the third' start in text:96 end in text: 105; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'passenger' start in text:106 end in text: 115; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'passenger liner' start in text:106 end in text: 121; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'liner' start in text:116 end in text: 121; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the past' start in text:132 end in text: 140; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'past' start in text:136 end in text: 140; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'month' start in text:141 end in text: 146; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'armed robbers' start in text:150 end in text: 163; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'armed' start in text:150 end in text: 155; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'robbers' start in text:156 end in text: 163; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'takeoff' start in text:179 end in text: 186; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Nigeria' start in text:191 end in text: 198; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'largest' start in text:201 end in text: 208; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'largest international airport' start in text:201 end in text: 230; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'international airport' start in text:209 end in text: 230; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'international' start in text:209 end in text: 222; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airport' start in text:223 end in text: 230; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lagos' start in text:239 end in text: 244; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Guardian newspaper' start in text:248 end in text: 266; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thursday' start in text:281 end in text: 289; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The thieves' start in text:294 end in text: 305; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'thieves' start in text:298 end in text: 305; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'aircraft' start in text:321 end in text: 329; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'luggage compartment' start in text:332 end in text: 351; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'luggage' start in text:332 end in text: 339; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'compartment' start in text:340 end in text: 351; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'large' start in text:371 end in text: 376; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'quantity' start in text:377 end in text: 385; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'baggage' start in text:389 end in text: 396; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the plane' start in text:400 end in text: 409; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plane' start in text:404 end in text: 409; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'permission' start in text:423 end in text: 433; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lagos' start in text:455 end in text: 460; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'international' start in text:461 end in text: 474; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'international airport' start in text:461 end in text: 482; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airport' start in text:475 end in text: 482; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airport control tower' start in text:475 end in text: 496; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'control tower' start in text:483 end in text: 496; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'control' start in text:483 end in text: 490; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tower' start in text:491 end in text: 496; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'p.m.' start in text:506 end in text: 510; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Tuesday' start in text:514 end in text: 521; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'night' start in text:522 end in text: 527; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the Guardian' start in text:529 end in text: 541; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Guardian' start in text:533 end in text: 541; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'It' start in text:548 end in text: 550; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airliner' start in text:575 end in text: 583; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'destined' start in text:588 end in text: 596; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'There' start in text:601 end in text: 606; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'immediate' start in text:614 end in text: 623; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'confirmation' start in text:624 end in text: 636; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the report' start in text:640 end in text: 650; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'report' start in text:644 end in text: 650; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The plane' start in text:655 end in text: 664; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'plane' start in text:659 end in text: 664; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'captain' start in text:667 end in text: 674; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the theft' start in text:688 end in text: 697; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'theft' start in text:692 end in text: 697; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'distress call' start in text:707 end in text: 720; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'went' start in text:728 end in text: 732; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'airport' start in text:747 end in text: 754; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'officials' start in text:755 end in text: 764; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Security' start in text:767 end in text: 775; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'duty' start in text:791 end in text: 795; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'said' start in text:802 end in text: 806; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'said' start in text:807 end in text: 811; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'capture' start in text:832 end in text: 839; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'security vehicle' start in text:872 end in text: 888; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'security' start in text:872 end in text: 880; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'vehicle' start in text:881 end in text: 888; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'had been' start in text:889 end in text: 897; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'taken' start in text:898 end in text: 903; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'routine' start in text:913 end in text: 920; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'routine maintenance' start in text:913 end in text: 932; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'maintenance' start in text:921 end in text: 932; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'incident' start in text:948 end in text: 956; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'week' start in text:962 end in text: 966; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'unidentified' start in text:980 end in text: 992; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'passenger jet' start in text:993 end in text: 1006; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'passenger' start in text:993 end in text: 1002; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'jet' start in text:1003 end in text: 1006; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'landing' start in text:1008 end in text: 1015; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'landing gear' start in text:1008 end in text: 1020; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gear' start in text:1016 end in text: 1020; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'worth' start in text:1021 end in text: 1026; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1 million' start in text:1032 end in text: 1041; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'stripped' start in text:1046 end in text: 1054; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the plane' start in text:1066 end in text: 1075; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plane' start in text:1070 end in text: 1075; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'waiting' start in text:1080 end in text: 1087; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the newspaper' start in text:1101 end in text: 1114; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'newspaper' start in text:1105 end in text: 1114; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'May' start in text:1124 end in text: 1127; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cameroon Airlines' start in text:1132 end in text: 1149; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'robbed' start in text:1162 end in text: 1168; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'luggage' start in text:1176 end in text: 1183; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'armed' start in text:1190 end in text: 1195; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'thieves' start in text:1196 end in text: 1203; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the plane' start in text:1212 end in text: 1221; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plane' start in text:1216 end in text: 1221; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tarmac' start in text:1230 end in text: 1236; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'large' start in text:1246 end in text: 1251; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'log' start in text:1252 end in text: 1255; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'robberies' start in text:1264 end in text: 1273; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'orders' start in text:1287 end in text: 1293; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airport' start in text:1299 end in text: 1306; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'airport security' start in text:1299 end in text: 1315; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'security' start in text:1307 end in text: 1315; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'officials' start in text:1316 end in text: 1325; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shoot' start in text:1329 end in text: 1334; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'suspected' start in text:1335 end in text: 1344; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'thieves' start in text:1345 end in text: 1352; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sight' start in text:1356 end in text: 1361; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Nigeria , Africa's' start in text:1367 end in text: 1386; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Nigeria' start in text:1367 end in text: 1374; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Africa' start in text:1378 end in text: 1384; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'populous' start in text:1392 end in text: 1400; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'country' start in text:1401 end in text: 1408; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'notoriously high' start in text:1416 end in text: 1432; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'high' start in text:1428 end in text: 1432; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rate' start in text:1433 end in text: 1437; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'violent crime' start in text:1442 end in text: 1455; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'violent' start in text:1442 end in text: 1449; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'crime' start in text:1450 end in text: 1455; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'breakdown' start in text:1474 end in text: 1483; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'law and order' start in text:1487 end in text: 1500; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'law' start in text:1487 end in text: 1490; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'order' start in text:1495 end in text: 1500; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'years' start in text:1507 end in text: 1512; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'military rule' start in text:1516 end in text: 1529; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'military' start in text:1516 end in text: 1524; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rule' start in text:1525 end in text: 1529; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

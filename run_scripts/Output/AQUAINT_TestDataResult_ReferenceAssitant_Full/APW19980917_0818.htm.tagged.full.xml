@@ -1,0 +1,3353 @@
+<WikifierOutput>
+<InputFilename>
+APW19980917_0818.htm
+</InputFilename>
+<InputText>
+   Cult  guru  &apos;s lawyers lash at prosecutors, court
+
+ Attorneys for a  cult   guru accused of murder in the  nerve gas   attack on  Tokyo   subways denounced his trial Thursday as &quot;unfair&apos;&apos; because some of the prosecutors&apos; charges are contradicted by testimony from their own witnesses. 
+
+  Shoko Asahara  , the leader of the  Aum Shinri Kyo   cult, is on trial on 17 charges in the March 20, 1995  sarin attack   that killed 12 people and sickened thousands. 
+
+ Other cult leaders have also been charged in the  gassing   as well as in other slayings. 
+
+ Osamu Watanabe, Asahara&apos;s chief  defense   lawyer, said the trial should not be allowed to go on. 
+
+ &quot;We must wonder why such abnormal and unfair proceedings are tolerated. The court has been negligent,&apos;&apos; Watanabe told the  Tokyo District Court  . 
+
+ The prosecutors say Asahara, accused of masterminding the subway gassing, decided on the attack on March 18, 1995 while riding in a car with his followers. 
+
+ But Watanabe pointed out that top cultist Yoshihiro Inoue, a key witness for the  prosecution , told the court that Asahara was still undecided on the timing of the attack at that time. Inoue quoted Asahara as saying that he needed to meditate about it. 
+
+ Last April, the defense raised similar objections, but the prosecutors refused to change their statement. (cw) 
+
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>guru</EntitySurfaceForm>
+	<EntityTextStart>9</EntityTextStart>
+	<EntityTextEnd>13</EntityTextEnd>
+	<LinkerScore>4.962475939005213</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Guru</WikiTitle>
+		<WikiTitleID>167936</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>dispute	teacher	words	terms	path	arts	title	guru</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Guru</WikiTitle> <WikiTitleID>167936</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>lawyers</EntitySurfaceForm>
+	<EntityTextStart>18</EntityTextStart>
+	<EntityTextEnd>25</EntityTextEnd>
+	<LinkerScore>5.970090473574384</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lawyer</WikiTitle>
+		<WikiTitleID>17541</WikiTitleID>
+		<RankerScore>0.8801490910682216</RankerScore>
+		<Attributes>ethics	profession	lawyer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lawyer</WikiTitle> <WikiTitleID>17541</WikiTitleID> <RankerScore>0.8801490910682216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Attorney_at_law</WikiTitle> <WikiTitleID>168902</WikiTitleID> <RankerScore>0.03943138322983445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barrister</WikiTitle> <WikiTitleID>4848</WikiTitleID> <RankerScore>0.059464751823159565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Category</WikiTitle> <WikiTitleID>144425</WikiTitleID> <RankerScore>0.005238693469696094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law</WikiTitle> <WikiTitleID>17538</WikiTitleID> <RankerScore>0.005238693469696094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judge_Advocate_General&apos;s_Corps</WikiTitle> <WikiTitleID>697388</WikiTitleID> <RankerScore>0.005238693469696094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_the_United_States</WikiTitle> <WikiTitleID>77749</WikiTitleID> <RankerScore>0.005238693469696094</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>prosecutors</EntitySurfaceForm>
+	<EntityTextStart>34</EntityTextStart>
+	<EntityTextEnd>45</EntityTextEnd>
+	<LinkerScore>5.239035197230859</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prosecutor</WikiTitle>
+		<WikiTitleID>440936</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>profession	prosecutor	occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prosecutor</WikiTitle> <WikiTitleID>440936</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>court</EntitySurfaceForm>
+	<EntityTextStart>47</EntityTextStart>
+	<EntityTextEnd>52</EntityTextEnd>
+	<LinkerScore>10.247962189064506</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Court</WikiTitle>
+		<WikiTitleID>75358</WikiTitleID>
+		<RankerScore>0.9785694344507742</RankerScore>
+		<Attributes>court</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Court</WikiTitle> <WikiTitleID>75358</WikiTitleID> <RankerScore>0.9785694344507742</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Court_(royal)</WikiTitle> <WikiTitleID>229718</WikiTitleID> <RankerScore>0.005165716116177371</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_court</WikiTitle> <WikiTitleID>30311</WikiTitleID> <RankerScore>5.863805445494108E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Basketball_court</WikiTitle> <WikiTitleID>679837</WikiTitleID> <RankerScore>9.2226287579406E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Courtship</WikiTitle> <WikiTitleID>411659</WikiTitleID> <RankerScore>9.2226287579406E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Courtyard</WikiTitle> <WikiTitleID>83942</WikiTitleID> <RankerScore>9.2226287579406E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Courts_of_Scotland</WikiTitle> <WikiTitleID>1651295</WikiTitleID> <RankerScore>9.2226287579406E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Courts_of_England_and_Wales</WikiTitle> <WikiTitleID>240527</WikiTitleID> <RankerScore>9.2226287579406E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_supreme_court</WikiTitle> <WikiTitleID>28945</WikiTitleID> <RankerScore>9.2226287579406E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judiciary</WikiTitle> <WikiTitleID>59564</WikiTitleID> <RankerScore>9.2226287579406E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Courts_of_the_Republic_of_Ireland</WikiTitle> <WikiTitleID>670507</WikiTitleID> <RankerScore>9.2226287579406E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Court_order</WikiTitle> <WikiTitleID>153237</WikiTitleID> <RankerScore>9.2226287579406E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_Court_of_Justice</WikiTitle> <WikiTitleID>87187</WikiTitleID> <RankerScore>9.2226287579406E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Imperial_Court_in_Kyoto</WikiTitle> <WikiTitleID>347649</WikiTitleID> <RankerScore>9.2226287579406E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alter_Hof</WikiTitle> <WikiTitleID>5237052</WikiTitleID> <RankerScore>9.2226287579406E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trial_court</WikiTitle> <WikiTitleID>306967</WikiTitleID> <RankerScore>9.2226287579406E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Curia</WikiTitle> <WikiTitleID>26538</WikiTitleID> <RankerScore>9.2226287579406E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Oregon_Supreme_Court</WikiTitle> <WikiTitleID>527090</WikiTitleID> <RankerScore>9.2226287579406E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curia_regis</WikiTitle> <WikiTitleID>1709402</WikiTitleID> <RankerScore>9.2226287579406E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trial</WikiTitle> <WikiTitleID>3276812</WikiTitleID> <RankerScore>9.2226287579406E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Attorneys</EntitySurfaceForm>
+	<EntityTextStart>55</EntityTextStart>
+	<EntityTextEnd>64</EntityTextEnd>
+	<LinkerScore>5.129965236967873</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Attorney_at_law</WikiTitle>
+		<WikiTitleID>168902</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>title	lawyer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Attorney_at_law</WikiTitle> <WikiTitleID>168902</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>cult</EntitySurfaceForm>
+	<EntityTextStart>72</EntityTextStart>
+	<EntityTextEnd>76</EntityTextEnd>
+	<LinkerScore>11.364984593944216</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cult</WikiTitle>
+		<WikiTitleID>1008588</WikiTitleID>
+		<RankerScore>0.9505848634077728</RankerScore>
+		<Attributes>terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cult</WikiTitle> <WikiTitleID>1008588</WikiTitleID> <RankerScore>0.9505848634077728</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cult_film</WikiTitle> <WikiTitleID>5645</WikiTitleID> <RankerScore>0.006710993996663055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cult_(religious_practice)</WikiTitle> <WikiTitleID>593135</WikiTitleID> <RankerScore>0.018114194866643927</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cult_following</WikiTitle> <WikiTitleID>839756</WikiTitleID> <RankerScore>0.0035128496755600165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christian_cult</WikiTitle> <WikiTitleID>1602579</WikiTitleID> <RankerScore>0.0035128496755600165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cult</WikiTitle> <WikiTitleID>1594370</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cthulhu_Mythos_cults</WikiTitle> <WikiTitleID>2711907</WikiTitleID> <RankerScore>0.0035128496755600165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Order_(Silent_Hill)</WikiTitle> <WikiTitleID>4812084</WikiTitleID> <RankerScore>0.0035128496755600165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Veneration</WikiTitle> <WikiTitleID>185441</WikiTitleID> <RankerScore>0.0035128496755600165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cult_wine</WikiTitle> <WikiTitleID>5337736</WikiTitleID> <RankerScore>0.0035128496755600165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sol_Invictus</WikiTitle> <WikiTitleID>1214754</WikiTitleID> <RankerScore>0.0035128496755600165</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>murder</EntitySurfaceForm>
+	<EntityTextStart>95</EntityTextStart>
+	<EntityTextEnd>101</EntityTextEnd>
+	<LinkerScore>0.020352591696355837</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Murder</WikiTitle>
+		<WikiTitleID>20171</WikiTitleID>
+		<RankerScore>0.6698083338234483</RankerScore>
+		<Attributes>dispute	cause</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Murder</WikiTitle> <WikiTitleID>20171</WikiTitleID> <RankerScore>0.6698083338234483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Murder_in_English_law</WikiTitle> <WikiTitleID>3768697</WikiTitleID> <RankerScore>0.27373888702727683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Contract_killing</WikiTitle> <WikiTitleID>250879</WikiTitleID> <RankerScore>0.0029002348849500106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Death_of_Joseph_Smith</WikiTitle> <WikiTitleID>9045538</WikiTitleID> <RankerScore>0.003825181733166058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homicide</WikiTitle> <WikiTitleID>123451</WikiTitleID> <RankerScore>0.003825181733166058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Child_murder</WikiTitle> <WikiTitleID>258834</WikiTitleID> <RankerScore>0.003825181733166058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Poisoning_of_Alexander_Litvinenko</WikiTitle> <WikiTitleID>8257215</WikiTitleID> <RankerScore>0.003825181733166058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crime_fiction</WikiTitle> <WikiTitleID>86025</WikiTitleID> <RankerScore>0.003825181733166058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soham_murders</WikiTitle> <WikiTitleID>405617</WikiTitleID> <RankerScore>0.003825181733166058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reagan_assassination_attempt</WikiTitle> <WikiTitleID>1564200</WikiTitleID> <RankerScore>0.003825181733166058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culpable_homicide</WikiTitle> <WikiTitleID>1346530</WikiTitleID> <RankerScore>0.003825181733166058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parker–Hulme_murder_case</WikiTitle> <WikiTitleID>176822</WikiTitleID> <RankerScore>0.003825181733166058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Filicide</WikiTitle> <WikiTitleID>338435</WikiTitleID> <RankerScore>0.003825181733166058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Felony_murder_rule</WikiTitle> <WikiTitleID>14622665</WikiTitleID> <RankerScore>0.003825181733166058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mass_murder</WikiTitle> <WikiTitleID>72819</WikiTitleID> <RankerScore>0.003825181733166058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Murder_on_the_Orient_Express</WikiTitle> <WikiTitleID>162770</WikiTitleID> <RankerScore>0.003825181733166058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_Desmond_Taylor</WikiTitle> <WikiTitleID>579545</WikiTitleID> <RankerScore>0.003825181733166058</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>nerve gas</EntitySurfaceForm>
+	<EntityTextStart>110</EntityTextStart>
+	<EntityTextEnd>119</EntityTextEnd>
+	<LinkerScore>1.4811925841294484</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sarin</WikiTitle>
+		<WikiTitleID>66390</WikiTitleID>
+		<RankerScore>0.6951702497131083</RankerScore>
+		<Attributes>agent	inhibitor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Nerve_agent</WikiTitle> <WikiTitleID>21710</WikiTitleID> <RankerScore>0.30482975028689185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sarin</WikiTitle> <WikiTitleID>66390</WikiTitleID> <RankerScore>0.6951702497131083</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Tokyo</EntitySurfaceForm>
+	<EntityTextStart>133</EntityTextStart>
+	<EntityTextEnd>138</EntityTextEnd>
+	<LinkerScore>6.585862145411337</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tokyo</WikiTitle>
+		<WikiTitleID>30057</WikiTitleID>
+		<RankerScore>0.6512550149455542</RankerScore>
+		<Attributes>place	game	city	capital	settlement	prefecture</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tokyo</WikiTitle> <WikiTitleID>30057</WikiTitleID> <RankerScore>0.6512550149455542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tokyo_Station</WikiTitle> <WikiTitleID>364805</WikiTitleID> <RankerScore>0.034065890140383914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Toray_Pan_Pacific_Open_Tennis_Tournament</WikiTitle> <WikiTitleID>3845850</WikiTitleID> <RankerScore>0.017713278351109734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1964_Summer_Olympics</WikiTitle> <WikiTitleID>83238</WikiTitleID> <RankerScore>0.013553362945196481</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tokyo_Stock_Exchange</WikiTitle> <WikiTitleID>191354</WikiTitleID> <RankerScore>0.017713278351109734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Tokyo</WikiTitle> <WikiTitleID>11688300</WikiTitleID> <RankerScore>0.017713278351109734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tokyo_(novel)</WikiTitle> <WikiTitleID>3800855</WikiTitleID> <RankerScore>0.017713278351109734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tokyo_International_Film_Festival</WikiTitle> <WikiTitleID>2947456</WikiTitleID> <RankerScore>0.017713278351109734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bombing_of_Tokyo</WikiTitle> <WikiTitleID>68455</WikiTitleID> <RankerScore>0.017713278351109734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tokyo_(Yui_song)</WikiTitle> <WikiTitleID>3769660</WikiTitleID> <RankerScore>0.017713278351109734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tokyo_bid_for_the_2016_Summer_Olympics</WikiTitle> <WikiTitleID>12650497</WikiTitleID> <RankerScore>0.017713278351109734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tokyo_Racecourse</WikiTitle> <WikiTitleID>2308310</WikiTitleID> <RankerScore>0.017713278351109734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Tokyo</WikiTitle> <WikiTitleID>166215</WikiTitleID> <RankerScore>0.017713278351109734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tokyo!</WikiTitle> <WikiTitleID>18357891</WikiTitleID> <RankerScore>0.017713278351109734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tokyo_String_Quartet</WikiTitle> <WikiTitleID>1650971</WikiTitleID> <RankerScore>0.017713278351109734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Narita_International_Airport</WikiTitle> <WikiTitleID>253110</WikiTitleID> <RankerScore>0.017713278351109734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1991_World_Championships_in_Athletics</WikiTitle> <WikiTitleID>794905</WikiTitleID> <RankerScore>0.017713278351109734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japan_Open_Tennis_Championships</WikiTitle> <WikiTitleID>2824091</WikiTitleID> <RankerScore>0.017713278351109734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tokyo_(Athlete_song)</WikiTitle> <WikiTitleID>13571148</WikiTitleID> <RankerScore>0.017713278351109734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Haneda_Airport</WikiTitle> <WikiTitleID>267843</WikiTitleID> <RankerScore>0.017713278351109734</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>his trial</EntitySurfaceForm>
+	<EntityTextStart>159</EntityTextStart>
+	<EntityTextEnd>168</EntityTextEnd>
+	<LinkerScore>3.6063605225760176</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Trial_of_Michael_Jackson</WikiTitle>
+		<WikiTitleID>951581</WikiTitleID>
+		<RankerScore>0.993613096315921</RankerScore>
+		<Attributes>trial</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Trial_of_Michael_Jackson</WikiTitle> <WikiTitleID>951581</WikiTitleID> <RankerScore>0.993613096315921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Einsatzgruppen_Trial</WikiTitle> <WikiTitleID>1433404</WikiTitleID> <RankerScore>0.006386903684078961</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>trial</EntitySurfaceForm>
+	<EntityTextStart>163</EntityTextStart>
+	<EntityTextEnd>168</EntityTextEnd>
+	<LinkerScore>8.709850453457811</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Trial</WikiTitle>
+		<WikiTitleID>3276812</WikiTitleID>
+		<RankerScore>0.9989314275624788</RankerScore>
+		<Attributes>trial</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Trial</WikiTitle> <WikiTitleID>3276812</WikiTitleID> <RankerScore>0.9989314275624788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jury_trial</WikiTitle> <WikiTitleID>16367</WikiTitleID> <RankerScore>6.970840835335307E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Clinical_trial</WikiTitle> <WikiTitleID>241717</WikiTitleID> <RankerScore>1.1852525982449296E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trial_court</WikiTitle> <WikiTitleID>306967</WikiTitleID> <RankerScore>1.699954122859378E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Criminal_procedure</WikiTitle> <WikiTitleID>37297</WikiTitleID> <RankerScore>1.1852525982449296E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sanhedrin_trial_of_Jesus</WikiTitle> <WikiTitleID>5109370</WikiTitleID> <RankerScore>1.1852525982449296E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>O._J._Simpson_murder_case</WikiTitle> <WikiTitleID>3883945</WikiTitleID> <RankerScore>1.1852525982449296E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trial_of_Saddam_Hussein</WikiTitle> <WikiTitleID>2943846</WikiTitleID> <RankerScore>1.1852525982449296E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Evaluation</WikiTitle> <WikiTitleID>62433</WikiTitleID> <RankerScore>1.1852525982449296E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trial_of_Socrates</WikiTitle> <WikiTitleID>30337</WikiTitleID> <RankerScore>1.1852525982449296E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grammatical_number</WikiTitle> <WikiTitleID>42296</WikiTitleID> <RankerScore>1.1852525982449296E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sheepdog_trial</WikiTitle> <WikiTitleID>189302</WikiTitleID> <RankerScore>1.1852525982449296E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indictment_and_arrest_of_Augusto_Pinochet</WikiTitle> <WikiTitleID>6674238</WikiTitleID> <RankerScore>1.1852525982449296E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Game_demo</WikiTitle> <WikiTitleID>1989124</WikiTitleID> <RankerScore>1.1852525982449296E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trial_of_Michael_Jackson</WikiTitle> <WikiTitleID>951581</WikiTitleID> <RankerScore>1.1852525982449296E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Court-martial</WikiTitle> <WikiTitleID>58625</WikiTitleID> <RankerScore>1.1852525982449296E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Galileo_affair</WikiTitle> <WikiTitleID>3362809</WikiTitleID> <RankerScore>1.1852525982449296E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nuremberg_Trials</WikiTitle> <WikiTitleID>21875</WikiTitleID> <RankerScore>1.1852525982449296E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Court_of_Justice_for_the_trial_of_Charles_I</WikiTitle> <WikiTitleID>9806510</WikiTitleID> <RankerScore>1.1852525982449296E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Commonwealth_of_Pennsylvania_v._Mumia_Abu-Jamal</WikiTitle> <WikiTitleID>15251425</WikiTitleID> <RankerScore>1.1852525982449296E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Thursday</EntitySurfaceForm>
+	<EntityTextStart>169</EntityTextStart>
+	<EntityTextEnd>177</EntityTextEnd>
+	<LinkerScore>-0.07323769905608746</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Thursday_(band)</WikiTitle>
+		<WikiTitleID>266139</WikiTitleID>
+		<RankerScore>0.6113500169308154</RankerScore>
+		<Attributes>artist	group</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Thursday_(band)</WikiTitle> <WikiTitleID>266139</WikiTitleID> <RankerScore>0.6113500169308154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thursday</WikiTitle> <WikiTitleID>54633</WikiTitleID> <RankerScore>0.2269713991906376</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thursday_(film)</WikiTitle> <WikiTitleID>1254902</WikiTitleID> <RankerScore>0.09277566215589861</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>October_5</WikiTitle> <WikiTitleID>22536</WikiTitleID> <RankerScore>0.03445146086132423</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thursday_Next</WikiTitle> <WikiTitleID>1117954</WikiTitleID> <RankerScore>0.03445146086132423</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>contradicted</EntitySurfaceForm>
+	<EntityTextStart>236</EntityTextStart>
+	<EntityTextEnd>248</EntityTextEnd>
+	<LinkerScore>-1.8853346555885977</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Contradiction</WikiTitle>
+		<WikiTitleID>75807</WikiTitleID>
+		<RankerScore>0.5428776892684187</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Contradiction</WikiTitle> <WikiTitleID>75807</WikiTitleID> <RankerScore>0.5428776892684187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Retroactive_continuity</WikiTitle> <WikiTitleID>26400</WikiTitleID> <RankerScore>0.4571223107315812</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>testimony</EntitySurfaceForm>
+	<EntityTextStart>252</EntityTextStart>
+	<EntityTextEnd>261</EntityTextEnd>
+	<LinkerScore>6.350877109538193</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Testimony</WikiTitle>
+		<WikiTitleID>75696</WikiTitleID>
+		<RankerScore>0.9522821618501223</RankerScore>
+		<Attributes>dispute	source</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Testimony</WikiTitle> <WikiTitleID>75696</WikiTitleID> <RankerScore>0.9522821618501223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deposition_(law)</WikiTitle> <WikiTitleID>51697</WikiTitleID> <RankerScore>0.004300159111638663</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Philosophical_problems_of_testimony</WikiTitle> <WikiTitleID>1564475</WikiTitleID> <RankerScore>0.003785100466894061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Report_to_Congress_on_the_Situation_in_Iraq</WikiTitle> <WikiTitleID>13210883</WikiTitleID> <RankerScore>0.003785100466894061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Expert_witness</WikiTitle> <WikiTitleID>10115</WikiTitleID> <RankerScore>0.03584747810445098</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>their own</EntitySurfaceForm>
+	<EntityTextStart>267</EntityTextStart>
+	<EntityTextEnd>276</EntityTextEnd>
+	<LinkerScore>-0.07810506724478117</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dodge</WikiTitle>
+		<WikiTitleID>42969</WikiTitleID>
+		<RankerScore>0.5450864807730147</RankerScore>
+		<Attributes>manufacturer	company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Serbian_Liberal_Party</WikiTitle> <WikiTitleID>2032733</WikiTitleID> <RankerScore>0.27833819460056464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dodge</WikiTitle> <WikiTitleID>42969</WikiTitleID> <RankerScore>0.5450864807730147</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tuareg_languages</WikiTitle> <WikiTitleID>148223</WikiTitleID> <RankerScore>0.17657532462642064</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>witnesses</EntitySurfaceForm>
+	<EntityTextStart>277</EntityTextStart>
+	<EntityTextEnd>286</EntityTextEnd>
+	<LinkerScore>4.11323037624388</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Witness</WikiTitle>
+		<WikiTitleID>50956</WikiTitleID>
+		<RankerScore>0.9977634219591007</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Witness</WikiTitle> <WikiTitleID>50956</WikiTitleID> <RankerScore>0.9977634219591007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Three_Witnesses</WikiTitle> <WikiTitleID>1384826</WikiTitleID> <RankerScore>0.0014399966214222058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Textual_criticism</WikiTitle> <WikiTitleID>155023</WikiTitleID> <RankerScore>7.965814194770593E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Shoko Asahara</EntitySurfaceForm>
+	<EntityTextStart>292</EntityTextStart>
+	<EntityTextEnd>305</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Shoko_Asahara</WikiTitle>
+		<WikiTitleID>98970</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	leaders	prisoner	buddhist	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Shoko_Asahara</WikiTitle> <WikiTitleID>98970</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Shoko</EntitySurfaceForm>
+	<EntityTextStart>292</EntityTextStart>
+	<EntityTextEnd>297</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Shoko_Asahara</WikiTitle>
+		<WikiTitleID>98970</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	leaders	prisoner	buddhist	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Emperor_Shōkō</WikiTitle> <WikiTitleID>47163</WikiTitleID> <RankerScore>0.45750827522498977</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shoko</WikiTitle> <WikiTitleID>317296</WikiTitleID> <RankerScore>0.41437661051017577</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Benchō</WikiTitle> <WikiTitleID>18248777</WikiTitleID> <RankerScore>0.12811511426483452</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Asahara</EntitySurfaceForm>
+	<EntityTextStart>298</EntityTextStart>
+	<EntityTextEnd>305</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Shoko_Asahara</WikiTitle>
+		<WikiTitleID>98970</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	leaders	prisoner	buddhist	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the leader</EntitySurfaceForm>
+	<EntityTextStart>309</EntityTextStart>
+	<EntityTextEnd>319</EntityTextEnd>
+	<LinkerScore>1.5894107117571639</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Supreme_Leader_of_Iran</WikiTitle>
+		<WikiTitleID>415728</WikiTitleID>
+		<RankerScore>0.5252808419965282</RankerScore>
+		<Attributes>leaders	list	role	position</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Supreme_Leader_of_Iran</WikiTitle> <WikiTitleID>415728</WikiTitleID> <RankerScore>0.5252808419965282</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vladimir_Lenin</WikiTitle> <WikiTitleID>11015252</WikiTitleID> <RankerScore>0.47471915800347164</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>leader</EntitySurfaceForm>
+	<EntityTextStart>313</EntityTextStart>
+	<EntityTextEnd>319</EntityTextEnd>
+	<LinkerScore>2.701190102615424</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Leadership</WikiTitle>
+		<WikiTitleID>130918</WikiTitleID>
+		<RankerScore>0.25105127054394943</RankerScore>
+		<Attributes>terms	position	study	laws</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Leadership</WikiTitle> <WikiTitleID>130918</WikiTitleID> <RankerScore>0.25105127054394943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bandleader</WikiTitle> <WikiTitleID>445398</WikiTitleID> <RankerScore>0.03205289886755081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flotilla_leader</WikiTitle> <WikiTitleID>1341214</WikiTitleID> <RankerScore>0.027267703667372727</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lead_and_follow</WikiTitle> <WikiTitleID>18491</WikiTitleID> <RankerScore>0.040566360407125114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lead_vocalist</WikiTitle> <WikiTitleID>624074</WikiTitleID> <RankerScore>0.040566360407125114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Concertmaster</WikiTitle> <WikiTitleID>915354</WikiTitleID> <RankerScore>0.040566360407125114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Editorial</WikiTitle> <WikiTitleID>470844</WikiTitleID> <RankerScore>0.040566360407125114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scout_Leader</WikiTitle> <WikiTitleID>3860309</WikiTitleID> <RankerScore>0.040566360407125114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alpha_(ethology)</WikiTitle> <WikiTitleID>416308</WikiTitleID> <RankerScore>0.040566360407125114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliamentary_group_leader</WikiTitle> <WikiTitleID>13034131</WikiTitleID> <RankerScore>0.040566360407125114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leader_(spark)</WikiTitle> <WikiTitleID>6188802</WikiTitleID> <RankerScore>0.040566360407125114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stabschef</WikiTitle> <WikiTitleID>1287072</WikiTitleID> <RankerScore>0.040566360407125114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_the_European_Commission</WikiTitle> <WikiTitleID>24468</WikiTitleID> <RankerScore>0.040566360407125114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minor_Sherlock_Holmes_characters</WikiTitle> <WikiTitleID>2556264</WikiTitleID> <RankerScore>0.040566360407125114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_the_Quorum_of_the_Twelve_Apostles</WikiTitle> <WikiTitleID>328088</WikiTitleID> <RankerScore>0.040566360407125114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_Secretary</WikiTitle> <WikiTitleID>413623</WikiTitleID> <RankerScore>0.040566360407125114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brains</WikiTitle> <WikiTitleID>317292</WikiTitleID> <RankerScore>0.040566360407125114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_the_Palestinian_National_Authority</WikiTitle> <WikiTitleID>1379146</WikiTitleID> <RankerScore>0.040566360407125114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rebbe</WikiTitle> <WikiTitleID>166683</WikiTitleID> <RankerScore>0.040566360407125114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_(Transformers)</WikiTitle> <WikiTitleID>10021733</WikiTitleID> <RankerScore>0.040566360407125114</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Aum Shinri Kyo</EntitySurfaceForm>
+	<EntityTextStart>328</EntityTextStart>
+	<EntityTextEnd>342</EntityTextEnd>
+	<LinkerScore>16.968101230815666</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Aum_Shinrikyo</WikiTitle>
+		<WikiTitleID>103120</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>organization</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Aum_Shinrikyo</WikiTitle> <WikiTitleID>103120</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>trial</EntitySurfaceForm>
+	<EntityTextStart>357</EntityTextStart>
+	<EntityTextEnd>362</EntityTextEnd>
+	<LinkerScore>7.955842111788784</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Trial</WikiTitle>
+		<WikiTitleID>3276812</WikiTitleID>
+		<RankerScore>0.9977550349104309</RankerScore>
+		<Attributes>trial</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Trial</WikiTitle> <WikiTitleID>3276812</WikiTitleID> <RankerScore>0.9977550349104309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jury_trial</WikiTitle> <WikiTitleID>16367</WikiTitleID> <RankerScore>0.00145182913868608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Clinical_trial</WikiTitle> <WikiTitleID>241717</WikiTitleID> <RankerScore>2.8185024614442837E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trial_court</WikiTitle> <WikiTitleID>306967</WikiTitleID> <RankerScore>3.139905324374293E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Criminal_procedure</WikiTitle> <WikiTitleID>37297</WikiTitleID> <RankerScore>2.8185024614442837E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sanhedrin_trial_of_Jesus</WikiTitle> <WikiTitleID>5109370</WikiTitleID> <RankerScore>2.8185024614442837E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>O._J._Simpson_murder_case</WikiTitle> <WikiTitleID>3883945</WikiTitleID> <RankerScore>2.8185024614442837E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trial_of_Saddam_Hussein</WikiTitle> <WikiTitleID>2943846</WikiTitleID> <RankerScore>2.8185024614442837E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Evaluation</WikiTitle> <WikiTitleID>62433</WikiTitleID> <RankerScore>2.8185024614442837E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trial_of_Socrates</WikiTitle> <WikiTitleID>30337</WikiTitleID> <RankerScore>2.8185024614442837E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grammatical_number</WikiTitle> <WikiTitleID>42296</WikiTitleID> <RankerScore>2.8185024614442837E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sheepdog_trial</WikiTitle> <WikiTitleID>189302</WikiTitleID> <RankerScore>2.8185024614442837E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indictment_and_arrest_of_Augusto_Pinochet</WikiTitle> <WikiTitleID>6674238</WikiTitleID> <RankerScore>2.8185024614442837E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Game_demo</WikiTitle> <WikiTitleID>1989124</WikiTitleID> <RankerScore>2.8185024614442837E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trial_of_Michael_Jackson</WikiTitle> <WikiTitleID>951581</WikiTitleID> <RankerScore>2.8185024614442837E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Court-martial</WikiTitle> <WikiTitleID>58625</WikiTitleID> <RankerScore>2.8185024614442837E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Galileo_affair</WikiTitle> <WikiTitleID>3362809</WikiTitleID> <RankerScore>2.8185024614442837E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nuremberg_Trials</WikiTitle> <WikiTitleID>21875</WikiTitleID> <RankerScore>2.8185024614442837E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Court_of_Justice_for_the_trial_of_Charles_I</WikiTitle> <WikiTitleID>9806510</WikiTitleID> <RankerScore>2.8185024614442837E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Commonwealth_of_Pennsylvania_v._Mumia_Abu-Jamal</WikiTitle> <WikiTitleID>15251425</WikiTitleID> <RankerScore>2.8185024614442837E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>17</EntitySurfaceForm>
+	<EntityTextStart>366</EntityTextStart>
+	<EntityTextEnd>368</EntityTextEnd>
+	<LinkerScore>-2.5312658777926993</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>17</WikiTitle>
+		<WikiTitleID>35208</WikiTitleID>
+		<RankerScore>0.24019463859410647</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>17</WikiTitle> <WikiTitleID>35208</WikiTitleID> <RankerScore>0.24019463859410647</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>17_(number)</WikiTitle> <WikiTitleID>208288</WikiTitleID> <RankerScore>0.12630738369492586</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>November_17</WikiTitle> <WikiTitleID>21798</WikiTitleID> <RankerScore>0.029066717692058076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>August_17</WikiTitle> <WikiTitleID>1490</WikiTitleID> <RankerScore>0.035554780001112334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>June_17</WikiTitle> <WikiTitleID>15798</WikiTitleID> <RankerScore>0.035554780001112334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>October_17</WikiTitle> <WikiTitleID>22366</WikiTitleID> <RankerScore>0.035554780001112334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_17</WikiTitle> <WikiTitleID>1974</WikiTitleID> <RankerScore>0.035554780001112334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>February_17</WikiTitle> <WikiTitleID>11164</WikiTitleID> <RankerScore>0.035554780001112334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>July_17</WikiTitle> <WikiTitleID>16089</WikiTitleID> <RankerScore>0.035554780001112334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_17</WikiTitle> <WikiTitleID>19631</WikiTitleID> <RankerScore>0.035554780001112334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_17</WikiTitle> <WikiTitleID>20223</WikiTitleID> <RankerScore>0.035554780001112334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_17</WikiTitle> <WikiTitleID>8322</WikiTitleID> <RankerScore>0.035554780001112334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sibley-Monroe_checklist_17</WikiTitle> <WikiTitleID>209793</WikiTitleID> <RankerScore>0.035554780001112334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Apollo_17</WikiTitle> <WikiTitleID>1971</WikiTitleID> <RankerScore>0.035554780001112334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>September_17</WikiTitle> <WikiTitleID>27993</WikiTitleID> <RankerScore>0.035554780001112334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>January_17</WikiTitle> <WikiTitleID>15920</WikiTitleID> <RankerScore>0.035554780001112334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1917</WikiTitle> <WikiTitleID>34595</WikiTitleID> <RankerScore>0.035554780001112334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ontario_Highway_17</WikiTitle> <WikiTitleID>845835</WikiTitleID> <RankerScore>0.035554780001112334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japan_National_Route_17</WikiTitle> <WikiTitleID>5535279</WikiTitleID> <RankerScore>0.035554780001112334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Halogen</WikiTitle> <WikiTitleID>13258</WikiTitleID> <RankerScore>0.035554780001112334</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>charges</EntitySurfaceForm>
+	<EntityTextStart>369</EntityTextStart>
+	<EntityTextEnd>376</EntityTextEnd>
+	<LinkerScore>3.69576182310087</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Indictment</WikiTitle>
+		<WikiTitleID>14559</WikiTitleID>
+		<RankerScore>0.9894759426204603</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Charge_(heraldry)</WikiTitle> <WikiTitleID>921126</WikiTitleID> <RankerScore>0.0016924217741149418</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electric_charge</WikiTitle> <WikiTitleID>9804</WikiTitleID> <RankerScore>0.0012432276157175778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indictment</WikiTitle> <WikiTitleID>14559</WikiTitleID> <RankerScore>0.9894759426204603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charge_(warfare)</WikiTitle> <WikiTitleID>474957</WikiTitleID> <RankerScore>0.0012647346649511874</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Explosive_material</WikiTitle> <WikiTitleID>10192</WikiTitleID> <RankerScore>0.0012647346649511874</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charge_(physics)</WikiTitle> <WikiTitleID>5220019</WikiTitleID> <RankerScore>0.0012647346649511874</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Personal_foul</WikiTitle> <WikiTitleID>1100642</WikiTitleID> <RankerScore>0.0012647346649511874</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ion</WikiTitle> <WikiTitleID>14748</WikiTitleID> <RankerScore>0.0012647346649511874</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fee</WikiTitle> <WikiTitleID>292133</WikiTitleID> <RankerScore>0.0012647346649511874</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sarin attack</EntitySurfaceForm>
+	<EntityTextStart>400</EntityTextStart>
+	<EntityTextEnd>412</EntityTextEnd>
+	<LinkerScore>8.24692310210346</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sarin_gas_attack_on_the_Tokyo_subway</WikiTitle>
+		<WikiTitleID>448557</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>accident	attack	system	incident</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sarin_gas_attack_on_the_Tokyo_subway</WikiTitle> <WikiTitleID>448557</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>12</EntitySurfaceForm>
+	<EntityTextStart>427</EntityTextStart>
+	<EntityTextEnd>429</EntityTextEnd>
+	<LinkerScore>-10.154039333639622</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>12</WikiTitle>
+		<WikiTitleID>35190</WikiTitleID>
+		<RankerScore>0.2262824666788159</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Twelfth_grade</WikiTitle> <WikiTitleID>1066040</WikiTitleID> <RankerScore>0.07593201639265965</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>12</WikiTitle> <WikiTitleID>35190</WikiTitleID> <RankerScore>0.2262824666788159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>12_(number)</WikiTitle> <WikiTitleID>208155</WikiTitleID> <RankerScore>0.11607142670544711</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>June_12</WikiTitle> <WikiTitleID>15806</WikiTitleID> <RankerScore>0.034218475895475144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_12</WikiTitle> <WikiTitleID>19497</WikiTitleID> <RankerScore>0.034218475895475144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>November_12</WikiTitle> <WikiTitleID>21631</WikiTitleID> <RankerScore>0.034218475895475144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_12</WikiTitle> <WikiTitleID>20197</WikiTitleID> <RankerScore>0.034218475895475144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>October_12</WikiTitle> <WikiTitleID>22530</WikiTitleID> <RankerScore>0.034218475895475144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_12</WikiTitle> <WikiTitleID>1009</WikiTitleID> <RankerScore>0.034218475895475144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>February_12</WikiTitle> <WikiTitleID>11158</WikiTitleID> <RankerScore>0.034218475895475144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1912</WikiTitle> <WikiTitleID>34616</WikiTitleID> <RankerScore>0.034218475895475144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>August_12</WikiTitle> <WikiTitleID>1491</WikiTitleID> <RankerScore>0.034218475895475144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>September_12</WikiTitle> <WikiTitleID>28021</WikiTitleID> <RankerScore>0.034218475895475144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sibley-Monroe_checklist_12</WikiTitle> <WikiTitleID>209776</WikiTitleID> <RankerScore>0.034218475895475144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>January_12</WikiTitle> <WikiTitleID>16112</WikiTitleID> <RankerScore>0.034218475895475144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Route_12</WikiTitle> <WikiTitleID>148900</WikiTitleID> <RankerScore>0.034218475895475144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_12</WikiTitle> <WikiTitleID>8633</WikiTitleID> <RankerScore>0.034218475895475144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>July_12</WikiTitle> <WikiTitleID>15971</WikiTitleID> <RankerScore>0.034218475895475144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Group_12_element</WikiTitle> <WikiTitleID>487510</WikiTitleID> <RankerScore>0.034218475895475144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Apollo_12</WikiTitle> <WikiTitleID>1967</WikiTitleID> <RankerScore>0.034218475895475144</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>people</EntitySurfaceForm>
+	<EntityTextStart>430</EntityTextStart>
+	<EntityTextEnd>436</EntityTextEnd>
+	<LinkerScore>-3.6556957155658516</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>People</WikiTitle>
+		<WikiTitleID>3488351</WikiTitleID>
+		<RankerScore>0.41070936736722174</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>People</WikiTitle> <WikiTitleID>3488351</WikiTitleID> <RankerScore>0.41070936736722174</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Person</WikiTitle> <WikiTitleID>219599</WikiTitleID> <RankerScore>0.039441184762069814</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nation</WikiTitle> <WikiTitleID>21754</WikiTitleID> <RankerScore>0.04573557630270296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human</WikiTitle> <WikiTitleID>682482</WikiTitleID> <RankerScore>0.02965375715105914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ethnic_group</WikiTitle> <WikiTitleID>105004</WikiTitleID> <RankerScore>0.02965375715105914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scottish_people</WikiTitle> <WikiTitleID>884446</WikiTitleID> <RankerScore>0.02965375715105914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Portuguese_people</WikiTitle> <WikiTitleID>970642</WikiTitleID> <RankerScore>0.02965375715105914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_France</WikiTitle> <WikiTitleID>67475</WikiTitleID> <RankerScore>0.02965375715105914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_people</WikiTitle> <WikiTitleID>962731</WikiTitleID> <RankerScore>0.02965375715105914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plebs</WikiTitle> <WikiTitleID>244404</WikiTitleID> <RankerScore>0.02965375715105914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Germans</WikiTitle> <WikiTitleID>152735</WikiTitleID> <RankerScore>0.02965375715105914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>People_smuggling</WikiTitle> <WikiTitleID>68714</WikiTitleID> <RankerScore>0.02965375715105914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cornish_people</WikiTitle> <WikiTitleID>2300559</WikiTitleID> <RankerScore>0.02965375715105914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_Dutch</WikiTitle> <WikiTitleID>177674</WikiTitleID> <RankerScore>0.02965375715105914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_Americans_in_the_United_States</WikiTitle> <WikiTitleID>21217</WikiTitleID> <RankerScore>0.02965375715105914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Salem_witch_trials</WikiTitle> <WikiTitleID>205246</WikiTitleID> <RankerScore>0.02965375715105914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Democracy</WikiTitle> <WikiTitleID>7959</WikiTitleID> <RankerScore>0.02965375715105914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tamilakam</WikiTitle> <WikiTitleID>4161033</WikiTitleID> <RankerScore>0.02965375715105914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lithuanian_people</WikiTitle> <WikiTitleID>459375</WikiTitleID> <RankerScore>0.02965375715105914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Quebec</WikiTitle> <WikiTitleID>406992</WikiTitleID> <RankerScore>0.02965375715105914</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sickened</EntitySurfaceForm>
+	<EntityTextStart>441</EntityTextStart>
+	<EntityTextEnd>449</EntityTextEnd>
+	<LinkerScore>8.21586088774177</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Candidiasis</WikiTitle>
+		<WikiTitleID>7038</WikiTitleID>
+		<RankerScore>0.5411495185678841</RankerScore>
+		<Attributes>disease	conditions</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Candidiasis</WikiTitle> <WikiTitleID>7038</WikiTitleID> <RankerScore>0.5411495185678841</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mushroom_poisoning</WikiTitle> <WikiTitleID>641982</WikiTitleID> <RankerScore>0.45885048143211604</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>thousands</EntitySurfaceForm>
+	<EntityTextStart>450</EntityTextStart>
+	<EntityTextEnd>459</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1000_(number)</WikiTitle>
+		<WikiTitleID>442472</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>integer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Other</EntitySurfaceForm>
+	<EntityTextStart>464</EntityTextStart>
+	<EntityTextEnd>469</EntityTextEnd>
+	<LinkerScore>0.7809090951370695</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Other</WikiTitle>
+		<WikiTitleID>972208</WikiTitleID>
+		<RankerScore>0.49135500964192613</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Other</WikiTitle> <WikiTitleID>972208</WikiTitleID> <RankerScore>0.49135500964192613</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Other_(Doctor_Who)</WikiTitle> <WikiTitleID>1885691</WikiTitleID> <RankerScore>0.13621429865677892</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Classification_of_ethnicity_in_the_United_Kingdom</WikiTitle> <WikiTitleID>13595994</WikiTitleID> <RankerScore>0.0782188661610443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Race_and_ethnicity_in_the_United_States_Census</WikiTitle> <WikiTitleID>273285</WikiTitleID> <RankerScore>0.059555227057117834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Others_(Lost)</WikiTitle> <WikiTitleID>3134692</WikiTitleID> <RankerScore>0.0782188661610443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Designated_Other</WikiTitle> <WikiTitleID>17216520</WikiTitleID> <RankerScore>0.0782188661610443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greys</WikiTitle> <WikiTitleID>358890</WikiTitleID> <RankerScore>0.0782188661610443</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>cult</EntitySurfaceForm>
+	<EntityTextStart>470</EntityTextStart>
+	<EntityTextEnd>474</EntityTextEnd>
+	<LinkerScore>11.447991909461757</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cult</WikiTitle>
+		<WikiTitleID>1008588</WikiTitleID>
+		<RankerScore>0.820749922099773</RankerScore>
+		<Attributes>terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cult</WikiTitle> <WikiTitleID>1008588</WikiTitleID> <RankerScore>0.820749922099773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cult_film</WikiTitle> <WikiTitleID>5645</WikiTitleID> <RankerScore>0.023867737879690525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cult_(religious_practice)</WikiTitle> <WikiTitleID>593135</WikiTitleID> <RankerScore>0.06484552153620901</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cult_following</WikiTitle> <WikiTitleID>839756</WikiTitleID> <RankerScore>0.012933831212046795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christian_cult</WikiTitle> <WikiTitleID>1602579</WikiTitleID> <RankerScore>0.012933831212046795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cult</WikiTitle> <WikiTitleID>1594370</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cthulhu_Mythos_cults</WikiTitle> <WikiTitleID>2711907</WikiTitleID> <RankerScore>0.012933831212046795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Order_(Silent_Hill)</WikiTitle> <WikiTitleID>4812084</WikiTitleID> <RankerScore>0.012933831212046795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Veneration</WikiTitle> <WikiTitleID>185441</WikiTitleID> <RankerScore>0.012933831212046795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cult_wine</WikiTitle> <WikiTitleID>5337736</WikiTitleID> <RankerScore>0.012933831212046795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sol_Invictus</WikiTitle> <WikiTitleID>1214754</WikiTitleID> <RankerScore>0.012933831212046795</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>leaders</EntitySurfaceForm>
+	<EntityTextStart>475</EntityTextStart>
+	<EntityTextEnd>482</EntityTextEnd>
+	<LinkerScore>2.967751244853793</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Leadership</WikiTitle>
+		<WikiTitleID>130918</WikiTitleID>
+		<RankerScore>0.24721180633001677</RankerScore>
+		<Attributes>terms	position	study	laws</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Leadership</WikiTitle> <WikiTitleID>130918</WikiTitleID> <RankerScore>0.24721180633001677</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scout_Leader</WikiTitle> <WikiTitleID>3860309</WikiTitleID> <RankerScore>0.06248613705361499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliamentary_group_leader</WikiTitle> <WikiTitleID>13034131</WikiTitleID> <RankerScore>0.02964607792751715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_rulers_of_Kara_Koyunlu</WikiTitle> <WikiTitleID>845279</WikiTitleID> <RankerScore>0.044043731912590076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Editorial</WikiTitle> <WikiTitleID>470844</WikiTitleID> <RankerScore>0.044043731912590076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_authority</WikiTitle> <WikiTitleID>657147</WikiTitleID> <RankerScore>0.044043731912590076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Film_leader</WikiTitle> <WikiTitleID>1392259</WikiTitleID> <RankerScore>0.044043731912590076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rebbe</WikiTitle> <WikiTitleID>166683</WikiTitleID> <RankerScore>0.044043731912590076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Party_leader</WikiTitle> <WikiTitleID>9476145</WikiTitleID> <RankerScore>0.044043731912590076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reformism</WikiTitle> <WikiTitleID>80030</WikiTitleID> <RankerScore>0.044043731912590076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jerome_Wiesner</WikiTitle> <WikiTitleID>2564592</WikiTitleID> <RankerScore>0.044043731912590076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Principal_Chiefs_of_the_Cherokee</WikiTitle> <WikiTitleID>4064540</WikiTitleID> <RankerScore>0.044043731912590076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monarchy</WikiTitle> <WikiTitleID>19013</WikiTitleID> <RankerScore>0.044043731912590076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Individual_and_political_action_on_climate_change</WikiTitle> <WikiTitleID>3040255</WikiTitleID> <RankerScore>0.044043731912590076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boy_Scouting_(Boy_Scouts_of_America)</WikiTitle> <WikiTitleID>4217424</WikiTitleID> <RankerScore>0.044043731912590076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Simon_bar_Giora</WikiTitle> <WikiTitleID>3201644</WikiTitleID> <RankerScore>0.044043731912590076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flotilla_leader</WikiTitle> <WikiTitleID>1341214</WikiTitleID> <RankerScore>0.044043731912590076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Floor_leader</WikiTitle> <WikiTitleID>11365</WikiTitleID> <RankerScore>0.044043731912590076</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>charged</EntitySurfaceForm>
+	<EntityTextStart>498</EntityTextStart>
+	<EntityTextEnd>505</EntityTextEnd>
+	<LinkerScore>-0.7010394552951347</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Indictment</WikiTitle>
+		<WikiTitleID>14559</WikiTitleID>
+		<RankerScore>0.9697589397214853</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Charge_(heraldry)</WikiTitle> <WikiTitleID>921126</WikiTitleID> <RankerScore>0.009647437071352424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electric_charge</WikiTitle> <WikiTitleID>9804</WikiTitleID> <RankerScore>0.003161807769809263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indictment</WikiTitle> <WikiTitleID>14559</WikiTitleID> <RankerScore>0.9697589397214853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charge_(physics)</WikiTitle> <WikiTitleID>5220019</WikiTitleID> <RankerScore>0.0029053025728921775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charge</WikiTitle> <WikiTitleID>6439</WikiTitleID> <RankerScore>0.0029053025728921775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_v._Khalid_Sheikh_Mohammed</WikiTitle> <WikiTitleID>15709043</WikiTitleID> <RankerScore>0.0029053025728921775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charged_particle</WikiTitle> <WikiTitleID>352541</WikiTitleID> <RankerScore>0.0029053025728921775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charge_(warfare)</WikiTitle> <WikiTitleID>474957</WikiTitleID> <RankerScore>0.0029053025728921775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elementary_charge</WikiTitle> <WikiTitleID>174945</WikiTitleID> <RankerScore>0.0029053025728921775</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>gassing</EntitySurfaceForm>
+	<EntityTextStart>514</EntityTextStart>
+	<EntityTextEnd>521</EntityTextEnd>
+	<LinkerScore>-7.80354235585006</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gassing</WikiTitle>
+		<WikiTitleID>17452460</WikiTitleID>
+		<RankerScore>0.400030170247644</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gassing</WikiTitle> <WikiTitleID>17452460</WikiTitleID> <RankerScore>0.400030170247644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gas_chamber</WikiTitle> <WikiTitleID>142788</WikiTitleID> <RankerScore>0.14759570881573827</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chemical_warfare</WikiTitle> <WikiTitleID>50073</WikiTitleID> <RankerScore>0.31045960432392006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Natural_gas</WikiTitle> <WikiTitleID>22131</WikiTitleID> <RankerScore>0.07095725830634886</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Halabja_poison_gas_attack</WikiTitle> <WikiTitleID>207042</WikiTitleID> <RankerScore>0.07095725830634886</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Osamu</EntitySurfaceForm>
+	<EntityTextStart>557</EntityTextStart>
+	<EntityTextEnd>562</EntityTextEnd>
+	<LinkerScore>-8.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Osamu_Watanabe</WikiTitle>
+		<WikiTitleID>2464593</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	wrestler	medalist</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Osamu Watanabe</EntitySurfaceForm>
+	<EntityTextStart>557</EntityTextStart>
+	<EntityTextEnd>571</EntityTextEnd>
+	<LinkerScore>-8.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Osamu_Watanabe</WikiTitle>
+		<WikiTitleID>2464593</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	wrestler	medalist</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Osamu_Watanabe</WikiTitle> <WikiTitleID>2464593</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Watanabe</EntitySurfaceForm>
+	<EntityTextStart>563</EntityTextStart>
+	<EntityTextEnd>571</EntityTextEnd>
+	<LinkerScore>-8.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Osamu_Watanabe</WikiTitle>
+		<WikiTitleID>2464593</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	wrestler	medalist</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Watanabe</WikiTitle> <WikiTitleID>1202270</WikiTitleID> <RankerScore>0.44138006812762426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kyushu_Hikoki</WikiTitle> <WikiTitleID>1073280</WikiTitleID> <RankerScore>0.17975260044381486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shōzaburō_Watanabe</WikiTitle> <WikiTitleID>13624874</WikiTitleID> <RankerScore>0.12595654216474206</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sadao_Watanabe_(musician)</WikiTitle> <WikiTitleID>1244554</WikiTitleID> <RankerScore>0.08430359642127294</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shinichirō_Watanabe</WikiTitle> <WikiTitleID>330859</WikiTitleID> <RankerScore>0.08430359642127294</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shinichi_Watanabe</WikiTitle> <WikiTitleID>989202</WikiTitleID> <RankerScore>0.08430359642127294</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Asahara</EntitySurfaceForm>
+	<EntityTextStart>573</EntityTextStart>
+	<EntityTextEnd>580</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Shoko_Asahara</WikiTitle>
+		<WikiTitleID>98970</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	leaders	prisoner	buddhist	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>defense</EntitySurfaceForm>
+	<EntityTextStart>590</EntityTextStart>
+	<EntityTextEnd>597</EntityTextEnd>
+	<LinkerScore>-0.37727646134262827</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Defense_(legal)</WikiTitle>
+		<WikiTitleID>228102</WikiTitleID>
+		<RankerScore>0.4849666888029911</RankerScore>
+		<Attributes>defense</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Military</WikiTitle> <WikiTitleID>228105</WikiTitleID> <RankerScore>0.057599793675936116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Defense_(sports)</WikiTitle> <WikiTitleID>228100</WikiTitleID> <RankerScore>0.05523262789077639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Defense_(legal)</WikiTitle> <WikiTitleID>228102</WikiTitleID> <RankerScore>0.4849666888029911</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Defense</WikiTitle> <WikiTitleID>8989</WikiTitleID> <RankerScore>0.025137555601893527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Defense_industry</WikiTitle> <WikiTitleID>2988428</WikiTitleID> <RankerScore>0.025137555601893527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Defender_(association_football)</WikiTitle> <WikiTitleID>649702</WikiTitleID> <RankerScore>0.025137555601893527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_football_positions</WikiTitle> <WikiTitleID>4009259</WikiTitleID> <RankerScore>0.025137555601893527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Defenceman</WikiTitle> <WikiTitleID>567684</WikiTitleID> <RankerScore>0.025137555601893527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_security</WikiTitle> <WikiTitleID>240468</WikiTitleID> <RankerScore>0.025137555601893527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Self-defense</WikiTitle> <WikiTitleID>215864</WikiTitleID> <RankerScore>0.025137555601893527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Defense_contractor</WikiTitle> <WikiTitleID>378088</WikiTitleID> <RankerScore>0.025137555601893527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military</WikiTitle> <WikiTitleID>92357</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Defendant</WikiTitle> <WikiTitleID>8865</WikiTitleID> <RankerScore>0.025137555601893527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thesis</WikiTitle> <WikiTitleID>300215</WikiTitleID> <RankerScore>0.025137555601893527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Department_of_Defense</WikiTitle> <WikiTitleID>7279897</WikiTitleID> <RankerScore>0.025137555601893527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ministry_of_Defence_(Netherlands)</WikiTitle> <WikiTitleID>9473113</WikiTitleID> <RankerScore>0.025137555601893527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arms_industry</WikiTitle> <WikiTitleID>608296</WikiTitleID> <RankerScore>0.025137555601893527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Armed_Forces</WikiTitle> <WikiTitleID>32212</WikiTitleID> <RankerScore>0.025137555601893527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Missile_defense</WikiTitle> <WikiTitleID>1099196</WikiTitleID> <RankerScore>0.025137555601893527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_defense</WikiTitle> <WikiTitleID>215337</WikiTitleID> <RankerScore>0.025137555601893527</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the trial</EntitySurfaceForm>
+	<EntityTextStart>613</EntityTextStart>
+	<EntityTextEnd>622</EntityTextEnd>
+	<LinkerScore>0.5187428871428439</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Trial_of_Kenneth_Lay_and_Jeffrey_Skilling</WikiTitle>
+		<WikiTitleID>3957114</WikiTitleID>
+		<RankerScore>0.3344702469226063</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Trial_of_Kenneth_Lay_and_Jeffrey_Skilling</WikiTitle> <WikiTitleID>3957114</WikiTitleID> <RankerScore>0.3344702469226063</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Court_of_Justice_for_the_trial_of_Charles_I</WikiTitle> <WikiTitleID>9806510</WikiTitleID> <RankerScore>0.240495103265177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trial_of_Penenden_Heath</WikiTitle> <WikiTitleID>14099279</WikiTitleID> <RankerScore>0.20421593994298198</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hindu–German_Conspiracy_Trial</WikiTitle> <WikiTitleID>5219260</WikiTitleID> <RankerScore>0.22081870986923477</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>trial</EntitySurfaceForm>
+	<EntityTextStart>617</EntityTextStart>
+	<EntityTextEnd>622</EntityTextEnd>
+	<LinkerScore>6.364104774106736</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Trial</WikiTitle>
+		<WikiTitleID>3276812</WikiTitleID>
+		<RankerScore>0.9992927152399158</RankerScore>
+		<Attributes>trial</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Trial</WikiTitle> <WikiTitleID>3276812</WikiTitleID> <RankerScore>0.9992927152399158</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jury_trial</WikiTitle> <WikiTitleID>16367</WikiTitleID> <RankerScore>3.801962024958832E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Clinical_trial</WikiTitle> <WikiTitleID>241717</WikiTitleID> <RankerScore>7.888342696880537E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trial_court</WikiTitle> <WikiTitleID>306967</WikiTitleID> <RankerScore>1.929867317413199E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Criminal_procedure</WikiTitle> <WikiTitleID>37297</WikiTitleID> <RankerScore>7.888342696880537E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sanhedrin_trial_of_Jesus</WikiTitle> <WikiTitleID>5109370</WikiTitleID> <RankerScore>7.888342696880537E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>O._J._Simpson_murder_case</WikiTitle> <WikiTitleID>3883945</WikiTitleID> <RankerScore>7.888342696880537E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trial_of_Saddam_Hussein</WikiTitle> <WikiTitleID>2943846</WikiTitleID> <RankerScore>7.888342696880537E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Evaluation</WikiTitle> <WikiTitleID>62433</WikiTitleID> <RankerScore>7.888342696880537E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trial_of_Socrates</WikiTitle> <WikiTitleID>30337</WikiTitleID> <RankerScore>7.888342696880537E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grammatical_number</WikiTitle> <WikiTitleID>42296</WikiTitleID> <RankerScore>7.888342696880537E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sheepdog_trial</WikiTitle> <WikiTitleID>189302</WikiTitleID> <RankerScore>7.888342696880537E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indictment_and_arrest_of_Augusto_Pinochet</WikiTitle> <WikiTitleID>6674238</WikiTitleID> <RankerScore>7.888342696880537E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Game_demo</WikiTitle> <WikiTitleID>1989124</WikiTitleID> <RankerScore>7.888342696880537E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trial_of_Michael_Jackson</WikiTitle> <WikiTitleID>951581</WikiTitleID> <RankerScore>7.888342696880537E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Court-martial</WikiTitle> <WikiTitleID>58625</WikiTitleID> <RankerScore>7.888342696880537E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Galileo_affair</WikiTitle> <WikiTitleID>3362809</WikiTitleID> <RankerScore>7.888342696880537E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nuremberg_Trials</WikiTitle> <WikiTitleID>21875</WikiTitleID> <RankerScore>7.888342696880537E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Court_of_Justice_for_the_trial_of_Charles_I</WikiTitle> <WikiTitleID>9806510</WikiTitleID> <RankerScore>7.888342696880537E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Commonwealth_of_Pennsylvania_v._Mumia_Abu-Jamal</WikiTitle> <WikiTitleID>15251425</WikiTitleID> <RankerScore>7.888342696880537E-6</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>should not</EntitySurfaceForm>
+	<EntityTextStart>623</EntityTextStart>
+	<EntityTextEnd>633</EntityTextEnd>
+	<LinkerScore>-1.1799202171318535</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Normative_economics</WikiTitle>
+		<WikiTitleID>531367</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>economics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Normative_economics</WikiTitle> <WikiTitleID>531367</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>allowed</EntitySurfaceForm>
+	<EntityTextStart>637</EntityTextStart>
+	<EntityTextEnd>644</EntityTextEnd>
+	<LinkerScore>-1.3369720102665945</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Halal</WikiTitle>
+		<WikiTitleID>414855</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Halal</WikiTitle> <WikiTitleID>414855</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>to go</EntitySurfaceForm>
+	<EntityTextStart>645</EntityTextStart>
+	<EntityTextEnd>650</EntityTextEnd>
+	<LinkerScore>-1.3242520568285365</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Take-out</WikiTitle>
+		<WikiTitleID>326234</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Take-out</WikiTitle> <WikiTitleID>326234</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>wonder</EntitySurfaceForm>
+	<EntityTextStart>667</EntityTextStart>
+	<EntityTextEnd>673</EntityTextEnd>
+	<LinkerScore>-0.9940147026633419</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wonder</WikiTitle>
+		<WikiTitleID>1525375</WikiTitleID>
+		<RankerScore>0.6233740529152496</RankerScore>
+		<Attributes>song	singles</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Wonder</WikiTitle> <WikiTitleID>1525375</WikiTitleID> <RankerScore>0.6233740529152496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wonder_(emotion)</WikiTitle> <WikiTitleID>16232423</WikiTitleID> <RankerScore>0.3766259470847504</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>abnormal</EntitySurfaceForm>
+	<EntityTextStart>683</EntityTextStart>
+	<EntityTextEnd>691</EntityTextEnd>
+	<LinkerScore>-4.591936017402136</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Abnormality_(behavior)</WikiTitle>
+		<WikiTitleID>1057043</WikiTitleID>
+		<RankerScore>0.7308244915436252</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Abnormality_(behavior)</WikiTitle> <WikiTitleID>1057043</WikiTitleID> <RankerScore>0.7308244915436252</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Taboo</WikiTitle> <WikiTitleID>61117</WikiTitleID> <RankerScore>0.2691755084563749</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>unfair</EntitySurfaceForm>
+	<EntityTextStart>696</EntityTextStart>
+	<EntityTextEnd>702</EntityTextEnd>
+	<LinkerScore>-0.1574505700207549</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Justice</WikiTitle>
+		<WikiTitleID>16369</WikiTitleID>
+		<RankerScore>0.8625485755545835</RankerScore>
+		<Attributes>principle</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Justice</WikiTitle> <WikiTitleID>16369</WikiTitleID> <RankerScore>0.8625485755545835</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bias</WikiTitle> <WikiTitleID>40786</WikiTitleID> <RankerScore>0.09323772970704462</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Distributive_justice</WikiTitle> <WikiTitleID>125907</WikiTitleID> <RankerScore>0.04421369473837184</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>proceedings</EntitySurfaceForm>
+	<EntityTextStart>703</EntityTextStart>
+	<EntityTextEnd>714</EntityTextEnd>
+	<LinkerScore>-0.9086647796535492</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Proceedings</WikiTitle>
+		<WikiTitleID>1274640</WikiTitleID>
+		<RankerScore>0.8118694225970694</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Proceedings</WikiTitle> <WikiTitleID>1274640</WikiTitleID> <RankerScore>0.8118694225970694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legal_proceedings</WikiTitle> <WikiTitleID>7991410</WikiTitleID> <RankerScore>0.07413729062285453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Marprelate_Controversy</WikiTitle> <WikiTitleID>739245</WikiTitleID> <RankerScore>0.06438727995472968</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Witch-hunt</WikiTitle> <WikiTitleID>58929</WikiTitleID> <RankerScore>0.04960600682534644</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>tolerated</EntitySurfaceForm>
+	<EntityTextStart>719</EntityTextStart>
+	<EntityTextEnd>728</EntityTextEnd>
+	<LinkerScore>1.5276672199454584</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Toleration</WikiTitle>
+		<WikiTitleID>3556702</WikiTitleID>
+		<RankerScore>0.6114676840657437</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Toleration</WikiTitle> <WikiTitleID>3556702</WikiTitleID> <RankerScore>0.6114676840657437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drug_tolerance</WikiTitle> <WikiTitleID>662395</WikiTitleID> <RankerScore>0.38853231593425636</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>court</EntitySurfaceForm>
+	<EntityTextStart>734</EntityTextStart>
+	<EntityTextEnd>739</EntityTextEnd>
+	<LinkerScore>11.899702442796649</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Court</WikiTitle>
+		<WikiTitleID>75358</WikiTitleID>
+		<RankerScore>0.9774286072716216</RankerScore>
+		<Attributes>court</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Court</WikiTitle> <WikiTitleID>75358</WikiTitleID> <RankerScore>0.9774286072716216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Court_(royal)</WikiTitle> <WikiTitleID>229718</WikiTitleID> <RankerScore>0.005821540732682437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_court</WikiTitle> <WikiTitleID>30311</WikiTitleID> <RankerScore>6.701001586962468E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Basketball_court</WikiTitle> <WikiTitleID>679837</WikiTitleID> <RankerScore>9.458677551176287E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Courtship</WikiTitle> <WikiTitleID>411659</WikiTitleID> <RankerScore>9.458677551176287E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Courtyard</WikiTitle> <WikiTitleID>83942</WikiTitleID> <RankerScore>9.458677551176287E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Courts_of_Scotland</WikiTitle> <WikiTitleID>1651295</WikiTitleID> <RankerScore>9.458677551176287E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Courts_of_England_and_Wales</WikiTitle> <WikiTitleID>240527</WikiTitleID> <RankerScore>9.458677551176287E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_supreme_court</WikiTitle> <WikiTitleID>28945</WikiTitleID> <RankerScore>9.458677551176287E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judiciary</WikiTitle> <WikiTitleID>59564</WikiTitleID> <RankerScore>9.458677551176287E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Courts_of_the_Republic_of_Ireland</WikiTitle> <WikiTitleID>670507</WikiTitleID> <RankerScore>9.458677551176287E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Court_order</WikiTitle> <WikiTitleID>153237</WikiTitleID> <RankerScore>9.458677551176287E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_Court_of_Justice</WikiTitle> <WikiTitleID>87187</WikiTitleID> <RankerScore>9.458677551176287E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Imperial_Court_in_Kyoto</WikiTitle> <WikiTitleID>347649</WikiTitleID> <RankerScore>9.458677551176287E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alter_Hof</WikiTitle> <WikiTitleID>5237052</WikiTitleID> <RankerScore>9.458677551176287E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trial_court</WikiTitle> <WikiTitleID>306967</WikiTitleID> <RankerScore>9.458677551176287E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Curia</WikiTitle> <WikiTitleID>26538</WikiTitleID> <RankerScore>9.458677551176287E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Oregon_Supreme_Court</WikiTitle> <WikiTitleID>527090</WikiTitleID> <RankerScore>9.458677551176287E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curia_regis</WikiTitle> <WikiTitleID>1709402</WikiTitleID> <RankerScore>9.458677551176287E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trial</WikiTitle> <WikiTitleID>3276812</WikiTitleID> <RankerScore>9.458677551176287E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>&apos;&apos;</EntitySurfaceForm>
+	<EntityTextStart>759</EntityTextStart>
+	<EntityTextEnd>761</EntityTextEnd>
+	<LinkerScore>1.0487583983166695</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dirty_(film)</WikiTitle>
+		<WikiTitleID>10671108</WikiTitleID>
+		<RankerScore>0.5231551520090932</RankerScore>
+		<Attributes>film</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dirty_(film)</WikiTitle> <WikiTitleID>10671108</WikiTitleID> <RankerScore>0.5231551520090932</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_recurring_That_&apos;70s_Show_characters</WikiTitle> <WikiTitleID>3441561</WikiTitleID> <RankerScore>0.4768448479909068</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Watanabe</EntitySurfaceForm>
+	<EntityTextStart>762</EntityTextStart>
+	<EntityTextEnd>770</EntityTextEnd>
+	<LinkerScore>-8.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Osamu_Watanabe</WikiTitle>
+		<WikiTitleID>2464593</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	wrestler	medalist</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Watanabe</WikiTitle> <WikiTitleID>1202270</WikiTitleID> <RankerScore>0.5485227746802829</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kyushu_Hikoki</WikiTitle> <WikiTitleID>1073280</WikiTitleID> <RankerScore>0.1446780117612627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shōzaburō_Watanabe</WikiTitle> <WikiTitleID>13624874</WikiTitleID> <RankerScore>0.09046604318171621</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sadao_Watanabe_(musician)</WikiTitle> <WikiTitleID>1244554</WikiTitleID> <RankerScore>0.0721110567922461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shinichirō_Watanabe</WikiTitle> <WikiTitleID>330859</WikiTitleID> <RankerScore>0.0721110567922461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shinichi_Watanabe</WikiTitle> <WikiTitleID>989202</WikiTitleID> <RankerScore>0.0721110567922461</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Tokyo District Court</EntitySurfaceForm>
+	<EntityTextStart>781</EntityTextStart>
+	<EntityTextEnd>801</EntityTextEnd>
+	<LinkerScore>11.98561077894566</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tokyo_District_Court</WikiTitle>
+		<WikiTitleID>6384526</WikiTitleID>
+		<RankerScore>0.9193173672677037</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tokyo_District_Court</WikiTitle> <WikiTitleID>6384526</WikiTitleID> <RankerScore>0.9193173672677037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judicial_system_of_Japan</WikiTitle> <WikiTitleID>2916101</WikiTitleID> <RankerScore>0.08068263273229628</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>prosecutors</EntitySurfaceForm>
+	<EntityTextStart>812</EntityTextStart>
+	<EntityTextEnd>823</EntityTextEnd>
+	<LinkerScore>3.1929925768475687</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prosecutor</WikiTitle>
+		<WikiTitleID>440936</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>profession	prosecutor	occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prosecutor</WikiTitle> <WikiTitleID>440936</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Asahara</EntitySurfaceForm>
+	<EntityTextStart>828</EntityTextStart>
+	<EntityTextEnd>835</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Shoko_Asahara</WikiTitle>
+		<WikiTitleID>98970</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	leaders	prisoner	buddhist	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the subway</EntitySurfaceForm>
+	<EntityTextStart>862</EntityTextStart>
+	<EntityTextEnd>872</EntityTextEnd>
+	<LinkerScore>3.0411554091140647</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>New_York_City_Subway</WikiTitle>
+		<WikiTitleID>285510</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>New_York_City_Subway</WikiTitle> <WikiTitleID>285510</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>subway</EntitySurfaceForm>
+	<EntityTextStart>866</EntityTextStart>
+	<EntityTextEnd>872</EntityTextEnd>
+	<LinkerScore>2.810995334989538</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rapid_transit</WikiTitle>
+		<WikiTitleID>18361733</WikiTitleID>
+		<RankerScore>0.33499094265358204</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rapid_transit</WikiTitle> <WikiTitleID>18361733</WikiTitleID> <RankerScore>0.33499094265358204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metro</WikiTitle> <WikiTitleID>292778</WikiTitleID> <RankerScore>0.09045806767772266</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City_Subway</WikiTitle> <WikiTitleID>285510</WikiTitleID> <RankerScore>0.02956453356394246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Toronto_subway_and_RT</WikiTitle> <WikiTitleID>584946</WikiTitleID> <RankerScore>0.03205802682969135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Subway_(underpass)</WikiTitle> <WikiTitleID>4386921</WikiTitleID> <RankerScore>0.03205802682969135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Massachusetts_Bay_Transportation_Authority</WikiTitle> <WikiTitleID>19869</WikiTitleID> <RankerScore>0.03205802682969135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Athens_Metro</WikiTitle> <WikiTitleID>431036</WikiTitleID> <RankerScore>0.03205802682969135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Subway</WikiTitle> <WikiTitleID>1326556</WikiTitleID> <RankerScore>0.03205802682969135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Buenos_Aires_Underground</WikiTitle> <WikiTitleID>984962</WikiTitleID> <RankerScore>0.03205802682969135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm_metro</WikiTitle> <WikiTitleID>363545</WikiTitleID> <RankerScore>0.03205802682969135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tokyo_subway</WikiTitle> <WikiTitleID>489711</WikiTitleID> <RankerScore>0.03205802682969135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Oslo_Metro</WikiTitle> <WikiTitleID>1465643</WikiTitleID> <RankerScore>0.03205802682969135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metro_Bilbao</WikiTitle> <WikiTitleID>1603807</WikiTitleID> <RankerScore>0.03205802682969135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Helsinki_Metro</WikiTitle> <WikiTitleID>416103</WikiTitleID> <RankerScore>0.03205802682969135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beijing_Subway</WikiTitle> <WikiTitleID>608264</WikiTitleID> <RankerScore>0.03205802682969135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fukuoka_City_Subway</WikiTitle> <WikiTitleID>2413553</WikiTitleID> <RankerScore>0.03205802682969135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tunnel</WikiTitle> <WikiTitleID>160832</WikiTitleID> <RankerScore>0.03205802682969135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metro_Rail_(Los_Angeles_County)</WikiTitle> <WikiTitleID>1817879</WikiTitleID> <RankerScore>0.03205802682969135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glasgow_Subway</WikiTitle> <WikiTitleID>467145</WikiTitleID> <RankerScore>0.03205802682969135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baku_Metro</WikiTitle> <WikiTitleID>4379005</WikiTitleID> <RankerScore>0.03205802682969135</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>gassing</EntitySurfaceForm>
+	<EntityTextStart>873</EntityTextStart>
+	<EntityTextEnd>880</EntityTextEnd>
+	<LinkerScore>-7.348834420160306</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gassing</WikiTitle>
+		<WikiTitleID>17452460</WikiTitleID>
+		<RankerScore>0.44886246353672177</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gassing</WikiTitle> <WikiTitleID>17452460</WikiTitleID> <RankerScore>0.44886246353672177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gas_chamber</WikiTitle> <WikiTitleID>142788</WikiTitleID> <RankerScore>0.12096807796641428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chemical_warfare</WikiTitle> <WikiTitleID>50073</WikiTitleID> <RankerScore>0.2709312202935702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Natural_gas</WikiTitle> <WikiTitleID>22131</WikiTitleID> <RankerScore>0.07961911910164692</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Halabja_poison_gas_attack</WikiTitle> <WikiTitleID>207042</WikiTitleID> <RankerScore>0.07961911910164692</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the attack</EntitySurfaceForm>
+	<EntityTextStart>893</EntityTextStart>
+	<EntityTextEnd>903</EntityTextEnd>
+	<LinkerScore>5.164484867086005</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Attack_on_Pearl_Harbor</WikiTitle>
+		<WikiTitleID>60098</WikiTitleID>
+		<RankerScore>0.5232681609358408</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Attack_on_Pearl_Harbor</WikiTitle> <WikiTitleID>60098</WikiTitleID> <RankerScore>0.5232681609358408</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USS_Cole_bombing</WikiTitle> <WikiTitleID>31981</WikiTitleID> <RankerScore>0.47673183906415917</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>attack</EntitySurfaceForm>
+	<EntityTextStart>897</EntityTextStart>
+	<EntityTextEnd>903</EntityTextEnd>
+	<LinkerScore>-5.224061726707073</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Attack</WikiTitle>
+		<WikiTitleID>642233</WikiTitleID>
+		<RankerScore>0.1271681579034762</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Attack_on_Pearl_Harbor</WikiTitle> <WikiTitleID>60098</WikiTitleID> <RankerScore>0.051966699208087094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Attack</WikiTitle> <WikiTitleID>642233</WikiTitleID> <RankerScore>0.1271681579034762</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Attack_aircraft</WikiTitle> <WikiTitleID>181146</WikiTitleID> <RankerScore>0.032904998866439314</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Synthesizer</WikiTitle> <WikiTitleID>726591</WikiTitleID> <RankerScore>0.04635059670717632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Forward_(association_football)</WikiTitle> <WikiTitleID>428681</WikiTitleID> <RankerScore>0.04635059670717632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USS_Cole_bombing</WikiTitle> <WikiTitleID>31981</WikiTitleID> <RankerScore>0.04635059670717632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Professional_wrestling_attacks</WikiTitle> <WikiTitleID>1033826</WikiTitleID> <RankerScore>0.04635059670717632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>September_11_attacks</WikiTitle> <WikiTitleID>5058690</WikiTitleID> <RankerScore>0.04635059670717632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Attack_(fencing)</WikiTitle> <WikiTitleID>2631134</WikiTitleID> <RankerScore>0.04635059670717632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Tobruk</WikiTitle> <WikiTitleID>15867269</WikiTitleID> <RankerScore>0.04635059670717632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Combat</WikiTitle> <WikiTitleID>43702</WikiTitleID> <RankerScore>0.04635059670717632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_N&apos;Djamena_(2008)</WikiTitle> <WikiTitleID>15552798</WikiTitleID> <RankerScore>0.04635059670717632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shark_attack</WikiTitle> <WikiTitleID>427288</WikiTitleID> <RankerScore>0.04635059670717632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Submarine</WikiTitle> <WikiTitleID>28825</WikiTitleID> <RankerScore>0.04635059670717632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_Lebanon_War</WikiTitle> <WikiTitleID>6299613</WikiTitleID> <RankerScore>0.04635059670717632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Jedi_Purge</WikiTitle> <WikiTitleID>876900</WikiTitleID> <RankerScore>0.04635059670717632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operation_Mersad</WikiTitle> <WikiTitleID>5823523</WikiTitleID> <RankerScore>0.04635059670717632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Fort_Fisher</WikiTitle> <WikiTitleID>1460385</WikiTitleID> <RankerScore>0.04635059670717632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Asymmetric_warfare</WikiTitle> <WikiTitleID>46863</WikiTitleID> <RankerScore>0.04635059670717632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Assaye</WikiTitle> <WikiTitleID>505831</WikiTitleID> <RankerScore>0.04635059670717632</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>a car</EntitySurfaceForm>
+	<EntityTextStart>938</EntityTextStart>
+	<EntityTextEnd>943</EntityTextEnd>
+	<LinkerScore>-1.02900883864247</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chevrolet_Camaro_(first_generation)</WikiTitle>
+		<WikiTitleID>9131254</WikiTitleID>
+		<RankerScore>0.5212243970569914</RankerScore>
+		<Attributes>automobile	car	vehicle	convertible</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Star_(automobile)</WikiTitle> <WikiTitleID>1457699</WikiTitleID> <RankerScore>0.4787756029430085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chevrolet_Camaro_(first_generation)</WikiTitle> <WikiTitleID>9131254</WikiTitleID> <RankerScore>0.5212243970569914</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>car</EntitySurfaceForm>
+	<EntityTextStart>940</EntityTextStart>
+	<EntityTextEnd>943</EntityTextEnd>
+	<LinkerScore>7.196077486364453</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Automobile</WikiTitle>
+		<WikiTitleID>13673345</WikiTitleID>
+		<RankerScore>0.42903191098707166</RankerScore>
+		<Attributes>vehicle	automobile</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Automobile</WikiTitle> <WikiTitleID>13673345</WikiTitleID> <RankerScore>0.42903191098707166</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Grand_Prix_car</WikiTitle> <WikiTitleID>7029496</WikiTitleID> <RankerScore>0.05977609953377684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Railroad_car</WikiTitle> <WikiTitleID>220118</WikiTitleID> <RankerScore>0.018294068342039237</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Auto_racing</WikiTitle> <WikiTitleID>1022</WikiTitleID> <RankerScore>0.028993995361006608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CAR_and_CDR</WikiTitle> <WikiTitleID>206195</WikiTitleID> <RankerScore>0.028993995361006608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Renault_5</WikiTitle> <WikiTitleID>608951</WikiTitleID> <RankerScore>0.028993995361006608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Auto</WikiTitle> <WikiTitleID>599669</WikiTitleID> <RankerScore>0.028993995361006608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio-controlled_car</WikiTitle> <WikiTitleID>87140</WikiTitleID> <RankerScore>0.028993995361006608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Model_car</WikiTitle> <WikiTitleID>87115</WikiTitleID> <RankerScore>0.028993995361006608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Police_car</WikiTitle> <WikiTitleID>1297380</WikiTitleID> <RankerScore>0.028993995361006608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Motor_vehicle</WikiTitle> <WikiTitleID>145095</WikiTitleID> <RankerScore>0.028993995361006608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tram</WikiTitle> <WikiTitleID>30733</WikiTitleID> <RankerScore>0.028993995361006608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fiat_600</WikiTitle> <WikiTitleID>1415626</WikiTitleID> <RankerScore>0.028993995361006608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_James_Bond_vehicles</WikiTitle> <WikiTitleID>996951</WikiTitleID> <RankerScore>0.028993995361006608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mini</WikiTitle> <WikiTitleID>65684</WikiTitleID> <RankerScore>0.028993995361006608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Triumph_Motor_Company</WikiTitle> <WikiTitleID>365282</WikiTitleID> <RankerScore>0.028993995361006608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Railcar</WikiTitle> <WikiTitleID>216134</WikiTitleID> <RankerScore>0.028993995361006608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vehicle_insurance</WikiTitle> <WikiTitleID>567696</WikiTitleID> <RankerScore>0.028993995361006608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sunbeam_(car_company)</WikiTitle> <WikiTitleID>1169490</WikiTitleID> <RankerScore>0.028993995361006608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Panoz_DP01</WikiTitle> <WikiTitleID>7452029</WikiTitleID> <RankerScore>0.028993995361006608</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>his followers</EntitySurfaceForm>
+	<EntityTextStart>949</EntityTextStart>
+	<EntityTextEnd>962</EntityTextEnd>
+	<LinkerScore>-4.728720400244853</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Death_Eater</WikiTitle>
+		<WikiTitleID>156587</WikiTitleID>
+		<RankerScore>0.26520295763757873</RankerScore>
+		<Attributes>murderer	group	character	henchman</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Death_Eater</WikiTitle> <WikiTitleID>156587</WikiTitleID> <RankerScore>0.26520295763757873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Organization_of_Ukrainian_Nationalists</WikiTitle> <WikiTitleID>1436966</WikiTitleID> <RankerScore>0.21974474729395732</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mormon_pioneers</WikiTitle> <WikiTitleID>845910</WikiTitleID> <RankerScore>0.1358596261555581</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Uranian_(comics)</WikiTitle> <WikiTitleID>13816902</WikiTitleID> <RankerScore>0.1895963344564529</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Five</WikiTitle> <WikiTitleID>194901</WikiTitleID> <RankerScore>0.1895963344564529</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>followers</EntitySurfaceForm>
+	<EntityTextStart>953</EntityTextStart>
+	<EntityTextEnd>962</EntityTextEnd>
+	<LinkerScore>3.622821880856808</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Millerism</WikiTitle>
+		<WikiTitleID>145024</WikiTitleID>
+		<RankerScore>0.10805211281850165</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Millerism</WikiTitle> <WikiTitleID>145024</WikiTitleID> <RankerScore>0.10805211281850165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Muhajir</WikiTitle> <WikiTitleID>452240</WikiTitleID> <RankerScore>0.107273903600591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lutheranism</WikiTitle> <WikiTitleID>18503</WikiTitleID> <RankerScore>0.07141348671921102</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Disciple_(Christianity)</WikiTitle> <WikiTitleID>662502</WikiTitleID> <RankerScore>0.10189435669452804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Platonism</WikiTitle> <WikiTitleID>2221011</WikiTitleID> <RankerScore>0.10189435669452804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trotskyism</WikiTitle> <WikiTitleID>62092</WikiTitleID> <RankerScore>0.10189435669452804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kuomintang</WikiTitle> <WikiTitleID>16903</WikiTitleID> <RankerScore>0.10189435669452804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peripatetic_school</WikiTitle> <WikiTitleID>529396</WikiTitleID> <RankerScore>0.10189435669452804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arianism</WikiTitle> <WikiTitleID>1252</WikiTitleID> <RankerScore>0.10189435669452804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pythagoreanism</WikiTitle> <WikiTitleID>291170</WikiTitleID> <RankerScore>0.10189435669452804</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Watanabe</EntitySurfaceForm>
+	<EntityTextStart>971</EntityTextStart>
+	<EntityTextEnd>979</EntityTextEnd>
+	<LinkerScore>-8.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Osamu_Watanabe</WikiTitle>
+		<WikiTitleID>2464593</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	wrestler	medalist</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Watanabe</WikiTitle> <WikiTitleID>1202270</WikiTitleID> <RankerScore>0.5719067340840299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kyushu_Hikoki</WikiTitle> <WikiTitleID>1073280</WikiTitleID> <RankerScore>0.11354789125231964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shōzaburō_Watanabe</WikiTitle> <WikiTitleID>13624874</WikiTitleID> <RankerScore>0.08724543083096983</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sadao_Watanabe_(musician)</WikiTitle> <WikiTitleID>1244554</WikiTitleID> <RankerScore>0.07576664794422687</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shinichirō_Watanabe</WikiTitle> <WikiTitleID>330859</WikiTitleID> <RankerScore>0.07576664794422687</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shinichi_Watanabe</WikiTitle> <WikiTitleID>989202</WikiTitleID> <RankerScore>0.07576664794422687</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>cultist</EntitySurfaceForm>
+	<EntityTextStart>1001</EntityTextStart>
+	<EntityTextEnd>1008</EntityTextEnd>
+	<LinkerScore>4.134531207783791</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cult</WikiTitle>
+		<WikiTitleID>1008588</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cult</WikiTitle> <WikiTitleID>1008588</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yoshihiro</EntitySurfaceForm>
+	<EntityTextStart>1009</EntityTextStart>
+	<EntityTextEnd>1018</EntityTextEnd>
+	<LinkerScore>-8.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sarin_gas_attack_on_the_Tokyo_subway</WikiTitle>
+		<WikiTitleID>448557</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>accident	attack	system	incident</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Shimazu_Yoshihiro</WikiTitle> <WikiTitleID>1193618</WikiTitleID> <RankerScore>0.17331213790007655</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yoshihiro</WikiTitle> <WikiTitleID>16227063</WikiTitleID> <RankerScore>0.6319864174057754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hachisuka_Yoshihiro</WikiTitle> <WikiTitleID>14002607</WikiTitleID> <RankerScore>0.19470144469414796</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yoshihiro Inoue</EntitySurfaceForm>
+	<EntityTextStart>1009</EntityTextStart>
+	<EntityTextEnd>1024</EntityTextEnd>
+	<LinkerScore>-8.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sarin_gas_attack_on_the_Tokyo_subway</WikiTitle>
+		<WikiTitleID>448557</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>accident	attack	system	incident</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Inoue</EntitySurfaceForm>
+	<EntityTextStart>1019</EntityTextStart>
+	<EntityTextEnd>1024</EntityTextEnd>
+	<LinkerScore>-8.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sarin_gas_attack_on_the_Tokyo_subway</WikiTitle>
+		<WikiTitleID>448557</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>accident	attack	system	incident</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Inoue</WikiTitle> <WikiTitleID>1250625</WikiTitleID> <RankerScore>0.6936225875593689</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inoue_Kaoru</WikiTitle> <WikiTitleID>1330820</WikiTitleID> <RankerScore>0.11935802258983477</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inoue_house</WikiTitle> <WikiTitleID>7695370</WikiTitleID> <RankerScore>0.056171030440639674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rena_Inoue</WikiTitle> <WikiTitleID>3806460</WikiTitleID> <RankerScore>0.06542417970507831</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daisuke_Inoue</WikiTitle> <WikiTitleID>2861022</WikiTitleID> <RankerScore>0.06542417970507831</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>key witness</EntitySurfaceForm>
+	<EntityTextStart>1028</EntityTextStart>
+	<EntityTextEnd>1039</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Key_Witness</WikiTitle>
+		<WikiTitleID>5639065</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>group</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>key</EntitySurfaceForm>
+	<EntityTextStart>1028</EntityTextStart>
+	<EntityTextEnd>1031</EntityTextEnd>
+	<LinkerScore>-2.2091277143735124</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Key_(music)</WikiTitle>
+		<WikiTitleID>70640</WikiTitleID>
+		<RankerScore>0.20690613403503372</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Key_(music)</WikiTitle> <WikiTitleID>70640</WikiTitleID> <RankerScore>0.20690613403503372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Key_(cryptography)</WikiTitle> <WikiTitleID>53039</WikiTitleID> <RankerScore>0.11890347345325829</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Key_(lock)</WikiTitle> <WikiTitleID>966716</WikiTitleID> <RankerScore>0.10856799703515363</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Key_signature</WikiTitle> <WikiTitleID>17394</WikiTitleID> <RankerScore>0.03327190561626791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Key_(basketball)</WikiTitle> <WikiTitleID>10577881</WikiTitleID> <RankerScore>0.03327190561626791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Key_(instrument)</WikiTitle> <WikiTitleID>443212</WikiTitleID> <RankerScore>0.03327190561626791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Key</WikiTitle> <WikiTitleID>17432</WikiTitleID> <RankerScore>0.03327190561626791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Key_size</WikiTitle> <WikiTitleID>5749</WikiTitleID> <RankerScore>0.03327190561626791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Compositing</WikiTitle> <WikiTitleID>1136715</WikiTitleID> <RankerScore>0.03327190561626791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cay</WikiTitle> <WikiTitleID>642180</WikiTitleID> <RankerScore>0.03327190561626791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Public-key_cryptography</WikiTitle> <WikiTitleID>24222</WikiTitleID> <RankerScore>0.03327190561626791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_keyboard</WikiTitle> <WikiTitleID>5266</WikiTitleID> <RankerScore>0.03327190561626791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Encryption</WikiTitle> <WikiTitleID>10294</WikiTitleID> <RankerScore>0.03327190561626791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>B_minor</WikiTitle> <WikiTitleID>2017062</WikiTitleID> <RankerScore>0.03327190561626791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>F-sharp_major</WikiTitle> <WikiTitleID>1969903</WikiTitleID> <RankerScore>0.03327190561626791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Keying</WikiTitle> <WikiTitleID>53394</WikiTitleID> <RankerScore>0.03327190561626791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Unique_key</WikiTitle> <WikiTitleID>6850099</WikiTitleID> <RankerScore>0.03327190561626791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>F-sharp_minor</WikiTitle> <WikiTitleID>2022271</WikiTitleID> <RankerScore>0.03327190561626791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>G_minor</WikiTitle> <WikiTitleID>1973718</WikiTitleID> <RankerScore>0.03327190561626791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>B_major</WikiTitle> <WikiTitleID>1969896</WikiTitleID> <RankerScore>0.03327190561626791</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>witness</EntitySurfaceForm>
+	<EntityTextStart>1032</EntityTextStart>
+	<EntityTextEnd>1039</EntityTextEnd>
+	<LinkerScore>1.7571708514786846</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Witness</WikiTitle>
+		<WikiTitleID>50956</WikiTitleID>
+		<RankerScore>0.9981778419842716</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Witness</WikiTitle> <WikiTitleID>50956</WikiTitleID> <RankerScore>0.9981778419842716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Three_Witnesses</WikiTitle> <WikiTitleID>1384826</WikiTitleID> <RankerScore>4.86820790176069E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Evangelism</WikiTitle> <WikiTitleID>105796</WikiTitleID> <RankerScore>5.9617809348428156E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Marriage</WikiTitle> <WikiTitleID>19728</WikiTitleID> <RankerScore>5.9617809348428156E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Expert_witness</WikiTitle> <WikiTitleID>10115</WikiTitleID> <RankerScore>0.001654240318013866</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>prosecution</EntitySurfaceForm>
+	<EntityTextStart>1049</EntityTextStart>
+	<EntityTextEnd>1060</EntityTextEnd>
+	<LinkerScore>1.0792968432035468</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prosecutor</WikiTitle>
+		<WikiTitleID>440936</WikiTitleID>
+		<RankerScore>0.844707538824947</RankerScore>
+		<Attributes>profession	prosecutor	occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prosecutor</WikiTitle> <WikiTitleID>440936</WikiTitleID> <RankerScore>0.844707538824947</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Patent_prosecution</WikiTitle> <WikiTitleID>1773584</WikiTitleID> <RankerScore>0.0011171400265994795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Criminal_law</WikiTitle> <WikiTitleID>7397054</WikiTitleID> <RankerScore>0.03572920347138013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legal_case</WikiTitle> <WikiTitleID>1704112</WikiTitleID> <RankerScore>0.11509469759727489</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adversarial_system</WikiTitle> <WikiTitleID>2598</WikiTitleID> <RankerScore>0.0011171400265994795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>District_attorney</WikiTitle> <WikiTitleID>402653</WikiTitleID> <RankerScore>0.0011171400265994795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Criminal_justice_system_of_Japan</WikiTitle> <WikiTitleID>2958292</WikiTitleID> <RankerScore>0.0011171400265994795</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>court</EntitySurfaceForm>
+	<EntityTextStart>1072</EntityTextStart>
+	<EntityTextEnd>1077</EntityTextEnd>
+	<LinkerScore>11.465535515297294</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Court</WikiTitle>
+		<WikiTitleID>75358</WikiTitleID>
+		<RankerScore>0.9423000923805577</RankerScore>
+		<Attributes>court</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Court</WikiTitle> <WikiTitleID>75358</WikiTitleID> <RankerScore>0.9423000923805577</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Court_(royal)</WikiTitle> <WikiTitleID>229718</WikiTitleID> <RankerScore>0.013908235039670534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_court</WikiTitle> <WikiTitleID>30311</WikiTitleID> <RankerScore>0.001578777898913711</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Basketball_court</WikiTitle> <WikiTitleID>679837</WikiTitleID> <RankerScore>0.002483111451815179</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Courtship</WikiTitle> <WikiTitleID>411659</WikiTitleID> <RankerScore>0.002483111451815179</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Courtyard</WikiTitle> <WikiTitleID>83942</WikiTitleID> <RankerScore>0.002483111451815179</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Courts_of_Scotland</WikiTitle> <WikiTitleID>1651295</WikiTitleID> <RankerScore>0.002483111451815179</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Courts_of_England_and_Wales</WikiTitle> <WikiTitleID>240527</WikiTitleID> <RankerScore>0.002483111451815179</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_supreme_court</WikiTitle> <WikiTitleID>28945</WikiTitleID> <RankerScore>0.002483111451815179</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judiciary</WikiTitle> <WikiTitleID>59564</WikiTitleID> <RankerScore>0.002483111451815179</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Courts_of_the_Republic_of_Ireland</WikiTitle> <WikiTitleID>670507</WikiTitleID> <RankerScore>0.002483111451815179</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Court_order</WikiTitle> <WikiTitleID>153237</WikiTitleID> <RankerScore>0.002483111451815179</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_Court_of_Justice</WikiTitle> <WikiTitleID>87187</WikiTitleID> <RankerScore>0.002483111451815179</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Imperial_Court_in_Kyoto</WikiTitle> <WikiTitleID>347649</WikiTitleID> <RankerScore>0.002483111451815179</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alter_Hof</WikiTitle> <WikiTitleID>5237052</WikiTitleID> <RankerScore>0.002483111451815179</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trial_court</WikiTitle> <WikiTitleID>306967</WikiTitleID> <RankerScore>0.002483111451815179</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Curia</WikiTitle> <WikiTitleID>26538</WikiTitleID> <RankerScore>0.002483111451815179</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Oregon_Supreme_Court</WikiTitle> <WikiTitleID>527090</WikiTitleID> <RankerScore>0.002483111451815179</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curia_regis</WikiTitle> <WikiTitleID>1709402</WikiTitleID> <RankerScore>0.002483111451815179</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trial</WikiTitle> <WikiTitleID>3276812</WikiTitleID> <RankerScore>0.002483111451815179</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Asahara</EntitySurfaceForm>
+	<EntityTextStart>1083</EntityTextStart>
+	<EntityTextEnd>1090</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Shoko_Asahara</WikiTitle>
+		<WikiTitleID>98970</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	leaders	prisoner	buddhist	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>timing</EntitySurfaceForm>
+	<EntityTextStart>1118</EntityTextStart>
+	<EntityTextEnd>1124</EntityTextEnd>
+	<LinkerScore>-1.956808971513914</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Timing</WikiTitle>
+		<WikiTitleID>2388144</WikiTitleID>
+		<RankerScore>0.5259792761474305</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Timing</WikiTitle> <WikiTitleID>2388144</WikiTitleID> <RankerScore>0.5259792761474305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Isochrony</WikiTitle> <WikiTitleID>576159</WikiTitleID> <RankerScore>0.060841663376780764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Static_timing_analysis</WikiTitle> <WikiTitleID>2546747</WikiTitleID> <RankerScore>0.047878013451212856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Comic_timing</WikiTitle> <WikiTitleID>505966</WikiTitleID> <RankerScore>0.060883507837429324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Timing_(music)</WikiTitle> <WikiTitleID>7444902</WikiTitleID> <RankerScore>0.060883507837429324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Time</WikiTitle> <WikiTitleID>30012</WikiTitleID> <RankerScore>0.060883507837429324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Timing_diagram_(Unified_Modeling_Language)</WikiTitle> <WikiTitleID>3290701</WikiTitleID> <RankerScore>0.060883507837429324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Time_standard</WikiTitle> <WikiTitleID>41799</WikiTitleID> <RankerScore>0.060883507837429324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Color_grading</WikiTitle> <WikiTitleID>305296</WikiTitleID> <RankerScore>0.060883507837429324</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the attack</EntitySurfaceForm>
+	<EntityTextStart>1128</EntityTextStart>
+	<EntityTextEnd>1138</EntityTextEnd>
+	<LinkerScore>9.451377310761163</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Attack_on_Pearl_Harbor</WikiTitle>
+		<WikiTitleID>60098</WikiTitleID>
+		<RankerScore>0.6045419139976077</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Attack_on_Pearl_Harbor</WikiTitle> <WikiTitleID>60098</WikiTitleID> <RankerScore>0.6045419139976077</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USS_Cole_bombing</WikiTitle> <WikiTitleID>31981</WikiTitleID> <RankerScore>0.3954580860023923</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>attack</EntitySurfaceForm>
+	<EntityTextStart>1132</EntityTextStart>
+	<EntityTextEnd>1138</EntityTextEnd>
+	<LinkerScore>-1.2036025046429213</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Attack</WikiTitle>
+		<WikiTitleID>642233</WikiTitleID>
+		<RankerScore>0.12378441306741021</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Attack_on_Pearl_Harbor</WikiTitle> <WikiTitleID>60098</WikiTitleID> <RankerScore>0.06318678641459295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Attack</WikiTitle> <WikiTitleID>642233</WikiTitleID> <RankerScore>0.12378441306741021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Attack_aircraft</WikiTitle> <WikiTitleID>181146</WikiTitleID> <RankerScore>0.034915374634588464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Synthesizer</WikiTitle> <WikiTitleID>726591</WikiTitleID> <RankerScore>0.04577137799314167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Forward_(association_football)</WikiTitle> <WikiTitleID>428681</WikiTitleID> <RankerScore>0.04577137799314167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USS_Cole_bombing</WikiTitle> <WikiTitleID>31981</WikiTitleID> <RankerScore>0.04577137799314167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Professional_wrestling_attacks</WikiTitle> <WikiTitleID>1033826</WikiTitleID> <RankerScore>0.04577137799314167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>September_11_attacks</WikiTitle> <WikiTitleID>5058690</WikiTitleID> <RankerScore>0.04577137799314167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Attack_(fencing)</WikiTitle> <WikiTitleID>2631134</WikiTitleID> <RankerScore>0.04577137799314167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Tobruk</WikiTitle> <WikiTitleID>15867269</WikiTitleID> <RankerScore>0.04577137799314167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Combat</WikiTitle> <WikiTitleID>43702</WikiTitleID> <RankerScore>0.04577137799314167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_N&apos;Djamena_(2008)</WikiTitle> <WikiTitleID>15552798</WikiTitleID> <RankerScore>0.04577137799314167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shark_attack</WikiTitle> <WikiTitleID>427288</WikiTitleID> <RankerScore>0.04577137799314167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Submarine</WikiTitle> <WikiTitleID>28825</WikiTitleID> <RankerScore>0.04577137799314167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_Lebanon_War</WikiTitle> <WikiTitleID>6299613</WikiTitleID> <RankerScore>0.04577137799314167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Jedi_Purge</WikiTitle> <WikiTitleID>876900</WikiTitleID> <RankerScore>0.04577137799314167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operation_Mersad</WikiTitle> <WikiTitleID>5823523</WikiTitleID> <RankerScore>0.04577137799314167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Fort_Fisher</WikiTitle> <WikiTitleID>1460385</WikiTitleID> <RankerScore>0.04577137799314167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Asymmetric_warfare</WikiTitle> <WikiTitleID>46863</WikiTitleID> <RankerScore>0.04577137799314167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Assaye</WikiTitle> <WikiTitleID>505831</WikiTitleID> <RankerScore>0.04577137799314167</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>that time</EntitySurfaceForm>
+	<EntityTextStart>1142</EntityTextStart>
+	<EntityTextEnd>1151</EntityTextEnd>
+	<LinkerScore>6.071638198672213</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Anachronism</WikiTitle>
+		<WikiTitleID>60731</WikiTitleID>
+		<RankerScore>0.826368578132502</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Anachronism</WikiTitle> <WikiTitleID>60731</WikiTitleID> <RankerScore>0.826368578132502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edwardian_era</WikiTitle> <WikiTitleID>100096</WikiTitleID> <RankerScore>0.17363142186749803</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>time</EntitySurfaceForm>
+	<EntityTextStart>1147</EntityTextStart>
+	<EntityTextEnd>1151</EntityTextEnd>
+	<LinkerScore>5.769111437578511</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Time</WikiTitle>
+		<WikiTitleID>30012</WikiTitleID>
+		<RankerScore>0.7862461995113765</RankerScore>
+		<Attributes>concept	quantity</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Time</WikiTitle> <WikiTitleID>30012</WikiTitleID> <RankerScore>0.7862461995113765</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Time_signature</WikiTitle> <WikiTitleID>30282</WikiTitleID> <RankerScore>0.0128364204524257</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>System_time</WikiTitle> <WikiTitleID>6613070</WikiTitleID> <RankerScore>0.009362202605810966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Time_travel</WikiTitle> <WikiTitleID>31591</WikiTitleID> <RankerScore>0.011267951613552171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Time_in_physics</WikiTitle> <WikiTitleID>469542</WikiTitleID> <RankerScore>0.011267951613552171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Philosophy_of_space_and_time</WikiTitle> <WikiTitleID>655002</WikiTitleID> <RankerScore>0.011267951613552171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dead_ball</WikiTitle> <WikiTitleID>949680</WikiTitleID> <RankerScore>0.011267951613552171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Meter_(music)</WikiTitle> <WikiTitleID>84026</WikiTitleID> <RankerScore>0.011267951613552171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tempo</WikiTitle> <WikiTitleID>30967</WikiTitleID> <RankerScore>0.011267951613552171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>C_date_and_time_functions</WikiTitle> <WikiTitleID>1450825</WikiTitleID> <RankerScore>0.011267951613552171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Geologic_time_scale</WikiTitle> <WikiTitleID>12967</WikiTitleID> <RankerScore>0.011267951613552171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Planck_time</WikiTitle> <WikiTitleID>174386</WikiTitleID> <RankerScore>0.011267951613552171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Time_(Unix)</WikiTitle> <WikiTitleID>576487</WikiTitleID> <RankerScore>0.011267951613552171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computational_complexity_theory</WikiTitle> <WikiTitleID>7543</WikiTitleID> <RankerScore>0.011267951613552171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Time_domain</WikiTitle> <WikiTitleID>173419</WikiTitleID> <RankerScore>0.011267951613552171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Time_zone</WikiTitle> <WikiTitleID>30890</WikiTitleID> <RankerScore>0.011267951613552171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orbital_period</WikiTitle> <WikiTitleID>143696</WikiTitleID> <RankerScore>0.011267951613552171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kalpa_(aeon)</WikiTitle> <WikiTitleID>5493064</WikiTitleID> <RankerScore>0.011267951613552171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chronology_of_the_universe</WikiTitle> <WikiTitleID>183277</WikiTitleID> <RankerScore>0.011267951613552171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Father_Time</WikiTitle> <WikiTitleID>184672</WikiTitleID> <RankerScore>0.011267951613552171</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Inoue</EntitySurfaceForm>
+	<EntityTextStart>1153</EntityTextStart>
+	<EntityTextEnd>1158</EntityTextEnd>
+	<LinkerScore>-8.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sarin_gas_attack_on_the_Tokyo_subway</WikiTitle>
+		<WikiTitleID>448557</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>accident	attack	system	incident</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Inoue</WikiTitle> <WikiTitleID>1250625</WikiTitleID> <RankerScore>0.6876392769043497</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inoue_Kaoru</WikiTitle> <WikiTitleID>1330820</WikiTitleID> <RankerScore>0.12695459545410068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inoue_house</WikiTitle> <WikiTitleID>7695370</WikiTitleID> <RankerScore>0.055686489234850124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rena_Inoue</WikiTitle> <WikiTitleID>3806460</WikiTitleID> <RankerScore>0.06485981920334974</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daisuke_Inoue</WikiTitle> <WikiTitleID>2861022</WikiTitleID> <RankerScore>0.06485981920334974</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Asahara</EntitySurfaceForm>
+	<EntityTextStart>1166</EntityTextStart>
+	<EntityTextEnd>1173</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Shoko_Asahara</WikiTitle>
+		<WikiTitleID>98970</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	leaders	prisoner	buddhist	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>meditate</EntitySurfaceForm>
+	<EntityTextStart>1202</EntityTextStart>
+	<EntityTextEnd>1210</EntityTextEnd>
+	<LinkerScore>-7.855680938796969</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Meditation</WikiTitle>
+		<WikiTitleID>20062</WikiTitleID>
+		<RankerScore>0.8208641860547942</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Meditation</WikiTitle> <WikiTitleID>20062</WikiTitleID> <RankerScore>0.8208641860547942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Zazen</WikiTitle> <WikiTitleID>164632</WikiTitleID> <RankerScore>0.17913581394520575</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>April</EntitySurfaceForm>
+	<EntityTextStart>1229</EntityTextStart>
+	<EntityTextEnd>1234</EntityTextEnd>
+	<LinkerScore>-6.002655930664242</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>April</WikiTitle>
+		<WikiTitleID>1004</WikiTitleID>
+		<RankerScore>0.3362762856757397</RankerScore>
+		<Attributes>month</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>April</WikiTitle> <WikiTitleID>1004</WikiTitleID> <RankerScore>0.3362762856757397</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2004</WikiTitle> <WikiTitleID>497562</WikiTitleID> <RankerScore>0.07229760610793938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2006</WikiTitle> <WikiTitleID>4586467</WikiTitleID> <RankerScore>0.03163068416503868</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2005_in_sports</WikiTitle> <WikiTitleID>1557985</WikiTitleID> <RankerScore>0.032929142591251896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2003</WikiTitle> <WikiTitleID>207151</WikiTitleID> <RankerScore>0.032929142591251896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2002</WikiTitle> <WikiTitleID>31152</WikiTitleID> <RankerScore>0.032929142591251896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2000</WikiTitle> <WikiTitleID>1478018</WikiTitleID> <RankerScore>0.032929142591251896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2001</WikiTitle> <WikiTitleID>264126</WikiTitleID> <RankerScore>0.032929142591251896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2005</WikiTitle> <WikiTitleID>1490045</WikiTitleID> <RankerScore>0.032929142591251896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2006_in_sports</WikiTitle> <WikiTitleID>4586388</WikiTitleID> <RankerScore>0.032929142591251896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2005_in_science</WikiTitle> <WikiTitleID>1587016</WikiTitleID> <RankerScore>0.032929142591251896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2007_in_sports</WikiTitle> <WikiTitleID>10398819</WikiTitleID> <RankerScore>0.032929142591251896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2007_in_science</WikiTitle> <WikiTitleID>10501428</WikiTitleID> <RankerScore>0.032929142591251896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deaths_in_April_2005</WikiTitle> <WikiTitleID>1925313</WikiTitleID> <RankerScore>0.032929142591251896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2006_in_science</WikiTitle> <WikiTitleID>4587169</WikiTitleID> <RankerScore>0.032929142591251896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_in_India</WikiTitle> <WikiTitleID>1557033</WikiTitleID> <RankerScore>0.032929142591251896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2007</WikiTitle> <WikiTitleID>8906427</WikiTitleID> <RankerScore>0.032929142591251896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deaths_in_April_2006</WikiTitle> <WikiTitleID>3916296</WikiTitleID> <RankerScore>0.032929142591251896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deaths_in_April_2007</WikiTitle> <WikiTitleID>10990816</WikiTitleID> <RankerScore>0.032929142591251896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2005_in_Canada</WikiTitle> <WikiTitleID>1559876</WikiTitleID> <RankerScore>0.032929142591251896</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the defense</EntitySurfaceForm>
+	<EntityTextStart>1236</EntityTextStart>
+	<EntityTextEnd>1247</EntityTextEnd>
+	<LinkerScore>-1.354547752783278</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Battle_of_the_Hornburg</WikiTitle>
+		<WikiTitleID>426975</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>battle</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Battle_of_the_Hornburg</WikiTitle> <WikiTitleID>426975</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>defense</EntitySurfaceForm>
+	<EntityTextStart>1240</EntityTextStart>
+	<EntityTextEnd>1247</EntityTextEnd>
+	<LinkerScore>4.075389162166839</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Defense_(legal)</WikiTitle>
+		<WikiTitleID>228102</WikiTitleID>
+		<RankerScore>0.26406606076606154</RankerScore>
+		<Attributes>defense</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Military</WikiTitle> <WikiTitleID>228105</WikiTitleID> <RankerScore>0.07468070520364667</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Defense_(sports)</WikiTitle> <WikiTitleID>228100</WikiTitleID> <RankerScore>0.08601639271512079</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Defense_(legal)</WikiTitle> <WikiTitleID>228102</WikiTitleID> <RankerScore>0.26406606076606154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Defense</WikiTitle> <WikiTitleID>8989</WikiTitleID> <RankerScore>0.03595230258219819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Defense_industry</WikiTitle> <WikiTitleID>2988428</WikiTitleID> <RankerScore>0.03595230258219819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Defender_(association_football)</WikiTitle> <WikiTitleID>649702</WikiTitleID> <RankerScore>0.03595230258219819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_football_positions</WikiTitle> <WikiTitleID>4009259</WikiTitleID> <RankerScore>0.03595230258219819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Defenceman</WikiTitle> <WikiTitleID>567684</WikiTitleID> <RankerScore>0.03595230258219819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_security</WikiTitle> <WikiTitleID>240468</WikiTitleID> <RankerScore>0.03595230258219819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Self-defense</WikiTitle> <WikiTitleID>215864</WikiTitleID> <RankerScore>0.03595230258219819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Defense_contractor</WikiTitle> <WikiTitleID>378088</WikiTitleID> <RankerScore>0.03595230258219819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military</WikiTitle> <WikiTitleID>92357</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Defendant</WikiTitle> <WikiTitleID>8865</WikiTitleID> <RankerScore>0.03595230258219819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thesis</WikiTitle> <WikiTitleID>300215</WikiTitleID> <RankerScore>0.03595230258219819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Department_of_Defense</WikiTitle> <WikiTitleID>7279897</WikiTitleID> <RankerScore>0.03595230258219819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ministry_of_Defence_(Netherlands)</WikiTitle> <WikiTitleID>9473113</WikiTitleID> <RankerScore>0.03595230258219819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arms_industry</WikiTitle> <WikiTitleID>608296</WikiTitleID> <RankerScore>0.03595230258219819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Armed_Forces</WikiTitle> <WikiTitleID>32212</WikiTitleID> <RankerScore>0.03595230258219819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Missile_defense</WikiTitle> <WikiTitleID>1099196</WikiTitleID> <RankerScore>0.03595230258219819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_defense</WikiTitle> <WikiTitleID>215337</WikiTitleID> <RankerScore>0.03595230258219819</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>similar</EntitySurfaceForm>
+	<EntityTextStart>1255</EntityTextStart>
+	<EntityTextEnd>1262</EntityTextEnd>
+	<LinkerScore>0.6279122506498593</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Similarity_(geometry)</WikiTitle>
+		<WikiTitleID>39377</WikiTitleID>
+		<RankerScore>0.4014224535118573</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Similarity</WikiTitle> <WikiTitleID>532523</WikiTitleID> <RankerScore>0.31025818454229487</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Similarity_(geometry)</WikiTitle> <WikiTitleID>39377</WikiTitleID> <RankerScore>0.4014224535118573</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Matrix_similarity</WikiTitle> <WikiTitleID>341149</WikiTitleID> <RankerScore>0.28831936194584784</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>objections</EntitySurfaceForm>
+	<EntityTextStart>1263</EntityTextStart>
+	<EntityTextEnd>1273</EntityTextEnd>
+	<LinkerScore>-2.904466728603835</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Objection_(argument)</WikiTitle>
+		<WikiTitleID>8006711</WikiTitleID>
+		<RankerScore>0.47277926115386004</RankerScore>
+		<Attributes>argument</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Objection_(argument)</WikiTitle> <WikiTitleID>8006711</WikiTitleID> <RankerScore>0.47277926115386004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Objections_to_evolution</WikiTitle> <WikiTitleID>8787159</WikiTitleID> <RankerScore>0.23122189923022687</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Creation–evolution_controversy</WikiTitle> <WikiTitleID>1115768</WikiTitleID> <RankerScore>0.2959988396159132</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>prosecutors</EntitySurfaceForm>
+	<EntityTextStart>1283</EntityTextStart>
+	<EntityTextEnd>1294</EntityTextEnd>
+	<LinkerScore>2.011145237787669</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prosecutor</WikiTitle>
+		<WikiTitleID>440936</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>profession	prosecutor	occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prosecutor</WikiTitle> <WikiTitleID>440936</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>refused</EntitySurfaceForm>
+	<EntityTextStart>1295</EntityTextStart>
+	<EntityTextEnd>1302</EntityTextEnd>
+	<LinkerScore>-4.70493290546111</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rafida</WikiTitle>
+		<WikiTitleID>2526869</WikiTitleID>
+		<RankerScore>0.5040721485803875</RankerScore>
+		<Attributes>relations	words</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Salon_des_Refusés</WikiTitle> <WikiTitleID>104540</WikiTitleID> <RankerScore>0.31323564842504636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rafida</WikiTitle> <WikiTitleID>2526869</WikiTitleID> <RankerScore>0.5040721485803875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kayfabe</WikiTitle> <WikiTitleID>11145758</WikiTitleID> <RankerScore>0.18269220299456615</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>change</EntitySurfaceForm>
+	<EntityTextStart>1306</EntityTextStart>
+	<EntityTextEnd>1312</EntityTextEnd>
+	<LinkerScore>2.2808576259936624</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Change</WikiTitle>
+		<WikiTitleID>162941</WikiTitleID>
+		<RankerScore>0.5943728353382964</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Change</WikiTitle> <WikiTitleID>162941</WikiTitleID> <RankerScore>0.5943728353382964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shapeshifting</WikiTitle> <WikiTitleID>244219</WikiTitleID> <RankerScore>0.02302049721614552</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Language_change</WikiTitle> <WikiTitleID>1361369</WikiTitleID> <RankerScore>0.02006638934283416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Change_management</WikiTitle> <WikiTitleID>14599027</WikiTitleID> <RankerScore>0.030211689841893655</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Changeup</WikiTitle> <WikiTitleID>467842</WikiTitleID> <RankerScore>0.030211689841893655</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coin</WikiTitle> <WikiTitleID>7558</WikiTitleID> <RankerScore>0.030211689841893655</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Break-of-gauge</WikiTitle> <WikiTitleID>1607270</WikiTitleID> <RankerScore>0.030211689841893655</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>I_Ching</WikiTitle> <WikiTitleID>15282</WikiTitleID> <RankerScore>0.030211689841893655</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electoral_reform_in_New_Zealand</WikiTitle> <WikiTitleID>344125</WikiTitleID> <RankerScore>0.030211689841893655</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Social_change</WikiTitle> <WikiTitleID>329948</WikiTitleID> <RankerScore>0.030211689841893655</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regnal_year</WikiTitle> <WikiTitleID>2156650</WikiTitleID> <RankerScore>0.030211689841893655</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diaper</WikiTitle> <WikiTitleID>54205</WikiTitleID> <RankerScore>0.030211689841893655</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Change_request</WikiTitle> <WikiTitleID>3919967</WikiTitleID> <RankerScore>0.030211689841893655</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Evolution</WikiTitle> <WikiTitleID>9236</WikiTitleID> <RankerScore>0.030211689841893655</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boiling</WikiTitle> <WikiTitleID>52636</WikiTitleID> <RankerScore>0.030211689841893655</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>statement</EntitySurfaceForm>
+	<EntityTextStart>1319</EntityTextStart>
+	<EntityTextEnd>1328</EntityTextEnd>
+	<LinkerScore>3.980683359546977</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Statement</WikiTitle>
+		<WikiTitleID>41746</WikiTitleID>
+		<RankerScore>0.5622116271072308</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Statement</WikiTitle> <WikiTitleID>41746</WikiTitleID> <RankerScore>0.5622116271072308</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statement_(computer_science)</WikiTitle> <WikiTitleID>938656</WikiTitleID> <RankerScore>0.15766265863735898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposition</WikiTitle> <WikiTitleID>81094</WikiTitleID> <RankerScore>0.03855884010773873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Press_release</WikiTitle> <WikiTitleID>304097</WikiTitleID> <RankerScore>0.04026114569127859</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Document</WikiTitle> <WikiTitleID>161228</WikiTitleID> <RankerScore>0.04026114569127859</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sentence_(linguistics)</WikiTitle> <WikiTitleID>870352</WikiTitleID> <RankerScore>0.04026114569127859</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statement_(logic)</WikiTitle> <WikiTitleID>17642768</WikiTitleID> <RankerScore>0.04026114569127859</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hadith</WikiTitle> <WikiTitleID>13749</WikiTitleID> <RankerScore>0.04026114569127859</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deposition_(law)</WikiTitle> <WikiTitleID>51697</WikiTitleID> <RankerScore>0.04026114569127859</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

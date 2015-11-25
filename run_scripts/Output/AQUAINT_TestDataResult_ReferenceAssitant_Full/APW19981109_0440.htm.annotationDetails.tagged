@@ -1,0 +1,483 @@
+<ANNOTATION>
+   REPEATING Protectively<br><br>   <a class="wiki" href="http://en.wikipedia.org/wiki/Iran" cat="nation	country	state	republic">Iran</a>    will  <b>protest</b> to the  <a class="wiki" href="http://en.wikipedia.org/wiki/International_Court_of_Justice" cat="organisation	establishment">International Court of Justice</a>  at   <a class="wiki" href="http://en.wikipedia.org/wiki/The_Hague" cat="capital	place	city	establishment	municipality">the Hague</a>    and other global bodies about the U.S.-funded   <a class="wiki" href="http://en.wikipedia.org/wiki/Radio_Free_Europe/Radio_Liberty" cat="organization	organisation	relations	establishment	company	services	stations">Radio Free Europe</a>   , the  <a class="wiki" href="http://en.wikipedia.org/wiki/Iran" cat="nation	country	state	republic">Iran</a>  Daily reported Monday. <br><br> It quoted Foreign Minister   <a class="wiki" href="http://en.wikipedia.org/wiki/Kamal_Kharazi" cat="person	minister">Kamal Kharrazi</a>    as saying the radio "was set up to interfere in  <a class="wiki" href="http://en.wikipedia.org/wiki/Iran" cat="nation	country	state	republic">Iran</a> 's internal affairs.'' <br><br> It did not say when the complaints will be filed.  <a class="wiki" href="http://en.wikipedia.org/wiki/English_language" cat="language">The English-language</a>  daily also did not say which organizations  <a class="wiki" href="http://en.wikipedia.org/wiki/Iran" cat="nation	country	state	republic">Iran</a>  will approach besides the   <a class="wiki" href="http://en.wikipedia.org/wiki/International_Court_of_Justice" cat="organisation	establishment">ICJ</a>    in   <a class="wiki" href="http://en.wikipedia.org/wiki/Netherlands" cat="country	member	state">the Netherlands</a>   . <br><br> On  <b>Tuesday</b>,  <a class="wiki" href="http://en.wikipedia.org/wiki/Iran" cat="nation	country	state	republic">Iran</a>  recalled its   <b>ambassador</b>   from   <a class="wiki" href="http://en.wikipedia.org/wiki/Prague" cat="capital	city	site	region	building">Prague</a>    to  <b>protest</b> the  Czech   government's assistance to the  <b>radio</b> and said it would reduce the level of its  <b>economic</b> and  <b>political</b>  <b>cooperation</b> with  <a class="wiki" href="http://en.wikipedia.org/wiki/Prague" cat="capital	city	site	region	building">Prague</a> . <br><br> The American-sponsored station also began   <b>broadcast</b>  s  <b>directed</b> to   <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraq</a>    on Friday. In a trial period of several weeks, the station will  <b>broadcast</b> one 30-minute program a day to  <a class="wiki" href="http://en.wikipedia.org/wiki/Iran" cat="nation	country	state	republic">Iran</a>  and  <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraq</a> . <br><br> The   <a class="wiki" href="http://en.wikipedia.org/wiki/Persian_language" cat="dialect">Farsi</a>   -language service to  <a class="wiki" href="http://en.wikipedia.org/wiki/Iran" cat="nation	country	state	republic">Iran</a>  was approved by the   <a class="wiki" href="http://en.wikipedia.org/wiki/Cabinet_of_the_Czech_Republic" cat="cabinet">Czech government</a>    in August. <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Radio_Free_Europe/Radio_Liberty" cat="organization	organisation	relations	establishment	company	services	stations">Radio Free Europe</a>  began transmitting from   <a class="wiki" href="http://en.wikipedia.org/wiki/Munich" cat="community	capital	city	establishment">Munich, Germany</a>   , in  <b>1951</b>, spreading  <b>uncensored</b> news to   <a class="wiki" href="http://en.wikipedia.org/wiki/Soviet_Union" cat="federation	disestablishment	state	country	republic	polity">Soviet</a>   -controlled countries behind the   <a class="wiki" href="http://en.wikipedia.org/wiki/Iron_Curtain" cat="metaphor	relations">Iron Curtain</a>    during the   <a class="wiki" href="http://en.wikipedia.org/wiki/Cold_War" cat="war	conflict">Cold War</a>    between the  <b>West</b> and the   <a class="wiki" href="http://en.wikipedia.org/wiki/Communism" cat="ideology">Communist</a>    East. <br><br> It moved its headquarters to  <a class="wiki" href="http://en.wikipedia.org/wiki/Prague" cat="capital	city	site	region	building">Prague</a>  in  <b>1995</b> following the   <b>collapse of communism</b>  six years earlier. ti/vj <br><br>
+</ANNOTATION>
+*Entity:[Iran,textSpan=(29-33)]	-Disambiguation:(tid=14653, Title name=Iran) gold wikification:=Iran isCorrectPrediction=Correct
+*Entity:[protest,textSpan=(41-48)]	-Disambiguation:(tid=266137, Title name=Protest) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[International,textSpan=(56-69)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[International Court,textSpan=(56-75)]	-Disambiguation:(tid=14918, Title name=International_Court_of_Justice) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[International Court of Justice,textSpan=(56-86)]	-Disambiguation:(tid=14918, Title name=International_Court_of_Justice) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[International Court of Justice at the Hague,textSpan=(56-100)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Court,textSpan=(70-75)]	-Disambiguation:(tid=31737, Title name=Supreme_Court_of_the_United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Justice,textSpan=(79-86)]	-Disambiguation:(tid=16369, Title name=Justice) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Justice at the Hague,textSpan=(79-100)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the Hague,textSpan=(91-100)]	-Disambiguation:(tid=30269, Title name=The_Hague) gold wikification:=The_Hague isCorrectPrediction=Correct
+*Entity:[Hague,textSpan=(95-100)]	-Disambiguation:(tid=30269, Title name=The_Hague) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[global,textSpan=(113-119)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bodies,textSpan=(120-126)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Radio Free Europe,textSpan=(150-167)]	-Disambiguation:(tid=184408, Title name=Radio_Free_Europe/Radio_Liberty) gold wikification:=Radio_Free_Europe/Radio_Liberty isCorrectPrediction=Correct
+*Entity:[Radio Free Europe , the Iran Daily,textSpan=(150-185)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Europe , the Iran Daily,textSpan=(161-185)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran Daily,textSpan=(175-185)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran,textSpan=(175-179)]	-Disambiguation:(tid=14653, Title name=Iran) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Daily,textSpan=(180-185)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Monday,textSpan=(195-201)]	-Disambiguation:(tid=54406, Title name=Monday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[It,textSpan=(206-208)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Kamal Kharrazi,textSpan=(234-248)]	-Disambiguation:(tid=186801, Title name=Kamal_Kharazi) gold wikification:=Kamal_Kharazi isCorrectPrediction=Correct
+*Entity:[radio,textSpan=(265-270)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[set,textSpan=(276-279)]	-Disambiguation:(tid=26691, Title name=Set) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[interfere,textSpan=(286-295)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran,textSpan=(299-303)]	-Disambiguation:(tid=14653, Title name=Iran) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[internal affairs,textSpan=(306-322)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[internal,textSpan=(306-314)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[affairs,textSpan=(315-322)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[It,textSpan=(329-331)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[did not,textSpan=(332-339)]	-Disambiguation:(tid=25762, Title name=Russian_Revolution) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[say,textSpan=(340-343)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the complaints,textSpan=(349-363)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[complaints,textSpan=(353-363)]	-Disambiguation:(tid=7357, Title name=Complaint) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[will be,textSpan=(364-371)]	-Disambiguation:(tid=904807, Title name=Frederick_Cook) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[filed,textSpan=(372-377)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The English-language,textSpan=(379-399)]	-Disambiguation:(tid=8569916, Title name=English_language) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[English-language,textSpan=(383-399)]	-Disambiguation:(tid=8569916, Title name=English_language) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[daily,textSpan=(400-405)]	-Disambiguation:(tid=18582335, Title name=Newspaper) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[did not,textSpan=(411-418)]	-Disambiguation:(tid=25762, Title name=Russian_Revolution) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[say,textSpan=(419-422)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[organizations,textSpan=(429-442)]	-Disambiguation:(tid=46539, Title name=Non-governmental_organization) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran,textSpan=(443-447)]	-Disambiguation:(tid=14653, Title name=Iran) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[approach,textSpan=(453-461)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ICJ,textSpan=(475-478)]	-Disambiguation:(tid=14918, Title name=International_Court_of_Justice) gold wikification:=International_Court_of_Justice isCorrectPrediction=Correct
+*Entity:[ICJ in the Netherlands,textSpan=(475-500)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the Netherlands,textSpan=(485-500)]	-Disambiguation:(tid=21148, Title name=Netherlands) gold wikification:=Netherlands isCorrectPrediction=Correct
+*Entity:[Netherlands,textSpan=(489-500)]	-Disambiguation:(tid=21148, Title name=Netherlands) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[On Tuesday, Iran,textSpan=(507-523)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Tuesday,textSpan=(510-517)]	-Disambiguation:(tid=54635, Title name=Tuesday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Tuesday, Iran,textSpan=(510-523)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran,textSpan=(519-523)]	-Disambiguation:(tid=14653, Title name=Iran) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ambassador,textSpan=(538-548)]	-Disambiguation:(tid=68651, Title name=Ambassador) gold wikification:=Ambassador isCorrectPrediction=Correct
+*Entity:[Prague,textSpan=(557-563)]	-Disambiguation:(tid=23844, Title name=Prague) gold wikification:=Prague isCorrectPrediction=Correct
+*Entity:[protest,textSpan=(569-576)]	-Disambiguation:(tid=266137, Title name=Protest) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Czech,textSpan=(582-587)]	-Disambiguation:*null* gold wikification:=Czech_Republic isCorrectPrediction=Incorrect
+*Entity:[assistance,textSpan=(603-613)]	-Disambiguation:(tid=3186024, Title name=Welfare) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radio,textSpan=(621-626)]	-Disambiguation:(tid=15368428, Title name=Radio) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reduce,textSpan=(645-651)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[level,textSpan=(656-661)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[economic,textSpan=(669-677)]	-Disambiguation:(tid=6639133, Title name=Economy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[political,textSpan=(682-691)]	-Disambiguation:(tid=22986, Title name=Politics) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cooperation,textSpan=(692-703)]	-Disambiguation:(tid=43259, Title name=Diplomacy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Prague,textSpan=(709-715)]	-Disambiguation:(tid=23844, Title name=Prague) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[American-sponsored,textSpan=(724-742)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[station,textSpan=(743-750)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[broadcast,textSpan=(763-772)]	-Disambiguation:(tid=113604, Title name=Broadcasting) gold wikification:=Broadcasting isCorrectPrediction=Correct
+*Entity:[directed,textSpan=(776-784)]	-Disambiguation:(tid=506181, Title name=Film_director) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq on Friday,textSpan=(789-805)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq,textSpan=(789-793)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=Iraq isCorrectPrediction=Correct
+*Entity:[Friday,textSpan=(799-805)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[trial,textSpan=(812-817)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[period,textSpan=(818-824)]	-Disambiguation:(tid=1376711, Title name=Period_piece) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[weeks,textSpan=(836-841)]	-Disambiguation:(tid=1288424, Title name=Week) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the station,textSpan=(843-854)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[station,textSpan=(847-854)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[broadcast,textSpan=(860-869)]	-Disambiguation:(tid=113604, Title name=Broadcasting) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[program,textSpan=(884-891)]	-Disambiguation:(tid=103661, Title name=Radio_programming) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a day,textSpan=(892-897)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[day,textSpan=(894-897)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran and Iraq,textSpan=(901-914)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran,textSpan=(901-905)]	-Disambiguation:(tid=14653, Title name=Iran) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq,textSpan=(910-914)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Farsi,textSpan=(924-929)]	-Disambiguation:(tid=11600, Title name=Persian_language) gold wikification:=Persian_language isCorrectPrediction=Correct
+*Entity:[Iran,textSpan=(952-956)]	-Disambiguation:(tid=14653, Title name=Iran) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[approved,textSpan=(961-969)]	-Disambiguation:(tid=181692, Title name=United_Nations_Partition_Plan_for_Palestine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Czech,textSpan=(978-983)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Czech government,textSpan=(978-994)]	-Disambiguation:(tid=17458358, Title name=Cabinet_of_the_Czech_Republic) gold wikification:=Politics_of_the_Czech_Republic isCorrectPrediction=Incorrect
+*Entity:[August,textSpan=(1000-1006)]	-Disambiguation:(tid=1005, Title name=August) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Radio,textSpan=(1011-1016)]	-Disambiguation:(tid=15368428, Title name=Radio) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Radio Free Europe,textSpan=(1011-1028)]	-Disambiguation:(tid=184408, Title name=Radio_Free_Europe/Radio_Liberty) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Radio Free,textSpan=(1011-1021)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Free Europe,textSpan=(1017-1028)]	-Disambiguation:(tid=184408, Title name=Radio_Free_Europe/Radio_Liberty) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Europe,textSpan=(1022-1028)]	-Disambiguation:(tid=184408, Title name=Radio_Free_Europe/Radio_Liberty) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[began,textSpan=(1029-1034)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[transmitting,textSpan=(1035-1047)]	-Disambiguation:(tid=113604, Title name=Broadcasting) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Munich,textSpan=(1054-1060)]	-Disambiguation:(tid=19058, Title name=Munich) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Munich, Germany,textSpan=(1054-1069)]	-Disambiguation:(tid=19058, Title name=Munich) gold wikification:=Munich isCorrectPrediction=Correct
+*Entity:[Germany,textSpan=(1062-1069)]	-Disambiguation:(tid=11867, Title name=Germany) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1951,textSpan=(1076-1080)]	-Disambiguation:(tid=34602, Title name=1951) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[uncensored,textSpan=(1092-1102)]	-Disambiguation:(tid=17253537, Title name=Censorship) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[news,textSpan=(1103-1107)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Soviet,textSpan=(1112-1118)]	-Disambiguation:(tid=26779, Title name=Soviet_Union) gold wikification:=Soviet_Union isCorrectPrediction=Correct
+*Entity:[Iron Curtain,textSpan=(1154-1166)]	-Disambiguation:(tid=15230, Title name=Iron_Curtain) gold wikification:=Iron_Curtain isCorrectPrediction=Correct
+*Entity:[Cold War,textSpan=(1181-1189)]	-Disambiguation:(tid=325329, Title name=Cold_War) gold wikification:=Cold_War isCorrectPrediction=Correct
+*Entity:[the West,textSpan=(1200-1208)]	-Disambiguation:(tid=374761, Title name=Western_world) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[West and the Communist East,textSpan=(1204-1234)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[West,textSpan=(1204-1208)]	-Disambiguation:(tid=374761, Title name=Western_world) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Communist,textSpan=(1218-1227)]	-Disambiguation:(tid=9209651, Title name=Communism) gold wikification:=Communism isCorrectPrediction=Correct
+*Entity:[It,textSpan=(1239-1241)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[headquarters,textSpan=(1252-1264)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Prague,textSpan=(1268-1274)]	-Disambiguation:(tid=23844, Title name=Prague) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1995,textSpan=(1278-1282)]	-Disambiguation:(tid=34658, Title name=1995) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[collapse of communism,textSpan=(1298-1319)]	-Disambiguation:(tid=4584893, Title name=Revolutions_of_1989) gold wikification:=Revolutions_of_1989 isCorrectPrediction=Correct
+*Entity:[communism,textSpan=(1310-1319)]	-Disambiguation:(tid=9209651, Title name=Communism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Iran' start in text:29 end in text: 33; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'protest' start in text:41 end in text: 48; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'International' start in text:56 end in text: 69; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'International Court' start in text:56 end in text: 75; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'International Court of Justice' start in text:56 end in text: 86; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'International Court of Justice at the Hague' start in text:56 end in text: 100; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Court' start in text:70 end in text: 75; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Justice' start in text:79 end in text: 86; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Justice at the Hague' start in text:79 end in text: 100; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'the Hague' start in text:91 end in text: 100; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hague' start in text:95 end in text: 100; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'global' start in text:113 end in text: 119; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bodies' start in text:120 end in text: 126; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Radio Free Europe' start in text:150 end in text: 167; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Radio Free Europe , the Iran Daily' start in text:150 end in text: 185; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Europe , the Iran Daily' start in text:161 end in text: 185; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Iran Daily' start in text:175 end in text: 185; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Iran' start in text:175 end in text: 179; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Daily' start in text:180 end in text: 185; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Monday' start in text:195 end in text: 201; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'It' start in text:206 end in text: 208; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Kamal Kharrazi' start in text:234 end in text: 248; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radio' start in text:265 end in text: 270; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'set' start in text:276 end in text: 279; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'interfere' start in text:286 end in text: 295; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iran' start in text:299 end in text: 303; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'internal affairs' start in text:306 end in text: 322; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'internal' start in text:306 end in text: 314; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'affairs' start in text:315 end in text: 322; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'It' start in text:329 end in text: 331; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'did not' start in text:332 end in text: 339; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'say' start in text:340 end in text: 343; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the complaints' start in text:349 end in text: 363; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'complaints' start in text:353 end in text: 363; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'will be' start in text:364 end in text: 371; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'filed' start in text:372 end in text: 377; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The English-language' start in text:379 end in text: 399; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'English-language' start in text:383 end in text: 399; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'daily' start in text:400 end in text: 405; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'did not' start in text:411 end in text: 418; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'say' start in text:419 end in text: 422; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'organizations' start in text:429 end in text: 442; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iran' start in text:443 end in text: 447; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'approach' start in text:453 end in text: 461; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ICJ' start in text:475 end in text: 478; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ICJ in the Netherlands' start in text:475 end in text: 500; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'the Netherlands' start in text:485 end in text: 500; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Netherlands' start in text:489 end in text: 500; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'On Tuesday, Iran' start in text:507 end in text: 523; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Tuesday' start in text:510 end in text: 517; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Tuesday, Iran' start in text:510 end in text: 523; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Iran' start in text:519 end in text: 523; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ambassador' start in text:538 end in text: 548; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Prague' start in text:557 end in text: 563; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'protest' start in text:569 end in text: 576; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Czech' start in text:582 end in text: 587; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'assistance' start in text:603 end in text: 613; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radio' start in text:621 end in text: 626; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reduce' start in text:645 end in text: 651; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'level' start in text:656 end in text: 661; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'economic' start in text:669 end in text: 677; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'political' start in text:682 end in text: 691; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cooperation' start in text:692 end in text: 703; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Prague' start in text:709 end in text: 715; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'American-sponsored' start in text:724 end in text: 742; Entity types: NER,MISC,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'station' start in text:743 end in text: 750; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'broadcast' start in text:763 end in text: 772; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'directed' start in text:776 end in text: 784; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq on Friday' start in text:789 end in text: 805; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Iraq' start in text:789 end in text: 793; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Friday' start in text:799 end in text: 805; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'trial' start in text:812 end in text: 817; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'period' start in text:818 end in text: 824; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'weeks' start in text:836 end in text: 841; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the station' start in text:843 end in text: 854; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'station' start in text:847 end in text: 854; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'broadcast' start in text:860 end in text: 869; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'program' start in text:884 end in text: 891; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a day' start in text:892 end in text: 897; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'day' start in text:894 end in text: 897; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iran and Iraq' start in text:901 end in text: 914; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Iran' start in text:901 end in text: 905; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq' start in text:910 end in text: 914; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Farsi' start in text:924 end in text: 929; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iran' start in text:952 end in text: 956; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'approved' start in text:961 end in text: 969; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Czech' start in text:978 end in text: 983; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Czech government' start in text:978 end in text: 994; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'August' start in text:1000 end in text: 1006; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Radio' start in text:1011 end in text: 1016; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Radio Free Europe' start in text:1011 end in text: 1028; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Radio Free' start in text:1011 end in text: 1021; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Free Europe' start in text:1017 end in text: 1028; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Europe' start in text:1022 end in text: 1028; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'began' start in text:1029 end in text: 1034; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'transmitting' start in text:1035 end in text: 1047; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Munich' start in text:1054 end in text: 1060; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Munich, Germany' start in text:1054 end in text: 1069; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Germany' start in text:1062 end in text: 1069; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1951' start in text:1076 end in text: 1080; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'uncensored' start in text:1092 end in text: 1102; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'news' start in text:1103 end in text: 1107; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Soviet' start in text:1112 end in text: 1118; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iron Curtain' start in text:1154 end in text: 1166; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cold War' start in text:1181 end in text: 1189; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the West' start in text:1200 end in text: 1208; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'West and the Communist East' start in text:1204 end in text: 1234; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'West' start in text:1204 end in text: 1208; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Communist' start in text:1218 end in text: 1227; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'It' start in text:1239 end in text: 1241; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'headquarters' start in text:1252 end in text: 1264; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Prague' start in text:1268 end in text: 1274; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1995' start in text:1278 end in text: 1282; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'collapse of communism' start in text:1298 end in text: 1319; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'communism' start in text:1310 end in text: 1319; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

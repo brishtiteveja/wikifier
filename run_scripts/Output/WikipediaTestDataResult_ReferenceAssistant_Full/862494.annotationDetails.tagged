@@ -1,0 +1,2160 @@
+<ANNOTATION>
+A  <b>gamma camera</b> is a device used to  <b>image</b>  <b>gamma radiation</b> emitting  <b>radioisotopes</b>, a technique known as  <b>scintigraphy</b>. The applications of  <b>scintigraphy</b> include early  <b>drug development</b> and    <b>nuclear medical imaging</b>   to view and analyse images of the  <b>human body</b> of the distribution of medically injected, inhaled, or ingested    <b>radionuclides</b>   emitting    <b>gamma ray</b>  s.<br>A  <b>gamma camera</b> consists of one or more flat  <b>crystal</b>  <b>planes</b> or,  <b>detectors</b>, optically coupled to an  <b>array</b> of  <b>photomultiplier tubes</b>, the assembly is known as a  " head " , mounted on a gantry. The gantry is connected to a  <b>computer system</b> that both controls the operation of the  <b>camera</b> as well as  <b>acquisition</b> and  <b>storage</b> of acquired images.<br>The system accumulates events, or counts, of    <b>gamma</b>      <b>photon</b>  s that are absorbed by the  <b>crystal</b> in the  <b>camera</b>. Usually a large flat  <b>crystal</b> of  <b>sodium</b> iodide with  <b>thallium</b>  <b>doping</b> in a light-sealed housing is used. The  <b>highly efficient</b> capture method of this combination for detecting  <b>gamma rays</b> was discovered by noted physicist    <a class="wiki" href="http://en.wikipedia.org/wiki/Robert_Hofstadter" cat="person	scientist	physicist	alumnus">Robert Hofstadter</a>    in  <b>1948</b> ). <br>The crystal    <b>scintillate</b>  s in response to incident  <b>gamma radiation</b>. When a  <b>gamma photon</b> leaves the  <b>patient</b> (who has been injected with a   radioactive pharmaceutical  ), it knocks an  <b>electron</b> loose from an  <b>iodine atom</b> in the  <b>crystal</b>, and a  <b>faint</b>  <b>flash</b> of  <b>light</b> is produced when the  <b>dislocated</b>  <b>electron</b> again finds a minimal  <b>energy state</b>. The initial  <b>phenomenon</b> of the excited  <b>electron</b> is similar to the   photoelectric effect   and (particularly with  <b>gamma rays</b>) the    <a class="wiki" href="http://en.wikipedia.org/wiki/Compton_scattering" cat="astrophysics">Compton effect</a>   . After the flash of  <b>light</b> is produced, it is detected.    <a class="wiki" href="http://en.wikipedia.org/wiki/Photomultiplier" cat="devices	tube	sensor">Photomultiplier</a>    tubes ( <a class="wiki" href="http://en.wikipedia.org/wiki/Photomultiplier" cat="devices	tube	sensor">PMTs</a> ) behind the  <b>crystal</b> detect the fluorescent flashes (events) and a computer sums the counts. The computer reconstructs and displays a  <b>two dimensional</b>  <b>image</b> of the relative  <b>spatial</b>  <b>count</b> density on a  <b>monitor</b>. This reconstructed  <b>image</b> reflects the distribution and relative  <b>concentration</b> of  <b>radioactive</b>  <b>tracer</b> elements present in the  <b>organs</b> and  <b>tissues</b> imaged.<br>   <a class="wiki" href="http://en.wikipedia.org/wiki/Hal_Anger" cat="biophysicist	person	engineer	physicist">Hal Anger</a>    developed the first  <b>gamma camera</b> in    <b>1957</b>  . His original  <b>design</b>, frequently called the  <a class="wiki" href="http://en.wikipedia.org/wiki/Gamma_camera" cat="sensor	invention">Anger camera</a> , is still widely used today. The  <a class="wiki" href="http://en.wikipedia.org/wiki/Gamma_camera" cat="sensor	invention">Anger camera</a>  uses sets of   vacuum tube   photomultipliers. Generally each  <b>tube</b> has an exposed  <b>face</b> of about 3  <b>inches</b> in  <b>diameter</b> and the  <b>tubes</b> are arranged in  <b>hexagon</b> configurations, behind the absorbing  <b>crystal</b>. The  <b>electronic circuit</b> connecting the  <b>photodetectors</b> is wired so as to reflect the relative  <b>coincidence</b> of  <b>light</b>  <b>fluorescence</b> as sensed by the members of the  <b>hexagon</b>  <b>detector</b>  <b>array</b>. All the  <a class="wiki" href="http://en.wikipedia.org/wiki/Photomultiplier" cat="devices	tube	sensor">PMTs</a>  simultaneously detect the (presumed) same  <b>flash</b> of  <b>light</b> to varying  <b>degrees</b>, depending on their position from the actual individual event. Thus the  <b>spatial location</b> of each  <b>single</b>  <b>flash</b> of  <b>fluorescence</b> is reflected as a  <b>pattern</b> of  <b>voltages</b> within the interconnecting circuit  <b>array</b>. <br>The location of the  <b>interaction</b> between the  <b>gamma ray</b> and the  <b>crystal</b> can be determined by processing the  <b>voltage</b> signals from the  <b>photomultipliers</b>; in simple terms, the location can be found by weighting the position of each  <b>photomultiplier tube</b> by the strength of its  <b>signal</b>, and then calculating a  <b>mean</b> position from the weighted positions. The total sum of the  <b>voltages</b> from each  <b>photomultiplier</b> is proportional to the  <b>energy</b> of the  <b>gamma ray</b>  <b>interaction</b>, thus allowing  <b>discrimination</b> between different  <b>isotopes</b> or between scattered and direct  <b>photons</b>.<br>In order to obtain  <b>spatial information</b> about the    <b>gamma</b>   emissions from an imaging subject (e.g. a person's  <b>heart</b>  <b>muscle</b>  <b>cells</b> which have absorbed an  <b>intravenous</b> injected  <b>radioactive</b>, usually thallium-201 or technetium-99m, medicinal imaging agent) a method of correlating the detected  <b>photons</b> with their point of origin is required.<br>The conventional method is to place a    <b>collimator</b>   over the detection crystal/PMT array.  The  <b>collimator</b> consists of a thick sheet of    <b>lead</b>  , typically  <b>1-3</b>  <b>inches</b> thick, with  <b>thousands</b> of adjacent holes through it.  The individual holes  <b>limit</b>  <b>photons</b> which can be detected by the  <b>crystal</b> to a  <b>cone</b>; the point of the  <b>cone</b> is at the  <b>midline</b>  <b>center</b> of any given hole and extends from the  <b>collimator</b>  <b>surface</b> outward.  However, the  <b>collimator</b> is also one of the sources of blurring within the  <b>image</b>;  <b>lead</b> does not totally  <b>attenuate</b> incident  <b>gamma</b>  <b>photons</b>, there can be some   crosstalk   between holes.<br>Unlike a  <b>lens</b>, as used in  <b>visible light</b>  <b>cameras</b>, the  <b>collimator</b> attenuates most ( 99%) of incident  <b>photons</b> and thus greatly limits the  <b>sensitivity</b> of the  <b>camera system</b>. Large amounts of  <b>radiation</b> must be present so as to provide enough  <b>exposure</b> for the  <b>camera system</b> to detect sufficient scintillation dots to form a picture.<br>Other methods of image localization (   <b>pinhole</b>  , rotating  <b>slat</b>  <b>collimator</b> with    <a class="wiki" href="http://en.wikipedia.org/wiki/Cadmium_zinc_telluride" cat="material">CZT</a>    (Gagnon  "   <b>Matthews</b>) and others) have been proposed and tested; however, none have entered widespread routine  <b>clinical use</b>.<br>The best current  <b>camera system</b> designs can differentiate two separate  <b>point sources</b> of  <b>gamma</b>  <b>photons</b> located a minimum of 1.8 cm apart, at 5 cm away from the  <b>camera</b> face.  <a class="wiki" href="http://en.wikipedia.org/wiki/Angular_resolution" cat="optics">Spatial resolution</a>  decreases rapidly at increasing distances from the  <b>camera</b> face. This limits the  <b>spatial</b>  <b>accuracy</b> of the computer image: it is a fuzzy  <b>image</b> made up of many dots of detected but not precisely located  <b>scintillation</b>. This is a major limitation for  <b>heart muscle</b>  <b>imaging</b> systems; the thickest  <b>normal heart</b>  <b>muscle</b> in the  <b>left ventricle</b> is about 1.2 cm and most of the  <b>left ventricle</b>  <b>muscle</b> is about 0.8 cm, always moving and much of it beyond 5 cm from the  <b>collimator</b> face. To help compensate, better  <b>imaging</b> systems limit scintillation counting to a portion of the  <b>heart contraction</b> cycle, called gating, however this further limits system  <b>sensitivity</b>.<br>   <a class="wiki" href="http://en.wikipedia.org/wiki/Single-photon_emission_computed_tomography" cat="">SPECT</a>    (single photon emission computed tomograpy) imaging, as used in nuclear   cardiac stress test  ing, is performed using  <b>gamma</b>  <b>cameras</b>, usually one, two or three detectors or heads, are slowly rotated around the  <b>patient</b>'s  <b>torso</b>.<br>Multi-headed  <b>gamma</b>  <b>cameras</b> can also be used for    <a class="wiki" href="http://en.wikipedia.org/wiki/Positron_emission_tomography" cat="test">Positron emission tomography</a>    scanning, provided that their  <b>hardware</b> and  <b>software</b> can be configured to detect 'coincidences' (near simultaneous events on 2 different heads).  <a class="wiki" href="http://en.wikipedia.org/wiki/Gamma_camera" cat="sensor	invention">Gamma camera</a>   <a class="wiki" href="http://en.wikipedia.org/wiki/Positron_emission_tomography" cat="test">PET</a>  is markedly inferior to  <a class="wiki" href="http://en.wikipedia.org/wiki/Positron_emission_tomography" cat="test">PET imaging</a>  with a purpose designed  <a class="wiki" href="http://en.wikipedia.org/wiki/Positron_emission_tomography" cat="test">PET scanner</a> , as the  <b>scintillator</b>  <b>crystal</b> has poor  <b>sensitivity</b> for the high-energy  <b>annihilation</b>  <b>photons</b>, and the  <b>detector</b>  <b>area</b> is significantly smaller. However, given the low cost of a  <b>gamma camera</b> and its additional flexibility compared to a dedicated  <a class="wiki" href="http://en.wikipedia.org/wiki/Positron_emission_tomography" cat="test">PET scanner</a> , this technique is useful where the expense and resource implications of a  <a class="wiki" href="http://en.wikipedia.org/wiki/Positron_emission_tomography" cat="test">PET scanner</a>  cannot be justified.<br><br>
+</ANNOTATION>
+*Entity:[gamma,textSpan=(2-7)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma camera,textSpan=(2-14)]	-Disambiguation:(tid=862494, Title name=Gamma_camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[camera,textSpan=(8-14)]	-Disambiguation:(tid=52648, Title name=Camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a device,textSpan=(18-26)]	-Disambiguation:(tid=340606, Title name=Nilometer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[device,textSpan=(20-26)]	-Disambiguation:(tid=350160, Title name=Device) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[image,textSpan=(35-40)]	-Disambiguation:(tid=71925, Title name=Image) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma radiation,textSpan=(41-56)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma,textSpan=(41-46)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radiation,textSpan=(47-56)]	-Disambiguation:(tid=25856, Title name=Radiation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radioisotopes,textSpan=(66-79)]	-Disambiguation:(tid=37245, Title name=Radionuclide) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a technique,textSpan=(81-92)]	-Disambiguation:(tid=3917994, Title name=Bordeaux_mixture) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[technique,textSpan=(83-92)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[scintigraphy,textSpan=(102-114)]	-Disambiguation:(tid=347838, Title name=Nuclear_medicine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[applications,textSpan=(120-132)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[scintigraphy,textSpan=(136-148)]	-Disambiguation:(tid=347838, Title name=Nuclear_medicine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[early,textSpan=(157-162)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[drug,textSpan=(163-167)]	-Disambiguation:(tid=9311172, Title name=Drug) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[drug development,textSpan=(163-179)]	-Disambiguation:(tid=3218783, Title name=Drug_development) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[development,textSpan=(168-179)]	-Disambiguation:(tid=8449, Title name=Developmental_biology) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nuclear,textSpan=(186-193)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nuclear medical imaging,textSpan=(186-209)]	-Disambiguation:(tid=347838, Title name=Nuclear_medicine) gold wikification:=Nuclear_medicine isCorrectPrediction=Correct
+*Entity:[medical,textSpan=(194-201)]	-Disambiguation:(tid=347838, Title name=Nuclear_medicine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[medical imaging,textSpan=(194-209)]	-Disambiguation:(tid=234714, Title name=Medical_imaging) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[imaging,textSpan=(202-209)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[view,textSpan=(215-219)]	-Disambiguation:(tid=41848, Title name=View) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[analyse,textSpan=(224-231)]	-Disambiguation:(tid=6202299, Title name=Analyse) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[images,textSpan=(232-238)]	-Disambiguation:(tid=71925, Title name=Image) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the human body,textSpan=(242-256)]	-Disambiguation:(tid=13268, Title name=Human_anatomy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[human,textSpan=(246-251)]	-Disambiguation:(tid=682482, Title name=Human) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[human body,textSpan=(246-256)]	-Disambiguation:(tid=54176, Title name=Human_body) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[body,textSpan=(252-256)]	-Disambiguation:(tid=3788, Title name=Body) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[distribution,textSpan=(264-276)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[medically,textSpan=(280-289)]	-Disambiguation:(tid=18957, Title name=Medicine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[injected,textSpan=(290-298)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radionuclides,textSpan=(323-336)]	-Disambiguation:(tid=37245, Title name=Radionuclide) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma ray,textSpan=(350-359)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=Gamma_ray isCorrectPrediction=Correct
+*Entity:[gamma,textSpan=(350-355)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ray,textSpan=(356-359)]	-Disambiguation:(tid=3364761, Title name=Ray_(optics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma,textSpan=(366-371)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma camera,textSpan=(366-378)]	-Disambiguation:(tid=862494, Title name=Gamma_camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[camera,textSpan=(372-378)]	-Disambiguation:(tid=52648, Title name=Camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flat,textSpan=(403-407)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[crystal,textSpan=(408-415)]	-Disambiguation:(tid=6015, Title name=Crystal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[planes,textSpan=(416-422)]	-Disambiguation:(tid=84029, Title name=Plane_(geometry)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[detectors,textSpan=(427-436)]	-Disambiguation:(tid=802913, Title name=Semiconductor_detector) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[optically,textSpan=(438-447)]	-Disambiguation:(tid=22483, Title name=Optics) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[coupled,textSpan=(448-455)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[array,textSpan=(462-467)]	-Disambiguation:(tid=2052, Title name=Array) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[photomultiplier tubes,textSpan=(471-492)]	-Disambiguation:(tid=177215, Title name=Photomultiplier) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[photomultiplier,textSpan=(471-486)]	-Disambiguation:(tid=177215, Title name=Photomultiplier) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tubes,textSpan=(487-492)]	-Disambiguation:(tid=32496, Title name=Vacuum_tube) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the assembly,textSpan=(494-506)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[assembly,textSpan=(498-506)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[known,textSpan=(510-515)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gantry,textSpan=(546-552)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gantry,textSpan=(558-564)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[connected,textSpan=(568-577)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[computer system,textSpan=(583-598)]	-Disambiguation:(tid=7878457, Title name=Computer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the operation,textSpan=(618-631)]	-Disambiguation:(tid=158128, Title name=Battle_of_Leyte) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[operation,textSpan=(622-631)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[camera,textSpan=(639-645)]	-Disambiguation:(tid=52648, Title name=Camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[acquisition,textSpan=(657-668)]	-Disambiguation:(tid=20769, Title name=Mergers_and_acquisitions) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[storage,textSpan=(673-680)]	-Disambiguation:(tid=41904, Title name=Storage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[acquired,textSpan=(684-692)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[images,textSpan=(693-699)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The system,textSpan=(701-711)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[events,textSpan=(724-730)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[counts,textSpan=(735-741)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma,textSpan=(748-753)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=Gamma_ray isCorrectPrediction=Correct
+*Entity:[photon,textSpan=(758-764)]	-Disambiguation:(tid=23535, Title name=Photon) gold wikification:=Photon isCorrectPrediction=Correct
+*Entity:[absorbed,textSpan=(777-785)]	-Disambiguation:(tid=1384005, Title name=Absorption_(electromagnetic_radiation)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the crystal,textSpan=(789-800)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[crystal,textSpan=(793-800)]	-Disambiguation:(tid=6015, Title name=Crystal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[camera,textSpan=(808-814)]	-Disambiguation:(tid=52648, Title name=Camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[large,textSpan=(826-831)]	-Disambiguation:(tid=362823, Title name=Large_format_(photography)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flat,textSpan=(832-836)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[crystal,textSpan=(837-844)]	-Disambiguation:(tid=6015, Title name=Crystal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sodium,textSpan=(848-854)]	-Disambiguation:(tid=26826, Title name=Sodium) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[thallium,textSpan=(867-875)]	-Disambiguation:(tid=30309, Title name=Thallium) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[doping,textSpan=(876-882)]	-Disambiguation:(tid=860861, Title name=Doping_(semiconductor)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[housing,textSpan=(901-908)]	-Disambiguation:(tid=15360658, Title name=Housing) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[highly efficient,textSpan=(922-938)]	-Disambiguation:(tid=268344, Title name=Efficiency) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[highly,textSpan=(922-928)]	-Disambiguation:(tid=1855342, Title name=Historical_rankings_of_Presidents_of_the_United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[efficient,textSpan=(929-938)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[capture,textSpan=(939-946)]	-Disambiguation:(tid=1886874, Title name=Neutron_capture) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[method,textSpan=(947-953)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[combination,textSpan=(962-973)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma rays,textSpan=(988-998)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma,textSpan=(988-993)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rays,textSpan=(994-998)]	-Disambiguation:(tid=34197, Title name=X-ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[discovered,textSpan=(1003-1013)]	-Disambiguation:(tid=8200, Title name=Timeline_of_chemical_elements_discoveries) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Robert Hofstadter,textSpan=(1035-1052)]	-Disambiguation:(tid=102095, Title name=Robert_Hofstadter) gold wikification:=Robert_Hofstadter isCorrectPrediction=Correct
+*Entity:[1948,textSpan=(1058-1062)]	-Disambiguation:(tid=34612, Title name=1948) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[scintillate,textSpan=(1081-1092)]	-Disambiguation:(tid=826258, Title name=Scintillation_(physics)) gold wikification:=Scintillation_(physics) isCorrectPrediction=Correct
+*Entity:[response,textSpan=(1099-1107)]	-Disambiguation:(tid=41661, Title name=Response) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[incident,textSpan=(1111-1119)]	-Disambiguation:(tid=1652071, Title name=Incident) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma radiation,textSpan=(1120-1135)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma,textSpan=(1120-1125)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radiation,textSpan=(1126-1135)]	-Disambiguation:(tid=25856, Title name=Radiation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma photon,textSpan=(1144-1156)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma,textSpan=(1144-1149)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[photon,textSpan=(1150-1156)]	-Disambiguation:(tid=23535, Title name=Photon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the patient,textSpan=(1164-1175)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[patient,textSpan=(1168-1175)]	-Disambiguation:(tid=437724, Title name=Patient) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[has been,textSpan=(1181-1189)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[injected,textSpan=(1190-1198)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[electron,textSpan=(1252-1260)]	-Disambiguation:(tid=9476, Title name=Electron) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[loose,textSpan=(1261-1266)]	-Disambiguation:(tid=577963, Title name=Understeer_and_oversteer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[iodine atom,textSpan=(1275-1286)]	-Disambiguation:(tid=14750, Title name=Iodine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[iodine,textSpan=(1275-1281)]	-Disambiguation:(tid=14750, Title name=Iodine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[atom,textSpan=(1282-1286)]	-Disambiguation:(tid=902, Title name=Atom) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the crystal,textSpan=(1290-1301)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[crystal,textSpan=(1294-1301)]	-Disambiguation:(tid=6015, Title name=Crystal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[faint,textSpan=(1309-1314)]	-Disambiguation:(tid=66779, Title name=Syncope_(medicine)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flash,textSpan=(1315-1320)]	-Disambiguation:(tid=195752, Title name=Flash_(photography)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[light,textSpan=(1324-1329)]	-Disambiguation:(tid=17939, Title name=Light) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[produced,textSpan=(1333-1341)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dislocated,textSpan=(1351-1361)]	-Disambiguation:(tid=795334, Title name=Dislocation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[electron,textSpan=(1362-1370)]	-Disambiguation:(tid=9476, Title name=Electron) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[minimal,textSpan=(1385-1392)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[energy state,textSpan=(1393-1405)]	-Disambiguation:(tid=59444, Title name=Energy_level) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[energy,textSpan=(1393-1399)]	-Disambiguation:(tid=9649, Title name=Energy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[state,textSpan=(1400-1405)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[initial,textSpan=(1411-1418)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[phenomenon,textSpan=(1419-1429)]	-Disambiguation:(tid=60931, Title name=Phenomenon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[excited,textSpan=(1437-1444)]	-Disambiguation:(tid=516680, Title name=Excited_state) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[electron,textSpan=(1445-1453)]	-Disambiguation:(tid=9476, Title name=Electron) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma,textSpan=(1520-1525)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma rays,textSpan=(1520-1530)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rays,textSpan=(1526-1530)]	-Disambiguation:(tid=34197, Title name=X-ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Compton effect,textSpan=(1538-1552)]	-Disambiguation:(tid=55236, Title name=Compton_scattering) gold wikification:=Compton_scattering isCorrectPrediction=Correct
+*Entity:[Compton,textSpan=(1538-1545)]	-Disambiguation:(tid=55236, Title name=Compton_scattering) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the flash,textSpan=(1562-1571)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flash,textSpan=(1566-1571)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[light,textSpan=(1575-1580)]	-Disambiguation:(tid=17939, Title name=Light) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[produced,textSpan=(1584-1592)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[detected,textSpan=(1600-1608)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Photomultiplier,textSpan=(1612-1627)]	-Disambiguation:(tid=177215, Title name=Photomultiplier) gold wikification:=Photomultiplier isCorrectPrediction=Correct
+*Entity:[PMTs,textSpan=(1637-1641)]	-Disambiguation:(tid=177215, Title name=Photomultiplier) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the crystal,textSpan=(1650-1661)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[crystal,textSpan=(1654-1661)]	-Disambiguation:(tid=6015, Title name=Crystal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the counts,textSpan=(1722-1732)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[counts,textSpan=(1726-1732)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reconstructs,textSpan=(1747-1759)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[two dimensional,textSpan=(1775-1790)]	-Disambiguation:(tid=8398, Title name=Dimension_(mathematics_and_physics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dimensional,textSpan=(1779-1790)]	-Disambiguation:(tid=8398, Title name=Dimension_(mathematics_and_physics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[image,textSpan=(1791-1796)]	-Disambiguation:(tid=71925, Title name=Image) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[relative,textSpan=(1804-1812)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[spatial,textSpan=(1813-1820)]	-Disambiguation:(tid=27667, Title name=Space) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[count,textSpan=(1821-1826)]	-Disambiguation:(tid=196470, Title name=Count) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[density,textSpan=(1827-1834)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[monitor,textSpan=(1840-1847)]	-Disambiguation:(tid=7677, Title name=Computer_monitor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[This,textSpan=(1849-1853)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reconstructed,textSpan=(1854-1867)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[image,textSpan=(1868-1873)]	-Disambiguation:(tid=71925, Title name=Image) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[distribution,textSpan=(1887-1899)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[relative,textSpan=(1904-1912)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[concentration,textSpan=(1913-1926)]	-Disambiguation:(tid=7512, Title name=Concentration) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radioactive tracer,textSpan=(1930-1948)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radioactive,textSpan=(1930-1941)]	-Disambiguation:(tid=197767, Title name=Radioactive_decay) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tracer,textSpan=(1942-1948)]	-Disambiguation:(tid=420361, Title name=Radioactive_tracer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[elements,textSpan=(1949-1957)]	-Disambiguation:(tid=5659, Title name=Chemical_element) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[organs,textSpan=(1973-1979)]	-Disambiguation:(tid=152776, Title name=Organ_(anatomy)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tissues,textSpan=(1984-1991)]	-Disambiguation:(tid=103915, Title name=Tissue_(biology)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hal,textSpan=(2002-2005)]	-Disambiguation:(tid=1953120, Title name=Hal_Anger) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hal Anger,textSpan=(2002-2011)]	-Disambiguation:(tid=1953120, Title name=Hal_Anger) gold wikification:=Hal_Anger isCorrectPrediction=Correct
+*Entity:[Anger,textSpan=(2006-2011)]	-Disambiguation:(tid=1953120, Title name=Hal_Anger) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the first,textSpan=(2024-2033)]	-Disambiguation:(tid=506952, Title name=Indo-Pakistani_War_of_1947) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma,textSpan=(2034-2039)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma camera,textSpan=(2034-2046)]	-Disambiguation:(tid=862494, Title name=Gamma_camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[camera,textSpan=(2040-2046)]	-Disambiguation:(tid=52648, Title name=Camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1957,textSpan=(2052-2056)]	-Disambiguation:(tid=34606, Title name=1957) gold wikification:=1957 isCorrectPrediction=Correct
+*Entity:[His,textSpan=(2060-2063)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[original,textSpan=(2064-2072)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[design,textSpan=(2073-2079)]	-Disambiguation:(tid=8560, Title name=Design) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Anger,textSpan=(2103-2108)]	-Disambiguation:(tid=1953120, Title name=Hal_Anger) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Anger camera,textSpan=(2103-2115)]	-Disambiguation:(tid=862494, Title name=Gamma_camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[camera,textSpan=(2109-2115)]	-Disambiguation:(tid=52648, Title name=Camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[today,textSpan=(2138-2143)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Anger,textSpan=(2149-2154)]	-Disambiguation:(tid=1953120, Title name=Hal_Anger) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Anger camera,textSpan=(2149-2161)]	-Disambiguation:(tid=862494, Title name=Gamma_camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[camera,textSpan=(2155-2161)]	-Disambiguation:(tid=52648, Title name=Camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sets,textSpan=(2167-2171)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tube,textSpan=(2224-2228)]	-Disambiguation:(tid=32496, Title name=Vacuum_tube) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[exposed,textSpan=(2236-2243)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[face,textSpan=(2244-2248)]	-Disambiguation:(tid=53234, Title name=Face) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[inches,textSpan=(2260-2266)]	-Disambiguation:(tid=14775, Title name=Inch) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[diameter,textSpan=(2270-2278)]	-Disambiguation:(tid=8007, Title name=Diameter) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the tubes,textSpan=(2283-2292)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tubes,textSpan=(2287-2292)]	-Disambiguation:(tid=32496, Title name=Vacuum_tube) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[arranged,textSpan=(2297-2305)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hexagon,textSpan=(2309-2316)]	-Disambiguation:(tid=59733, Title name=Hexagon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[configurations,textSpan=(2317-2331)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[absorbing,textSpan=(2344-2353)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[crystal,textSpan=(2354-2361)]	-Disambiguation:(tid=6015, Title name=Crystal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[electronic circuit,textSpan=(2367-2385)]	-Disambiguation:(tid=8707643, Title name=Electronic_circuit) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[electronic,textSpan=(2367-2377)]	-Disambiguation:(tid=9663, Title name=Electronics) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[circuit,textSpan=(2378-2385)]	-Disambiguation:(tid=40870, Title name=Circuit) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[photodetectors,textSpan=(2401-2415)]	-Disambiguation:(tid=1353789, Title name=Photodetector) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wired,textSpan=(2419-2424)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reflect,textSpan=(2434-2441)]	-Disambiguation:(tid=521267, Title name=Reflection_(physics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[relative,textSpan=(2446-2454)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[coincidence,textSpan=(2455-2466)]	-Disambiguation:(tid=1397857, Title name=Coincidence) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[light,textSpan=(2470-2475)]	-Disambiguation:(tid=17939, Title name=Light) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fluorescence,textSpan=(2476-2488)]	-Disambiguation:(tid=11555, Title name=Fluorescence) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the members,textSpan=(2502-2513)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[members,textSpan=(2506-2513)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the hexagon,textSpan=(2517-2528)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hexagon,textSpan=(2521-2528)]	-Disambiguation:(tid=59733, Title name=Hexagon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[detector,textSpan=(2529-2537)]	-Disambiguation:(tid=235757, Title name=Sensor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[array,textSpan=(2538-2543)]	-Disambiguation:(tid=2052, Title name=Array) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[All the PMTs,textSpan=(2545-2557)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[All,textSpan=(2545-2548)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[PMTs,textSpan=(2553-2557)]	-Disambiguation:(tid=177215, Title name=Photomultiplier) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flash,textSpan=(2600-2605)]	-Disambiguation:(tid=195752, Title name=Flash_(photography)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[light,textSpan=(2609-2614)]	-Disambiguation:(tid=17939, Title name=Light) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[varying,textSpan=(2618-2625)]	-Disambiguation:(tid=448251, Title name=Variation_(music)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[degrees,textSpan=(2626-2633)]	-Disambiguation:(tid=1195294, Title name=Degree_(angle)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[position,textSpan=(2654-2662)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the actual,textSpan=(2668-2678)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[actual,textSpan=(2672-2678)]	-Disambiguation:(tid=1643134, Title name=Glossary_of_professional_wrestling_terms) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[individual event,textSpan=(2679-2695)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[individual,textSpan=(2679-2689)]	-Disambiguation:(tid=14593, Title name=Individual) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[event,textSpan=(2690-2695)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[spatial,textSpan=(2706-2713)]	-Disambiguation:(tid=27667, Title name=Space) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[spatial location,textSpan=(2706-2722)]	-Disambiguation:(tid=593693, Title name=Point_(geometry)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[location,textSpan=(2714-2722)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[single,textSpan=(2731-2737)]	-Disambiguation:(tid=156540, Title name=Single_(music)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flash,textSpan=(2738-2743)]	-Disambiguation:(tid=195752, Title name=Flash_(photography)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fluorescence,textSpan=(2747-2759)]	-Disambiguation:(tid=11555, Title name=Fluorescence) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reflected,textSpan=(2763-2772)]	-Disambiguation:(tid=521267, Title name=Reflection_(physics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pattern,textSpan=(2778-2785)]	-Disambiguation:(tid=68351, Title name=Pattern) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[voltages,textSpan=(2789-2797)]	-Disambiguation:(tid=25001, Title name=Voltage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[circuit,textSpan=(2825-2832)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[array,textSpan=(2833-2838)]	-Disambiguation:(tid=2052, Title name=Array) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The location,textSpan=(2841-2853)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[location,textSpan=(2845-2853)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[interaction,textSpan=(2861-2872)]	-Disambiguation:(tid=201087, Title name=Interaction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma ray,textSpan=(2885-2894)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma,textSpan=(2885-2890)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ray,textSpan=(2891-2894)]	-Disambiguation:(tid=3364761, Title name=Ray_(optics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the crystal,textSpan=(2899-2910)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[crystal,textSpan=(2903-2910)]	-Disambiguation:(tid=6015, Title name=Crystal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[determined,textSpan=(2918-2928)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[voltage,textSpan=(2947-2954)]	-Disambiguation:(tid=32549, Title name=Voltage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[signals,textSpan=(2955-2962)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[photomultipliers,textSpan=(2972-2988)]	-Disambiguation:(tid=177215, Title name=Photomultiplier) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[simple,textSpan=(2993-2999)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[terms,textSpan=(3000-3005)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the location,textSpan=(3007-3019)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[location,textSpan=(3011-3019)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the position,textSpan=(3046-3058)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[position,textSpan=(3050-3058)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[photomultiplier,textSpan=(3067-3082)]	-Disambiguation:(tid=177215, Title name=Photomultiplier) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[photomultiplier tube,textSpan=(3067-3087)]	-Disambiguation:(tid=177215, Title name=Photomultiplier) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tube,textSpan=(3083-3087)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[strength,textSpan=(3095-3103)]	-Disambiguation:(tid=24236, Title name=Power_(physics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[signal,textSpan=(3111-3117)]	-Disambiguation:(tid=275871, Title name=Signal_(electrical_engineering)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[calculating,textSpan=(3128-3139)]	-Disambiguation:(tid=239121, Title name=Calculation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a mean,textSpan=(3140-3146)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[mean,textSpan=(3142-3146)]	-Disambiguation:(tid=19192, Title name=Mean) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[position,textSpan=(3147-3155)]	-Disambiguation:(tid=268217, Title name=Position) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[weighted,textSpan=(3165-3173)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[positions,textSpan=(3174-3183)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[total,textSpan=(3189-3194)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sum,textSpan=(3195-3198)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[voltages,textSpan=(3206-3214)]	-Disambiguation:(tid=25001, Title name=Voltage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[photomultiplier,textSpan=(3225-3240)]	-Disambiguation:(tid=177215, Title name=Photomultiplier) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[energy,textSpan=(3264-3270)]	-Disambiguation:(tid=9649, Title name=Energy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma,textSpan=(3278-3283)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma ray,textSpan=(3278-3287)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ray,textSpan=(3284-3287)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[interaction,textSpan=(3288-3299)]	-Disambiguation:(tid=201087, Title name=Interaction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[discrimination,textSpan=(3315-3329)]	-Disambiguation:(tid=8900, Title name=Discrimination) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[different,textSpan=(3338-3347)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[isotopes,textSpan=(3348-3356)]	-Disambiguation:(tid=14809, Title name=Isotope) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[scattered,textSpan=(3368-3377)]	-Disambiguation:(tid=55236, Title name=Compton_scattering) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[direct,textSpan=(3382-3388)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[photons,textSpan=(3389-3396)]	-Disambiguation:(tid=23535, Title name=Photon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[spatial information,textSpan=(3417-3436)]	-Disambiguation:(tid=3190431, Title name=Spatial_analysis) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[spatial,textSpan=(3417-3424)]	-Disambiguation:(tid=27667, Title name=Space) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma,textSpan=(3449-3454)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=Gamma isCorrectPrediction=Incorrect
+*Entity:[a person,textSpan=(3497-3505)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[person,textSpan=(3499-3505)]	-Disambiguation:(tid=682482, Title name=Human) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[heart,textSpan=(3508-3513)]	-Disambiguation:(tid=36808, Title name=Heart) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[heart muscle,textSpan=(3508-3520)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[muscle cells,textSpan=(3514-3526)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[muscle,textSpan=(3514-3520)]	-Disambiguation:(tid=19841, Title name=Muscle) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cells,textSpan=(3521-3526)]	-Disambiguation:(tid=4230, Title name=Cell_(biology)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[absorbed,textSpan=(3538-3546)]	-Disambiguation:(tid=1384005, Title name=Absorption_(electromagnetic_radiation)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[intravenous,textSpan=(3550-3561)]	-Disambiguation:(tid=178769, Title name=Intravenous_therapy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[injected,textSpan=(3562-3570)]	-Disambiguation:(tid=665909, Title name=Injection_(medicine)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radioactive,textSpan=(3571-3582)]	-Disambiguation:(tid=197767, Title name=Radioactive_decay) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a method,textSpan=(3649-3657)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[method,textSpan=(3651-3657)]	-Disambiguation:(tid=232817, Title name=Method_(computer_programming)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[detected,textSpan=(3677-3685)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[photons,textSpan=(3686-3693)]	-Disambiguation:(tid=23535, Title name=Photon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[point,textSpan=(3705-3710)]	-Disambiguation:(tid=593693, Title name=Point_(geometry)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[origin,textSpan=(3714-3720)]	-Disambiguation:(tid=1313432, Title name=Origin_(mathematics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[required,textSpan=(3724-3732)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[conventional,textSpan=(3738-3750)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[method,textSpan=(3751-3757)]	-Disambiguation:(tid=232817, Title name=Method_(computer_programming)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[place,textSpan=(3764-3769)]	-Disambiguation:(tid=586851, Title name=Place) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[collimator,textSpan=(3774-3784)]	-Disambiguation:(tid=1165029, Title name=Collimator) gold wikification:=Collimator isCorrectPrediction=Correct
+*Entity:[collimator,textSpan=(3830-3840)]	-Disambiguation:(tid=1165029, Title name=Collimator) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sheet,textSpan=(3861-3866)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[lead,textSpan=(3872-3876)]	-Disambiguation:(tid=17747, Title name=Lead) gold wikification:=Lead isCorrectPrediction=Correct
+*Entity:[1-3,textSpan=(3890-3893)]	-Disambiguation:(tid=3658264, Title name=1-3) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[inches,textSpan=(3894-3900)]	-Disambiguation:(tid=14775, Title name=Inch) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[thousands,textSpan=(3913-3922)]	-Disambiguation:(tid=442472, Title name=1000_(number)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[adjacent,textSpan=(3926-3934)]	-Disambiguation:(tid=1651508, Title name=Adjacent) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[holes,textSpan=(3935-3940)]	-Disambiguation:(tid=142534, Title name=Electron_hole) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The individual,textSpan=(3954-3968)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[individual,textSpan=(3958-3968)]	-Disambiguation:(tid=14593, Title name=Individual) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[holes,textSpan=(3969-3974)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[limit,textSpan=(3975-3980)]	-Disambiguation:(tid=19340, Title name=Limit_(mathematics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[photons,textSpan=(3981-3988)]	-Disambiguation:(tid=23535, Title name=Photon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[detected,textSpan=(4002-4010)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the crystal,textSpan=(4014-4025)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[crystal,textSpan=(4018-4025)]	-Disambiguation:(tid=6015, Title name=Crystal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cone,textSpan=(4031-4035)]	-Disambiguation:(tid=782427, Title name=Cone) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the point,textSpan=(4037-4046)]	-Disambiguation:(tid=620833, Title name=The_point_(ice_hockey)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[point,textSpan=(4041-4046)]	-Disambiguation:(tid=593693, Title name=Point_(geometry)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cone,textSpan=(4054-4058)]	-Disambiguation:(tid=782427, Title name=Cone) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[midline,textSpan=(4069-4076)]	-Disambiguation:(tid=10188048, Title name=Dental_midline) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[center,textSpan=(4077-4083)]	-Disambiguation:(tid=652569, Title name=Center_(basketball)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[given,textSpan=(4091-4096)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hole,textSpan=(4097-4101)]	-Disambiguation:(tid=142534, Title name=Electron_hole) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[collimator,textSpan=(4123-4133)]	-Disambiguation:(tid=1165029, Title name=Collimator) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[surface,textSpan=(4134-4141)]	-Disambiguation:(tid=27865, Title name=Surface) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[collimator,textSpan=(4165-4175)]	-Disambiguation:(tid=1165029, Title name=Collimator) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sources,textSpan=(4195-4202)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the image,textSpan=(4222-4231)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[image,textSpan=(4226-4231)]	-Disambiguation:(tid=71925, Title name=Image) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[lead,textSpan=(4233-4237)]	-Disambiguation:(tid=17747, Title name=Lead) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[does not,textSpan=(4238-4246)]	-Disambiguation:(tid=764891, Title name=Concealed_ovulation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[totally,textSpan=(4247-4254)]	-Disambiguation:(tid=192386, Title name=Block_voting) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[attenuate,textSpan=(4255-4264)]	-Disambiguation:(tid=40735, Title name=Attenuation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[incident,textSpan=(4265-4273)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma,textSpan=(4274-4279)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[photons,textSpan=(4280-4287)]	-Disambiguation:(tid=23535, Title name=Photon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[holes,textSpan=(4329-4334)]	-Disambiguation:(tid=142534, Title name=Electron_hole) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[lens,textSpan=(4345-4349)]	-Disambiguation:(tid=18320, Title name=Lens_(optics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[visible light,textSpan=(4362-4375)]	-Disambiguation:(tid=41464, Title name=Visible_spectrum) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[visible,textSpan=(4362-4369)]	-Disambiguation:(tid=41464, Title name=Visible_spectrum) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[light,textSpan=(4370-4375)]	-Disambiguation:(tid=17939, Title name=Light) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cameras,textSpan=(4376-4383)]	-Disambiguation:(tid=52648, Title name=Camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[collimator,textSpan=(4389-4399)]	-Disambiguation:(tid=1165029, Title name=Collimator) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[incident,textSpan=(4426-4434)]	-Disambiguation:(tid=1652071, Title name=Incident) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[photons,textSpan=(4435-4442)]	-Disambiguation:(tid=23535, Title name=Photon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sensitivity,textSpan=(4471-4482)]	-Disambiguation:(tid=5599330, Title name=Sensitivity_and_specificity) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[camera system,textSpan=(4490-4503)]	-Disambiguation:(tid=420204, Title name=System_camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[camera,textSpan=(4490-4496)]	-Disambiguation:(tid=52648, Title name=Camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Large,textSpan=(4505-4510)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[amounts,textSpan=(4511-4518)]	-Disambiguation:(tid=759264, Title name=Amount_of_substance) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radiation,textSpan=(4522-4531)]	-Disambiguation:(tid=25856, Title name=Radiation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[exposure,textSpan=(4572-4580)]	-Disambiguation:(tid=166868, Title name=Exposure_(photography)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[camera system,textSpan=(4589-4602)]	-Disambiguation:(tid=420204, Title name=System_camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[camera,textSpan=(4589-4595)]	-Disambiguation:(tid=52648, Title name=Camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[detect,textSpan=(4606-4612)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sufficient,textSpan=(4613-4623)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[scintillation,textSpan=(4624-4637)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dots,textSpan=(4638-4642)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[form,textSpan=(4646-4650)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[picture,textSpan=(4653-4660)]	-Disambiguation:(tid=71925, Title name=Image) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Other methods,textSpan=(4662-4675)]	-Disambiguation:(tid=29090, Title name=Software_testing) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Other,textSpan=(4662-4667)]	-Disambiguation:(tid=972208, Title name=Other) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[methods,textSpan=(4668-4675)]	-Disambiguation:(tid=232817, Title name=Method_(computer_programming)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pinhole,textSpan=(4701-4708)]	-Disambiguation:(tid=81609, Title name=Pinhole_camera) gold wikification:=Pinhole_camera isCorrectPrediction=Correct
+*Entity:[slat,textSpan=(4721-4725)]	-Disambiguation:(tid=81239, Title name=Slat) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[collimator,textSpan=(4726-4736)]	-Disambiguation:(tid=1165029, Title name=Collimator) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[CZT,textSpan=(4744-4747)]	-Disambiguation:(tid=2379771, Title name=Cadmium_zinc_telluride) gold wikification:=Cadmium_zinc_telluride isCorrectPrediction=Correct
+*Entity:[Gagnon,textSpan=(4751-4757)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Matthews,textSpan=(4762-4770)]	-Disambiguation:(tid=128042, Title name=Matthews,_North_Carolina) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[have been,textSpan=(4784-4793)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[proposed,textSpan=(4794-4802)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tested,textSpan=(4807-4813)]	-Disambiguation:(tid=339553, Title name=Diagnosis_of_HIV/AIDS) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[entered,textSpan=(4834-4841)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[widespread,textSpan=(4842-4852)]	-Disambiguation:(tid=10021, Title name=Educational_perennialism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[routine,textSpan=(4853-4860)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[clinical use,textSpan=(4861-4873)]	-Disambiguation:(tid=832314, Title name=Clinic) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[clinical,textSpan=(4861-4869)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The best,textSpan=(4875-4883)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[best,textSpan=(4879-4883)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[current,textSpan=(4884-4891)]	-Disambiguation:(tid=6207, Title name=Electric_current) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[camera system,textSpan=(4892-4905)]	-Disambiguation:(tid=420204, Title name=System_camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[camera,textSpan=(4892-4898)]	-Disambiguation:(tid=52648, Title name=Camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[designs,textSpan=(4906-4913)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[differentiate,textSpan=(4918-4931)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[separate,textSpan=(4936-4944)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[point,textSpan=(4945-4950)]	-Disambiguation:(tid=593693, Title name=Point_(geometry)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[point sources,textSpan=(4945-4958)]	-Disambiguation:(tid=6956352, Title name=Air_pollution_dispersion_terminology) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sources,textSpan=(4951-4958)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma,textSpan=(4962-4967)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[photons,textSpan=(4968-4975)]	-Disambiguation:(tid=23535, Title name=Photon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[minimum,textSpan=(4986-4993)]	-Disambiguation:(tid=260963, Title name=Maxima_and_minima) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[5 cm,textSpan=(5014-5018)]	-Disambiguation:(tid=36028, Title name=1_centimetre) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[camera,textSpan=(5033-5039)]	-Disambiguation:(tid=52648, Title name=Camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[face,textSpan=(5040-5044)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Spatial,textSpan=(5046-5053)]	-Disambiguation:(tid=27667, Title name=Space) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Spatial resolution,textSpan=(5046-5064)]	-Disambiguation:(tid=230428, Title name=Angular_resolution) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[resolution,textSpan=(5054-5064)]	-Disambiguation:(tid=230428, Title name=Angular_resolution) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[decreases,textSpan=(5065-5074)]	-Disambiguation:(tid=4954848, Title name=Decrease_(knitting)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[distances,textSpan=(5097-5106)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[camera,textSpan=(5116-5122)]	-Disambiguation:(tid=52648, Title name=Camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[face,textSpan=(5123-5127)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[This,textSpan=(5129-5133)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[spatial,textSpan=(5145-5152)]	-Disambiguation:(tid=27667, Title name=Space) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[accuracy,textSpan=(5153-5161)]	-Disambiguation:(tid=41932, Title name=Accuracy_and_precision) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fuzzy,textSpan=(5193-5198)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[image,textSpan=(5199-5204)]	-Disambiguation:(tid=71925, Title name=Image) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dots,textSpan=(5221-5225)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[detected,textSpan=(5229-5237)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[precisely,textSpan=(5246-5255)]	-Disambiguation:(tid=41572, Title name=Precision) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[located,textSpan=(5256-5263)]	-Disambiguation:(tid=2393292, Title name=Location_(geography)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[scintillation,textSpan=(5264-5277)]	-Disambiguation:(tid=826258, Title name=Scintillation_(physics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[This,textSpan=(5279-5283)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a major,textSpan=(5287-5294)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[major,textSpan=(5289-5294)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[limitation,textSpan=(5295-5305)]	-Disambiguation:(tid=26917, Title name=Statute_of_limitations) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[heart,textSpan=(5310-5315)]	-Disambiguation:(tid=36808, Title name=Heart) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[heart muscle,textSpan=(5310-5322)]	-Disambiguation:(tid=502364, Title name=Cardiac_muscle) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[muscle,textSpan=(5316-5322)]	-Disambiguation:(tid=19841, Title name=Muscle) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[imaging,textSpan=(5323-5330)]	-Disambiguation:(tid=226446, Title name=Imaging) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[systems,textSpan=(5331-5338)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[normal heart,textSpan=(5353-5365)]	-Disambiguation:(tid=3223450, Title name=The_Normal_Heart) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[normal,textSpan=(5353-5359)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[heart,textSpan=(5360-5365)]	-Disambiguation:(tid=36808, Title name=Heart) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[heart muscle,textSpan=(5360-5372)]	-Disambiguation:(tid=502364, Title name=Cardiac_muscle) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[muscle,textSpan=(5366-5372)]	-Disambiguation:(tid=19841, Title name=Muscle) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the left,textSpan=(5376-5384)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[left ventricle,textSpan=(5380-5394)]	-Disambiguation:(tid=254612, Title name=Left_ventricle) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[left,textSpan=(5380-5384)]	-Disambiguation:(tid=254615, Title name=Left_atrium) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ventricle,textSpan=(5385-5394)]	-Disambiguation:(tid=262572, Title name=Ventricle_(heart)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1.2,textSpan=(5404-5407)]	-Disambiguation:(tid=9737725, Title name=UCI_race_classifications) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the left,textSpan=(5423-5431)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[left,textSpan=(5427-5431)]	-Disambiguation:(tid=254615, Title name=Left_atrium) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[left ventricle,textSpan=(5427-5441)]	-Disambiguation:(tid=254612, Title name=Left_ventricle) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ventricle,textSpan=(5432-5441)]	-Disambiguation:(tid=262572, Title name=Ventricle_(heart)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[muscle,textSpan=(5442-5448)]	-Disambiguation:(tid=19841, Title name=Muscle) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[moving,textSpan=(5473-5479)]	-Disambiguation:(tid=20580, Title name=Motion_(physics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[5 cm,textSpan=(5502-5506)]	-Disambiguation:(tid=36028, Title name=1_centimetre) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[collimator,textSpan=(5516-5526)]	-Disambiguation:(tid=1165029, Title name=Collimator) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[face,textSpan=(5527-5531)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[To,textSpan=(5533-5535)]	-Disambiguation:(tid=436105, Title name=TO) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[compensate,textSpan=(5541-5551)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[better,textSpan=(5553-5559)]	-Disambiguation:(tid=8681, Title name=Data_compression_ratio) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[imaging,textSpan=(5560-5567)]	-Disambiguation:(tid=226446, Title name=Imaging) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[systems,textSpan=(5568-5575)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[scintillation,textSpan=(5582-5595)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a portion,textSpan=(5608-5617)]	-Disambiguation:(tid=3763936, Title name=Lamb_(liturgy)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[portion,textSpan=(5610-5617)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the heart,textSpan=(5621-5630)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[heart contraction,textSpan=(5625-5642)]	-Disambiguation:(tid=2545495, Title name=Systole_(medicine)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[heart,textSpan=(5625-5630)]	-Disambiguation:(tid=36808, Title name=Heart) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[contraction,textSpan=(5631-5642)]	-Disambiguation:(tid=590473, Title name=Contraction_(grammar)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cycle,textSpan=(5643-5648)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[called,textSpan=(5650-5656)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gating,textSpan=(5657-5663)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[limits,textSpan=(5686-5692)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sensitivity,textSpan=(5700-5711)]	-Disambiguation:(tid=5599330, Title name=Sensitivity_and_specificity) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[SPECT,textSpan=(5715-5720)]	-Disambiguation:(tid=291499, Title name=Single-photon_emission_computed_tomography) gold wikification:=Single-photon_emission_computed_tomography isCorrectPrediction=Correct
+*Entity:[performed,textSpan=(5826-5835)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma,textSpan=(5842-5847)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cameras,textSpan=(5848-5855)]	-Disambiguation:(tid=52648, Title name=Camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[slowly,textSpan=(5907-5913)]	-Disambiguation:(tid=11985062, Title name=Slowly_growing_Mycobacteria) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rotated,textSpan=(5914-5921)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the patient,textSpan=(5929-5940)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[patient,textSpan=(5933-5940)]	-Disambiguation:(tid=437724, Title name=Patient) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[torso,textSpan=(5943-5948)]	-Disambiguation:(tid=674207, Title name=Trunk_(anatomy)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Multi-headed,textSpan=(5950-5962)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma,textSpan=(5963-5968)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cameras,textSpan=(5969-5976)]	-Disambiguation:(tid=52648, Title name=Camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Positron,textSpan=(6000-6008)]	-Disambiguation:(tid=24731, Title name=Positron) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Positron emission,textSpan=(6000-6017)]	-Disambiguation:(tid=391267, Title name=Positron_emission) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Positron emission tomography,textSpan=(6000-6028)]	-Disambiguation:(tid=24032, Title name=Positron_emission_tomography) gold wikification:=Positron_emission_tomography isCorrectPrediction=Correct
+*Entity:[emission,textSpan=(6009-6017)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tomography,textSpan=(6018-6028)]	-Disambiguation:(tid=50982, Title name=X-ray_computed_tomography) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hardware,textSpan=(6061-6069)]	-Disambiguation:(tid=13615, Title name=Hardware) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[software,textSpan=(6074-6082)]	-Disambiguation:(tid=5309, Title name=Software) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[configured,textSpan=(6090-6100)]	-Disambiguation:(tid=10051193, Title name=Configure_script) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[detect,textSpan=(6104-6110)]	-Disambiguation:(tid=10375, Title name=Error_detection_and_correction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[simultaneous,textSpan=(6132-6144)]	-Disambiguation:(tid=28757, Title name=Simultaneity) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[events,textSpan=(6145-6151)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[different,textSpan=(6157-6166)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[heads,textSpan=(6167-6172)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gamma,textSpan=(6175-6180)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gamma camera,textSpan=(6175-6187)]	-Disambiguation:(tid=862494, Title name=Gamma_camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[camera,textSpan=(6181-6187)]	-Disambiguation:(tid=52648, Title name=Camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[PET,textSpan=(6188-6191)]	-Disambiguation:(tid=24032, Title name=Positron_emission_tomography) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[inferior,textSpan=(6204-6212)]	-Disambiguation:(tid=168041, Title name=Anatomical_terms_of_location) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[PET imaging,textSpan=(6216-6227)]	-Disambiguation:(tid=24032, Title name=Positron_emission_tomography) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[PET,textSpan=(6216-6219)]	-Disambiguation:(tid=24032, Title name=Positron_emission_tomography) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[imaging,textSpan=(6220-6227)]	-Disambiguation:(tid=19446, Title name=Magnetic_resonance_imaging) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[purpose,textSpan=(6235-6242)]	-Disambiguation:(tid=191444, Title name=Intention) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[PET scanner,textSpan=(6252-6263)]	-Disambiguation:(tid=24032, Title name=Positron_emission_tomography) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[PET,textSpan=(6252-6255)]	-Disambiguation:(tid=24032, Title name=Positron_emission_tomography) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[scanner,textSpan=(6256-6263)]	-Disambiguation:(tid=26799, Title name=Scanner) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[scintillator,textSpan=(6272-6284)]	-Disambiguation:(tid=454323, Title name=Scintillator) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[crystal,textSpan=(6285-6292)]	-Disambiguation:(tid=6015, Title name=Crystal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[poor,textSpan=(6297-6301)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sensitivity,textSpan=(6302-6313)]	-Disambiguation:(tid=5599330, Title name=Sensitivity_and_specificity) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[high-energy,textSpan=(6322-6333)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[annihilation,textSpan=(6334-6346)]	-Disambiguation:(tid=346133, Title name=Annihilation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[photons,textSpan=(6347-6354)]	-Disambiguation:(tid=23535, Title name=Photon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[detector,textSpan=(6364-6372)]	-Disambiguation:(tid=478538, Title name=Particle_detector) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[area,textSpan=(6373-6377)]	-Disambiguation:(tid=1209, Title name=Area) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[significantly,textSpan=(6381-6394)]	-Disambiguation:(tid=160995, Title name=Statistical_significance) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[smaller,textSpan=(6395-6402)]	-Disambiguation:(tid=393069, Title name=Comparison_of_topologies) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[low cost,textSpan=(6423-6431)]	-Disambiguation:(tid=995531, Title name=No_frills) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[low,textSpan=(6423-6426)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cost,textSpan=(6427-6431)]	-Disambiguation:(tid=166789, Title name=Cost) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma camera,textSpan=(6437-6449)]	-Disambiguation:(tid=862494, Title name=Gamma_camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gamma,textSpan=(6437-6442)]	-Disambiguation:(tid=12508, Title name=Gamma_ray) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[camera,textSpan=(6443-6449)]	-Disambiguation:(tid=52648, Title name=Camera) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[additional,textSpan=(6458-6468)]	-Disambiguation:(tid=5865926, Title name=Supernumerary_body_part) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flexibility,textSpan=(6469-6480)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dedicated,textSpan=(6495-6504)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[PET,textSpan=(6505-6508)]	-Disambiguation:(tid=24032, Title name=Positron_emission_tomography) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[PET scanner,textSpan=(6505-6516)]	-Disambiguation:(tid=24032, Title name=Positron_emission_tomography) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[scanner,textSpan=(6509-6516)]	-Disambiguation:(tid=26799, Title name=Scanner) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[technique,textSpan=(6523-6532)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[expense,textSpan=(6553-6560)]	-Disambiguation:(tid=265319, Title name=Expense) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[resource,textSpan=(6565-6573)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[implications,textSpan=(6574-6586)]	-Disambiguation:(tid=169344, Title name=Implication) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[PET scanner,textSpan=(6592-6603)]	-Disambiguation:(tid=24032, Title name=Positron_emission_tomography) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[PET,textSpan=(6592-6595)]	-Disambiguation:(tid=24032, Title name=Positron_emission_tomography) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[scanner,textSpan=(6596-6603)]	-Disambiguation:(tid=26799, Title name=Scanner) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[justified,textSpan=(6614-6623)]	-Disambiguation:(tid=394049, Title name=Justification_(typesetting)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'gamma' start in text:2 end in text: 7; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma camera' start in text:2 end in text: 14; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'camera' start in text:8 end in text: 14; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a device' start in text:18 end in text: 26; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'device' start in text:20 end in text: 26; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'image' start in text:35 end in text: 40; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma radiation' start in text:41 end in text: 56; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma' start in text:41 end in text: 46; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radiation' start in text:47 end in text: 56; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radioisotopes' start in text:66 end in text: 79; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a technique' start in text:81 end in text: 92; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'technique' start in text:83 end in text: 92; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'scintigraphy' start in text:102 end in text: 114; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'applications' start in text:120 end in text: 132; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'scintigraphy' start in text:136 end in text: 148; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'early' start in text:157 end in text: 162; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'drug' start in text:163 end in text: 167; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'drug development' start in text:163 end in text: 179; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'development' start in text:168 end in text: 179; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nuclear' start in text:186 end in text: 193; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nuclear medical imaging' start in text:186 end in text: 209; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'medical' start in text:194 end in text: 201; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'medical imaging' start in text:194 end in text: 209; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'imaging' start in text:202 end in text: 209; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'view' start in text:215 end in text: 219; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'analyse' start in text:224 end in text: 231; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'images' start in text:232 end in text: 238; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the human body' start in text:242 end in text: 256; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'human' start in text:246 end in text: 251; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'human body' start in text:246 end in text: 256; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'body' start in text:252 end in text: 256; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'distribution' start in text:264 end in text: 276; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'medically' start in text:280 end in text: 289; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'injected' start in text:290 end in text: 298; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radionuclides' start in text:323 end in text: 336; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma ray' start in text:350 end in text: 359; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma' start in text:350 end in text: 355; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ray' start in text:356 end in text: 359; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma' start in text:366 end in text: 371; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma camera' start in text:366 end in text: 378; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'camera' start in text:372 end in text: 378; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flat' start in text:403 end in text: 407; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'crystal' start in text:408 end in text: 415; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'planes' start in text:416 end in text: 422; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'detectors' start in text:427 end in text: 436; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'optically' start in text:438 end in text: 447; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'coupled' start in text:448 end in text: 455; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'array' start in text:462 end in text: 467; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'photomultiplier tubes' start in text:471 end in text: 492; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'photomultiplier' start in text:471 end in text: 486; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tubes' start in text:487 end in text: 492; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the assembly' start in text:494 end in text: 506; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'assembly' start in text:498 end in text: 506; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'known' start in text:510 end in text: 515; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gantry' start in text:546 end in text: 552; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gantry' start in text:558 end in text: 564; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'connected' start in text:568 end in text: 577; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'computer system' start in text:583 end in text: 598; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the operation' start in text:618 end in text: 631; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'operation' start in text:622 end in text: 631; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'camera' start in text:639 end in text: 645; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'acquisition' start in text:657 end in text: 668; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'storage' start in text:673 end in text: 680; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'acquired' start in text:684 end in text: 692; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'images' start in text:693 end in text: 699; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The system' start in text:701 end in text: 711; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'events' start in text:724 end in text: 730; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'counts' start in text:735 end in text: 741; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma' start in text:748 end in text: 753; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'photon' start in text:758 end in text: 764; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'absorbed' start in text:777 end in text: 785; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the crystal' start in text:789 end in text: 800; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'crystal' start in text:793 end in text: 800; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'camera' start in text:808 end in text: 814; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'large' start in text:826 end in text: 831; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flat' start in text:832 end in text: 836; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'crystal' start in text:837 end in text: 844; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sodium' start in text:848 end in text: 854; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'thallium' start in text:867 end in text: 875; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'doping' start in text:876 end in text: 882; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'housing' start in text:901 end in text: 908; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'highly efficient' start in text:922 end in text: 938; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'highly' start in text:922 end in text: 928; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'efficient' start in text:929 end in text: 938; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'capture' start in text:939 end in text: 946; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'method' start in text:947 end in text: 953; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'combination' start in text:962 end in text: 973; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma rays' start in text:988 end in text: 998; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma' start in text:988 end in text: 993; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rays' start in text:994 end in text: 998; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'discovered' start in text:1003 end in text: 1013; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Robert Hofstadter' start in text:1035 end in text: 1052; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1948' start in text:1058 end in text: 1062; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'scintillate' start in text:1081 end in text: 1092; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'response' start in text:1099 end in text: 1107; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'incident' start in text:1111 end in text: 1119; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma radiation' start in text:1120 end in text: 1135; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma' start in text:1120 end in text: 1125; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radiation' start in text:1126 end in text: 1135; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma photon' start in text:1144 end in text: 1156; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma' start in text:1144 end in text: 1149; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'photon' start in text:1150 end in text: 1156; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the patient' start in text:1164 end in text: 1175; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'patient' start in text:1168 end in text: 1175; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'has been' start in text:1181 end in text: 1189; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'injected' start in text:1190 end in text: 1198; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'electron' start in text:1252 end in text: 1260; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'loose' start in text:1261 end in text: 1266; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'iodine atom' start in text:1275 end in text: 1286; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'iodine' start in text:1275 end in text: 1281; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'atom' start in text:1282 end in text: 1286; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the crystal' start in text:1290 end in text: 1301; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'crystal' start in text:1294 end in text: 1301; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'faint' start in text:1309 end in text: 1314; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flash' start in text:1315 end in text: 1320; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'light' start in text:1324 end in text: 1329; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'produced' start in text:1333 end in text: 1341; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dislocated' start in text:1351 end in text: 1361; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'electron' start in text:1362 end in text: 1370; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'minimal' start in text:1385 end in text: 1392; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'energy state' start in text:1393 end in text: 1405; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'energy' start in text:1393 end in text: 1399; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'state' start in text:1400 end in text: 1405; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'initial' start in text:1411 end in text: 1418; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'phenomenon' start in text:1419 end in text: 1429; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'excited' start in text:1437 end in text: 1444; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'electron' start in text:1445 end in text: 1453; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma' start in text:1520 end in text: 1525; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma rays' start in text:1520 end in text: 1530; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rays' start in text:1526 end in text: 1530; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Compton effect' start in text:1538 end in text: 1552; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Compton' start in text:1538 end in text: 1545; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the flash' start in text:1562 end in text: 1571; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'flash' start in text:1566 end in text: 1571; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'light' start in text:1575 end in text: 1580; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'produced' start in text:1584 end in text: 1592; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'detected' start in text:1600 end in text: 1608; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Photomultiplier' start in text:1612 end in text: 1627; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'PMTs' start in text:1637 end in text: 1641; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the crystal' start in text:1650 end in text: 1661; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'crystal' start in text:1654 end in text: 1661; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the counts' start in text:1722 end in text: 1732; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'counts' start in text:1726 end in text: 1732; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reconstructs' start in text:1747 end in text: 1759; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'two dimensional' start in text:1775 end in text: 1790; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dimensional' start in text:1779 end in text: 1790; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'image' start in text:1791 end in text: 1796; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'relative' start in text:1804 end in text: 1812; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'spatial' start in text:1813 end in text: 1820; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'count' start in text:1821 end in text: 1826; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'density' start in text:1827 end in text: 1834; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'monitor' start in text:1840 end in text: 1847; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'This' start in text:1849 end in text: 1853; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reconstructed' start in text:1854 end in text: 1867; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'image' start in text:1868 end in text: 1873; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'distribution' start in text:1887 end in text: 1899; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'relative' start in text:1904 end in text: 1912; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'concentration' start in text:1913 end in text: 1926; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radioactive tracer' start in text:1930 end in text: 1948; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radioactive' start in text:1930 end in text: 1941; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tracer' start in text:1942 end in text: 1948; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'elements' start in text:1949 end in text: 1957; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'organs' start in text:1973 end in text: 1979; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tissues' start in text:1984 end in text: 1991; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hal' start in text:2002 end in text: 2005; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hal Anger' start in text:2002 end in text: 2011; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Anger' start in text:2006 end in text: 2011; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the first' start in text:2024 end in text: 2033; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma' start in text:2034 end in text: 2039; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma camera' start in text:2034 end in text: 2046; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'camera' start in text:2040 end in text: 2046; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1957' start in text:2052 end in text: 2056; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'His' start in text:2060 end in text: 2063; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'original' start in text:2064 end in text: 2072; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'design' start in text:2073 end in text: 2079; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Anger' start in text:2103 end in text: 2108; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Anger camera' start in text:2103 end in text: 2115; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'camera' start in text:2109 end in text: 2115; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'today' start in text:2138 end in text: 2143; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Anger' start in text:2149 end in text: 2154; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Anger camera' start in text:2149 end in text: 2161; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'camera' start in text:2155 end in text: 2161; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sets' start in text:2167 end in text: 2171; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tube' start in text:2224 end in text: 2228; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'exposed' start in text:2236 end in text: 2243; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'face' start in text:2244 end in text: 2248; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'inches' start in text:2260 end in text: 2266; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'diameter' start in text:2270 end in text: 2278; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the tubes' start in text:2283 end in text: 2292; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'tubes' start in text:2287 end in text: 2292; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'arranged' start in text:2297 end in text: 2305; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hexagon' start in text:2309 end in text: 2316; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'configurations' start in text:2317 end in text: 2331; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'absorbing' start in text:2344 end in text: 2353; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'crystal' start in text:2354 end in text: 2361; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'electronic circuit' start in text:2367 end in text: 2385; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'electronic' start in text:2367 end in text: 2377; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'circuit' start in text:2378 end in text: 2385; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'photodetectors' start in text:2401 end in text: 2415; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wired' start in text:2419 end in text: 2424; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reflect' start in text:2434 end in text: 2441; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'relative' start in text:2446 end in text: 2454; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'coincidence' start in text:2455 end in text: 2466; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'light' start in text:2470 end in text: 2475; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fluorescence' start in text:2476 end in text: 2488; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the members' start in text:2502 end in text: 2513; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'members' start in text:2506 end in text: 2513; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the hexagon' start in text:2517 end in text: 2528; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'hexagon' start in text:2521 end in text: 2528; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'detector' start in text:2529 end in text: 2537; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'array' start in text:2538 end in text: 2543; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'All the PMTs' start in text:2545 end in text: 2557; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'All' start in text:2545 end in text: 2548; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'PMTs' start in text:2553 end in text: 2557; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flash' start in text:2600 end in text: 2605; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'light' start in text:2609 end in text: 2614; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'varying' start in text:2618 end in text: 2625; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'degrees' start in text:2626 end in text: 2633; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'position' start in text:2654 end in text: 2662; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the actual' start in text:2668 end in text: 2678; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'actual' start in text:2672 end in text: 2678; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'individual event' start in text:2679 end in text: 2695; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'individual' start in text:2679 end in text: 2689; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'event' start in text:2690 end in text: 2695; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'spatial' start in text:2706 end in text: 2713; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'spatial location' start in text:2706 end in text: 2722; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'location' start in text:2714 end in text: 2722; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'single' start in text:2731 end in text: 2737; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flash' start in text:2738 end in text: 2743; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fluorescence' start in text:2747 end in text: 2759; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reflected' start in text:2763 end in text: 2772; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pattern' start in text:2778 end in text: 2785; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'voltages' start in text:2789 end in text: 2797; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'circuit' start in text:2825 end in text: 2832; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'array' start in text:2833 end in text: 2838; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The location' start in text:2841 end in text: 2853; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'location' start in text:2845 end in text: 2853; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'interaction' start in text:2861 end in text: 2872; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma ray' start in text:2885 end in text: 2894; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma' start in text:2885 end in text: 2890; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ray' start in text:2891 end in text: 2894; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the crystal' start in text:2899 end in text: 2910; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'crystal' start in text:2903 end in text: 2910; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'determined' start in text:2918 end in text: 2928; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'voltage' start in text:2947 end in text: 2954; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'signals' start in text:2955 end in text: 2962; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'photomultipliers' start in text:2972 end in text: 2988; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'simple' start in text:2993 end in text: 2999; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'terms' start in text:3000 end in text: 3005; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the location' start in text:3007 end in text: 3019; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'location' start in text:3011 end in text: 3019; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the position' start in text:3046 end in text: 3058; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'position' start in text:3050 end in text: 3058; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'photomultiplier' start in text:3067 end in text: 3082; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'photomultiplier tube' start in text:3067 end in text: 3087; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tube' start in text:3083 end in text: 3087; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'strength' start in text:3095 end in text: 3103; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'signal' start in text:3111 end in text: 3117; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'calculating' start in text:3128 end in text: 3139; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a mean' start in text:3140 end in text: 3146; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'mean' start in text:3142 end in text: 3146; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'position' start in text:3147 end in text: 3155; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'weighted' start in text:3165 end in text: 3173; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'positions' start in text:3174 end in text: 3183; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'total' start in text:3189 end in text: 3194; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sum' start in text:3195 end in text: 3198; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'voltages' start in text:3206 end in text: 3214; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'photomultiplier' start in text:3225 end in text: 3240; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'energy' start in text:3264 end in text: 3270; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma' start in text:3278 end in text: 3283; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma ray' start in text:3278 end in text: 3287; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ray' start in text:3284 end in text: 3287; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'interaction' start in text:3288 end in text: 3299; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'discrimination' start in text:3315 end in text: 3329; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'different' start in text:3338 end in text: 3347; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'isotopes' start in text:3348 end in text: 3356; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'scattered' start in text:3368 end in text: 3377; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'direct' start in text:3382 end in text: 3388; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'photons' start in text:3389 end in text: 3396; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'spatial information' start in text:3417 end in text: 3436; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'spatial' start in text:3417 end in text: 3424; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma' start in text:3449 end in text: 3454; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a person' start in text:3497 end in text: 3505; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'person' start in text:3499 end in text: 3505; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'heart' start in text:3508 end in text: 3513; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'heart muscle' start in text:3508 end in text: 3520; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'muscle cells' start in text:3514 end in text: 3526; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'muscle' start in text:3514 end in text: 3520; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cells' start in text:3521 end in text: 3526; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'absorbed' start in text:3538 end in text: 3546; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'intravenous' start in text:3550 end in text: 3561; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'injected' start in text:3562 end in text: 3570; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radioactive' start in text:3571 end in text: 3582; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a method' start in text:3649 end in text: 3657; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'method' start in text:3651 end in text: 3657; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'detected' start in text:3677 end in text: 3685; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'photons' start in text:3686 end in text: 3693; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'point' start in text:3705 end in text: 3710; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'origin' start in text:3714 end in text: 3720; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'required' start in text:3724 end in text: 3732; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'conventional' start in text:3738 end in text: 3750; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'method' start in text:3751 end in text: 3757; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'place' start in text:3764 end in text: 3769; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'collimator' start in text:3774 end in text: 3784; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'collimator' start in text:3830 end in text: 3840; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sheet' start in text:3861 end in text: 3866; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'lead' start in text:3872 end in text: 3876; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1-3' start in text:3890 end in text: 3893; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'inches' start in text:3894 end in text: 3900; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'thousands' start in text:3913 end in text: 3922; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'adjacent' start in text:3926 end in text: 3934; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'holes' start in text:3935 end in text: 3940; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The individual' start in text:3954 end in text: 3968; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'individual' start in text:3958 end in text: 3968; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'holes' start in text:3969 end in text: 3974; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'limit' start in text:3975 end in text: 3980; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'photons' start in text:3981 end in text: 3988; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'detected' start in text:4002 end in text: 4010; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the crystal' start in text:4014 end in text: 4025; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'crystal' start in text:4018 end in text: 4025; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cone' start in text:4031 end in text: 4035; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the point' start in text:4037 end in text: 4046; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'point' start in text:4041 end in text: 4046; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cone' start in text:4054 end in text: 4058; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'midline' start in text:4069 end in text: 4076; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'center' start in text:4077 end in text: 4083; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'given' start in text:4091 end in text: 4096; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hole' start in text:4097 end in text: 4101; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'collimator' start in text:4123 end in text: 4133; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'surface' start in text:4134 end in text: 4141; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'collimator' start in text:4165 end in text: 4175; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sources' start in text:4195 end in text: 4202; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the image' start in text:4222 end in text: 4231; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'image' start in text:4226 end in text: 4231; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'lead' start in text:4233 end in text: 4237; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'does not' start in text:4238 end in text: 4246; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'totally' start in text:4247 end in text: 4254; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'attenuate' start in text:4255 end in text: 4264; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'incident' start in text:4265 end in text: 4273; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma' start in text:4274 end in text: 4279; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'photons' start in text:4280 end in text: 4287; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'holes' start in text:4329 end in text: 4334; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'lens' start in text:4345 end in text: 4349; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'visible light' start in text:4362 end in text: 4375; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'visible' start in text:4362 end in text: 4369; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'light' start in text:4370 end in text: 4375; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cameras' start in text:4376 end in text: 4383; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'collimator' start in text:4389 end in text: 4399; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'incident' start in text:4426 end in text: 4434; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'photons' start in text:4435 end in text: 4442; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sensitivity' start in text:4471 end in text: 4482; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'camera system' start in text:4490 end in text: 4503; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'camera' start in text:4490 end in text: 4496; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Large' start in text:4505 end in text: 4510; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'amounts' start in text:4511 end in text: 4518; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radiation' start in text:4522 end in text: 4531; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'exposure' start in text:4572 end in text: 4580; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'camera system' start in text:4589 end in text: 4602; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'camera' start in text:4589 end in text: 4595; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'detect' start in text:4606 end in text: 4612; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sufficient' start in text:4613 end in text: 4623; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'scintillation' start in text:4624 end in text: 4637; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dots' start in text:4638 end in text: 4642; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'form' start in text:4646 end in text: 4650; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'picture' start in text:4653 end in text: 4660; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Other methods' start in text:4662 end in text: 4675; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Other' start in text:4662 end in text: 4667; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'methods' start in text:4668 end in text: 4675; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pinhole' start in text:4701 end in text: 4708; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'slat' start in text:4721 end in text: 4725; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'collimator' start in text:4726 end in text: 4736; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'CZT' start in text:4744 end in text: 4747; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Gagnon' start in text:4751 end in text: 4757; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Matthews' start in text:4762 end in text: 4770; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'have been' start in text:4784 end in text: 4793; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'proposed' start in text:4794 end in text: 4802; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tested' start in text:4807 end in text: 4813; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'entered' start in text:4834 end in text: 4841; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'widespread' start in text:4842 end in text: 4852; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'routine' start in text:4853 end in text: 4860; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'clinical use' start in text:4861 end in text: 4873; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'clinical' start in text:4861 end in text: 4869; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The best' start in text:4875 end in text: 4883; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'best' start in text:4879 end in text: 4883; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'current' start in text:4884 end in text: 4891; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'camera system' start in text:4892 end in text: 4905; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'camera' start in text:4892 end in text: 4898; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'designs' start in text:4906 end in text: 4913; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'differentiate' start in text:4918 end in text: 4931; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'separate' start in text:4936 end in text: 4944; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'point' start in text:4945 end in text: 4950; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'point sources' start in text:4945 end in text: 4958; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sources' start in text:4951 end in text: 4958; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma' start in text:4962 end in text: 4967; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'photons' start in text:4968 end in text: 4975; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'minimum' start in text:4986 end in text: 4993; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '5 cm' start in text:5014 end in text: 5018; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'camera' start in text:5033 end in text: 5039; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'face' start in text:5040 end in text: 5044; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Spatial' start in text:5046 end in text: 5053; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Spatial resolution' start in text:5046 end in text: 5064; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'resolution' start in text:5054 end in text: 5064; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'decreases' start in text:5065 end in text: 5074; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'distances' start in text:5097 end in text: 5106; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'camera' start in text:5116 end in text: 5122; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'face' start in text:5123 end in text: 5127; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'This' start in text:5129 end in text: 5133; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'spatial' start in text:5145 end in text: 5152; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'accuracy' start in text:5153 end in text: 5161; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fuzzy' start in text:5193 end in text: 5198; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'image' start in text:5199 end in text: 5204; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dots' start in text:5221 end in text: 5225; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'detected' start in text:5229 end in text: 5237; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'precisely' start in text:5246 end in text: 5255; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'located' start in text:5256 end in text: 5263; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'scintillation' start in text:5264 end in text: 5277; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'This' start in text:5279 end in text: 5283; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a major' start in text:5287 end in text: 5294; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'major' start in text:5289 end in text: 5294; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'limitation' start in text:5295 end in text: 5305; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'heart' start in text:5310 end in text: 5315; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'heart muscle' start in text:5310 end in text: 5322; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'muscle' start in text:5316 end in text: 5322; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'imaging' start in text:5323 end in text: 5330; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'systems' start in text:5331 end in text: 5338; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'normal heart' start in text:5353 end in text: 5365; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'normal' start in text:5353 end in text: 5359; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'heart' start in text:5360 end in text: 5365; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'heart muscle' start in text:5360 end in text: 5372; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'muscle' start in text:5366 end in text: 5372; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the left' start in text:5376 end in text: 5384; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'left ventricle' start in text:5380 end in text: 5394; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'left' start in text:5380 end in text: 5384; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ventricle' start in text:5385 end in text: 5394; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1.2' start in text:5404 end in text: 5407; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the left' start in text:5423 end in text: 5431; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'left' start in text:5427 end in text: 5431; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'left ventricle' start in text:5427 end in text: 5441; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ventricle' start in text:5432 end in text: 5441; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'muscle' start in text:5442 end in text: 5448; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'moving' start in text:5473 end in text: 5479; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '5 cm' start in text:5502 end in text: 5506; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'collimator' start in text:5516 end in text: 5526; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'face' start in text:5527 end in text: 5531; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'To' start in text:5533 end in text: 5535; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'compensate' start in text:5541 end in text: 5551; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'better' start in text:5553 end in text: 5559; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'imaging' start in text:5560 end in text: 5567; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'systems' start in text:5568 end in text: 5575; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'scintillation' start in text:5582 end in text: 5595; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a portion' start in text:5608 end in text: 5617; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'portion' start in text:5610 end in text: 5617; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the heart' start in text:5621 end in text: 5630; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'heart contraction' start in text:5625 end in text: 5642; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'heart' start in text:5625 end in text: 5630; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'contraction' start in text:5631 end in text: 5642; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cycle' start in text:5643 end in text: 5648; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'called' start in text:5650 end in text: 5656; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gating' start in text:5657 end in text: 5663; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'limits' start in text:5686 end in text: 5692; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sensitivity' start in text:5700 end in text: 5711; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'SPECT' start in text:5715 end in text: 5720; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'performed' start in text:5826 end in text: 5835; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma' start in text:5842 end in text: 5847; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cameras' start in text:5848 end in text: 5855; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'slowly' start in text:5907 end in text: 5913; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rotated' start in text:5914 end in text: 5921; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the patient' start in text:5929 end in text: 5940; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'patient' start in text:5933 end in text: 5940; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'torso' start in text:5943 end in text: 5948; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Multi-headed' start in text:5950 end in text: 5962; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma' start in text:5963 end in text: 5968; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cameras' start in text:5969 end in text: 5976; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Positron' start in text:6000 end in text: 6008; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Positron emission' start in text:6000 end in text: 6017; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Positron emission tomography' start in text:6000 end in text: 6028; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'emission' start in text:6009 end in text: 6017; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tomography' start in text:6018 end in text: 6028; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hardware' start in text:6061 end in text: 6069; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'software' start in text:6074 end in text: 6082; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'configured' start in text:6090 end in text: 6100; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'detect' start in text:6104 end in text: 6110; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'simultaneous' start in text:6132 end in text: 6144; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'events' start in text:6145 end in text: 6151; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'different' start in text:6157 end in text: 6166; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'heads' start in text:6167 end in text: 6172; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Gamma' start in text:6175 end in text: 6180; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Gamma camera' start in text:6175 end in text: 6187; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'camera' start in text:6181 end in text: 6187; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'PET' start in text:6188 end in text: 6191; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'inferior' start in text:6204 end in text: 6212; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'PET imaging' start in text:6216 end in text: 6227; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'PET' start in text:6216 end in text: 6219; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'imaging' start in text:6220 end in text: 6227; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'purpose' start in text:6235 end in text: 6242; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'PET scanner' start in text:6252 end in text: 6263; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'PET' start in text:6252 end in text: 6255; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'scanner' start in text:6256 end in text: 6263; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'scintillator' start in text:6272 end in text: 6284; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'crystal' start in text:6285 end in text: 6292; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'poor' start in text:6297 end in text: 6301; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sensitivity' start in text:6302 end in text: 6313; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'high-energy' start in text:6322 end in text: 6333; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'annihilation' start in text:6334 end in text: 6346; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'photons' start in text:6347 end in text: 6354; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'detector' start in text:6364 end in text: 6372; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'area' start in text:6373 end in text: 6377; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'significantly' start in text:6381 end in text: 6394; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'smaller' start in text:6395 end in text: 6402; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'low cost' start in text:6423 end in text: 6431; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'low' start in text:6423 end in text: 6426; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cost' start in text:6427 end in text: 6431; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma camera' start in text:6437 end in text: 6449; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gamma' start in text:6437 end in text: 6442; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'camera' start in text:6443 end in text: 6449; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'additional' start in text:6458 end in text: 6468; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flexibility' start in text:6469 end in text: 6480; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dedicated' start in text:6495 end in text: 6504; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'PET' start in text:6505 end in text: 6508; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'PET scanner' start in text:6505 end in text: 6516; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'scanner' start in text:6509 end in text: 6516; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'technique' start in text:6523 end in text: 6532; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'expense' start in text:6553 end in text: 6560; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'resource' start in text:6565 end in text: 6573; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'implications' start in text:6574 end in text: 6586; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'PET scanner' start in text:6592 end in text: 6603; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'PET' start in text:6592 end in text: 6595; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'scanner' start in text:6596 end in text: 6603; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'justified' start in text:6614 end in text: 6623; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

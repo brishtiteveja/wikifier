@@ -1,0 +1,4286 @@
+<WikifierOutput>
+<InputFilename>
+APW19990203_0315.htm
+</InputFilename>
+<InputText>
+   Museum To Return 3 Stolen Works
+
+  LOS ANGELES   (AP) --  The J. Paul Getty Museum   is returning three ancient  works of art   to  Italy   after determining they were stolen. 
+
+ 
+
+ One  sculpture   sat in its  collection   for 17 years. The objects will be flown to Italy this week, along with pieces that were loaned to the museum for an  antiquities   exhibit, according to a statement issued by the Getty on Monday. 
+
+ 
+
+ The stolen items are a terra cotta drinking cup from 480  B.C.  , found to have been illegally  excavated   from an  archaeological site  ; a  torso   of the god  Mithras   from the  2nd century  , found to have been stolen from a private Italian collection; and the sculpted head of a victorious athlete, a 2nd century  Roman   copy of an earlier  Greek   work, which was apparently taken from the storeroom of a scientific excavation. 
+
+ 
+
+ For security reasons, the museum did not say how much the pieces are worth. 
+
+ 
+
+ Although nobody claimed the works, Getty decided to return them based on information supplied by experts in the field and in consultation with Italian officials. 
+
+ 
+
+ International concern has been growing about rampant  thefts   of priceless art from collections and the  looting   of archaeological sites. 
+
+ 
+
+ The billion-dollar museum, located on a hill in the  Brentwood  area, opened in 1997. 
+
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Museum</EntitySurfaceForm>
+	<EntityTextStart>0</EntityTextStart>
+	<EntityTextEnd>9</EntityTextEnd>
+	<LinkerScore>12.469860969216073</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Getty_Villa</WikiTitle>
+		<WikiTitleID>3499721</WikiTitleID>
+		<RankerScore>0.9956011480947742</RankerScore>
+		<Attributes>museum</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Museum</WikiTitle> <WikiTitleID>37585</WikiTitleID> <RankerScore>0.003842138746655843</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Museum_(TTC)</WikiTitle> <WikiTitleID>1304170</WikiTitleID> <RankerScore>1.2406369062959547E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Museum_railway_station</WikiTitle> <WikiTitleID>939736</WikiTitleID> <RankerScore>3.3280728303108915E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Museum_Planning_Area</WikiTitle> <WikiTitleID>8144722</WikiTitleID> <RankerScore>3.3280728303108915E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Museum_(song)</WikiTitle> <WikiTitleID>16075724</WikiTitleID> <RankerScore>3.3280728303108915E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Musaeum</WikiTitle> <WikiTitleID>1502199</WikiTitleID> <RankerScore>3.3280728303108915E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Santa_Barbara_Museum_of_Art</WikiTitle> <WikiTitleID>3620617</WikiTitleID> <RankerScore>3.3280728303108915E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Getty_Villa</WikiTitle> <WikiTitleID>3499721</WikiTitleID> <RankerScore>0.9956011480947742</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Museum_of_Natural_History</WikiTitle> <WikiTitleID>399990</WikiTitleID> <RankerScore>3.3280728303108915E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Museum</WikiTitle> <WikiTitleID>1340538</WikiTitleID> <RankerScore>3.3280728303108915E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Museum_of_Singapore</WikiTitle> <WikiTitleID>3383856</WikiTitleID> <RankerScore>3.3280728303108915E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hector_Pieterson_Museum</WikiTitle> <WikiTitleID>2223334</WikiTitleID> <RankerScore>3.3280728303108915E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sir_John_Soane&apos;s_Museum</WikiTitle> <WikiTitleID>325015</WikiTitleID> <RankerScore>3.3280728303108915E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_State_Museum</WikiTitle> <WikiTitleID>6213753</WikiTitleID> <RankerScore>3.3280728303108915E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gerald_R._Ford_Presidential_Museum</WikiTitle> <WikiTitleID>8689764</WikiTitleID> <RankerScore>3.3280728303108915E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kelham_Island_Museum</WikiTitle> <WikiTitleID>556107</WikiTitleID> <RankerScore>3.3280728303108915E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>To Return</EntitySurfaceForm>
+	<EntityTextStart>10</EntityTextStart>
+	<EntityTextEnd>19</EntityTextEnd>
+	<LinkerScore>-1.262574985566213</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Right_of_return</WikiTitle>
+		<WikiTitleID>102191</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Right_of_return</WikiTitle> <WikiTitleID>102191</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Return</EntitySurfaceForm>
+	<EntityTextStart>13</EntityTextStart>
+	<EntityTextEnd>19</EntityTextEnd>
+	<LinkerScore>-8.917011947039722</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Return_(band)</WikiTitle>
+		<WikiTitleID>9168672</WikiTitleID>
+		<RankerScore>0.3243180776503959</RankerScore>
+		<Attributes>group</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Return</WikiTitle> <WikiTitleID>381955</WikiTitleID> <RankerScore>0.18551459547278704</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Return_(band)</WikiTitle> <WikiTitleID>9168672</WikiTitleID> <RankerScore>0.3243180776503959</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Returns_(economics)</WikiTitle> <WikiTitleID>3361606</WikiTitleID> <RankerScore>0.14211004695339896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Coming</WikiTitle> <WikiTitleID>28554</WikiTitleID> <RankerScore>0.06961145598468362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Return_(Transnistria)</WikiTitle> <WikiTitleID>4836738</WikiTitleID> <RankerScore>0.06961145598468362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Return_(guerrilla_organization)</WikiTitle> <WikiTitleID>966606</WikiTitleID> <RankerScore>0.06961145598468362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Return_statement</WikiTitle> <WikiTitleID>933831</WikiTitleID> <RankerScore>0.06961145598468362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>David_Rovics</WikiTitle> <WikiTitleID>1346654</WikiTitleID> <RankerScore>0.06961145598468362</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Stolen</EntitySurfaceForm>
+	<EntityTextStart>22</EntityTextStart>
+	<EntityTextEnd>28</EntityTextEnd>
+	<LinkerScore>-3.9488787325015715</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Stolen_(novel)</WikiTitle>
+		<WikiTitleID>5624292</WikiTitleID>
+		<RankerScore>0.43671217472095614</RankerScore>
+		<Attributes>novel	werewolf</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Stolen</WikiTitle> <WikiTitleID>8780497</WikiTitleID> <RankerScore>0.41192232935079637</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stolen_(novel)</WikiTitle> <WikiTitleID>5624292</WikiTitleID> <RankerScore>0.43671217472095614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stolen</WikiTitle> <WikiTitleID>10489669</WikiTitleID> <RankerScore>1.8229671867235804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stolen_(video_game)</WikiTitle> <WikiTitleID>1380605</WikiTitleID> <RankerScore>0.050455165309415795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stolen_(Jay_Sean_song)</WikiTitle> <WikiTitleID>16221093</WikiTitleID> <RankerScore>0.050455165309415795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Boosh_(radio_series)</WikiTitle> <WikiTitleID>10427393</WikiTitleID> <RankerScore>0.050455165309415795</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Works</EntitySurfaceForm>
+	<EntityTextStart>29</EntityTextStart>
+	<EntityTextEnd>34</EntityTextEnd>
+	<LinkerScore>2.864810012047301</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Works_(Pink_Floyd_album)</WikiTitle>
+		<WikiTitleID>523882</WikiTitleID>
+		<RankerScore>0.5426824044497901</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Works_(Pink_Floyd_album)</WikiTitle> <WikiTitleID>523882</WikiTitleID> <RankerScore>0.5426824044497901</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Works</WikiTitle> <WikiTitleID>523904</WikiTitleID> <RankerScore>0.1669356749771306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Public_works</WikiTitle> <WikiTitleID>323158</WikiTitleID> <RankerScore>0.046806636191906476</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swindon_Works</WikiTitle> <WikiTitleID>2543721</WikiTitleID> <RankerScore>0.0608938210952932</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Emerson,_Lake_and_Palmer_in_Concert</WikiTitle> <WikiTitleID>3693957</WikiTitleID> <RankerScore>0.0608938210952932</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Housing_and_Homelessness</WikiTitle> <WikiTitleID>14657519</WikiTitleID> <RankerScore>0.0608938210952932</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Microsoft_Works</WikiTitle> <WikiTitleID>681327</WikiTitleID> <RankerScore>0.0608938210952932</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>LOS ANGELES</EntitySurfaceForm>
+	<EntityTextStart>38</EntityTextStart>
+	<EntityTextEnd>49</EntityTextEnd>
+	<LinkerScore>5.952673381059144</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Los_Angeles</WikiTitle>
+		<WikiTitleID>18110</WikiTitleID>
+		<RankerScore>0.9905349940290846</RankerScore>
+		<Attributes>train	introduction</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Los_Angeles</WikiTitle> <WikiTitleID>18110</WikiTitleID> <RankerScore>0.9905349940290846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Lakers</WikiTitle> <WikiTitleID>72893</WikiTitleID> <RankerScore>3.6196669144777406E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_County,_California</WikiTitle> <WikiTitleID>79734</WikiTitleID> <RankerScore>7.065410191144462E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Clippers</WikiTitle> <WikiTitleID>72892</WikiTitleID> <RankerScore>4.939116623737175E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Galaxy</WikiTitle> <WikiTitleID>241880</WikiTitleID> <RankerScore>4.939116623737175E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_International_Airport</WikiTitle> <WikiTitleID>18131</WikiTitleID> <RankerScore>4.939116623737175E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LA_Women&apos;s_Tennis_Championships</WikiTitle> <WikiTitleID>5845309</WikiTitleID> <RankerScore>4.939116623737175E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Dodgers</WikiTitle> <WikiTitleID>18213</WikiTitleID> <RankerScore>4.939116623737175E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_(magazine)</WikiTitle> <WikiTitleID>8246460</WikiTitleID> <RankerScore>4.939116623737175E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Staples_Center</WikiTitle> <WikiTitleID>516154</WikiTitleID> <RankerScore>4.939116623737175E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Kings</WikiTitle> <WikiTitleID>73136</WikiTitleID> <RankerScore>4.939116623737175E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Sparks</WikiTitle> <WikiTitleID>179829</WikiTitleID> <RankerScore>4.939116623737175E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1984_Summer_Olympics</WikiTitle> <WikiTitleID>82762</WikiTitleID> <RankerScore>4.939116623737175E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Port_of_Los_Angeles</WikiTitle> <WikiTitleID>425363</WikiTitleID> <RankerScore>4.939116623737175E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Union_Station_(Los_Angeles)</WikiTitle> <WikiTitleID>724792</WikiTitleID> <RankerScore>4.939116623737175E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Philharmonic</WikiTitle> <WikiTitleID>156261</WikiTitleID> <RankerScore>4.939116623737175E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_California,_Los_Angeles</WikiTitle> <WikiTitleID>37765</WikiTitleID> <RankerScore>4.939116623737175E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greater_Los_Angeles_Area</WikiTitle> <WikiTitleID>81605</WikiTitleID> <RankerScore>4.939116623737175E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Avengers</WikiTitle> <WikiTitleID>328216</WikiTitleID> <RankerScore>4.939116623737175E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_River</WikiTitle> <WikiTitleID>180865</WikiTitleID> <RankerScore>4.939116623737175E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>AP</EntitySurfaceForm>
+	<EntityTextStart>53</EntityTextStart>
+	<EntityTextEnd>55</EntityTextEnd>
+	<LinkerScore>8.725703104489703</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Associated_Press</WikiTitle>
+		<WikiTitleID>47915</WikiTitleID>
+		<RankerScore>0.16079225874867423</RankerScore>
+		<Attributes>cooperative	agency	establishment	medium	recipient</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Associated_Press</WikiTitle> <WikiTitleID>47915</WikiTitleID> <RankerScore>0.16079225874867423</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Advanced_Placement</WikiTitle> <WikiTitleID>291422</WikiTitleID> <RankerScore>0.0742385403042776</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AP_Poll</WikiTitle> <WikiTitleID>2976437</WikiTitleID> <RankerScore>0.03362543850730675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AP</WikiTitle> <WikiTitleID>1760006</WikiTitleID> <RankerScore>0.043020221319984786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_access_point</WikiTitle> <WikiTitleID>192397</WikiTitleID> <RankerScore>0.043020221319984786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Armor-piercing_shot_and_shell</WikiTitle> <WikiTitleID>79266</WikiTitleID> <RankerScore>0.043020221319984786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justice_Party_(Turkey)</WikiTitle> <WikiTitleID>3823727</WikiTitleID> <RankerScore>0.043020221319984786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_calendars</WikiTitle> <WikiTitleID>99227</WikiTitleID> <RankerScore>0.043020221319984786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Andhra_Pradesh</WikiTitle> <WikiTitleID>2377</WikiTitleID> <RankerScore>0.043020221319984786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>People&apos;s_Alliance_(Spain)</WikiTitle> <WikiTitleID>3844846</WikiTitleID> <RankerScore>0.043020221319984786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Andhra_Pradesh_cricket_team</WikiTitle> <WikiTitleID>4553907</WikiTitleID> <RankerScore>0.043020221319984786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Alliance_(San_Marino)</WikiTitle> <WikiTitleID>863946</WikiTitleID> <RankerScore>0.043020221319984786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AP_Computer_Science</WikiTitle> <WikiTitleID>4234887</WikiTitleID> <RankerScore>0.043020221319984786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alternative_Press</WikiTitle> <WikiTitleID>672448</WikiTitleID> <RankerScore>0.043020221319984786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>PSPACE</WikiTitle> <WikiTitleID>39351</WikiTitleID> <RankerScore>0.043020221319984786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alberta_Party</WikiTitle> <WikiTitleID>595195</WikiTitleID> <RankerScore>0.043020221319984786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adjective_phrase</WikiTitle> <WikiTitleID>74323</WikiTitleID> <RankerScore>0.043020221319984786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Labour_Party_(Norway)</WikiTitle> <WikiTitleID>255341</WikiTitleID> <RankerScore>0.043020221319984786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justice_Party</WikiTitle> <WikiTitleID>2370497</WikiTitleID> <RankerScore>0.043020221319984786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Allen_Paulson</WikiTitle> <WikiTitleID>5868301</WikiTitleID> <RankerScore>0.043020221319984786</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The J. Paul Getty Museum</EntitySurfaceForm>
+	<EntityTextStart>61</EntityTextStart>
+	<EntityTextEnd>85</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Getty_Center</WikiTitle>
+		<WikiTitleID>261793</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>building	museum	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Getty_Center</WikiTitle> <WikiTitleID>261793</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>J.</EntitySurfaceForm>
+	<EntityTextStart>65</EntityTextStart>
+	<EntityTextEnd>67</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Getty_Center</WikiTitle>
+		<WikiTitleID>261793</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>building	museum	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Jay_Yuenger</WikiTitle> <WikiTitleID>4838577</WikiTitleID> <RankerScore>0.5498981460838422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>J.</WikiTitle> <WikiTitleID>5579601</WikiTitleID> <RankerScore>0.27380368732623467</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jane_Birkin</WikiTitle> <WikiTitleID>84783</WikiTitleID> <RankerScore>0.07527205055650511</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judge</WikiTitle> <WikiTitleID>44719</WikiTitleID> <RankerScore>0.10102611603341805</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>J. Paul Getty</EntitySurfaceForm>
+	<EntityTextStart>65</EntityTextStart>
+	<EntityTextEnd>78</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Getty_Center</WikiTitle>
+		<WikiTitleID>261793</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>building	museum	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>J._Paul_Getty</WikiTitle> <WikiTitleID>174527</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>J. Paul Getty Museum</EntitySurfaceForm>
+	<EntityTextStart>65</EntityTextStart>
+	<EntityTextEnd>85</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Getty_Center</WikiTitle>
+		<WikiTitleID>261793</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>building	museum	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Getty_Center</WikiTitle> <WikiTitleID>261793</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Paul</EntitySurfaceForm>
+	<EntityTextStart>68</EntityTextStart>
+	<EntityTextEnd>72</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Getty_Center</WikiTitle>
+		<WikiTitleID>261793</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>building	museum	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Paul_the_Apostle</WikiTitle> <WikiTitleID>24140</WikiTitleID> <RankerScore>0.11018225667611986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paul_McCartney</WikiTitle> <WikiTitleID>13736167</WikiTitleID> <RankerScore>0.040392548062233004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paul_I_of_Russia</WikiTitle> <WikiTitleID>148206</WikiTitleID> <RankerScore>0.03765263088062923</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paul,_Cornwall</WikiTitle> <WikiTitleID>2390675</WikiTitleID> <RankerScore>0.050735785273813616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paul</WikiTitle> <WikiTitleID>24092</WikiTitleID> <RankerScore>0.050735785273813616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paul_of_Greece</WikiTitle> <WikiTitleID>160201</WikiTitleID> <RankerScore>0.050735785273813616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paul_Robinson_(Neighbours)</WikiTitle> <WikiTitleID>4654168</WikiTitleID> <RankerScore>0.050735785273813616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paul,_Idaho</WikiTitle> <WikiTitleID>110752</WikiTitleID> <RankerScore>0.050735785273813616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paul_(play)</WikiTitle> <WikiTitleID>17382530</WikiTitleID> <RankerScore>0.050735785273813616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paul_Atreides</WikiTitle> <WikiTitleID>47937</WikiTitleID> <RankerScore>0.050735785273813616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paul_Davids</WikiTitle> <WikiTitleID>1000002</WikiTitleID> <RankerScore>0.050735785273813616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paul_of_Narbonne</WikiTitle> <WikiTitleID>4151950</WikiTitleID> <RankerScore>0.050735785273813616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paul,_Cape_Verde</WikiTitle> <WikiTitleID>2698414</WikiTitleID> <RankerScore>0.050735785273813616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paul_Gait</WikiTitle> <WikiTitleID>2068604</WikiTitleID> <RankerScore>0.050735785273813616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Debil</WikiTitle> <WikiTitleID>11377901</WikiTitleID> <RankerScore>0.050735785273813616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paul_(name)</WikiTitle> <WikiTitleID>9168600</WikiTitleID> <RankerScore>0.050735785273813616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paul_the_Apostle</WikiTitle> <WikiTitleID>86399</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paul_Lambert_(Emmerdale)</WikiTitle> <WikiTitleID>4118084</WikiTitleID> <RankerScore>0.050735785273813616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paul_Churchland</WikiTitle> <WikiTitleID>5341017</WikiTitleID> <RankerScore>0.050735785273813616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paul_Ryan_(As_the_World_Turns)</WikiTitle> <WikiTitleID>8377223</WikiTitleID> <RankerScore>0.050735785273813616</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Paul Getty</EntitySurfaceForm>
+	<EntityTextStart>68</EntityTextStart>
+	<EntityTextEnd>78</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Getty_Center</WikiTitle>
+		<WikiTitleID>261793</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>building	museum	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>John_Paul_Getty,_Jr.</WikiTitle> <WikiTitleID>212031</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Paul Getty Museum</EntitySurfaceForm>
+	<EntityTextStart>68</EntityTextStart>
+	<EntityTextEnd>85</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Getty_Center</WikiTitle>
+		<WikiTitleID>261793</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>building	museum	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Getty</EntitySurfaceForm>
+	<EntityTextStart>73</EntityTextStart>
+	<EntityTextEnd>78</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Getty_Center</WikiTitle>
+		<WikiTitleID>261793</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>building	museum	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Getty</WikiTitle> <WikiTitleID>601672</WikiTitleID> <RankerScore>0.02265783050268052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Getty_Center</WikiTitle> <WikiTitleID>261793</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>J._Paul_Getty</WikiTitle> <WikiTitleID>174527</WikiTitleID> <RankerScore>0.03961064377838809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Getty_Oil</WikiTitle> <WikiTitleID>936145</WikiTitleID> <RankerScore>4.0243489036213473E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Estelle_Getty</WikiTitle> <WikiTitleID>664543</WikiTitleID> <RankerScore>4.0243489036213473E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Balthazar_Getty</WikiTitle> <WikiTitleID>1706954</WikiTitleID> <RankerScore>4.0243489036213473E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_W._Getty</WikiTitle> <WikiTitleID>2354347</WikiTitleID> <RankerScore>4.0243489036213473E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Getty Museum</EntitySurfaceForm>
+	<EntityTextStart>73</EntityTextStart>
+	<EntityTextEnd>85</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Getty_Center</WikiTitle>
+		<WikiTitleID>261793</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>building	museum	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Getty_Center</WikiTitle> <WikiTitleID>261793</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Museum</EntitySurfaceForm>
+	<EntityTextStart>79</EntityTextStart>
+	<EntityTextEnd>85</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Getty_Center</WikiTitle>
+		<WikiTitleID>261793</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>building	museum	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Museum</WikiTitle> <WikiTitleID>37585</WikiTitleID> <RankerScore>9.88513583701027E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Museum_(TTC)</WikiTitle> <WikiTitleID>1304170</WikiTitleID> <RankerScore>2.5292626353845997E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Museum_railway_station</WikiTitle> <WikiTitleID>939736</WikiTitleID> <RankerScore>6.693092807824109E-7</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Museum_Planning_Area</WikiTitle> <WikiTitleID>8144722</WikiTitleID> <RankerScore>6.693092807824109E-7</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Museum_(song)</WikiTitle> <WikiTitleID>16075724</WikiTitleID> <RankerScore>6.693092807824109E-7</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Musaeum</WikiTitle> <WikiTitleID>1502199</WikiTitleID> <RankerScore>6.693092807824109E-7</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Santa_Barbara_Museum_of_Art</WikiTitle> <WikiTitleID>3620617</WikiTitleID> <RankerScore>6.693092807824109E-7</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Getty_Villa</WikiTitle> <WikiTitleID>3499721</WikiTitleID> <RankerScore>0.9998899183583443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Museum_of_Natural_History</WikiTitle> <WikiTitleID>399990</WikiTitleID> <RankerScore>6.693092807824109E-7</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Museum</WikiTitle> <WikiTitleID>1340538</WikiTitleID> <RankerScore>6.693092807824109E-7</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Museum_of_Singapore</WikiTitle> <WikiTitleID>3383856</WikiTitleID> <RankerScore>6.693092807824109E-7</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hector_Pieterson_Museum</WikiTitle> <WikiTitleID>2223334</WikiTitleID> <RankerScore>6.693092807824109E-7</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sir_John_Soane&apos;s_Museum</WikiTitle> <WikiTitleID>325015</WikiTitleID> <RankerScore>6.693092807824109E-7</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_State_Museum</WikiTitle> <WikiTitleID>6213753</WikiTitleID> <RankerScore>6.693092807824109E-7</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gerald_R._Ford_Presidential_Museum</WikiTitle> <WikiTitleID>8689764</WikiTitleID> <RankerScore>6.693092807824109E-7</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kelham_Island_Museum</WikiTitle> <WikiTitleID>556107</WikiTitleID> <RankerScore>6.693092807824109E-7</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>returning</EntitySurfaceForm>
+	<EntityTextStart>91</EntityTextStart>
+	<EntityTextEnd>100</EntityTextEnd>
+	<LinkerScore>0.32317133640386686</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Return_statement</WikiTitle>
+		<WikiTitleID>933831</WikiTitleID>
+		<RankerScore>0.24823682272725547</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Return_statement</WikiTitle> <WikiTitleID>933831</WikiTitleID> <RankerScore>0.24823682272725547</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kickoff_(gridiron_football)</WikiTitle> <WikiTitleID>15256841</WikiTitleID> <RankerScore>0.2335629213037153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Great_Migration</WikiTitle> <WikiTitleID>16962949</WikiTitleID> <RankerScore>0.15849329872661574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_right_of_return</WikiTitle> <WikiTitleID>10575869</WikiTitleID> <RankerScore>0.17985347862120674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baal_teshuva</WikiTitle> <WikiTitleID>161319</WikiTitleID> <RankerScore>0.17985347862120674</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>works of art</EntitySurfaceForm>
+	<EntityTextStart>116</EntityTextStart>
+	<EntityTextEnd>128</EntityTextEnd>
+	<LinkerScore>3.559676046260507</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Art</WikiTitle>
+		<WikiTitleID>752</WikiTitleID>
+		<RankerScore>0.7712725599734334</RankerScore>
+		<Attributes>aesthetics	arts	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Work_of_art</WikiTitle> <WikiTitleID>2583747</WikiTitleID> <RankerScore>0.22872744002656673</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art</WikiTitle> <WikiTitleID>752</WikiTitleID> <RankerScore>0.7712725599734334</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>art</EntitySurfaceForm>
+	<EntityTextStart>125</EntityTextStart>
+	<EntityTextEnd>128</EntityTextEnd>
+	<LinkerScore>4.814218628844234</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Art</WikiTitle>
+		<WikiTitleID>752</WikiTitleID>
+		<RankerScore>0.9890003661522964</RankerScore>
+		<Attributes>aesthetics	arts	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Art</WikiTitle> <WikiTitleID>752</WikiTitleID> <RankerScore>0.9890003661522964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visual_arts</WikiTitle> <WikiTitleID>99041</WikiTitleID> <RankerScore>0.003524493766681189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japanese_art</WikiTitle> <WikiTitleID>227244</WikiTitleID> <RankerScore>0.0020433189507610542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_art</WikiTitle> <WikiTitleID>2526999</WikiTitleID> <RankerScore>3.195188900153705E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_rock</WikiTitle> <WikiTitleID>48147</WikiTitleID> <RankerScore>3.195188900153705E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_film</WikiTitle> <WikiTitleID>540784</WikiTitleID> <RankerScore>3.195188900153705E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_of_ancient_Egypt</WikiTitle> <WikiTitleID>1709766</WikiTitleID> <RankerScore>3.195188900153705E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indigenous_Australian_art</WikiTitle> <WikiTitleID>312222</WikiTitleID> <RankerScore>3.195188900153705E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_art</WikiTitle> <WikiTitleID>11607008</WikiTitleID> <RankerScore>3.195188900153705E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_critic</WikiTitle> <WikiTitleID>1166292</WikiTitleID> <RankerScore>3.195188900153705E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_education</WikiTitle> <WikiTitleID>2071765</WikiTitleID> <RankerScore>3.195188900153705E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chinese_art</WikiTitle> <WikiTitleID>9704619</WikiTitleID> <RankerScore>3.195188900153705E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visual_art_of_the_United_States</WikiTitle> <WikiTitleID>199145</WikiTitleID> <RankerScore>3.195188900153705E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_of_Romania</WikiTitle> <WikiTitleID>351471</WikiTitleID> <RankerScore>3.195188900153705E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fine_art</WikiTitle> <WikiTitleID>90317</WikiTitleID> <RankerScore>3.195188900153705E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Game_artist</WikiTitle> <WikiTitleID>1133087</WikiTitleID> <RankerScore>3.195188900153705E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_arts</WikiTitle> <WikiTitleID>1688170</WikiTitleID> <RankerScore>3.195188900153705E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fine-art_photography</WikiTitle> <WikiTitleID>2452325</WikiTitleID> <RankerScore>3.195188900153705E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_theft</WikiTitle> <WikiTitleID>425514</WikiTitleID> <RankerScore>3.195188900153705E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cover_art</WikiTitle> <WikiTitleID>2423902</WikiTitleID> <RankerScore>3.195188900153705E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Italy</EntitySurfaceForm>
+	<EntityTextStart>135</EntityTextStart>
+	<EntityTextEnd>140</EntityTextEnd>
+	<LinkerScore>5.025821217251131</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Italy</WikiTitle>
+		<WikiTitleID>14532</WikiTitleID>
+		<RankerScore>0.7378506575370806</RankerScore>
+		<Attributes>country	nation	member	state	monarchy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Italy</WikiTitle> <WikiTitleID>14532</WikiTitleID> <RankerScore>0.7378506575370806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_football_team</WikiTitle> <WikiTitleID>362466</WikiTitleID> <RankerScore>0.06404237104645044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_rugby_union_team</WikiTitle> <WikiTitleID>957326</WikiTitleID> <RankerScore>0.05354835955630476</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Italy</WikiTitle> <WikiTitleID>9804204</WikiTitleID> <RankerScore>0.009034913241260267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_Campaign_(World_War_II)</WikiTitle> <WikiTitleID>493696</WikiTitleID> <RankerScore>0.009034913241260267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_basketball_team</WikiTitle> <WikiTitleID>1812201</WikiTitleID> <RankerScore>0.009034913241260267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_baseball_team</WikiTitle> <WikiTitleID>4310517</WikiTitleID> <RankerScore>0.009034913241260267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Italy</WikiTitle> <WikiTitleID>10787</WikiTitleID> <RankerScore>0.009034913241260267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_cricket_team</WikiTitle> <WikiTitleID>2540447</WikiTitleID> <RankerScore>0.009034913241260267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lega_Basket_Serie_A</WikiTitle> <WikiTitleID>5715621</WikiTitleID> <RankerScore>0.009034913241260267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_Davis_Cup_team</WikiTitle> <WikiTitleID>9988540</WikiTitleID> <RankerScore>0.009034913241260267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_under-21_football_team</WikiTitle> <WikiTitleID>3867414</WikiTitleID> <RankerScore>0.009034913241260267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_wine</WikiTitle> <WikiTitleID>1807097</WikiTitleID> <RankerScore>0.009034913241260267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_Peninsula</WikiTitle> <WikiTitleID>378368</WikiTitleID> <RankerScore>0.009034913241260267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2172188</WikiTitleID> <RankerScore>0.009034913241260267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913796</WikiTitleID> <RankerScore>0.009034913241260267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Italy</WikiTitle> <WikiTitleID>306047</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_(Roman_Empire)</WikiTitle> <WikiTitleID>1873263</WikiTitleID> <RankerScore>0.009034913241260267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Serie_A</WikiTitle> <WikiTitleID>15496</WikiTitleID> <RankerScore>0.009034913241260267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Italy</WikiTitle> <WikiTitleID>2164851</WikiTitleID> <RankerScore>0.009034913241260267</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sculpture</EntitySurfaceForm>
+	<EntityTextStart>190</EntityTextStart>
+	<EntityTextEnd>199</EntityTextEnd>
+	<LinkerScore>12.557076344226184</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sculpture</WikiTitle>
+		<WikiTitleID>26714</WikiTitleID>
+		<RankerScore>0.9868150706539393</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sculpture</WikiTitle> <WikiTitleID>26714</WikiTitleID> <RankerScore>0.9868150706539393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sculpture_(mollusc)</WikiTitle> <WikiTitleID>1934053</WikiTitleID> <RankerScore>0.0015058570842044767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japanese_sculpture</WikiTitle> <WikiTitleID>2672664</WikiTitleID> <RankerScore>0.0014009323624471525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Marble_sculpture</WikiTitle> <WikiTitleID>165763</WikiTitleID> <RankerScore>9.343763544917403E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ancient_Greek_sculpture</WikiTitle> <WikiTitleID>1797078</WikiTitleID> <RankerScore>9.343763544917403E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Caseros_Prison_Demolition_Project_–_16_Tons</WikiTitle> <WikiTitleID>5977437</WikiTitleID> <RankerScore>9.343763544917403E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sculpture_in_the_Indian_subcontinent</WikiTitle> <WikiTitleID>5807701</WikiTitleID> <RankerScore>9.343763544917403E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mobile_(sculpture)</WikiTitle> <WikiTitleID>994028</WikiTitleID> <RankerScore>9.343763544917403E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stephen_Foster_(sculpture)</WikiTitle> <WikiTitleID>11271557</WikiTitleID> <RankerScore>9.343763544917403E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Classical_sculpture</WikiTitle> <WikiTitleID>3325929</WikiTitleID> <RankerScore>9.343763544917403E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beata_Ludovica_Albertoni</WikiTitle> <WikiTitleID>7454329</WikiTitleID> <RankerScore>9.343763544917403E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pietà_(Michelangelo)</WikiTitle> <WikiTitleID>73522</WikiTitleID> <RankerScore>9.343763544917403E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statues_in_Dublin</WikiTitle> <WikiTitleID>168754</WikiTitleID> <RankerScore>9.343763544917403E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baroque_sculpture</WikiTitle> <WikiTitleID>8608509</WikiTitleID> <RankerScore>9.343763544917403E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>collection</EntitySurfaceForm>
+	<EntityTextStart>214</EntityTextStart>
+	<EntityTextEnd>224</EntityTextEnd>
+	<LinkerScore>3.488312841725895</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Collection_(artwork)</WikiTitle>
+		<WikiTitleID>3218952</WikiTitleID>
+		<RankerScore>0.7987131207999997</RankerScore>
+		<Attributes>collection</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Collection</WikiTitle> <WikiTitleID>6084</WikiTitleID> <RankerScore>0.10112755967267302</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collection_(artwork)</WikiTitle> <WikiTitleID>3218952</WikiTitleID> <RankerScore>0.7987131207999997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collection_(horse)</WikiTitle> <WikiTitleID>309876</WikiTitleID> <RankerScore>0.005020174351491435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collecting</WikiTitle> <WikiTitleID>40097</WikiTitleID> <RankerScore>0.014816355551972865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anthology</WikiTitle> <WikiTitleID>316889</WikiTitleID> <RankerScore>0.005020174351491435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collection_(abstract_data_type)</WikiTitle> <WikiTitleID>12119816</WikiTitleID> <RankerScore>0.005020174351491435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Class_(set_theory)</WikiTitle> <WikiTitleID>20696</WikiTitleID> <RankerScore>0.005020174351491435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Container_(abstract_data_type)</WikiTitle> <WikiTitleID>5170615</WikiTitleID> <RankerScore>0.005020174351491435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Offertory</WikiTitle> <WikiTitleID>3254441</WikiTitleID> <RankerScore>0.005020174351491435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Set</WikiTitle> <WikiTitleID>26691</WikiTitleID> <RankerScore>0.005020174351491435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greatest_hits_album</WikiTitle> <WikiTitleID>478673</WikiTitleID> <RankerScore>0.005020174351491435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Compilation_album</WikiTitle> <WikiTitleID>504309</WikiTitleID> <RankerScore>0.005020174351491435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Short_story</WikiTitle> <WikiTitleID>28296</WikiTitleID> <RankerScore>0.005020174351491435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waste_collection</WikiTitle> <WikiTitleID>3411618</WikiTitleID> <RankerScore>0.005020174351491435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intelligence_collection_management</WikiTitle> <WikiTitleID>13979372</WikiTitleID> <RankerScore>0.005020174351491435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Set_(music)</WikiTitle> <WikiTitleID>3189755</WikiTitleID> <RankerScore>0.005020174351491435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grimms&apos;_Fairy_Tales</WikiTitle> <WikiTitleID>3017525</WikiTitleID> <RankerScore>0.005020174351491435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collection_agency</WikiTitle> <WikiTitleID>1576578</WikiTitleID> <RankerScore>0.005020174351491435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trade_paperback_(comics)</WikiTitle> <WikiTitleID>1639565</WikiTitleID> <RankerScore>0.005020174351491435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Statuary_Hall_Collection</WikiTitle> <WikiTitleID>700241</WikiTitleID> <RankerScore>0.005020174351491435</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>17</EntitySurfaceForm>
+	<EntityTextStart>231</EntityTextStart>
+	<EntityTextEnd>233</EntityTextEnd>
+	<LinkerScore>-6.905759918638561</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>17</WikiTitle>
+		<WikiTitleID>35208</WikiTitleID>
+		<RankerScore>0.21539658451886282</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>17</WikiTitle> <WikiTitleID>35208</WikiTitleID> <RankerScore>0.21539658451886282</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>17_(number)</WikiTitle> <WikiTitleID>208288</WikiTitleID> <RankerScore>0.11812118249918649</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>November_17</WikiTitle> <WikiTitleID>21798</WikiTitleID> <RankerScore>0.12676501147087813</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>August_17</WikiTitle> <WikiTitleID>1490</WikiTitleID> <RankerScore>0.031748071853592505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>June_17</WikiTitle> <WikiTitleID>15798</WikiTitleID> <RankerScore>0.031748071853592505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>October_17</WikiTitle> <WikiTitleID>22366</WikiTitleID> <RankerScore>0.031748071853592505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_17</WikiTitle> <WikiTitleID>1974</WikiTitleID> <RankerScore>0.031748071853592505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>February_17</WikiTitle> <WikiTitleID>11164</WikiTitleID> <RankerScore>0.031748071853592505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>July_17</WikiTitle> <WikiTitleID>16089</WikiTitleID> <RankerScore>0.031748071853592505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_17</WikiTitle> <WikiTitleID>19631</WikiTitleID> <RankerScore>0.031748071853592505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_17</WikiTitle> <WikiTitleID>20223</WikiTitleID> <RankerScore>0.031748071853592505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_17</WikiTitle> <WikiTitleID>8322</WikiTitleID> <RankerScore>0.031748071853592505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sibley-Monroe_checklist_17</WikiTitle> <WikiTitleID>209793</WikiTitleID> <RankerScore>0.031748071853592505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Apollo_17</WikiTitle> <WikiTitleID>1971</WikiTitleID> <RankerScore>0.031748071853592505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>September_17</WikiTitle> <WikiTitleID>27993</WikiTitleID> <RankerScore>0.031748071853592505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>January_17</WikiTitle> <WikiTitleID>15920</WikiTitleID> <RankerScore>0.031748071853592505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1917</WikiTitle> <WikiTitleID>34595</WikiTitleID> <RankerScore>0.031748071853592505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ontario_Highway_17</WikiTitle> <WikiTitleID>845835</WikiTitleID> <RankerScore>0.031748071853592505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japan_National_Route_17</WikiTitle> <WikiTitleID>5535279</WikiTitleID> <RankerScore>0.031748071853592505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Halogen</WikiTitle> <WikiTitleID>13258</WikiTitleID> <RankerScore>0.031748071853592505</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>years</EntitySurfaceForm>
+	<EntityTextStart>234</EntityTextStart>
+	<EntityTextEnd>239</EntityTextEnd>
+	<LinkerScore>6.995890731389711</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Year</WikiTitle>
+		<WikiTitleID>34341</WikiTitleID>
+		<RankerScore>0.699232614001197</RankerScore>
+		<Attributes>unit	order</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Year</WikiTitle> <WikiTitleID>34341</WikiTitleID> <RankerScore>0.699232614001197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Julian_year_(astronomy)</WikiTitle> <WikiTitleID>730958</WikiTitleID> <RankerScore>0.0689218413942091</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Educational_stage</WikiTitle> <WikiTitleID>3333758</WikiTitleID> <RankerScore>0.05417378943071405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1976_World_Series</WikiTitle> <WikiTitleID>1219555</WikiTitleID> <RankerScore>0.0888358775869399</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sidereal_year</WikiTitle> <WikiTitleID>57484</WikiTitleID> <RankerScore>0.0888358775869399</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>objects</EntitySurfaceForm>
+	<EntityTextStart>245</EntityTextStart>
+	<EntityTextEnd>252</EntityTextEnd>
+	<LinkerScore>-6.936291084380551</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Object_(computer_science)</WikiTitle>
+		<WikiTitleID>169665</WikiTitleID>
+		<RankerScore>0.11024121680841127</RankerScore>
+		<Attributes>dispute	type</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Object_(computer_science)</WikiTitle> <WikiTitleID>169665</WikiTitleID> <RankerScore>0.11024121680841127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Object_(philosophy)</WikiTitle> <WikiTitleID>47353</WikiTitleID> <RankerScore>0.08258205730182114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Category_(mathematics)</WikiTitle> <WikiTitleID>53759</WikiTitleID> <RankerScore>0.04958599795360405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Object_(grammar)</WikiTitle> <WikiTitleID>201457</WikiTitleID> <RankerScore>0.04734942049601022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Object-oriented_programming</WikiTitle> <WikiTitleID>22757</WikiTitleID> <RankerScore>0.04734942049601022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AS/400_object</WikiTitle> <WikiTitleID>432020</WikiTitleID> <RankerScore>0.04734942049601022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Object_Manager_(Windows)</WikiTitle> <WikiTitleID>12320794</WikiTitleID> <RankerScore>0.04734942049601022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Category_theory</WikiTitle> <WikiTitleID>5869</WikiTitleID> <RankerScore>0.04734942049601022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Physical_body</WikiTitle> <WikiTitleID>1722616</WikiTitleID> <RankerScore>0.04734942049601022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Object</WikiTitle> <WikiTitleID>453372</WikiTitleID> <RankerScore>0.04734942049601022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Object_file</WikiTitle> <WikiTitleID>337307</WikiTitleID> <RankerScore>0.04734942049601022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Astronomical_object</WikiTitle> <WikiTitleID>206542</WikiTitleID> <RankerScore>0.04734942049601022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>OOP</WikiTitle> <WikiTitleID>22759</WikiTitleID> <RankerScore>0.04734942049601022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Object_database</WikiTitle> <WikiTitleID>22826</WikiTitleID> <RankerScore>0.04734942049601022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Objectification</WikiTitle> <WikiTitleID>413043</WikiTitleID> <RankerScore>0.04734942049601022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glossary_of_professional_wrestling_terms</WikiTitle> <WikiTitleID>2394387</WikiTitleID> <RankerScore>0.04734942049601022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Object_(image_processing)</WikiTitle> <WikiTitleID>5096041</WikiTitleID> <RankerScore>0.04734942049601022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extrasolar_planet</WikiTitle> <WikiTitleID>9763</WikiTitleID> <RankerScore>0.04734942049601022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fomite</WikiTitle> <WikiTitleID>1059977</WikiTitleID> <RankerScore>0.04734942049601022</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>will be</EntitySurfaceForm>
+	<EntityTextStart>253</EntityTextStart>
+	<EntityTextEnd>260</EntityTextEnd>
+	<LinkerScore>-1.3156610067231562</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Frederick_Cook</WikiTitle>
+		<WikiTitleID>904807</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	burial	expedition	scientist	physician	explorer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Frederick_Cook</WikiTitle> <WikiTitleID>904807</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>flown</EntitySurfaceForm>
+	<EntityTextStart>261</EntityTextStart>
+	<EntityTextEnd>266</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Flight</WikiTitle>
+		<WikiTitleID>159472</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>aerodynamics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Italy</EntitySurfaceForm>
+	<EntityTextStart>270</EntityTextStart>
+	<EntityTextEnd>275</EntityTextEnd>
+	<LinkerScore>2.362438645297769</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Italy</WikiTitle>
+		<WikiTitleID>14532</WikiTitleID>
+		<RankerScore>0.746534761879777</RankerScore>
+		<Attributes>country	nation	member	state	monarchy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Italy</WikiTitle> <WikiTitleID>14532</WikiTitleID> <RankerScore>0.746534761879777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_football_team</WikiTitle> <WikiTitleID>362466</WikiTitleID> <RankerScore>0.05822271051646915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_rugby_union_team</WikiTitle> <WikiTitleID>957326</WikiTitleID> <RankerScore>0.06300526325831257</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Italy</WikiTitle> <WikiTitleID>9804204</WikiTitleID> <RankerScore>0.008264829021590085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_Campaign_(World_War_II)</WikiTitle> <WikiTitleID>493696</WikiTitleID> <RankerScore>0.008264829021590085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_basketball_team</WikiTitle> <WikiTitleID>1812201</WikiTitleID> <RankerScore>0.008264829021590085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_baseball_team</WikiTitle> <WikiTitleID>4310517</WikiTitleID> <RankerScore>0.008264829021590085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Italy</WikiTitle> <WikiTitleID>10787</WikiTitleID> <RankerScore>0.008264829021590085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_cricket_team</WikiTitle> <WikiTitleID>2540447</WikiTitleID> <RankerScore>0.008264829021590085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lega_Basket_Serie_A</WikiTitle> <WikiTitleID>5715621</WikiTitleID> <RankerScore>0.008264829021590085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_Davis_Cup_team</WikiTitle> <WikiTitleID>9988540</WikiTitleID> <RankerScore>0.008264829021590085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_under-21_football_team</WikiTitle> <WikiTitleID>3867414</WikiTitleID> <RankerScore>0.008264829021590085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_wine</WikiTitle> <WikiTitleID>1807097</WikiTitleID> <RankerScore>0.008264829021590085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_Peninsula</WikiTitle> <WikiTitleID>378368</WikiTitleID> <RankerScore>0.008264829021590085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2172188</WikiTitleID> <RankerScore>0.008264829021590085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913796</WikiTitleID> <RankerScore>0.008264829021590085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Italy</WikiTitle> <WikiTitleID>306047</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_(Roman_Empire)</WikiTitle> <WikiTitleID>1873263</WikiTitleID> <RankerScore>0.008264829021590085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Serie_A</WikiTitle> <WikiTitleID>15496</WikiTitleID> <RankerScore>0.008264829021590085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Italy</WikiTitle> <WikiTitleID>2164851</WikiTitleID> <RankerScore>0.008264829021590085</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>week</EntitySurfaceForm>
+	<EntityTextStart>281</EntityTextStart>
+	<EntityTextEnd>285</EntityTextEnd>
+	<LinkerScore>8.760161904424011</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Week</WikiTitle>
+		<WikiTitleID>33538</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>unit	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Week</WikiTitle> <WikiTitleID>33538</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pieces</EntitySurfaceForm>
+	<EntityTextStart>298</EntityTextStart>
+	<EntityTextEnd>304</EntityTextEnd>
+	<LinkerScore>-8.9209520063132</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chess_piece</WikiTitle>
+		<WikiTitleID>47618</WikiTitleID>
+		<RankerScore>0.2909684755986688</RankerScore>
+		<Attributes>set	piece</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chess_piece</WikiTitle> <WikiTitleID>47618</WikiTitleID> <RankerScore>0.2909684755986688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Musical_composition</WikiTitle> <WikiTitleID>47962</WikiTitleID> <RankerScore>0.08981628670772514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Counter_(board_wargames)</WikiTitle> <WikiTitleID>4331982</WikiTitleID> <RankerScore>0.1055255528186182</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Song</WikiTitle> <WikiTitleID>28830</WikiTitleID> <RankerScore>0.09158747360051525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Piece</WikiTitle> <WikiTitleID>427333</WikiTitleID> <RankerScore>0.1055255528186182</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Icehouse_pieces</WikiTitle> <WikiTitleID>179196</WikiTitleID> <RankerScore>0.1055255528186182</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Howitzer</WikiTitle> <WikiTitleID>14392</WikiTitleID> <RankerScore>0.1055255528186182</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Die_(manufacturing)</WikiTitle> <WikiTitleID>648007</WikiTitleID> <RankerScore>0.1055255528186182</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>loaned</EntitySurfaceForm>
+	<EntityTextStart>315</EntityTextStart>
+	<EntityTextEnd>321</EntityTextEnd>
+	<LinkerScore>-2.894143728261776</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Loan_(sports)</WikiTitle>
+		<WikiTitleID>4427699</WikiTitleID>
+		<RankerScore>0.4969949824233325</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Loan_(sports)</WikiTitle> <WikiTitleID>4427699</WikiTitleID> <RankerScore>0.4969949824233325</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Loanword</WikiTitle> <WikiTitleID>59787</WikiTitleID> <RankerScore>0.29043966081615374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Loan</WikiTitle> <WikiTitleID>208852</WikiTitleID> <RankerScore>0.21256535676051372</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the museum</EntitySurfaceForm>
+	<EntityTextStart>325</EntityTextStart>
+	<EntityTextEnd>335</EntityTextEnd>
+	<LinkerScore>-5.447507196861113</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Museo_Matris_Domini</WikiTitle>
+		<WikiTitleID>8169301</WikiTitleID>
+		<RankerScore>0.6656751651862037</RankerScore>
+		<Attributes>museum</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Burlesque_Hall_of_Fame</WikiTitle> <WikiTitleID>641320</WikiTitleID> <RankerScore>0.18533888054215897</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Museo_Matris_Domini</WikiTitle> <WikiTitleID>8169301</WikiTitleID> <RankerScore>0.6656751651862037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester_Museum</WikiTitle> <WikiTitleID>766971</WikiTitleID> <RankerScore>0.053481114075230624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Karen_Blixen_Museum</WikiTitle> <WikiTitleID>2584938</WikiTitleID> <RankerScore>0.09550484019640668</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>museum</EntitySurfaceForm>
+	<EntityTextStart>329</EntityTextStart>
+	<EntityTextEnd>335</EntityTextEnd>
+	<LinkerScore>6.093140796653867</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Museum</WikiTitle>
+		<WikiTitleID>37585</WikiTitleID>
+		<RankerScore>0.9393740883566807</RankerScore>
+		<Attributes>exhibition</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Museum</WikiTitle> <WikiTitleID>37585</WikiTitleID> <RankerScore>0.9393740883566807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_museum</WikiTitle> <WikiTitleID>66076</WikiTitleID> <RankerScore>0.03672490237258352</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madame_Tussauds</WikiTitle> <WikiTitleID>158466</WikiTitleID> <RankerScore>0.001227379296860875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Museum_ship</WikiTitle> <WikiTitleID>198016</WikiTitleID> <RankerScore>0.0013337429396397052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>RKK_Energiya_museum</WikiTitle> <WikiTitleID>8762657</WikiTitleID> <RankerScore>0.0013337429396397052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monkwearmouth_Station_Museum</WikiTitle> <WikiTitleID>3249520</WikiTitleID> <RankerScore>0.0013337429396397052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham_Back_to_Backs</WikiTitle> <WikiTitleID>2167720</WikiTitleID> <RankerScore>0.0013337429396397052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Napier_Museum</WikiTitle> <WikiTitleID>9592270</WikiTitleID> <RankerScore>0.0013337429396397052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wax_museum</WikiTitle> <WikiTitleID>153959</WikiTitleID> <RankerScore>0.0013337429396397052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Luton_Museum_&amp;_Art_Gallery</WikiTitle> <WikiTitleID>6534513</WikiTitleID> <RankerScore>0.0013337429396397052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolton_Museum</WikiTitle> <WikiTitleID>14715957</WikiTitleID> <RankerScore>0.0013337429396397052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Musée_d&apos;Orsay</WikiTitle> <WikiTitleID>53919</WikiTitleID> <RankerScore>0.0013337429396397052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Museum</WikiTitle> <WikiTitleID>606255</WikiTitleID> <RankerScore>0.0013337429396397052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collection_catalog</WikiTitle> <WikiTitleID>9485491</WikiTitleID> <RankerScore>0.0013337429396397052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Tyrrell_Museum_of_Palaeontology</WikiTitle> <WikiTitleID>1177220</WikiTitleID> <RankerScore>0.0013337429396397052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cincinnati_Reds_Hall_of_Fame_and_Museum</WikiTitle> <WikiTitleID>5644013</WikiTitleID> <RankerScore>0.0013337429396397052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sam_Tung_Uk_Museum</WikiTitle> <WikiTitleID>3817909</WikiTitleID> <RankerScore>0.0013337429396397052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chepstow_Museum</WikiTitle> <WikiTitleID>17876890</WikiTitleID> <RankerScore>0.0013337429396397052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Museum_of_Natural_History</WikiTitle> <WikiTitleID>399990</WikiTitleID> <RankerScore>0.0013337429396397052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Museum_Speelklok</WikiTitle> <WikiTitleID>4717754</WikiTitleID> <RankerScore>0.0013337429396397052</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>antiquities</EntitySurfaceForm>
+	<EntityTextStart>344</EntityTextStart>
+	<EntityTextEnd>355</EntityTextEnd>
+	<LinkerScore>11.875626662757313</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Antiquities</WikiTitle>
+		<WikiTitleID>1431051</WikiTitleID>
+		<RankerScore>0.964105235381017</RankerScore>
+		<Attributes>genre	artefact</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Antiquities</WikiTitle> <WikiTitleID>1431051</WikiTitleID> <RankerScore>0.964105235381017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Artifact_(archaeology)</WikiTitle> <WikiTitleID>584894</WikiTitleID> <RankerScore>0.018530256503420876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Archaeology</WikiTitle> <WikiTitleID>570</WikiTitleID> <RankerScore>0.014239159069496094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Classical_antiquity</WikiTitle> <WikiTitleID>252905</WikiTitleID> <RankerScore>4.464784351523038E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ancient_history</WikiTitle> <WikiTitleID>51320</WikiTitleID> <RankerScore>4.464784351523038E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chinese_ceramics</WikiTitle> <WikiTitleID>4237048</WikiTitleID> <RankerScore>4.464784351523038E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Antique</WikiTitle> <WikiTitleID>346477</WikiTitleID> <RankerScore>4.464784351523038E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ancient_Egyptian_architecture</WikiTitle> <WikiTitleID>2672171</WikiTitleID> <RankerScore>4.464784351523038E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_Middle_Ages</WikiTitle> <WikiTitleID>532476</WikiTitleID> <RankerScore>4.464784351523038E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Antiquities_of_the_Jews</WikiTitle> <WikiTitleID>1313974</WikiTitleID> <RankerScore>4.464784351523038E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>statement</EntitySurfaceForm>
+	<EntityTextStart>382</EntityTextStart>
+	<EntityTextEnd>391</EntityTextEnd>
+	<LinkerScore>1.4377412393022126</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Press_release</WikiTitle>
+		<WikiTitleID>304097</WikiTitleID>
+		<RankerScore>0.3799769668950371</RankerScore>
+		<Attributes>relations</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Statement</WikiTitle> <WikiTitleID>41746</WikiTitleID> <RankerScore>0.27172680507791064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statement_(computer_science)</WikiTitle> <WikiTitleID>938656</WikiTitleID> <RankerScore>0.05660639526878881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposition</WikiTitle> <WikiTitleID>81094</WikiTitleID> <RankerScore>0.048614972126377234</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Press_release</WikiTitle> <WikiTitleID>304097</WikiTitleID> <RankerScore>0.3799769668950371</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Document</WikiTitle> <WikiTitleID>161228</WikiTitleID> <RankerScore>0.048614972126377234</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sentence_(linguistics)</WikiTitle> <WikiTitleID>870352</WikiTitleID> <RankerScore>0.048614972126377234</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statement_(logic)</WikiTitle> <WikiTitleID>17642768</WikiTitleID> <RankerScore>0.048614972126377234</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hadith</WikiTitle> <WikiTitleID>13749</WikiTitleID> <RankerScore>0.048614972126377234</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deposition_(law)</WikiTitle> <WikiTitleID>51697</WikiTitleID> <RankerScore>0.048614972126377234</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the Getty</EntitySurfaceForm>
+	<EntityTextStart>402</EntityTextStart>
+	<EntityTextEnd>411</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>J._Paul_Getty_Museum</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>museum	mountain</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Getty</EntitySurfaceForm>
+	<EntityTextStart>406</EntityTextStart>
+	<EntityTextEnd>411</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Getty_Center</WikiTitle>
+		<WikiTitleID>261793</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>building	museum	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Getty</WikiTitle> <WikiTitleID>601672</WikiTitleID> <RankerScore>0.2211471156389719</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Getty_Center</WikiTitle> <WikiTitleID>261793</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>J._Paul_Getty</WikiTitle> <WikiTitleID>174527</WikiTitleID> <RankerScore>0.18849885285855844</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Getty_Oil</WikiTitle> <WikiTitleID>936145</WikiTitleID> <RankerScore>0.0033685161154610823</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Estelle_Getty</WikiTitle> <WikiTitleID>664543</WikiTitleID> <RankerScore>0.0033685161154610823</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Balthazar_Getty</WikiTitle> <WikiTitleID>1706954</WikiTitleID> <RankerScore>0.0033685161154610823</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_W._Getty</WikiTitle> <WikiTitleID>2354347</WikiTitleID> <RankerScore>0.0033685161154610823</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Monday</EntitySurfaceForm>
+	<EntityTextStart>415</EntityTextStart>
+	<EntityTextEnd>421</EntityTextEnd>
+	<LinkerScore>8.124036614283913</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Monday</WikiTitle>
+		<WikiTitleID>54406</WikiTitleID>
+		<RankerScore>0.6829839579409286</RankerScore>
+		<Attributes>days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Monday</WikiTitle> <WikiTitleID>54406</WikiTitleID> <RankerScore>0.6829839579409286</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monday_(The_X-Files)</WikiTitle> <WikiTitleID>11969740</WikiTitleID> <RankerScore>0.11648245352965067</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monday_Night_Football</WikiTitle> <WikiTitleID>195068</WikiTitleID> <RankerScore>0.030486545084280878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NFL_Primetime</WikiTitle> <WikiTitleID>542375</WikiTitleID> <RankerScore>0.042511760861284976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Holy_Monday</WikiTitle> <WikiTitleID>1629312</WikiTitleID> <RankerScore>0.042511760861284976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_7</WikiTitle> <WikiTitleID>19596</WikiTitleID> <RankerScore>0.042511760861284976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Madlax_characters</WikiTitle> <WikiTitleID>16048455</WikiTitleID> <RankerScore>0.042511760861284976</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>stolen</EntitySurfaceForm>
+	<EntityTextStart>433</EntityTextStart>
+	<EntityTextEnd>439</EntityTextEnd>
+	<LinkerScore>15.163838892343417</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Art_theft</WikiTitle>
+		<WikiTitleID>425514</WikiTitleID>
+		<RankerScore>0.9868129196721624</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Theft</WikiTitle> <WikiTitleID>31287</WikiTitleID> <RankerScore>0.00545952187878232</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_theft</WikiTitle> <WikiTitleID>425514</WikiTitleID> <RankerScore>0.9868129196721624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stolen</WikiTitle> <WikiTitleID>10489669</WikiTitleID> <RankerScore>0.0010719954440344365</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cattle_raiding</WikiTitle> <WikiTitleID>1553326</WikiTitleID> <RankerScore>7.395070005578606E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Steal</WikiTitle> <WikiTitleID>232296</WikiTitleID> <RankerScore>7.395070005578606E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stolen_base</WikiTitle> <WikiTitleID>3811</WikiTitleID> <RankerScore>7.395070005578606E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Theft_of_the_Jules_Rimet_Trophy</WikiTitle> <WikiTitleID>8595527</WikiTitleID> <RankerScore>7.395070005578606E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Copyright_infringement</WikiTitle> <WikiTitleID>98779</WikiTitleID> <RankerScore>7.395070005578606E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Street_sign_theft</WikiTitle> <WikiTitleID>570229</WikiTitleID> <RankerScore>7.395070005578606E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stolen_Generations</WikiTitle> <WikiTitleID>28412</WikiTitleID> <RankerScore>7.395070005578606E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stolen_body_hypothesis</WikiTitle> <WikiTitleID>2546655</WikiTitleID> <RankerScore>7.395070005578606E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Motor_vehicle_theft</WikiTitle> <WikiTitleID>214348</WikiTitleID> <RankerScore>7.395070005578606E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>items</EntitySurfaceForm>
+	<EntityTextStart>440</EntityTextStart>
+	<EntityTextEnd>445</EntityTextEnd>
+	<LinkerScore>4.588434450889617</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Item</WikiTitle>
+		<WikiTitleID>254656</WikiTitleID>
+		<RankerScore>0.6964518439064792</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Item</WikiTitle> <WikiTitleID>254656</WikiTitleID> <RankerScore>0.6964518439064792</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Item_(gaming)</WikiTitle> <WikiTitleID>13975629</WikiTitleID> <RankerScore>0.30354815609352087</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>terra</EntitySurfaceForm>
+	<EntityTextStart>452</EntityTextStart>
+	<EntityTextEnd>457</EntityTextEnd>
+	<LinkerScore>2.6143267645207433</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Terra</WikiTitle>
+		<WikiTitleID>85154</WikiTitleID>
+		<RankerScore>0.5509872518495098</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Terra</WikiTitle> <WikiTitleID>85154</WikiTitleID> <RankerScore>0.5509872518495098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Terra_(mythology)</WikiTitle> <WikiTitleID>722634</WikiTitleID> <RankerScore>0.4490127481504902</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>terra cotta</EntitySurfaceForm>
+	<EntityTextStart>452</EntityTextStart>
+	<EntityTextEnd>463</EntityTextEnd>
+	<LinkerScore>6.743492878541156</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Terracotta</WikiTitle>
+		<WikiTitleID>174241</WikiTitleID>
+		<RankerScore>0.9474063446558532</RankerScore>
+		<Attributes>material	shades</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Terracotta</WikiTitle> <WikiTitleID>174241</WikiTitleID> <RankerScore>0.9474063446558532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glazed_architectural_terra-cotta</WikiTitle> <WikiTitleID>2295722</WikiTitleID> <RankerScore>0.03780089681862487</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Architectural_terracotta</WikiTitle> <WikiTitleID>5666707</WikiTitleID> <RankerScore>0.014792758525521999</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>cotta</EntitySurfaceForm>
+	<EntityTextStart>458</EntityTextStart>
+	<EntityTextEnd>463</EntityTextEnd>
+	<LinkerScore>-0.7590103983440923</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Surplice</WikiTitle>
+		<WikiTitleID>319376</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Surplice</WikiTitle> <WikiTitleID>319376</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>drinking cup</EntitySurfaceForm>
+	<EntityTextStart>464</EntityTextStart>
+	<EntityTextEnd>476</EntityTextEnd>
+	<LinkerScore>-0.8292902015593895</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Skull_cup</WikiTitle>
+		<WikiTitleID>3342733</WikiTitleID>
+		<RankerScore>0.8825710084570539</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Skull_cup</WikiTitle> <WikiTitleID>3342733</WikiTitleID> <RankerScore>0.8825710084570539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_glassware</WikiTitle> <WikiTitleID>1424937</WikiTitleID> <RankerScore>0.11742899154294612</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>drinking</EntitySurfaceForm>
+	<EntityTextStart>464</EntityTextStart>
+	<EntityTextEnd>472</EntityTextEnd>
+	<LinkerScore>-4.1354656263167815</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Drinking</WikiTitle>
+		<WikiTitleID>66254</WikiTitleID>
+		<RankerScore>0.5168666520596177</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Drinking</WikiTitle> <WikiTitleID>66254</WikiTitleID> <RankerScore>0.5168666520596177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alcoholic_beverage</WikiTitle> <WikiTitleID>2978</WikiTitleID> <RankerScore>0.05132972210711828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drinking_water</WikiTitle> <WikiTitleID>198725</WikiTitleID> <RankerScore>0.02856196038458496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alcoholism</WikiTitle> <WikiTitleID>2965</WikiTitleID> <RankerScore>0.040324166544867916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alcohol</WikiTitle> <WikiTitleID>1014</WikiTitleID> <RankerScore>0.040324166544867916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alcohol_intoxication</WikiTitle> <WikiTitleID>8011</WikiTitleID> <RankerScore>0.040324166544867916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drinking_culture</WikiTitle> <WikiTitleID>404063</WikiTitleID> <RankerScore>0.040324166544867916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bar_(establishment)</WikiTitle> <WikiTitleID>272207</WikiTitleID> <RankerScore>0.040324166544867916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Distilled_beverage</WikiTitle> <WikiTitleID>1318497</WikiTitleID> <RankerScore>0.040324166544867916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Word_of_Wisdom</WikiTitle> <WikiTitleID>295074</WikiTitleID> <RankerScore>0.040324166544867916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Binge_drinking</WikiTitle> <WikiTitleID>1283931</WikiTitleID> <RankerScore>0.040324166544867916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beer</WikiTitle> <WikiTitleID>3363</WikiTitleID> <RankerScore>0.040324166544867916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legal_drinking_age</WikiTitle> <WikiTitleID>1015583</WikiTitleID> <RankerScore>0.040324166544867916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alcoholic_beverage</WikiTitle> <WikiTitleID>5916176</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>cup</EntitySurfaceForm>
+	<EntityTextStart>473</EntityTextStart>
+	<EntityTextEnd>476</EntityTextEnd>
+	<LinkerScore>-0.7847623960811434</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>List_of_glassware</WikiTitle>
+		<WikiTitleID>1424937</WikiTitleID>
+		<RankerScore>0.32333797982232215</RankerScore>
+		<Attributes>application	drink	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>List_of_glassware</WikiTitle> <WikiTitleID>1424937</WikiTitleID> <RankerScore>0.32333797982232215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cup_(unit)</WikiTitle> <WikiTitleID>2968115</WikiTitleID> <RankerScore>0.09190794035693921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norwegian_Football_Cup</WikiTitle> <WikiTitleID>603997</WikiTitleID> <RankerScore>0.022188317971739223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cup</WikiTitle> <WikiTitleID>6815</WikiTitleID> <RankerScore>0.20755267430117183</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgian_Cup</WikiTitle> <WikiTitleID>1485272</WikiTitleID> <RankerScore>0.022188317971739223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tournament</WikiTitle> <WikiTitleID>146996</WikiTitleID> <RankerScore>0.022188317971739223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Liechtenstein_Football_Cup</WikiTitle> <WikiTitleID>1899373</WikiTitleID> <RankerScore>0.022188317971739223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DFB-Pokal</WikiTitle> <WikiTitleID>675126</WikiTitleID> <RankerScore>0.022188317971739223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Taça_de_Portugal</WikiTitle> <WikiTitleID>924582</WikiTitleID> <RankerScore>0.022188317971739223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>KNVB_Cup</WikiTitle> <WikiTitleID>1016465</WikiTitleID> <RankerScore>0.022188317971739223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Copa_del_Rey</WikiTitle> <WikiTitleID>80967</WikiTitleID> <RankerScore>0.022188317971739223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trophy</WikiTitle> <WikiTitleID>619119</WikiTitleID> <RankerScore>0.022188317971739223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croatian_Cup</WikiTitle> <WikiTitleID>1878567</WikiTitleID> <RankerScore>0.022188317971739223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FA_Cup</WikiTitle> <WikiTitleID>11237</WikiTitleID> <RankerScore>0.022188317971739223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Svenska_Cupen</WikiTitle> <WikiTitleID>735779</WikiTitleID> <RankerScore>0.022188317971739223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_Cup</WikiTitle> <WikiTitleID>1525672</WikiTitleID> <RankerScore>0.022188317971739223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Single-elimination_tournament</WikiTitle> <WikiTitleID>939680</WikiTitleID> <RankerScore>0.022188317971739223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Handball_Cup_of_Bosnia_and_Herzegovina</WikiTitle> <WikiTitleID>4828299</WikiTitleID> <RankerScore>0.022188317971739223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Danish_Cup</WikiTitle> <WikiTitleID>2568752</WikiTitleID> <RankerScore>0.022188317971739223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006–07_Cypriot_Cup</WikiTitle> <WikiTitleID>14112881</WikiTitleID> <RankerScore>0.022188317971739223</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>B.C.</EntitySurfaceForm>
+	<EntityTextStart>487</EntityTextStart>
+	<EntityTextEnd>491</EntityTextEnd>
+	<LinkerScore>0.02157219402360866</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Anno_Domini</WikiTitle>
+		<WikiTitleID>1400</WikiTitleID>
+		<RankerScore>0.20524535329416843</RankerScore>
+		<Attributes>controversy	terms	phrase</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>British_Columbia</WikiTitle> <WikiTitleID>3392</WikiTitleID> <RankerScore>0.16401632885853198</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>B.C._(comic_strip)</WikiTitle> <WikiTitleID>866031</WikiTitleID> <RankerScore>0.1880784892647022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anno_Domini</WikiTitle> <WikiTitleID>1400</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BC</WikiTitle> <WikiTitleID>4480</WikiTitleID> <RankerScore>0.03161855918447124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boston_College</WikiTitle> <WikiTitleID>239811</WikiTitleID> <RankerScore>0.03161855918447124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baja_California</WikiTitle> <WikiTitleID>199793</WikiTitleID> <RankerScore>0.03161855918447124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billy_Corgan</WikiTitle> <WikiTitleID>183773</WikiTitleID> <RankerScore>0.03161855918447124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BC_Lions</WikiTitle> <WikiTitleID>240326</WikiTitleID> <RankerScore>0.03161855918447124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anno_Domini</WikiTitle> <WikiTitleID>1400</WikiTitleID> <RankerScore>0.20524535329416843</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Columbia</WikiTitle> <WikiTitleID>3392</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BC</WikiTitle> <WikiTitleID>4480</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Common_Era</WikiTitle> <WikiTitleID>6088</WikiTitleID> <RankerScore>0.03161855918447124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baja_California</WikiTitle> <WikiTitleID>199793</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_British_Columbia_general_elections</WikiTitle> <WikiTitleID>398477</WikiTitleID> <RankerScore>0.03161855918447124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>B.C._(comic_strip)</WikiTitle> <WikiTitleID>866031</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boston_College_Eagles_men&apos;s_basketball</WikiTitle> <WikiTitleID>9617593</WikiTitleID> <RankerScore>0.03161855918447124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Other_Backward_Class</WikiTitle> <WikiTitleID>1558304</WikiTitleID> <RankerScore>0.03161855918447124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bacău_County</WikiTitle> <WikiTitleID>269364</WikiTitleID> <RankerScore>0.03161855918447124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boston_University</WikiTitle> <WikiTitleID>61114</WikiTitleID> <RankerScore>0.03161855918447124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boston_College</WikiTitle> <WikiTitleID>239811</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Buoyancy_compensator</WikiTitle> <WikiTitleID>460801</WikiTitleID> <RankerScore>0.03161855918447124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1st_century_BC</WikiTitle> <WikiTitleID>34835</WikiTitleID> <RankerScore>0.03161855918447124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ante_Christum_Natum</WikiTitle> <WikiTitleID>2299218</WikiTitleID> <RankerScore>0.03161855918447124</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>excavated</EntitySurfaceForm>
+	<EntityTextStart>525</EntityTextStart>
+	<EntityTextEnd>534</EntityTextEnd>
+	<LinkerScore>0.15532359318953737</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Excavation_(archaeology)</WikiTitle>
+		<WikiTitleID>60697</WikiTitleID>
+		<RankerScore>0.8049305065772976</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Excavation_(archaeology)</WikiTitle> <WikiTitleID>60697</WikiTitleID> <RankerScore>0.8049305065772976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Archaeology</WikiTitle> <WikiTitleID>570</WikiTitleID> <RankerScore>0.1866277927569641</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earthworks_(engineering)</WikiTitle> <WikiTitleID>1096021</WikiTitleID> <RankerScore>0.008441700665738273</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>archaeological site</EntitySurfaceForm>
+	<EntityTextStart>546</EntityTextStart>
+	<EntityTextEnd>565</EntityTextEnd>
+	<LinkerScore>-3.460492216938725</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Archaeological_site</WikiTitle>
+		<WikiTitleID>147625</WikiTitleID>
+		<RankerScore>0.5421208433560464</RankerScore>
+		<Attributes>site</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Archaeological_site</WikiTitle> <WikiTitleID>147625</WikiTitleID> <RankerScore>0.5421208433560464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Archaeology</WikiTitle> <WikiTitleID>570</WikiTitleID> <RankerScore>0.3566977249168787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Maya_sites</WikiTitle> <WikiTitleID>5958027</WikiTitleID> <RankerScore>0.026861300707181335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_archaeological_sites_by_country</WikiTitle> <WikiTitleID>169499</WikiTitleID> <RankerScore>0.01486402620397873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hittite_sites</WikiTitle> <WikiTitleID>13752866</WikiTitleID> <RankerScore>0.01486402620397873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tlatelolco_(archaeological_site)</WikiTitle> <WikiTitleID>18430431</WikiTitleID> <RankerScore>0.01486402620397873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dolní_Věstonice_(archaeology)</WikiTitle> <WikiTitleID>2805113</WikiTitleID> <RankerScore>0.01486402620397873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stilos_(archaeological_site)</WikiTitle> <WikiTitleID>4040757</WikiTitleID> <RankerScore>0.01486402620397873</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>torso</EntitySurfaceForm>
+	<EntityTextStart>572</EntityTextStart>
+	<EntityTextEnd>577</EntityTextEnd>
+	<LinkerScore>0.887480621665691</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Trunk_(anatomy)</WikiTitle>
+		<WikiTitleID>674207</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Trunk_(anatomy)</WikiTitle> <WikiTitleID>674207</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mithras</EntitySurfaceForm>
+	<EntityTextStart>592</EntityTextStart>
+	<EntityTextEnd>599</EntityTextEnd>
+	<LinkerScore>16.52289506827427</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mithraic_mysteries</WikiTitle>
+		<WikiTitleID>20826</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>religion	mystery</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mithraic_mysteries</WikiTitle> <WikiTitleID>20826</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>2nd century</EntitySurfaceForm>
+	<EntityTextStart>612</EntityTextStart>
+	<EntityTextEnd>623</EntityTextEnd>
+	<LinkerScore>0.3502152642141718</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2nd_century</WikiTitle>
+		<WikiTitleID>34744</WikiTitleID>
+		<RankerScore>0.8590477273464122</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2nd_century</WikiTitle> <WikiTitleID>34744</WikiTitleID> <RankerScore>0.8590477273464122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2nd_century_BC</WikiTitle> <WikiTitleID>34837</WikiTitleID> <RankerScore>0.14095227265358773</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>stolen</EntitySurfaceForm>
+	<EntityTextStart>646</EntityTextStart>
+	<EntityTextEnd>652</EntityTextEnd>
+	<LinkerScore>14.564595085602786</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Art_theft</WikiTitle>
+		<WikiTitleID>425514</WikiTitleID>
+		<RankerScore>0.9808852920350145</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Theft</WikiTitle> <WikiTitleID>31287</WikiTitleID> <RankerScore>0.007164603463506093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_theft</WikiTitle> <WikiTitleID>425514</WikiTitleID> <RankerScore>0.9808852920350145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stolen</WikiTitle> <WikiTitleID>10489669</WikiTitleID> <RankerScore>0.0016577626252555322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cattle_raiding</WikiTitle> <WikiTitleID>1553326</WikiTitleID> <RankerScore>0.001143593541802648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Steal</WikiTitle> <WikiTitleID>232296</WikiTitleID> <RankerScore>0.001143593541802648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stolen_base</WikiTitle> <WikiTitleID>3811</WikiTitleID> <RankerScore>0.001143593541802648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Theft_of_the_Jules_Rimet_Trophy</WikiTitle> <WikiTitleID>8595527</WikiTitleID> <RankerScore>0.001143593541802648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Copyright_infringement</WikiTitle> <WikiTitleID>98779</WikiTitleID> <RankerScore>0.001143593541802648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Street_sign_theft</WikiTitle> <WikiTitleID>570229</WikiTitleID> <RankerScore>0.001143593541802648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stolen_Generations</WikiTitle> <WikiTitleID>28412</WikiTitleID> <RankerScore>0.001143593541802648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stolen_body_hypothesis</WikiTitle> <WikiTitleID>2546655</WikiTitleID> <RankerScore>0.001143593541802648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Motor_vehicle_theft</WikiTitle> <WikiTitleID>214348</WikiTitleID> <RankerScore>0.001143593541802648</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>private</EntitySurfaceForm>
+	<EntityTextStart>660</EntityTextStart>
+	<EntityTextEnd>667</EntityTextEnd>
+	<LinkerScore>0.56512482603301</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Private_school</WikiTitle>
+		<WikiTitleID>299959</WikiTitleID>
+		<RankerScore>0.3714948964070116</RankerScore>
+		<Attributes>type</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Private_school</WikiTitle> <WikiTitleID>299959</WikiTitleID> <RankerScore>0.3714948964070116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Private_(rank)</WikiTitle> <WikiTitleID>24795</WikiTitleID> <RankerScore>0.08538500852098654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Private_university</WikiTitle> <WikiTitleID>1699468</WikiTitleID> <RankerScore>0.04759828058641628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Privately_held_company</WikiTitle> <WikiTitleID>1499655</WikiTitleID> <RankerScore>0.029148342028563857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Private_sector</WikiTitle> <WikiTitleID>251540</WikiTitleID> <RankerScore>0.029148342028563857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Private</WikiTitle> <WikiTitleID>659802</WikiTitleID> <RankerScore>0.029148342028563857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Privacy</WikiTitle> <WikiTitleID>25009</WikiTitleID> <RankerScore>0.029148342028563857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Property</WikiTitle> <WikiTitleID>23626</WikiTitleID> <RankerScore>0.029148342028563857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Independent_school</WikiTitle> <WikiTitleID>612857</WikiTitleID> <RankerScore>0.029148342028563857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Private_railway</WikiTitle> <WikiTitleID>193307</WikiTitleID> <RankerScore>0.029148342028563857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Personal_property</WikiTitle> <WikiTitleID>24695</WikiTitleID> <RankerScore>0.029148342028563857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Private_law</WikiTitle> <WikiTitleID>220103</WikiTitleID> <RankerScore>0.029148342028563857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Private_foundation</WikiTitle> <WikiTitleID>11727749</WikiTitleID> <RankerScore>0.029148342028563857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Private_hospital</WikiTitle> <WikiTitleID>4769045</WikiTitleID> <RankerScore>0.029148342028563857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Private_aviation</WikiTitle> <WikiTitleID>2870842</WikiTitleID> <RankerScore>0.029148342028563857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Capitalism</WikiTitle> <WikiTitleID>5416</WikiTitleID> <RankerScore>0.029148342028563857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Independent_school_(United_Kingdom)</WikiTitle> <WikiTitleID>238561</WikiTitleID> <RankerScore>0.029148342028563857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Public_university</WikiTitle> <WikiTitleID>1640986</WikiTitleID> <RankerScore>0.029148342028563857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foundation_(nonprofit)</WikiTitle> <WikiTitleID>693306</WikiTitleID> <RankerScore>0.029148342028563857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Private_good</WikiTitle> <WikiTitleID>1139275</WikiTitleID> <RankerScore>0.029148342028563857</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Italian</EntitySurfaceForm>
+	<EntityTextStart>668</EntityTextStart>
+	<EntityTextEnd>675</EntityTextEnd>
+	<LinkerScore>-4.979058846561877</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Italian_language</WikiTitle>
+		<WikiTitleID>14708</WikiTitleID>
+		<RankerScore>0.4133422684163553</RankerScore>
+		<Attributes>language</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Italy</WikiTitle> <WikiTitleID>14532</WikiTitleID> <RankerScore>0.40103543469461367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_language</WikiTitle> <WikiTitleID>14708</WikiTitleID> <RankerScore>0.4133422684163553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italians</WikiTitle> <WikiTitleID>385155</WikiTitleID> <RankerScore>0.06954538859821766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_cuisine</WikiTitle> <WikiTitleID>3735620</WikiTitleID> <RankerScore>0.006828053428871382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_American</WikiTitle> <WikiTitleID>125320</WikiTitleID> <RankerScore>0.006828053428871382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Italy</WikiTitle> <WikiTitleID>9804204</WikiTitleID> <RankerScore>0.006828053428871382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Italy</WikiTitle> <WikiTitleID>10787</WikiTitleID> <RankerScore>0.006828053428871382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Italy</WikiTitle> <WikiTitleID>14701</WikiTitleID> <RankerScore>0.006828053428871382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian</WikiTitle> <WikiTitleID>14611</WikiTitleID> <RankerScore>0.006828053428871382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Italy</WikiTitle> <WikiTitleID>283846</WikiTitleID> <RankerScore>0.006828053428871382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_Brazilian</WikiTitle> <WikiTitleID>4420441</WikiTitleID> <RankerScore>0.006828053428871382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_literature</WikiTitle> <WikiTitleID>1589136</WikiTitleID> <RankerScore>0.006828053428871382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_football_team</WikiTitle> <WikiTitleID>362466</WikiTitleID> <RankerScore>0.006828053428871382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_Australian</WikiTitle> <WikiTitleID>3141986</WikiTitleID> <RankerScore>0.006828053428871382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_poetry</WikiTitle> <WikiTitleID>2909091</WikiTitleID> <RankerScore>0.006828053428871382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_wine</WikiTitle> <WikiTitleID>1807097</WikiTitleID> <RankerScore>0.006828053428871382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regia_Marina</WikiTitle> <WikiTitleID>1126949</WikiTitleID> <RankerScore>0.006828053428871382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_Canadians</WikiTitle> <WikiTitleID>1741313</WikiTitleID> <RankerScore>0.006828053428871382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_comics</WikiTitle> <WikiTitleID>1181467</WikiTitleID> <RankerScore>0.006828053428871382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_art</WikiTitle> <WikiTitleID>1079115</WikiTitleID> <RankerScore>0.006828053428871382</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>collection</EntitySurfaceForm>
+	<EntityTextStart>676</EntityTextStart>
+	<EntityTextEnd>686</EntityTextEnd>
+	<LinkerScore>-1.6328164869339457</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Collection_(artwork)</WikiTitle>
+		<WikiTitleID>3218952</WikiTitleID>
+		<RankerScore>0.7833082601250001</RankerScore>
+		<Attributes>collection</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Collection</WikiTitle> <WikiTitleID>6084</WikiTitleID> <RankerScore>0.0740874849906709</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collection_(artwork)</WikiTitle> <WikiTitleID>3218952</WikiTitleID> <RankerScore>0.7833082601250001</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collection_(horse)</WikiTitle> <WikiTitleID>309876</WikiTitleID> <RankerScore>0.007313981138641737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collecting</WikiTitle> <WikiTitleID>40097</WikiTitleID> <RankerScore>0.018266575527419365</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anthology</WikiTitle> <WikiTitleID>316889</WikiTitleID> <RankerScore>0.007313981138641737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collection_(abstract_data_type)</WikiTitle> <WikiTitleID>12119816</WikiTitleID> <RankerScore>0.007313981138641737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Class_(set_theory)</WikiTitle> <WikiTitleID>20696</WikiTitleID> <RankerScore>0.007313981138641737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Container_(abstract_data_type)</WikiTitle> <WikiTitleID>5170615</WikiTitleID> <RankerScore>0.007313981138641737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Offertory</WikiTitle> <WikiTitleID>3254441</WikiTitleID> <RankerScore>0.007313981138641737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Set</WikiTitle> <WikiTitleID>26691</WikiTitleID> <RankerScore>0.007313981138641737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greatest_hits_album</WikiTitle> <WikiTitleID>478673</WikiTitleID> <RankerScore>0.007313981138641737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Compilation_album</WikiTitle> <WikiTitleID>504309</WikiTitleID> <RankerScore>0.007313981138641737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Short_story</WikiTitle> <WikiTitleID>28296</WikiTitleID> <RankerScore>0.007313981138641737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waste_collection</WikiTitle> <WikiTitleID>3411618</WikiTitleID> <RankerScore>0.007313981138641737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intelligence_collection_management</WikiTitle> <WikiTitleID>13979372</WikiTitleID> <RankerScore>0.007313981138641737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Set_(music)</WikiTitle> <WikiTitleID>3189755</WikiTitleID> <RankerScore>0.007313981138641737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grimms&apos;_Fairy_Tales</WikiTitle> <WikiTitleID>3017525</WikiTitleID> <RankerScore>0.007313981138641737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collection_agency</WikiTitle> <WikiTitleID>1576578</WikiTitleID> <RankerScore>0.007313981138641737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trade_paperback_(comics)</WikiTitle> <WikiTitleID>1639565</WikiTitleID> <RankerScore>0.007313981138641737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Statuary_Hall_Collection</WikiTitle> <WikiTitleID>700241</WikiTitleID> <RankerScore>0.007313981138641737</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sculpted</EntitySurfaceForm>
+	<EntityTextStart>696</EntityTextStart>
+	<EntityTextEnd>704</EntityTextEnd>
+	<LinkerScore>10.708318976888025</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sculpture</WikiTitle>
+		<WikiTitleID>26714</WikiTitleID>
+		<RankerScore>0.997481582323167</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sculpture</WikiTitle> <WikiTitleID>26714</WikiTitleID> <RankerScore>0.997481582323167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sculpture_(mollusc)</WikiTitle> <WikiTitleID>1934053</WikiTitleID> <RankerScore>0.0015853072621400484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glacial_landform</WikiTitle> <WikiTitleID>1494235</WikiTitleID> <RankerScore>9.331104146930599E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>head</EntitySurfaceForm>
+	<EntityTextStart>705</EntityTextStart>
+	<EntityTextEnd>709</EntityTextEnd>
+	<LinkerScore>-3.367518953163883</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Head</WikiTitle>
+		<WikiTitleID>1209545</WikiTitleID>
+		<RankerScore>0.5526105578506522</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Head</WikiTitle> <WikiTitleID>1209545</WikiTitleID> <RankerScore>0.5526105578506522</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_coach</WikiTitle> <WikiTitleID>533149</WikiTitleID> <RankerScore>0.022420693584348665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hydraulic_head</WikiTitle> <WikiTitleID>1854369</WikiTitleID> <RankerScore>0.029574494094929106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_(linguistics)</WikiTitle> <WikiTitleID>887484</WikiTitleID> <RankerScore>0.023258485557062943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_(watercraft)</WikiTitle> <WikiTitleID>1675303</WikiTitleID> <RankerScore>0.023258485557062943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beer_head</WikiTitle> <WikiTitleID>1797851</WikiTitleID> <RankerScore>0.023258485557062943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cylinder_head</WikiTitle> <WikiTitleID>230978</WikiTitleID> <RankerScore>0.023258485557062943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pseudanthium</WikiTitle> <WikiTitleID>1209543</WikiTitleID> <RankerScore>0.023258485557062943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drumhead</WikiTitle> <WikiTitleID>322059</WikiTitleID> <RankerScore>0.023258485557062943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_(music)</WikiTitle> <WikiTitleID>2083240</WikiTitleID> <RankerScore>0.023258485557062943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rosh_yeshiva</WikiTitle> <WikiTitleID>817050</WikiTitleID> <RankerScore>0.023258485557062943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_(Unix)</WikiTitle> <WikiTitleID>297520</WikiTitleID> <RankerScore>0.023258485557062943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Disk_read-and-write_head</WikiTitle> <WikiTitleID>67310</WikiTitleID> <RankerScore>0.023258485557062943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>River_source</WikiTitle> <WikiTitleID>415088</WikiTitleID> <RankerScore>0.023258485557062943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_of_government</WikiTitle> <WikiTitleID>37570</WikiTitleID> <RankerScore>0.023258485557062943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_injury</WikiTitle> <WikiTitleID>37641</WikiTitleID> <RankerScore>0.023258485557062943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_of_rib</WikiTitle> <WikiTitleID>7042350</WikiTitleID> <RankerScore>0.023258485557062943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hydrostatic_head</WikiTitle> <WikiTitleID>7993061</WikiTitleID> <RankerScore>0.023258485557062943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chairman</WikiTitle> <WikiTitleID>3452243</WikiTitleID> <RankerScore>0.023258485557062943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_teacher</WikiTitle> <WikiTitleID>833159</WikiTitleID> <RankerScore>0.023258485557062943</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>victorious</EntitySurfaceForm>
+	<EntityTextStart>715</EntityTextStart>
+	<EntityTextEnd>725</EntityTextEnd>
+	<LinkerScore>-1.072660542040739</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Victory</WikiTitle>
+		<WikiTitleID>545727</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Victory</WikiTitle> <WikiTitleID>545727</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>athlete</EntitySurfaceForm>
+	<EntityTextStart>726</EntityTextStart>
+	<EntityTextEnd>733</EntityTextEnd>
+	<LinkerScore>5.97247484525225</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Track_and_field</WikiTitle>
+		<WikiTitleID>43719</WikiTitleID>
+		<RankerScore>0.3200499481764602</RankerScore>
+		<Attributes>sport</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Track_and_field</WikiTitle> <WikiTitleID>43719</WikiTitleID> <RankerScore>0.3200499481764602</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sportsperson</WikiTitle> <WikiTitleID>154164</WikiTitleID> <RankerScore>0.28298064467263506</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Athlete</WikiTitle> <WikiTitleID>2735120</WikiTitleID> <RankerScore>0.2511985423035635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sport</WikiTitle> <WikiTitleID>26853</WikiTitleID> <RankerScore>0.0728854324236706</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta</WikiTitle> <WikiTitleID>36743</WikiTitleID> <RankerScore>0.0728854324236706</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Roman</EntitySurfaceForm>
+	<EntityTextStart>750</EntityTextStart>
+	<EntityTextEnd>755</EntityTextEnd>
+	<LinkerScore>-0.2851626842257877</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ancient_Rome</WikiTitle>
+		<WikiTitleID>521555</WikiTitleID>
+		<RankerScore>0.9615143886614442</RankerScore>
+		<Attributes>civilization	colony</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ancient_Rome</WikiTitle> <WikiTitleID>521555</WikiTitleID> <RankerScore>0.9615143886614442</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Empire</WikiTitle> <WikiTitleID>25507</WikiTitleID> <RankerScore>0.019096918533126388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Republic</WikiTitle> <WikiTitleID>25816</WikiTitleID> <RankerScore>4.4197071742626827E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Britain</WikiTitle> <WikiTitleID>13525</WikiTitleID> <RankerScore>4.4197071742626827E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rome</WikiTitle> <WikiTitleID>25458</WikiTitleID> <RankerScore>0.012317161326609085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_mythology</WikiTitle> <WikiTitleID>26279</WikiTitleID> <RankerScore>4.4197071742626827E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman</WikiTitle> <WikiTitleID>26113</WikiTitleID> <RankerScore>4.4197071742626827E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ancient_Roman_architecture</WikiTitle> <WikiTitleID>52685</WikiTitleID> <RankerScore>4.4197071742626827E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_alphabet</WikiTitle> <WikiTitleID>18306</WikiTitleID> <RankerScore>4.4197071742626827E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman,_Romania</WikiTitle> <WikiTitleID>415820</WikiTitleID> <RankerScore>4.4197071742626827E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Catholic_Church</WikiTitle> <WikiTitleID>606848</WikiTitleID> <RankerScore>4.4197071742626827E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_law</WikiTitle> <WikiTitleID>26364</WikiTitleID> <RankerScore>4.4197071742626827E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_citizenship</WikiTitle> <WikiTitleID>1037008</WikiTitleID> <RankerScore>4.4197071742626827E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Byzantine_Empire</WikiTitle> <WikiTitleID>16972981</WikiTitleID> <RankerScore>4.4197071742626827E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_roads</WikiTitle> <WikiTitleID>25898</WikiTitleID> <RankerScore>4.4197071742626827E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ancient_Rome</WikiTitle> <WikiTitleID>1459253</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_army</WikiTitle> <WikiTitleID>753281</WikiTitleID> <RankerScore>4.4197071742626827E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin</WikiTitle> <WikiTitleID>17730</WikiTitleID> <RankerScore>4.4197071742626827E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Egypt_(Roman_province)</WikiTitle> <WikiTitleID>496519</WikiTitleID> <RankerScore>4.4197071742626827E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_type</WikiTitle> <WikiTitleID>1926335</WikiTitleID> <RankerScore>4.4197071742626827E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Greek</EntitySurfaceForm>
+	<EntityTextStart>778</EntityTextStart>
+	<EntityTextEnd>783</EntityTextEnd>
+	<LinkerScore>-4.312092966814216</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ancient_Greece</WikiTitle>
+		<WikiTitleID>66540</WikiTitleID>
+		<RankerScore>0.5073876903834541</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Greek_language</WikiTitle> <WikiTitleID>11887</WikiTitleID> <RankerScore>0.39746094518763764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greece</WikiTitle> <WikiTitleID>12108</WikiTitleID> <RankerScore>0.0438619371653252</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greeks</WikiTitle> <WikiTitleID>42056</WikiTitleID> <RankerScore>0.003017025133151944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ancient_Greece</WikiTitle> <WikiTitleID>66540</WikiTitleID> <RankerScore>0.5073876903834541</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ancient_Greek</WikiTitle> <WikiTitleID>148363</WikiTitleID> <RankerScore>0.003017025133151944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greek_mythology</WikiTitle> <WikiTitleID>11961</WikiTitleID> <RankerScore>0.003017025133151944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greek_alphabet</WikiTitle> <WikiTitleID>715909</WikiTitleID> <RankerScore>0.003017025133151944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greek</WikiTitle> <WikiTitleID>11882</WikiTitleID> <RankerScore>0.003017025133151944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Koine_Greek</WikiTitle> <WikiTitleID>65374</WikiTitleID> <RankerScore>0.003017025133151944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greek_literature</WikiTitle> <WikiTitleID>52682</WikiTitleID> <RankerScore>0.003017025133151944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greek_cuisine</WikiTitle> <WikiTitleID>12486</WikiTitleID> <RankerScore>0.003017025133151944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greek_(TV_series)</WikiTitle> <WikiTitleID>9886076</WikiTitleID> <RankerScore>0.003017025133151944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Greece</WikiTitle> <WikiTitleID>187260</WikiTitleID> <RankerScore>0.003017025133151944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ancient_Greek_philosophy</WikiTitle> <WikiTitleID>171171</WikiTitleID> <RankerScore>0.003017025133151944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ancient_Greek_architecture</WikiTitle> <WikiTitleID>52684</WikiTitleID> <RankerScore>0.003017025133151944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Geography_of_Greece</WikiTitle> <WikiTitleID>71005</WikiTitleID> <RankerScore>0.003017025133151944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modern_Greek</WikiTitle> <WikiTitleID>292885</WikiTitleID> <RankerScore>0.003017025133151944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hellenistic_Greece</WikiTitle> <WikiTitleID>565604</WikiTitleID> <RankerScore>0.003017025133151944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Greece</WikiTitle> <WikiTitleID>565594</WikiTitleID> <RankerScore>0.003017025133151944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greek_American</WikiTitle> <WikiTitleID>750967</WikiTitleID> <RankerScore>0.003017025133151944</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>apparently</EntitySurfaceForm>
+	<EntityTextStart>802</EntityTextStart>
+	<EntityTextEnd>812</EntityTextEnd>
+	<LinkerScore>3.3780529696451853</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2008</WikiTitle>
+		<WikiTitleID>35825</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2008</WikiTitle> <WikiTitleID>35825</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>taken</EntitySurfaceForm>
+	<EntityTextStart>813</EntityTextStart>
+	<EntityTextEnd>818</EntityTextEnd>
+	<LinkerScore>-0.6491019002939484</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Eminent_domain</WikiTitle>
+		<WikiTitleID>144079</WikiTitleID>
+		<RankerScore>0.1617230415590977</RankerScore>
+		<Attributes>doctrine</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Battle_of_Badajoz_(1936)</WikiTitle> <WikiTitleID>4506309</WikiTitleID> <RankerScore>0.15014546131640674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eminent_domain</WikiTitle> <WikiTitleID>144079</WikiTitleID> <RankerScore>0.1617230415590977</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Málaga</WikiTitle> <WikiTitleID>4843637</WikiTitleID> <RankerScore>0.13201605415071102</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Loanword</WikiTitle> <WikiTitleID>59787</WikiTitleID> <RankerScore>0.16006728052165145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Siege_of_Gaeta_(1734)</WikiTitle> <WikiTitleID>4774078</WikiTitleID> <RankerScore>0.13201605415071102</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hispano-Moroccan_War_(1859–60)</WikiTitle> <WikiTitleID>6330085</WikiTitleID> <RankerScore>0.13201605415071102</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kidnapping</WikiTitle> <WikiTitleID>169376</WikiTitleID> <RankerScore>0.13201605415071102</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>scientific</EntitySurfaceForm>
+	<EntityTextStart>843</EntityTextStart>
+	<EntityTextEnd>853</EntityTextEnd>
+	<LinkerScore>-0.8070903554375057</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Science</WikiTitle>
+		<WikiTitleID>26700</WikiTitleID>
+		<RankerScore>0.5393049092859976</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Science</WikiTitle> <WikiTitleID>26700</WikiTitleID> <RankerScore>0.5393049092859976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scientific_method</WikiTitle> <WikiTitleID>26833</WikiTitleID> <RankerScore>0.03611031667329117</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Binomial_nomenclature</WikiTitle> <WikiTitleID>39736</WikiTitleID> <RankerScore>0.021097799346319716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_science_and_technology_in_the_Indian_subcontinent</WikiTitle> <WikiTitleID>1770300</WikiTitleID> <RankerScore>0.023734527923199494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Science_in_the_medieval_Islamic_world</WikiTitle> <WikiTitleID>267542</WikiTitleID> <RankerScore>0.023734527923199494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scientific_journal</WikiTitle> <WikiTitleID>37316</WikiTitleID> <RankerScore>0.023734527923199494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scientific_consensus</WikiTitle> <WikiTitleID>423727</WikiTitleID> <RankerScore>0.023734527923199494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scientific_calculator</WikiTitle> <WikiTitleID>439711</WikiTitleID> <RankerScore>0.023734527923199494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_science</WikiTitle> <WikiTitleID>14400</WikiTitleID> <RankerScore>0.023734527923199494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scientific_evidence</WikiTitle> <WikiTitleID>201657</WikiTitleID> <RankerScore>0.023734527923199494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scientific_pitch_notation</WikiTitle> <WikiTitleID>1043937</WikiTitleID> <RankerScore>0.023734527923199494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Natural_science</WikiTitle> <WikiTitleID>38890</WikiTitleID> <RankerScore>0.023734527923199494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Applied_science</WikiTitle> <WikiTitleID>419386</WikiTitleID> <RankerScore>0.023734527923199494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pseudoscience</WikiTitle> <WikiTitleID>23047</WikiTitleID> <RankerScore>0.023734527923199494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transliteration</WikiTitle> <WikiTitleID>3987543</WikiTitleID> <RankerScore>0.023734527923199494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Industrial_espionage</WikiTitle> <WikiTitleID>15508</WikiTitleID> <RankerScore>0.023734527923199494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Theory</WikiTitle> <WikiTitleID>30746</WikiTitleID> <RankerScore>0.023734527923199494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Natural_philosophy</WikiTitle> <WikiTitleID>382251</WikiTitleID> <RankerScore>0.023734527923199494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scientific_evidence_(law)</WikiTitle> <WikiTitleID>5859006</WikiTitleID> <RankerScore>0.023734527923199494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scientist</WikiTitle> <WikiTitleID>26997</WikiTitleID> <RankerScore>0.023734527923199494</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>excavation</EntitySurfaceForm>
+	<EntityTextStart>854</EntityTextStart>
+	<EntityTextEnd>864</EntityTextEnd>
+	<LinkerScore>9.860713948526895</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Excavation_(archaeology)</WikiTitle>
+		<WikiTitleID>60697</WikiTitleID>
+		<RankerScore>0.9761093339131066</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Excavation_(archaeology)</WikiTitle> <WikiTitleID>60697</WikiTitleID> <RankerScore>0.9761093339131066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earthworks_(engineering)</WikiTitle> <WikiTitleID>1096021</WikiTitleID> <RankerScore>0.013779643846405773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foundation_(engineering)</WikiTitle> <WikiTitleID>693334</WikiTitleID> <RankerScore>0.010111022240487542</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>security</EntitySurfaceForm>
+	<EntityTextStart>876</EntityTextStart>
+	<EntityTextEnd>884</EntityTextEnd>
+	<LinkerScore>6.684704822941387</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Security</WikiTitle>
+		<WikiTitleID>41684</WikiTitleID>
+		<RankerScore>0.38321104086237406</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Security</WikiTitle> <WikiTitleID>41684</WikiTitleID> <RankerScore>0.38321104086237406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_security</WikiTitle> <WikiTitleID>7398</WikiTitleID> <RankerScore>0.08936233335446664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_(finance)</WikiTitle> <WikiTitleID>42162</WikiTitleID> <RankerScore>0.028811458738567112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_security</WikiTitle> <WikiTitleID>240468</WikiTitleID> <RankerScore>0.037631827227518296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Information_security</WikiTitle> <WikiTitleID>15036</WikiTitleID> <RankerScore>0.028811458738567112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_guard</WikiTitle> <WikiTitleID>62126</WikiTitleID> <RankerScore>0.028811458738567112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_insecurity</WikiTitle> <WikiTitleID>55885</WikiTitleID> <RankerScore>0.028811458738567112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_interest</WikiTitle> <WikiTitleID>2916935</WikiTitleID> <RankerScore>0.028811458738567112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Network_security</WikiTitle> <WikiTitleID>592687</WikiTitleID> <RankerScore>0.028811458738567112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_security_forces</WikiTitle> <WikiTitleID>315904</WikiTitleID> <RankerScore>0.028811458738567112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Physical_security</WikiTitle> <WikiTitleID>58725</WikiTitleID> <RankerScore>0.028811458738567112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Airport_security</WikiTitle> <WikiTitleID>284770</WikiTitleID> <RankerScore>0.028811458738567112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vulnerability_(computing)</WikiTitle> <WikiTitleID>1129827</WikiTitleID> <RankerScore>0.028811458738567112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Energy_security</WikiTitle> <WikiTitleID>9560337</WikiTitleID> <RankerScore>0.028811458738567112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Food_security</WikiTitle> <WikiTitleID>216361</WikiTitleID> <RankerScore>0.028811458738567112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MI5</WikiTitle> <WikiTitleID>100076</WikiTitleID> <RankerScore>0.028811458738567112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Application_security</WikiTitle> <WikiTitleID>2571015</WikiTitleID> <RankerScore>0.028811458738567112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_for_costs</WikiTitle> <WikiTitleID>221794</WikiTitleID> <RankerScore>0.028811458738567112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Timeline_of_the_Israeli–Palestinian_conflict</WikiTitle> <WikiTitleID>453591</WikiTitleID> <RankerScore>0.028811458738567112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_security</WikiTitle> <WikiTitleID>1946540</WikiTitleID> <RankerScore>0.028811458738567112</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>reasons</EntitySurfaceForm>
+	<EntityTextStart>885</EntityTextStart>
+	<EntityTextEnd>892</EntityTextEnd>
+	<LinkerScore>5.567767802438443</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Reason</WikiTitle>
+		<WikiTitleID>42446</WikiTitleID>
+		<RankerScore>0.3349980680332523</RankerScore>
+		<Attributes>dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Reason</WikiTitle> <WikiTitleID>42446</WikiTitleID> <RankerScore>0.3349980680332523</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Practical_reason</WikiTitle> <WikiTitleID>882424</WikiTitleID> <RankerScore>0.1286931805831934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Supreme_Court_of_Canada_cases</WikiTitle> <WikiTitleID>221694</WikiTitleID> <RankerScore>0.0994904488353304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arguments_for_and_against_drug_prohibition</WikiTitle> <WikiTitleID>1181942</WikiTitleID> <RankerScore>0.14560610084940795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Occlusal_trauma</WikiTitle> <WikiTitleID>10179590</WikiTitleID> <RankerScore>0.14560610084940795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Magic_number_(physics)</WikiTitle> <WikiTitleID>546633</WikiTitleID> <RankerScore>0.14560610084940795</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the museum</EntitySurfaceForm>
+	<EntityTextStart>894</EntityTextStart>
+	<EntityTextEnd>904</EntityTextEnd>
+	<LinkerScore>-6.761972960340796</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Museo_Matris_Domini</WikiTitle>
+		<WikiTitleID>8169301</WikiTitleID>
+		<RankerScore>0.6500109782544712</RankerScore>
+		<Attributes>museum</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Burlesque_Hall_of_Fame</WikiTitle> <WikiTitleID>641320</WikiTitleID> <RankerScore>0.18485244636103193</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Museo_Matris_Domini</WikiTitle> <WikiTitleID>8169301</WikiTitleID> <RankerScore>0.6500109782544712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester_Museum</WikiTitle> <WikiTitleID>766971</WikiTitleID> <RankerScore>0.07746326736829795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Karen_Blixen_Museum</WikiTitle> <WikiTitleID>2584938</WikiTitleID> <RankerScore>0.08767330801619896</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>museum</EntitySurfaceForm>
+	<EntityTextStart>898</EntityTextStart>
+	<EntityTextEnd>904</EntityTextEnd>
+	<LinkerScore>3.816019752483389</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Museum</WikiTitle>
+		<WikiTitleID>37585</WikiTitleID>
+		<RankerScore>0.8857353744440657</RankerScore>
+		<Attributes>exhibition</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Museum</WikiTitle> <WikiTitleID>37585</WikiTitleID> <RankerScore>0.8857353744440657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_museum</WikiTitle> <WikiTitleID>66076</WikiTitleID> <RankerScore>0.06579152864099412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madame_Tussauds</WikiTitle> <WikiTitleID>158466</WikiTitleID> <RankerScore>0.0019121204228284884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Museum_ship</WikiTitle> <WikiTitleID>198016</WikiTitleID> <RankerScore>0.002738880970124215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>RKK_Energiya_museum</WikiTitle> <WikiTitleID>8762657</WikiTitleID> <RankerScore>0.002738880970124215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monkwearmouth_Station_Museum</WikiTitle> <WikiTitleID>3249520</WikiTitleID> <RankerScore>0.002738880970124215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham_Back_to_Backs</WikiTitle> <WikiTitleID>2167720</WikiTitleID> <RankerScore>0.002738880970124215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Napier_Museum</WikiTitle> <WikiTitleID>9592270</WikiTitleID> <RankerScore>0.002738880970124215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wax_museum</WikiTitle> <WikiTitleID>153959</WikiTitleID> <RankerScore>0.002738880970124215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Luton_Museum_&amp;_Art_Gallery</WikiTitle> <WikiTitleID>6534513</WikiTitleID> <RankerScore>0.002738880970124215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolton_Museum</WikiTitle> <WikiTitleID>14715957</WikiTitleID> <RankerScore>0.002738880970124215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Musée_d&apos;Orsay</WikiTitle> <WikiTitleID>53919</WikiTitleID> <RankerScore>0.002738880970124215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Museum</WikiTitle> <WikiTitleID>606255</WikiTitleID> <RankerScore>0.002738880970124215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collection_catalog</WikiTitle> <WikiTitleID>9485491</WikiTitleID> <RankerScore>0.002738880970124215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Tyrrell_Museum_of_Palaeontology</WikiTitle> <WikiTitleID>1177220</WikiTitleID> <RankerScore>0.002738880970124215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cincinnati_Reds_Hall_of_Fame_and_Museum</WikiTitle> <WikiTitleID>5644013</WikiTitleID> <RankerScore>0.002738880970124215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sam_Tung_Uk_Museum</WikiTitle> <WikiTitleID>3817909</WikiTitleID> <RankerScore>0.002738880970124215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chepstow_Museum</WikiTitle> <WikiTitleID>17876890</WikiTitleID> <RankerScore>0.002738880970124215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Museum_of_Natural_History</WikiTitle> <WikiTitleID>399990</WikiTitleID> <RankerScore>0.002738880970124215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Museum_Speelklok</WikiTitle> <WikiTitleID>4717754</WikiTitleID> <RankerScore>0.002738880970124215</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>did not</EntitySurfaceForm>
+	<EntityTextStart>905</EntityTextStart>
+	<EntityTextEnd>912</EntityTextEnd>
+	<LinkerScore>5.749216529896126</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russian_Revolution</WikiTitle>
+		<WikiTitleID>25762</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>conflict	revolution	timeline</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russian_Revolution</WikiTitle> <WikiTitleID>25762</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>say</EntitySurfaceForm>
+	<EntityTextStart>913</EntityTextStart>
+	<EntityTextEnd>916</EntityTextEnd>
+	<LinkerScore>-0.4247349271854586</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Saying</WikiTitle>
+		<WikiTitleID>3353015</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>phrase</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Saying</WikiTitle> <WikiTitleID>3353015</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pieces</EntitySurfaceForm>
+	<EntityTextStart>930</EntityTextStart>
+	<EntityTextEnd>936</EntityTextEnd>
+	<LinkerScore>-0.7219798059747624</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chess_piece</WikiTitle>
+		<WikiTitleID>47618</WikiTitleID>
+		<RankerScore>0.28727648297074276</RankerScore>
+		<Attributes>set	piece</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chess_piece</WikiTitle> <WikiTitleID>47618</WikiTitleID> <RankerScore>0.28727648297074276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Musical_composition</WikiTitle> <WikiTitleID>47962</WikiTitleID> <RankerScore>0.09426380435496538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Counter_(board_wargames)</WikiTitle> <WikiTitleID>4331982</WikiTitleID> <RankerScore>0.10561898332987195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Song</WikiTitle> <WikiTitleID>28830</WikiTitleID> <RankerScore>0.09036479602493194</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Piece</WikiTitle> <WikiTitleID>427333</WikiTitleID> <RankerScore>0.10561898332987195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Icehouse_pieces</WikiTitle> <WikiTitleID>179196</WikiTitleID> <RankerScore>0.10561898332987195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Howitzer</WikiTitle> <WikiTitleID>14392</WikiTitleID> <RankerScore>0.10561898332987195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Die_(manufacturing)</WikiTitle> <WikiTitleID>648007</WikiTitleID> <RankerScore>0.10561898332987195</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>works</EntitySurfaceForm>
+	<EntityTextStart>982</EntityTextStart>
+	<EntityTextEnd>987</EntityTextEnd>
+	<LinkerScore>-8.098381547574798</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Works</WikiTitle>
+		<WikiTitleID>523904</WikiTitleID>
+		<RankerScore>0.31009578624681383</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Works</WikiTitle> <WikiTitleID>523904</WikiTitleID> <RankerScore>0.31009578624681383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Work_of_art</WikiTitle> <WikiTitleID>2583747</WikiTitleID> <RankerScore>0.15511844634154995</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Literature</WikiTitle> <WikiTitleID>17512</WikiTitleID> <RankerScore>0.11399884291375334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Factory</WikiTitle> <WikiTitleID>166784</WikiTitleID> <RankerScore>0.02475217202928722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Printmaking</WikiTitle> <WikiTitleID>42532</WikiTitleID> <RankerScore>0.02475217202928722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bahá&apos;í_literature</WikiTitle> <WikiTitleID>4083789</WikiTitleID> <RankerScore>0.02475217202928722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Artwork</WikiTitle> <WikiTitleID>215099</WikiTitleID> <RankerScore>0.02475217202928722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Works_team</WikiTitle> <WikiTitleID>11710076</WikiTitleID> <RankerScore>0.02475217202928722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fortification</WikiTitle> <WikiTitleID>204118</WikiTitleID> <RankerScore>0.02475217202928722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>De_Re_Militari</WikiTitle> <WikiTitleID>224649</WikiTitleID> <RankerScore>0.02475217202928722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Employment</WikiTitle> <WikiTitleID>314993</WikiTitleID> <RankerScore>0.02475217202928722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swindon_Works</WikiTitle> <WikiTitleID>2543721</WikiTitleID> <RankerScore>0.02475217202928722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>J._R._R._Tolkien_bibliography</WikiTitle> <WikiTitleID>8968736</WikiTitleID> <RankerScore>0.02475217202928722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adi_Shankara_bibliography</WikiTitle> <WikiTitleID>6067928</WikiTitleID> <RankerScore>0.02475217202928722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_compositions_by_Modest_Mussorgsky</WikiTitle> <WikiTitleID>5900698</WikiTitleID> <RankerScore>0.02475217202928722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Opus_number</WikiTitle> <WikiTitleID>140802</WikiTitleID> <RankerScore>0.02475217202928722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visual_arts</WikiTitle> <WikiTitleID>99041</WikiTitleID> <RankerScore>0.02475217202928722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sculpture</WikiTitle> <WikiTitleID>26714</WikiTitleID> <RankerScore>0.02475217202928722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Historiography</WikiTitle> <WikiTitleID>13276</WikiTitleID> <RankerScore>0.02475217202928722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shakespeare_bibliography</WikiTitle> <WikiTitleID>11408627</WikiTitleID> <RankerScore>0.02475217202928722</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Getty</EntitySurfaceForm>
+	<EntityTextStart>989</EntityTextStart>
+	<EntityTextEnd>994</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Getty_Center</WikiTitle>
+		<WikiTitleID>261793</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>building	museum	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Getty</WikiTitle> <WikiTitleID>601672</WikiTitleID> <RankerScore>0.21711934795842225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Getty_Center</WikiTitle> <WikiTitleID>261793</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>J._Paul_Getty</WikiTitle> <WikiTitleID>174527</WikiTitleID> <RankerScore>0.37508126797069263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Getty_Oil</WikiTitle> <WikiTitleID>936145</WikiTitleID> <RankerScore>0.003979470901363495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Estelle_Getty</WikiTitle> <WikiTitleID>664543</WikiTitleID> <RankerScore>0.003979470901363495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Balthazar_Getty</WikiTitle> <WikiTitleID>1706954</WikiTitleID> <RankerScore>0.003979470901363495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_W._Getty</WikiTitle> <WikiTitleID>2354347</WikiTitleID> <RankerScore>0.003979470901363495</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>decided</EntitySurfaceForm>
+	<EntityTextStart>995</EntityTextStart>
+	<EntityTextEnd>1002</EntityTextEnd>
+	<LinkerScore>-2.32076643259773</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Decision</WikiTitle>
+		<WikiTitleID>1196827</WikiTitleID>
+		<RankerScore>0.1801512032105333</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Decision</WikiTitle> <WikiTitleID>1196827</WikiTitleID> <RankerScore>0.1801512032105333</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris_Peace_Conference,_1919</WikiTitle> <WikiTitleID>295105</WikiTitleID> <RankerScore>0.1664540385953066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Recursive_set</WikiTitle> <WikiTitleID>332264</WikiTitleID> <RankerScore>0.12724014938446723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Decision_making</WikiTitle> <WikiTitleID>265752</WikiTitleID> <RankerScore>0.1753848696032309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Posek</WikiTitle> <WikiTitleID>2049665</WikiTitleID> <RankerScore>0.1753848696032309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judgement</WikiTitle> <WikiTitleID>17004290</WikiTitleID> <RankerScore>0.1753848696032309</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>to return</EntitySurfaceForm>
+	<EntityTextStart>1003</EntityTextStart>
+	<EntityTextEnd>1012</EntityTextEnd>
+	<LinkerScore>-1.262574985566213</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Right_of_return</WikiTitle>
+		<WikiTitleID>102191</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Right_of_return</WikiTitle> <WikiTitleID>102191</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>return</EntitySurfaceForm>
+	<EntityTextStart>1006</EntityTextStart>
+	<EntityTextEnd>1012</EntityTextEnd>
+	<LinkerScore>-9.93786221021098</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Returns_(economics)</WikiTitle>
+		<WikiTitleID>3361606</WikiTitleID>
+		<RankerScore>0.2198336100748657</RankerScore>
+		<Attributes>economics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Return</WikiTitle> <WikiTitleID>381955</WikiTitleID> <RankerScore>0.13662910346718943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Returns_(economics)</WikiTitle> <WikiTitleID>3361606</WikiTitleID> <RankerScore>0.2198336100748657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rate_of_return</WikiTitle> <WikiTitleID>3440956</WikiTitleID> <RankerScore>0.025936949027935873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Return_statement</WikiTitle> <WikiTitleID>933831</WikiTitleID> <RankerScore>0.036329431613529944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Coming</WikiTitle> <WikiTitleID>28554</WikiTitleID> <RankerScore>0.036329431613529944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tax_return_(Australia)</WikiTitle> <WikiTitleID>3674103</WikiTitleID> <RankerScore>0.036329431613529944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Opie_and_Anthony</WikiTitle> <WikiTitleID>10037792</WikiTitleID> <RankerScore>0.036329431613529944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Punt_returner</WikiTitle> <WikiTitleID>4075311</WikiTitleID> <RankerScore>0.036329431613529944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tax_refund</WikiTitle> <WikiTitleID>1503724</WikiTitleID> <RankerScore>0.036329431613529944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brain_drain</WikiTitle> <WikiTitleID>188432</WikiTitleID> <RankerScore>0.036329431613529944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Harry_Potter_and_the_Goblet_of_Fire</WikiTitle> <WikiTitleID>259128</WikiTitleID> <RankerScore>0.036329431613529944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Enter_key</WikiTitle> <WikiTitleID>2009713</WikiTitleID> <RankerScore>0.036329431613529944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Avignon_Papacy</WikiTitle> <WikiTitleID>38174</WikiTitleID> <RankerScore>0.036329431613529944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transfer_of_sovereignty_over_Hong_Kong</WikiTitle> <WikiTitleID>2093431</WikiTitleID> <RankerScore>0.036329431613529944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>King_Arthur&apos;s_messianic_return</WikiTitle> <WikiTitleID>17429035</WikiTitleID> <RankerScore>0.036329431613529944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extradition</WikiTitle> <WikiTitleID>239648</WikiTitleID> <RankerScore>0.036329431613529944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bowling_analysis</WikiTitle> <WikiTitleID>2047389</WikiTitleID> <RankerScore>0.036329431613529944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glorious_Appearing</WikiTitle> <WikiTitleID>3136654</WikiTitleID> <RankerScore>0.036329431613529944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Method_(computer_programming)</WikiTitle> <WikiTitleID>232817</WikiTitleID> <RankerScore>0.036329431613529944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Right_of_return</WikiTitle> <WikiTitleID>102191</WikiTitleID> <RankerScore>0.036329431613529944</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>experts</EntitySurfaceForm>
+	<EntityTextStart>1051</EntityTextStart>
+	<EntityTextEnd>1058</EntityTextEnd>
+	<LinkerScore>10.456402966582312</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Archaeology</WikiTitle>
+		<WikiTitleID>570</WikiTitleID>
+		<RankerScore>0.8790575081792653</RankerScore>
+		<Attributes>loanword	science</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Expert</WikiTitle> <WikiTitleID>9892</WikiTitleID> <RankerScore>0.10184545951002724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Expert_witness</WikiTitle> <WikiTitleID>10115</WikiTitleID> <RankerScore>0.010504232097032528</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Archaeology</WikiTitle> <WikiTitleID>570</WikiTitleID> <RankerScore>0.8790575081792653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Professor</WikiTitle> <WikiTitleID>167800</WikiTitleID> <RankerScore>0.00859280021367495</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>field</EntitySurfaceForm>
+	<EntityTextStart>1066</EntityTextStart>
+	<EntityTextEnd>1071</EntityTextEnd>
+	<LinkerScore>1.3411787386093441</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Field_(mathematics)</WikiTitle>
+		<WikiTitleID>10603</WikiTitleID>
+		<RankerScore>0.3006583513049134</RankerScore>
+		<Attributes>structure</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Field_(mathematics)</WikiTitle> <WikiTitleID>10603</WikiTitleID> <RankerScore>0.3006583513049134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Field_(physics)</WikiTitle> <WikiTitleID>292792</WikiTitleID> <RankerScore>0.07126327482146919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Field</WikiTitle> <WikiTitleID>296062</WikiTitleID> <RankerScore>0.13072988205528183</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Field_(heraldry)</WikiTitle> <WikiTitleID>407098</WikiTitleID> <RankerScore>0.02925579363637268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Field_(agriculture)</WikiTitle> <WikiTitleID>4239514</WikiTitleID> <RankerScore>0.02925579363637268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Field_(computer_science)</WikiTitle> <WikiTitleID>491073</WikiTitleID> <RankerScore>0.02925579363637268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pitch_(sports_field)</WikiTitle> <WikiTitleID>1014506</WikiTitleID> <RankerScore>0.02925579363637268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Field_(video)</WikiTitle> <WikiTitleID>1677164</WikiTitleID> <RankerScore>0.02925579363637268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_academic_disciplines</WikiTitle> <WikiTitleID>242710</WikiTitleID> <RankerScore>0.02925579363637268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baseball_field</WikiTitle> <WikiTitleID>968099</WikiTitleID> <RankerScore>0.02925579363637268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Association_football_pitch</WikiTitle> <WikiTitleID>1894710</WikiTitleID> <RankerScore>0.02925579363637268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electromagnetic_field</WikiTitle> <WikiTitleID>9735</WikiTitleID> <RankerScore>0.02925579363637268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Oil_field</WikiTitle> <WikiTitleID>219931</WikiTitleID> <RankerScore>0.02925579363637268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Natural_gas_field</WikiTitle> <WikiTitleID>1054996</WikiTitleID> <RankerScore>0.02925579363637268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Field_(Bourdieu)</WikiTitle> <WikiTitleID>4223432</WikiTitleID> <RankerScore>0.02925579363637268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vector_field</WikiTitle> <WikiTitleID>62641</WikiTitleID> <RankerScore>0.02925579363637268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glossary_of_vexillology</WikiTitle> <WikiTitleID>113612</WikiTitleID> <RankerScore>0.02925579363637268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fielding_(cricket)</WikiTitle> <WikiTitleID>65951</WikiTitleID> <RankerScore>0.02925579363637268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Field_artillery</WikiTitle> <WikiTitleID>2146148</WikiTitleID> <RankerScore>0.02925579363637268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Field_research</WikiTitle> <WikiTitleID>5669923</WikiTitleID> <RankerScore>0.02925579363637268</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>consultation</EntitySurfaceForm>
+	<EntityTextStart>1079</EntityTextStart>
+	<EntityTextEnd>1091</EntityTextEnd>
+	<LinkerScore>-1.872775127888337</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Consultation</WikiTitle>
+		<WikiTitleID>13244099</WikiTitleID>
+		<RankerScore>0.4416808971136991</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Consultation</WikiTitle> <WikiTitleID>13244099</WikiTitleID> <RankerScore>0.4416808971136991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Public_consultation</WikiTitle> <WikiTitleID>10812093</WikiTitleID> <RankerScore>0.10347555692347021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Consultant</WikiTitle> <WikiTitleID>542306</WikiTitleID> <RankerScore>0.21224699574844266</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Consultation_(object-oriented_programming)</WikiTitle> <WikiTitleID>2245461</WikiTitleID> <RankerScore>0.08086551673812932</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bahá&apos;í_consultation</WikiTitle> <WikiTitleID>11250366</WikiTitleID> <RankerScore>0.08086551673812932</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legislature_of_the_European_Union</WikiTitle> <WikiTitleID>1639865</WikiTitleID> <RankerScore>0.08086551673812932</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Italian</EntitySurfaceForm>
+	<EntityTextStart>1097</EntityTextStart>
+	<EntityTextEnd>1104</EntityTextEnd>
+	<LinkerScore>-8.14460816664408</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Italian_language</WikiTitle>
+		<WikiTitleID>14708</WikiTitleID>
+		<RankerScore>0.40905678765518194</RankerScore>
+		<Attributes>language</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Italy</WikiTitle> <WikiTitleID>14532</WikiTitleID> <RankerScore>0.37983158749219015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_language</WikiTitle> <WikiTitleID>14708</WikiTitleID> <RankerScore>0.40905678765518194</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italians</WikiTitle> <WikiTitleID>385155</WikiTitleID> <RankerScore>0.07058673544340341</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_cuisine</WikiTitle> <WikiTitleID>3735620</WikiTitleID> <RankerScore>0.008266169965248501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_American</WikiTitle> <WikiTitleID>125320</WikiTitleID> <RankerScore>0.008266169965248501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Italy</WikiTitle> <WikiTitleID>9804204</WikiTitleID> <RankerScore>0.008266169965248501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Italy</WikiTitle> <WikiTitleID>10787</WikiTitleID> <RankerScore>0.008266169965248501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Italy</WikiTitle> <WikiTitleID>14701</WikiTitleID> <RankerScore>0.008266169965248501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian</WikiTitle> <WikiTitleID>14611</WikiTitleID> <RankerScore>0.008266169965248501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Italy</WikiTitle> <WikiTitleID>283846</WikiTitleID> <RankerScore>0.008266169965248501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_Brazilian</WikiTitle> <WikiTitleID>4420441</WikiTitleID> <RankerScore>0.008266169965248501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_literature</WikiTitle> <WikiTitleID>1589136</WikiTitleID> <RankerScore>0.008266169965248501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_football_team</WikiTitle> <WikiTitleID>362466</WikiTitleID> <RankerScore>0.008266169965248501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_Australian</WikiTitle> <WikiTitleID>3141986</WikiTitleID> <RankerScore>0.008266169965248501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_poetry</WikiTitle> <WikiTitleID>2909091</WikiTitleID> <RankerScore>0.008266169965248501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_wine</WikiTitle> <WikiTitleID>1807097</WikiTitleID> <RankerScore>0.008266169965248501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regia_Marina</WikiTitle> <WikiTitleID>1126949</WikiTitleID> <RankerScore>0.008266169965248501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_Canadians</WikiTitle> <WikiTitleID>1741313</WikiTitleID> <RankerScore>0.008266169965248501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_comics</WikiTitle> <WikiTitleID>1181467</WikiTitleID> <RankerScore>0.008266169965248501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_art</WikiTitle> <WikiTitleID>1079115</WikiTitleID> <RankerScore>0.008266169965248501</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>officials</EntitySurfaceForm>
+	<EntityTextStart>1105</EntityTextStart>
+	<EntityTextEnd>1114</EntityTextEnd>
+	<LinkerScore>-4.454752038172085</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Official</WikiTitle>
+		<WikiTitleID>725182</WikiTitleID>
+		<RankerScore>0.2812907536910107</RankerScore>
+		<Attributes>occupation	position	title</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Official</WikiTitle> <WikiTitleID>725182</WikiTitleID> <RankerScore>0.2812907536910107</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Official_(American_football)</WikiTitle> <WikiTitleID>1481025</WikiTitleID> <RankerScore>0.054411924801094996</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Official_(ice_hockey)</WikiTitle> <WikiTitleID>1272618</WikiTitleID> <RankerScore>0.053552916015885986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Referee_(professional_wrestling)</WikiTitle> <WikiTitleID>5534832</WikiTitleID> <RankerScore>0.07634305068650106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Offices_in_the_Polish–Lithuanian_Commonwealth</WikiTitle> <WikiTitleID>1092507</WikiTitleID> <RankerScore>0.07634305068650106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Officer_(armed_forces)</WikiTitle> <WikiTitleID>146708</WikiTitleID> <RankerScore>0.07634305068650106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Referee</WikiTitle> <WikiTitleID>501260</WikiTitleID> <RankerScore>0.07634305068650106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scholar-official</WikiTitle> <WikiTitleID>3835551</WikiTitleID> <RankerScore>0.07634305068650106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup_officials</WikiTitle> <WikiTitleID>5473832</WikiTitleID> <RankerScore>0.07634305068650106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Informant</WikiTitle> <WikiTitleID>1901849</WikiTitleID> <RankerScore>0.07634305068650106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charles_Beaubien</WikiTitle> <WikiTitleID>12947442</WikiTitleID> <RankerScore>0.07634305068650106</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>International</EntitySurfaceForm>
+	<EntityTextStart>1122</EntityTextStart>
+	<EntityTextEnd>1135</EntityTextEnd>
+	<LinkerScore>-9.750720773230318</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>International</WikiTitle>
+		<WikiTitleID>3741372</WikiTitleID>
+		<RankerScore>0.11100795875582924</RankerScore>
+		<Attributes>relations</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>International</WikiTitle> <WikiTitleID>3741372</WikiTitleID> <RankerScore>0.11100795875582924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Navistar_International</WikiTitle> <WikiTitleID>1506903</WikiTitleID> <RankerScore>0.04544199577878533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_law</WikiTitle> <WikiTitleID>8195726</WikiTitleID> <RankerScore>0.06154714337556912</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_Harvester</WikiTitle> <WikiTitleID>1035247</WikiTitleID> <RankerScore>0.04600017071116566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_Style_(architecture)</WikiTitle> <WikiTitleID>314881</WikiTitleID> <RankerScore>0.04600017071116566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_League</WikiTitle> <WikiTitleID>4680413</WikiTitleID> <RankerScore>0.04600017071116566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_International</WikiTitle> <WikiTitleID>1816311</WikiTitleID> <RankerScore>0.04600017071116566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_International</WikiTitle> <WikiTitleID>761335</WikiTitleID> <RankerScore>0.04600017071116566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sport_Club_Internacional</WikiTitle> <WikiTitleID>187291</WikiTitleID> <RankerScore>0.04600017071116566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_Workingmen&apos;s_Association</WikiTitle> <WikiTitleID>145172</WikiTitleID> <RankerScore>0.04600017071116566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_education</WikiTitle> <WikiTitleID>2128207</WikiTitleID> <RankerScore>0.04600017071116566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_Hockey_League_(1945–2001)</WikiTitle> <WikiTitleID>292024</WikiTitleID> <RankerScore>0.04600017071116566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_(New_Order_album)</WikiTitle> <WikiTitleID>996308</WikiTitleID> <RankerScore>0.04600017071116566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Political_international</WikiTitle> <WikiTitleID>3878338</WikiTitleID> <RankerScore>0.04600017071116566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internationalism_(politics)</WikiTitle> <WikiTitleID>99224</WikiTitleID> <RankerScore>0.04600017071116566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Comintern</WikiTitle> <WikiTitleID>239564</WikiTitleID> <RankerScore>0.04600017071116566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_railway_station,_Sydney</WikiTitle> <WikiTitleID>2831062</WikiTitleID> <RankerScore>0.04600017071116566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Harwich_International_railway_station</WikiTitle> <WikiTitleID>2878925</WikiTitleID> <RankerScore>0.04600017071116566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_Bowl</WikiTitle> <WikiTitleID>5372270</WikiTitleID> <RankerScore>0.04600017071116566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_Terminal_railway_station,_Brisbane</WikiTitle> <WikiTitleID>854023</WikiTitleID> <RankerScore>0.04600017071116566</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>concern</EntitySurfaceForm>
+	<EntityTextStart>1136</EntityTextStart>
+	<EntityTextEnd>1143</EntityTextEnd>
+	<LinkerScore>8.375446059934543</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Concern</WikiTitle>
+		<WikiTitleID>6769649</WikiTitleID>
+		<RankerScore>0.7792636010321259</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Concern</WikiTitle> <WikiTitleID>6769649</WikiTitleID> <RankerScore>0.7792636010321259</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Concern_(computer_science)</WikiTitle> <WikiTitleID>234140</WikiTitleID> <RankerScore>0.0942808835288669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lasers_and_aviation_safety</WikiTitle> <WikiTitleID>6919019</WikiTitleID> <RankerScore>0.05748771388768226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fractional_reserve_banking</WikiTitle> <WikiTitleID>5190613</WikiTitleID> <RankerScore>0.06896780155132491</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>growing</EntitySurfaceForm>
+	<EntityTextStart>1153</EntityTextStart>
+	<EntityTextEnd>1160</EntityTextEnd>
+	<LinkerScore>-5.926243017364154</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Agriculture</WikiTitle>
+		<WikiTitleID>627</WikiTitleID>
+		<RankerScore>0.3292882781735346</RankerScore>
+		<Attributes>dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Growing</WikiTitle> <WikiTitleID>411392</WikiTitleID> <RankerScore>0.27379343286467767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Viticulture</WikiTitle> <WikiTitleID>513591</WikiTitleID> <RankerScore>0.11032874071790237</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Agriculture</WikiTitle> <WikiTitleID>627</WikiTitleID> <RankerScore>0.3292882781735346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economic_growth</WikiTitle> <WikiTitleID>69415</WikiTitleID> <RankerScore>0.09552984941462843</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tillage</WikiTitle> <WikiTitleID>46191</WikiTitleID> <RankerScore>0.09552984941462843</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Organic_farming</WikiTitle> <WikiTitleID>72754</WikiTitleID> <RankerScore>0.09552984941462843</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>thefts</EntitySurfaceForm>
+	<EntityTextStart>1176</EntityTextStart>
+	<EntityTextEnd>1182</EntityTextEnd>
+	<LinkerScore>3.6750857196886986</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Theft</WikiTitle>
+		<WikiTitleID>31287</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Theft</WikiTitle> <WikiTitleID>31287</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>priceless</EntitySurfaceForm>
+	<EntityTextStart>1188</EntityTextStart>
+	<EntityTextEnd>1197</EntityTextEnd>
+	<LinkerScore>2.6244763206929593</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Priceless</WikiTitle>
+		<WikiTitleID>1359494</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Priceless</WikiTitle> <WikiTitleID>1359494</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>art</EntitySurfaceForm>
+	<EntityTextStart>1198</EntityTextStart>
+	<EntityTextEnd>1201</EntityTextEnd>
+	<LinkerScore>1.0364231651429732</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Art</WikiTitle>
+		<WikiTitleID>752</WikiTitleID>
+		<RankerScore>0.9332507882063472</RankerScore>
+		<Attributes>aesthetics	arts	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Art</WikiTitle> <WikiTitleID>752</WikiTitleID> <RankerScore>0.9332507882063472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visual_arts</WikiTitle> <WikiTitleID>99041</WikiTitleID> <RankerScore>0.01710651067352124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japanese_art</WikiTitle> <WikiTitleID>227244</WikiTitleID> <RankerScore>0.006581533652531727</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_art</WikiTitle> <WikiTitleID>2526999</WikiTitleID> <RankerScore>0.0025330098510352845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_rock</WikiTitle> <WikiTitleID>48147</WikiTitleID> <RankerScore>0.0025330098510352845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_film</WikiTitle> <WikiTitleID>540784</WikiTitleID> <RankerScore>0.0025330098510352845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_of_ancient_Egypt</WikiTitle> <WikiTitleID>1709766</WikiTitleID> <RankerScore>0.0025330098510352845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indigenous_Australian_art</WikiTitle> <WikiTitleID>312222</WikiTitleID> <RankerScore>0.0025330098510352845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_art</WikiTitle> <WikiTitleID>11607008</WikiTitleID> <RankerScore>0.0025330098510352845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_critic</WikiTitle> <WikiTitleID>1166292</WikiTitleID> <RankerScore>0.0025330098510352845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_education</WikiTitle> <WikiTitleID>2071765</WikiTitleID> <RankerScore>0.0025330098510352845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chinese_art</WikiTitle> <WikiTitleID>9704619</WikiTitleID> <RankerScore>0.0025330098510352845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visual_art_of_the_United_States</WikiTitle> <WikiTitleID>199145</WikiTitleID> <RankerScore>0.0025330098510352845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_of_Romania</WikiTitle> <WikiTitleID>351471</WikiTitleID> <RankerScore>0.0025330098510352845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fine_art</WikiTitle> <WikiTitleID>90317</WikiTitleID> <RankerScore>0.0025330098510352845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Game_artist</WikiTitle> <WikiTitleID>1133087</WikiTitleID> <RankerScore>0.0025330098510352845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_arts</WikiTitle> <WikiTitleID>1688170</WikiTitleID> <RankerScore>0.0025330098510352845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fine-art_photography</WikiTitle> <WikiTitleID>2452325</WikiTitleID> <RankerScore>0.0025330098510352845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_theft</WikiTitle> <WikiTitleID>425514</WikiTitleID> <RankerScore>0.0025330098510352845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cover_art</WikiTitle> <WikiTitleID>2423902</WikiTitleID> <RankerScore>0.0025330098510352845</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>collections</EntitySurfaceForm>
+	<EntityTextStart>1207</EntityTextStart>
+	<EntityTextEnd>1218</EntityTextEnd>
+	<LinkerScore>2.6701806043605236</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Collection_(artwork)</WikiTitle>
+		<WikiTitleID>3218952</WikiTitleID>
+		<RankerScore>0.9634286406860499</RankerScore>
+		<Attributes>collection</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Collection_(artwork)</WikiTitle> <WikiTitleID>3218952</WikiTitleID> <RankerScore>0.9634286406860499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collection</WikiTitle> <WikiTitleID>6084</WikiTitleID> <RankerScore>0.007459738387482545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Container_(abstract_data_type)</WikiTitle> <WikiTitleID>5170615</WikiTitleID> <RankerScore>0.0033281673068363163</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anthology</WikiTitle> <WikiTitleID>316889</WikiTitleID> <RankerScore>0.0025783453619631215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Set_(music)</WikiTitle> <WikiTitleID>3189755</WikiTitleID> <RankerScore>0.0025783453619631215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fonds</WikiTitle> <WikiTitleID>1591526</WikiTitleID> <RankerScore>0.0025783453619631215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collection_(Oxford_colleges)</WikiTitle> <WikiTitleID>1540441</WikiTitleID> <RankerScore>0.0025783453619631215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waste_collection</WikiTitle> <WikiTitleID>3411618</WikiTitleID> <RankerScore>0.0025783453619631215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collection_agency</WikiTitle> <WikiTitleID>1576578</WikiTitleID> <RankerScore>0.0025783453619631215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trade_paperback_(comics)</WikiTitle> <WikiTitleID>1639565</WikiTitleID> <RankerScore>0.0025783453619631215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collection_(abstract_data_type)</WikiTitle> <WikiTitleID>12119816</WikiTitleID> <RankerScore>0.0025783453619631215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Library_collection_development</WikiTitle> <WikiTitleID>1906203</WikiTitleID> <RankerScore>0.0025783453619631215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Artpack</WikiTitle> <WikiTitleID>1071597</WikiTitleID> <RankerScore>0.0025783453619631215</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>looting</EntitySurfaceForm>
+	<EntityTextStart>1228</EntityTextStart>
+	<EntityTextEnd>1235</EntityTextEnd>
+	<LinkerScore>6.139735686383881</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Looting</WikiTitle>
+		<WikiTitleID>209811</WikiTitleID>
+		<RankerScore>0.9605059965031318</RankerScore>
+		<Attributes>dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Looting</WikiTitle> <WikiTitleID>209811</WikiTitleID> <RankerScore>0.9605059965031318</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Looting_(gaming)</WikiTitle> <WikiTitleID>2095495</WikiTitleID> <RankerScore>0.03070636974263447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Archaeological_looting_in_Iraq</WikiTitle> <WikiTitleID>4333171</WikiTitleID> <RankerScore>0.008787633754233687</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>archaeological</EntitySurfaceForm>
+	<EntityTextStart>1241</EntityTextStart>
+	<EntityTextEnd>1255</EntityTextEnd>
+	<LinkerScore>9.205404226626685</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Archaeology</WikiTitle>
+		<WikiTitleID>570</WikiTitleID>
+		<RankerScore>0.9832483952962446</RankerScore>
+		<Attributes>loanword	science</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Archaeology</WikiTitle> <WikiTitleID>570</WikiTitleID> <RankerScore>0.9832483952962446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Archaeology_and_the_Book_of_Mormon</WikiTitle> <WikiTitleID>419509</WikiTitleID> <RankerScore>0.004014074036256773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biblical_archaeology</WikiTitle> <WikiTitleID>1480596</WikiTitleID> <RankerScore>0.002354696094935993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Archaeology_in_Singapore</WikiTitle> <WikiTitleID>4900942</WikiTitleID> <RankerScore>0.002595708643140608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saskatchewan_Archaeological_Society</WikiTitle> <WikiTitleID>8125431</WikiTitleID> <RankerScore>0.002595708643140608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Underwater_archaeology</WikiTitle> <WikiTitleID>51795</WikiTitleID> <RankerScore>0.002595708643140608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prehistoric_archaeology</WikiTitle> <WikiTitleID>642775</WikiTitleID> <RankerScore>0.002595708643140608</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>archaeological sites</EntitySurfaceForm>
+	<EntityTextStart>1241</EntityTextStart>
+	<EntityTextEnd>1261</EntityTextEnd>
+	<LinkerScore>10.433725292619089</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Archaeology</WikiTitle>
+		<WikiTitleID>570</WikiTitleID>
+		<RankerScore>0.8801858389878736</RankerScore>
+		<Attributes>loanword	science</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Archaeological_site</WikiTitle> <WikiTitleID>147625</WikiTitleID> <RankerScore>0.08273341074372034</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Archaeology</WikiTitle> <WikiTitleID>570</WikiTitleID> <RankerScore>0.8801858389878736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Maya_sites</WikiTitle> <WikiTitleID>5958027</WikiTitleID> <RankerScore>0.013555847477411433</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Excavation_(archaeology)</WikiTitle> <WikiTitleID>60697</WikiTitleID> <RankerScore>0.023524902790994652</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sites</EntitySurfaceForm>
+	<EntityTextStart>1256</EntityTextStart>
+	<EntityTextEnd>1261</EntityTextEnd>
+	<LinkerScore>2.941261603288998</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Archaeology</WikiTitle>
+		<WikiTitleID>570</WikiTitleID>
+		<RankerScore>0.43080904013099913</RankerScore>
+		<Attributes>loanword	science</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Website</WikiTitle> <WikiTitleID>33898</WikiTitleID> <RankerScore>0.03935423134469378</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Site</WikiTitle> <WikiTitleID>1713225</WikiTitleID> <RankerScore>0.033316965543394465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Archaeological_site</WikiTitle> <WikiTitleID>147625</WikiTitleID> <RankerScore>0.19666707309036244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Historic_site</WikiTitle> <WikiTitleID>2699646</WikiTitleID> <RankerScore>0.033316965543394465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Online_auction</WikiTitle> <WikiTitleID>297359</WikiTitleID> <RankerScore>0.033316965543394465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Recreational_diving</WikiTitle> <WikiTitleID>494840</WikiTitleID> <RankerScore>0.033316965543394465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Archaeology</WikiTitle> <WikiTitleID>570</WikiTitleID> <RankerScore>0.43080904013099913</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_archaeological_sites_by_country</WikiTitle> <WikiTitleID>169499</WikiTitleID> <RankerScore>0.033316965543394465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Power_station</WikiTitle> <WikiTitleID>212141</WikiTitleID> <RankerScore>0.033316965543394465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Delaware_state_parks</WikiTitle> <WikiTitleID>837969</WikiTitleID> <RankerScore>0.033316965543394465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Historic_preservation</WikiTitle> <WikiTitleID>1219810</WikiTitleID> <RankerScore>0.033316965543394465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Apollo_missions</WikiTitle> <WikiTitleID>9481400</WikiTitleID> <RankerScore>0.033316965543394465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grothendieck_topology</WikiTitle> <WikiTitleID>12910</WikiTitleID> <RankerScore>0.033316965543394465</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>museum</EntitySurfaceForm>
+	<EntityTextStart>1288</EntityTextStart>
+	<EntityTextEnd>1294</EntityTextEnd>
+	<LinkerScore>6.485206248244887</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Museum</WikiTitle>
+		<WikiTitleID>37585</WikiTitleID>
+		<RankerScore>0.9788302106174588</RankerScore>
+		<Attributes>exhibition</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Museum</WikiTitle> <WikiTitleID>37585</WikiTitleID> <RankerScore>0.9788302106174588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_museum</WikiTitle> <WikiTitleID>66076</WikiTitleID> <RankerScore>0.017387551634856384</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madame_Tussauds</WikiTitle> <WikiTitleID>158466</WikiTitleID> <RankerScore>1.5545456963107573E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Museum_ship</WikiTitle> <WikiTitleID>198016</WikiTitleID> <RankerScore>2.133401869443355E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>RKK_Energiya_museum</WikiTitle> <WikiTitleID>8762657</WikiTitleID> <RankerScore>2.133401869443355E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monkwearmouth_Station_Museum</WikiTitle> <WikiTitleID>3249520</WikiTitleID> <RankerScore>2.133401869443355E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham_Back_to_Backs</WikiTitle> <WikiTitleID>2167720</WikiTitleID> <RankerScore>2.133401869443355E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Napier_Museum</WikiTitle> <WikiTitleID>9592270</WikiTitleID> <RankerScore>2.133401869443355E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wax_museum</WikiTitle> <WikiTitleID>153959</WikiTitleID> <RankerScore>2.133401869443355E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Luton_Museum_&amp;_Art_Gallery</WikiTitle> <WikiTitleID>6534513</WikiTitleID> <RankerScore>2.133401869443355E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolton_Museum</WikiTitle> <WikiTitleID>14715957</WikiTitleID> <RankerScore>2.133401869443355E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Musée_d&apos;Orsay</WikiTitle> <WikiTitleID>53919</WikiTitleID> <RankerScore>2.133401869443355E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Museum</WikiTitle> <WikiTitleID>606255</WikiTitleID> <RankerScore>2.133401869443355E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collection_catalog</WikiTitle> <WikiTitleID>9485491</WikiTitleID> <RankerScore>2.133401869443355E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Tyrrell_Museum_of_Palaeontology</WikiTitle> <WikiTitleID>1177220</WikiTitleID> <RankerScore>2.133401869443355E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cincinnati_Reds_Hall_of_Fame_and_Museum</WikiTitle> <WikiTitleID>5644013</WikiTitleID> <RankerScore>2.133401869443355E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sam_Tung_Uk_Museum</WikiTitle> <WikiTitleID>3817909</WikiTitleID> <RankerScore>2.133401869443355E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chepstow_Museum</WikiTitle> <WikiTitleID>17876890</WikiTitleID> <RankerScore>2.133401869443355E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Museum_of_Natural_History</WikiTitle> <WikiTitleID>399990</WikiTitleID> <RankerScore>2.133401869443355E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Museum_Speelklok</WikiTitle> <WikiTitleID>4717754</WikiTitleID> <RankerScore>2.133401869443355E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>a hill</EntitySurfaceForm>
+	<EntityTextStart>1307</EntityTextStart>
+	<EntityTextEnd>1313</EntityTextEnd>
+	<LinkerScore>2.804258688637912</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cumorah</WikiTitle>
+		<WikiTitleID>481246</WikiTitleID>
+		<RankerScore>0.7383757238944426</RankerScore>
+		<Attributes>place	mountain	attraction</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cumorah</WikiTitle> <WikiTitleID>481246</WikiTitleID> <RankerScore>0.7383757238944426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gellért_Hill</WikiTitle> <WikiTitleID>2553717</WikiTitleID> <RankerScore>0.2616242761055573</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hill</EntitySurfaceForm>
+	<EntityTextStart>1309</EntityTextStart>
+	<EntityTextEnd>1313</EntityTextEnd>
+	<LinkerScore>7.127331021742033</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hill</WikiTitle>
+		<WikiTitleID>1408983</WikiTitleID>
+		<RankerScore>0.6361855549092106</RankerScore>
+		<Attributes>mountain</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hill</WikiTitle> <WikiTitleID>1408983</WikiTitleID> <RankerScore>0.6361855549092106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mountain</WikiTitle> <WikiTitleID>37754</WikiTitleID> <RankerScore>0.06680671486784416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gediminas&apos;_Tower</WikiTitle> <WikiTitleID>192116</WikiTitleID> <RankerScore>0.030012820763813185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ski_jumping_hill</WikiTitle> <WikiTitleID>9352864</WikiTitleID> <RankerScore>0.044499151576522025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hergest_Ridge</WikiTitle> <WikiTitleID>1362305</WikiTitleID> <RankerScore>0.044499151576522025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Burnaby_Mountain</WikiTitle> <WikiTitleID>5818098</WikiTitleID> <RankerScore>0.044499151576522025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Craigowl_Hill</WikiTitle> <WikiTitleID>3540367</WikiTitleID> <RankerScore>0.044499151576522025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joshua&apos;s_Hill</WikiTitle> <WikiTitleID>17171649</WikiTitleID> <RankerScore>0.044499151576522025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Marilyn_(hill)</WikiTitle> <WikiTitleID>793487</WikiTitleID> <RankerScore>0.044499151576522025</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Brentwood</EntitySurfaceForm>
+	<EntityTextStart>1322</EntityTextStart>
+	<EntityTextEnd>1331</EntityTextEnd>
+	<LinkerScore>-3.4365642594867816</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Brentwood,_Los_Angeles</WikiTitle>
+		<WikiTitleID>345873</WikiTitleID>
+		<RankerScore>0.6930635984080419</RankerScore>
+		<Attributes>venue</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Brentwood,_Essex</WikiTitle> <WikiTitleID>14666430</WikiTitleID> <RankerScore>0.056810015819191345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brentwood,_Los_Angeles</WikiTitle> <WikiTitleID>345873</WikiTitleID> <RankerScore>0.6930635984080419</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Borough_of_Brentwood</WikiTitle> <WikiTitleID>637113</WikiTitleID> <RankerScore>0.012441374502942993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brentwood,_Tennessee</WikiTitle> <WikiTitleID>135420</WikiTitleID> <RankerScore>0.03862301922273593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brentwood,_New_York</WikiTitle> <WikiTitleID>127256</WikiTitleID> <RankerScore>0.012441374502942993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brentwood,_California</WikiTitle> <WikiTitleID>107391</WikiTitleID> <RankerScore>0.012441374502942993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brentwood</WikiTitle> <WikiTitleID>231399</WikiTitleID> <RankerScore>0.012441374502942993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brentwood,_New_Hampshire</WikiTitle> <WikiTitleID>124882</WikiTitleID> <RankerScore>0.012441374502942993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brentwood,_Pennsylvania</WikiTitle> <WikiTitleID>131085</WikiTitleID> <RankerScore>0.012441374502942993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brentwood_(Washington,_D.C.)</WikiTitle> <WikiTitleID>358254</WikiTitleID> <RankerScore>0.012441374502942993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brentwood,_Maryland</WikiTitle> <WikiTitleID>116508</WikiTitleID> <RankerScore>0.012441374502942993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brentwood,_Western_Australia</WikiTitle> <WikiTitleID>2583459</WikiTitleID> <RankerScore>0.012441374502942993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brentwood,_Missouri</WikiTitle> <WikiTitleID>123170</WikiTitleID> <RankerScore>0.012441374502942993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brentwood_railway_station</WikiTitle> <WikiTitleID>2636326</WikiTitleID> <RankerScore>0.012441374502942993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brentwood_(LIRR_station)</WikiTitle> <WikiTitleID>10804615</WikiTitleID> <RankerScore>0.012441374502942993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brentwood_(C-Train)</WikiTitle> <WikiTitleID>1873840</WikiTitleID> <RankerScore>0.012441374502942993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brentwood,_Calgary</WikiTitle> <WikiTitleID>10389771</WikiTitleID> <RankerScore>0.012441374502942993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brentwood,_Austin,_Texas</WikiTitle> <WikiTitleID>5685146</WikiTitleID> <RankerScore>0.012441374502942993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Clearview,_Ontario</WikiTitle> <WikiTitleID>731296</WikiTitleID> <RankerScore>0.012441374502942993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saint-Hubert,_Quebec</WikiTitle> <WikiTitleID>544277</WikiTitleID> <RankerScore>0.012441374502942993</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1997</EntitySurfaceForm>
+	<EntityTextStart>1349</EntityTextStart>
+	<EntityTextEnd>1353</EntityTextEnd>
+	<LinkerScore>4.640669105752028</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1997</WikiTitle>
+		<WikiTitleID>34601</WikiTitleID>
+		<RankerScore>0.941917639557053</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1997</WikiTitle> <WikiTitleID>34601</WikiTitleID> <RankerScore>0.941917639557053</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_in_film</WikiTitle> <WikiTitleID>169572</WikiTitleID> <RankerScore>0.011531678611582727</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_in_music</WikiTitle> <WikiTitleID>160808</WikiTitleID> <RankerScore>0.007064247336746615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_in_television</WikiTitle> <WikiTitleID>169761</WikiTitleID> <RankerScore>0.0023227314408598675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_in_literature</WikiTitle> <WikiTitleID>190195</WikiTitleID> <RankerScore>0.0023227314408598675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_in_video_gaming</WikiTitle> <WikiTitleID>1322991</WikiTitleID> <RankerScore>0.0023227314408598675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_in_sports</WikiTitle> <WikiTitleID>224725</WikiTitleID> <RankerScore>0.0023227314408598675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_NFL_season</WikiTitle> <WikiTitleID>2313870</WikiTitleID> <RankerScore>0.0023227314408598675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_general_election,_1997</WikiTitle> <WikiTitleID>35519</WikiTitleID> <RankerScore>0.0023227314408598675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_federal_election,_1997</WikiTitle> <WikiTitleID>274508</WikiTitleID> <RankerScore>0.0023227314408598675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_in_baseball</WikiTitle> <WikiTitleID>1973602</WikiTitleID> <RankerScore>0.0023227314408598675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_in_poetry</WikiTitle> <WikiTitleID>5512994</WikiTitleID> <RankerScore>0.0023227314408598675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_in_comics</WikiTitle> <WikiTitleID>917035</WikiTitleID> <RankerScore>0.0023227314408598675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996–97_NHL_season</WikiTitle> <WikiTitleID>1575490</WikiTitleID> <RankerScore>0.0023227314408598675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_World_Championships_in_Athletics</WikiTitle> <WikiTitleID>775015</WikiTitleID> <RankerScore>0.0023227314408598675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_in_NASCAR</WikiTitle> <WikiTitleID>11474579</WikiTitleID> <RankerScore>0.0023227314408598675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_NASCAR_Craftsman_Truck_Series</WikiTitle> <WikiTitleID>4769095</WikiTitleID> <RankerScore>0.0023227314408598675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_CFL_season</WikiTitle> <WikiTitleID>2782425</WikiTitleID> <RankerScore>0.0023227314408598675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_World_Series</WikiTitle> <WikiTitleID>536023</WikiTitleID> <RankerScore>0.0023227314408598675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Juno_Awards_of_1997</WikiTitle> <WikiTitleID>5862096</WikiTitleID> <RankerScore>0.0023227314408598675</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

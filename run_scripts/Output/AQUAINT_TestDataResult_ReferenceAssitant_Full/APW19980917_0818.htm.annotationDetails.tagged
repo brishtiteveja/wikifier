@@ -1,0 +1,421 @@
+<ANNOTATION>
+   Cult   <b>guru</b>  's  <b>lawyers</b> lash at  <b>prosecutors</b>,  <b>court</b><br><br> Attorneys for a   <b>cult</b>   guru accused of  <b>murder</b> in the   <b>nerve gas</b>   attack on   <a class="wiki" href="http://en.wikipedia.org/wiki/Tokyo" cat="place	game	city	capital	settlement	prefecture">Tokyo</a>    subways denounced his  <b>trial</b> Thursday as "unfair'' because some of the prosecutors' charges are contradicted by  <b>testimony</b> from their own witnesses. <br><br>   <a class="wiki" href="http://en.wikipedia.org/wiki/Shoko_Asahara" cat="person	leaders	prisoner	buddhist	member">Shoko Asahara</a>   , the leader of the   <a class="wiki" href="http://en.wikipedia.org/wiki/Aum_Shinrikyo" cat="organization">Aum Shinri Kyo</a>    cult, is on  <b>trial</b> on 17 charges in the March 20, 1995   <b>sarin attack</b>   that killed 12 people and  <b>sickened</b>  <b>thousands</b>. <br><br> Other  <b>cult</b> leaders have also been charged in the  gassing   as well as in other slayings. <br><br> Osamu Watanabe,  <a class="wiki" href="http://en.wikipedia.org/wiki/Shoko_Asahara" cat="person	leaders	prisoner	buddhist	member">Asahara</a> 's chief  defense   lawyer, said the  <b>trial</b> should not be allowed to go on. <br><br> "We must wonder why such abnormal and unfair proceedings are tolerated. The  <b>court</b> has been negligent,'' Watanabe told the   <a class="wiki" href="http://en.wikipedia.org/wiki/Tokyo_District_Court" cat="">Tokyo District Court</a>   . <br><br> The  <b>prosecutors</b> say  <a class="wiki" href="http://en.wikipedia.org/wiki/Shoko_Asahara" cat="person	leaders	prisoner	buddhist	member">Asahara</a> , accused of masterminding the  <b>subway</b> gassing, decided on the attack on March 18, 1995 while riding in a  <b>car</b> with his followers. <br><br> But Watanabe pointed out that top  <b>cultist</b> Yoshihiro Inoue, a  <b>key witness</b> for the   <b>prosecution</b> , told the  <b>court</b> that  <a class="wiki" href="http://en.wikipedia.org/wiki/Shoko_Asahara" cat="person	leaders	prisoner	buddhist	member">Asahara</a>  was still undecided on the timing of the attack at that time. Inoue quoted  <a class="wiki" href="http://en.wikipedia.org/wiki/Shoko_Asahara" cat="person	leaders	prisoner	buddhist	member">Asahara</a>  as saying that he needed to meditate about it. <br><br> Last April, the  <b>defense</b> raised similar objections, but the prosecutors refused to change their statement. (cw) <br><br>
+</ANNOTATION>
+*Entity:[guru,textSpan=(9-13)]	-Disambiguation:(tid=167936, Title name=Guru) gold wikification:=Guru isCorrectPrediction=Correct
+*Entity:[lawyers,textSpan=(18-25)]	-Disambiguation:(tid=17541, Title name=Lawyer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[prosecutors,textSpan=(34-45)]	-Disambiguation:(tid=440936, Title name=Prosecutor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[court,textSpan=(47-52)]	-Disambiguation:(tid=75358, Title name=Court) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Attorneys,textSpan=(55-64)]	-Disambiguation:(tid=168902, Title name=Attorney_at_law) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cult,textSpan=(72-76)]	-Disambiguation:(tid=1008588, Title name=Cult) gold wikification:=Cult isCorrectPrediction=Correct
+*Entity:[murder,textSpan=(95-101)]	-Disambiguation:(tid=20171, Title name=Murder) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nerve gas,textSpan=(110-119)]	-Disambiguation:(tid=66390, Title name=Sarin) gold wikification:=Nerve_agent isCorrectPrediction=Incorrect
+*Entity:[Tokyo,textSpan=(133-138)]	-Disambiguation:(tid=30057, Title name=Tokyo) gold wikification:=Tokyo isCorrectPrediction=Correct
+*Entity:[his trial,textSpan=(159-168)]	-Disambiguation:(tid=951581, Title name=Trial_of_Michael_Jackson) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[trial,textSpan=(163-168)]	-Disambiguation:(tid=3276812, Title name=Trial) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Thursday,textSpan=(169-177)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[contradicted,textSpan=(236-248)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[testimony,textSpan=(252-261)]	-Disambiguation:(tid=75696, Title name=Testimony) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[their own,textSpan=(267-276)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[witnesses,textSpan=(277-286)]	-Disambiguation:(tid=50956, Title name=Witness) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Shoko Asahara,textSpan=(292-305)]	-Disambiguation:(tid=98970, Title name=Shoko_Asahara) gold wikification:=Shoko_Asahara isCorrectPrediction=Correct
+*Entity:[Shoko,textSpan=(292-297)]	-Disambiguation:(tid=98970, Title name=Shoko_Asahara) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Asahara,textSpan=(298-305)]	-Disambiguation:(tid=98970, Title name=Shoko_Asahara) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the leader,textSpan=(309-319)]	-Disambiguation:(tid=415728, Title name=Supreme_Leader_of_Iran) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[leader,textSpan=(313-319)]	-Disambiguation:(tid=130918, Title name=Leadership) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Aum Shinri Kyo,textSpan=(328-342)]	-Disambiguation:(tid=103120, Title name=Aum_Shinrikyo) gold wikification:=Aum_Shinrikyo isCorrectPrediction=Correct
+*Entity:[trial,textSpan=(357-362)]	-Disambiguation:(tid=3276812, Title name=Trial) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[17,textSpan=(366-368)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[charges,textSpan=(369-376)]	-Disambiguation:(tid=14559, Title name=Indictment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sarin attack,textSpan=(400-412)]	-Disambiguation:(tid=448557, Title name=Sarin_gas_attack_on_the_Tokyo_subway) gold wikification:=Sarin_gas_attack_on_the_Tokyo_subway isCorrectPrediction=Correct
+*Entity:[12,textSpan=(427-429)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[people,textSpan=(430-436)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sickened,textSpan=(441-449)]	-Disambiguation:(tid=7038, Title name=Candidiasis) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[thousands,textSpan=(450-459)]	-Disambiguation:(tid=442472, Title name=1000_(number)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Other,textSpan=(464-469)]	-Disambiguation:(tid=972208, Title name=Other) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cult,textSpan=(470-474)]	-Disambiguation:(tid=1008588, Title name=Cult) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[leaders,textSpan=(475-482)]	-Disambiguation:(tid=130918, Title name=Leadership) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[charged,textSpan=(498-505)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gassing,textSpan=(514-521)]	-Disambiguation:*null* gold wikification:=Gas_chamber isCorrectPrediction=Incorrect
+*Entity:[Osamu,textSpan=(557-562)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Osamu Watanabe, Asahara's,textSpan=(557-582)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Osamu Watanabe,textSpan=(557-571)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Watanabe,textSpan=(563-571)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Watanabe, Asahara's,textSpan=(563-582)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Asahara,textSpan=(573-580)]	-Disambiguation:(tid=98970, Title name=Shoko_Asahara) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[defense,textSpan=(590-597)]	-Disambiguation:*null* gold wikification:=Defense_(legal) isCorrectPrediction=Incorrect
+*Entity:[the trial,textSpan=(613-622)]	-Disambiguation:(tid=3957114, Title name=Trial_of_Kenneth_Lay_and_Jeffrey_Skilling) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[trial,textSpan=(617-622)]	-Disambiguation:(tid=3276812, Title name=Trial) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[should not,textSpan=(623-633)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[allowed,textSpan=(637-644)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[to go,textSpan=(645-650)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wonder,textSpan=(667-673)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[abnormal,textSpan=(683-691)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[unfair,textSpan=(696-702)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[proceedings,textSpan=(703-714)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tolerated,textSpan=(719-728)]	-Disambiguation:(tid=3556702, Title name=Toleration) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The court,textSpan=(730-739)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[court,textSpan=(734-739)]	-Disambiguation:(tid=75358, Title name=Court) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:['',textSpan=(759-761)]	-Disambiguation:(tid=10671108, Title name=Dirty_(film)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Watanabe,textSpan=(762-770)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Tokyo District Court,textSpan=(781-801)]	-Disambiguation:(tid=6384526, Title name=Tokyo_District_Court) gold wikification:=Tokyo_District_Court isCorrectPrediction=Correct
+*Entity:[prosecutors,textSpan=(812-823)]	-Disambiguation:(tid=440936, Title name=Prosecutor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Asahara,textSpan=(828-835)]	-Disambiguation:(tid=98970, Title name=Shoko_Asahara) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the subway,textSpan=(862-872)]	-Disambiguation:(tid=285510, Title name=New_York_City_Subway) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[subway,textSpan=(866-872)]	-Disambiguation:(tid=18361733, Title name=Rapid_transit) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gassing,textSpan=(873-880)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the attack,textSpan=(893-903)]	-Disambiguation:(tid=60098, Title name=Attack_on_Pearl_Harbor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[attack,textSpan=(897-903)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a car,textSpan=(938-943)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[car,textSpan=(940-943)]	-Disambiguation:(tid=13673345, Title name=Automobile) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[his followers,textSpan=(949-962)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[followers,textSpan=(953-962)]	-Disambiguation:(tid=145024, Title name=Millerism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Watanabe,textSpan=(971-979)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cultist,textSpan=(1001-1008)]	-Disambiguation:(tid=1008588, Title name=Cult) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yoshihiro,textSpan=(1009-1018)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yoshihiro Inoue,textSpan=(1009-1024)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Inoue,textSpan=(1019-1024)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[key witness,textSpan=(1028-1039)]	-Disambiguation:(tid=5639065, Title name=Key_Witness) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[key,textSpan=(1028-1031)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[witness,textSpan=(1032-1039)]	-Disambiguation:(tid=50956, Title name=Witness) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[prosecution,textSpan=(1049-1060)]	-Disambiguation:(tid=440936, Title name=Prosecutor) gold wikification:=Prosecutor isCorrectPrediction=Correct
+*Entity:[the court,textSpan=(1068-1077)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[court,textSpan=(1072-1077)]	-Disambiguation:(tid=75358, Title name=Court) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Asahara,textSpan=(1083-1090)]	-Disambiguation:(tid=98970, Title name=Shoko_Asahara) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[timing,textSpan=(1118-1124)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the attack,textSpan=(1128-1138)]	-Disambiguation:(tid=60098, Title name=Attack_on_Pearl_Harbor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[attack,textSpan=(1132-1138)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[that time,textSpan=(1142-1151)]	-Disambiguation:(tid=60731, Title name=Anachronism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[time,textSpan=(1147-1151)]	-Disambiguation:(tid=30012, Title name=Time) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Inoue,textSpan=(1153-1158)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Asahara,textSpan=(1166-1173)]	-Disambiguation:(tid=98970, Title name=Shoko_Asahara) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[meditate,textSpan=(1202-1210)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Last April,textSpan=(1224-1234)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[April,textSpan=(1229-1234)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the defense,textSpan=(1236-1247)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[defense,textSpan=(1240-1247)]	-Disambiguation:(tid=228102, Title name=Defense_(legal)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[similar,textSpan=(1255-1262)]	-Disambiguation:(tid=39377, Title name=Similarity_(geometry)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[objections,textSpan=(1263-1273)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[prosecutors,textSpan=(1283-1294)]	-Disambiguation:(tid=440936, Title name=Prosecutor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[refused,textSpan=(1295-1302)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[change,textSpan=(1306-1312)]	-Disambiguation:(tid=162941, Title name=Change) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[statement,textSpan=(1319-1328)]	-Disambiguation:(tid=41746, Title name=Statement) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'guru' start in text:9 end in text: 13; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'lawyers' start in text:18 end in text: 25; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'prosecutors' start in text:34 end in text: 45; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'court' start in text:47 end in text: 52; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Attorneys' start in text:55 end in text: 64; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cult' start in text:72 end in text: 76; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'murder' start in text:95 end in text: 101; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nerve gas' start in text:110 end in text: 119; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Tokyo' start in text:133 end in text: 138; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'his trial' start in text:159 end in text: 168; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'trial' start in text:163 end in text: 168; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thursday' start in text:169 end in text: 177; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'contradicted' start in text:236 end in text: 248; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'testimony' start in text:252 end in text: 261; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'their own' start in text:267 end in text: 276; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'witnesses' start in text:277 end in text: 286; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Shoko Asahara' start in text:292 end in text: 305; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Shoko' start in text:292 end in text: 297; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Asahara' start in text:298 end in text: 305; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'the leader' start in text:309 end in text: 319; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'leader' start in text:313 end in text: 319; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Aum Shinri Kyo' start in text:328 end in text: 342; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'trial' start in text:357 end in text: 362; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '17' start in text:366 end in text: 368; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'charges' start in text:369 end in text: 376; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sarin attack' start in text:400 end in text: 412; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '12' start in text:427 end in text: 429; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'people' start in text:430 end in text: 436; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sickened' start in text:441 end in text: 449; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'thousands' start in text:450 end in text: 459; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Other' start in text:464 end in text: 469; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cult' start in text:470 end in text: 474; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'leaders' start in text:475 end in text: 482; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'charged' start in text:498 end in text: 505; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gassing' start in text:514 end in text: 521; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Osamu' start in text:557 end in text: 562; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Osamu Watanabe, Asahara's' start in text:557 end in text: 582; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Osamu Watanabe' start in text:557 end in text: 571; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Watanabe' start in text:563 end in text: 571; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Watanabe, Asahara's' start in text:563 end in text: 582; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Asahara' start in text:573 end in text: 580; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'defense' start in text:590 end in text: 597; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the trial' start in text:613 end in text: 622; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'trial' start in text:617 end in text: 622; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'should not' start in text:623 end in text: 633; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'allowed' start in text:637 end in text: 644; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'to go' start in text:645 end in text: 650; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wonder' start in text:667 end in text: 673; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'abnormal' start in text:683 end in text: 691; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'unfair' start in text:696 end in text: 702; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'proceedings' start in text:703 end in text: 714; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tolerated' start in text:719 end in text: 728; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The court' start in text:730 end in text: 739; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'court' start in text:734 end in text: 739; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '''' start in text:759 end in text: 761; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Watanabe' start in text:762 end in text: 770; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Tokyo District Court' start in text:781 end in text: 801; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'prosecutors' start in text:812 end in text: 823; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Asahara' start in text:828 end in text: 835; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'the subway' start in text:862 end in text: 872; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'subway' start in text:866 end in text: 872; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gassing' start in text:873 end in text: 880; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the attack' start in text:893 end in text: 903; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'attack' start in text:897 end in text: 903; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a car' start in text:938 end in text: 943; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'car' start in text:940 end in text: 943; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'his followers' start in text:949 end in text: 962; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'followers' start in text:953 end in text: 962; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Watanabe' start in text:971 end in text: 979; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cultist' start in text:1001 end in text: 1008; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yoshihiro' start in text:1009 end in text: 1018; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yoshihiro Inoue' start in text:1009 end in text: 1024; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Inoue' start in text:1019 end in text: 1024; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'key witness' start in text:1028 end in text: 1039; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'key' start in text:1028 end in text: 1031; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'witness' start in text:1032 end in text: 1039; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'prosecution' start in text:1049 end in text: 1060; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the court' start in text:1068 end in text: 1077; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'court' start in text:1072 end in text: 1077; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Asahara' start in text:1083 end in text: 1090; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'timing' start in text:1118 end in text: 1124; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the attack' start in text:1128 end in text: 1138; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'attack' start in text:1132 end in text: 1138; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'that time' start in text:1142 end in text: 1151; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'time' start in text:1147 end in text: 1151; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Inoue' start in text:1153 end in text: 1158; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Asahara' start in text:1166 end in text: 1173; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'meditate' start in text:1202 end in text: 1210; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Last April' start in text:1224 end in text: 1234; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'April' start in text:1229 end in text: 1234; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the defense' start in text:1236 end in text: 1247; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'defense' start in text:1240 end in text: 1247; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'similar' start in text:1255 end in text: 1262; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'objections' start in text:1263 end in text: 1273; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'prosecutors' start in text:1283 end in text: 1294; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'refused' start in text:1295 end in text: 1302; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'change' start in text:1306 end in text: 1312; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'statement' start in text:1319 end in text: 1328; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

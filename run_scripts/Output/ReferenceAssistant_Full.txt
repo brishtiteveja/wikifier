@@ -1,0 +1,299 @@
+Params:[-referenceAssistant, /scratch/conte/a/azehady/nlp/Wikifier2013/Wikifier2013/data/WikificationACL2011Data/AQUAINT/Problems, /scratch/conte/a/azehady/nlp/Wikifier2013/Wikifier2013/data/WikificationACL2011Data/AQUAINT/RawTexts, /scratch/conte/a/azehady/nlp/Wikifier2013/Wikifier2013/data/WikificationACL2011Data/AQUAINT/WikifierACL2011Output, /scratch/conte/a/azehady/nlp/Wikifier2013/Wikifier2013/configs/FULL.xml]
+Usage: either
+	$java ReferenceAssistant -trainSvmModelsOnly <pathToConfigFile>
+or
+	$java ReferenceAssistant -buildTrainingDataAndTrain <pathToProblems> <pathToRawTexts> <pathToConfigFile>
+or
+	$java ReferenceAssistant -annotateData <inputPath> <outputPath> <generateFeatureDumps>  <pathToConfigFile> 
+or
+	$java ReferenceAssistant -referenceAssistant <pathToProblemFileOrFolder> <pathToRawTextFilesFolder> <pathToExplanations>  <pathToConfigFile> 
+Creating wordnet dictionary from data/WordNet/...
+Dictionary opened.
+----------------->Bypassing the curator!
+Loading the most recent redirect pages from Wikipedia to normalize the output links to the latest version
+loading the latest redirects; linecount=1
+loading the latest redirects; linecount=100001
+Consructing wikipedia summary from a proto buffer
+loading the latest redirects; linecount=200001
+Done - consructing wikipedia summary from a proto buffer
+Opening the index for the complete index interface
+loading the latest redirects; linecount=300001
+Prefetching the basic information about the wikipedia articles
+0 titles processed out of 2478573
+loading the latest redirects; linecount=400001
+loading the latest redirects; linecount=500001
+loading the latest redirects; linecount=600001
+loading the latest redirects; linecount=700001
+loading the latest redirects; linecount=800001
+loading the latest redirects; linecount=900001
+loading the latest redirects; linecount=1000001
+loading the latest redirects; linecount=1100001
+loading the latest redirects; linecount=1200001
+loading the latest redirects; linecount=1300001
+50000 titles processed out of 2478573
+loading the latest redirects; linecount=1400001
+loading the latest redirects; linecount=1500001
+loading the latest redirects; linecount=1600001
+loading the latest redirects; linecount=1700001
+100000 titles processed out of 2478573
+loading the latest redirects; linecount=1800001
+loading the latest redirects; linecount=1900001
+loading the latest redirects; linecount=2000001
+loading the latest redirects; linecount=2100001
+loading the latest redirects; linecount=2200001
+loading the latest redirects; linecount=2300001
+loading the latest redirects; linecount=2400001
+loading the latest redirects; linecount=2500001
+150000 titles processed out of 2478573
+loading the latest redirects; linecount=2600001
+loading the latest redirects; linecount=2700001
+loading the latest redirects; linecount=2800001
+loading the latest redirects; linecount=2900001
+loading the latest redirects; linecount=3000001
+loading the latest redirects; linecount=3100001
+200000 titles processed out of 2478573
+loading the latest redirects; linecount=3200001
+loading the latest redirects; linecount=3300001
+loading the latest redirects; linecount=3400001
+loading the latest redirects; linecount=3500001
+loading the latest redirects; linecount=3600001
+loading the latest redirects; linecount=3700001
+loading the latest redirects; linecount=3800001
+loading the latest redirects; linecount=3900001
+loading the latest redirects; linecount=4000001
+250000 titles processed out of 2478573
+loading the latest redirects; linecount=4100001
+loading the latest redirects; linecount=4200001
+loading the latest redirects; linecount=4300001
+loading the latest redirects; linecount=4400001
+loading the latest redirects; linecount=4500001
+loading the latest redirects; linecount=4600001
+loading the latest redirects; linecount=4700001
+loading the latest redirects; linecount=4800001
+loading the latest redirects; linecount=4900001
+300000 titles processed out of 2478573
+loading the latest redirects; linecount=5000001
+loading the latest redirects; linecount=5100001
+loading the latest redirects; linecount=5200001
+loading the latest redirects; linecount=5300001
+loading the latest redirects; linecount=5400001
+loading the latest redirects; linecount=5500001
+loading the latest redirects; linecount=5600001
+loading the latest redirects; linecount=5700001
+loading the latest redirects; linecount=5800001
+Done  - Loading the most recent redirect pages from Wikipedia to normalize the output links to the latest version
+350000 titles processed out of 2478573
+400000 titles processed out of 2478573
+450000 titles processed out of 2478573
+500000 titles processed out of 2478573
+550000 titles processed out of 2478573
+600000 titles processed out of 2478573
+650000 titles processed out of 2478573
+700000 titles processed out of 2478573
+750000 titles processed out of 2478573
+800000 titles processed out of 2478573
+850000 titles processed out of 2478573
+900000 titles processed out of 2478573
+950000 titles processed out of 2478573
+1000000 titles processed out of 2478573
+1050000 titles processed out of 2478573
+1100000 titles processed out of 2478573
+1150000 titles processed out of 2478573
+1200000 titles processed out of 2478573
+1250000 titles processed out of 2478573
+1300000 titles processed out of 2478573
+1350000 titles processed out of 2478573
+1400000 titles processed out of 2478573
+1450000 titles processed out of 2478573
+1500000 titles processed out of 2478573
+1550000 titles processed out of 2478573
+1600000 titles processed out of 2478573
+1650000 titles processed out of 2478573
+1700000 titles processed out of 2478573
+1750000 titles processed out of 2478573
+1800000 titles processed out of 2478573
+1850000 titles processed out of 2478573
+1900000 titles processed out of 2478573
+1950000 titles processed out of 2478573
+2000000 titles processed out of 2478573
+2050000 titles processed out of 2478573
+2100000 titles processed out of 2478573
+2150000 titles processed out of 2478573
+2200000 titles processed out of 2478573
+2250000 titles processed out of 2478573
+2300000 titles processed out of 2478573
+2350000 titles processed out of 2478573
+2400000 titles processed out of 2478573
+2450000 titles processed out of 2478573
+Actual capacities:
+TitleEssentialData:6584983
+Loaded 2478573 nonNormalizedTitles
+Done prefetching the basic data about 2478573 Wikipedia articles
+Loading information about surface form to title id mappings
+1 surface forms is linkable out of 0. There are 4045674  surface forms total; last surface form read: Lord of Coucy
+100001 surface forms is linkable out of 100000. There are 4045674  surface forms total; last surface form read: Casino, New South Wales
+200001 surface forms is linkable out of 200000. There are 4045674  surface forms total; last surface form read: St. Dominic?s Church
+300001 surface forms is linkable out of 300000. There are 4045674  surface forms total; last surface form read: GATT
+400001 surface forms is linkable out of 400000. There are 4045674  surface forms total; last surface form read: Beotia
+500001 surface forms is linkable out of 500000. There are 4045674  surface forms total; last surface form read: Heartbreaker
+600001 surface forms is linkable out of 600000. There are 4045674  surface forms total; last surface form read: The White Dove
+700001 surface forms is linkable out of 700000. There are 4045674  surface forms total; last surface form read: Polish league's
+800001 surface forms is linkable out of 800000. There are 4045674  surface forms total; last surface form read: G.Beck
+900001 surface forms is linkable out of 900000. There are 4045674  surface forms total; last surface form read: Pacific Air Transport
+1000001 surface forms is linkable out of 1000000. There are 4045674  surface forms total; last surface form read: Guo Zhendong
+1100001 surface forms is linkable out of 1100000. There are 4045674  surface forms total; last surface form read: N-630
+1200001 surface forms is linkable out of 1200000. There are 4045674  surface forms total; last surface form read: Arbor Lodge State Park
+1300001 surface forms is linkable out of 1300000. There are 4045674  surface forms total; last surface form read: 1996's Hurricane Fausto
+1400001 surface forms is linkable out of 1400000. There are 4045674  surface forms total; last surface form read: The Story of Doctor Dolittle
+1500001 surface forms is linkable out of 1500000. There are 4045674  surface forms total; last surface form read: WBZB
+1600001 surface forms is linkable out of 1600000. There are 4045674  surface forms total; last surface form read: State Highway 50A
+1700001 surface forms is linkable out of 1700000. There are 4045674  surface forms total; last surface form read: Antoniadi scale
+1800001 surface forms is linkable out of 1800000. There are 4045674  surface forms total; last surface form read: Mulroy
+1900001 surface forms is linkable out of 1900000. There are 4045674  surface forms total; last surface form read: Yellow birch
+2000001 surface forms is linkable out of 2000000. There are 4045674  surface forms total; last surface form read: Aleksandr Grigorievich Stoletov
+2100001 surface forms is linkable out of 2100000. There are 4045674  surface forms total; last surface form read: Rob Valentine
+2200001 surface forms is linkable out of 2200000. There are 4045674  surface forms total; last surface form read: Christ 777
+2300001 surface forms is linkable out of 2300000. There are 4045674  surface forms total; last surface form read: ?Alice? shorts
+2400001 surface forms is linkable out of 2400000. There are 4045674  surface forms total; last surface form read: Knights of Da Gama
+2500001 surface forms is linkable out of 2500000. There are 4045674  surface forms total; last surface form read: Anastasiopolis
+2600001 surface forms is linkable out of 2600000. There are 4045674  surface forms total; last surface form read: Hearing protection
+2700001 surface forms is linkable out of 2700000. There are 4045674  surface forms total; last surface form read: Orhuwhorun
+2800001 surface forms is linkable out of 2800000. There are 4045674  surface forms total; last surface form read: Warren Ellis'
+2900001 surface forms is linkable out of 2900000. There are 4045674  surface forms total; last surface form read: rag-time
+3000001 surface forms is linkable out of 3000000. There are 4045674  surface forms total; last surface form read: urnebes
+3100001 surface forms is linkable out of 3100000. There are 4045674  surface forms total; last surface form read: As Rapture Comes
+3200001 surface forms is linkable out of 3200000. There are 4045674  surface forms total; last surface form read: marrow
+3300001 surface forms is linkable out of 3300000. There are 4045674  surface forms total; last surface form read: Object-based
+3400001 surface forms is linkable out of 3400000. There are 4045674  surface forms total; last surface form read: Siege of Dapur
+3500001 surface forms is linkable out of 3500000. There are 4045674  surface forms total; last surface form read: National Unity Cabinet
+3600001 surface forms is linkable out of 3600000. There are 4045674  surface forms total; last surface form read: 43 countries recognise
+3700001 surface forms is linkable out of 3700000. There are 4045674  surface forms total; last surface form read: mane?tra
+3800001 surface forms is linkable out of 3800000. There are 4045674  surface forms total; last surface form read: Digital Datcom
+3900001 surface forms is linkable out of 3900000. There are 4045674  surface forms total; last surface form read: Louisville Courier
+4000001 surface forms is linkable out of 4000000. There are 4045674  surface forms total; last surface form read: Risset
+There are 0 unlinkable surface forms
+Actual capacities:
+SurfaceFormData:4961459
+Done loading information about surface form to title id mappings
+WordNet config file: configs/jwnl_properties.xml
+[INFO][net.didion.jwnl.dictionary.Dictionary] - Installing dictionary net.didion.jwnl.dictionary.FileBackedDictionary@21002a83
+Done initializing the system: 166000 milliseconds elapsed
+Memory usage : 3585 MB
+
+
+********************************************
+
+Solving problems with user-specified entities.
+	 pathToProblems=/scratch/conte/a/azehady/nlp/Wikifier2013/Wikifier2013/data/WikificationACL2011Data/AQUAINT/Problems
+	 rawFilesPath=/scratch/conte/a/azehady/nlp/Wikifier2013/Wikifier2013/data/WikificationACL2011Data/AQUAINT/RawTexts
+	 outPath=/scratch/conte/a/azehady/nlp/Wikifier2013/Wikifier2013/data/WikificationACL2011Data/AQUAINT/WikifierACL2011Output
+
+********************************************
+
+
+Processing the reference problem : /scratch/conte/a/azehady/nlp/Wikifier2013/Wikifier2013/data/WikificationACL2011Data/AQUAINT/Problems/APW19981020_1367.htm
+character encoding = ASCII
+Constructing a problem for the following text: 
+   Shepard, Glenn set first two milestones
+
+ __ 
+
+ May 5, 1961:  Alan Shepard   becomes first American in space. 
+
+ Feb. 20, 1962:  John Glenn   becomes first American in  orbit  . 
+
+ Jan. 27, 1967...
+17 milliseconds elapsed on constructing the TF-IDF representation of the input text...APW19981020_1367.htm
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for APW19981020_1367.htm
+Creating coreferencer by thread 11
+Adding SHALLOW_PARSE and subChunk candidates for APW19981020_1367.htm
+Loading clusters...
+Loading wordnet database...
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity Shepard, Glenn[3-17]{0-3}
+Matched regex entity Gus Grissom , Edward White II and Roger Chaffee[200-252]{39-48}
+Matched regex entity Edward White II and Roger Chaffee[216-252]{42-48}
+Matched regex entity Neil Armstrong and Buzz Aldrin[345-378]{66-71}
+Matched regex entity American Apollo and Soviet Soyuz[416-449]{80-85}
+Matched regex entity Shannon Lucid[1068-1081]{205-207}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+885 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...APW19981020_1367.htm
+Inference on the document  -- APW19981020_1367.htm
+4 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+Annotating mention view..
+30 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+226 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+19 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+2987 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+5 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Level:FeatureExtractorCoherenceCorrect Wikification of: Alan Shepard to : http://en.wikipedia.org/wiki/Alan_Shepard
+Level:FeatureExtractorCoherenceCorrect Wikification of: John Glenn to : http://en.wikipedia.org/wiki/John_Glenn
+Level:FeatureExtractorCoherenceCorrect Wikification of: orbit to : http://en.wikipedia.org/wiki/Orbit
+Level:FeatureExtractorCoherenceCorrect Wikification of: Gus Grissom to : http://en.wikipedia.org/wiki/Gus_Grissom
+Level:FeatureExtractorCoherenceCorrect Wikification of: Edward White to : http://en.wikipedia.org/wiki/Edward_Higgins_White
+Level:FeatureExtractorCoherenceCorrect Wikification of: Roger Chaffee to : http://en.wikipedia.org/wiki/Roger_B._Chaffee
+Level:FeatureExtractorCoherenceCorrect Wikification of: Apollo 1 to : http://en.wikipedia.org/wiki/Apollo_1
+Level:FeatureExtractorCoherenceCorrect Wikification of: spacecraft to : http://en.wikipedia.org/wiki/Spacecraft
+Level:FeatureExtractorCoherenceCorrect Wikification of: launch pad to : http://en.wikipedia.org/wiki/Launch_pad
+Level:FeatureExtractorCoherenceCorrect Wikification of: Apollo 11 to : http://en.wikipedia.org/wiki/Apollo_11
+Level:FeatureExtractorCoherenceCorrect Wikification of: Neil Armstrong to : http://en.wikipedia.org/wiki/Neil_Armstrong
+Level:FeatureExtractorCoherenceCorrect Wikification of: Buzz Aldrin to : http://en.wikipedia.org/wiki/Buzz_Aldrin
+Level:FeatureExtractorCoherenceCorrect Wikification of: Soyuz spacecraft to : http://en.wikipedia.org/wiki/Soyuz_(spacecraft)
+Level:FeatureExtractorCoherenceCorrect Wikification of: Columbia to : http://en.wikipedia.org/wiki/Space_Shuttle_Columbia
+Level:FeatureExtractorCoherenceCorrect Wikification of: space shuttle to : http://en.wikipedia.org/wiki/Space_Shuttle
+Level:FeatureExtractorCoherenceCorrect Wikification of: Sally Ride to : http://en.wikipedia.org/wiki/Sally_Ride
+Level:FeatureExtractorCoherenceCorrect Wikification of: Challenger to : http://en.wikipedia.org/wiki/Space_Shuttle_Challenger
+Level:FeatureExtractorCoherenceCorrect Wikification of: Hubble Space Telescope to : http://en.wikipedia.org/wiki/Hubble_Space_Telescope
+Level:FeatureExtractorCoherenceCorrect Wikification of: Norman Thagard to : http://en.wikipedia.org/wiki/Norman_Thagard
+Level:FeatureExtractorCoherenceCorrect Wikification of: rocket to : http://en.wikipedia.org/wiki/Rocket
+Level:FeatureExtractorCoherenceCorrect Wikification of: Mir to : http://en.wikipedia.org/wiki/Mir
+Level:FeatureExtractorCoherenceCorrect Wikification of: Atlantis to : http://en.wikipedia.org/wiki/Space_Shuttle_Atlantis
+Level:FeatureExtractorCoherenceCorrect Wikification of: Shannon Lucid to : http://en.wikipedia.org/wiki/Shannon_Lucid
+Level:FeatureExtractorCoherenceCorrect Wikification of: Story Musgrave to : http://en.wikipedia.org/wiki/Story_Musgrave
+Level:FeatureExtractorCoherenceCorrect Wikification of: Discovery to : http://en.wikipedia.org/wiki/Space_Shuttle_Discovery
+Level:FeatureExtractorCoherenceCorrect Wikification of: Alan Shepard to : http://en.wikipedia.org/wiki/Alan_Shepard
+Level:FeatureExtractorCoherenceCorrect Wikification of: John Glenn to : http://en.wikipedia.org/wiki/John_Glenn
+Level:FeatureExtractorCoherenceCorrect Wikification of: orbit to : http://en.wikipedia.org/wiki/Orbit
+Level:FeatureExtractorCoherenceCorrect Wikification of: Gus Grissom to : http://en.wikipedia.org/wiki/Gus_Grissom
+Level:FeatureExtractorCoherenceCorrect Wikification of: Edward White to : http://en.wikipedia.org/wiki/Edward_Higgins_White
+Level:FeatureExtractorCoherenceCorrect Wikification of: Roger Chaffee to : http://en.wikipedia.org/wiki/Roger_B._Chaffee
+Level:FeatureExtractorCoherenceCorrect Wikification of: Apollo 1 to : http://en.wikipedia.org/wiki/Apollo_1
+Level:FeatureExtractorCoherenceCorrect Wikification of: spacecraft to : http://en.wikipedia.org/wiki/Spacecraft
+Level:FeatureExtractorCoherenceCorrect Wikification of: launch pad to : http://en.wikipedia.org/wiki/Launch_pad
+Level:FeatureExtractorCoherenceCorrect Wikification of: Apollo 11 to : http://en.wikipedia.org/wiki/Apollo_11
+Level:FeatureExtractorCoherenceCorrect Wikification of: Neil Armstrong to : http://en.wikipedia.org/wiki/Neil_Armstrong
+Level:FeatureExtractorCoherenceCorrect Wikification of: Buzz Aldrin to : http://en.wikipedia.org/wiki/Buzz_Aldrin
+Level:FeatureExtractorCoherence: Still Incorrect Wikification of: moon; ------- ;
+  the prediction is: http://en.wikipedia.org/wiki/Moon_landing ; the gold is: http://en.wikipedia.org/wiki/Moon;
+  The confusions set is : Moon(ranker score=1.5370957906416405) Vs: Moon_landing(ranker score=1.7331210889709885);
+  The context is: ; ------- ; 7, 1967:  Gus Grissom  ,  Edward White   II and  Roger Chaffee   die in  Apollo 1    spacecraft   fire on  launch pad  .  July 20, 1969:  Apollo 11  's  Neil Armstrong   and  Buzz Aldrin   land on  moon  .  July 17, 1975: American Apollo and Soviet  Soyuz spacecraft   link in orbit.  April 12, 1981:  Columbia   soars on first  space shuttle   flight.  June 18, 1983:  Sally Ride   becomes f
+Level:FeatureExtractorCoherenceCorrect Wikification of: Soyuz spacecraft to : http://en.wikipedia.org/wiki/Soyuz_(spacecraft)
+Level:FeatureExtractorCoherenceCorrect Wikification of: Columbia to : http://en.wikipedia.org/wiki/Space_Shuttle_Columbia
+Level:FeatureExtractorCoherenceCorrect Wikification of: space shuttle to : http://en.wikipedia.org/wiki/Space_Shuttle
+Level:FeatureExtractorCoherenceCorrect Wikification of: Sally Ride to : http://en.wikipedia.org/wiki/Sally_Ride
+Level:FeatureExtractorCoherenceCorrect Wikification of: Challenger to : http://en.wikipedia.org/wiki/Space_Shuttle_Challenger
+Level:FeatureExtractorCoherenceCorrect Wikification of: Hubble Space Telescope to : http://en.wikipedia.org/wiki/Hubble_Space_Telescope
+Level:FeatureExtractorCoherenceCorrect Wikification of: Norman Thagard to : http://en.wikipedia.org/wiki/Norman_Thagard
+Level:FeatureExtractorCoherenceCorrect Wikification of: rocket to : http://en.wikipedia.org/wiki/Rocket
+Level:FeatureExtractorCoherenceCorrect Wikification of: Mir to : http://en.wikipedia.org/wiki/Mir
+Level:FeatureExtractorCoherenceCorrect Wikification of: Atlantis to : http://en.wikipedia.org/wiki/Space_Shuttle_Atlantis
+Level:FeatureExtractorCoherenceCorrect Wikification of: Shannon Lucid to : http://en.wikipedia.org/wiki/Shannon_Lucid
+Level:FeatureExtractorCoherenceCorrect Wikification of: Story Musgrave to : http://en.wikipedia.org/wiki/Story_Musgrave
+Level:FeatureExtractorCoherenceCorrect Wikification of: Discovery to : http://en.wikipedia.org/wiki/Space_Shuttle_Discovery
+Could not find WikiMatchData for title --
+[INFO][edu.illinois.cs.cogcomp.wikifier.inference.relation.RelationalAnalysis] - Accepting relation Triple [arg1=Gus_Grissom, pred=WIKI_LINK_RELATION, arg2=Edward_Higgins_White, score=7.098251628875733, normalizedScore=100.0]For surfaces Gus Grissom and Edward White
+[INFO][edu.illinois.cs.cogcomp.wikifier.inference.relation.RelationalAnalysis] - Accepting relation Triple [arg1=Neil_Armstrong, pred=WIKI_LINK_RELATION, arg2=Buzz_Aldrin, score=7.70059458732605, normalizedScore=100.0]For surfaces Neil Armstrong and Buzz Aldrin
+[INFO][edu.illinois.cs.cogcomp.wikifier.inference.relation.RelationalAnalysis] - Accepting relation Triple [arg1=United_States, pred=WIKI_LINK_RELATION, arg2=Apollo_program, score=2.2104742527008057, normalizedScore=100.0]For surfaces American and Apollo
+InitGazetteers
+Finish InitGazetteers
+READFILE
+[INFO][edu.illinois.cs.cogcomp.wikifier.inference.coref.CorefElection] - Promoting John_Glenn due to a longer mention than Glenn that referred to the same thing
+[INFO][edu.illinois.cs.cogcomp.wikifier.inference.coref.CorefElection] - Promoting Alan_Shepard due to a longer mention than Shepard that referred to the same thing

@@ -1,0 +1,3648 @@
+<WikifierOutput>
+<InputFilename>
+4925093
+</InputFilename>
+<InputText>
+Day length, or length of day, or length of daytime, refers to the temporal length of a day, or 24 hours, during which there is daylight.
+Due to the   diffusion   and   refraction   of   sunlight   by the   atmosphere  , there is actually   daylight   even when the   sun   is slightly below the   horizon  . 
+Theoretically, the day length can be computed from the moment the upper limb of the   sun  &apos;s disk appears on the   horizon   during   sunrise   to the moment when the upper limb disappears at the   horizon   during   sunset  . 
+More conveniently, however, the center of the sun is often used in place of the upper limb for computing the day length. When   sunrise   and   sunset   do occur, the day length can be computed as 2ω sub o /sub /15 , where ω sub o /sub  is the   sunset     hour angle   in degrees ( ) given by the    sunset equation  . When   sunrise   and   sunset   do not occur during the course of a day, the day length is either 0 or 24 hours. 
+To considerable accuracy, all the points at the same latitude on the same calendar date can be considered to have the same day length. The   contour   plot in the figure is computed using the   sunset equation  .
+
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Day length</EntitySurfaceForm>
+	<EntityTextStart>0</EntityTextStart>
+	<EntityTextEnd>10</EntityTextEnd>
+	<LinkerScore>4.136687074842281</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Day_length</WikiTitle>
+		<WikiTitleID>4925093</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>phenomenon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Day_length</WikiTitle> <WikiTitleID>4925093</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Day</EntitySurfaceForm>
+	<EntityTextStart>0</EntityTextStart>
+	<EntityTextEnd>3</EntityTextEnd>
+	<LinkerScore>2.2387337175741373</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Day</WikiTitle>
+		<WikiTitleID>8376</WikiTitleID>
+		<RankerScore>0.9174615504658761</RankerScore>
+		<Attributes>unit	order</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Day</WikiTitle> <WikiTitleID>8376</WikiTitleID> <RankerScore>0.9174615504658761</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_(2007_novel)</WikiTitle> <WikiTitleID>15130676</WikiTitleID> <RankerScore>0.014794927375549478</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day,_New_York</WikiTitle> <WikiTitleID>127112</WikiTitleID> <RankerScore>0.008003970038727371</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_(novel)</WikiTitle> <WikiTitleID>5280375</WikiTitleID> <RankerScore>0.004267110865703359</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_school</WikiTitle> <WikiTitleID>951256</WikiTitleID> <RankerScore>0.004267110865703359</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_R._Day</WikiTitle> <WikiTitleID>627358</WikiTitleID> <RankerScore>0.004267110865703359</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_County,_South_Dakota</WikiTitle> <WikiTitleID>91830</WikiTitleID> <RankerScore>0.004267110865703359</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Francis_Day</WikiTitle> <WikiTitleID>3988210</WikiTitleID> <RankerScore>0.004267110865703359</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Day_(dramatist)</WikiTitle> <WikiTitleID>298314</WikiTitleID> <RankerScore>0.004267110865703359</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day,_Wisconsin</WikiTitle> <WikiTitleID>139336</WikiTitleID> <RankerScore>0.004267110865703359</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Day_(printer)</WikiTitle> <WikiTitleID>1372200</WikiTitleID> <RankerScore>0.004267110865703359</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mike_Dirnt</WikiTitle> <WikiTitleID>142229</WikiTitleID> <RankerScore>0.004267110865703359</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_days_in_Finland</WikiTitle> <WikiTitleID>334858</WikiTitleID> <RankerScore>0.004267110865703359</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edmund_Ezra_Day</WikiTitle> <WikiTitleID>765528</WikiTitleID> <RankerScore>0.004267110865703359</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_of_the_Daleks</WikiTitle> <WikiTitleID>746476</WikiTitleID> <RankerScore>0.004267110865703359</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_language</WikiTitle> <WikiTitleID>2797537</WikiTitleID> <RankerScore>0.004267110865703359</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_(automobile)</WikiTitle> <WikiTitleID>10869819</WikiTitleID> <RankerScore>0.004267110865703359</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>length</EntitySurfaceForm>
+	<EntityTextStart>4</EntityTextStart>
+	<EntityTextEnd>10</EntityTextEnd>
+	<LinkerScore>4.125390229769704</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Day_length</WikiTitle>
+		<WikiTitleID>4925093</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>phenomenon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Day_length</WikiTitle> <WikiTitleID>4925093</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>length</EntitySurfaceForm>
+	<EntityTextStart>15</EntityTextStart>
+	<EntityTextEnd>21</EntityTextEnd>
+	<LinkerScore>1.260353292148545</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Length</WikiTitle>
+		<WikiTitleID>18542</WikiTitleID>
+		<RankerScore>0.6616292382293993</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Length</WikiTitle> <WikiTitleID>18542</WikiTitleID> <RankerScore>0.6616292382293993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vowel_length</WikiTitle> <WikiTitleID>992991</WikiTitleID> <RankerScore>0.024334903186753982</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Line_and_length</WikiTitle> <WikiTitleID>3089705</WikiTitleID> <RankerScore>0.014623367150364597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Length_of_a_module</WikiTitle> <WikiTitleID>816070</WikiTitleID> <RankerScore>0.014623367150364597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Length_(phonetics)</WikiTitle> <WikiTitleID>1755547</WikiTitleID> <RankerScore>0.014623367150364597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gemination</WikiTitle> <WikiTitleID>752720</WikiTitleID> <RankerScore>0.014623367150364597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arc_length</WikiTitle> <WikiTitleID>1898401</WikiTitleID> <RankerScore>0.014623367150364597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bond_length</WikiTitle> <WikiTitleID>2423723</WikiTitleID> <RankerScore>0.014623367150364597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horse_length</WikiTitle> <WikiTitleID>13922564</WikiTitleID> <RankerScore>0.014623367150364597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Debye_length</WikiTitle> <WikiTitleID>1158235</WikiTitleID> <RankerScore>0.014623367150364597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Syllable_weight</WikiTitle> <WikiTitleID>1078447</WikiTitleID> <RankerScore>0.014623367150364597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Planck_length</WikiTitle> <WikiTitleID>748908</WikiTitleID> <RankerScore>0.014623367150364597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orders_of_magnitude_(length)</WikiTitle> <WikiTitleID>203433</WikiTitleID> <RankerScore>0.06543861702764837</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norm_(mathematics)</WikiTitle> <WikiTitleID>990534</WikiTitleID> <RankerScore>0.014623367150364597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>File_size</WikiTitle> <WikiTitleID>2608327</WikiTitleID> <RankerScore>0.014623367150364597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dimension_(mathematics_and_physics)</WikiTitle> <WikiTitleID>8398</WikiTitleID> <RankerScore>0.014623367150364597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Astronomical_system_of_units</WikiTitle> <WikiTitleID>471476</WikiTitleID> <RankerScore>0.014623367150364597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Epiphyseal_plate</WikiTitle> <WikiTitleID>6033118</WikiTitleID> <RankerScore>0.014623367150364597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glossary_of_cricket_terms</WikiTitle> <WikiTitleID>463755</WikiTitleID> <RankerScore>0.014623367150364597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Duration</WikiTitle> <WikiTitleID>164117</WikiTitleID> <RankerScore>0.014623367150364597</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>day</EntitySurfaceForm>
+	<EntityTextStart>25</EntityTextStart>
+	<EntityTextEnd>28</EntityTextEnd>
+	<LinkerScore>1.0769132112508755</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Day</WikiTitle>
+		<WikiTitleID>8376</WikiTitleID>
+		<RankerScore>0.8917036381547059</RankerScore>
+		<Attributes>unit	order</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Day</WikiTitle> <WikiTitleID>8376</WikiTitleID> <RankerScore>0.8917036381547059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_school</WikiTitle> <WikiTitleID>951256</WikiTitleID> <RankerScore>0.0015038779600046765</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daylight</WikiTitle> <WikiTitleID>2301573</WikiTitleID> <RankerScore>0.09618774695608398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>February_8</WikiTitle> <WikiTitleID>11360</WikiTitleID> <RankerScore>8.837280774337963E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Era</WikiTitle> <WikiTitleID>9758</WikiTitleID> <RankerScore>8.837280774337963E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_Roman_Calendar</WikiTitle> <WikiTitleID>4754431</WikiTitleID> <RankerScore>8.837280774337963E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_fighter</WikiTitle> <WikiTitleID>178656</WikiTitleID> <RankerScore>8.837280774337963E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_15</WikiTitle> <WikiTitleID>8145</WikiTitleID> <RankerScore>8.837280774337963E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surface_wave</WikiTitle> <WikiTitleID>41763</WikiTitleID> <RankerScore>8.837280774337963E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calendar_of_saints</WikiTitle> <WikiTitleID>180283</WikiTitleID> <RankerScore>8.837280774337963E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daytime_(astronomy)</WikiTitle> <WikiTitleID>10304194</WikiTitleID> <RankerScore>8.837280774337963E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diurnality</WikiTitle> <WikiTitleID>3104473</WikiTitleID> <RankerScore>8.837280774337963E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Working_time</WikiTitle> <WikiTitleID>552168</WikiTitleID> <RankerScore>8.837280774337963E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_22</WikiTitle> <WikiTitleID>1710</WikiTitleID> <RankerScore>8.837280774337963E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victory_in_Europe_Day</WikiTitle> <WikiTitleID>215257</WikiTitleID> <RankerScore>8.837280774337963E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>length</EntitySurfaceForm>
+	<EntityTextStart>33</EntityTextStart>
+	<EntityTextEnd>39</EntityTextEnd>
+	<LinkerScore>1.3887304728782526</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Length</WikiTitle>
+		<WikiTitleID>18542</WikiTitleID>
+		<RankerScore>0.6510352627662941</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Length</WikiTitle> <WikiTitleID>18542</WikiTitleID> <RankerScore>0.6510352627662941</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vowel_length</WikiTitle> <WikiTitleID>992991</WikiTitleID> <RankerScore>0.025085953935378637</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Line_and_length</WikiTitle> <WikiTitleID>3089705</WikiTitleID> <RankerScore>0.015919538324245447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Length_of_a_module</WikiTitle> <WikiTitleID>816070</WikiTitleID> <RankerScore>0.015919538324245447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Length_(phonetics)</WikiTitle> <WikiTitleID>1755547</WikiTitleID> <RankerScore>0.015919538324245447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gemination</WikiTitle> <WikiTitleID>752720</WikiTitleID> <RankerScore>0.015919538324245447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arc_length</WikiTitle> <WikiTitleID>1898401</WikiTitleID> <RankerScore>0.015919538324245447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bond_length</WikiTitle> <WikiTitleID>2423723</WikiTitleID> <RankerScore>0.015919538324245447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horse_length</WikiTitle> <WikiTitleID>13922564</WikiTitleID> <RankerScore>0.015919538324245447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Debye_length</WikiTitle> <WikiTitleID>1158235</WikiTitleID> <RankerScore>0.015919538324245447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Syllable_weight</WikiTitle> <WikiTitleID>1078447</WikiTitleID> <RankerScore>0.015919538324245447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Planck_length</WikiTitle> <WikiTitleID>748908</WikiTitleID> <RankerScore>0.015919538324245447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orders_of_magnitude_(length)</WikiTitle> <WikiTitleID>203433</WikiTitleID> <RankerScore>0.05324663178615475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norm_(mathematics)</WikiTitle> <WikiTitleID>990534</WikiTitleID> <RankerScore>0.015919538324245447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>File_size</WikiTitle> <WikiTitleID>2608327</WikiTitleID> <RankerScore>0.015919538324245447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dimension_(mathematics_and_physics)</WikiTitle> <WikiTitleID>8398</WikiTitleID> <RankerScore>0.015919538324245447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Astronomical_system_of_units</WikiTitle> <WikiTitleID>471476</WikiTitleID> <RankerScore>0.015919538324245447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Epiphyseal_plate</WikiTitle> <WikiTitleID>6033118</WikiTitleID> <RankerScore>0.015919538324245447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glossary_of_cricket_terms</WikiTitle> <WikiTitleID>463755</WikiTitleID> <RankerScore>0.015919538324245447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Duration</WikiTitle> <WikiTitleID>164117</WikiTitleID> <RankerScore>0.015919538324245447</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>daytime</EntitySurfaceForm>
+	<EntityTextStart>43</EntityTextStart>
+	<EntityTextEnd>50</EntityTextEnd>
+	<LinkerScore>-1.051228130602565</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Daytime_(astronomy)</WikiTitle>
+		<WikiTitleID>10304194</WikiTitleID>
+		<RankerScore>0.6826263704357806</RankerScore>
+		<Attributes>parts</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Daytime_television</WikiTitle> <WikiTitleID>8652009</WikiTitleID> <RankerScore>0.008995397888507601</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daytime_(astronomy)</WikiTitle> <WikiTitleID>10304194</WikiTitleID> <RankerScore>0.6826263704357806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daytime</WikiTitle> <WikiTitleID>7002933</WikiTitleID> <RankerScore>0.002907549979299997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daytime_television_in_the_United_States</WikiTitle> <WikiTitleID>4764948</WikiTitleID> <RankerScore>0.002907549979299997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ABC_Daytime</WikiTitle> <WikiTitleID>8490042</WikiTitleID> <RankerScore>0.002907549979299997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daytime</WikiTitle> <WikiTitleID>8194574</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daylight</WikiTitle> <WikiTitleID>2301573</WikiTitleID> <RankerScore>0.29965558173781176</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>temporal</EntitySurfaceForm>
+	<EntityTextStart>66</EntityTextStart>
+	<EntityTextEnd>74</EntityTextEnd>
+	<LinkerScore>0.8907319841125438</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Time</WikiTitle>
+		<WikiTitleID>30012</WikiTitleID>
+		<RankerScore>0.7589733464656468</RankerScore>
+		<Attributes>concept	quantity</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Temporal</WikiTitle> <WikiTitleID>253844</WikiTitleID> <RankerScore>0.14140000830954513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Time</WikiTitle> <WikiTitleID>30012</WikiTitleID> <RankerScore>0.7589733464656468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Temporal_lobe</WikiTitle> <WikiTitleID>466322</WikiTitleID> <RankerScore>0.014635844782625878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Temporal_logic</WikiTitle> <WikiTitleID>321481</WikiTitleID> <RankerScore>0.012141542920311731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Temporal_bone</WikiTitle> <WikiTitleID>314197</WikiTitleID> <RankerScore>0.012141542920311731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Temporal_power</WikiTitle> <WikiTitleID>92913</WikiTitleID> <RankerScore>0.012141542920311731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Temple_(anatomy)</WikiTitle> <WikiTitleID>2973393</WikiTitleID> <RankerScore>0.012141542920311731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Secularity</WikiTitle> <WikiTitleID>354236</WikiTitleID> <RankerScore>0.012141542920311731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Secularism</WikiTitle> <WikiTitleID>27113</WikiTitleID> <RankerScore>0.012141542920311731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Temporal_case</WikiTitle> <WikiTitleID>1206856</WikiTitleID> <RankerScore>0.012141542920311731</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>length</EntitySurfaceForm>
+	<EntityTextStart>75</EntityTextStart>
+	<EntityTextEnd>81</EntityTextEnd>
+	<LinkerScore>1.90063571978067</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Length</WikiTitle>
+		<WikiTitleID>18542</WikiTitleID>
+		<RankerScore>0.5689246812577485</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Length</WikiTitle> <WikiTitleID>18542</WikiTitleID> <RankerScore>0.5689246812577485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vowel_length</WikiTitle> <WikiTitleID>992991</WikiTitleID> <RankerScore>0.027885264427236735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Line_and_length</WikiTitle> <WikiTitleID>3089705</WikiTitleID> <RankerScore>0.02241178744701636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Length_of_a_module</WikiTitle> <WikiTitleID>816070</WikiTitleID> <RankerScore>0.02218966771573663</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Length_(phonetics)</WikiTitle> <WikiTitleID>1755547</WikiTitleID> <RankerScore>0.02241178744701636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gemination</WikiTitle> <WikiTitleID>752720</WikiTitleID> <RankerScore>0.02241178744701636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arc_length</WikiTitle> <WikiTitleID>1898401</WikiTitleID> <RankerScore>0.02241178744701636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bond_length</WikiTitle> <WikiTitleID>2423723</WikiTitleID> <RankerScore>0.02241178744701636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horse_length</WikiTitle> <WikiTitleID>13922564</WikiTitleID> <RankerScore>0.02241178744701636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Debye_length</WikiTitle> <WikiTitleID>1158235</WikiTitleID> <RankerScore>0.02241178744701636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Syllable_weight</WikiTitle> <WikiTitleID>1078447</WikiTitleID> <RankerScore>0.02241178744701636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Planck_length</WikiTitle> <WikiTitleID>748908</WikiTitleID> <RankerScore>0.02241178744701636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orders_of_magnitude_(length)</WikiTitle> <WikiTitleID>203433</WikiTitleID> <RankerScore>0.02241178744701636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norm_(mathematics)</WikiTitle> <WikiTitleID>990534</WikiTitleID> <RankerScore>0.02241178744701636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>File_size</WikiTitle> <WikiTitleID>2608327</WikiTitleID> <RankerScore>0.02241178744701636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dimension_(mathematics_and_physics)</WikiTitle> <WikiTitleID>8398</WikiTitleID> <RankerScore>0.02241178744701636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Astronomical_system_of_units</WikiTitle> <WikiTitleID>471476</WikiTitleID> <RankerScore>0.02241178744701636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Epiphyseal_plate</WikiTitle> <WikiTitleID>6033118</WikiTitleID> <RankerScore>0.02241178744701636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glossary_of_cricket_terms</WikiTitle> <WikiTitleID>463755</WikiTitleID> <RankerScore>0.02241178744701636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Duration</WikiTitle> <WikiTitleID>164117</WikiTitleID> <RankerScore>0.02241178744701636</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>day</EntitySurfaceForm>
+	<EntityTextStart>87</EntityTextStart>
+	<EntityTextEnd>90</EntityTextEnd>
+	<LinkerScore>-0.2961694989046913</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Day</WikiTitle>
+		<WikiTitleID>8376</WikiTitleID>
+		<RankerScore>0.5703671157576435</RankerScore>
+		<Attributes>unit	order</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Day</WikiTitle> <WikiTitleID>8376</WikiTitleID> <RankerScore>0.5703671157576435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_school</WikiTitle> <WikiTitleID>951256</WikiTitleID> <RankerScore>6.510726055595918E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daylight</WikiTitle> <WikiTitleID>2301573</WikiTitleID> <RankerScore>0.14007341746025004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>February_8</WikiTitle> <WikiTitleID>11360</WikiTitleID> <RankerScore>6.510726055595918E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Era</WikiTitle> <WikiTitleID>9758</WikiTitleID> <RankerScore>6.510726055595918E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_Roman_Calendar</WikiTitle> <WikiTitleID>4754431</WikiTitleID> <RankerScore>6.510726055595918E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_fighter</WikiTitle> <WikiTitleID>178656</WikiTitleID> <RankerScore>6.510726055595918E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_15</WikiTitle> <WikiTitleID>8145</WikiTitleID> <RankerScore>6.510726055595918E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surface_wave</WikiTitle> <WikiTitleID>41763</WikiTitleID> <RankerScore>6.510726055595918E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calendar_of_saints</WikiTitle> <WikiTitleID>180283</WikiTitleID> <RankerScore>6.510726055595918E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daytime_(astronomy)</WikiTitle> <WikiTitleID>10304194</WikiTitleID> <RankerScore>0.28174659551539144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diurnality</WikiTitle> <WikiTitleID>3104473</WikiTitleID> <RankerScore>6.510726055595918E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Working_time</WikiTitle> <WikiTitleID>552168</WikiTitleID> <RankerScore>6.510726055595918E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_22</WikiTitle> <WikiTitleID>1710</WikiTitleID> <RankerScore>6.510726055595918E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victory_in_Europe_Day</WikiTitle> <WikiTitleID>215257</WikiTitleID> <RankerScore>6.510726055595918E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>24</EntitySurfaceForm>
+	<EntityTextStart>95</EntityTextStart>
+	<EntityTextEnd>97</EntityTextEnd>
+	<LinkerScore>2.7897096629748463</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>24_(TV_series)</WikiTitle>
+		<WikiTitleID>68769</WikiTitleID>
+		<RankerScore>0.7990277440184291</RankerScore>
+		<Attributes>program	ending	winner	show</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>24_(TV_series)</WikiTitle> <WikiTitleID>68769</WikiTitleID> <RankerScore>0.7990277440184291</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>24</WikiTitle> <WikiTitleID>35214</WikiTitleID> <RankerScore>0.005517274948869794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>24_(number)</WikiTitle> <WikiTitleID>362201</WikiTitleID> <RankerScore>0.09997865077990574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>August_24</WikiTitle> <WikiTitleID>1629</WikiTitleID> <RankerScore>0.005517274948869794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>June_24</WikiTitle> <WikiTitleID>15812</WikiTitleID> <RankerScore>0.007199931070878689</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Melbourne_tram_route_24</WikiTitle> <WikiTitleID>3739491</WikiTitleID> <RankerScore>0.005517274948869794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>October_24</WikiTitle> <WikiTitleID>22345</WikiTitleID> <RankerScore>0.005517274948869794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_24</WikiTitle> <WikiTitleID>20209</WikiTitleID> <RankerScore>0.005517274948869794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>January_24</WikiTitle> <WikiTitleID>15954</WikiTitleID> <RankerScore>0.005517274948869794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>February_24</WikiTitle> <WikiTitleID>11007</WikiTitleID> <RankerScore>0.005517274948869794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_24</WikiTitle> <WikiTitleID>8359</WikiTitleID> <RankerScore>0.005517274948869794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_24</WikiTitle> <WikiTitleID>19459</WikiTitleID> <RankerScore>0.005517274948869794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>July_24</WikiTitle> <WikiTitleID>15888</WikiTitleID> <RankerScore>0.005517274948869794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>September_24</WikiTitle> <WikiTitleID>28202</WikiTitleID> <RankerScore>0.005517274948869794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>November_24</WikiTitle> <WikiTitleID>21522</WikiTitleID> <RankerScore>0.005517274948869794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1924</WikiTitle> <WikiTitleID>34675</WikiTitleID> <RankerScore>0.005517274948869794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_24</WikiTitle> <WikiTitleID>2734</WikiTitleID> <RankerScore>0.005517274948869794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lotus_24</WikiTitle> <WikiTitleID>16141342</WikiTitleID> <RankerScore>0.005517274948869794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Route_24</WikiTitle> <WikiTitleID>495131</WikiTitleID> <RankerScore>0.005517274948869794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1824</WikiTitle> <WikiTitleID>35521</WikiTitleID> <RankerScore>0.005517274948869794</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>24 hours</EntitySurfaceForm>
+	<EntityTextStart>95</EntityTextStart>
+	<EntityTextEnd>103</EntityTextEnd>
+	<LinkerScore>0.07676563096065481</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>24_Hours</WikiTitle>
+		<WikiTitleID>3578064</WikiTitleID>
+		<RankerScore>0.8486495848043939</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>24_Hours</WikiTitle> <WikiTitleID>3578064</WikiTitleID> <RankerScore>0.8486495848043939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>November_26</WikiTitle> <WikiTitleID>21581</WikiTitleID> <RankerScore>0.07365316814250425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>24-hour_run</WikiTitle> <WikiTitleID>7973295</WikiTitleID> <RankerScore>0.036756302701552016</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>24/7_service</WikiTitle> <WikiTitleID>422855</WikiTitleID> <RankerScore>0.04094094435154982</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hours</EntitySurfaceForm>
+	<EntityTextStart>98</EntityTextStart>
+	<EntityTextEnd>103</EntityTextEnd>
+	<LinkerScore>0.18933754688870408</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hours</WikiTitle>
+		<WikiTitleID>634045</WikiTitleID>
+		<RankerScore>0.7661443178726814</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hours</WikiTitle> <WikiTitleID>634045</WikiTitleID> <RankerScore>0.7661443178726814</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canonical_hours</WikiTitle> <WikiTitleID>203688</WikiTitleID> <RankerScore>0.005431529437297556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Working_time</WikiTitle> <WikiTitleID>552168</WikiTitleID> <RankerScore>0.00799596287051129</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hour</WikiTitle> <WikiTitleID>14004</WikiTitleID> <RankerScore>0.19870207207031948</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hourly_worker</WikiTitle> <WikiTitleID>15586447</WikiTitleID> <RankerScore>0.005431529437297556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Liturgy_of_the_Hours</WikiTitle> <WikiTitleID>1951124</WikiTitleID> <RankerScore>0.005431529437297556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>24-hour_clock</WikiTitle> <WikiTitleID>241342</WikiTitleID> <RankerScore>0.005431529437297556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horae</WikiTitle> <WikiTitleID>80513</WikiTitleID> <RankerScore>0.005431529437297556</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>daylight</EntitySurfaceForm>
+	<EntityTextStart>127</EntityTextStart>
+	<EntityTextEnd>135</EntityTextEnd>
+	<LinkerScore>3.315254276145262</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Daylight</WikiTitle>
+		<WikiTitleID>2301573</WikiTitleID>
+		<RankerScore>0.9847993764570752</RankerScore>
+		<Attributes>parts</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Daylight</WikiTitle> <WikiTitleID>2301573</WikiTitleID> <RankerScore>0.9847993764570752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daylighting_(streams)</WikiTitle> <WikiTitleID>5453466</WikiTitleID> <RankerScore>3.4844764598151794E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sunlight</WikiTitle> <WikiTitleID>27979</WikiTitleID> <RankerScore>0.014852175896943242</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>diffusion</EntitySurfaceForm>
+	<EntityTextStart>150</EntityTextStart>
+	<EntityTextEnd>159</EntityTextEnd>
+	<LinkerScore>3.669276510163683</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Diffusion</WikiTitle>
+		<WikiTitleID>8643</WikiTitleID>
+		<RankerScore>0.7511949248609031</RankerScore>
+		<Attributes>phenomenon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Diffusion</WikiTitle> <WikiTitleID>8643</WikiTitleID> <RankerScore>0.7511949248609031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trans-cultural_diffusion</WikiTitle> <WikiTitleID>994299</WikiTitleID> <RankerScore>0.02322839891018135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Confusion_and_diffusion</WikiTitle> <WikiTitleID>537555</WikiTitleID> <RankerScore>0.019306341161602836</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diffusion_(business)</WikiTitle> <WikiTitleID>242495</WikiTitleID> <RankerScore>0.019306341161602836</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diffusion_equation</WikiTitle> <WikiTitleID>645335</WikiTitleID> <RankerScore>0.013206923451284408</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diffusion_of_innovations</WikiTitle> <WikiTitleID>1123434</WikiTitleID> <RankerScore>0.019306341161602836</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diffusion_process</WikiTitle> <WikiTitleID>1667059</WikiTitleID> <RankerScore>0.019306341161602836</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fick&apos;s_laws_of_diffusion</WikiTitle> <WikiTitleID>11671</WikiTitleID> <RankerScore>0.019306341161602836</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Photon_diffusion</WikiTitle> <WikiTitleID>2684175</WikiTitleID> <RankerScore>0.019306341161602836</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diffuse_reflection</WikiTitle> <WikiTitleID>679294</WikiTitleID> <RankerScore>0.019306341161602836</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diffusion_MRI</WikiTitle> <WikiTitleID>2574377</WikiTitleID> <RankerScore>0.019306341161602836</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atomic_diffusion</WikiTitle> <WikiTitleID>2684031</WikiTitleID> <RankerScore>0.019306341161602836</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dopant</WikiTitle> <WikiTitleID>154535</WikiTitleID> <RankerScore>0.019306341161602836</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diffusion_(acoustics)</WikiTitle> <WikiTitleID>2351897</WikiTitleID> <RankerScore>0.019306341161602836</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>refraction</EntitySurfaceForm>
+	<EntityTextStart>168</EntityTextStart>
+	<EntityTextEnd>178</EntityTextEnd>
+	<LinkerScore>3.151861955428897</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Refraction</WikiTitle>
+		<WikiTitleID>25948</WikiTitleID>
+		<RankerScore>0.992391154361637</RankerScore>
+		<Attributes>optics	concept</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Refraction</WikiTitle> <WikiTitleID>25948</WikiTitleID> <RankerScore>0.992391154361637</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Refractive_error</WikiTitle> <WikiTitleID>866988</WikiTitleID> <RankerScore>5.846301959178238E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Snell&apos;s_law</WikiTitle> <WikiTitleID>42964</WikiTitleID> <RankerScore>4.638842053247723E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seismic_refraction</WikiTitle> <WikiTitleID>962035</WikiTitleID> <RankerScore>5.846301959178238E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atmospheric_refraction</WikiTitle> <WikiTitleID>1784072</WikiTitleID> <RankerScore>0.005975701041202544</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sunlight</EntitySurfaceForm>
+	<EntityTextStart>186</EntityTextStart>
+	<EntityTextEnd>194</EntityTextEnd>
+	<LinkerScore>3.965081983311354</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sunlight</WikiTitle>
+		<WikiTitleID>27979</WikiTitleID>
+		<RankerScore>0.9655737420197299</RankerScore>
+		<Attributes>resource	carcinogen	source</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sunlight</WikiTitle> <WikiTitleID>27979</WikiTitleID> <RankerScore>0.9655737420197299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Solar_energy</WikiTitle> <WikiTitleID>27743</WikiTitleID> <RankerScore>7.561153132224379E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Light</WikiTitle> <WikiTitleID>17939</WikiTitleID> <RankerScore>0.010454235768985394</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electromagnetic_radiation</WikiTitle> <WikiTitleID>9426</WikiTitleID> <RankerScore>7.561153132224379E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun</WikiTitle> <WikiTitleID>26751</WikiTitleID> <RankerScore>0.021703676271617352</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Allegory_of_the_Cave</WikiTitle> <WikiTitleID>89525</WikiTitleID> <RankerScore>7.561153132224379E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>atmosphere</EntitySurfaceForm>
+	<EntityTextStart>206</EntityTextStart>
+	<EntityTextEnd>216</EntityTextEnd>
+	<LinkerScore>-0.028545363429669735</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Atmosphere</WikiTitle>
+		<WikiTitleID>202899</WikiTitleID>
+		<RankerScore>0.46715660312365764</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Atmosphere</WikiTitle> <WikiTitleID>202899</WikiTitleID> <RankerScore>0.46715660312365764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atmosphere_of_Earth</WikiTitle> <WikiTitleID>202898</WikiTitleID> <RankerScore>0.4244812438044021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atmosphere_(unit)</WikiTitle> <WikiTitleID>582780</WikiTitleID> <RankerScore>0.00697650099783003</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atmosphere_of_Mars</WikiTitle> <WikiTitleID>4548379</WikiTitleID> <RankerScore>0.00697650099783003</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stellar_atmosphere</WikiTitle> <WikiTitleID>535458</WikiTitleID> <RankerScore>0.03162064209580991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mood</WikiTitle> <WikiTitleID>2557834</WikiTitleID> <RankerScore>0.00697650099783003</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atmosphere_of_Venus</WikiTitle> <WikiTitleID>6410946</WikiTitleID> <RankerScore>0.00697650099783003</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atmospheric_pressure</WikiTitle> <WikiTitleID>47484</WikiTitleID> <RankerScore>0.00697650099783003</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atmosphere_of_the_Moon</WikiTitle> <WikiTitleID>8955882</WikiTitleID> <RankerScore>0.00697650099783003</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Setting_(narrative)</WikiTitle> <WikiTitleID>3564116</WikiTitleID> <RankerScore>0.00697650099783003</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Setting_tone</WikiTitle> <WikiTitleID>274198</WikiTitleID> <RankerScore>0.00697650099783003</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Air_pollution</WikiTitle> <WikiTitleID>10934212</WikiTitleID> <RankerScore>0.00697650099783003</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mood_(psychology)</WikiTitle> <WikiTitleID>170803</WikiTitleID> <RankerScore>0.00697650099783003</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pascal_(unit)</WikiTitle> <WikiTitleID>66014</WikiTitleID> <RankerScore>0.00697650099783003</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>daylight</EntitySurfaceForm>
+	<EntityTextStart>240</EntityTextStart>
+	<EntityTextEnd>248</EntityTextEnd>
+	<LinkerScore>3.49378804691689</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Daylight</WikiTitle>
+		<WikiTitleID>2301573</WikiTitleID>
+		<RankerScore>0.9871235440305854</RankerScore>
+		<Attributes>parts</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Daylight</WikiTitle> <WikiTitleID>2301573</WikiTitleID> <RankerScore>0.9871235440305854</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daylighting_(streams)</WikiTitle> <WikiTitleID>5453466</WikiTitleID> <RankerScore>3.7181938430881563E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sunlight</WikiTitle> <WikiTitleID>27979</WikiTitleID> <RankerScore>0.012504636585105682</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>horizon</EntitySurfaceForm>
+	<EntityTextStart>297</EntityTextStart>
+	<EntityTextEnd>304</EntityTextEnd>
+	<LinkerScore>4.231096008378244</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Horizon</WikiTitle>
+		<WikiTitleID>48910</WikiTitleID>
+		<RankerScore>0.9997987387763568</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Horizon</WikiTitle> <WikiTitleID>48910</WikiTitleID> <RankerScore>0.9997987387763568</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soil_horizon</WikiTitle> <WikiTitleID>1522331</WikiTitleID> <RankerScore>3.75881470332205E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Archaeological_horizon</WikiTitle> <WikiTitleID>1958743</WikiTitleID> <RankerScore>3.1473783137393206E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Observable_universe</WikiTitle> <WikiTitleID>2848730</WikiTitleID> <RankerScore>3.304982336815946E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horizon_problem</WikiTitle> <WikiTitleID>695215</WikiTitleID> <RankerScore>3.304982336815946E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Observable_universe</WikiTitle> <WikiTitleID>331884</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horizon_effect</WikiTitle> <WikiTitleID>253556</WikiTitleID> <RankerScore>3.304982336815946E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stratum</WikiTitle> <WikiTitleID>554469</WikiTitleID> <RankerScore>3.304982336815946E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the day</EntitySurfaceForm>
+	<EntityTextStart>324</EntityTextStart>
+	<EntityTextEnd>331</EntityTextEnd>
+	<LinkerScore>3.2753247444319418</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>24_(season_5)</WikiTitle>
+		<WikiTitleID>3819091</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>season</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>24_(season_5)</WikiTitle> <WikiTitleID>3819091</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>day length</EntitySurfaceForm>
+	<EntityTextStart>328</EntityTextStart>
+	<EntityTextEnd>338</EntityTextEnd>
+	<LinkerScore>4.275742768535767</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Day_length</WikiTitle>
+		<WikiTitleID>4925093</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>phenomenon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Day_length</WikiTitle> <WikiTitleID>4925093</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>day</EntitySurfaceForm>
+	<EntityTextStart>328</EntityTextStart>
+	<EntityTextEnd>331</EntityTextEnd>
+	<LinkerScore>1.406387437002156</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Day</WikiTitle>
+		<WikiTitleID>8376</WikiTitleID>
+		<RankerScore>0.8882330466065137</RankerScore>
+		<Attributes>unit	order</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Day</WikiTitle> <WikiTitleID>8376</WikiTitleID> <RankerScore>0.8882330466065137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_school</WikiTitle> <WikiTitleID>951256</WikiTitleID> <RankerScore>0.0022522712555538087</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daylight</WikiTitle> <WikiTitleID>2301573</WikiTitleID> <RankerScore>0.09569575801847088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>February_8</WikiTitle> <WikiTitleID>11360</WikiTitleID> <RankerScore>0.001151577009955133</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Era</WikiTitle> <WikiTitleID>9758</WikiTitleID> <RankerScore>0.001151577009955133</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_Roman_Calendar</WikiTitle> <WikiTitleID>4754431</WikiTitleID> <RankerScore>0.001151577009955133</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_fighter</WikiTitle> <WikiTitleID>178656</WikiTitleID> <RankerScore>0.001151577009955133</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_15</WikiTitle> <WikiTitleID>8145</WikiTitleID> <RankerScore>0.001151577009955133</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surface_wave</WikiTitle> <WikiTitleID>41763</WikiTitleID> <RankerScore>0.001151577009955133</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calendar_of_saints</WikiTitle> <WikiTitleID>180283</WikiTitleID> <RankerScore>0.001151577009955133</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daytime_(astronomy)</WikiTitle> <WikiTitleID>10304194</WikiTitleID> <RankerScore>0.001151577009955133</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diurnality</WikiTitle> <WikiTitleID>3104473</WikiTitleID> <RankerScore>0.001151577009955133</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Working_time</WikiTitle> <WikiTitleID>552168</WikiTitleID> <RankerScore>0.001151577009955133</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_22</WikiTitle> <WikiTitleID>1710</WikiTitleID> <RankerScore>0.001151577009955133</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victory_in_Europe_Day</WikiTitle> <WikiTitleID>215257</WikiTitleID> <RankerScore>0.001151577009955133</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>length</EntitySurfaceForm>
+	<EntityTextStart>332</EntityTextStart>
+	<EntityTextEnd>338</EntityTextEnd>
+	<LinkerScore>0.46085573419109027</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Length</WikiTitle>
+		<WikiTitleID>18542</WikiTitleID>
+		<RankerScore>0.436718733436154</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Length</WikiTitle> <WikiTitleID>18542</WikiTitleID> <RankerScore>0.436718733436154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vowel_length</WikiTitle> <WikiTitleID>992991</WikiTitleID> <RankerScore>0.029283260982479666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Line_and_length</WikiTitle> <WikiTitleID>3089705</WikiTitleID> <RankerScore>0.029283260982479666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Length_of_a_module</WikiTitle> <WikiTitleID>816070</WikiTitleID> <RankerScore>0.03535174480217466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Length_(phonetics)</WikiTitle> <WikiTitleID>1755547</WikiTitleID> <RankerScore>0.029283260982479666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gemination</WikiTitle> <WikiTitleID>752720</WikiTitleID> <RankerScore>0.029283260982479666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arc_length</WikiTitle> <WikiTitleID>1898401</WikiTitleID> <RankerScore>0.030114085059517008</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bond_length</WikiTitle> <WikiTitleID>2423723</WikiTitleID> <RankerScore>0.029283260982479666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horse_length</WikiTitle> <WikiTitleID>13922564</WikiTitleID> <RankerScore>0.029283260982479666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Debye_length</WikiTitle> <WikiTitleID>1158235</WikiTitleID> <RankerScore>0.029283260982479666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Syllable_weight</WikiTitle> <WikiTitleID>1078447</WikiTitleID> <RankerScore>0.029283260982479666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Planck_length</WikiTitle> <WikiTitleID>748908</WikiTitleID> <RankerScore>0.029283260982479666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orders_of_magnitude_(length)</WikiTitle> <WikiTitleID>203433</WikiTitleID> <RankerScore>0.029283260982479666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norm_(mathematics)</WikiTitle> <WikiTitleID>990534</WikiTitleID> <RankerScore>0.029283260982479666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>File_size</WikiTitle> <WikiTitleID>2608327</WikiTitleID> <RankerScore>0.029283260982479666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dimension_(mathematics_and_physics)</WikiTitle> <WikiTitleID>8398</WikiTitleID> <RankerScore>0.029283260982479666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Astronomical_system_of_units</WikiTitle> <WikiTitleID>471476</WikiTitleID> <RankerScore>0.029283260982479666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Epiphyseal_plate</WikiTitle> <WikiTitleID>6033118</WikiTitleID> <RankerScore>0.029283260982479666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glossary_of_cricket_terms</WikiTitle> <WikiTitleID>463755</WikiTitleID> <RankerScore>0.029283260982479666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Duration</WikiTitle> <WikiTitleID>164117</WikiTitleID> <RankerScore>0.029283260982479666</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>computed</EntitySurfaceForm>
+	<EntityTextStart>346</EntityTextStart>
+	<EntityTextEnd>354</EntityTextEnd>
+	<LinkerScore>-0.936784555133578</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Computer_simulation</WikiTitle>
+		<WikiTitleID>375416</WikiTitleID>
+		<RankerScore>0.4519468500419417</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Computation</WikiTitle> <WikiTitleID>5926</WikiTitleID> <RankerScore>0.3745290582753796</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_simulation</WikiTitle> <WikiTitleID>375416</WikiTitleID> <RankerScore>0.4519468500419417</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computable_number</WikiTitle> <WikiTitleID>6206</WikiTitleID> <RankerScore>0.17352409168267868</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>moment</EntitySurfaceForm>
+	<EntityTextStart>364</EntityTextStart>
+	<EntityTextEnd>370</EntityTextEnd>
+	<LinkerScore>0.04403871854119101</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moment_(physics)</WikiTitle>
+		<WikiTitleID>278366</WikiTitleID>
+		<RankerScore>0.6214365765393084</RankerScore>
+		<Attributes>quantity</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moment_(physics)</WikiTitle> <WikiTitleID>278366</WikiTitleID> <RankerScore>0.6214365765393084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moment_(mathematics)</WikiTitle> <WikiTitleID>368684</WikiTitleID> <RankerScore>0.12902991063890645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moment</WikiTitle> <WikiTitleID>413973</WikiTitleID> <RankerScore>0.03582061725910686</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Magnetic_moment</WikiTitle> <WikiTitleID>540979</WikiTitleID> <RankerScore>0.03582061725910686</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moment_of_inertia</WikiTitle> <WikiTitleID>157700</WikiTitleID> <RankerScore>0.07043042652625095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electric_dipole_moment</WikiTitle> <WikiTitleID>986025</WikiTitleID> <RankerScore>0.03582061725910686</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moment_of_silence</WikiTitle> <WikiTitleID>244074</WikiTitleID> <RankerScore>0.03582061725910686</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moment_(time)</WikiTitle> <WikiTitleID>13699607</WikiTitleID> <RankerScore>0.03582061725910686</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>upper limb</EntitySurfaceForm>
+	<EntityTextStart>375</EntityTextStart>
+	<EntityTextEnd>385</EntityTextEnd>
+	<LinkerScore>4.055311610898058</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Upper_limb</WikiTitle>
+		<WikiTitleID>674200</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Upper_limb</WikiTitle> <WikiTitleID>674200</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>upper</EntitySurfaceForm>
+	<EntityTextStart>375</EntityTextStart>
+	<EntityTextEnd>380</EntityTextEnd>
+	<LinkerScore>-2.495672349099861</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Upper_house</WikiTitle>
+		<WikiTitleID>538644</WikiTitleID>
+		<RankerScore>0.07569085150066018</RankerScore>
+		<Attributes>legislature</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Upper_house</WikiTitle> <WikiTitleID>538644</WikiTitleID> <RankerScore>0.07569085150066018</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_class</WikiTitle> <WikiTitleID>454164</WikiTitleID> <RankerScore>0.07079877916367046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Senate_of_the_Republic_(Mexico)</WikiTitle> <WikiTitleID>441453</WikiTitleID> <RankerScore>0.044729957517852866</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Letter_case</WikiTitle> <WikiTitleID>73468</WikiTitleID> <RankerScore>0.0475753183422245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_gastrointestinal_bleeding</WikiTitle> <WikiTitleID>540100</WikiTitleID> <RankerScore>0.0475753183422245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_motor_neuron</WikiTitle> <WikiTitleID>1880464</WikiTitleID> <RankerScore>0.0475753183422245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Councillors</WikiTitle> <WikiTitleID>217779</WikiTitleID> <RankerScore>0.0475753183422245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Late_Imbrian</WikiTitle> <WikiTitleID>400028</WikiTitleID> <RankerScore>0.0475753183422245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_Egypt</WikiTitle> <WikiTitleID>234081</WikiTitleID> <RankerScore>0.0475753183422245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lorraine_(duchy)</WikiTitle> <WikiTitleID>49149</WikiTitleID> <RankerScore>0.0475753183422245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Social_class</WikiTitle> <WikiTitleID>29174</WikiTitleID> <RankerScore>0.0475753183422245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_Peninsula_of_Michigan</WikiTitle> <WikiTitleID>32117</WikiTitleID> <RankerScore>0.0475753183422245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_Manhattan</WikiTitle> <WikiTitleID>1189164</WikiTitleID> <RankerScore>0.0475753183422245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_limb</WikiTitle> <WikiTitleID>674200</WikiTitleID> <RankerScore>0.0475753183422245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_set</WikiTitle> <WikiTitleID>2903994</WikiTitleID> <RankerScore>0.0475753183422245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper</WikiTitle> <WikiTitleID>1375819</WikiTitleID> <RankerScore>0.0475753183422245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Representatives_(Netherlands)</WikiTitle> <WikiTitleID>155519</WikiTitleID> <RankerScore>0.0475753183422245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_school</WikiTitle> <WikiTitleID>918856</WikiTitleID> <RankerScore>0.0475753183422245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_and_lower_bounds</WikiTitle> <WikiTitleID>42693</WikiTitleID> <RankerScore>0.0475753183422245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_respiratory_tract_infection</WikiTitle> <WikiTitleID>613640</WikiTitleID> <RankerScore>0.0475753183422245</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>limb</EntitySurfaceForm>
+	<EntityTextStart>381</EntityTextStart>
+	<EntityTextEnd>385</EntityTextEnd>
+	<LinkerScore>2.223392786393305</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Limb_(anatomy)</WikiTitle>
+		<WikiTitleID>13280372</WikiTitleID>
+		<RankerScore>0.8838037337691298</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Limb_(anatomy)</WikiTitle> <WikiTitleID>13280372</WikiTitleID> <RankerScore>0.8838037337691298</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Limb</WikiTitle> <WikiTitleID>166923</WikiTitleID> <RankerScore>0.02947752268040723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Limb_darkening</WikiTitle> <WikiTitleID>1225755</WikiTitleID> <RankerScore>0.07330643730099919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Branch</WikiTitle> <WikiTitleID>40814</WikiTitleID> <RankerScore>0.0067061531247318285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Penis</WikiTitle> <WikiTitleID>17322701</WikiTitleID> <RankerScore>0.0067061531247318285</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>disk</EntitySurfaceForm>
+	<EntityTextStart>403</EntityTextStart>
+	<EntityTextEnd>407</EntityTextEnd>
+	<LinkerScore>0.8861984660862771</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Disk_(mathematics)</WikiTitle>
+		<WikiTitleID>329542</WikiTitleID>
+		<RankerScore>0.15356211739775869</RankerScore>
+		<Attributes>body</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Disk_(mathematics)</WikiTitle> <WikiTitleID>329542</WikiTitleID> <RankerScore>0.15356211739775869</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hard_disk_drive</WikiTitle> <WikiTitleID>13777</WikiTitleID> <RankerScore>0.06236001697207834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Disk_storage</WikiTitle> <WikiTitleID>8472</WikiTitleID> <RankerScore>0.05574092243927672</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Floppy_disk</WikiTitle> <WikiTitleID>10891</WikiTitleID> <RankerScore>0.0428433495994639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Disc_(galaxy)</WikiTitle> <WikiTitleID>2269396</WikiTitleID> <RankerScore>0.0428433495994639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Disc</WikiTitle> <WikiTitleID>173735</WikiTitleID> <RankerScore>0.0428433495994639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Accretion_disc</WikiTitle> <WikiTitleID>101830</WikiTitleID> <RankerScore>0.0428433495994639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_data_storage</WikiTitle> <WikiTitleID>5300</WikiTitleID> <RankerScore>0.0428433495994639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intervertebral_disc</WikiTitle> <WikiTitleID>210269</WikiTitleID> <RankerScore>0.0428433495994639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Unit_disk</WikiTitle> <WikiTitleID>252738</WikiTitleID> <RankerScore>0.0428433495994639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Disc_brake</WikiTitle> <WikiTitleID>59597</WikiTitleID> <RankerScore>0.0428433495994639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Harrow_(tool)</WikiTitle> <WikiTitleID>163711</WikiTitleID> <RankerScore>0.0428433495994639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Secchi_disk</WikiTitle> <WikiTitleID>291062</WikiTitleID> <RankerScore>0.0428433495994639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Active_galactic_nucleus</WikiTitle> <WikiTitleID>177092</WikiTitleID> <RankerScore>0.0428433495994639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Family_Computer_Disk_System</WikiTitle> <WikiTitleID>163805</WikiTitleID> <RankerScore>0.0428433495994639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Poincaré_disk_model</WikiTitle> <WikiTitleID>1397935</WikiTitleID> <RankerScore>0.0428433495994639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LP_record</WikiTitle> <WikiTitleID>8975473</WikiTitleID> <RankerScore>0.0428433495994639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Compact_disc</WikiTitle> <WikiTitleID>6429</WikiTitleID> <RankerScore>0.0428433495994639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ball_(mathematics)</WikiTitle> <WikiTitleID>160556</WikiTitleID> <RankerScore>0.0428433495994639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_disc</WikiTitle> <WikiTitleID>41458</WikiTitleID> <RankerScore>0.0428433495994639</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>horizon</EntitySurfaceForm>
+	<EntityTextStart>425</EntityTextStart>
+	<EntityTextEnd>432</EntityTextEnd>
+	<LinkerScore>4.60325142193838</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Horizon</WikiTitle>
+		<WikiTitleID>48910</WikiTitleID>
+		<RankerScore>0.9999437785767072</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Horizon</WikiTitle> <WikiTitleID>48910</WikiTitleID> <RankerScore>0.9999437785767072</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soil_horizon</WikiTitle> <WikiTitleID>1522331</WikiTitleID> <RankerScore>1.3707245362061499E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Archaeological_horizon</WikiTitle> <WikiTitleID>1958743</WikiTitleID> <RankerScore>8.847753269033446E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Observable_universe</WikiTitle> <WikiTitleID>2848730</WikiTitleID> <RankerScore>8.416606165429107E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horizon_problem</WikiTitle> <WikiTitleID>695215</WikiTitleID> <RankerScore>8.416606165429107E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Observable_universe</WikiTitle> <WikiTitleID>331884</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horizon_effect</WikiTitle> <WikiTitleID>253556</WikiTitleID> <RankerScore>8.416606165429107E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stratum</WikiTitle> <WikiTitleID>554469</WikiTitleID> <RankerScore>8.416606165429107E-6</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sunrise</EntitySurfaceForm>
+	<EntityTextStart>444</EntityTextStart>
+	<EntityTextEnd>451</EntityTextEnd>
+	<LinkerScore>4.805288086955808</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sunrise</WikiTitle>
+		<WikiTitleID>190919</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>phenomenon	parts</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sunrise</WikiTitle> <WikiTitleID>190919</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>moment</EntitySurfaceForm>
+	<EntityTextStart>461</EntityTextStart>
+	<EntityTextEnd>467</EntityTextEnd>
+	<LinkerScore>0.22776957687851018</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moment_(physics)</WikiTitle>
+		<WikiTitleID>278366</WikiTitleID>
+		<RankerScore>0.61247409249503</RankerScore>
+		<Attributes>quantity</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moment_(physics)</WikiTitle> <WikiTitleID>278366</WikiTitleID> <RankerScore>0.61247409249503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moment_(mathematics)</WikiTitle> <WikiTitleID>368684</WikiTitleID> <RankerScore>0.12308890725670138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moment</WikiTitle> <WikiTitleID>413973</WikiTitleID> <RankerScore>0.0924942509916694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Magnetic_moment</WikiTitle> <WikiTitleID>540979</WikiTitleID> <RankerScore>0.034388549851319825</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moment_of_inertia</WikiTitle> <WikiTitleID>157700</WikiTitleID> <RankerScore>0.034388549851319825</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electric_dipole_moment</WikiTitle> <WikiTitleID>986025</WikiTitleID> <RankerScore>0.034388549851319825</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moment_of_silence</WikiTitle> <WikiTitleID>244074</WikiTitleID> <RankerScore>0.034388549851319825</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moment_(time)</WikiTitle> <WikiTitleID>13699607</WikiTitleID> <RankerScore>0.034388549851319825</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>upper limb</EntitySurfaceForm>
+	<EntityTextStart>477</EntityTextStart>
+	<EntityTextEnd>487</EntityTextEnd>
+	<LinkerScore>4.0680216900105455</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Upper_limb</WikiTitle>
+		<WikiTitleID>674200</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Upper_limb</WikiTitle> <WikiTitleID>674200</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>upper</EntitySurfaceForm>
+	<EntityTextStart>477</EntityTextStart>
+	<EntityTextEnd>482</EntityTextEnd>
+	<LinkerScore>-2.5239509106226463</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Upper_house</WikiTitle>
+		<WikiTitleID>538644</WikiTitleID>
+		<RankerScore>0.07506931611505777</RankerScore>
+		<Attributes>legislature</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Upper_house</WikiTitle> <WikiTitleID>538644</WikiTitleID> <RankerScore>0.07506931611505777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_class</WikiTitle> <WikiTitleID>454164</WikiTitleID> <RankerScore>0.07341238721240509</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Senate_of_the_Republic_(Mexico)</WikiTitle> <WikiTitleID>441453</WikiTitleID> <RankerScore>0.044964184408977925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Letter_case</WikiTitle> <WikiTitleID>73468</WikiTitleID> <RankerScore>0.04744435954491524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_gastrointestinal_bleeding</WikiTitle> <WikiTitleID>540100</WikiTitleID> <RankerScore>0.04744435954491524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_motor_neuron</WikiTitle> <WikiTitleID>1880464</WikiTitleID> <RankerScore>0.04744435954491524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Councillors</WikiTitle> <WikiTitleID>217779</WikiTitleID> <RankerScore>0.04744435954491524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Late_Imbrian</WikiTitle> <WikiTitleID>400028</WikiTitleID> <RankerScore>0.04744435954491524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_Egypt</WikiTitle> <WikiTitleID>234081</WikiTitleID> <RankerScore>0.04744435954491524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lorraine_(duchy)</WikiTitle> <WikiTitleID>49149</WikiTitleID> <RankerScore>0.04744435954491524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Social_class</WikiTitle> <WikiTitleID>29174</WikiTitleID> <RankerScore>0.04744435954491524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_Peninsula_of_Michigan</WikiTitle> <WikiTitleID>32117</WikiTitleID> <RankerScore>0.04744435954491524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_Manhattan</WikiTitle> <WikiTitleID>1189164</WikiTitleID> <RankerScore>0.04744435954491524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_limb</WikiTitle> <WikiTitleID>674200</WikiTitleID> <RankerScore>0.04744435954491524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_set</WikiTitle> <WikiTitleID>2903994</WikiTitleID> <RankerScore>0.04744435954491524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper</WikiTitle> <WikiTitleID>1375819</WikiTitleID> <RankerScore>0.04744435954491524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Representatives_(Netherlands)</WikiTitle> <WikiTitleID>155519</WikiTitleID> <RankerScore>0.04744435954491524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_school</WikiTitle> <WikiTitleID>918856</WikiTitleID> <RankerScore>0.04744435954491524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_and_lower_bounds</WikiTitle> <WikiTitleID>42693</WikiTitleID> <RankerScore>0.04744435954491524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_respiratory_tract_infection</WikiTitle> <WikiTitleID>613640</WikiTitleID> <RankerScore>0.04744435954491524</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>limb</EntitySurfaceForm>
+	<EntityTextStart>483</EntityTextStart>
+	<EntityTextEnd>487</EntityTextEnd>
+	<LinkerScore>1.6911318496545797</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Limb_(anatomy)</WikiTitle>
+		<WikiTitleID>13280372</WikiTitleID>
+		<RankerScore>0.9229305763263598</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Limb_(anatomy)</WikiTitle> <WikiTitleID>13280372</WikiTitleID> <RankerScore>0.9229305763263598</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Limb</WikiTitle> <WikiTitleID>166923</WikiTitleID> <RankerScore>0.036628386611793504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Limb_darkening</WikiTitle> <WikiTitleID>1225755</WikiTitleID> <RankerScore>0.028222201614269145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Branch</WikiTitle> <WikiTitleID>40814</WikiTitleID> <RankerScore>0.006109417723788809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Penis</WikiTitle> <WikiTitleID>17322701</WikiTitleID> <RankerScore>0.006109417723788809</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>horizon</EntitySurfaceForm>
+	<EntityTextStart>508</EntityTextStart>
+	<EntityTextEnd>515</EntityTextEnd>
+	<LinkerScore>4.471235279412277</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Horizon</WikiTitle>
+		<WikiTitleID>48910</WikiTitleID>
+		<RankerScore>0.9998148540345113</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Horizon</WikiTitle> <WikiTitleID>48910</WikiTitleID> <RankerScore>0.9998148540345113</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soil_horizon</WikiTitle> <WikiTitleID>1522331</WikiTitleID> <RankerScore>4.148102491741891E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Archaeological_horizon</WikiTitle> <WikiTitleID>1958743</WikiTitleID> <RankerScore>2.9140311718904004E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Observable_universe</WikiTitle> <WikiTitleID>2848730</WikiTitleID> <RankerScore>2.8631157213058304E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horizon_problem</WikiTitle> <WikiTitleID>695215</WikiTitleID> <RankerScore>2.8631157213058304E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Observable_universe</WikiTitle> <WikiTitleID>331884</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horizon_effect</WikiTitle> <WikiTitleID>253556</WikiTitleID> <RankerScore>2.8631157213058304E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stratum</WikiTitle> <WikiTitleID>554469</WikiTitleID> <RankerScore>2.8631157213058304E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sunset</EntitySurfaceForm>
+	<EntityTextStart>527</EntityTextStart>
+	<EntityTextEnd>533</EntityTextEnd>
+	<LinkerScore>4.655246992597887</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sunset</WikiTitle>
+		<WikiTitleID>190933</WikiTitleID>
+		<RankerScore>0.9999388113843792</RankerScore>
+		<Attributes>parts	phenomenon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sunset</WikiTitle> <WikiTitleID>190933</WikiTitleID> <RankerScore>0.9999388113843792</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sunset_provision</WikiTitle> <WikiTitleID>880045</WikiTitleID> <RankerScore>6.118861562073318E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>More</EntitySurfaceForm>
+	<EntityTextStart>538</EntityTextStart>
+	<EntityTextEnd>542</EntityTextEnd>
+	<LinkerScore>-2.3356555888937844</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>More</WikiTitle>
+		<WikiTitleID>734419</WikiTitleID>
+		<RankerScore>0.14004260806193167</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>More</WikiTitle> <WikiTitleID>43850</WikiTitleID> <RankerScore>1.0139082330003264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More</WikiTitle> <WikiTitleID>734419</WikiTitleID> <RankerScore>0.14004260806193167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More_(Theme_from_Mondo_Cane)</WikiTitle> <WikiTitleID>2026543</WikiTitleID> <RankerScore>0.1383459360820013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thomas_More</WikiTitle> <WikiTitleID>30479</WikiTitleID> <RankerScore>0.042447732697415703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More_(magazine)</WikiTitle> <WikiTitleID>12680673</WikiTitleID> <RankerScore>0.042447732697415703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More_(1998_film)</WikiTitle> <WikiTitleID>1446852</WikiTitleID> <RankerScore>0.042447732697415703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More_(Tamia_album)</WikiTitle> <WikiTitleID>7606711</WikiTitleID> <RankerScore>0.042447732697415703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mossi_language</WikiTitle> <WikiTitleID>771783</WikiTitleID> <RankerScore>0.042447732697415703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More_(cigarette)</WikiTitle> <WikiTitleID>5892113</WikiTitleID> <RankerScore>0.042447732697415703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More_(1956_song)</WikiTitle> <WikiTitleID>2026480</WikiTitleID> <RankerScore>0.042447732697415703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More_(Punk_magazine_from_Belgium)</WikiTitle> <WikiTitleID>2444793</WikiTitleID> <RankerScore>0.042447732697415703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More_(British_band)</WikiTitle> <WikiTitleID>6185440</WikiTitleID> <RankerScore>0.042447732697415703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More_(Vitamin_C_album)</WikiTitle> <WikiTitleID>5512404</WikiTitleID> <RankerScore>0.042447732697415703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More_EP</WikiTitle> <WikiTitleID>13161691</WikiTitleID> <RankerScore>0.042447732697415703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_registered_political_parties_in_Tarragona</WikiTitle> <WikiTitleID>8952806</WikiTitleID> <RankerScore>0.042447732697415703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_registered_political_parties_in_Barcelona</WikiTitle> <WikiTitleID>8952719</WikiTitleID> <RankerScore>0.042447732697415703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_registered_political_parties_in_Zaragoza</WikiTitle> <WikiTitleID>8953342</WikiTitleID> <RankerScore>0.042447732697415703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reason_(Shaman_album)</WikiTitle> <WikiTitleID>3596641</WikiTitleID> <RankerScore>0.042447732697415703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_registered_political_parties_in_Madrid</WikiTitle> <WikiTitleID>8952441</WikiTitleID> <RankerScore>0.042447732697415703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_registered_political_parties_in_Asturias</WikiTitle> <WikiTitleID>8953211</WikiTitleID> <RankerScore>0.042447732697415703</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>conveniently</EntitySurfaceForm>
+	<EntityTextStart>543</EntityTextStart>
+	<EntityTextEnd>555</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Convenience</WikiTitle>
+		<WikiTitleID>1033177</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the center</EntitySurfaceForm>
+	<EntityTextStart>566</EntityTextStart>
+	<EntityTextEnd>576</EntityTextEnd>
+	<LinkerScore>2.3158347919979367</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Kabul</WikiTitle>
+		<WikiTitleID>16826</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>place	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Kabul</WikiTitle> <WikiTitleID>16826</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>center</EntitySurfaceForm>
+	<EntityTextStart>570</EntityTextStart>
+	<EntityTextEnd>576</EntityTextEnd>
+	<LinkerScore>-1.233853710507661</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Center_(basketball)</WikiTitle>
+		<WikiTitleID>652569</WikiTitleID>
+		<RankerScore>0.25963756203053484</RankerScore>
+		<Attributes>center	position</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Center_(basketball)</WikiTitle> <WikiTitleID>652569</WikiTitleID> <RankerScore>0.25963756203053484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Center_(American_and_Canadian_football)</WikiTitle> <WikiTitleID>2321562</WikiTitleID> <RankerScore>0.15147048593543416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Centre_(ice_hockey)</WikiTitle> <WikiTitleID>567643</WikiTitleID> <RankerScore>0.029934936094440277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Center_(group_theory)</WikiTitle> <WikiTitleID>7125</WikiTitleID> <RankerScore>0.07999803842854622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Center_fielder</WikiTitle> <WikiTitleID>583923</WikiTitleID> <RankerScore>0.029934936094440277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Center_(algebra)</WikiTitle> <WikiTitleID>342453</WikiTitleID> <RankerScore>0.029934936094440277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Centrism</WikiTitle> <WikiTitleID>506651</WikiTitleID> <RankerScore>0.029934936094440277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Centre_(geometry)</WikiTitle> <WikiTitleID>4850775</WikiTitleID> <RankerScore>0.029934936094440277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Center</WikiTitle> <WikiTitleID>39391</WikiTitleID> <RankerScore>0.029934936094440277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Center_of_mass</WikiTitle> <WikiTitleID>173961</WikiTitleID> <RankerScore>0.029934936094440277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Galactic_Center</WikiTitle> <WikiTitleID>373352</WikiTitleID> <RankerScore>0.029934936094440277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lathe_center</WikiTitle> <WikiTitleID>2549545</WikiTitleID> <RankerScore>0.029934936094440277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Liberalism</WikiTitle> <WikiTitleID>17738</WikiTitleID> <RankerScore>0.029934936094440277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_football_positions</WikiTitle> <WikiTitleID>4009259</WikiTitleID> <RankerScore>0.029934936094440277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Centro_Region,_Portugal</WikiTitle> <WikiTitleID>2369085</WikiTitleID> <RankerScore>0.029934936094440277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Power_forward_(basketball)</WikiTitle> <WikiTitleID>284482</WikiTitleID> <RankerScore>0.029934936094440277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plymouth_Center,_Massachusetts</WikiTitle> <WikiTitleID>259485</WikiTitleID> <RankerScore>0.029934936094440277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_union_positions</WikiTitle> <WikiTitleID>771803</WikiTitleID> <RankerScore>0.029934936094440277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tonic_(music)</WikiTitle> <WikiTitleID>43191</WikiTitleID> <RankerScore>0.029934936094440277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lviv</WikiTitle> <WikiTitleID>49968</WikiTitleID> <RankerScore>0.029934936094440277</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the sun</EntitySurfaceForm>
+	<EntityTextStart>580</EntityTextStart>
+	<EntityTextEnd>587</EntityTextEnd>
+	<LinkerScore>3.5298287081160464</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Solar_deity</WikiTitle>
+		<WikiTitleID>27560</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>deity</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Solar_deity</WikiTitle> <WikiTitleID>27560</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sun</EntitySurfaceForm>
+	<EntityTextStart>584</EntityTextStart>
+	<EntityTextEnd>587</EntityTextEnd>
+	<LinkerScore>4.859564159540096</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sun</WikiTitle>
+		<WikiTitleID>26751</WikiTitleID>
+		<RankerScore>0.9792111132968356</RankerScore>
+		<Attributes>mission	star	source</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sun</WikiTitle> <WikiTitleID>26751</WikiTitleID> <RankerScore>0.9792111132968356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Star</WikiTitle> <WikiTitleID>26808</WikiTitleID> <RankerScore>0.004394391879211562</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun_(astrology)</WikiTitle> <WikiTitleID>2386809</WikiTitleID> <RankerScore>0.0012089933156168426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Solar_deity</WikiTitle> <WikiTitleID>27560</WikiTitleID> <RankerScore>0.0015185501508335924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cun_(unit)</WikiTitle> <WikiTitleID>3090255</WikiTitleID> <RankerScore>0.0015185501508335924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Solar_energy</WikiTitle> <WikiTitleID>27743</WikiTitleID> <RankerScore>0.0015185501508335924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sol</WikiTitle> <WikiTitleID>3341630</WikiTitleID> <RankerScore>0.0015185501508335924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Epsilon_Eridani</WikiTitle> <WikiTitleID>167664</WikiTitleID> <RankerScore>0.0015185501508335924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Star_system</WikiTitle> <WikiTitleID>240963</WikiTitleID> <RankerScore>0.0015185501508335924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sunlight</WikiTitle> <WikiTitleID>27979</WikiTitleID> <RankerScore>0.0015185501508335924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ultraviolet</WikiTitle> <WikiTitleID>31990</WikiTitleID> <RankerScore>0.0015185501508335924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ādityas</WikiTitle> <WikiTitleID>17667063</WikiTitleID> <RankerScore>0.0015185501508335924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Helios</WikiTitle> <WikiTitleID>67230</WikiTitleID> <RankerScore>0.0015185501508335924</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>place</EntitySurfaceForm>
+	<EntityTextStart>605</EntityTextStart>
+	<EntityTextEnd>610</EntityTextEnd>
+	<LinkerScore>0.04645413475495286</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Place</WikiTitle>
+		<WikiTitleID>586851</WikiTitleID>
+		<RankerScore>0.42530880134649063</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Place</WikiTitle> <WikiTitleID>586851</WikiTitleID> <RankerScore>0.42530880134649063</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Location_(geography)</WikiTitle> <WikiTitleID>2393292</WikiTitleID> <RankerScore>0.04985243489560017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Place_of_articulation</WikiTitle> <WikiTitleID>24021</WikiTitleID> <RankerScore>0.04149938068695139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Placement_(EDA)</WikiTitle> <WikiTitleID>3473557</WikiTitleID> <RankerScore>0.04149938068695139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Toponymy</WikiTitle> <WikiTitleID>144869</WikiTitleID> <RankerScore>0.04149938068695139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sense_of_place</WikiTitle> <WikiTitleID>3860688</WikiTitleID> <RankerScore>0.04149938068695139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Place_(United_States_Census_Bureau)</WikiTitle> <WikiTitleID>10389034</WikiTitleID> <RankerScore>0.04149938068695139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Valuation_(algebra)</WikiTitle> <WikiTitleID>347049</WikiTitleID> <RankerScore>0.04149938068695139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Distribution_(business)</WikiTitle> <WikiTitleID>239863</WikiTitleID> <RankerScore>0.04149938068695139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Place_identity</WikiTitle> <WikiTitleID>10943769</WikiTitleID> <RankerScore>0.04149938068695139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Distance</WikiTitle> <WikiTitleID>39378</WikiTitleID> <RankerScore>0.026846195514492542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Páez</WikiTitle> <WikiTitleID>3051658</WikiTitleID> <RankerScore>0.04149938068695139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Digit</WikiTitle> <WikiTitleID>9041</WikiTitleID> <RankerScore>0.04149938068695139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Expedition_to_the_Barrier_Peaks</WikiTitle> <WikiTitleID>520349</WikiTitleID> <RankerScore>0.04149938068695139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_places_in_Hong_Kong</WikiTitle> <WikiTitleID>369991</WikiTitleID> <RankerScore>0.04149938068695139</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>upper limb</EntitySurfaceForm>
+	<EntityTextStart>618</EntityTextStart>
+	<EntityTextEnd>628</EntityTextEnd>
+	<LinkerScore>4.036034047816915</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Upper_limb</WikiTitle>
+		<WikiTitleID>674200</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Upper_limb</WikiTitle> <WikiTitleID>674200</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>upper</EntitySurfaceForm>
+	<EntityTextStart>618</EntityTextStart>
+	<EntityTextEnd>623</EntityTextEnd>
+	<LinkerScore>-2.5018703683901378</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Upper_house</WikiTitle>
+		<WikiTitleID>538644</WikiTitleID>
+		<RankerScore>0.07567681449935335</RankerScore>
+		<Attributes>legislature</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Upper_house</WikiTitle> <WikiTitleID>538644</WikiTitleID> <RankerScore>0.07567681449935335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_class</WikiTitle> <WikiTitleID>454164</WikiTitleID> <RankerScore>0.07116411761058111</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Senate_of_the_Republic_(Mexico)</WikiTitle> <WikiTitleID>441453</WikiTitleID> <RankerScore>0.04467840594670244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Letter_case</WikiTitle> <WikiTitleID>73468</WikiTitleID> <RankerScore>0.047557685996668424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_gastrointestinal_bleeding</WikiTitle> <WikiTitleID>540100</WikiTitleID> <RankerScore>0.047557685996668424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_motor_neuron</WikiTitle> <WikiTitleID>1880464</WikiTitleID> <RankerScore>0.047557685996668424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Councillors</WikiTitle> <WikiTitleID>217779</WikiTitleID> <RankerScore>0.047557685996668424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Late_Imbrian</WikiTitle> <WikiTitleID>400028</WikiTitleID> <RankerScore>0.047557685996668424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_Egypt</WikiTitle> <WikiTitleID>234081</WikiTitleID> <RankerScore>0.047557685996668424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lorraine_(duchy)</WikiTitle> <WikiTitleID>49149</WikiTitleID> <RankerScore>0.047557685996668424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Social_class</WikiTitle> <WikiTitleID>29174</WikiTitleID> <RankerScore>0.047557685996668424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_Peninsula_of_Michigan</WikiTitle> <WikiTitleID>32117</WikiTitleID> <RankerScore>0.047557685996668424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_Manhattan</WikiTitle> <WikiTitleID>1189164</WikiTitleID> <RankerScore>0.047557685996668424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_limb</WikiTitle> <WikiTitleID>674200</WikiTitleID> <RankerScore>0.047557685996668424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_set</WikiTitle> <WikiTitleID>2903994</WikiTitleID> <RankerScore>0.047557685996668424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper</WikiTitle> <WikiTitleID>1375819</WikiTitleID> <RankerScore>0.047557685996668424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Representatives_(Netherlands)</WikiTitle> <WikiTitleID>155519</WikiTitleID> <RankerScore>0.047557685996668424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_school</WikiTitle> <WikiTitleID>918856</WikiTitleID> <RankerScore>0.047557685996668424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_and_lower_bounds</WikiTitle> <WikiTitleID>42693</WikiTitleID> <RankerScore>0.047557685996668424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upper_respiratory_tract_infection</WikiTitle> <WikiTitleID>613640</WikiTitleID> <RankerScore>0.047557685996668424</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>limb</EntitySurfaceForm>
+	<EntityTextStart>624</EntityTextStart>
+	<EntityTextEnd>628</EntityTextEnd>
+	<LinkerScore>1.6991263045856984</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Limb_(anatomy)</WikiTitle>
+		<WikiTitleID>13280372</WikiTitleID>
+		<RankerScore>0.9321592727247259</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Limb_(anatomy)</WikiTitle> <WikiTitleID>13280372</WikiTitleID> <RankerScore>0.9321592727247259</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Limb</WikiTitle> <WikiTitleID>166923</WikiTitleID> <RankerScore>0.03303519810512569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Limb_darkening</WikiTitle> <WikiTitleID>1225755</WikiTitleID> <RankerScore>0.020701586223484923</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Branch</WikiTitle> <WikiTitleID>40814</WikiTitleID> <RankerScore>0.007051971473331727</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Penis</WikiTitle> <WikiTitleID>17322701</WikiTitleID> <RankerScore>0.007051971473331727</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the day</EntitySurfaceForm>
+	<EntityTextStart>643</EntityTextStart>
+	<EntityTextEnd>650</EntityTextEnd>
+	<LinkerScore>3.2848543636273875</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>24_(season_5)</WikiTitle>
+		<WikiTitleID>3819091</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>season</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>24_(season_5)</WikiTitle> <WikiTitleID>3819091</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>day length</EntitySurfaceForm>
+	<EntityTextStart>647</EntityTextStart>
+	<EntityTextEnd>657</EntityTextEnd>
+	<LinkerScore>4.241875111067604</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Day_length</WikiTitle>
+		<WikiTitleID>4925093</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>phenomenon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Day_length</WikiTitle> <WikiTitleID>4925093</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>day</EntitySurfaceForm>
+	<EntityTextStart>647</EntityTextStart>
+	<EntityTextEnd>650</EntityTextEnd>
+	<LinkerScore>1.9235976528071865</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Day</WikiTitle>
+		<WikiTitleID>8376</WikiTitleID>
+		<RankerScore>0.9142153567886304</RankerScore>
+		<Attributes>unit	order</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Day</WikiTitle> <WikiTitleID>8376</WikiTitleID> <RankerScore>0.9142153567886304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_school</WikiTitle> <WikiTitleID>951256</WikiTitleID> <RankerScore>0.0022195347649660354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daylight</WikiTitle> <WikiTitleID>2301573</WikiTitleID> <RankerScore>0.0700924285674383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>February_8</WikiTitle> <WikiTitleID>11360</WikiTitleID> <RankerScore>0.0011227233232471068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Era</WikiTitle> <WikiTitleID>9758</WikiTitleID> <RankerScore>0.0011227233232471068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_Roman_Calendar</WikiTitle> <WikiTitleID>4754431</WikiTitleID> <RankerScore>0.0011227233232471068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_fighter</WikiTitle> <WikiTitleID>178656</WikiTitleID> <RankerScore>0.0011227233232471068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_15</WikiTitle> <WikiTitleID>8145</WikiTitleID> <RankerScore>0.0011227233232471068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surface_wave</WikiTitle> <WikiTitleID>41763</WikiTitleID> <RankerScore>0.0011227233232471068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calendar_of_saints</WikiTitle> <WikiTitleID>180283</WikiTitleID> <RankerScore>0.0011227233232471068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daytime_(astronomy)</WikiTitle> <WikiTitleID>10304194</WikiTitleID> <RankerScore>0.0011227233232471068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diurnality</WikiTitle> <WikiTitleID>3104473</WikiTitleID> <RankerScore>0.0011227233232471068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Working_time</WikiTitle> <WikiTitleID>552168</WikiTitleID> <RankerScore>0.0011227233232471068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_22</WikiTitle> <WikiTitleID>1710</WikiTitleID> <RankerScore>0.0011227233232471068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victory_in_Europe_Day</WikiTitle> <WikiTitleID>215257</WikiTitleID> <RankerScore>0.0011227233232471068</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>length</EntitySurfaceForm>
+	<EntityTextStart>651</EntityTextStart>
+	<EntityTextEnd>657</EntityTextEnd>
+	<LinkerScore>0.6832556378320463</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Length</WikiTitle>
+		<WikiTitleID>18542</WikiTitleID>
+		<RankerScore>0.4611780380690394</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Length</WikiTitle> <WikiTitleID>18542</WikiTitleID> <RankerScore>0.4611780380690394</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vowel_length</WikiTitle> <WikiTitleID>992991</WikiTitleID> <RankerScore>0.028532238844409526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Line_and_length</WikiTitle> <WikiTitleID>3089705</WikiTitleID> <RankerScore>0.027420163832491833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Length_of_a_module</WikiTitle> <WikiTitleID>816070</WikiTitleID> <RankerScore>0.044146937934189945</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Length_(phonetics)</WikiTitle> <WikiTitleID>1755547</WikiTitleID> <RankerScore>0.027420163832491833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gemination</WikiTitle> <WikiTitleID>752720</WikiTitleID> <RankerScore>0.027420163832491833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arc_length</WikiTitle> <WikiTitleID>1898401</WikiTitleID> <RankerScore>0.027420163832491833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bond_length</WikiTitle> <WikiTitleID>2423723</WikiTitleID> <RankerScore>0.027420163832491833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horse_length</WikiTitle> <WikiTitleID>13922564</WikiTitleID> <RankerScore>0.027420163832491833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Debye_length</WikiTitle> <WikiTitleID>1158235</WikiTitleID> <RankerScore>0.027420163832491833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Syllable_weight</WikiTitle> <WikiTitleID>1078447</WikiTitleID> <RankerScore>0.027420163832491833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Planck_length</WikiTitle> <WikiTitleID>748908</WikiTitleID> <RankerScore>0.027420163832491833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orders_of_magnitude_(length)</WikiTitle> <WikiTitleID>203433</WikiTitleID> <RankerScore>0.027420163832491833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norm_(mathematics)</WikiTitle> <WikiTitleID>990534</WikiTitleID> <RankerScore>0.027420163832491833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>File_size</WikiTitle> <WikiTitleID>2608327</WikiTitleID> <RankerScore>0.027420163832491833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dimension_(mathematics_and_physics)</WikiTitle> <WikiTitleID>8398</WikiTitleID> <RankerScore>0.027420163832491833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Astronomical_system_of_units</WikiTitle> <WikiTitleID>471476</WikiTitleID> <RankerScore>0.027420163832491833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Epiphyseal_plate</WikiTitle> <WikiTitleID>6033118</WikiTitleID> <RankerScore>0.027420163832491833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glossary_of_cricket_terms</WikiTitle> <WikiTitleID>463755</WikiTitleID> <RankerScore>0.027420163832491833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Duration</WikiTitle> <WikiTitleID>164117</WikiTitleID> <RankerScore>0.027420163832491833</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sunrise</EntitySurfaceForm>
+	<EntityTextStart>666</EntityTextStart>
+	<EntityTextEnd>673</EntityTextEnd>
+	<LinkerScore>4.559093347317689</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sunrise</WikiTitle>
+		<WikiTitleID>190919</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>phenomenon	parts</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sunrise</WikiTitle> <WikiTitleID>190919</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sunset</EntitySurfaceForm>
+	<EntityTextStart>682</EntityTextStart>
+	<EntityTextEnd>688</EntityTextEnd>
+	<LinkerScore>4.484422805861544</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sunset</WikiTitle>
+		<WikiTitleID>190933</WikiTitleID>
+		<RankerScore>0.9999561760968927</RankerScore>
+		<Attributes>parts	phenomenon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sunset</WikiTitle> <WikiTitleID>190933</WikiTitleID> <RankerScore>0.9999561760968927</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sunset_provision</WikiTitle> <WikiTitleID>880045</WikiTitleID> <RankerScore>4.382390310727609E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the day</EntitySurfaceForm>
+	<EntityTextStart>701</EntityTextStart>
+	<EntityTextEnd>708</EntityTextEnd>
+	<LinkerScore>3.283142571937749</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>24_(season_5)</WikiTitle>
+		<WikiTitleID>3819091</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>season</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>24_(season_5)</WikiTitle> <WikiTitleID>3819091</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>day length</EntitySurfaceForm>
+	<EntityTextStart>705</EntityTextStart>
+	<EntityTextEnd>715</EntityTextEnd>
+	<LinkerScore>4.209335833081627</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Day_length</WikiTitle>
+		<WikiTitleID>4925093</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>phenomenon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Day_length</WikiTitle> <WikiTitleID>4925093</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>day</EntitySurfaceForm>
+	<EntityTextStart>705</EntityTextStart>
+	<EntityTextEnd>708</EntityTextEnd>
+	<LinkerScore>2.0068981065513265</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Day</WikiTitle>
+		<WikiTitleID>8376</WikiTitleID>
+		<RankerScore>0.9296361944948657</RankerScore>
+		<Attributes>unit	order</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Day</WikiTitle> <WikiTitleID>8376</WikiTitleID> <RankerScore>0.9296361944948657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_school</WikiTitle> <WikiTitleID>951256</WikiTitleID> <RankerScore>0.0018936436435661862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daylight</WikiTitle> <WikiTitleID>2301573</WikiTitleID> <RankerScore>0.05669990206252105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>February_8</WikiTitle> <WikiTitleID>11360</WikiTitleID> <RankerScore>9.808549832539238E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Era</WikiTitle> <WikiTitleID>9758</WikiTitleID> <RankerScore>9.808549832539238E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_Roman_Calendar</WikiTitle> <WikiTitleID>4754431</WikiTitleID> <RankerScore>9.808549832539238E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_fighter</WikiTitle> <WikiTitleID>178656</WikiTitleID> <RankerScore>9.808549832539238E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_15</WikiTitle> <WikiTitleID>8145</WikiTitleID> <RankerScore>9.808549832539238E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surface_wave</WikiTitle> <WikiTitleID>41763</WikiTitleID> <RankerScore>9.808549832539238E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calendar_of_saints</WikiTitle> <WikiTitleID>180283</WikiTitleID> <RankerScore>9.808549832539238E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daytime_(astronomy)</WikiTitle> <WikiTitleID>10304194</WikiTitleID> <RankerScore>9.808549832539238E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diurnality</WikiTitle> <WikiTitleID>3104473</WikiTitleID> <RankerScore>9.808549832539238E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Working_time</WikiTitle> <WikiTitleID>552168</WikiTitleID> <RankerScore>9.808549832539238E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_22</WikiTitle> <WikiTitleID>1710</WikiTitleID> <RankerScore>9.808549832539238E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victory_in_Europe_Day</WikiTitle> <WikiTitleID>215257</WikiTitleID> <RankerScore>9.808549832539238E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>length</EntitySurfaceForm>
+	<EntityTextStart>709</EntityTextStart>
+	<EntityTextEnd>715</EntityTextEnd>
+	<LinkerScore>0.3388636425964339</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Length</WikiTitle>
+		<WikiTitleID>18542</WikiTitleID>
+		<RankerScore>0.43174937649020395</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Length</WikiTitle> <WikiTitleID>18542</WikiTitleID> <RankerScore>0.43174937649020395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vowel_length</WikiTitle> <WikiTitleID>992991</WikiTitleID> <RankerScore>0.025436626447290785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Line_and_length</WikiTitle> <WikiTitleID>3089705</WikiTitleID> <RankerScore>0.025436626447290785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Length_of_a_module</WikiTitle> <WikiTitleID>816070</WikiTitleID> <RankerScore>0.060799240352487356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Length_(phonetics)</WikiTitle> <WikiTitleID>1755547</WikiTitleID> <RankerScore>0.025436626447290785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gemination</WikiTitle> <WikiTitleID>752720</WikiTitleID> <RankerScore>0.025436626447290785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arc_length</WikiTitle> <WikiTitleID>1898401</WikiTitleID> <RankerScore>0.07502873355336526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bond_length</WikiTitle> <WikiTitleID>2423723</WikiTitleID> <RankerScore>0.025436626447290785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horse_length</WikiTitle> <WikiTitleID>13922564</WikiTitleID> <RankerScore>0.025436626447290785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Debye_length</WikiTitle> <WikiTitleID>1158235</WikiTitleID> <RankerScore>0.025436626447290785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Syllable_weight</WikiTitle> <WikiTitleID>1078447</WikiTitleID> <RankerScore>0.025436626447290785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Planck_length</WikiTitle> <WikiTitleID>748908</WikiTitleID> <RankerScore>0.025436626447290785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orders_of_magnitude_(length)</WikiTitle> <WikiTitleID>203433</WikiTitleID> <RankerScore>0.025436626447290785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norm_(mathematics)</WikiTitle> <WikiTitleID>990534</WikiTitleID> <RankerScore>0.025436626447290785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>File_size</WikiTitle> <WikiTitleID>2608327</WikiTitleID> <RankerScore>0.025436626447290785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dimension_(mathematics_and_physics)</WikiTitle> <WikiTitleID>8398</WikiTitleID> <RankerScore>0.025436626447290785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Astronomical_system_of_units</WikiTitle> <WikiTitleID>471476</WikiTitleID> <RankerScore>0.025436626447290785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Epiphyseal_plate</WikiTitle> <WikiTitleID>6033118</WikiTitleID> <RankerScore>0.025436626447290785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glossary_of_cricket_terms</WikiTitle> <WikiTitleID>463755</WikiTitleID> <RankerScore>0.025436626447290785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Duration</WikiTitle> <WikiTitleID>164117</WikiTitleID> <RankerScore>0.025436626447290785</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>computed</EntitySurfaceForm>
+	<EntityTextStart>723</EntityTextStart>
+	<EntityTextEnd>731</EntityTextEnd>
+	<LinkerScore>-1.6127816148257417</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Computer_simulation</WikiTitle>
+		<WikiTitleID>375416</WikiTitleID>
+		<RankerScore>0.43234135257005774</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Computation</WikiTitle> <WikiTitleID>5926</WikiTitleID> <RankerScore>0.4020394996121498</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_simulation</WikiTitle> <WikiTitleID>375416</WikiTitleID> <RankerScore>0.43234135257005774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computable_number</WikiTitle> <WikiTitleID>6206</WikiTitleID> <RankerScore>0.16561914781779238</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sunset</EntitySurfaceForm>
+	<EntityTextStart>784</EntityTextStart>
+	<EntityTextEnd>790</EntityTextEnd>
+	<LinkerScore>5.1760849979407615</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sunset</WikiTitle>
+		<WikiTitleID>190933</WikiTitleID>
+		<RankerScore>0.9999686562779249</RankerScore>
+		<Attributes>parts	phenomenon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sunset</WikiTitle> <WikiTitleID>190933</WikiTitleID> <RankerScore>0.9999686562779249</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sunset_provision</WikiTitle> <WikiTitleID>880045</WikiTitleID> <RankerScore>3.1343722075112486E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hour angle</EntitySurfaceForm>
+	<EntityTextStart>795</EntityTextStart>
+	<EntityTextEnd>805</EntityTextEnd>
+	<LinkerScore>4.465245195373135</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hour_angle</WikiTitle>
+		<WikiTitleID>48838</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hour_angle</WikiTitle> <WikiTitleID>48838</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>degrees</EntitySurfaceForm>
+	<EntityTextStart>811</EntityTextStart>
+	<EntityTextEnd>818</EntityTextEnd>
+	<LinkerScore>0.9777429742415402</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Degree_(angle)</WikiTitle>
+		<WikiTitleID>1195294</WikiTitleID>
+		<RankerScore>0.7658506403709444</RankerScore>
+		<Attributes>unit	constant</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Academic_degree</WikiTitle> <WikiTitleID>167241</WikiTitleID> <RankerScore>0.038379166245881356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Degree_(angle)</WikiTitle> <WikiTitleID>1195294</WikiTitleID> <RankerScore>0.7658506403709444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bachelor&apos;s_degree</WikiTitle> <WikiTitleID>188874</WikiTitleID> <RankerScore>0.013064141754520189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Degree_(temperature)</WikiTitle> <WikiTitleID>1195300</WikiTitleID> <RankerScore>0.013064141754520189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Degree_(music)</WikiTitle> <WikiTitleID>622802</WikiTitleID> <RankerScore>0.013064141754520189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Degree_(graph_theory)</WikiTitle> <WikiTitleID>1374448</WikiTitleID> <RankerScore>0.03900049232893198</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Degrees_of_the_University_of_Oxford</WikiTitle> <WikiTitleID>367283</WikiTitleID> <RankerScore>0.013064141754520189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Degree_of_a_polynomial</WikiTitle> <WikiTitleID>5930652</WikiTitleID> <RankerScore>0.013064141754520189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Degree_of_curvature</WikiTitle> <WikiTitleID>1438524</WikiTitleID> <RankerScore>0.013064141754520189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bachelor_of_Engineering</WikiTitle> <WikiTitleID>8230256</WikiTitleID> <RankerScore>0.013064141754520189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Longitude</WikiTitle> <WikiTitleID>17617</WikiTitleID> <RankerScore>0.013064141754520189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Degree</WikiTitle> <WikiTitleID>480352</WikiTitleID> <RankerScore>0.013064141754520189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Degree_of_a_continuous_mapping</WikiTitle> <WikiTitleID>3094450</WikiTitleID> <RankerScore>0.013064141754520189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honorary_degree</WikiTitle> <WikiTitleID>464751</WikiTitleID> <RankerScore>0.013064141754520189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_undergraduate_degree_classification</WikiTitle> <WikiTitleID>460615</WikiTitleID> <RankerScore>0.013064141754520189</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sunrise</EntitySurfaceForm>
+	<EntityTextStart>865</EntityTextStart>
+	<EntityTextEnd>872</EntityTextEnd>
+	<LinkerScore>4.526615206712916</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sunrise</WikiTitle>
+		<WikiTitleID>190919</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>phenomenon	parts</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sunrise</WikiTitle> <WikiTitleID>190919</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sunset</EntitySurfaceForm>
+	<EntityTextStart>881</EntityTextStart>
+	<EntityTextEnd>887</EntityTextEnd>
+	<LinkerScore>4.3105968639765555</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sunset</WikiTitle>
+		<WikiTitleID>190933</WikiTitleID>
+		<RankerScore>0.9999533152204355</RankerScore>
+		<Attributes>parts	phenomenon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sunset</WikiTitle> <WikiTitleID>190933</WikiTitleID> <RankerScore>0.9999533152204355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sunset_provision</WikiTitle> <WikiTitleID>880045</WikiTitleID> <RankerScore>4.668477956447869E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the course</EntitySurfaceForm>
+	<EntityTextStart>910</EntityTextStart>
+	<EntityTextEnd>920</EntityTextEnd>
+	<LinkerScore>2.323176117646606</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Snaefell_Mountain_Course</WikiTitle>
+		<WikiTitleID>6336105</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>venue	circuit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Snaefell_Mountain_Course</WikiTitle> <WikiTitleID>6336105</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>course</EntitySurfaceForm>
+	<EntityTextStart>914</EntityTextStart>
+	<EntityTextEnd>920</EntityTextEnd>
+	<LinkerScore>-1.5188787329746298</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Course</WikiTitle>
+		<WikiTitleID>995655</WikiTitleID>
+		<RankerScore>0.18166911647800968</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Course_(education)</WikiTitle> <WikiTitleID>2493919</WikiTitleID> <RankerScore>0.13606189251960743</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Course</WikiTitle> <WikiTitleID>995655</WikiTitleID> <RankerScore>0.18166911647800968</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Course_(navigation)</WikiTitle> <WikiTitleID>995636</WikiTitleID> <RankerScore>0.0739243288554916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Course_(music)</WikiTitle> <WikiTitleID>2835096</WikiTitleID> <RankerScore>0.04679574324206855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Golf_course</WikiTitle> <WikiTitleID>393585</WikiTitleID> <RankerScore>0.04679574324206855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Course_(sail)</WikiTitle> <WikiTitleID>1135978</WikiTitleID> <RankerScore>0.04679574324206855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Academic_major</WikiTitle> <WikiTitleID>526101</WikiTitleID> <RankerScore>0.04679574324206855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Course_(architecture)</WikiTitle> <WikiTitleID>12287675</WikiTitleID> <RankerScore>0.04679574324206855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Course_(medicine)</WikiTitle> <WikiTitleID>3283625</WikiTitleID> <RankerScore>0.04679574324206855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Education</WikiTitle> <WikiTitleID>9252</WikiTitleID> <RankerScore>0.04679574324206855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Main_course</WikiTitle> <WikiTitleID>667797</WikiTitleID> <RankerScore>0.04679574324206855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Race_track</WikiTitle> <WikiTitleID>301925</WikiTitleID> <RankerScore>0.04679574324206855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Full_course_dinner</WikiTitle> <WikiTitleID>2515137</WikiTitleID> <RankerScore>0.04679574324206855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coursing</WikiTitle> <WikiTitleID>845038</WikiTitleID> <RankerScore>0.04679574324206855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Championship_Course</WikiTitle> <WikiTitleID>1216498</WikiTitleID> <RankerScore>0.04679574324206855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LaVern_Gibson_Championship_Cross_Country_Course</WikiTitle> <WikiTitleID>4233747</WikiTitleID> <RankerScore>0.04679574324206855</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>day</EntitySurfaceForm>
+	<EntityTextStart>926</EntityTextStart>
+	<EntityTextEnd>929</EntityTextEnd>
+	<LinkerScore>0.57630889104199</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Day</WikiTitle>
+		<WikiTitleID>8376</WikiTitleID>
+		<RankerScore>0.773323761096318</RankerScore>
+		<Attributes>unit	order</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Day</WikiTitle> <WikiTitleID>8376</WikiTitleID> <RankerScore>0.773323761096318</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_school</WikiTitle> <WikiTitleID>951256</WikiTitleID> <RankerScore>0.0010601363390995244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daylight</WikiTitle> <WikiTitleID>2301573</WikiTitleID> <RankerScore>0.12014243005231133</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>February_8</WikiTitle> <WikiTitleID>11360</WikiTitleID> <RankerScore>0.0010601363390995244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Era</WikiTitle> <WikiTitleID>9758</WikiTitleID> <RankerScore>0.0010601363390995244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_Roman_Calendar</WikiTitle> <WikiTitleID>4754431</WikiTitleID> <RankerScore>0.0010601363390995244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_fighter</WikiTitle> <WikiTitleID>178656</WikiTitleID> <RankerScore>0.0010601363390995244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_15</WikiTitle> <WikiTitleID>8145</WikiTitleID> <RankerScore>0.0010601363390995244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surface_wave</WikiTitle> <WikiTitleID>41763</WikiTitleID> <RankerScore>0.0010601363390995244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calendar_of_saints</WikiTitle> <WikiTitleID>180283</WikiTitleID> <RankerScore>0.0010601363390995244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daytime_(astronomy)</WikiTitle> <WikiTitleID>10304194</WikiTitleID> <RankerScore>0.09381217278217645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diurnality</WikiTitle> <WikiTitleID>3104473</WikiTitleID> <RankerScore>0.0010601363390995244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Working_time</WikiTitle> <WikiTitleID>552168</WikiTitleID> <RankerScore>0.0010601363390995244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_22</WikiTitle> <WikiTitleID>1710</WikiTitleID> <RankerScore>0.0010601363390995244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victory_in_Europe_Day</WikiTitle> <WikiTitleID>215257</WikiTitleID> <RankerScore>0.0010601363390995244</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the day</EntitySurfaceForm>
+	<EntityTextStart>931</EntityTextStart>
+	<EntityTextEnd>938</EntityTextEnd>
+	<LinkerScore>3.2668767074863845</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>24_(season_5)</WikiTitle>
+		<WikiTitleID>3819091</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>season</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>24_(season_5)</WikiTitle> <WikiTitleID>3819091</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>day</EntitySurfaceForm>
+	<EntityTextStart>935</EntityTextStart>
+	<EntityTextEnd>938</EntityTextEnd>
+	<LinkerScore>0.7898292897485972</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Day</WikiTitle>
+		<WikiTitleID>8376</WikiTitleID>
+		<RankerScore>0.7287459372386522</RankerScore>
+		<Attributes>unit	order</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Day</WikiTitle> <WikiTitleID>8376</WikiTitleID> <RankerScore>0.7287459372386522</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_school</WikiTitle> <WikiTitleID>951256</WikiTitleID> <RankerScore>9.190146886647841E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daylight</WikiTitle> <WikiTitleID>2301573</WikiTitleID> <RankerScore>0.12864158602680217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>February_8</WikiTitle> <WikiTitleID>11360</WikiTitleID> <RankerScore>9.190146886647841E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Era</WikiTitle> <WikiTitleID>9758</WikiTitleID> <RankerScore>9.190146886647841E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_Roman_Calendar</WikiTitle> <WikiTitleID>4754431</WikiTitleID> <RankerScore>9.190146886647841E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_fighter</WikiTitle> <WikiTitleID>178656</WikiTitleID> <RankerScore>9.190146886647841E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_15</WikiTitle> <WikiTitleID>8145</WikiTitleID> <RankerScore>9.190146886647841E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surface_wave</WikiTitle> <WikiTitleID>41763</WikiTitleID> <RankerScore>9.190146886647841E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calendar_of_saints</WikiTitle> <WikiTitleID>180283</WikiTitleID> <RankerScore>9.190146886647841E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daytime_(astronomy)</WikiTitle> <WikiTitleID>10304194</WikiTitleID> <RankerScore>0.1315843004705683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diurnality</WikiTitle> <WikiTitleID>3104473</WikiTitleID> <RankerScore>9.190146886647841E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Working_time</WikiTitle> <WikiTitleID>552168</WikiTitleID> <RankerScore>9.190146886647841E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_22</WikiTitle> <WikiTitleID>1710</WikiTitleID> <RankerScore>9.190146886647841E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victory_in_Europe_Day</WikiTitle> <WikiTitleID>215257</WikiTitleID> <RankerScore>9.190146886647841E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>day length</EntitySurfaceForm>
+	<EntityTextStart>935</EntityTextStart>
+	<EntityTextEnd>945</EntityTextEnd>
+	<LinkerScore>4.190514535246986</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Day_length</WikiTitle>
+		<WikiTitleID>4925093</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>phenomenon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Day_length</WikiTitle> <WikiTitleID>4925093</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>length</EntitySurfaceForm>
+	<EntityTextStart>939</EntityTextStart>
+	<EntityTextEnd>945</EntityTextEnd>
+	<LinkerScore>0.9189978907560326</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Length</WikiTitle>
+		<WikiTitleID>18542</WikiTitleID>
+		<RankerScore>0.4538556538766819</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Length</WikiTitle> <WikiTitleID>18542</WikiTitleID> <RankerScore>0.4538556538766819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vowel_length</WikiTitle> <WikiTitleID>992991</WikiTitleID> <RankerScore>0.028032471688613444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Line_and_length</WikiTitle> <WikiTitleID>3089705</WikiTitleID> <RankerScore>0.028266669550658367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Length_of_a_module</WikiTitle> <WikiTitleID>816070</WikiTitleID> <RankerScore>0.037578492073512375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Length_(phonetics)</WikiTitle> <WikiTitleID>1755547</WikiTitleID> <RankerScore>0.028266669550658367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gemination</WikiTitle> <WikiTitleID>752720</WikiTitleID> <RankerScore>0.028266669550658367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arc_length</WikiTitle> <WikiTitleID>1898401</WikiTitleID> <RankerScore>0.028266669550658367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bond_length</WikiTitle> <WikiTitleID>2423723</WikiTitleID> <RankerScore>0.028266669550658367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horse_length</WikiTitle> <WikiTitleID>13922564</WikiTitleID> <RankerScore>0.028266669550658367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Debye_length</WikiTitle> <WikiTitleID>1158235</WikiTitleID> <RankerScore>0.028266669550658367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Syllable_weight</WikiTitle> <WikiTitleID>1078447</WikiTitleID> <RankerScore>0.028266669550658367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Planck_length</WikiTitle> <WikiTitleID>748908</WikiTitleID> <RankerScore>0.028266669550658367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orders_of_magnitude_(length)</WikiTitle> <WikiTitleID>203433</WikiTitleID> <RankerScore>0.028266669550658367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norm_(mathematics)</WikiTitle> <WikiTitleID>990534</WikiTitleID> <RankerScore>0.028266669550658367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>File_size</WikiTitle> <WikiTitleID>2608327</WikiTitleID> <RankerScore>0.028266669550658367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dimension_(mathematics_and_physics)</WikiTitle> <WikiTitleID>8398</WikiTitleID> <RankerScore>0.028266669550658367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Astronomical_system_of_units</WikiTitle> <WikiTitleID>471476</WikiTitleID> <RankerScore>0.028266669550658367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Epiphyseal_plate</WikiTitle> <WikiTitleID>6033118</WikiTitleID> <RankerScore>0.028266669550658367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glossary_of_cricket_terms</WikiTitle> <WikiTitleID>463755</WikiTitleID> <RankerScore>0.028266669550658367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Duration</WikiTitle> <WikiTitleID>164117</WikiTitleID> <RankerScore>0.028266669550658367</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>24 hours</EntitySurfaceForm>
+	<EntityTextStart>961</EntityTextStart>
+	<EntityTextEnd>969</EntityTextEnd>
+	<LinkerScore>0.29835723805887815</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>24_Hours</WikiTitle>
+		<WikiTitleID>3578064</WikiTitleID>
+		<RankerScore>0.8449742151796377</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>24_Hours</WikiTitle> <WikiTitleID>3578064</WikiTitleID> <RankerScore>0.8449742151796377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>November_26</WikiTitle> <WikiTitleID>21581</WikiTitleID> <RankerScore>0.0642802395500556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>24-hour_run</WikiTitle> <WikiTitleID>7973295</WikiTitleID> <RankerScore>0.055220703896775976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>24/7_service</WikiTitle> <WikiTitleID>422855</WikiTitleID> <RankerScore>0.03552484137353071</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>24</EntitySurfaceForm>
+	<EntityTextStart>961</EntityTextStart>
+	<EntityTextEnd>963</EntityTextEnd>
+	<LinkerScore>1.391879870148483</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>24_(TV_series)</WikiTitle>
+		<WikiTitleID>68769</WikiTitleID>
+		<RankerScore>0.7819215890243401</RankerScore>
+		<Attributes>program	ending	winner	show</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>24_(TV_series)</WikiTitle> <WikiTitleID>68769</WikiTitleID> <RankerScore>0.7819215890243401</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>24</WikiTitle> <WikiTitleID>35214</WikiTitleID> <RankerScore>0.005465123088872658</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>24_(number)</WikiTitle> <WikiTitleID>362201</WikiTitleID> <RankerScore>0.11825611735716421</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>August_24</WikiTitle> <WikiTitleID>1629</WikiTitleID> <RankerScore>0.005465123088872658</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>June_24</WikiTitle> <WikiTitleID>15812</WikiTitleID> <RankerScore>0.006915201107660505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Melbourne_tram_route_24</WikiTitle> <WikiTitleID>3739491</WikiTitleID> <RankerScore>0.005465123088872658</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>October_24</WikiTitle> <WikiTitleID>22345</WikiTitleID> <RankerScore>0.005465123088872658</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_24</WikiTitle> <WikiTitleID>20209</WikiTitleID> <RankerScore>0.005465123088872658</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>January_24</WikiTitle> <WikiTitleID>15954</WikiTitleID> <RankerScore>0.005465123088872658</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>February_24</WikiTitle> <WikiTitleID>11007</WikiTitleID> <RankerScore>0.005465123088872658</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_24</WikiTitle> <WikiTitleID>8359</WikiTitleID> <RankerScore>0.005465123088872658</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_24</WikiTitle> <WikiTitleID>19459</WikiTitleID> <RankerScore>0.005465123088872658</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>July_24</WikiTitle> <WikiTitleID>15888</WikiTitleID> <RankerScore>0.005465123088872658</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>September_24</WikiTitle> <WikiTitleID>28202</WikiTitleID> <RankerScore>0.005465123088872658</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>November_24</WikiTitle> <WikiTitleID>21522</WikiTitleID> <RankerScore>0.005465123088872658</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1924</WikiTitle> <WikiTitleID>34675</WikiTitleID> <RankerScore>0.005465123088872658</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_24</WikiTitle> <WikiTitleID>2734</WikiTitleID> <RankerScore>0.005465123088872658</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lotus_24</WikiTitle> <WikiTitleID>16141342</WikiTitleID> <RankerScore>0.005465123088872658</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Route_24</WikiTitle> <WikiTitleID>495131</WikiTitleID> <RankerScore>0.005465123088872658</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1824</WikiTitle> <WikiTitleID>35521</WikiTitleID> <RankerScore>0.005465123088872658</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hours</EntitySurfaceForm>
+	<EntityTextStart>964</EntityTextStart>
+	<EntityTextEnd>969</EntityTextEnd>
+	<LinkerScore>-0.14588985482665656</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hours</WikiTitle>
+		<WikiTitleID>634045</WikiTitleID>
+		<RankerScore>0.583621882971959</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hours</WikiTitle> <WikiTitleID>634045</WikiTitleID> <RankerScore>0.583621882971959</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canonical_hours</WikiTitle> <WikiTitleID>203688</WikiTitleID> <RankerScore>0.021498499048046547</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Working_time</WikiTitle> <WikiTitleID>552168</WikiTitleID> <RankerScore>0.019626336399993033</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hour</WikiTitle> <WikiTitleID>14004</WikiTitleID> <RankerScore>0.2967479359800293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hourly_worker</WikiTitle> <WikiTitleID>15586447</WikiTitleID> <RankerScore>0.019626336399993033</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Liturgy_of_the_Hours</WikiTitle> <WikiTitleID>1951124</WikiTitleID> <RankerScore>0.019626336399993033</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>24-hour_clock</WikiTitle> <WikiTitleID>241342</WikiTitleID> <RankerScore>0.019626336399993033</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horae</WikiTitle> <WikiTitleID>80513</WikiTitleID> <RankerScore>0.019626336399993033</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>accuracy</EntitySurfaceForm>
+	<EntityTextStart>988</EntityTextStart>
+	<EntityTextEnd>996</EntityTextEnd>
+	<LinkerScore>0.7672654925637157</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Accuracy_and_precision</WikiTitle>
+		<WikiTitleID>41932</WikiTitleID>
+		<RankerScore>0.8032988781850461</RankerScore>
+		<Attributes>statistics	psychometrics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Accuracy_and_precision</WikiTitle> <WikiTitleID>41932</WikiTitleID> <RankerScore>0.8032988781850461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Circular_error_probable</WikiTitle> <WikiTitleID>316648</WikiTitleID> <RankerScore>0.05041961817688266</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Accurizing</WikiTitle> <WikiTitleID>1369191</WikiTitleID> <RankerScore>0.04270680780864921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statistics</WikiTitle> <WikiTitleID>26685</WikiTitleID> <RankerScore>0.05178734791471109</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Verisimilitude</WikiTitle> <WikiTitleID>2052891</WikiTitleID> <RankerScore>0.05178734791471109</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>points</EntitySurfaceForm>
+	<EntityTextStart>1006</EntityTextStart>
+	<EntityTextEnd>1012</EntityTextEnd>
+	<LinkerScore>-1.8404331115818575</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Point_(basketball)</WikiTitle>
+		<WikiTitleID>4025654</WikiTitleID>
+		<RankerScore>0.14185237109996598</RankerScore>
+		<Attributes>statistics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Railroad_switch</WikiTitle> <WikiTitleID>150160</WikiTitleID> <RankerScore>0.10447375587893779</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Point_(basketball)</WikiTitle> <WikiTitleID>4025654</WikiTitleID> <RankerScore>0.14185237109996598</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Point_(ice_hockey)</WikiTitle> <WikiTitleID>682620</WikiTitleID> <RankerScore>0.10849773434564415</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Point_(geometry)</WikiTitle> <WikiTitleID>593693</WikiTitleID> <RankerScore>0.04032350866721575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hand_evaluation</WikiTitle> <WikiTitleID>5064199</WikiTitleID> <RankerScore>0.04032350866721575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Score_(game)</WikiTitle> <WikiTitleID>3610525</WikiTitleID> <RankerScore>0.04032350866721575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Microsoft_Points</WikiTitle> <WikiTitleID>3766762</WikiTitleID> <RankerScore>0.04032350866721575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Point_coloration</WikiTitle> <WikiTitleID>1136673</WikiTitleID> <RankerScore>0.04032350866721575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Point</WikiTitle> <WikiTitleID>48221</WikiTitleID> <RankerScore>0.04032350866721575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Point_(typography)</WikiTitle> <WikiTitleID>991349</WikiTitleID> <RankerScore>0.04032350866721575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Projectile_point</WikiTitle> <WikiTitleID>143830</WikiTitleID> <RankerScore>0.04032350866721575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Points_per_game</WikiTitle> <WikiTitleID>4391236</WikiTitleID> <RankerScore>0.04032350866721575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Point_(tennis)</WikiTitle> <WikiTitleID>2035597</WikiTitleID> <RankerScore>0.04032350866721575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Contact_breaker</WikiTitle> <WikiTitleID>362209</WikiTitleID> <RankerScore>0.04032350866721575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Credit_Accumulation_and_Transfer_Scheme</WikiTitle> <WikiTitleID>4377467</WikiTitleID> <RankerScore>0.04032350866721575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Score_(game)</WikiTitle> <WikiTitleID>1216129</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peninsula</WikiTitle> <WikiTitleID>23260</WikiTitleID> <RankerScore>0.04032350866721575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Acupuncture_point</WikiTitle> <WikiTitleID>653096</WikiTitleID> <RankerScore>0.04032350866721575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Value_(economics)</WikiTitle> <WikiTitleID>4095185</WikiTitleID> <RankerScore>0.04032350866721575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Formula_One_World_Championship_points_scoring_systems</WikiTitle> <WikiTitleID>3437243</WikiTitleID> <RankerScore>0.04032350866721575</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the same</EntitySurfaceForm>
+	<EntityTextStart>1016</EntityTextStart>
+	<EntityTextEnd>1024</EntityTextEnd>
+	<LinkerScore>2.3423152094782638</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>300_(comics)</WikiTitle>
+		<WikiTitleID>1363640</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>comic strip	winner	debut</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>300_(comics)</WikiTitle> <WikiTitleID>1363640</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>latitude</EntitySurfaceForm>
+	<EntityTextStart>1025</EntityTextStart>
+	<EntityTextEnd>1033</EntityTextEnd>
+	<LinkerScore>6.384683380565314</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Latitude</WikiTitle>
+		<WikiTitleID>17616</WikiTitleID>
+		<RankerScore>0.9995096844520146</RankerScore>
+		<Attributes>line</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Latitude</WikiTitle> <WikiTitleID>17616</WikiTitleID> <RankerScore>0.9995096844520146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Geographic_coordinate_system</WikiTitle> <WikiTitleID>48361</WikiTitleID> <RankerScore>4.903155479853368E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the same</EntitySurfaceForm>
+	<EntityTextStart>1037</EntityTextStart>
+	<EntityTextEnd>1045</EntityTextEnd>
+	<LinkerScore>2.3423152094782638</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>300_(comics)</WikiTitle>
+		<WikiTitleID>1363640</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>comic strip	winner	debut</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>300_(comics)</WikiTitle> <WikiTitleID>1363640</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>calendar date</EntitySurfaceForm>
+	<EntityTextStart>1046</EntityTextStart>
+	<EntityTextEnd>1059</EntityTextEnd>
+	<LinkerScore>2.2580683721517683</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Calendar_date</WikiTitle>
+		<WikiTitleID>7123</WikiTitleID>
+		<RankerScore>0.9536322142739458</RankerScore>
+		<Attributes>calendar</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Calendar_date</WikiTitle> <WikiTitleID>7123</WikiTitleID> <RankerScore>0.9536322142739458</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mesoamerican_calendars</WikiTitle> <WikiTitleID>652165</WikiTitleID> <RankerScore>0.04636778572605418</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>calendar</EntitySurfaceForm>
+	<EntityTextStart>1046</EntityTextStart>
+	<EntityTextEnd>1054</EntityTextEnd>
+	<LinkerScore>3.2819440359807732</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Calendar</WikiTitle>
+		<WikiTitleID>5377</WikiTitleID>
+		<RankerScore>0.9663099502140776</RankerScore>
+		<Attributes>calendar</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Calendar</WikiTitle> <WikiTitleID>5377</WikiTitleID> <RankerScore>0.9663099502140776</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wall_calendar</WikiTitle> <WikiTitleID>1659874</WikiTitleID> <RankerScore>6.157820969730797E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gregorian_calendar</WikiTitle> <WikiTitleID>12315</WikiTitleID> <RankerScore>0.013759136186462654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_calendar</WikiTitle> <WikiTitleID>25792</WikiTitleID> <RankerScore>6.157820969730797E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_Roman_Calendar</WikiTitle> <WikiTitleID>4754431</WikiTitleID> <RankerScore>6.157820969730797E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maya_calendar</WikiTitle> <WikiTitleID>147476</WikiTitleID> <RankerScore>6.157820969730797E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calendar_of_saints</WikiTitle> <WikiTitleID>180283</WikiTitleID> <RankerScore>6.157820969730797E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mesoamerican_calendars</WikiTitle> <WikiTitleID>652165</WikiTitleID> <RankerScore>6.157820969730797E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_calendar</WikiTitle> <WikiTitleID>13782</WikiTitleID> <RankerScore>6.157820969730797E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aztec_calendar</WikiTitle> <WikiTitleID>151735</WikiTitleID> <RankerScore>6.157820969730797E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mozilla_Calendar_Project</WikiTitle> <WikiTitleID>4806505</WikiTitleID> <RankerScore>6.157820969730797E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Julian_calendar</WikiTitle> <WikiTitleID>15651</WikiTitleID> <RankerScore>0.009462617950917287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calendar_of_Saints_(Lutheran)</WikiTitle> <WikiTitleID>4629503</WikiTitleID> <RankerScore>6.157820969730797E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Academic_term</WikiTitle> <WikiTitleID>545577</WikiTitleID> <RankerScore>6.157820969730797E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Assyrian_calendar</WikiTitle> <WikiTitleID>8077539</WikiTitleID> <RankerScore>6.157820969730797E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Positivist_calendar</WikiTitle> <WikiTitleID>434080</WikiTitleID> <RankerScore>6.157820969730797E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chinese_calendar</WikiTitle> <WikiTitleID>6966</WikiTitleID> <RankerScore>6.157820969730797E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calendar_year</WikiTitle> <WikiTitleID>5662</WikiTitleID> <RankerScore>6.157820969730797E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tonalamatl</WikiTitle> <WikiTitleID>5201261</WikiTitleID> <RankerScore>6.157820969730797E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ethiopian_calendar</WikiTitle> <WikiTitleID>1041300</WikiTitleID> <RankerScore>6.157820969730797E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>date</EntitySurfaceForm>
+	<EntityTextStart>1055</EntityTextStart>
+	<EntityTextEnd>1059</EntityTextEnd>
+	<LinkerScore>1.168529151862273</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Calendar</WikiTitle>
+		<WikiTitleID>5377</WikiTitleID>
+		<RankerScore>0.891586517046516</RankerScore>
+		<Attributes>calendar</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Phoenix_dactylifera</WikiTitle> <WikiTitleID>87598</WikiTitleID> <RankerScore>0.0039495275901822065</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calendar_date</WikiTitle> <WikiTitleID>7123</WikiTitleID> <RankerScore>0.0891530399302794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Date</WikiTitle> <WikiTitleID>47341</WikiTitleID> <RankerScore>0.001531091543302241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dating</WikiTitle> <WikiTitleID>9919443</WikiTitleID> <RankerScore>0.001531091543302241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Courtship</WikiTitle> <WikiTitleID>411659</WikiTitleID> <RankerScore>0.001531091543302241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Date_(Unix)</WikiTitle> <WikiTitleID>967123</WikiTitleID> <RankerScore>0.001531091543302241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maturity_(finance)</WikiTitle> <WikiTitleID>3211296</WikiTitleID> <RankerScore>0.001531091543302241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DATE_(command)</WikiTitle> <WikiTitleID>17310715</WikiTitleID> <RankerScore>0.001531091543302241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_Fools&apos;_Day</WikiTitle> <WikiTitleID>11125478</WikiTitleID> <RankerScore>0.001531091543302241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>September_11</WikiTitle> <WikiTitleID>27935</WikiTitleID> <RankerScore>0.001531091543302241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_25</WikiTitle> <WikiTitleID>8270</WikiTitleID> <RankerScore>0.001531091543302241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calendar</WikiTitle> <WikiTitleID>5377</WikiTitleID> <RankerScore>0.891586517046516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birth_certificate</WikiTitle> <WikiTitleID>210286</WikiTitleID> <RankerScore>0.001531091543302241</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>considered</EntitySurfaceForm>
+	<EntityTextStart>1067</EntityTextStart>
+	<EntityTextEnd>1077</EntityTextEnd>
+	<LinkerScore>-2.2394683882906596</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Opinion</WikiTitle>
+		<WikiTitleID>1348330</WikiTitleID>
+		<RankerScore>0.5452553525759584</RankerScore>
+		<Attributes>structure</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Opinion</WikiTitle> <WikiTitleID>1348330</WikiTitleID> <RankerScore>0.5452553525759584</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Delaware_General_Corporation_Law</WikiTitle> <WikiTitleID>8933</WikiTitleID> <RankerScore>0.45474464742404164</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the same day</EntitySurfaceForm>
+	<EntityTextStart>1086</EntityTextStart>
+	<EntityTextEnd>1098</EntityTextEnd>
+	<LinkerScore>-1.0831724977438997</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>September_20</WikiTitle>
+		<WikiTitleID>28148</WikiTitleID>
+		<RankerScore>0.5005992250345549</RankerScore>
+		<Attributes>days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>September_20</WikiTitle> <WikiTitleID>28148</WikiTitleID> <RankerScore>0.5005992250345549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_16</WikiTitle> <WikiTitleID>1334</WikiTitleID> <RankerScore>0.499400774965445</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the same</EntitySurfaceForm>
+	<EntityTextStart>1086</EntityTextStart>
+	<EntityTextEnd>1094</EntityTextEnd>
+	<LinkerScore>2.3423152094782638</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>300_(comics)</WikiTitle>
+		<WikiTitleID>1363640</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>comic strip	winner	debut</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>300_(comics)</WikiTitle> <WikiTitleID>1363640</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>day length</EntitySurfaceForm>
+	<EntityTextStart>1095</EntityTextStart>
+	<EntityTextEnd>1105</EntityTextEnd>
+	<LinkerScore>4.163529579439948</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Day_length</WikiTitle>
+		<WikiTitleID>4925093</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>phenomenon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Day_length</WikiTitle> <WikiTitleID>4925093</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>day</EntitySurfaceForm>
+	<EntityTextStart>1095</EntityTextStart>
+	<EntityTextEnd>1098</EntityTextEnd>
+	<LinkerScore>1.9287517486229775</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Day</WikiTitle>
+		<WikiTitleID>8376</WikiTitleID>
+		<RankerScore>0.9321138486728179</RankerScore>
+		<Attributes>unit	order</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Day</WikiTitle> <WikiTitleID>8376</WikiTitleID> <RankerScore>0.9321138486728179</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_school</WikiTitle> <WikiTitleID>951256</WikiTitleID> <RankerScore>0.0018120557178625597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daylight</WikiTitle> <WikiTitleID>2301573</WikiTitleID> <RankerScore>0.05490365773064514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>February_8</WikiTitle> <WikiTitleID>11360</WikiTitleID> <RankerScore>9.308698232228679E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Era</WikiTitle> <WikiTitleID>9758</WikiTitleID> <RankerScore>9.308698232228679E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_Roman_Calendar</WikiTitle> <WikiTitleID>4754431</WikiTitleID> <RankerScore>9.308698232228679E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Day_fighter</WikiTitle> <WikiTitleID>178656</WikiTitleID> <RankerScore>9.308698232228679E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_15</WikiTitle> <WikiTitleID>8145</WikiTitleID> <RankerScore>9.308698232228679E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surface_wave</WikiTitle> <WikiTitleID>41763</WikiTitleID> <RankerScore>9.308698232228679E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Calendar_of_saints</WikiTitle> <WikiTitleID>180283</WikiTitleID> <RankerScore>9.308698232228679E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daytime_(astronomy)</WikiTitle> <WikiTitleID>10304194</WikiTitleID> <RankerScore>9.308698232228679E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diurnality</WikiTitle> <WikiTitleID>3104473</WikiTitleID> <RankerScore>9.308698232228679E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Working_time</WikiTitle> <WikiTitleID>552168</WikiTitleID> <RankerScore>9.308698232228679E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_22</WikiTitle> <WikiTitleID>1710</WikiTitleID> <RankerScore>9.308698232228679E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victory_in_Europe_Day</WikiTitle> <WikiTitleID>215257</WikiTitleID> <RankerScore>9.308698232228679E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>length</EntitySurfaceForm>
+	<EntityTextStart>1099</EntityTextStart>
+	<EntityTextEnd>1105</EntityTextEnd>
+	<LinkerScore>1.1215511739174164</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Length</WikiTitle>
+		<WikiTitleID>18542</WikiTitleID>
+		<RankerScore>0.44765865454911374</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Length</WikiTitle> <WikiTitleID>18542</WikiTitleID> <RankerScore>0.44765865454911374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vowel_length</WikiTitle> <WikiTitleID>992991</WikiTitleID> <RankerScore>0.028210048746619122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Line_and_length</WikiTitle> <WikiTitleID>3089705</WikiTitleID> <RankerScore>0.0287949265658066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Length_of_a_module</WikiTitle> <WikiTitleID>816070</WikiTitleID> <RankerScore>0.034617545085554806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Length_(phonetics)</WikiTitle> <WikiTitleID>1755547</WikiTitleID> <RankerScore>0.0287949265658066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gemination</WikiTitle> <WikiTitleID>752720</WikiTitleID> <RankerScore>0.0287949265658066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arc_length</WikiTitle> <WikiTitleID>1898401</WikiTitleID> <RankerScore>0.0287949265658066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bond_length</WikiTitle> <WikiTitleID>2423723</WikiTitleID> <RankerScore>0.0287949265658066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horse_length</WikiTitle> <WikiTitleID>13922564</WikiTitleID> <RankerScore>0.0287949265658066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Debye_length</WikiTitle> <WikiTitleID>1158235</WikiTitleID> <RankerScore>0.0287949265658066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Syllable_weight</WikiTitle> <WikiTitleID>1078447</WikiTitleID> <RankerScore>0.0287949265658066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Planck_length</WikiTitle> <WikiTitleID>748908</WikiTitleID> <RankerScore>0.0287949265658066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orders_of_magnitude_(length)</WikiTitle> <WikiTitleID>203433</WikiTitleID> <RankerScore>0.0287949265658066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norm_(mathematics)</WikiTitle> <WikiTitleID>990534</WikiTitleID> <RankerScore>0.0287949265658066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>File_size</WikiTitle> <WikiTitleID>2608327</WikiTitleID> <RankerScore>0.0287949265658066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dimension_(mathematics_and_physics)</WikiTitle> <WikiTitleID>8398</WikiTitleID> <RankerScore>0.0287949265658066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Astronomical_system_of_units</WikiTitle> <WikiTitleID>471476</WikiTitleID> <RankerScore>0.0287949265658066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Epiphyseal_plate</WikiTitle> <WikiTitleID>6033118</WikiTitleID> <RankerScore>0.0287949265658066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glossary_of_cricket_terms</WikiTitle> <WikiTitleID>463755</WikiTitleID> <RankerScore>0.0287949265658066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Duration</WikiTitle> <WikiTitleID>164117</WikiTitleID> <RankerScore>0.0287949265658066</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>contour</EntitySurfaceForm>
+	<EntityTextStart>1113</EntityTextStart>
+	<EntityTextEnd>1120</EntityTextEnd>
+	<LinkerScore>3.1571196693812484</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Contour_line</WikiTitle>
+		<WikiTitleID>650086</WikiTitleID>
+		<RankerScore>0.8927476407649353</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Contour_line</WikiTitle> <WikiTitleID>650086</WikiTitleID> <RankerScore>0.8927476407649353</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Contour_(linguistics)</WikiTitle> <WikiTitleID>11443884</WikiTitleID> <RankerScore>0.08000751799837384</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Methods_of_contour_integration</WikiTitle> <WikiTitleID>470328</WikiTitleID> <RankerScore>0.027244841236690857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Methods_of_contour_integration</WikiTitle> <WikiTitleID>704359</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the figure</EntitySurfaceForm>
+	<EntityTextStart>1131</EntityTextStart>
+	<EntityTextEnd>1141</EntityTextEnd>
+	<LinkerScore>2.3431007792295984</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Figure_painting</WikiTitle>
+		<WikiTitleID>405304</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>genre</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Figure_painting</WikiTitle> <WikiTitleID>405304</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>figure</EntitySurfaceForm>
+	<EntityTextStart>1135</EntityTextStart>
+	<EntityTextEnd>1141</EntityTextEnd>
+	<LinkerScore>1.139387062675619</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Figure</WikiTitle>
+		<WikiTitleID>427100</WikiTitleID>
+		<RankerScore>0.3310902739880894</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Figure</WikiTitle> <WikiTitleID>427100</WikiTitleID> <RankerScore>0.3310902739880894</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Figure_(music)</WikiTitle> <WikiTitleID>1053990</WikiTitleID> <RankerScore>0.16593320423554364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Figure_(wood)</WikiTitle> <WikiTitleID>2947653</WikiTitleID> <RankerScore>0.09069828852825565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fitness_and_figure_competition</WikiTitle> <WikiTitleID>4111812</WikiTitleID> <RankerScore>0.04580869258312348</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Figurine</WikiTitle> <WikiTitleID>337038</WikiTitleID> <RankerScore>0.04580869258312348</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shape</WikiTitle> <WikiTitleID>169191</WikiTitleID> <RankerScore>0.04580869258312348</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_physical_appearance</WikiTitle> <WikiTitleID>211451</WikiTitleID> <RankerScore>0.04580869258312348</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Figure_of_speech</WikiTitle> <WikiTitleID>77691</WikiTitleID> <RankerScore>0.04580869258312348</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Figure_painting</WikiTitle> <WikiTitleID>405304</WikiTitleID> <RankerScore>0.04580869258312348</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monument</WikiTitle> <WikiTitleID>525098</WikiTitleID> <RankerScore>0.04580869258312348</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Action_figure</WikiTitle> <WikiTitleID>174074</WikiTitleID> <RankerScore>0.04580869258312348</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Figure_skating</WikiTitle> <WikiTitleID>11152</WikiTitleID> <RankerScore>0.04580869258312348</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>computed</EntitySurfaceForm>
+	<EntityTextStart>1145</EntityTextStart>
+	<EntityTextEnd>1153</EntityTextEnd>
+	<LinkerScore>-0.4757439804133399</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Computer_simulation</WikiTitle>
+		<WikiTitleID>375416</WikiTitleID>
+		<RankerScore>0.4992777018578265</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Computation</WikiTitle> <WikiTitleID>5926</WikiTitleID> <RankerScore>0.3524089894068108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_simulation</WikiTitle> <WikiTitleID>375416</WikiTitleID> <RankerScore>0.4992777018578265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computable_number</WikiTitle> <WikiTitleID>6206</WikiTitleID> <RankerScore>0.14831330873536275</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

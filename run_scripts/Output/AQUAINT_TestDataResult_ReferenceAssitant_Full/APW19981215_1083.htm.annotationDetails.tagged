@@ -1,0 +1,609 @@
+<ANNOTATION>
+   German  <b>zoo</b>  <b>hopes</b> court will  <b>allow</b> it to accept  <b>baby elephants</b><br><br> The   <a class="wiki" href="http://en.wikipedia.org/wiki/Dresden" cat="place	capital	city">Dresden</a>      <a class="wiki" href="http://en.wikipedia.org/wiki/Zoo" cat="right">Zoo</a>     <b>went</b> to court  <b>Tuesday</b> to challenge   <b>Environment</b> Minister  <a class="wiki" href="http://en.wikipedia.org/wiki/Jürgen_Trittin" cat="person	politician	minister	member">Juergen Trittin</a> 's   order forbidding the  <b>import</b> of four baby   <b>elephants</b>   taken from the wild in   <a class="wiki" href="http://en.wikipedia.org/wiki/Africa" cat="">Africa</a>    and abused. <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Zoo" cat="right">Zoo</a>   <b>director</b> Hubert Luecker said the  <b>complaint</b> was filed with an  <b>administrative court</b> in   <a class="wiki" href="http://en.wikipedia.org/wiki/Cologne" cat="city	colony	town	legion	place	site	member	community">Cologne</a>   . <br><br> The  <b>elephants</b>, which were to be sent this month to the  <a class="wiki" href="http://en.wikipedia.org/wiki/Dresden" cat="place	capital	city">Dresden</a>  and   <a class="wiki" href="http://en.wikipedia.org/wiki/Erfurt" cat="capital	city">Erfurt</a>    zoos in eastern   <a class="wiki" href="http://en.wikipedia.org/wiki/Germany" cat="state	republic	country	member	nation">Germany</a>   , were part of a group of 30 young  <b>elephants</b> captured in August from herds in   <a class="wiki" href="http://en.wikipedia.org/wiki/Botswana" cat="country	member	state">Botswana</a>    and taken to a   <a class="wiki" href="http://en.wikipedia.org/wiki/South_Africa" cat="nation	member	country	state">South African</a>    farm. <br><br> A  <a class="wiki" href="http://en.wikipedia.org/wiki/South_Africa" cat="nation	member	country	state">South African</a>   <b>judge</b> ruled early this month that the  <b>animals</b> had been abused and deprived of  <b>water</b> at the farm. He granted temporary  <b>custody</b> to the   <a class="wiki" href="http://en.wikipedia.org/wiki/National_Society_for_the_Prevention_of_Cruelty_to_Children" cat="organisation	organization	establishment">National Society for the Prevention of Cruelty</a>  to  <a class="wiki" href="http://en.wikipedia.org/wiki/Animals_(album)" cat="album">Animals</a>   . <br><br> But while the  <b>judge</b> approved the  <b>export</b> of four  <b>baby elephants</b> to  <a class="wiki" href="http://en.wikipedia.org/wiki/Germany" cat="state	republic	country	member	nation">Germany</a>  and three to   <a class="wiki" href="http://en.wikipedia.org/wiki/Switzerland" cat="country	state">Switzerland</a>   ,  <a class="wiki" href="http://en.wikipedia.org/wiki/Jürgen_Trittin" cat="person	politician	minister	member">Trittin</a>  last week said  <a class="wiki" href="http://en.wikipedia.org/wiki/Germany" cat="state	republic	country	member	nation">Germany</a>  would protest the abuse of animals by not accepting them in its  <b>zoos</b>. <br><br> Others argue the  <b>elephants</b> may  <b>face</b> a worse  <b>fate</b> if they don't come to  <a class="wiki" href="http://en.wikipedia.org/wiki/Germany" cat="state	republic	country	member	nation">Germany</a> . <br><br> Norbert Otto, a federal  <b>lawmaker</b> from  <a class="wiki" href="http://en.wikipedia.org/wiki/Erfurt" cat="capital	city">Erfurt</a> , demanded in   <b>parliament</b>   Tuesday that  <a class="wiki" href="http://en.wikipedia.org/wiki/Jürgen_Trittin" cat="person	politician	minister	member">Trittin</a>  take steps to prevent the  <b>animals</b> from being   <b>put to sleep</b>   in  <a class="wiki" href="http://en.wikipedia.org/wiki/South_Africa" cat="nation	member	country	state">South Africa</a> . <br><br> In addition, the  <b>cultural</b> minister of   <a class="wiki" href="http://en.wikipedia.org/wiki/Saxony" cat="state	region">Saxony</a>  , of which  <a class="wiki" href="http://en.wikipedia.org/wiki/Dresden" cat="place	capital	city">Dresden</a>  is the  <b>capital</b>, asked the  <b>state</b>'s 740,000  <b>school</b> children to write letters of protest urging Tritten to  <b>allow</b> the  <b>elephants</b> into Germany. (aet-pfg) <br><br>
+</ANNOTATION>
+*Entity:[German,textSpan=(0-9)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[zoo,textSpan=(10-13)]	-Disambiguation:(tid=9096372, Title name=Zoo) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hopes,textSpan=(14-19)]	-Disambiguation:(tid=3658264, Title name=Huntington's_Disease_Outreach_Project_for_Education_at_Stanford) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[court,textSpan=(20-25)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[allow,textSpan=(31-36)]	-Disambiguation:(tid=3658264, Title name=Allow) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[accept,textSpan=(43-49)]	-Disambiguation:(tid=42295, Title name=Download) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[baby,textSpan=(50-54)]	-Disambiguation:(tid=73165, Title name=Infant) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[baby elephants,textSpan=(50-64)]	-Disambiguation:(tid=9279, Title name=Elephant) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[elephants,textSpan=(55-64)]	-Disambiguation:(tid=9279, Title name=Elephant) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Dresden,textSpan=(72-79)]	-Disambiguation:(tid=37410, Title name=Dresden) gold wikification:=Dresden isCorrectPrediction=Correct
+*Entity:[Zoo,textSpan=(83-86)]	-Disambiguation:(tid=9096372, Title name=Zoo) gold wikification:=Zoo isCorrectPrediction=Correct
+*Entity:[went,textSpan=(89-93)]	-Disambiguation:(tid=5773695, Title name=Went) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[court,textSpan=(97-102)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Tuesday,textSpan=(103-110)]	-Disambiguation:(tid=54635, Title name=Tuesday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[challenge,textSpan=(114-123)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Environment Minister,textSpan=(125-145)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Environment,textSpan=(125-136)]	-Disambiguation:(tid=558685, Title name=Natural_environment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Environment Minister Juergen Trittin,textSpan=(125-161)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Environment Minister Juergen Trittin's,textSpan=(125-163)]	-Disambiguation:*null* gold wikification:=Jürgen_Trittin isCorrectPrediction=Incorrect
+*Entity:[Minister,textSpan=(137-145)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Juergen Trittin,textSpan=(146-161)]	-Disambiguation:(tid=216894, Title name=Jürgen_Trittin) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[import,textSpan=(187-193)]	-Disambiguation:(tid=509070, Title name=Ripping) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[elephants,textSpan=(208-217)]	-Disambiguation:(tid=9279, Title name=Elephant) gold wikification:=Elephant isCorrectPrediction=Correct
+*Entity:[the wild,textSpan=(231-239)]	-Disambiguation:(tid=396275, Title name=Wilderness) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wild,textSpan=(235-239)]	-Disambiguation:(tid=144219, Title name=Wildlife) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Africa,textSpan=(244-250)]	-Disambiguation:(tid=5334607, Title name=Africa) gold wikification:=Africa isCorrectPrediction=Correct
+*Entity:[Zoo,textSpan=(268-271)]	-Disambiguation:(tid=9096372, Title name=Zoo) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[director,textSpan=(272-280)]	-Disambiguation:(tid=506181, Title name=Film_director) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hubert,textSpan=(281-287)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hubert Luecker,textSpan=(281-295)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the complaint,textSpan=(301-314)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[complaint,textSpan=(305-314)]	-Disambiguation:(tid=7357, Title name=Complaint) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[filed,textSpan=(319-324)]	-Disambiguation:(tid=1136991, Title name=Filing_(legal)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[administrative court,textSpan=(333-353)]	-Disambiguation:(tid=2560, Title name=Administrative_law) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[administrative,textSpan=(333-347)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[court,textSpan=(348-353)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cologne,textSpan=(358-365)]	-Disambiguation:(tid=6187, Title name=Cologne) gold wikification:=Cologne isCorrectPrediction=Correct
+*Entity:[The elephants,textSpan=(372-385)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[elephants,textSpan=(376-385)]	-Disambiguation:(tid=9279, Title name=Elephant) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[were to,textSpan=(393-400)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[to be,textSpan=(398-403)]	-Disambiguation:(tid=5630, Title name=Copula) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sent,textSpan=(404-408)]	-Disambiguation:(tid=666270, Title name=Mission_(Christianity)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[month,textSpan=(414-419)]	-Disambiguation:(tid=20354, Title name=Month) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Dresden and Erfurt,textSpan=(427-446)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Dresden,textSpan=(427-434)]	-Disambiguation:(tid=37410, Title name=Dresden) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Erfurt,textSpan=(440-446)]	-Disambiguation:(tid=9481, Title name=Erfurt) gold wikification:=Erfurt isCorrectPrediction=Correct
+*Entity:[Germany,textSpan=(466-473)]	-Disambiguation:(tid=11867, Title name=Germany) gold wikification:=Germany isCorrectPrediction=Correct
+*Entity:[a group,textSpan=(490-497)]	-Disambiguation:(tid=15160118, Title name=Dirty_thirty_(Guantanamo_Bay_Naval_Base)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[group,textSpan=(492-497)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[30,textSpan=(501-503)]	-Disambiguation:(tid=27843, Title name=September_30) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[young,textSpan=(504-509)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[elephants,textSpan=(510-519)]	-Disambiguation:(tid=9279, Title name=Elephant) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[August,textSpan=(532-538)]	-Disambiguation:(tid=1005, Title name=August) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[herds,textSpan=(544-549)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Botswana,textSpan=(554-562)]	-Disambiguation:(tid=3464, Title name=Botswana) gold wikification:=Botswana isCorrectPrediction=Correct
+*Entity:[South African,textSpan=(581-594)]	-Disambiguation:(tid=17416221, Title name=South_Africa) gold wikification:=South_Africa isCorrectPrediction=Correct
+*Entity:[South African,textSpan=(608-621)]	-Disambiguation:(tid=17416221, Title name=South_Africa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[South,textSpan=(608-613)]	-Disambiguation:(tid=179553, Title name=Southern_United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[African,textSpan=(614-621)]	-Disambiguation:(tid=17416221, Title name=South_Africa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[judge,textSpan=(622-627)]	-Disambiguation:(tid=44719, Title name=Judge) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[early,textSpan=(634-639)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[month,textSpan=(645-650)]	-Disambiguation:(tid=20354, Title name=Month) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the animals,textSpan=(656-667)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[animals,textSpan=(660-667)]	-Disambiguation:(tid=11039790, Title name=Animal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[had been,textSpan=(668-676)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[abused,textSpan=(677-683)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[deprived,textSpan=(688-696)]	-Disambiguation:(tid=1962927, Title name=Imperial_ban) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[water,textSpan=(700-705)]	-Disambiguation:(tid=33306, Title name=Water) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the farm,textSpan=(709-717)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[farm,textSpan=(713-717)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[He,textSpan=(719-721)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[temporary,textSpan=(730-739)]	-Disambiguation:(tid=2739282, Title name=Temporary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[custody,textSpan=(740-747)]	-Disambiguation:(tid=223886, Title name=Custody) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[National Society for the Prevention of Cruelty,textSpan=(756-802)]	-Disambiguation:(tid=3658264, Title name=National_Society_for_the_Prevention_of_Cruelty_to_Children) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[National Society,textSpan=(756-772)]	-Disambiguation:(tid=609027, Title name=List_of_Red_Cross_and_Red_Crescent_Societies) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Prevention,textSpan=(781-791)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Prevention of Cruelty,textSpan=(781-802)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cruelty,textSpan=(795-802)]	-Disambiguation:(tid=232428, Title name=Cruelty) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Animals,textSpan=(806-813)]	-Disambiguation:(tid=155972, Title name=Animals_(album)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the judge,textSpan=(830-839)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[judge,textSpan=(834-839)]	-Disambiguation:(tid=44719, Title name=Judge) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[export,textSpan=(853-859)]	-Disambiguation:(tid=218449, Title name=Illegal_drug_trade) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[baby,textSpan=(868-872)]	-Disambiguation:(tid=73165, Title name=Infant) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[baby elephants,textSpan=(868-882)]	-Disambiguation:(tid=9279, Title name=Elephant) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[elephants,textSpan=(873-882)]	-Disambiguation:(tid=9279, Title name=Elephant) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Germany,textSpan=(886-893)]	-Disambiguation:(tid=11867, Title name=Germany) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Switzerland,textSpan=(908-919)]	-Disambiguation:(tid=26748, Title name=Switzerland) gold wikification:=Switzerland isCorrectPrediction=Correct
+*Entity:[Switzerland , Trittin,textSpan=(908-930)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Trittin,textSpan=(923-930)]	-Disambiguation:(tid=216894, Title name=Jürgen_Trittin) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[week,textSpan=(936-940)]	-Disambiguation:(tid=33538, Title name=Week) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Germany,textSpan=(946-953)]	-Disambiguation:(tid=11867, Title name=Germany) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[protest,textSpan=(960-967)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the abuse,textSpan=(968-977)]	-Disambiguation:(tid=1926594, Title name=Nature_of_Abu_Ghraib_abuse) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[abuse,textSpan=(972-977)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[animals,textSpan=(981-988)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[zoos,textSpan=(1018-1022)]	-Disambiguation:(tid=9096372, Title name=Zoo) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Others,textSpan=(1027-1033)]	-Disambiguation:(tid=3134692, Title name=Others_(Lost)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the elephants,textSpan=(1040-1053)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[elephants,textSpan=(1044-1053)]	-Disambiguation:(tid=9279, Title name=Elephant) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[face,textSpan=(1058-1062)]	-Disambiguation:(tid=53234, Title name=Face) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[worse,textSpan=(1065-1070)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fate,textSpan=(1071-1075)]	-Disambiguation:(tid=469691, Title name=Destiny) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Germany,textSpan=(1098-1105)]	-Disambiguation:(tid=11867, Title name=Germany) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Norbert Otto,textSpan=(1110-1122)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Norbert,textSpan=(1110-1117)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Otto,textSpan=(1118-1122)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[federal,textSpan=(1126-1133)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[lawmaker,textSpan=(1134-1142)]	-Disambiguation:(tid=661622, Title name=Legislator) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Erfurt,textSpan=(1148-1154)]	-Disambiguation:(tid=9481, Title name=Erfurt) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[parliament,textSpan=(1169-1179)]	-Disambiguation:(tid=24406, Title name=Parliament) gold wikification:=Bundestag isCorrectPrediction=Incorrect
+*Entity:[Tuesday,textSpan=(1182-1189)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Trittin,textSpan=(1195-1202)]	-Disambiguation:(tid=216894, Title name=Jürgen_Trittin) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[steps,textSpan=(1208-1213)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[prevent,textSpan=(1217-1224)]	-Disambiguation:(tid=1228878, Title name=Prevention) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the animals,textSpan=(1225-1236)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[animals,textSpan=(1229-1236)]	-Disambiguation:(tid=11039790, Title name=Animal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[put to sleep,textSpan=(1249-1261)]	-Disambiguation:(tid=631308, Title name=Animal_euthanasia) gold wikification:=Animal_euthanasia isCorrectPrediction=Correct
+*Entity:[sleep,textSpan=(1256-1261)]	-Disambiguation:(tid=27834, Title name=Sleep) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[South,textSpan=(1267-1272)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[South Africa,textSpan=(1267-1279)]	-Disambiguation:(tid=17416221, Title name=South_Africa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Africa,textSpan=(1273-1279)]	-Disambiguation:(tid=17416221, Title name=South_Africa) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[addition,textSpan=(1287-1295)]	-Disambiguation:(tid=61338, Title name=Addition) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cultural,textSpan=(1301-1309)]	-Disambiguation:(tid=6418, Title name=Culture) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[minister,textSpan=(1310-1318)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saxony,textSpan=(1323-1329)]	-Disambiguation:(tid=28395, Title name=Saxony) gold wikification:=Saxony isCorrectPrediction=Correct
+*Entity:[Dresden,textSpan=(1341-1348)]	-Disambiguation:(tid=37410, Title name=Dresden) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the capital,textSpan=(1352-1363)]	-Disambiguation:(tid=108956, Title name=Washington,_D.C.) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[capital,textSpan=(1356-1363)]	-Disambiguation:(tid=181337, Title name=Capital) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the state,textSpan=(1371-1380)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[state,textSpan=(1375-1380)]	-Disambiguation:(tid=217450, Title name=States_of_Germany) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[school children,textSpan=(1391-1406)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[school,textSpan=(1391-1397)]	-Disambiguation:(tid=28022, Title name=School) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[children,textSpan=(1398-1406)]	-Disambiguation:(tid=128987, Title name=Child) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[write,textSpan=(1410-1415)]	-Disambiguation:(tid=32977, Title name=Writing) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[letters,textSpan=(1416-1423)]	-Disambiguation:(tid=3675310, Title name=Letter_(alphabet)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[protest,textSpan=(1427-1434)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Tritten,textSpan=(1442-1449)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[allow,textSpan=(1453-1458)]	-Disambiguation:(tid=3658264, Title name=Allow) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the elephants,textSpan=(1459-1472)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[elephants,textSpan=(1463-1472)]	-Disambiguation:(tid=9279, Title name=Elephant) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Germany,textSpan=(1478-1485)]	-Disambiguation:(tid=11867, Title name=Germany) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'German' start in text:0 end in text: 9; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'zoo' start in text:10 end in text: 13; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hopes' start in text:14 end in text: 19; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'court' start in text:20 end in text: 25; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'allow' start in text:31 end in text: 36; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'accept' start in text:43 end in text: 49; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'baby' start in text:50 end in text: 54; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'baby elephants' start in text:50 end in text: 64; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'elephants' start in text:55 end in text: 64; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Dresden' start in text:72 end in text: 79; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Zoo' start in text:83 end in text: 86; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'went' start in text:89 end in text: 93; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'court' start in text:97 end in text: 102; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Tuesday' start in text:103 end in text: 110; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'challenge' start in text:114 end in text: 123; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Environment Minister' start in text:125 end in text: 145; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Environment' start in text:125 end in text: 136; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Environment Minister Juergen Trittin' start in text:125 end in text: 161; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Environment Minister Juergen Trittin's' start in text:125 end in text: 163; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Minister' start in text:137 end in text: 145; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Juergen Trittin' start in text:146 end in text: 161; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'import' start in text:187 end in text: 193; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'elephants' start in text:208 end in text: 217; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the wild' start in text:231 end in text: 239; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wild' start in text:235 end in text: 239; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Africa' start in text:244 end in text: 250; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Zoo' start in text:268 end in text: 271; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'director' start in text:272 end in text: 280; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hubert' start in text:281 end in text: 287; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hubert Luecker' start in text:281 end in text: 295; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'the complaint' start in text:301 end in text: 314; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'complaint' start in text:305 end in text: 314; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'filed' start in text:319 end in text: 324; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'administrative court' start in text:333 end in text: 353; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'administrative' start in text:333 end in text: 347; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'court' start in text:348 end in text: 353; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cologne' start in text:358 end in text: 365; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The elephants' start in text:372 end in text: 385; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'elephants' start in text:376 end in text: 385; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'were to' start in text:393 end in text: 400; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'to be' start in text:398 end in text: 403; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sent' start in text:404 end in text: 408; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'month' start in text:414 end in text: 419; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Dresden and Erfurt' start in text:427 end in text: 446; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Dresden' start in text:427 end in text: 434; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Erfurt' start in text:440 end in text: 446; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Germany' start in text:466 end in text: 473; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a group' start in text:490 end in text: 497; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'group' start in text:492 end in text: 497; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '30' start in text:501 end in text: 503; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'young' start in text:504 end in text: 509; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'elephants' start in text:510 end in text: 519; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'August' start in text:532 end in text: 538; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'herds' start in text:544 end in text: 549; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Botswana' start in text:554 end in text: 562; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'South African' start in text:581 end in text: 594; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'South African' start in text:608 end in text: 621; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'South' start in text:608 end in text: 613; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'African' start in text:614 end in text: 621; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'judge' start in text:622 end in text: 627; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'early' start in text:634 end in text: 639; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'month' start in text:645 end in text: 650; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the animals' start in text:656 end in text: 667; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'animals' start in text:660 end in text: 667; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'had been' start in text:668 end in text: 676; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'abused' start in text:677 end in text: 683; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'deprived' start in text:688 end in text: 696; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'water' start in text:700 end in text: 705; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the farm' start in text:709 end in text: 717; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'farm' start in text:713 end in text: 717; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'He' start in text:719 end in text: 721; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'temporary' start in text:730 end in text: 739; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'custody' start in text:740 end in text: 747; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'National Society for the Prevention of Cruelty' start in text:756 end in text: 802; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'National Society' start in text:756 end in text: 772; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Prevention' start in text:781 end in text: 791; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Prevention of Cruelty' start in text:781 end in text: 802; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Cruelty' start in text:795 end in text: 802; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Animals' start in text:806 end in text: 813; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the judge' start in text:830 end in text: 839; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'judge' start in text:834 end in text: 839; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'export' start in text:853 end in text: 859; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'baby' start in text:868 end in text: 872; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'baby elephants' start in text:868 end in text: 882; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'elephants' start in text:873 end in text: 882; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Germany' start in text:886 end in text: 893; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Switzerland' start in text:908 end in text: 919; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Switzerland , Trittin' start in text:908 end in text: 930; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Trittin' start in text:923 end in text: 930; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'week' start in text:936 end in text: 940; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Germany' start in text:946 end in text: 953; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'protest' start in text:960 end in text: 967; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the abuse' start in text:968 end in text: 977; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'abuse' start in text:972 end in text: 977; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'animals' start in text:981 end in text: 988; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'zoos' start in text:1018 end in text: 1022; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Others' start in text:1027 end in text: 1033; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the elephants' start in text:1040 end in text: 1053; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'elephants' start in text:1044 end in text: 1053; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'face' start in text:1058 end in text: 1062; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'worse' start in text:1065 end in text: 1070; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fate' start in text:1071 end in text: 1075; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Germany' start in text:1098 end in text: 1105; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Norbert Otto' start in text:1110 end in text: 1122; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Norbert' start in text:1110 end in text: 1117; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Otto' start in text:1118 end in text: 1122; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'federal' start in text:1126 end in text: 1133; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'lawmaker' start in text:1134 end in text: 1142; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Erfurt' start in text:1148 end in text: 1154; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'parliament' start in text:1169 end in text: 1179; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Tuesday' start in text:1182 end in text: 1189; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Trittin' start in text:1195 end in text: 1202; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'steps' start in text:1208 end in text: 1213; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'prevent' start in text:1217 end in text: 1224; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the animals' start in text:1225 end in text: 1236; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'animals' start in text:1229 end in text: 1236; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'put to sleep' start in text:1249 end in text: 1261; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sleep' start in text:1256 end in text: 1261; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'South' start in text:1267 end in text: 1272; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'South Africa' start in text:1267 end in text: 1279; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Africa' start in text:1273 end in text: 1279; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'addition' start in text:1287 end in text: 1295; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cultural' start in text:1301 end in text: 1309; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'minister' start in text:1310 end in text: 1318; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saxony' start in text:1323 end in text: 1329; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Dresden' start in text:1341 end in text: 1348; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the capital' start in text:1352 end in text: 1363; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'capital' start in text:1356 end in text: 1363; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the state' start in text:1371 end in text: 1380; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'state' start in text:1375 end in text: 1380; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'school children' start in text:1391 end in text: 1406; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'school' start in text:1391 end in text: 1397; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'children' start in text:1398 end in text: 1406; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'write' start in text:1410 end in text: 1415; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'letters' start in text:1416 end in text: 1423; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'protest' start in text:1427 end in text: 1434; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Tritten' start in text:1442 end in text: 1449; Entity types: NER,MISC,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'allow' start in text:1453 end in text: 1458; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'the elephants' start in text:1459 end in text: 1472; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'elephants' start in text:1463 end in text: 1472; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Germany' start in text:1478 end in text: 1485; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

@@ -1,0 +1,4031 @@
+<WikifierOutput>
+<InputFilename>
+APW19980620_0458.htm
+</InputFilename>
+<InputText>
+   Iranian POW negotiator holds talks with Iraqi ministers
+
+ The head of  Iran  &apos;s  prisoner of war   commission met with two  Iraqi Cabinet ministers   Saturday in a bid to glean information about thousands of Iranian POWs allegedly in Iraq, the official  Iraqi News Agency   reported. 
+
+ Iraqi Foreign Minister  Mohammed Saeed al-Sahhaf   told Abdullah al-Najafi that the two states needed to &quot;speed up the closure of what remains from the POW and  Missing-In-Action   file,&apos;&apos; INA said. 
+
+ The issue of POWs and missing persons remains a stumbling block to normalizing relations between the two neighbors. 
+
+ Iraq has long maintained that it has released all Iranian prisoners captured in the 1980-88  Iran-Iraq War  . The countries accuse each other of hiding POWs and preventing visits by the  International Committee of the Red Cross   to prisoner camps. 
+
+ The ICRC representative in  Baghdad  , Manuel Bessler, told The  Associated Press  that his organization has had difficulty visiting POWs on both sides on a regular basis. 
+
+ In April, Iran released 5,584 Iraqi POWs and Iraq freed three POWs and 316 Iranians it classified as civil law detainees in the largest exchange since 1990. 
+
+ More than 1 million people were killed or wounded in the Iran-Iraq War. 
+
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Iranian</EntitySurfaceForm>
+	<EntityTextStart>0</EntityTextStart>
+	<EntityTextEnd>10</EntityTextEnd>
+	<LinkerScore>-0.9584878440262558</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iran</WikiTitle>
+		<WikiTitleID>14653</WikiTitleID>
+		<RankerScore>0.43240412652063115</RankerScore>
+		<Attributes>nation	country	state	republic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iranian_peoples</WikiTitle> <WikiTitleID>1268748</WikiTitleID> <RankerScore>0.3352010265209347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iran</WikiTitle> <WikiTitleID>14653</WikiTitleID> <RankerScore>0.43240412652063115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian</WikiTitle> <WikiTitleID>483656</WikiTitleID> <RankerScore>0.16713279921682125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_languages</WikiTitle> <WikiTitleID>3402027</WikiTitleID> <RankerScore>0.004078877983850809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Iran</WikiTitle> <WikiTitleID>49116</WikiTitleID> <RankerScore>0.004078877983850809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranians</WikiTitle> <WikiTitleID>225111</WikiTitleID> <RankerScore>0.004078877983850809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Persian_people</WikiTitle> <WikiTitleID>24607</WikiTitleID> <RankerScore>0.004078877983850809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Iran</WikiTitle> <WikiTitleID>64699</WikiTitleID> <RankerScore>0.004078877983850809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_cuisine</WikiTitle> <WikiTitleID>2120585</WikiTitleID> <RankerScore>0.004078877983850809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greater_Iran</WikiTitle> <WikiTitleID>3978097</WikiTitleID> <RankerScore>0.004078877983850809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_peoples</WikiTitle> <WikiTitleID>4183615</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Iran</WikiTitle> <WikiTitleID>1343434</WikiTitleID> <RankerScore>0.004078877983850809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_American</WikiTitle> <WikiTitleID>2234641</WikiTitleID> <RankerScore>0.004078877983850809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_Canadian</WikiTitle> <WikiTitleID>2199069</WikiTitleID> <RankerScore>0.004078877983850809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Persian_language</WikiTitle> <WikiTitleID>11600</WikiTitleID> <RankerScore>0.004078877983850809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_architecture</WikiTitle> <WikiTitleID>1429763</WikiTitleID> <RankerScore>0.004078877983850809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_philosophy</WikiTitle> <WikiTitleID>2816803</WikiTitleID> <RankerScore>0.004078877983850809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Iran</WikiTitle> <WikiTitleID>965233</WikiTitleID> <RankerScore>0.004078877983850809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Iran</WikiTitle> <WikiTitleID>413618</WikiTitleID> <RankerScore>0.004078877983850809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Spanish_words_of_Iranian_origin</WikiTitle> <WikiTitleID>3439286</WikiTitleID> <RankerScore>0.004078877983850809</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>POW</EntitySurfaceForm>
+	<EntityTextStart>11</EntityTextStart>
+	<EntityTextEnd>14</EntityTextEnd>
+	<LinkerScore>5.33832124892078</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prisoner_of_war</WikiTitle>
+		<WikiTitleID>25008</WikiTitleID>
+		<RankerScore>0.9274188590281254</RankerScore>
+		<Attributes>prisoner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prisoner_of_war</WikiTitle> <WikiTitleID>25008</WikiTitleID> <RankerScore>0.9274188590281254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prisoner-of-war_camp</WikiTitle> <WikiTitleID>1029985</WikiTitleID> <RankerScore>0.07109699684465266</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polish_Military_Organisation</WikiTitle> <WikiTitleID>1899876</WikiTitleID> <RankerScore>3.9555364115329505E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>P.O.W._(TV_series)</WikiTitle> <WikiTitleID>8256970</WikiTitleID> <RankerScore>5.442952430343337E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Camp_Papago_Park</WikiTitle> <WikiTitleID>14727265</WikiTitleID> <RankerScore>5.442952430343337E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>negotiator</EntitySurfaceForm>
+	<EntityTextStart>15</EntityTextStart>
+	<EntityTextEnd>25</EntityTextEnd>
+	<LinkerScore>-0.8391095458881801</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Negotiation</WikiTitle>
+		<WikiTitleID>22083</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Negotiation</WikiTitle> <WikiTitleID>22083</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>talks</EntitySurfaceForm>
+	<EntityTextStart>32</EntityTextStart>
+	<EntityTextEnd>37</EntityTextEnd>
+	<LinkerScore>-3.7025351764310184</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Camp_David_Accords</WikiTitle>
+		<WikiTitleID>181901</WikiTitleID>
+		<RankerScore>0.5115194943026202</RankerScore>
+		<Attributes>effort	treaty	relations</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Drums_in_communication</WikiTitle> <WikiTitleID>708989</WikiTitleID> <RankerScore>0.07003363188425064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Strategic_Arms_Limitation_Talks</WikiTitle> <WikiTitleID>154849</WikiTitleID> <RankerScore>0.195169700469717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Camp_David_Accords</WikiTitle> <WikiTitleID>181901</WikiTitleID> <RankerScore>0.5115194943026202</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madrid_Conference_of_1991</WikiTitle> <WikiTitleID>1164618</WikiTitleID> <RankerScore>0.07442572444780406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Negotiation</WikiTitle> <WikiTitleID>22083</WikiTitleID> <RankerScore>0.07442572444780406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet–Lithuanian_Peace_Treaty</WikiTitle> <WikiTitleID>8851057</WikiTitleID> <RankerScore>0.07442572444780406</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iraqi</EntitySurfaceForm>
+	<EntityTextStart>43</EntityTextStart>
+	<EntityTextEnd>48</EntityTextEnd>
+	<LinkerScore>14.2444992065998</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iraq</WikiTitle>
+		<WikiTitleID>7515928</WikiTitleID>
+		<RankerScore>0.9921717708254</RankerScore>
+		<Attributes>state	country	monarchy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iraq</WikiTitle> <WikiTitleID>7515928</WikiTitleID> <RankerScore>0.9921717708254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Iraq</WikiTitle> <WikiTitleID>14666</WikiTitleID> <RankerScore>0.003155104500245296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Iraq</WikiTitle> <WikiTitleID>2255715</WikiTitleID> <RankerScore>1.4753097031311525E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Army</WikiTitle> <WikiTitleID>1576797</WikiTitleID> <RankerScore>0.003050284000910495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mesopotamian_Arabic</WikiTitle> <WikiTitleID>1439851</WikiTitleID> <RankerScore>1.4753097031311525E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_security_forces</WikiTitle> <WikiTitleID>4627429</WikiTitleID> <RankerScore>1.4753097031311525E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_dinar</WikiTitle> <WikiTitleID>246612</WikiTitleID> <RankerScore>1.4753097031311525E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdadi_Jews</WikiTitle> <WikiTitleID>2206118</WikiTitleID> <RankerScore>1.4753097031311525E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Air_Force</WikiTitle> <WikiTitleID>1817852</WikiTitleID> <RankerScore>1.4753097031311525E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Communist_Party</WikiTitle> <WikiTitleID>696035</WikiTitleID> <RankerScore>1.4753097031311525E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mesopotamia</WikiTitle> <WikiTitleID>20189</WikiTitleID> <RankerScore>1.4753097031311525E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Iraq</WikiTitle> <WikiTitleID>248451</WikiTitleID> <RankerScore>1.4753097031311525E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Persian_Iraq</WikiTitle> <WikiTitleID>3903005</WikiTitleID> <RankerScore>1.4753097031311525E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Interim_Government</WikiTitle> <WikiTitleID>762287</WikiTitleID> <RankerScore>1.4753097031311525E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>ministers</EntitySurfaceForm>
+	<EntityTextStart>49</EntityTextStart>
+	<EntityTextEnd>58</EntityTextEnd>
+	<LinkerScore>5.979163247672213</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Minister_(government)</WikiTitle>
+		<WikiTitleID>739237</WikiTitleID>
+		<RankerScore>0.4243464349270134</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Minister_(government)</WikiTitle> <WikiTitleID>739237</WikiTitleID> <RankerScore>0.4243464349270134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_(Christianity)</WikiTitle> <WikiTitleID>739238</WikiTitleID> <RankerScore>0.044645288476960865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_of_the_Crown</WikiTitle> <WikiTitleID>654711</WikiTitleID> <RankerScore>0.10284428219618544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diplomatic_rank</WikiTitle> <WikiTitleID>1204401</WikiTitleID> <RankerScore>0.04281639943998403</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elder_(Methodism)</WikiTitle> <WikiTitleID>7617666</WikiTitleID> <RankerScore>0.04281639943998403</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Clergy</WikiTitle> <WikiTitleID>50405</WikiTitleID> <RankerScore>0.04281639943998403</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scottish_Government</WikiTitle> <WikiTitleID>269142</WikiTitleID> <RankerScore>0.04281639943998403</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cabinet_of_Israel</WikiTitle> <WikiTitleID>5006115</WikiTitleID> <RankerScore>0.04281639943998403</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_of_State</WikiTitle> <WikiTitleID>248410</WikiTitleID> <RankerScore>0.04281639943998403</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister</WikiTitle> <WikiTitleID>19529</WikiTitleID> <RankerScore>0.04281639943998403</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Scottish_Governments</WikiTitle> <WikiTitleID>1714337</WikiTitleID> <RankerScore>0.04281639943998403</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_(Catholic_Church)</WikiTitle> <WikiTitleID>8653075</WikiTitleID> <RankerScore>0.04281639943998403</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Council_of_Ministers_of_the_Netherlands</WikiTitle> <WikiTitleID>13033436</WikiTitleID> <RankerScore>0.04281639943998403</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The head</EntitySurfaceForm>
+	<EntityTextStart>61</EntityTextStart>
+	<EntityTextEnd>69</EntityTextEnd>
+	<LinkerScore>-3.6618986552007544</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Taxidermy</WikiTitle>
+		<WikiTitleID>179240</WikiTitleID>
+		<RankerScore>0.5179559984944478</RankerScore>
+		<Attributes>customs	arts</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>David_Geffen</WikiTitle> <WikiTitleID>320917</WikiTitleID> <RankerScore>0.48204400150555216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Taxidermy</WikiTitle> <WikiTitleID>179240</WikiTitleID> <RankerScore>0.5179559984944478</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The</EntitySurfaceForm>
+	<EntityTextStart>61</EntityTextStart>
+	<EntityTextEnd>64</EntityTextEnd>
+	<LinkerScore>-1.188030390751301</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Aqua_Teen_Hunger_Force_(season_2)</WikiTitle>
+		<WikiTitleID>9716508</WikiTitleID>
+		<RankerScore>0.6478847763399314</RankerScore>
+		<Attributes>season</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Article_(grammar)</WikiTitle> <WikiTitleID>48203</WikiTitleID> <RankerScore>0.14674830783327716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aqua_Teen_Hunger_Force_(season_2)</WikiTitle> <WikiTitleID>9716508</WikiTitleID> <RankerScore>0.6478847763399314</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Substantive_title</WikiTitle> <WikiTitleID>2447663</WikiTitleID> <RankerScore>0.11454859539774813</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Front_(World_War_I)</WikiTitle> <WikiTitleID>51499</WikiTitleID> <RankerScore>0.09081832042904334</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>head</EntitySurfaceForm>
+	<EntityTextStart>65</EntityTextStart>
+	<EntityTextEnd>69</EntityTextEnd>
+	<LinkerScore>0.37139213778574787</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Head</WikiTitle>
+		<WikiTitleID>1209545</WikiTitleID>
+		<RankerScore>0.3313224227173166</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Head</WikiTitle> <WikiTitleID>1209545</WikiTitleID> <RankerScore>0.3313224227173166</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_coach</WikiTitle> <WikiTitleID>533149</WikiTitleID> <RankerScore>0.03268597481058084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hydraulic_head</WikiTitle> <WikiTitleID>1854369</WikiTitleID> <RankerScore>0.052161198536906005</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_(linguistics)</WikiTitle> <WikiTitleID>887484</WikiTitleID> <RankerScore>0.0343429649373645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_(watercraft)</WikiTitle> <WikiTitleID>1675303</WikiTitleID> <RankerScore>0.0343429649373645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beer_head</WikiTitle> <WikiTitleID>1797851</WikiTitleID> <RankerScore>0.0343429649373645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cylinder_head</WikiTitle> <WikiTitleID>230978</WikiTitleID> <RankerScore>0.0343429649373645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pseudanthium</WikiTitle> <WikiTitleID>1209543</WikiTitleID> <RankerScore>0.0343429649373645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drumhead</WikiTitle> <WikiTitleID>322059</WikiTitleID> <RankerScore>0.0343429649373645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_(music)</WikiTitle> <WikiTitleID>2083240</WikiTitleID> <RankerScore>0.0343429649373645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rosh_yeshiva</WikiTitle> <WikiTitleID>817050</WikiTitleID> <RankerScore>0.0343429649373645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_(Unix)</WikiTitle> <WikiTitleID>297520</WikiTitleID> <RankerScore>0.0343429649373645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Disk_read-and-write_head</WikiTitle> <WikiTitleID>67310</WikiTitleID> <RankerScore>0.0343429649373645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>River_source</WikiTitle> <WikiTitleID>415088</WikiTitleID> <RankerScore>0.0343429649373645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_of_government</WikiTitle> <WikiTitleID>37570</WikiTitleID> <RankerScore>0.0343429649373645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_injury</WikiTitle> <WikiTitleID>37641</WikiTitleID> <RankerScore>0.0343429649373645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_of_rib</WikiTitle> <WikiTitleID>7042350</WikiTitleID> <RankerScore>0.0343429649373645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hydrostatic_head</WikiTitle> <WikiTitleID>7993061</WikiTitleID> <RankerScore>0.0343429649373645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chairman</WikiTitle> <WikiTitleID>3452243</WikiTitleID> <RankerScore>0.0343429649373645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_teacher</WikiTitle> <WikiTitleID>833159</WikiTitleID> <RankerScore>0.0343429649373645</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iran</EntitySurfaceForm>
+	<EntityTextStart>74</EntityTextStart>
+	<EntityTextEnd>78</EntityTextEnd>
+	<LinkerScore>23.113910967139045</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iran</WikiTitle>
+		<WikiTitleID>14653</WikiTitleID>
+		<RankerScore>0.9601069633870428</RankerScore>
+		<Attributes>nation	country	state	republic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iran</WikiTitle> <WikiTitleID>14653</WikiTitleID> <RankerScore>0.9601069633870428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iran_national_football_team</WikiTitle> <WikiTitleID>272865</WikiTitleID> <RankerScore>0.03989303661295725</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>prisoner of war</EntitySurfaceForm>
+	<EntityTextStart>84</EntityTextStart>
+	<EntityTextEnd>99</EntityTextEnd>
+	<LinkerScore>6.922076800955138</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prisoner_of_war</WikiTitle>
+		<WikiTitleID>25008</WikiTitleID>
+		<RankerScore>0.9970020517690791</RankerScore>
+		<Attributes>prisoner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prisoner_of_war</WikiTitle> <WikiTitleID>25008</WikiTitleID> <RankerScore>0.9970020517690791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prisoners_in_the_American_Revolutionary_War</WikiTitle> <WikiTitleID>440958</WikiTitleID> <RankerScore>0.0029979482309210135</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iraqi</EntitySurfaceForm>
+	<EntityTextStart>127</EntityTextStart>
+	<EntityTextEnd>132</EntityTextEnd>
+	<LinkerScore>12.427129171226424</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iraq</WikiTitle>
+		<WikiTitleID>7515928</WikiTitleID>
+		<RankerScore>0.9927024427089102</RankerScore>
+		<Attributes>state	country	monarchy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iraq</WikiTitle> <WikiTitleID>7515928</WikiTitleID> <RankerScore>0.9927024427089102</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Iraq</WikiTitle> <WikiTitleID>14666</WikiTitleID> <RankerScore>0.0028564101148078444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Iraq</WikiTitle> <WikiTitleID>2255715</WikiTitleID> <RankerScore>1.0770328785456655E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Army</WikiTitle> <WikiTitleID>1576797</WikiTitleID> <RankerScore>0.0032564110098818287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mesopotamian_Arabic</WikiTitle> <WikiTitleID>1439851</WikiTitleID> <RankerScore>1.0770328785456655E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_security_forces</WikiTitle> <WikiTitleID>4627429</WikiTitleID> <RankerScore>1.0770328785456655E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_dinar</WikiTitle> <WikiTitleID>246612</WikiTitleID> <RankerScore>1.0770328785456655E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdadi_Jews</WikiTitle> <WikiTitleID>2206118</WikiTitleID> <RankerScore>1.0770328785456655E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Air_Force</WikiTitle> <WikiTitleID>1817852</WikiTitleID> <RankerScore>1.0770328785456655E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Communist_Party</WikiTitle> <WikiTitleID>696035</WikiTitleID> <RankerScore>1.0770328785456655E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mesopotamia</WikiTitle> <WikiTitleID>20189</WikiTitleID> <RankerScore>1.0770328785456655E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Iraq</WikiTitle> <WikiTitleID>248451</WikiTitleID> <RankerScore>1.0770328785456655E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Persian_Iraq</WikiTitle> <WikiTitleID>3903005</WikiTitleID> <RankerScore>1.0770328785456655E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Interim_Government</WikiTitle> <WikiTitleID>762287</WikiTitleID> <RankerScore>1.0770328785456655E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Saturday</EntitySurfaceForm>
+	<EntityTextStart>153</EntityTextStart>
+	<EntityTextEnd>161</EntityTextEnd>
+	<LinkerScore>3.673244103655666</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Saturday</WikiTitle>
+		<WikiTitleID>54631</WikiTitleID>
+		<RankerScore>0.46508508286676625</RankerScore>
+		<Attributes>customs	days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Saturday</WikiTitle> <WikiTitleID>54631</WikiTitleID> <RankerScore>0.46508508286676625</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saturday_(novel)</WikiTitle> <WikiTitleID>1602072</WikiTitleID> <RankerScore>0.1927918529034623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shabbat</WikiTitle> <WikiTitleID>28809</WikiTitleID> <RankerScore>0.030230657077952708</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saturday_(Kids_in_Glass_Houses_song)</WikiTitle> <WikiTitleID>18208981</WikiTitleID> <RankerScore>0.04455605816454555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saturday_(song)</WikiTitle> <WikiTitleID>7555078</WikiTitleID> <RankerScore>0.04455605816454555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_16</WikiTitle> <WikiTitleID>8219</WikiTitleID> <RankerScore>0.04455605816454555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saturday_morning_cartoon</WikiTitle> <WikiTitleID>177831</WikiTitleID> <RankerScore>0.04455605816454555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paschal_cycle</WikiTitle> <WikiTitleID>1641203</WikiTitleID> <RankerScore>0.04455605816454555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saturday_(album)</WikiTitle> <WikiTitleID>18053549</WikiTitleID> <RankerScore>0.04455605816454555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_17</WikiTitle> <WikiTitleID>8322</WikiTitleID> <RankerScore>0.04455605816454555</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>bid</EntitySurfaceForm>
+	<EntityTextStart>167</EntityTextStart>
+	<EntityTextEnd>170</EntityTextEnd>
+	<LinkerScore>-0.39417553536460215</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>BID</WikiTitle>
+		<WikiTitleID>1065949</WikiTitleID>
+		<RankerScore>0.3300410785448953</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>BID</WikiTitle> <WikiTitleID>1065949</WikiTitleID> <RankerScore>0.3300410785448953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bidding</WikiTitle> <WikiTitleID>8586748</WikiTitleID> <RankerScore>0.05825717788338358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bids_for_the_2012_Summer_Olympics</WikiTitle> <WikiTitleID>169523</WikiTitleID> <RankerScore>0.03913724054112893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bid_price</WikiTitle> <WikiTitleID>1904366</WikiTitleID> <RankerScore>0.0477137085858827</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_bid_for_the_2016_Summer_Olympics</WikiTitle> <WikiTitleID>5553131</WikiTitleID> <RankerScore>0.0477137085858827</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bids_for_the_2014_Commonwealth_Games</WikiTitle> <WikiTitleID>14345191</WikiTitleID> <RankerScore>0.0477137085858827</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_Winter_Olympic_bid_scandal</WikiTitle> <WikiTitleID>1206062</WikiTitleID> <RankerScore>0.0477137085858827</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Kerry_presidential_campaign,_2004</WikiTitle> <WikiTitleID>507275</WikiTitleID> <RankerScore>0.0477137085858827</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doha_bid_for_the_2016_Summer_Olympics</WikiTitle> <WikiTitleID>13938490</WikiTitleID> <RankerScore>0.0477137085858827</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris_bid_for_the_2012_Summer_Olympics</WikiTitle> <WikiTitleID>1601189</WikiTitleID> <RankerScore>0.0477137085858827</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Halifax_bid_for_the_2014_Commonwealth_Games</WikiTitle> <WikiTitleID>14466876</WikiTitleID> <RankerScore>0.0477137085858827</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Senate_election_in_Minnesota,_2008</WikiTitle> <WikiTitleID>8637979</WikiTitleID> <RankerScore>0.0477137085858827</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bids_for_the_2014_Winter_Olympics</WikiTitle> <WikiTitleID>4144084</WikiTitleID> <RankerScore>0.0477137085858827</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Athens_2010_Youth_Olympics_bid</WikiTitle> <WikiTitleID>15293391</WikiTitleID> <RankerScore>0.0477137085858827</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_presidential_election,_1920</WikiTitle> <WikiTitleID>40536</WikiTitleID> <RankerScore>0.0477137085858827</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>glean</EntitySurfaceForm>
+	<EntityTextStart>174</EntityTextStart>
+	<EntityTextEnd>179</EntityTextEnd>
+	<LinkerScore>0.3764155012263608</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gleaning_(birds)</WikiTitle>
+		<WikiTitleID>10698707</WikiTitleID>
+		<RankerScore>0.7945266079559301</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gleaning_(birds)</WikiTitle> <WikiTitleID>10698707</WikiTitleID> <RankerScore>0.7945266079559301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gleaning</WikiTitle> <WikiTitleID>433129</WikiTitleID> <RankerScore>0.2054733920440698</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>thousands</EntitySurfaceForm>
+	<EntityTextStart>198</EntityTextStart>
+	<EntityTextEnd>207</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1000_(number)</WikiTitle>
+		<WikiTitleID>442472</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>integer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iranian</EntitySurfaceForm>
+	<EntityTextStart>211</EntityTextStart>
+	<EntityTextEnd>218</EntityTextEnd>
+	<LinkerScore>7.914875970499412</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iran</WikiTitle>
+		<WikiTitleID>14653</WikiTitleID>
+		<RankerScore>0.6431069699188917</RankerScore>
+		<Attributes>nation	country	state	republic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iranian_peoples</WikiTitle> <WikiTitleID>1268748</WikiTitleID> <RankerScore>0.22815335393007924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iran</WikiTitle> <WikiTitleID>14653</WikiTitleID> <RankerScore>0.6431069699188917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian</WikiTitle> <WikiTitleID>483656</WikiTitleID> <RankerScore>0.0758326570301975</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_languages</WikiTitle> <WikiTitleID>3402027</WikiTitleID> <RankerScore>0.0033066886950519733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Iran</WikiTitle> <WikiTitleID>49116</WikiTitleID> <RankerScore>0.0033066886950519733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranians</WikiTitle> <WikiTitleID>225111</WikiTitleID> <RankerScore>0.0033066886950519733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Persian_people</WikiTitle> <WikiTitleID>24607</WikiTitleID> <RankerScore>0.0033066886950519733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Iran</WikiTitle> <WikiTitleID>64699</WikiTitleID> <RankerScore>0.0033066886950519733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_cuisine</WikiTitle> <WikiTitleID>2120585</WikiTitleID> <RankerScore>0.0033066886950519733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greater_Iran</WikiTitle> <WikiTitleID>3978097</WikiTitleID> <RankerScore>0.0033066886950519733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_peoples</WikiTitle> <WikiTitleID>4183615</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Iran</WikiTitle> <WikiTitleID>1343434</WikiTitleID> <RankerScore>0.0033066886950519733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_American</WikiTitle> <WikiTitleID>2234641</WikiTitleID> <RankerScore>0.0033066886950519733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_Canadian</WikiTitle> <WikiTitleID>2199069</WikiTitleID> <RankerScore>0.0033066886950519733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Persian_language</WikiTitle> <WikiTitleID>11600</WikiTitleID> <RankerScore>0.0033066886950519733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_architecture</WikiTitle> <WikiTitleID>1429763</WikiTitleID> <RankerScore>0.0033066886950519733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_philosophy</WikiTitle> <WikiTitleID>2816803</WikiTitleID> <RankerScore>0.0033066886950519733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Iran</WikiTitle> <WikiTitleID>965233</WikiTitleID> <RankerScore>0.0033066886950519733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Iran</WikiTitle> <WikiTitleID>413618</WikiTitleID> <RankerScore>0.0033066886950519733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Spanish_words_of_Iranian_origin</WikiTitle> <WikiTitleID>3439286</WikiTitleID> <RankerScore>0.0033066886950519733</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>POWs</EntitySurfaceForm>
+	<EntityTextStart>219</EntityTextStart>
+	<EntityTextEnd>223</EntityTextEnd>
+	<LinkerScore>5.805701571238311</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prisoner_of_war</WikiTitle>
+		<WikiTitleID>25008</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>prisoner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prisoner_of_war</WikiTitle> <WikiTitleID>25008</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iraq</EntitySurfaceForm>
+	<EntityTextStart>237</EntityTextStart>
+	<EntityTextEnd>241</EntityTextEnd>
+	<LinkerScore>8.963298057880582</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iraq</WikiTitle>
+		<WikiTitleID>7515928</WikiTitleID>
+		<RankerScore>0.9963529044939592</RankerScore>
+		<Attributes>state	country	monarchy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iraq</WikiTitle> <WikiTitleID>7515928</WikiTitleID> <RankerScore>0.9963529044939592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraq_national_football_team</WikiTitle> <WikiTitleID>1039652</WikiTitleID> <RankerScore>1.9529546646197423E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraq_War</WikiTitle> <WikiTitleID>5043324</WikiTitleID> <RankerScore>0.0019464205555676537</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_invasion_of_Iraq</WikiTitle> <WikiTitleID>201936</WikiTitleID> <RankerScore>0.0013686726574878175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Iraq_(1932–58)</WikiTitle> <WikiTitleID>2900620</WikiTitleID> <RankerScore>1.9529546646197423E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Iraq_(Mandate_administration)</WikiTitle> <WikiTitleID>1038799</WikiTitleID> <RankerScore>1.9529546646197423E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Iraq_(2003–11)</WikiTitle> <WikiTitleID>228708</WikiTitleID> <RankerScore>1.9529546646197423E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Iraq</WikiTitle> <WikiTitleID>209247</WikiTitleID> <RankerScore>1.9529546646197423E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Iraq</WikiTitle> <WikiTitleID>14670</WikiTitleID> <RankerScore>1.9529546646197423E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gulf_War</WikiTitle> <WikiTitleID>182000</WikiTitleID> <RankerScore>1.9529546646197423E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Multi-National_Force_–_Iraq</WikiTitle> <WikiTitleID>5215751</WikiTitleID> <RankerScore>1.9529546646197423E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Iraq</WikiTitle> <WikiTitleID>2255715</WikiTitleID> <RankerScore>1.9529546646197423E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_security_forces</WikiTitle> <WikiTitleID>4627429</WikiTitleID> <RankerScore>1.9529546646197423E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anglo-Iraqi_War</WikiTitle> <WikiTitleID>1595906</WikiTitleID> <RankerScore>1.9529546646197423E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Kurdistan</WikiTitle> <WikiTitleID>679693</WikiTitleID> <RankerScore>1.9529546646197423E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operation_Telic</WikiTitle> <WikiTitleID>248175</WikiTitleID> <RankerScore>1.9529546646197423E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australian_contribution_to_the_2003_invasion_of_Iraq</WikiTitle> <WikiTitleID>202603</WikiTitleID> <RankerScore>1.9529546646197423E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Iraq</WikiTitle> <WikiTitleID>14664</WikiTitleID> <RankerScore>1.9529546646197423E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_Iraq</WikiTitle> <WikiTitleID>1025329</WikiTitleID> <RankerScore>1.9529546646197423E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>RAF_Iraq_Command</WikiTitle> <WikiTitleID>4537618</WikiTitleID> <RankerScore>1.9529546646197423E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iraqi</EntitySurfaceForm>
+	<EntityTextStart>290</EntityTextStart>
+	<EntityTextEnd>295</EntityTextEnd>
+	<LinkerScore>10.013179169257699</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iraq</WikiTitle>
+		<WikiTitleID>7515928</WikiTitleID>
+		<RankerScore>0.9912751208036548</RankerScore>
+		<Attributes>state	country	monarchy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iraq</WikiTitle> <WikiTitleID>7515928</WikiTitleID> <RankerScore>0.9912751208036548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Iraq</WikiTitle> <WikiTitleID>14666</WikiTitleID> <RankerScore>0.004599587607173846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Iraq</WikiTitle> <WikiTitleID>2255715</WikiTitleID> <RankerScore>1.1051269660619698E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Army</WikiTitle> <WikiTitleID>1576797</WikiTitleID> <RankerScore>0.002909651926503222</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mesopotamian_Arabic</WikiTitle> <WikiTitleID>1439851</WikiTitleID> <RankerScore>1.1051269660619698E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_security_forces</WikiTitle> <WikiTitleID>4627429</WikiTitleID> <RankerScore>1.1051269660619698E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_dinar</WikiTitle> <WikiTitleID>246612</WikiTitleID> <RankerScore>1.1051269660619698E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdadi_Jews</WikiTitle> <WikiTitleID>2206118</WikiTitleID> <RankerScore>1.1051269660619698E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Air_Force</WikiTitle> <WikiTitleID>1817852</WikiTitleID> <RankerScore>1.1051269660619698E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Communist_Party</WikiTitle> <WikiTitleID>696035</WikiTitleID> <RankerScore>1.1051269660619698E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mesopotamia</WikiTitle> <WikiTitleID>20189</WikiTitleID> <RankerScore>1.1051269660619698E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Iraq</WikiTitle> <WikiTitleID>248451</WikiTitleID> <RankerScore>1.1051269660619698E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Persian_Iraq</WikiTitle> <WikiTitleID>3903005</WikiTitleID> <RankerScore>1.1051269660619698E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Interim_Government</WikiTitle> <WikiTitleID>762287</WikiTitleID> <RankerScore>1.1051269660619698E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Foreign</EntitySurfaceForm>
+	<EntityTextStart>296</EntityTextStart>
+	<EntityTextEnd>303</EntityTextEnd>
+	<LinkerScore>-2.925902801047273</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Foreign</WikiTitle>
+		<WikiTitleID>1395675</WikiTitleID>
+		<RankerScore>0.649515566560586</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Foreign</WikiTitle> <WikiTitleID>1395675</WikiTitleID> <RankerScore>0.649515566560586</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_and_Commonwealth_Office</WikiTitle> <WikiTitleID>59653</WikiTitleID> <RankerScore>0.10710374380581736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_relations_of_Israel</WikiTitle> <WikiTitleID>74581</WikiTitleID> <RankerScore>0.2046656396902507</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_relations_of_South_Korea</WikiTitle> <WikiTitleID>27028</WikiTitleID> <RankerScore>0.019357524971672938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_language</WikiTitle> <WikiTitleID>1094802</WikiTitleID> <RankerScore>0.019357524971672938</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Foreign Minister</EntitySurfaceForm>
+	<EntityTextStart>296</EntityTextStart>
+	<EntityTextEnd>312</EntityTextEnd>
+	<LinkerScore>4.48552142506642</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Foreign_minister</WikiTitle>
+		<WikiTitleID>317153</WikiTitleID>
+		<RankerScore>0.35949468349029295</RankerScore>
+		<Attributes>minister	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Foreign_minister</WikiTitle> <WikiTitleID>317153</WikiTitleID> <RankerScore>0.35949468349029295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ministry_of_Foreign_and_European_Affairs_(France)</WikiTitle> <WikiTitleID>250002</WikiTitleID> <RankerScore>0.06946711514849933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ministry_of_Foreign_Affairs_(Romania)</WikiTitle> <WikiTitleID>6079447</WikiTitleID> <RankerScore>0.06879830175102418</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Foreign_Affairs_(Japan)</WikiTitle> <WikiTitleID>1326936</WikiTitleID> <RankerScore>0.029543523506481383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Foreign_Affairs_(Germany)</WikiTitle> <WikiTitleID>465438</WikiTitleID> <RankerScore>0.029543523506481383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Foreign_Affairs_(Fiji)</WikiTitle> <WikiTitleID>1777347</WikiTitleID> <RankerScore>0.029543523506481383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Foreign_Affairs_(Australia)</WikiTitle> <WikiTitleID>591908</WikiTitleID> <RankerScore>0.029543523506481383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_of_Foreign_Affairs_(Denmark)</WikiTitle> <WikiTitleID>1701225</WikiTitleID> <RankerScore>0.029543523506481383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_Affairs_Minister_of_Israel</WikiTitle> <WikiTitleID>650835</WikiTitleID> <RankerScore>0.029543523506481383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_relations_of_Cuba</WikiTitle> <WikiTitleID>5592</WikiTitleID> <RankerScore>0.029543523506481383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_of_Foreign_Affairs_(Nigeria)</WikiTitle> <WikiTitleID>5938324</WikiTitleID> <RankerScore>0.029543523506481383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_of_Foreign_Affairs_(Russia)</WikiTitle> <WikiTitleID>1316703</WikiTitleID> <RankerScore>0.029543523506481383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Foreign_Affairs_and_Trade</WikiTitle> <WikiTitleID>487125</WikiTitleID> <RankerScore>0.029543523506481383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_Minister_of_the_People&apos;s_Republic_of_China</WikiTitle> <WikiTitleID>4497735</WikiTitleID> <RankerScore>0.029543523506481383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_of_Foreign_Affairs_(Italy)</WikiTitle> <WikiTitleID>3051160</WikiTitleID> <RankerScore>0.029543523506481383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Foreign_Affairs_(Greece)</WikiTitle> <WikiTitleID>3989509</WikiTitleID> <RankerScore>0.029543523506481383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_of_Foreign_Affairs_(Estonia)</WikiTitle> <WikiTitleID>1794160</WikiTitleID> <RankerScore>0.029543523506481383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ministry_of_Foreign_Affairs_(Japan)</WikiTitle> <WikiTitleID>868429</WikiTitleID> <RankerScore>0.029543523506481383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Secretary_of_State_for_Foreign_and_Commonwealth_Affairs</WikiTitle> <WikiTitleID>59655</WikiTitleID> <RankerScore>0.029543523506481383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_of_Foreign_Affairs_(Egypt)</WikiTitle> <WikiTitleID>3664607</WikiTitleID> <RankerScore>0.029543523506481383</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Minister</EntitySurfaceForm>
+	<EntityTextStart>304</EntityTextStart>
+	<EntityTextEnd>312</EntityTextEnd>
+	<LinkerScore>4.048243095835044</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Foreign_minister</WikiTitle>
+		<WikiTitleID>317153</WikiTitleID>
+		<RankerScore>0.3549319162844142</RankerScore>
+		<Attributes>minister	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Foreign_minister</WikiTitle> <WikiTitleID>317153</WikiTitleID> <RankerScore>0.3549319162844142</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ministry_of_Foreign_and_European_Affairs_(France)</WikiTitle> <WikiTitleID>250002</WikiTitleID> <RankerScore>0.07563392695323778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ministry_of_Foreign_Affairs_(Romania)</WikiTitle> <WikiTitleID>6079447</WikiTitleID> <RankerScore>0.06748023417582559</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Foreign_Affairs_(Japan)</WikiTitle> <WikiTitleID>1326936</WikiTitleID> <RankerScore>0.029526701328618978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Foreign_Affairs_(Germany)</WikiTitle> <WikiTitleID>465438</WikiTitleID> <RankerScore>0.029526701328618978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Foreign_Affairs_(Fiji)</WikiTitle> <WikiTitleID>1777347</WikiTitleID> <RankerScore>0.029526701328618978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Foreign_Affairs_(Australia)</WikiTitle> <WikiTitleID>591908</WikiTitleID> <RankerScore>0.029526701328618978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_of_Foreign_Affairs_(Denmark)</WikiTitle> <WikiTitleID>1701225</WikiTitleID> <RankerScore>0.029526701328618978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_Affairs_Minister_of_Israel</WikiTitle> <WikiTitleID>650835</WikiTitleID> <RankerScore>0.029526701328618978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_relations_of_Cuba</WikiTitle> <WikiTitleID>5592</WikiTitleID> <RankerScore>0.029526701328618978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_of_Foreign_Affairs_(Nigeria)</WikiTitle> <WikiTitleID>5938324</WikiTitleID> <RankerScore>0.029526701328618978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_of_Foreign_Affairs_(Russia)</WikiTitle> <WikiTitleID>1316703</WikiTitleID> <RankerScore>0.029526701328618978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Foreign_Affairs_and_Trade</WikiTitle> <WikiTitleID>487125</WikiTitleID> <RankerScore>0.029526701328618978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_Minister_of_the_People&apos;s_Republic_of_China</WikiTitle> <WikiTitleID>4497735</WikiTitleID> <RankerScore>0.029526701328618978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_of_Foreign_Affairs_(Italy)</WikiTitle> <WikiTitleID>3051160</WikiTitleID> <RankerScore>0.029526701328618978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Foreign_Affairs_(Greece)</WikiTitle> <WikiTitleID>3989509</WikiTitleID> <RankerScore>0.029526701328618978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_of_Foreign_Affairs_(Estonia)</WikiTitle> <WikiTitleID>1794160</WikiTitleID> <RankerScore>0.029526701328618978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ministry_of_Foreign_Affairs_(Japan)</WikiTitle> <WikiTitleID>868429</WikiTitleID> <RankerScore>0.029526701328618978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Secretary_of_State_for_Foreign_and_Commonwealth_Affairs</WikiTitle> <WikiTitleID>59655</WikiTitleID> <RankerScore>0.029526701328618978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_of_Foreign_Affairs_(Egypt)</WikiTitle> <WikiTitleID>3664607</WikiTitleID> <RankerScore>0.029526701328618978</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mohammed Saeed al-Sahhaf</EntitySurfaceForm>
+	<EntityTextStart>314</EntityTextStart>
+	<EntityTextEnd>338</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Muhammad_Saeed_al-Sahhaf</WikiTitle>
+		<WikiTitleID>202988</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>muslim	person	ambassador	propagandist	politician	representative</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Saeed</EntitySurfaceForm>
+	<EntityTextStart>323</EntityTextStart>
+	<EntityTextEnd>328</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Muhammad_Saeed_al-Sahhaf</WikiTitle>
+		<WikiTitleID>202988</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>muslim	person	ambassador	propagandist	politician	representative</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Saeed_Jeffery</WikiTitle> <WikiTitleID>4695815</WikiTitleID> <RankerScore>0.8224266519097143</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saeed_al-Ghamdi</WikiTitle> <WikiTitleID>29608</WikiTitleID> <RankerScore>0.08378422955425367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sa‘id</WikiTitle> <WikiTitleID>957329</WikiTitleID> <RankerScore>0.0937891185360321</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>al-Sahhaf</EntitySurfaceForm>
+	<EntityTextStart>329</EntityTextStart>
+	<EntityTextEnd>338</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Muhammad_Saeed_al-Sahhaf</WikiTitle>
+		<WikiTitleID>202988</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>muslim	person	ambassador	propagandist	politician	representative</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Abdullah</EntitySurfaceForm>
+	<EntityTextStart>346</EntityTextStart>
+	<EntityTextEnd>354</EntityTextEnd>
+	<LinkerScore>7.773293516943094</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Abdullah_Abdullah</WikiTitle>
+		<WikiTitleID>232798</WikiTitleID>
+		<RankerScore>0.44258707665829455</RankerScore>
+		<Attributes>person	ophthalmologist	muslim	minister</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Abdullah_(name)</WikiTitle> <WikiTitleID>303864</WikiTitleID> <RankerScore>0.08351109905191954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdullah_I_of_Jordan</WikiTitle> <WikiTitleID>203513</WikiTitleID> <RankerScore>0.04474052243541745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdullah_of_Saudi_Arabia</WikiTitle> <WikiTitleID>83965</WikiTitleID> <RankerScore>0.030654378703883454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdullah_Abdullah</WikiTitle> <WikiTitleID>232798</WikiTitleID> <RankerScore>0.44258707665829455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdullah_II_of_Jordan</WikiTitle> <WikiTitleID>164053</WikiTitleID> <RankerScore>0.030654378703883454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdullah_Khadr</WikiTitle> <WikiTitleID>2103872</WikiTitleID> <RankerScore>0.030654378703883454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdullah_(horse)</WikiTitle> <WikiTitleID>2773279</WikiTitleID> <RankerScore>0.030654378703883454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_The_Adventures_of_Tintin_characters</WikiTitle> <WikiTitleID>3875304</WikiTitleID> <RankerScore>0.030654378703883454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abd_Allah_ibn_Abd_al_Muttalib</WikiTitle> <WikiTitleID>1102449</WikiTitleID> <RankerScore>0.030654378703883454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdullah_bin_Saud</WikiTitle> <WikiTitleID>402609</WikiTitleID> <RankerScore>0.030654378703883454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdullah_Ahmad_Badawi</WikiTitle> <WikiTitleID>348097</WikiTitleID> <RankerScore>0.030654378703883454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Farooq_Abdullah</WikiTitle> <WikiTitleID>1241736</WikiTitleID> <RankerScore>0.030654378703883454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Albert_Abdullah_David_Sassoon</WikiTitle> <WikiTitleID>2258244</WikiTitleID> <RankerScore>0.030654378703883454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdullah_I_Al-Sabah</WikiTitle> <WikiTitleID>3393936</WikiTitleID> <RankerScore>0.030654378703883454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdallah_bin_Laden</WikiTitle> <WikiTitleID>9619223</WikiTitleID> <RankerScore>0.030654378703883454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdullah_ibn_Umar</WikiTitle> <WikiTitleID>2190886</WikiTitleID> <RankerScore>0.030654378703883454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdullah_bin_Faisal_Al_Saud</WikiTitle> <WikiTitleID>4721257</WikiTitleID> <RankerScore>0.030654378703883454</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>two states</EntitySurfaceForm>
+	<EntityTextStart>374</EntityTextStart>
+	<EntityTextEnd>384</EntityTextEnd>
+	<LinkerScore>-10.06357419526718</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Two-state_solution</WikiTitle>
+		<WikiTitleID>415439</WikiTitleID>
+		<RankerScore>0.6654414763368551</RankerScore>
+		<Attributes>effort</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Two-state_solution</WikiTitle> <WikiTitleID>415439</WikiTitleID> <RankerScore>0.6654414763368551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Same-sex_marriage_in_the_United_States</WikiTitle> <WikiTitleID>249623</WikiTitleID> <RankerScore>0.3345585236631448</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>states</EntitySurfaceForm>
+	<EntityTextStart>378</EntityTextStart>
+	<EntityTextEnd>384</EntityTextEnd>
+	<LinkerScore>2.7758519882234953</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.9450766269214271</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>U.S._state</WikiTitle> <WikiTitleID>48831</WikiTitleID> <RankerScore>0.0316481947093594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State</WikiTitle> <WikiTitleID>28151</WikiTitleID> <RankerScore>0.005930978865285631</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_and_territories_of_India</WikiTitle> <WikiTitleID>375986</WikiTitleID> <RankerScore>0.0010840124689954877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_divisions_of_Mexico</WikiTitle> <WikiTitleID>87990</WikiTitleID> <RankerScore>0.0010840124689954877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jurisdiction_(area)</WikiTitle> <WikiTitleID>2383572</WikiTitleID> <RankerScore>0.0010840124689954877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Germany</WikiTitle> <WikiTitleID>217450</WikiTitleID> <RankerScore>0.0010840124689954877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Brazil</WikiTitle> <WikiTitleID>229379</WikiTitleID> <RankerScore>0.0010840124689954877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_and_territories_of_Australia</WikiTitle> <WikiTitleID>4689096</WikiTitleID> <RankerScore>0.0010840124689954877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_(computer_science)</WikiTitle> <WikiTitleID>285512</WikiTitleID> <RankerScore>0.0010840124689954877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Austria</WikiTitle> <WikiTitleID>214486</WikiTitleID> <RankerScore>0.0010840124689954877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.9450766269214271</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Nigeria</WikiTitle> <WikiTitleID>226734</WikiTitleID> <RankerScore>0.0010840124689954877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Federated_state</WikiTitle> <WikiTitleID>172400</WikiTitleID> <RankerScore>0.0010840124689954877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Sudan</WikiTitle> <WikiTitleID>579458</WikiTitleID> <RankerScore>0.0010840124689954877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_and_federal_territories_of_Malaysia</WikiTitle> <WikiTitleID>690318</WikiTitleID> <RankerScore>0.0010840124689954877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Quantum_state</WikiTitle> <WikiTitleID>279638</WikiTitleID> <RankerScore>0.0010840124689954877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Palau</WikiTitle> <WikiTitleID>689463</WikiTitleID> <RankerScore>0.0010840124689954877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_(printmaking)</WikiTitle> <WikiTitleID>8387071</WikiTitleID> <RankerScore>0.0010840124689954877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Member_state_of_the_European_Union</WikiTitle> <WikiTitleID>10890716</WikiTitleID> <RankerScore>0.0010840124689954877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State</WikiTitle> <WikiTitleID>658642</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>closure</EntitySurfaceForm>
+	<EntityTextStart>409</EntityTextStart>
+	<EntityTextEnd>416</EntityTextEnd>
+	<LinkerScore>0.9516322762620733</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Closure_(topology)</WikiTitle>
+		<WikiTitleID>42309</WikiTitleID>
+		<RankerScore>0.26989307152645214</RankerScore>
+		<Attributes>operator</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Closure_(topology)</WikiTitle> <WikiTitleID>42309</WikiTitleID> <RankerScore>0.26989307152645214</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Closure_(computer_science)</WikiTitle> <WikiTitleID>62319</WikiTitleID> <RankerScore>0.08717190786682473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Closure_(mathematics)</WikiTitle> <WikiTitleID>293802</WikiTitleID> <RankerScore>0.05413630026717034</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Closure</WikiTitle> <WikiTitleID>47305</WikiTitleID> <RankerScore>0.039253248022636855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Closure_(psychology)</WikiTitle> <WikiTitleID>168845</WikiTitleID> <RankerScore>0.039253248022636855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cloture</WikiTitle> <WikiTitleID>62321</WikiTitleID> <RankerScore>0.039253248022636855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Closed_set</WikiTitle> <WikiTitleID>47279</WikiTitleID> <RankerScore>0.039253248022636855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999–2000_Honduran_Liga_Nacional</WikiTitle> <WikiTitleID>8039191</WikiTitleID> <RankerScore>0.039253248022636855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alternative_wine_closure</WikiTitle> <WikiTitleID>6241538</WikiTitleID> <RankerScore>0.039253248022636855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Closure_(psychology)</WikiTitle> <WikiTitleID>13275461</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algebraic_closure</WikiTitle> <WikiTitleID>3129</WikiTitleID> <RankerScore>0.039253248022636855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997–98_Honduran_Liga_Nacional</WikiTitle> <WikiTitleID>12585971</WikiTitleID> <RankerScore>0.039253248022636855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Closed_monoidal_category</WikiTitle> <WikiTitleID>1396924</WikiTitleID> <RankerScore>0.039253248022636855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Well-posed_problem</WikiTitle> <WikiTitleID>176673</WikiTitleID> <RankerScore>0.039253248022636855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Closed_city</WikiTitle> <WikiTitleID>1627510</WikiTitleID> <RankerScore>0.039253248022636855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transitive_closure</WikiTitle> <WikiTitleID>292239</WikiTitleID> <RankerScore>0.039253248022636855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Epistemic_closure</WikiTitle> <WikiTitleID>275170</WikiTitleID> <RankerScore>0.039253248022636855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Closure_operator</WikiTitle> <WikiTitleID>483120</WikiTitleID> <RankerScore>0.039253248022636855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gestalt_psychology</WikiTitle> <WikiTitleID>70402</WikiTitleID> <RankerScore>0.039253248022636855</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Missing-In-Action</EntitySurfaceForm>
+	<EntityTextStart>451</EntityTextStart>
+	<EntityTextEnd>468</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Missing_in_action</WikiTitle>
+		<WikiTitleID>601205</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>casualty	personnel</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>&apos;&apos;</EntitySurfaceForm>
+	<EntityTextStart>476</EntityTextStart>
+	<EntityTextEnd>478</EntityTextEnd>
+	<LinkerScore>1.1499532374707575</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dirty_(film)</WikiTitle>
+		<WikiTitleID>10671108</WikiTitleID>
+		<RankerScore>0.5182567527536145</RankerScore>
+		<Attributes>film</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dirty_(film)</WikiTitle> <WikiTitleID>10671108</WikiTitleID> <RankerScore>0.5182567527536145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_recurring_That_&apos;70s_Show_characters</WikiTitle> <WikiTitleID>3441561</WikiTitleID> <RankerScore>0.4817432472463856</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>issue</EntitySurfaceForm>
+	<EntityTextStart>496</EntityTextStart>
+	<EntityTextEnd>501</EntityTextEnd>
+	<LinkerScore>-2.963433571988621</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Issue</WikiTitle>
+		<WikiTitleID>381055</WikiTitleID>
+		<RankerScore>0.2916525898348802</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Issue</WikiTitle> <WikiTitleID>381055</WikiTitleID> <RankerScore>0.2916525898348802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Issue_(legal)</WikiTitle> <WikiTitleID>4550188</WikiTitleID> <RankerScore>0.2530253076898102</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Issue_tracking_system</WikiTitle> <WikiTitleID>2029470</WikiTitleID> <RankerScore>0.05759311769334289</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Offspring</WikiTitle> <WikiTitleID>96628</WikiTitleID> <RankerScore>0.06628816413032779</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Kawānanakoa</WikiTitle> <WikiTitleID>852070</WikiTitleID> <RankerScore>0.06628816413032779</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saxe-Gessaphe</WikiTitle> <WikiTitleID>8138597</WikiTitleID> <RankerScore>0.06628816413032779</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Schleswig-Holstein</WikiTitle> <WikiTitleID>230199</WikiTitleID> <RankerScore>0.06628816413032779</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_project_management</WikiTitle> <WikiTitleID>2274921</WikiTitleID> <RankerScore>0.06628816413032779</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Political_status_of_Taiwan</WikiTitle> <WikiTitleID>66555</WikiTitleID> <RankerScore>0.06628816413032779</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>POWs</EntitySurfaceForm>
+	<EntityTextStart>505</EntityTextStart>
+	<EntityTextEnd>509</EntityTextEnd>
+	<LinkerScore>6.955855406419653</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prisoner_of_war</WikiTitle>
+		<WikiTitleID>25008</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>prisoner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prisoner_of_war</WikiTitle> <WikiTitleID>25008</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>persons</EntitySurfaceForm>
+	<EntityTextStart>522</EntityTextStart>
+	<EntityTextEnd>529</EntityTextEnd>
+	<LinkerScore>-3.195347905277765</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Grammatical_person</WikiTitle>
+		<WikiTitleID>42076</WikiTitleID>
+		<RankerScore>0.2531539593756539</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Grammatical_person</WikiTitle> <WikiTitleID>42076</WikiTitleID> <RankerScore>0.2531539593756539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Person</WikiTitle> <WikiTitleID>219599</WikiTitleID> <RankerScore>0.23369154937870382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hypostasis_(philosophy_and_religion)</WikiTitle> <WikiTitleID>2763451</WikiTitleID> <RankerScore>0.16924759404015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legal_personality</WikiTitle> <WikiTitleID>219287</WikiTitleID> <RankerScore>0.17195344860274617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Actor</WikiTitle> <WikiTitleID>753</WikiTitleID> <RankerScore>0.17195344860274617</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>stumbling</EntitySurfaceForm>
+	<EntityTextStart>540</EntityTextStart>
+	<EntityTextEnd>549</EntityTextEnd>
+	<LinkerScore>-1.2106556085687736</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>StumbleUpon</WikiTitle>
+		<WikiTitleID>759881</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>system</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>StumbleUpon</WikiTitle> <WikiTitleID>759881</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>stumbling block</EntitySurfaceForm>
+	<EntityTextStart>540</EntityTextStart>
+	<EntityTextEnd>555</EntityTextEnd>
+	<LinkerScore>-0.252948506511967</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lifnei_iver</WikiTitle>
+		<WikiTitleID>516849</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>court	words</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lifnei_iver</WikiTitle> <WikiTitleID>516849</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>block</EntitySurfaceForm>
+	<EntityTextStart>550</EntityTextStart>
+	<EntityTextEnd>555</EntityTextEnd>
+	<LinkerScore>-11.987419366404065</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Block</WikiTitle>
+		<WikiTitleID>40808</WikiTitleID>
+		<RankerScore>0.19289977571981304</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Block</WikiTitle> <WikiTitleID>40808</WikiTitleID> <RankerScore>0.19289977571981304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_block</WikiTitle> <WikiTitleID>948686</WikiTitleID> <RankerScore>0.04531842410155101</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cylinder_block</WikiTitle> <WikiTitleID>1414527</WikiTitleID> <RankerScore>0.04420914830069577</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Block_(basketball)</WikiTitle> <WikiTitleID>1829132</WikiTitleID> <RankerScore>0.042210155992820006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Block_(sailing)</WikiTitle> <WikiTitleID>1162721</WikiTitleID> <RankerScore>0.042210155992820006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Block_(data_storage)</WikiTitle> <WikiTitleID>313667</WikiTitleID> <RankerScore>0.042210155992820006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Block_(programming)</WikiTitle> <WikiTitleID>381944</WikiTitleID> <RankerScore>0.042210155992820006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blocking_(American_football)</WikiTitle> <WikiTitleID>2719597</WikiTitleID> <RankerScore>0.042210155992820006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Block_size_(cryptography)</WikiTitle> <WikiTitleID>294065</WikiTitleID> <RankerScore>0.042210155992820006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blocking_(martial_arts)</WikiTitle> <WikiTitleID>509595</WikiTitleID> <RankerScore>0.042210155992820006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Macroblock</WikiTitle> <WikiTitleID>5637075</WikiTitleID> <RankerScore>0.042210155992820006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modular_representation_theory</WikiTitle> <WikiTitleID>1110685</WikiTitleID> <RankerScore>0.042210155992820006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Block_programming</WikiTitle> <WikiTitleID>2836685</WikiTitleID> <RankerScore>0.042210155992820006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Postage_stamp_block</WikiTitle> <WikiTitleID>357236</WikiTitleID> <RankerScore>0.042210155992820006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Block_(country_subdivision)</WikiTitle> <WikiTitleID>5482879</WikiTitleID> <RankerScore>0.042210155992820006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Block_matrix</WikiTitle> <WikiTitleID>457464</WikiTitleID> <RankerScore>0.042210155992820006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Block_(meteorology)</WikiTitle> <WikiTitleID>3902153</WikiTitleID> <RankerScore>0.042210155992820006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Block_(Internet)</WikiTitle> <WikiTitleID>13842515</WikiTitleID> <RankerScore>0.042210155992820006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Structured_programming</WikiTitle> <WikiTitleID>27695</WikiTitleID> <RankerScore>0.042210155992820006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Unicode_symbols</WikiTitle> <WikiTitleID>5921314</WikiTitleID> <RankerScore>0.042210155992820006</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>relations</EntitySurfaceForm>
+	<EntityTextStart>571</EntityTextStart>
+	<EntityTextEnd>580</EntityTextEnd>
+	<LinkerScore>-11.824807666547791</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Binary_relation</WikiTitle>
+		<WikiTitleID>19509</WikiTitleID>
+		<RankerScore>0.13419680518935978</RankerScore>
+		<Attributes>relations</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Binary_relation</WikiTitle> <WikiTitleID>19509</WikiTitleID> <RankerScore>0.13419680518935978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Relation</WikiTitle> <WikiTitleID>38227</WikiTitleID> <RankerScore>0.045506373360506884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_relations</WikiTitle> <WikiTitleID>82533</WikiTitleID> <RankerScore>0.07334148080636256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Presentation_of_a_group</WikiTitle> <WikiTitleID>99494</WikiTitleID> <RankerScore>0.046684708790235674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diplomacy</WikiTitle> <WikiTitleID>43259</WikiTitleID> <RankerScore>0.046684708790235674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Binary_relation</WikiTitle> <WikiTitleID>3931</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charles_Sanders_Peirce</WikiTitle> <WikiTitleID>6117</WikiTitleID> <RankerScore>0.046684708790235674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_relations</WikiTitle> <WikiTitleID>362223</WikiTitleID> <RankerScore>0.046684708790235674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sino-Japanese_relations</WikiTitle> <WikiTitleID>13106128</WikiTitleID> <RankerScore>0.046684708790235674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>People&apos;s_Action_Party–United_Malays_National_Organisation_relations</WikiTitle> <WikiTitleID>1689951</WikiTitleID> <RankerScore>0.046684708790235674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_relations_of_Canada</WikiTitle> <WikiTitleID>307608</WikiTitleID> <RankerScore>0.046684708790235674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Relational_database</WikiTitle> <WikiTitleID>25873</WikiTitleID> <RankerScore>0.046684708790235674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Catholic_Church_and_ecumenism</WikiTitle> <WikiTitleID>5503518</WikiTitleID> <RankerScore>0.046684708790235674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_relations_of_Taiwan</WikiTitle> <WikiTitleID>30096</WikiTitleID> <RankerScore>0.046684708790235674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Social_relation</WikiTitle> <WikiTitleID>1967785</WikiTitleID> <RankerScore>0.046684708790235674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France–United_States_relations</WikiTitle> <WikiTitleID>686250</WikiTitleID> <RankerScore>0.046684708790235674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intimate_relationship</WikiTitle> <WikiTitleID>1056700</WikiTitleID> <RankerScore>0.046684708790235674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sino-American_relations</WikiTitle> <WikiTitleID>277880</WikiTitleID> <RankerScore>0.046684708790235674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Relational_model</WikiTitle> <WikiTitleID>26220</WikiTitleID> <RankerScore>0.046684708790235674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_relations_of_Vietnam</WikiTitle> <WikiTitleID>32385</WikiTitleID> <RankerScore>0.046684708790235674</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>neighbors</EntitySurfaceForm>
+	<EntityTextStart>597</EntityTextStart>
+	<EntityTextEnd>606</EntityTextEnd>
+	<LinkerScore>6.979998171253355</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Caribbean</WikiTitle>
+		<WikiTitleID>7823</WikiTitleID>
+		<RankerScore>0.5278387436404396</RankerScore>
+		<Attributes>region	island</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Neighbourhood_(graph_theory)</WikiTitle> <WikiTitleID>7309251</WikiTitleID> <RankerScore>0.16310100466750266</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Caribbean</WikiTitle> <WikiTitleID>7823</WikiTitleID> <RankerScore>0.5278387436404396</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neighbors</WikiTitle> <WikiTitleID>6278116</WikiTitleID> <RankerScore>0.10039783049446276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neighbourhood</WikiTitle> <WikiTitleID>177193</WikiTitleID> <RankerScore>0.10433121059879748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Naval_Base_San_Diego</WikiTitle> <WikiTitleID>1482249</WikiTitleID> <RankerScore>0.10433121059879748</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iraq</EntitySurfaceForm>
+	<EntityTextStart>611</EntityTextStart>
+	<EntityTextEnd>615</EntityTextEnd>
+	<LinkerScore>5.114185637006539</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iraq</WikiTitle>
+		<WikiTitleID>7515928</WikiTitleID>
+		<RankerScore>0.9963510350061665</RankerScore>
+		<Attributes>state	country	monarchy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iraq</WikiTitle> <WikiTitleID>7515928</WikiTitleID> <RankerScore>0.9963510350061665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraq_national_football_team</WikiTitle> <WikiTitleID>1039652</WikiTitleID> <RankerScore>2.369777947376395E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraq_War</WikiTitle> <WikiTitleID>5043324</WikiTitleID> <RankerScore>0.0026521307061668957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_invasion_of_Iraq</WikiTitle> <WikiTitleID>201936</WikiTitleID> <RankerScore>5.939720366126055E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Iraq_(1932–58)</WikiTitle> <WikiTitleID>2900620</WikiTitleID> <RankerScore>2.369777947376395E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Iraq_(Mandate_administration)</WikiTitle> <WikiTitleID>1038799</WikiTitleID> <RankerScore>2.369777947376395E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Iraq_(2003–11)</WikiTitle> <WikiTitleID>228708</WikiTitleID> <RankerScore>2.369777947376395E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Iraq</WikiTitle> <WikiTitleID>209247</WikiTitleID> <RankerScore>2.369777947376395E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Iraq</WikiTitle> <WikiTitleID>14670</WikiTitleID> <RankerScore>2.369777947376395E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gulf_War</WikiTitle> <WikiTitleID>182000</WikiTitleID> <RankerScore>2.369777947376395E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Multi-National_Force_–_Iraq</WikiTitle> <WikiTitleID>5215751</WikiTitleID> <RankerScore>2.369777947376395E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Iraq</WikiTitle> <WikiTitleID>2255715</WikiTitleID> <RankerScore>2.369777947376395E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_security_forces</WikiTitle> <WikiTitleID>4627429</WikiTitleID> <RankerScore>2.369777947376395E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anglo-Iraqi_War</WikiTitle> <WikiTitleID>1595906</WikiTitleID> <RankerScore>2.369777947376395E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Kurdistan</WikiTitle> <WikiTitleID>679693</WikiTitleID> <RankerScore>2.369777947376395E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operation_Telic</WikiTitle> <WikiTitleID>248175</WikiTitleID> <RankerScore>2.369777947376395E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australian_contribution_to_the_2003_invasion_of_Iraq</WikiTitle> <WikiTitleID>202603</WikiTitleID> <RankerScore>2.369777947376395E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Iraq</WikiTitle> <WikiTitleID>14664</WikiTitleID> <RankerScore>2.369777947376395E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_Iraq</WikiTitle> <WikiTitleID>1025329</WikiTitleID> <RankerScore>2.369777947376395E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>RAF_Iraq_Command</WikiTitle> <WikiTitleID>4537618</WikiTitleID> <RankerScore>2.369777947376395E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>long</EntitySurfaceForm>
+	<EntityTextStart>620</EntityTextStart>
+	<EntityTextEnd>624</EntityTextEnd>
+	<LinkerScore>-3.469551720555196</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Long_(finance)</WikiTitle>
+		<WikiTitleID>1438651</WikiTitleID>
+		<RankerScore>0.17784431772674963</RankerScore>
+		<Attributes>security	market</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Vowel_length</WikiTitle> <WikiTitleID>992991</WikiTitleID> <RankerScore>0.06742866103991657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Long_(finance)</WikiTitle> <WikiTitleID>1438651</WikiTitleID> <RankerScore>0.17784431772674963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Longwave</WikiTitle> <WikiTitleID>106099</WikiTitleID> <RankerScore>0.03162477919741831</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Long_jump</WikiTitle> <WikiTitleID>18084</WikiTitleID> <RankerScore>0.0482068161357277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Syllable_weight</WikiTitle> <WikiTitleID>1078447</WikiTitleID> <RankerScore>0.0482068161357277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Longitude</WikiTitle> <WikiTitleID>17617</WikiTitleID> <RankerScore>0.0482068161357277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Long-distance_running</WikiTitle> <WikiTitleID>89285</WikiTitleID> <RankerScore>0.0482068161357277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Long</WikiTitle> <WikiTitleID>338009</WikiTitleID> <RankerScore>0.0482068161357277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gemination</WikiTitle> <WikiTitleID>752720</WikiTitleID> <RankerScore>0.0482068161357277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Integer_(computer_science)</WikiTitle> <WikiTitleID>404951</WikiTitleID> <RankerScore>0.0482068161357277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mora_(linguistics)</WikiTitle> <WikiTitleID>196565</WikiTitleID> <RankerScore>0.0482068161357277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Length</WikiTitle> <WikiTitleID>18542</WikiTitleID> <RankerScore>0.0482068161357277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_longest_novels</WikiTitle> <WikiTitleID>1101767</WikiTitleID> <RankerScore>0.0482068161357277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Length_(phonetics)</WikiTitle> <WikiTitleID>1755547</WikiTitleID> <RankerScore>0.0482068161357277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hugo_Award_for_Best_Dramatic_Presentation</WikiTitle> <WikiTitleID>1938574</WikiTitleID> <RankerScore>0.0482068161357277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Long_filename</WikiTitle> <WikiTitleID>2620353</WikiTitleID> <RankerScore>0.0482068161357277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Longsword</WikiTitle> <WikiTitleID>85846</WikiTitleID> <RankerScore>0.0482068161357277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Katana</WikiTitle> <WikiTitleID>14715409</WikiTitleID> <RankerScore>0.0482068161357277</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>maintained</EntitySurfaceForm>
+	<EntityTextStart>625</EntityTextStart>
+	<EntityTextEnd>635</EntityTextEnd>
+	<LinkerScore>2.1981182367901155</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>State_school</WikiTitle>
+		<WikiTitleID>573933</WikiTitleID>
+		<RankerScore>0.5724123739166712</RankerScore>
+		<Attributes>type</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>State_school</WikiTitle> <WikiTitleID>573933</WikiTitleID> <RankerScore>0.5724123739166712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_maintenance</WikiTitle> <WikiTitleID>780960</WikiTitleID> <RankerScore>0.4275876260833288</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>released</EntitySurfaceForm>
+	<EntityTextStart>648</EntityTextStart>
+	<EntityTextEnd>656</EntityTextEnd>
+	<LinkerScore>4.390720705357046</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Release</WikiTitle>
+		<WikiTitleID>226977</WikiTitleID>
+		<RankerScore>0.24471744422869265</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Release</WikiTitle> <WikiTitleID>226977</WikiTitleID> <RankerScore>0.24471744422869265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Release_(music)</WikiTitle> <WikiTitleID>5803195</WikiTitleID> <RankerScore>0.05198542243411338</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Free_transfer_(association_football)</WikiTitle> <WikiTitleID>1684181</WikiTitleID> <RankerScore>0.026631923980199475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_release_life_cycle</WikiTitle> <WikiTitleID>220901</WikiTitleID> <RankerScore>0.03980383584452909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_League_Baseball_transactions</WikiTitle> <WikiTitleID>2422219</WikiTitleID> <RankerScore>0.03980383584452909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Film_release</WikiTitle> <WikiTitleID>4443218</WikiTitleID> <RankerScore>0.03980383584452909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manumission</WikiTitle> <WikiTitleID>133263</WikiTitleID> <RankerScore>0.03980383584452909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chiller_(video_game)</WikiTitle> <WikiTitleID>10121711</WikiTitleID> <RankerScore>0.03980383584452909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legal_release</WikiTitle> <WikiTitleID>1199256</WikiTitleID> <RankerScore>0.03980383584452909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Exothermic</WikiTitle> <WikiTitleID>10201</WikiTitleID> <RankerScore>0.03980383584452909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rasputin_(song)</WikiTitle> <WikiTitleID>12552851</WikiTitleID> <RankerScore>0.03980383584452909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>October_surprise</WikiTitle> <WikiTitleID>3618423</WikiTitleID> <RankerScore>0.03980383584452909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Concert_in_the_Park</WikiTitle> <WikiTitleID>5249001</WikiTitleID> <RankerScore>0.03980383584452909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Effects_of_nuclear_explosions</WikiTitle> <WikiTitleID>244601</WikiTitleID> <RankerScore>0.03980383584452909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wildlife_rehabilitation</WikiTitle> <WikiTitleID>6018662</WikiTitleID> <RankerScore>0.03980383584452909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soundtrack_to_the_Apocalypse</WikiTitle> <WikiTitleID>1448670</WikiTitleID> <RankerScore>0.03980383584452909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Designated_for_assignment</WikiTitle> <WikiTitleID>5400625</WikiTitleID> <RankerScore>0.03980383584452909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>H._G._Wells&apos;_War_of_the_Worlds_(2005_film)</WikiTitle> <WikiTitleID>1982322</WikiTitleID> <RankerScore>0.03980383584452909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bite_the_Bullet_(album)</WikiTitle> <WikiTitleID>12744576</WikiTitleID> <RankerScore>0.03980383584452909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Introduced_species</WikiTitle> <WikiTitleID>394815</WikiTitleID> <RankerScore>0.03980383584452909</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iranian</EntitySurfaceForm>
+	<EntityTextStart>661</EntityTextStart>
+	<EntityTextEnd>668</EntityTextEnd>
+	<LinkerScore>4.039392065779874</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iran</WikiTitle>
+		<WikiTitleID>14653</WikiTitleID>
+		<RankerScore>0.7995295139419045</RankerScore>
+		<Attributes>nation	country	state	republic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iranian_peoples</WikiTitle> <WikiTitleID>1268748</WikiTitleID> <RankerScore>0.1542606797256906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iran</WikiTitle> <WikiTitleID>14653</WikiTitleID> <RankerScore>0.7995295139419045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian</WikiTitle> <WikiTitleID>483656</WikiTitleID> <RankerScore>0.021635901747477586</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_languages</WikiTitle> <WikiTitleID>3402027</WikiTitleID> <RankerScore>0.001535869036557961</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Iran</WikiTitle> <WikiTitleID>49116</WikiTitleID> <RankerScore>0.001535869036557961</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranians</WikiTitle> <WikiTitleID>225111</WikiTitleID> <RankerScore>0.001535869036557961</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Persian_people</WikiTitle> <WikiTitleID>24607</WikiTitleID> <RankerScore>0.001535869036557961</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Iran</WikiTitle> <WikiTitleID>64699</WikiTitleID> <RankerScore>0.001535869036557961</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_cuisine</WikiTitle> <WikiTitleID>2120585</WikiTitleID> <RankerScore>0.001535869036557961</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greater_Iran</WikiTitle> <WikiTitleID>3978097</WikiTitleID> <RankerScore>0.001535869036557961</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_peoples</WikiTitle> <WikiTitleID>4183615</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Iran</WikiTitle> <WikiTitleID>1343434</WikiTitleID> <RankerScore>0.001535869036557961</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_American</WikiTitle> <WikiTitleID>2234641</WikiTitleID> <RankerScore>0.001535869036557961</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_Canadian</WikiTitle> <WikiTitleID>2199069</WikiTitleID> <RankerScore>0.001535869036557961</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Persian_language</WikiTitle> <WikiTitleID>11600</WikiTitleID> <RankerScore>0.001535869036557961</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_architecture</WikiTitle> <WikiTitleID>1429763</WikiTitleID> <RankerScore>0.001535869036557961</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_philosophy</WikiTitle> <WikiTitleID>2816803</WikiTitleID> <RankerScore>0.001535869036557961</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Iran</WikiTitle> <WikiTitleID>965233</WikiTitleID> <RankerScore>0.001535869036557961</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Iran</WikiTitle> <WikiTitleID>413618</WikiTitleID> <RankerScore>0.001535869036557961</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Spanish_words_of_Iranian_origin</WikiTitle> <WikiTitleID>3439286</WikiTitleID> <RankerScore>0.001535869036557961</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>prisoners</EntitySurfaceForm>
+	<EntityTextStart>669</EntityTextStart>
+	<EntityTextEnd>678</EntityTextEnd>
+	<LinkerScore>1.4684487279846894</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prisoner_of_war</WikiTitle>
+		<WikiTitleID>25008</WikiTitleID>
+		<RankerScore>0.6237851347123275</RankerScore>
+		<Attributes>prisoner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prisoner_of_war</WikiTitle> <WikiTitleID>25008</WikiTitleID> <RankerScore>0.6237851347123275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prisoner</WikiTitle> <WikiTitleID>247202</WikiTitleID> <RankerScore>2.192782226972226E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japanese_prisoners_of_war_in_the_Soviet_Union</WikiTitle> <WikiTitleID>12076703</WikiTitleID> <RankerScore>0.0035699308011635164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prison</WikiTitle> <WikiTitleID>48936</WikiTitleID> <RankerScore>2.192782226972226E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Forced_disappearance</WikiTitle> <WikiTitleID>686148</WikiTitleID> <RankerScore>2.192782226972226E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Convict</WikiTitle> <WikiTitleID>232180</WikiTitleID> <RankerScore>2.192782226972226E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prisoners_in_the_American_Revolutionary_War</WikiTitle> <WikiTitleID>440958</WikiTitleID> <RankerScore>2.192782226972226E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdad_Central_Prison</WikiTitle> <WikiTitleID>627187</WikiTitleID> <RankerScore>0.37132926515032566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prisoners&apos;_rights</WikiTitle> <WikiTitleID>1600241</WikiTitleID> <RankerScore>2.192782226972226E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iran-Iraq War</EntitySurfaceForm>
+	<EntityTextStart>704</EntityTextStart>
+	<EntityTextEnd>717</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iran–Iraq_War</WikiTitle>
+		<WikiTitleID>14889</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>war</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iran–Iraq_War</WikiTitle> <WikiTitleID>14889</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>countries</EntitySurfaceForm>
+	<EntityTextStart>725</EntityTextStart>
+	<EntityTextEnd>734</EntityTextEnd>
+	<LinkerScore>-1.1856595021347136</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Country</WikiTitle>
+		<WikiTitleID>5165</WikiTitleID>
+		<RankerScore>0.5295122254319616</RankerScore>
+		<Attributes>country</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Country</WikiTitle> <WikiTitleID>5165</WikiTitleID> <RankerScore>0.5295122254319616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nation</WikiTitle> <WikiTitleID>21754</WikiTitleID> <RankerScore>0.1327121228462114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_sovereign_states</WikiTitle> <WikiTitleID>1779040</WikiTitleID> <RankerScore>0.03233585854480006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State</WikiTitle> <WikiTitleID>28151</WikiTitleID> <RankerScore>0.01908998707356419</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communist_state</WikiTitle> <WikiTitleID>215623</WikiTitleID> <RankerScore>0.01908998707356419</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Muslim_world</WikiTitle> <WikiTitleID>191429</WikiTitleID> <RankerScore>0.01908998707356419</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_language_in_Europe</WikiTitle> <WikiTitleID>4034216</WikiTitleID> <RankerScore>0.01908998707356419</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eurozone</WikiTitle> <WikiTitleID>184391</WikiTitleID> <RankerScore>0.01908998707356419</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Travelers&apos;_Century_Club</WikiTitle> <WikiTitleID>11251913</WikiTitleID> <RankerScore>0.01908998707356419</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Member_state_of_the_European_Union</WikiTitle> <WikiTitleID>4821923</WikiTitleID> <RankerScore>0.01908998707356419</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republics_of_the_Soviet_Union</WikiTitle> <WikiTitleID>26950</WikiTitleID> <RankerScore>0.01908998707356419</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Member_states_of_the_United_Nations</WikiTitle> <WikiTitleID>31969</WikiTitleID> <RankerScore>0.01908998707356419</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_countries_by_English-speaking_population</WikiTitle> <WikiTitleID>3924012</WikiTitleID> <RankerScore>0.01908998707356419</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Enlargement_of_the_Arab_League</WikiTitle> <WikiTitleID>6701174</WikiTitleID> <RankerScore>0.01908998707356419</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil</WikiTitle> <WikiTitleID>3383</WikiTitleID> <RankerScore>0.01908998707356419</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_wine-producing_countries</WikiTitle> <WikiTitleID>4337155</WikiTitleID> <RankerScore>0.01908998707356419</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jurisdiction</WikiTitle> <WikiTitleID>16392</WikiTitleID> <RankerScore>0.01908998707356419</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nation_state</WikiTitle> <WikiTitleID>21627</WikiTitleID> <RankerScore>0.01908998707356419</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DX_Century_Club</WikiTitle> <WikiTitleID>244741</WikiTitleID> <RankerScore>0.01908998707356419</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>each other</EntitySurfaceForm>
+	<EntityTextStart>742</EntityTextStart>
+	<EntityTextEnd>752</EntityTextEnd>
+	<LinkerScore>5.496734464593198</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cannibalism</WikiTitle>
+		<WikiTitleID>5658</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cannibalism</WikiTitle> <WikiTitleID>5658</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hiding</EntitySurfaceForm>
+	<EntityTextStart>756</EntityTextStart>
+	<EntityTextEnd>762</EntityTextEnd>
+	<LinkerScore>-2.4274588141516165</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hiding</WikiTitle>
+		<WikiTitleID>4646840</WikiTitleID>
+		<RankerScore>0.7268111175376996</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hiding</WikiTitle> <WikiTitleID>4646840</WikiTitleID> <RankerScore>0.7268111175376996</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Information_hiding</WikiTitle> <WikiTitleID>79501</WikiTitleID> <RankerScore>0.2731888824623004</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>POWs</EntitySurfaceForm>
+	<EntityTextStart>763</EntityTextStart>
+	<EntityTextEnd>767</EntityTextEnd>
+	<LinkerScore>4.962840309734094</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prisoner_of_war</WikiTitle>
+		<WikiTitleID>25008</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>prisoner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prisoner_of_war</WikiTitle> <WikiTitleID>25008</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>International Committee of the Red Cross</EntitySurfaceForm>
+	<EntityTextStart>798</EntityTextStart>
+	<EntityTextEnd>838</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>International_Committee_of_the_Red_Cross</WikiTitle>
+		<WikiTitleID>5023832</WikiTitleID>
+		<RankerScore>0.9958261641228092</RankerScore>
+		<Attributes>establishment	prize	organisation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>International_Committee_of_the_Red_Cross</WikiTitle> <WikiTitleID>5023832</WikiTitleID> <RankerScore>0.9958261641228092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_Red_Cross_and_Red_Crescent_Movement</WikiTitle> <WikiTitleID>15487</WikiTitleID> <RankerScore>0.0041738358771907045</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>International Committee</EntitySurfaceForm>
+	<EntityTextStart>798</EntityTextStart>
+	<EntityTextEnd>821</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>International_Committee_of_the_Red_Cross</WikiTitle>
+		<WikiTitleID>5023832</WikiTitleID>
+		<RankerScore>0.9958261641228092</RankerScore>
+		<Attributes>establishment	prize	organisation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>International_Committee_of_the_Fourth_International</WikiTitle> <WikiTitleID>377897</WikiTitleID> <RankerScore>0.3924631645086542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_International_Committee_for_the_Nanking_Safety_Zone</WikiTitle> <WikiTitleID>4487864</WikiTitleID> <RankerScore>0.6075368354913457</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the Red Cross</EntitySurfaceForm>
+	<EntityTextStart>825</EntityTextStart>
+	<EntityTextEnd>838</EntityTextEnd>
+	<LinkerScore>-3.2537898944863337</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>American_Red_Cross</WikiTitle>
+		<WikiTitleID>4345474</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>charity	society	organization	recipient</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>American_Red_Cross</WikiTitle> <WikiTitleID>4345474</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Red Cross</EntitySurfaceForm>
+	<EntityTextStart>829</EntityTextStart>
+	<EntityTextEnd>838</EntityTextEnd>
+	<LinkerScore>7.071764871723048</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>International_Red_Cross_and_Red_Crescent_Movement</WikiTitle>
+		<WikiTitleID>15487</WikiTitleID>
+		<RankerScore>0.7107479147890812</RankerScore>
+		<Attributes>establishment	organization</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>International_Red_Cross_and_Red_Crescent_Movement</WikiTitle> <WikiTitleID>15487</WikiTitleID> <RankerScore>0.7107479147890812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Red_Cross</WikiTitle> <WikiTitleID>4345474</WikiTitleID> <RankerScore>0.010865136285740241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_Committee_of_the_Red_Cross</WikiTitle> <WikiTitleID>5023832</WikiTitleID> <RankerScore>0.27547464197856614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Red_Cross</WikiTitle> <WikiTitleID>1494213</WikiTitleID> <RankerScore>3.2358966073472984E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_Red_Cross</WikiTitle> <WikiTitleID>608986</WikiTitleID> <RankerScore>3.2358966073472984E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Emblems_of_the_International_Red_Cross_and_Red_Crescent_Movement</WikiTitle> <WikiTitleID>2620616</WikiTitleID> <RankerScore>3.2358966073472984E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Red_Cross</WikiTitle> <WikiTitleID>1692923</WikiTitleID> <RankerScore>3.2358966073472984E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Redd_Kross</WikiTitle> <WikiTitleID>329927</WikiTitleID> <RankerScore>3.2358966073472984E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australian_Red_Cross</WikiTitle> <WikiTitleID>1815387</WikiTitleID> <RankerScore>3.2358966073472984E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_Red_Cross</WikiTitle> <WikiTitleID>1769488</WikiTitleID> <RankerScore>3.2358966073472984E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_Federation_of_Red_Cross_and_Red_Crescent_Societies</WikiTitle> <WikiTitleID>9720597</WikiTitleID> <RankerScore>3.2358966073472984E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Red_Cross_and_Red_Crescent_Societies</WikiTitle> <WikiTitleID>609027</WikiTitleID> <RankerScore>3.2358966073472984E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Red</EntitySurfaceForm>
+	<EntityTextStart>829</EntityTextStart>
+	<EntityTextEnd>832</EntityTextEnd>
+	<LinkerScore>-7.156611490222445</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Red_(album)</WikiTitle>
+		<WikiTitleID>977199</WikiTitleID>
+		<RankerScore>0.1882933562269011</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Red</WikiTitle> <WikiTitleID>25825</WikiTitleID> <RankerScore>0.07365525339219585</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_(album)</WikiTitle> <WikiTitleID>977199</WikiTitleID> <RankerScore>0.1882933562269011</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_River_of_the_South</WikiTitle> <WikiTitleID>194242</WikiTitleID> <RankerScore>0.042966865732658885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Pokémon_characters</WikiTitle> <WikiTitleID>2001488</WikiTitleID> <RankerScore>0.040887324979308484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Line_(CTA)</WikiTitle> <WikiTitleID>503155</WikiTitleID> <RankerScore>0.040887324979308484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_(band)</WikiTitle> <WikiTitleID>4091300</WikiTitleID> <RankerScore>0.040887324979308484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_River_of_the_North</WikiTitle> <WikiTitleID>150045</WikiTitleID> <RankerScore>0.040887324979308484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Army</WikiTitle> <WikiTitleID>25682</WikiTitleID> <RankerScore>0.040887324979308484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MAX_Red_Line</WikiTitle> <WikiTitleID>1747565</WikiTitleID> <RankerScore>0.040887324979308484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Party_(Norway)</WikiTitle> <WikiTitleID>9975733</WikiTitleID> <RankerScore>0.040887324979308484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Line_(Los_Angeles_Metro)</WikiTitle> <WikiTitleID>1818180</WikiTitleID> <RankerScore>0.040887324979308484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_(comics)</WikiTitle> <WikiTitleID>17909209</WikiTitleID> <RankerScore>0.040887324979308484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_(2008_film)</WikiTitle> <WikiTitleID>12139125</WikiTitleID> <RankerScore>0.040887324979308484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Sea</WikiTitle> <WikiTitleID>26191</WikiTitleID> <RankerScore>0.040887324979308484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Forman</WikiTitle> <WikiTitleID>1957601</WikiTitleID> <RankerScore>0.040887324979308484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_(novel)</WikiTitle> <WikiTitleID>13866424</WikiTitleID> <RankerScore>0.040887324979308484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Line_(Washington_Metro)</WikiTitle> <WikiTitleID>559489</WikiTitleID> <RankerScore>0.040887324979308484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_(Leslie_Cheung_album)</WikiTitle> <WikiTitleID>7118620</WikiTitleID> <RankerScore>0.040887324979308484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_(John_Stevens_album)</WikiTitle> <WikiTitleID>6966409</WikiTitleID> <RankerScore>0.040887324979308484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communism</WikiTitle> <WikiTitleID>9209651</WikiTitleID> <RankerScore>0.040887324979308484</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Cross</EntitySurfaceForm>
+	<EntityTextStart>833</EntityTextStart>
+	<EntityTextEnd>838</EntityTextEnd>
+	<LinkerScore>3.6761641592549923</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>International_Red_Cross_and_Red_Crescent_Movement</WikiTitle>
+		<WikiTitleID>15487</WikiTitleID>
+		<RankerScore>0.7149525672297334</RankerScore>
+		<Attributes>establishment	organization</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>International_Red_Cross_and_Red_Crescent_Movement</WikiTitle> <WikiTitleID>15487</WikiTitleID> <RankerScore>0.7149525672297334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Red_Cross</WikiTitle> <WikiTitleID>4345474</WikiTitleID> <RankerScore>0.0073118779641645005</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_Committee_of_the_Red_Cross</WikiTitle> <WikiTitleID>5023832</WikiTitleID> <RankerScore>0.2756785360932128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Red_Cross</WikiTitle> <WikiTitleID>1494213</WikiTitleID> <RankerScore>2.2855763476547106E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_Red_Cross</WikiTitle> <WikiTitleID>608986</WikiTitleID> <RankerScore>2.2855763476547106E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Emblems_of_the_International_Red_Cross_and_Red_Crescent_Movement</WikiTitle> <WikiTitleID>2620616</WikiTitleID> <RankerScore>2.2855763476547106E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Red_Cross</WikiTitle> <WikiTitleID>1692923</WikiTitleID> <RankerScore>2.2855763476547106E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Redd_Kross</WikiTitle> <WikiTitleID>329927</WikiTitleID> <RankerScore>2.2855763476547106E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australian_Red_Cross</WikiTitle> <WikiTitleID>1815387</WikiTitleID> <RankerScore>2.2855763476547106E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_Red_Cross</WikiTitle> <WikiTitleID>1769488</WikiTitleID> <RankerScore>2.2855763476547106E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_Federation_of_Red_Cross_and_Red_Crescent_Societies</WikiTitle> <WikiTitleID>9720597</WikiTitleID> <RankerScore>2.2855763476547106E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Red_Cross_and_Red_Crescent_Societies</WikiTitle> <WikiTitleID>609027</WikiTitleID> <RankerScore>2.2855763476547106E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>prisoner</EntitySurfaceForm>
+	<EntityTextStart>844</EntityTextStart>
+	<EntityTextEnd>852</EntityTextEnd>
+	<LinkerScore>14.105896066232015</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prisoner_of_war</WikiTitle>
+		<WikiTitleID>25008</WikiTitleID>
+		<RankerScore>0.9942330040375306</RankerScore>
+		<Attributes>prisoner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prisoner_of_war</WikiTitle> <WikiTitleID>25008</WikiTitleID> <RankerScore>0.9942330040375306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prisoner</WikiTitle> <WikiTitleID>247202</WikiTitleID> <RankerScore>0.003364515905232701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prison</WikiTitle> <WikiTitleID>48936</WikiTitleID> <RankerScore>2.475774262611731E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Political_prisoner</WikiTitle> <WikiTitleID>37307</WikiTitleID> <RankerScore>9.170154996696588E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hostage</WikiTitle> <WikiTitleID>146794</WikiTitleID> <RankerScore>2.475774262611731E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Convicts_in_Australia</WikiTitle> <WikiTitleID>17550146</WikiTitleID> <RankerScore>2.475774262611731E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detention_(imprisonment)</WikiTitle> <WikiTitleID>1005138</WikiTitleID> <RankerScore>2.475774262611731E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Far_East_Prisoners_of_War</WikiTitle> <WikiTitleID>6042063</WikiTitleID> <RankerScore>2.475774262611731E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Prisoner</WikiTitle> <WikiTitleID>31253</WikiTitleID> <RankerScore>2.475774262611731E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>camps</EntitySurfaceForm>
+	<EntityTextStart>853</EntityTextStart>
+	<EntityTextEnd>858</EntityTextEnd>
+	<LinkerScore>-3.0857803123904812</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Nazi_concentration_camps</WikiTitle>
+		<WikiTitleID>514725</WikiTitleID>
+		<RankerScore>0.39924440108217696</RankerScore>
+		<Attributes>camp</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Internment</WikiTitle> <WikiTitleID>191537</WikiTitleID> <RankerScore>0.38507223702992577</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nazi_concentration_camps</WikiTitle> <WikiTitleID>514725</WikiTitleID> <RankerScore>0.39924440108217696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Summer_camp</WikiTitle> <WikiTitleID>926264</WikiTitleID> <RankerScore>0.010729516195937596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Campsite</WikiTitle> <WikiTitleID>228043</WikiTitleID> <RankerScore>0.01707948714099664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Camping</WikiTitle> <WikiTitleID>228012</WikiTitleID> <RankerScore>0.01707948714099664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gulag</WikiTitle> <WikiTitleID>12980</WikiTitleID> <RankerScore>0.01707948714099664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Camp</WikiTitle> <WikiTitleID>979827</WikiTitleID> <RankerScore>0.01707948714099664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extermination_camp</WikiTitle> <WikiTitleID>10335</WikiTitleID> <RankerScore>0.01707948714099664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_camp</WikiTitle> <WikiTitleID>2302775</WikiTitleID> <RankerScore>0.01707948714099664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_base</WikiTitle> <WikiTitleID>843566</WikiTitleID> <RankerScore>0.01707948714099664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Displaced_persons_camp</WikiTitle> <WikiTitleID>2929122</WikiTitleID> <RankerScore>0.01707948714099664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine_refugee_camps</WikiTitle> <WikiTitleID>400347</WikiTitleID> <RankerScore>0.01707948714099664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Refugee_camp</WikiTitle> <WikiTitleID>438046</WikiTitleID> <RankerScore>0.01707948714099664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japanese_American_internment</WikiTitle> <WikiTitleID>46884</WikiTitleID> <RankerScore>0.01707948714099664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Terrorist_training_camp</WikiTitle> <WikiTitleID>6640998</WikiTitleID> <RankerScore>0.01707948714099664</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>ICRC</EntitySurfaceForm>
+	<EntityTextStart>867</EntityTextStart>
+	<EntityTextEnd>871</EntityTextEnd>
+	<LinkerScore>7.435506354904761</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>International_Committee_of_the_Red_Cross</WikiTitle>
+		<WikiTitleID>5023832</WikiTitleID>
+		<RankerScore>0.9782026686523777</RankerScore>
+		<Attributes>establishment	prize	organisation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>International_Committee_of_the_Red_Cross</WikiTitle> <WikiTitleID>5023832</WikiTitleID> <RankerScore>0.9782026686523777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_Red_Cross_and_Red_Crescent_Movement</WikiTitle> <WikiTitleID>15487</WikiTitleID> <RankerScore>0.02179733134762231</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>representative</EntitySurfaceForm>
+	<EntityTextStart>872</EntityTextStart>
+	<EntityTextEnd>886</EntityTextEnd>
+	<LinkerScore>-1.2668724494195054</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Representative_democracy</WikiTitle>
+		<WikiTitleID>52318</WikiTitleID>
+		<RankerScore>0.2865734304236704</RankerScore>
+		<Attributes>election</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States_House_of_Representatives</WikiTitle> <WikiTitleID>40621</WikiTitleID> <RankerScore>0.059223356530930006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Representative_democracy</WikiTitle> <WikiTitleID>52318</WikiTitleID> <RankerScore>0.2865734304236704</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Representative</WikiTitle> <WikiTitleID>329783</WikiTitleID> <RankerScore>0.0755560348913378</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Representation_(politics)</WikiTitle> <WikiTitleID>2204161</WikiTitleID> <RankerScore>0.0340380693031801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legislator</WikiTitle> <WikiTitleID>661622</WikiTitleID> <RankerScore>0.0340380693031801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georgia_House_of_Representatives</WikiTitle> <WikiTitleID>964164</WikiTitleID> <RankerScore>0.0340380693031801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic</WikiTitle> <WikiTitleID>25536</WikiTitleID> <RankerScore>0.0340380693031801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cap_(sport)</WikiTitle> <WikiTitleID>3191695</WikiTitleID> <RankerScore>0.0340380693031801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Representative_agent</WikiTitle> <WikiTitleID>591523</WikiTitleID> <RankerScore>0.0340380693031801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Representation</WikiTitle> <WikiTitleID>348211</WikiTitleID> <RankerScore>0.0340380693031801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alaska_House_of_Representatives</WikiTitle> <WikiTitleID>1071790</WikiTitleID> <RankerScore>0.0340380693031801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_House_of_Representatives</WikiTitle> <WikiTitleID>6264252</WikiTitleID> <RankerScore>0.0340380693031801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Member_of_Parliament</WikiTitle> <WikiTitleID>98066</WikiTitleID> <RankerScore>0.0340380693031801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Ambassador_to_the_United_Nations</WikiTitle> <WikiTitleID>316610</WikiTitleID> <RankerScore>0.0340380693031801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Hampshire_General_Court</WikiTitle> <WikiTitleID>426255</WikiTitleID> <RankerScore>0.0340380693031801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Carolina_General_Assembly</WikiTitle> <WikiTitleID>426283</WikiTitleID> <RankerScore>0.0340380693031801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Assembly_(France)</WikiTitle> <WikiTitleID>299616</WikiTitleID> <RankerScore>0.0340380693031801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lobbying</WikiTitle> <WikiTitleID>48934</WikiTitleID> <RankerScore>0.0340380693031801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Massachusetts_House_of_Representatives</WikiTitle> <WikiTitleID>722246</WikiTitleID> <RankerScore>0.0340380693031801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Oregon_House_of_Representatives</WikiTitle> <WikiTitleID>4975238</WikiTitleID> <RankerScore>0.0340380693031801</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baghdad</EntitySurfaceForm>
+	<EntityTextStart>891</EntityTextStart>
+	<EntityTextEnd>898</EntityTextEnd>
+	<LinkerScore>20.435521789887392</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baghdad</WikiTitle>
+		<WikiTitleID>4492</WikiTitleID>
+		<RankerScore>0.9943878327652549</RankerScore>
+		<Attributes>capital	community	place	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baghdad</WikiTitle> <WikiTitleID>4492</WikiTitleID> <RankerScore>0.9943878327652549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdad_Vilayet</WikiTitle> <WikiTitleID>3749171</WikiTitleID> <RankerScore>0.004185439574841513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdad_Governorate</WikiTitle> <WikiTitleID>200519</WikiTitleID> <RankerScore>7.566595013448136E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdad_(EP)</WikiTitle> <WikiTitleID>993503</WikiTitleID> <RankerScore>9.572402265126913E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fall_of_Baghdad_(1917)</WikiTitle> <WikiTitleID>2475767</WikiTitleID> <RankerScore>9.572402265126913E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdad_Governorate</WikiTitle> <WikiTitleID>1586755</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Siege_of_Baghdad_(1258)</WikiTitle> <WikiTitleID>2530755</WikiTitleID> <RankerScore>9.572402265126913E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdad_International_Airport</WikiTitle> <WikiTitleID>162172</WikiTitleID> <RankerScore>9.572402265126913E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraq</WikiTitle> <WikiTitleID>7515928</WikiTitleID> <RankerScore>9.572402265126913E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_districts_in_Baghdad</WikiTitle> <WikiTitleID>11195868</WikiTitleID> <RankerScore>9.572402265126913E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Baghdad_(2003)</WikiTitle> <WikiTitleID>207031</WikiTitleID> <RankerScore>9.572402265126913E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Associated Press</EntitySurfaceForm>
+	<EntityTextStart>928</EntityTextStart>
+	<EntityTextEnd>944</EntityTextEnd>
+	<LinkerScore>7.52432573109073</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Associated_Press</WikiTitle>
+		<WikiTitleID>47915</WikiTitleID>
+		<RankerScore>0.9910802677691705</RankerScore>
+		<Attributes>cooperative	agency	establishment	medium	recipient</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Associated_Press</WikiTitle> <WikiTitleID>47915</WikiTitleID> <RankerScore>0.9910802677691705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AP_Poll</WikiTitle> <WikiTitleID>2976437</WikiTitleID> <RankerScore>0.005680867363695986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Associated_Press_Athlete_of_the_Year</WikiTitle> <WikiTitleID>520228</WikiTitleID> <RankerScore>0.0032388648671334464</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>organization</EntitySurfaceForm>
+	<EntityTextStart>955</EntityTextStart>
+	<EntityTextEnd>967</EntityTextEnd>
+	<LinkerScore>2.7033782462907006</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Organization</WikiTitle>
+		<WikiTitleID>105070</WikiTitleID>
+		<RankerScore>0.41849093516432856</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Organization</WikiTitle> <WikiTitleID>105070</WikiTitleID> <RankerScore>0.41849093516432856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fraternity</WikiTitle> <WikiTitleID>174649</WikiTitleID> <RankerScore>0.027139737271593616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Advocacy_group</WikiTitle> <WikiTitleID>961742</WikiTitleID> <RankerScore>0.022221736210759558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nonprofit_organization</WikiTitle> <WikiTitleID>72487</WikiTitleID> <RankerScore>0.031302799491371665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charitable_organization</WikiTitle> <WikiTitleID>1176679</WikiTitleID> <RankerScore>0.031302799491371665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_organization</WikiTitle> <WikiTitleID>18201224</WikiTitleID> <RankerScore>0.031302799491371665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_organization</WikiTitle> <WikiTitleID>6714405</WikiTitleID> <RankerScore>0.031302799491371665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_environmental_organizations</WikiTitle> <WikiTitleID>376078</WikiTitleID> <RankerScore>0.031302799491371665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Professional_sports_league_organization</WikiTitle> <WikiTitleID>4496150</WikiTitleID> <RankerScore>0.031302799491371665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DOSAAF</WikiTitle> <WikiTitleID>1023911</WikiTitleID> <RankerScore>0.031302799491371665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_veterans&apos;_organizations</WikiTitle> <WikiTitleID>602139</WikiTitleID> <RankerScore>0.031302799491371665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Young_Guard_(Soviet_resistance)</WikiTitle> <WikiTitleID>2635634</WikiTitleID> <RankerScore>0.031302799491371665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Voluntary_association</WikiTitle> <WikiTitleID>313347</WikiTitleID> <RankerScore>0.031302799491371665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sangha</WikiTitle> <WikiTitleID>28747</WikiTitleID> <RankerScore>0.031302799491371665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Quorum_(Latter_Day_Saints)</WikiTitle> <WikiTitleID>1495670</WikiTitleID> <RankerScore>0.031302799491371665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Professional_association</WikiTitle> <WikiTitleID>377828</WikiTitleID> <RankerScore>0.031302799491371665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_Red_Cross_and_Red_Crescent_Movement</WikiTitle> <WikiTitleID>15487</WikiTitleID> <RankerScore>0.031302799491371665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sicilian_Mafia</WikiTitle> <WikiTitleID>20444</WikiTitleID> <RankerScore>0.031302799491371665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honor_society</WikiTitle> <WikiTitleID>1530518</WikiTitleID> <RankerScore>0.031302799491371665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Industrial_and_organizational_psychology</WikiTitle> <WikiTitleID>15450</WikiTitleID> <RankerScore>0.031302799491371665</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>difficulty</EntitySurfaceForm>
+	<EntityTextStart>976</EntityTextStart>
+	<EntityTextEnd>986</EntityTextEnd>
+	<LinkerScore>-3.429315652135542</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Balance_(game_design)</WikiTitle>
+		<WikiTitleID>1528258</WikiTitleID>
+		<RankerScore>0.34270339092777613</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Balance_(game_design)</WikiTitle> <WikiTitleID>1528258</WikiTitleID> <RankerScore>0.34270339092777613</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anorgasmia</WikiTitle> <WikiTitleID>292094</WikiTitleID> <RankerScore>0.19971032422012058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reading_disability</WikiTitle> <WikiTitleID>2764306</WikiTitleID> <RankerScore>0.22139603588791537</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Difficulty</WikiTitle> <WikiTitleID>7639546</WikiTitleID> <RankerScore>0.23619024896418794</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>visiting</EntitySurfaceForm>
+	<EntityTextStart>987</EntityTextStart>
+	<EntityTextEnd>995</EntityTextEnd>
+	<LinkerScore>5.61095262624587</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tourism</WikiTitle>
+		<WikiTitleID>29789</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>industry</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tourism</WikiTitle> <WikiTitleID>29789</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>POWs</EntitySurfaceForm>
+	<EntityTextStart>996</EntityTextStart>
+	<EntityTextEnd>1000</EntityTextEnd>
+	<LinkerScore>10.544354954202378</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prisoner_of_war</WikiTitle>
+		<WikiTitleID>25008</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>prisoner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prisoner_of_war</WikiTitle> <WikiTitleID>25008</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>both sides</EntitySurfaceForm>
+	<EntityTextStart>1004</EntityTextStart>
+	<EntityTextEnd>1014</EntityTextEnd>
+	<LinkerScore>1.7815645915844942</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Polish_prisoners_and_internees_in_the_Soviet_Union_and_Lithuania_(1919–1921)</WikiTitle>
+		<WikiTitleID>10492306</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Polish_prisoners_and_internees_in_the_Soviet_Union_and_Lithuania_(1919–1921)</WikiTitle> <WikiTitleID>10492306</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sides</EntitySurfaceForm>
+	<EntityTextStart>1009</EntityTextStart>
+	<EntityTextEnd>1014</EntityTextEnd>
+	<LinkerScore>6.686756117204062</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>A-side_and_B-side</WikiTitle>
+		<WikiTitleID>156541</WikiTitleID>
+		<RankerScore>0.3871871468536821</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>A-side_and_B-side</WikiTitle> <WikiTitleID>156541</WikiTitleID> <RankerScore>0.3871871468536821</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Song</WikiTitle> <WikiTitleID>28830</WikiTitleID> <RankerScore>0.29097719291139484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Side_dish</WikiTitle> <WikiTitleID>2530489</WikiTitleID> <RankerScore>0.321835660234923</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>regular</EntitySurfaceForm>
+	<EntityTextStart>1020</EntityTextStart>
+	<EntityTextEnd>1027</EntityTextEnd>
+	<LinkerScore>3.7127375458949263</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Regular_polygon</WikiTitle>
+		<WikiTitleID>333306</WikiTitleID>
+		<RankerScore>0.21419212959760198</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Regular</WikiTitle> <WikiTitleID>336992</WikiTitleID> <RankerScore>0.11035046808967872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regular_space</WikiTitle> <WikiTitleID>53058</WikiTitleID> <RankerScore>0.08327886209063985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regular_polygon</WikiTitle> <WikiTitleID>333306</WikiTitleID> <RankerScore>0.21419212959760198</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regular_polytope</WikiTitle> <WikiTitleID>518693</WikiTitleID> <RankerScore>0.03483403177776938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regular_graph</WikiTitle> <WikiTitleID>85821</WikiTitleID> <RankerScore>0.03483403177776938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regular_polyhedron</WikiTitle> <WikiTitleID>333299</WikiTitleID> <RankerScore>0.03483403177776938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regular_language</WikiTitle> <WikiTitleID>25723</WikiTitleID> <RankerScore>0.03483403177776938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regular_Masonic_jurisdictions</WikiTitle> <WikiTitleID>388752</WikiTitleID> <RankerScore>0.03483403177776938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regular_cardinal</WikiTitle> <WikiTitleID>374128</WikiTitleID> <RankerScore>0.03483403177776938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regular_local_ring</WikiTitle> <WikiTitleID>506959</WikiTitleID> <RankerScore>0.03483403177776938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regular_function</WikiTitle> <WikiTitleID>1763170</WikiTitleID> <RankerScore>0.03483403177776938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regular_measure</WikiTitle> <WikiTitleID>3390453</WikiTitleID> <RankerScore>0.03483403177776938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regular_army</WikiTitle> <WikiTitleID>12928085</WikiTitleID> <RankerScore>0.03483403177776938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regular_and_irregular_verbs</WikiTitle> <WikiTitleID>1944235</WikiTitleID> <RankerScore>0.03483403177776938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Smooth_function</WikiTitle> <WikiTitleID>292140</WikiTitleID> <RankerScore>0.03483403177776938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regular_Army_(United_States)</WikiTitle> <WikiTitleID>2187390</WikiTitleID> <RankerScore>0.03483403177776938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Platonic_solid</WikiTitle> <WikiTitleID>23905</WikiTitleID> <RankerScore>0.03483403177776938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regular_ring</WikiTitle> <WikiTitleID>7454705</WikiTitleID> <RankerScore>0.03483403177776938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sail</WikiTitle> <WikiTitleID>73212</WikiTitleID> <RankerScore>0.03483403177776938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regular_category</WikiTitle> <WikiTitleID>9790950</WikiTitleID> <RankerScore>0.03483403177776938</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>basis</EntitySurfaceForm>
+	<EntityTextStart>1028</EntityTextStart>
+	<EntityTextEnd>1033</EntityTextEnd>
+	<LinkerScore>2.2275457684756375</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Basis_(linear_algebra)</WikiTitle>
+		<WikiTitleID>18420</WikiTitleID>
+		<RankerScore>0.3089809744015928</RankerScore>
+		<Attributes>dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Basis_(linear_algebra)</WikiTitle> <WikiTitleID>18420</WikiTitleID> <RankerScore>0.3089809744015928</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Base_(topology)</WikiTitle> <WikiTitleID>59220</WikiTitleID> <RankerScore>0.11651540482893916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Basis</WikiTitle> <WikiTitleID>3421</WikiTitleID> <RankerScore>0.1876398806728032</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cost_basis</WikiTitle> <WikiTitleID>5036061</WikiTitleID> <RankerScore>0.04298486001074053</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orthonormal_basis</WikiTitle> <WikiTitleID>195063</WikiTitleID> <RankerScore>0.04298486001074053</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vector_space</WikiTitle> <WikiTitleID>32370</WikiTitleID> <RankerScore>0.04298486001074053</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Basis_function</WikiTitle> <WikiTitleID>50909</WikiTitleID> <RankerScore>0.04298486001074053</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polynomial_basis</WikiTitle> <WikiTitleID>1028233</WikiTitleID> <RankerScore>0.04298486001074053</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_status_and_usage_of_the_euro</WikiTitle> <WikiTitleID>1674306</WikiTitleID> <RankerScore>0.04298486001074053</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Basis_set</WikiTitle> <WikiTitleID>703960</WikiTitleID> <RankerScore>0.04298486001074053</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eigenvalues_and_eigenvectors</WikiTitle> <WikiTitleID>2161429</WikiTitleID> <RankerScore>0.04298486001074053</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Schauder_basis</WikiTitle> <WikiTitleID>3460662</WikiTitleID> <RankerScore>0.04298486001074053</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>April</EntitySurfaceForm>
+	<EntityTextStart>1041</EntityTextStart>
+	<EntityTextEnd>1046</EntityTextEnd>
+	<LinkerScore>1.2174595376613015</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>In_April</WikiTitle>
+		<WikiTitleID>6762543</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>In_April</WikiTitle> <WikiTitleID>6762543</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iran</EntitySurfaceForm>
+	<EntityTextStart>1048</EntityTextStart>
+	<EntityTextEnd>1052</EntityTextEnd>
+	<LinkerScore>12.87153413308595</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iran</WikiTitle>
+		<WikiTitleID>14653</WikiTitleID>
+		<RankerScore>0.9738391876951379</RankerScore>
+		<Attributes>nation	country	state	republic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iran</WikiTitle> <WikiTitleID>14653</WikiTitleID> <RankerScore>0.9738391876951379</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iran_national_football_team</WikiTitle> <WikiTitleID>272865</WikiTitleID> <RankerScore>0.012577341798560942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pahlavi_dynasty</WikiTitle> <WikiTitleID>338883</WikiTitleID> <RankerScore>0.003540886447461969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Iran</WikiTitle> <WikiTitleID>49116</WikiTitleID> <RankerScore>6.276615036774471E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Iran</WikiTitle> <WikiTitleID>1343434</WikiTitleID> <RankerScore>6.276615036774471E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iran_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>930038</WikiTitleID> <RankerScore>6.276615036774471E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Iran</WikiTitle> <WikiTitleID>64707</WikiTitleID> <RankerScore>6.276615036774471E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greater_Iran</WikiTitle> <WikiTitleID>3978097</WikiTitleID> <RankerScore>6.276615036774471E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iran_national_basketball_team</WikiTitle> <WikiTitleID>8294810</WikiTitleID> <RankerScore>6.276615036774471E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iran_national_under-20_football_team</WikiTitle> <WikiTitleID>14109773</WikiTitleID> <RankerScore>6.276615036774471E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Iran</WikiTitle> <WikiTitleID>64213</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Iran</WikiTitle> <WikiTitleID>64702</WikiTitleID> <RankerScore>6.276615036774471E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iran_at_the_1968_Summer_Olympics</WikiTitle> <WikiTitleID>7717773</WikiTitleID> <RankerScore>6.276615036774471E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_the_Islamic_Republic_of_Iran</WikiTitle> <WikiTitleID>16652449</WikiTitleID> <RankerScore>6.276615036774471E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nuclear_program_of_Iran</WikiTitle> <WikiTitleID>721807</WikiTitleID> <RankerScore>6.276615036774471E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iran_national_under-23_football_team</WikiTitle> <WikiTitleID>7211755</WikiTitleID> <RankerScore>6.276615036774471E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Iran</WikiTitle> <WikiTitleID>413618</WikiTitleID> <RankerScore>6.276615036774471E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economy_of_Iran</WikiTitle> <WikiTitleID>64704</WikiTitleID> <RankerScore>6.276615036774471E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Iran</WikiTitle> <WikiTitleID>7773244</WikiTitleID> <RankerScore>6.276615036774471E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iran_Andrielle_de_Oliveira</WikiTitle> <WikiTitleID>10777512</WikiTitleID> <RankerScore>6.276615036774471E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iraqi</EntitySurfaceForm>
+	<EntityTextStart>1068</EntityTextStart>
+	<EntityTextEnd>1073</EntityTextEnd>
+	<LinkerScore>9.285635090505272</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iraq</WikiTitle>
+		<WikiTitleID>7515928</WikiTitleID>
+		<RankerScore>0.9885040160418808</RankerScore>
+		<Attributes>state	country	monarchy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iraq</WikiTitle> <WikiTitleID>7515928</WikiTitleID> <RankerScore>0.9885040160418808</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Iraq</WikiTitle> <WikiTitleID>14666</WikiTitleID> <RankerScore>0.003251380850723161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Iraq</WikiTitle> <WikiTitleID>2255715</WikiTitleID> <RankerScore>1.93197075951074E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Army</WikiTitle> <WikiTitleID>1576797</WikiTitleID> <RankerScore>0.006119435271934142</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mesopotamian_Arabic</WikiTitle> <WikiTitleID>1439851</WikiTitleID> <RankerScore>1.93197075951074E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_security_forces</WikiTitle> <WikiTitleID>4627429</WikiTitleID> <RankerScore>1.93197075951074E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_dinar</WikiTitle> <WikiTitleID>246612</WikiTitleID> <RankerScore>1.93197075951074E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdadi_Jews</WikiTitle> <WikiTitleID>2206118</WikiTitleID> <RankerScore>1.93197075951074E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Air_Force</WikiTitle> <WikiTitleID>1817852</WikiTitleID> <RankerScore>1.93197075951074E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Communist_Party</WikiTitle> <WikiTitleID>696035</WikiTitleID> <RankerScore>1.93197075951074E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mesopotamia</WikiTitle> <WikiTitleID>20189</WikiTitleID> <RankerScore>1.93197075951074E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Iraq</WikiTitle> <WikiTitleID>248451</WikiTitleID> <RankerScore>1.93197075951074E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Persian_Iraq</WikiTitle> <WikiTitleID>3903005</WikiTitleID> <RankerScore>1.93197075951074E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Interim_Government</WikiTitle> <WikiTitleID>762287</WikiTitleID> <RankerScore>1.93197075951074E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>POWs</EntitySurfaceForm>
+	<EntityTextStart>1074</EntityTextStart>
+	<EntityTextEnd>1078</EntityTextEnd>
+	<LinkerScore>6.763235265672195</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prisoner_of_war</WikiTitle>
+		<WikiTitleID>25008</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>prisoner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prisoner_of_war</WikiTitle> <WikiTitleID>25008</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iraq</EntitySurfaceForm>
+	<EntityTextStart>1083</EntityTextStart>
+	<EntityTextEnd>1087</EntityTextEnd>
+	<LinkerScore>9.991888130870608</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iraq</WikiTitle>
+		<WikiTitleID>7515928</WikiTitleID>
+		<RankerScore>0.9976388895490962</RankerScore>
+		<Attributes>state	country	monarchy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iraq</WikiTitle> <WikiTitleID>7515928</WikiTitleID> <RankerScore>0.9976388895490962</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraq_national_football_team</WikiTitle> <WikiTitleID>1039652</WikiTitleID> <RankerScore>1.2448274248185732E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraq_War</WikiTitle> <WikiTitleID>5043324</WikiTitleID> <RankerScore>0.0015577513400044066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_invasion_of_Iraq</WikiTitle> <WikiTitleID>201936</WikiTitleID> <RankerScore>5.917384486803022E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Iraq_(1932–58)</WikiTitle> <WikiTitleID>2900620</WikiTitleID> <RankerScore>1.2448274248185732E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Iraq_(Mandate_administration)</WikiTitle> <WikiTitleID>1038799</WikiTitleID> <RankerScore>1.2448274248185732E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Iraq_(2003–11)</WikiTitle> <WikiTitleID>228708</WikiTitleID> <RankerScore>1.2448274248185732E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Iraq</WikiTitle> <WikiTitleID>209247</WikiTitleID> <RankerScore>1.2448274248185732E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Iraq</WikiTitle> <WikiTitleID>14670</WikiTitleID> <RankerScore>1.2448274248185732E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gulf_War</WikiTitle> <WikiTitleID>182000</WikiTitleID> <RankerScore>1.2448274248185732E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Multi-National_Force_–_Iraq</WikiTitle> <WikiTitleID>5215751</WikiTitleID> <RankerScore>1.2448274248185732E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Iraq</WikiTitle> <WikiTitleID>2255715</WikiTitleID> <RankerScore>1.2448274248185732E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_security_forces</WikiTitle> <WikiTitleID>4627429</WikiTitleID> <RankerScore>1.2448274248185732E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anglo-Iraqi_War</WikiTitle> <WikiTitleID>1595906</WikiTitleID> <RankerScore>1.2448274248185732E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Kurdistan</WikiTitle> <WikiTitleID>679693</WikiTitleID> <RankerScore>1.2448274248185732E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operation_Telic</WikiTitle> <WikiTitleID>248175</WikiTitleID> <RankerScore>1.2448274248185732E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australian_contribution_to_the_2003_invasion_of_Iraq</WikiTitle> <WikiTitleID>202603</WikiTitleID> <RankerScore>1.2448274248185732E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Iraq</WikiTitle> <WikiTitleID>14664</WikiTitleID> <RankerScore>1.2448274248185732E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_Iraq</WikiTitle> <WikiTitleID>1025329</WikiTitleID> <RankerScore>1.2448274248185732E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>RAF_Iraq_Command</WikiTitle> <WikiTitleID>4537618</WikiTitleID> <RankerScore>1.2448274248185732E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>POWs</EntitySurfaceForm>
+	<EntityTextStart>1100</EntityTextStart>
+	<EntityTextEnd>1104</EntityTextEnd>
+	<LinkerScore>7.370187259093166</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prisoner_of_war</WikiTitle>
+		<WikiTitleID>25008</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>prisoner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prisoner_of_war</WikiTitle> <WikiTitleID>25008</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>316</EntitySurfaceForm>
+	<EntityTextStart>1109</EntityTextStart>
+	<EntityTextEnd>1112</EntityTextEnd>
+	<LinkerScore>-7.760653673309857</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>316</WikiTitle>
+		<WikiTitleID>48478</WikiTitleID>
+		<RankerScore>0.42965821731870785</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>316</WikiTitle> <WikiTitleID>48478</WikiTitleID> <RankerScore>0.42965821731870785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_bus_routes_in_London</WikiTitle> <WikiTitleID>10936938</WikiTitleID> <RankerScore>0.13189049727163907</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Area_code_316</WikiTitle> <WikiTitleID>5849487</WikiTitleID> <RankerScore>0.18383593084860386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>316_BC</WikiTitle> <WikiTitleID>77131</WikiTitleID> <RankerScore>0.03637362208014989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BMW_3_Series</WikiTitle> <WikiTitleID>537262</WikiTitleID> <RankerScore>0.03637362208014989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minnesota_State_Highway_316</WikiTitle> <WikiTitleID>7127460</WikiTitleID> <RankerScore>0.03637362208014989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>No._316_Polish_Fighter_Squadron</WikiTitle> <WikiTitleID>4084116</WikiTitleID> <RankerScore>0.03637362208014989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1_decimetre</WikiTitle> <WikiTitleID>36026</WikiTitleID> <RankerScore>0.03637362208014989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_316</WikiTitle> <WikiTitleID>3258831</WikiTitleID> <RankerScore>0.03637362208014989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Rail_Classes_316_and_457</WikiTitle> <WikiTitleID>1179436</WikiTitleID> <RankerScore>0.03637362208014989</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iranians</EntitySurfaceForm>
+	<EntityTextStart>1113</EntityTextStart>
+	<EntityTextEnd>1121</EntityTextEnd>
+	<LinkerScore>5.2515482122061705</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iran</WikiTitle>
+		<WikiTitleID>14653</WikiTitleID>
+		<RankerScore>0.5111163986982454</RankerScore>
+		<Attributes>nation	country	state	republic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iranians</WikiTitle> <WikiTitleID>225111</WikiTitleID> <RankerScore>0.28405008650585317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_peoples</WikiTitle> <WikiTitleID>1268748</WikiTitleID> <RankerScore>0.18079451500975072</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Iran</WikiTitle> <WikiTitleID>64699</WikiTitleID> <RankerScore>0.0048077999572301066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_peoples</WikiTitle> <WikiTitleID>4183615</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Persian_people</WikiTitle> <WikiTitleID>24607</WikiTitleID> <RankerScore>0.0048077999572301066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iran</WikiTitle> <WikiTitleID>14653</WikiTitleID> <RankerScore>0.5111163986982454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Iranians</WikiTitle> <WikiTitleID>161064</WikiTitleID> <RankerScore>0.0048077999572301066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parthia</WikiTitle> <WikiTitleID>24836</WikiTitleID> <RankerScore>0.0048077999572301066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Iran</WikiTitle> <WikiTitleID>49116</WikiTitleID> <RankerScore>0.0048077999572301066</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>civil</EntitySurfaceForm>
+	<EntityTextStart>1139</EntityTextStart>
+	<EntityTextEnd>1144</EntityTextEnd>
+	<LinkerScore>-7.7553110879638005</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Civil_law_(common_law)</WikiTitle>
+		<WikiTitleID>2941242</WikiTitleID>
+		<RankerScore>0.29316496688516414</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Civil_law_(common_law)</WikiTitle> <WikiTitleID>2941242</WikiTitleID> <RankerScore>0.29316496688516414</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civil</WikiTitle> <WikiTitleID>1288112</WikiTitleID> <RankerScore>0.12799817737334654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civil_engineering</WikiTitle> <WikiTitleID>5762</WikiTitleID> <RankerScore>0.02641335782047008</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civil_and_political_rights</WikiTitle> <WikiTitleID>37071</WikiTitleID> <RankerScore>0.02641335782047008</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civil_law</WikiTitle> <WikiTitleID>5255</WikiTitleID> <RankerScore>0.02641335782047008</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civil_law_(legal_system)</WikiTitle> <WikiTitleID>1048798</WikiTitleID> <RankerScore>0.129809772793498</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Private_law</WikiTitle> <WikiTitleID>220103</WikiTitleID> <RankerScore>0.02641335782047008</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civil_aviation</WikiTitle> <WikiTitleID>296168</WikiTitleID> <RankerScore>0.02641335782047008</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civil_procedure</WikiTitle> <WikiTitleID>76381</WikiTitleID> <RankerScore>0.02641335782047008</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lawsuit</WikiTitle> <WikiTitleID>113258</WikiTitleID> <RankerScore>0.02641335782047008</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civil_engineer</WikiTitle> <WikiTitleID>195520</WikiTitleID> <RankerScore>0.02641335782047008</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civil_service</WikiTitle> <WikiTitleID>160793</WikiTitleID> <RankerScore>0.02641335782047008</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civil_code</WikiTitle> <WikiTitleID>218845</WikiTitleID> <RankerScore>0.02641335782047008</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civilian</WikiTitle> <WikiTitleID>145804</WikiTitleID> <RankerScore>0.02641335782047008</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civil_liberties</WikiTitle> <WikiTitleID>37476</WikiTitleID> <RankerScore>0.02641335782047008</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civil_war</WikiTitle> <WikiTitleID>7085</WikiTitleID> <RankerScore>0.02641335782047008</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civil_marriage</WikiTitle> <WikiTitleID>201974</WikiTitleID> <RankerScore>0.02641335782047008</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gregorian_calendar</WikiTitle> <WikiTitleID>12315</WikiTitleID> <RankerScore>0.02641335782047008</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bureaucracy</WikiTitle> <WikiTitleID>4645</WikiTitleID> <RankerScore>0.02641335782047008</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civil_parishes_in_England</WikiTitle> <WikiTitleID>644233</WikiTitleID> <RankerScore>0.02641335782047008</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>civil law</EntitySurfaceForm>
+	<EntityTextStart>1139</EntityTextStart>
+	<EntityTextEnd>1148</EntityTextEnd>
+	<LinkerScore>3.744401045708086</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Civil_law_(legal_system)</WikiTitle>
+		<WikiTitleID>1048798</WikiTitleID>
+		<RankerScore>0.6243964962724808</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Civil_law_(legal_system)</WikiTitle> <WikiTitleID>1048798</WikiTitleID> <RankerScore>0.6243964962724808</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civil_law_(common_law)</WikiTitle> <WikiTitleID>2941242</WikiTitleID> <RankerScore>0.11415554347041752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civil_law</WikiTitle> <WikiTitleID>5255</WikiTitleID> <RankerScore>0.046234661042965246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Private_law</WikiTitle> <WikiTitleID>220103</WikiTitleID> <RankerScore>0.026901662401767057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Quebec_law</WikiTitle> <WikiTitleID>3791536</WikiTitleID> <RankerScore>0.026901662401767057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civil_code</WikiTitle> <WikiTitleID>218845</WikiTitleID> <RankerScore>0.026901662401767057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_Portugal</WikiTitle> <WikiTitleID>4680392</WikiTitleID> <RankerScore>0.026901662401767057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_national_legal_systems</WikiTitle> <WikiTitleID>154708</WikiTitleID> <RankerScore>0.026901662401767057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Juris_Doctor</WikiTitle> <WikiTitleID>153041</WikiTitleID> <RankerScore>0.026901662401767057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scots_law</WikiTitle> <WikiTitleID>282669</WikiTitleID> <RankerScore>0.026901662401767057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Corpus_Juris_Civilis</WikiTitle> <WikiTitleID>48727</WikiTitleID> <RankerScore>0.026901662401767057</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>law</EntitySurfaceForm>
+	<EntityTextStart>1145</EntityTextStart>
+	<EntityTextEnd>1148</EntityTextEnd>
+	<LinkerScore>3.412258856982905</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Law</WikiTitle>
+		<WikiTitleID>17538</WikiTitleID>
+		<RankerScore>0.9704196352638429</RankerScore>
+		<Attributes>science</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Law</WikiTitle> <WikiTitleID>17538</WikiTitleID> <RankerScore>0.9704196352638429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scots_law</WikiTitle> <WikiTitleID>282669</WikiTitleID> <RankerScore>0.0027281754258968957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lawyer</WikiTitle> <WikiTitleID>17541</WikiTitleID> <RankerScore>0.001790648966050666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bachelor_of_Laws</WikiTitle> <WikiTitleID>299903</WikiTitleID> <RankerScore>0.0014742082555417358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_school</WikiTitle> <WikiTitleID>3262885</WikiTitleID> <RankerScore>0.0014742082555417358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sharia</WikiTitle> <WikiTitleID>28840</WikiTitleID> <RankerScore>0.0014742082555417358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Halakha</WikiTitle> <WikiTitleID>13873</WikiTitleID> <RankerScore>0.0014742082555417358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Torah</WikiTitle> <WikiTitleID>30343</WikiTitleID> <RankerScore>0.0014742082555417358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jurisprudence</WikiTitle> <WikiTitleID>16366</WikiTitleID> <RankerScore>0.0014742082555417358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laws_of_science</WikiTitle> <WikiTitleID>71110</WikiTitleID> <RankerScore>0.0014742082555417358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_law</WikiTitle> <WikiTitleID>85441</WikiTitleID> <RankerScore>0.0014742082555417358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_(stochastic_processes)</WikiTitle> <WikiTitleID>6673876</WikiTitleID> <RankerScore>0.0014742082555417358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legal_education</WikiTitle> <WikiTitleID>221054</WikiTitleID> <RankerScore>0.0014742082555417358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Physical_law</WikiTitle> <WikiTitleID>39098</WikiTitleID> <RankerScore>0.0014742082555417358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_the_United_States</WikiTitle> <WikiTitleID>77749</WikiTitleID> <RankerScore>0.0014742082555417358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_Union_law</WikiTitle> <WikiTitleID>276436</WikiTitleID> <RankerScore>0.0014742082555417358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Juris_Doctor</WikiTitle> <WikiTitleID>153041</WikiTitleID> <RankerScore>0.0014742082555417358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_Singapore</WikiTitle> <WikiTitleID>1165902</WikiTitleID> <RankerScore>0.0014742082555417358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_law</WikiTitle> <WikiTitleID>26364</WikiTitleID> <RankerScore>0.0014742082555417358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statutory_law</WikiTitle> <WikiTitleID>26784</WikiTitleID> <RankerScore>0.0014742082555417358</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the largest</EntitySurfaceForm>
+	<EntityTextStart>1162</EntityTextStart>
+	<EntityTextEnd>1173</EntityTextEnd>
+	<LinkerScore>-4.429580991960268</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>List_of_automotive_superlatives</WikiTitle>
+		<WikiTitleID>858694</WikiTitleID>
+		<RankerScore>0.31312273254630624</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>List_of_automotive_superlatives</WikiTitle> <WikiTitleID>858694</WikiTitleID> <RankerScore>0.31312273254630624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_city_squares_by_size</WikiTitle> <WikiTitleID>6812040</WikiTitleID> <RankerScore>0.26573389703025246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_European_stadiums_by_capacity</WikiTitle> <WikiTitleID>10601843</WikiTitleID> <RankerScore>0.18339188527713426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_South_American_stadiums_by_capacity</WikiTitle> <WikiTitleID>10605510</WikiTitleID> <RankerScore>0.23775148514630698</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>largest</EntitySurfaceForm>
+	<EntityTextStart>1166</EntityTextStart>
+	<EntityTextEnd>1173</EntityTextEnd>
+	<LinkerScore>-8.369274169397785</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>List_of_&quot;largest&quot;_articles</WikiTitle>
+		<WikiTitleID>7986792</WikiTitleID>
+		<RankerScore>0.19090826720627083</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Largest_organisms</WikiTitle> <WikiTitleID>2494450</WikiTitleID> <RankerScore>0.05085305782745495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_city_squares_by_size</WikiTitle> <WikiTitleID>6812040</WikiTitleID> <RankerScore>0.03771098012253693</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_&quot;largest&quot;_articles</WikiTitle> <WikiTitleID>7986792</WikiTitleID> <RankerScore>0.19090826720627083</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Solar_System_objects_by_size</WikiTitle> <WikiTitleID>594550</WikiTitleID> <RankerScore>0.042383982049631605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_largest_shopping_malls_in_the_United_States</WikiTitle> <WikiTitleID>4017086</WikiTitleID> <RankerScore>0.042383982049631605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_largest_airlines_in_Europe</WikiTitle> <WikiTitleID>11898209</WikiTitleID> <RankerScore>0.042383982049631605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islam_by_country</WikiTitle> <WikiTitleID>2695494</WikiTitleID> <RankerScore>0.042383982049631605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_motor_yachts_by_length</WikiTitle> <WikiTitleID>995158</WikiTitleID> <RankerScore>0.042383982049631605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_largest_empires</WikiTitle> <WikiTitleID>3550538</WikiTitleID> <RankerScore>0.042383982049631605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_North_American_stadiums_by_capacity</WikiTitle> <WikiTitleID>10565505</WikiTitleID> <RankerScore>0.042383982049631605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Oil_tanker</WikiTitle> <WikiTitleID>15923603</WikiTitleID> <RankerScore>0.042383982049631605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_UK_shopping_centres</WikiTitle> <WikiTitleID>15724243</WikiTitleID> <RankerScore>0.042383982049631605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_natural_satellites</WikiTitle> <WikiTitleID>7838223</WikiTitleID> <RankerScore>0.042383982049631605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_cities_by_area</WikiTitle> <WikiTitleID>996403</WikiTitleID> <RankerScore>0.042383982049631605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_private_equity_firms</WikiTitle> <WikiTitleID>16305608</WikiTitleID> <RankerScore>0.042383982049631605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_colleges_and_universities_in_the_United_States_by_endowment</WikiTitle> <WikiTitleID>2874231</WikiTitleID> <RankerScore>0.042383982049631605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz</WikiTitle> <WikiTitleID>18564164</WikiTitleID> <RankerScore>0.042383982049631605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Party_divisions_of_United_States_Congresses</WikiTitle> <WikiTitleID>9564191</WikiTitleID> <RankerScore>0.042383982049631605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_steel_producers</WikiTitle> <WikiTitleID>599806</WikiTitleID> <RankerScore>0.042383982049631605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Classification_of_Indian_cities</WikiTitle> <WikiTitleID>4123575</WikiTitleID> <RankerScore>0.042383982049631605</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>exchange</EntitySurfaceForm>
+	<EntityTextStart>1174</EntityTextStart>
+	<EntityTextEnd>1182</EntityTextEnd>
+	<LinkerScore>-3.3158221693967462</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Exchange</WikiTitle>
+		<WikiTitleID>41125</WikiTitleID>
+		<RankerScore>0.360881483446505</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Exchange</WikiTitle> <WikiTitleID>41125</WikiTitleID> <RankerScore>0.360881483446505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephone_exchange</WikiTitle> <WikiTitleID>59603</WikiTitleID> <RankerScore>0.02705193451010279</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stock_exchange</WikiTitle> <WikiTitleID>28168</WikiTitleID> <RankerScore>0.06449585997241157</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trade</WikiTitle> <WikiTitleID>29678</WikiTitleID> <RankerScore>0.03221004247476357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_exchange_(chess)</WikiTitle> <WikiTitleID>2982620</WikiTitleID> <RankerScore>0.03221004247476357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Student_exchange_program</WikiTitle> <WikiTitleID>1076499</WikiTitleID> <RankerScore>0.03221004247476357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Futures_exchange</WikiTitle> <WikiTitleID>243931</WikiTitleID> <RankerScore>0.03221004247476357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Debt_restructuring</WikiTitle> <WikiTitleID>446945</WikiTitleID> <RankerScore>0.03221004247476357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephone_exchange_names</WikiTitle> <WikiTitleID>2201331</WikiTitleID> <RankerScore>0.03221004247476357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Exchange_interaction</WikiTitle> <WikiTitleID>4470365</WikiTitleID> <RankerScore>0.03221004247476357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentine_debt_restructuring</WikiTitle> <WikiTitleID>2062102</WikiTitleID> <RankerScore>0.03221004247476357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_exchange_market</WikiTitle> <WikiTitleID>648277</WikiTitleID> <RankerScore>0.03221004247476357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hydrogen–deuterium_exchange</WikiTitle> <WikiTitleID>4952672</WikiTitleID> <RankerScore>0.03221004247476357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pauli_exclusion_principle</WikiTitle> <WikiTitleID>24669</WikiTitleID> <RankerScore>0.03221004247476357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heligoland–Zanzibar_Treaty</WikiTitle> <WikiTitleID>1060042</WikiTitleID> <RankerScore>0.03221004247476357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barter</WikiTitle> <WikiTitleID>4232</WikiTitleID> <RankerScore>0.03221004247476357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reciprocity_(cultural_anthropology)</WikiTitle> <WikiTitleID>1046243</WikiTitleID> <RankerScore>0.03221004247476357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Exchange_symmetry</WikiTitle> <WikiTitleID>4436188</WikiTitleID> <RankerScore>0.03221004247476357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Structural_rule</WikiTitle> <WikiTitleID>697666</WikiTitleID> <RankerScore>0.03221004247476357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Data_exchange</WikiTitle> <WikiTitleID>10231058</WikiTitleID> <RankerScore>0.03221004247476357</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1990</EntitySurfaceForm>
+	<EntityTextStart>1189</EntityTextStart>
+	<EntityTextEnd>1193</EntityTextEnd>
+	<LinkerScore>10.385546050956453</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1990</WikiTitle>
+		<WikiTitleID>34635</WikiTitleID>
+		<RankerScore>0.9722383230360327</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1990</WikiTitle> <WikiTitleID>34635</WikiTitleID> <RankerScore>0.9722383230360327</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1990_in_film</WikiTitle> <WikiTitleID>171259</WikiTitleID> <RankerScore>0.005667582626950443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1990_in_music</WikiTitle> <WikiTitleID>160799</WikiTitleID> <RankerScore>0.0035618161609262964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1990_FIFA_World_Cup</WikiTitle> <WikiTitleID>157232</WikiTitleID> <RankerScore>0.0010901340103582628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1990_in_television</WikiTitle> <WikiTitleID>169746</WikiTitleID> <RankerScore>0.0010901340103582628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1990_in_literature</WikiTitle> <WikiTitleID>190210</WikiTitleID> <RankerScore>0.0010901340103582628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1990_in_video_gaming</WikiTitle> <WikiTitleID>1323001</WikiTitleID> <RankerScore>0.0010901340103582628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1990_in_baseball</WikiTitle> <WikiTitleID>2136309</WikiTitleID> <RankerScore>0.0010901340103582628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1990_NFL_season</WikiTitle> <WikiTitleID>2367832</WikiTitleID> <RankerScore>0.0010901340103582628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1990_in_sports</WikiTitle> <WikiTitleID>224736</WikiTitleID> <RankerScore>0.0010901340103582628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1990_in_poetry</WikiTitle> <WikiTitleID>5513178</WikiTitleID> <RankerScore>0.0010901340103582628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1990_United_States_Census</WikiTitle> <WikiTitleID>3536675</WikiTitleID> <RankerScore>0.0010901340103582628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1989–90_NHL_season</WikiTitle> <WikiTitleID>2107768</WikiTitleID> <RankerScore>0.0010901340103582628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_general_election,_1990</WikiTitle> <WikiTitleID>593885</WikiTitleID> <RankerScore>0.0010901340103582628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1990_CFL_season</WikiTitle> <WikiTitleID>2805965</WikiTitleID> <RankerScore>0.0010901340103582628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1990_PGA_Tour</WikiTitle> <WikiTitleID>14611720</WikiTitleID> <RankerScore>0.0010901340103582628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1990_in_NASCAR</WikiTitle> <WikiTitleID>11474541</WikiTitleID> <RankerScore>0.0010901340103582628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1990_African_Cup_of_Champions_Clubs</WikiTitle> <WikiTitleID>16163549</WikiTitleID> <RankerScore>0.0010901340103582628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1990_in_aviation</WikiTitle> <WikiTitleID>566622</WikiTitleID> <RankerScore>0.0010901340103582628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Juno_Awards_of_1990</WikiTitle> <WikiTitleID>5781394</WikiTitleID> <RankerScore>0.0010901340103582628</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>More than</EntitySurfaceForm>
+	<EntityTextStart>1198</EntityTextStart>
+	<EntityTextEnd>1207</EntityTextEnd>
+	<LinkerScore>6.522226764184371</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Inequality</WikiTitle>
+		<WikiTitleID>89489</WikiTitleID>
+		<RankerScore>0.5514271186648462</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Inequality</WikiTitle> <WikiTitleID>89489</WikiTitleID> <RankerScore>0.5514271186648462</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ring_Around_the_Sun</WikiTitle> <WikiTitleID>5248620</WikiTitleID> <RankerScore>0.4485728813351538</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>More</EntitySurfaceForm>
+	<EntityTextStart>1198</EntityTextStart>
+	<EntityTextEnd>1202</EntityTextEnd>
+	<LinkerScore>-7.907831241143127</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>More</WikiTitle>
+		<WikiTitleID>734419</WikiTitleID>
+		<RankerScore>0.18428746908586627</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>More</WikiTitle> <WikiTitleID>43850</WikiTitleID> <RankerScore>1.2621761504144182</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More</WikiTitle> <WikiTitleID>734419</WikiTitleID> <RankerScore>0.18428746908586627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More_(Theme_from_Mondo_Cane)</WikiTitle> <WikiTitleID>2026543</WikiTitleID> <RankerScore>0.17977878351115711</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thomas_More</WikiTitle> <WikiTitleID>30479</WikiTitleID> <RankerScore>0.037407867494292736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More_(magazine)</WikiTitle> <WikiTitleID>12680673</WikiTitleID> <RankerScore>0.037407867494292736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More_(1998_film)</WikiTitle> <WikiTitleID>1446852</WikiTitleID> <RankerScore>0.037407867494292736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More_(Tamia_album)</WikiTitle> <WikiTitleID>7606711</WikiTitleID> <RankerScore>0.037407867494292736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mossi_language</WikiTitle> <WikiTitleID>771783</WikiTitleID> <RankerScore>0.037407867494292736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More_(cigarette)</WikiTitle> <WikiTitleID>5892113</WikiTitleID> <RankerScore>0.037407867494292736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More_(1956_song)</WikiTitle> <WikiTitleID>2026480</WikiTitleID> <RankerScore>0.037407867494292736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More_(Punk_magazine_from_Belgium)</WikiTitle> <WikiTitleID>2444793</WikiTitleID> <RankerScore>0.037407867494292736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More_(British_band)</WikiTitle> <WikiTitleID>6185440</WikiTitleID> <RankerScore>0.037407867494292736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More_(Vitamin_C_album)</WikiTitle> <WikiTitleID>5512404</WikiTitleID> <RankerScore>0.037407867494292736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>More_EP</WikiTitle> <WikiTitleID>13161691</WikiTitleID> <RankerScore>0.037407867494292736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_registered_political_parties_in_Tarragona</WikiTitle> <WikiTitleID>8952806</WikiTitleID> <RankerScore>0.037407867494292736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_registered_political_parties_in_Barcelona</WikiTitle> <WikiTitleID>8952719</WikiTitleID> <RankerScore>0.037407867494292736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_registered_political_parties_in_Zaragoza</WikiTitle> <WikiTitleID>8953342</WikiTitleID> <RankerScore>0.037407867494292736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reason_(Shaman_album)</WikiTitle> <WikiTitleID>3596641</WikiTitleID> <RankerScore>0.037407867494292736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_registered_political_parties_in_Madrid</WikiTitle> <WikiTitleID>8952441</WikiTitleID> <RankerScore>0.037407867494292736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_registered_political_parties_in_Asturias</WikiTitle> <WikiTitleID>8953211</WikiTitleID> <RankerScore>0.037407867494292736</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1 million</EntitySurfaceForm>
+	<EntityTextStart>1208</EntityTextStart>
+	<EntityTextEnd>1217</EntityTextEnd>
+	<LinkerScore>-1.2581135840567677</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Million</WikiTitle>
+		<WikiTitleID>1045999</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>integer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Million</WikiTitle> <WikiTitleID>1045999</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>people</EntitySurfaceForm>
+	<EntityTextStart>1218</EntityTextStart>
+	<EntityTextEnd>1224</EntityTextEnd>
+	<LinkerScore>-1.8371148944706954</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>People</WikiTitle>
+		<WikiTitleID>3488351</WikiTitleID>
+		<RankerScore>0.23209749567113752</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>People</WikiTitle> <WikiTitleID>3488351</WikiTitleID> <RankerScore>0.23209749567113752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Person</WikiTitle> <WikiTitleID>219599</WikiTitleID> <RankerScore>0.0553263258838272</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nation</WikiTitle> <WikiTitleID>21754</WikiTitleID> <RankerScore>0.19842548006367727</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human</WikiTitle> <WikiTitleID>682482</WikiTitleID> <RankerScore>0.030244158728315172</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ethnic_group</WikiTitle> <WikiTitleID>105004</WikiTitleID> <RankerScore>0.030244158728315172</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scottish_people</WikiTitle> <WikiTitleID>884446</WikiTitleID> <RankerScore>0.030244158728315172</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Portuguese_people</WikiTitle> <WikiTitleID>970642</WikiTitleID> <RankerScore>0.030244158728315172</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_France</WikiTitle> <WikiTitleID>67475</WikiTitleID> <RankerScore>0.030244158728315172</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_people</WikiTitle> <WikiTitleID>962731</WikiTitleID> <RankerScore>0.030244158728315172</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plebs</WikiTitle> <WikiTitleID>244404</WikiTitleID> <RankerScore>0.030244158728315172</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Germans</WikiTitle> <WikiTitleID>152735</WikiTitleID> <RankerScore>0.030244158728315172</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>People_smuggling</WikiTitle> <WikiTitleID>68714</WikiTitleID> <RankerScore>0.030244158728315172</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cornish_people</WikiTitle> <WikiTitleID>2300559</WikiTitleID> <RankerScore>0.030244158728315172</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_Dutch</WikiTitle> <WikiTitleID>177674</WikiTitleID> <RankerScore>0.030244158728315172</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_Americans_in_the_United_States</WikiTitle> <WikiTitleID>21217</WikiTitleID> <RankerScore>0.030244158728315172</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Salem_witch_trials</WikiTitle> <WikiTitleID>205246</WikiTitleID> <RankerScore>0.030244158728315172</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Democracy</WikiTitle> <WikiTitleID>7959</WikiTitleID> <RankerScore>0.030244158728315172</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tamilakam</WikiTitle> <WikiTitleID>4161033</WikiTitleID> <RankerScore>0.030244158728315172</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lithuanian_people</WikiTitle> <WikiTitleID>459375</WikiTitleID> <RankerScore>0.030244158728315172</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Quebec</WikiTitle> <WikiTitleID>406992</WikiTitleID> <RankerScore>0.030244158728315172</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>killed</EntitySurfaceForm>
+	<EntityTextStart>1230</EntityTextStart>
+	<EntityTextEnd>1236</EntityTextEnd>
+	<LinkerScore>4.454203559386816</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Killed_in_action</WikiTitle>
+		<WikiTitleID>368513</WikiTitleID>
+		<RankerScore>0.9900685765807274</RankerScore>
+		<Attributes>personnel	casualty</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Killed_in_action</WikiTitle> <WikiTitleID>368513</WikiTitleID> <RankerScore>0.9900685765807274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kill</WikiTitle> <WikiTitleID>437432</WikiTitleID> <RankerScore>0.0010250472124332293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Death_of_Joseph_Smith</WikiTitle> <WikiTitleID>9045538</WikiTitleID> <RankerScore>3.922973653257708E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Murder</WikiTitle> <WikiTitleID>20171</WikiTitleID> <RankerScore>5.008281671478584E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Death</WikiTitle> <WikiTitleID>8221</WikiTitleID> <RankerScore>5.008281671478584E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Well_kill</WikiTitle> <WikiTitleID>10420935</WikiTitleID> <RankerScore>5.008281671478584E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kill_(command)</WikiTitle> <WikiTitleID>940594</WikiTitleID> <RankerScore>5.008281671478584E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Assassination_of_Juvénal_Habyarimana_and_Cyprien_Ntaryamira</WikiTitle> <WikiTitleID>11639523</WikiTitleID> <RankerScore>5.008281671478584E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operation_Flavius</WikiTitle> <WikiTitleID>422111</WikiTitleID> <RankerScore>5.008281671478584E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Munich_massacre</WikiTitle> <WikiTitleID>20989</WikiTitleID> <RankerScore>5.008281671478584E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lynching</WikiTitle> <WikiTitleID>100416</WikiTitleID> <RankerScore>5.008281671478584E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yangju_highway_incident</WikiTitle> <WikiTitleID>18216117</WikiTitleID> <RankerScore>5.008281671478584E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Retroactive_continuity</WikiTitle> <WikiTitleID>26400</WikiTitleID> <RankerScore>5.008281671478584E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_unusual_deaths</WikiTitle> <WikiTitleID>656245</WikiTitleID> <RankerScore>5.008281671478584E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_Armed_Forces_casualties_in_Afghanistan</WikiTitle> <WikiTitleID>12378453</WikiTitleID> <RankerScore>5.008281671478584E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Ctesiphon_(363)</WikiTitle> <WikiTitleID>3448147</WikiTitleID> <RankerScore>5.008281671478584E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Impediment_of_Crime</WikiTitle> <WikiTitleID>5237080</WikiTitleID> <RankerScore>5.008281671478584E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_War_II_casualties</WikiTitle> <WikiTitleID>240900</WikiTitleID> <RankerScore>5.008281671478584E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collateral_damage</WikiTitle> <WikiTitleID>136560</WikiTitleID> <RankerScore>5.008281671478584E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roadkill</WikiTitle> <WikiTitleID>261105</WikiTitleID> <RankerScore>5.008281671478584E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iran-Iraq</EntitySurfaceForm>
+	<EntityTextStart>1255</EntityTextStart>
+	<EntityTextEnd>1264</EntityTextEnd>
+	<LinkerScore>9.853739229757304</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iran–Iraq_War</WikiTitle>
+		<WikiTitleID>14889</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>war</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iran–Iraq_War</WikiTitle> <WikiTitleID>14889</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iran-Iraq War</EntitySurfaceForm>
+	<EntityTextStart>1255</EntityTextStart>
+	<EntityTextEnd>1268</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iran–Iraq_War</WikiTitle>
+		<WikiTitleID>14889</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>war</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iran–Iraq_War</WikiTitle> <WikiTitleID>14889</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>War</EntitySurfaceForm>
+	<EntityTextStart>1265</EntityTextStart>
+	<EntityTextEnd>1268</EntityTextEnd>
+	<LinkerScore>11.026936341320658</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iran–Iraq_War</WikiTitle>
+		<WikiTitleID>14889</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>war</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iran–Iraq_War</WikiTitle> <WikiTitleID>14889</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

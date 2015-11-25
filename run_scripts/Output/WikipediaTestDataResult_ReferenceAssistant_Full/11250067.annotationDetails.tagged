@@ -1,0 +1,709 @@
+<ANNOTATION>
+A  <b>variable</b> may also be declared as  <b>fully</b>  <b>dynamic</b> using the generic keyword.  In this case no value need be assigned to it at  <b>declaration</b> time<br>;Type casts:A value can be converted to another type using a cast operation.  The  <b>syntax</b> is similar the that in C++ but simplified.  Casts are always performed at  <b>runtime</b> and a specific cast  <b>operator</b> may be defined for a class.<br>;Functions:A function is a program segment that is called and performs some operations before (possibly) returning a value.  If no value is explicitly returned, the value none is returned.<br>A  <b>function</b> can be declared as returning a particular type.  The actual value returned is cast to the  <b>return type</b> at runtime.<br>;Classes:A class is an  <b>object</b> oriented type.  They may be derived from other  <b>classes</b> to form a ''class hierarchy''.  They provide a set of  <b>functions</b> and operators that manipulate instances of the  <b>class</b>.  The  <b>class</b> may take arguments and its  <b>constructor</b> is the body of the block.<br>;Access control:Like C++ and  <a class="wiki" href="http://en.wikipedia.org/wiki/Java_(programming_language)" cat="language">Java</a> ,  <a class="wiki" href="http://en.wikipedia.org/wiki/Aikido_(programming_language)" cat="language">Aikido</a>  controls access to all members of blocks.  By default membership is ''private'' but may be made  ''public'' or ''protected'' using keywords.<br>;Interfaces:Similar to  <a class="wiki" href="http://en.wikipedia.org/wiki/Java_(programming_language)" cat="language">Java</a> ,  <a class="wiki" href="http://en.wikipedia.org/wiki/Aikido_(programming_language)" cat="language">Aikido</a>  provides an  <b>interface</b>  <b>concept</b> to constitute a  <b>contract</b> to provide certain  <b>functions</b> in the  <b>class</b>.  A class may implement one or more interfaces<br>; <b>Closures</b> and coroutines:A    <b>closure</b>   in  <a class="wiki" href="http://en.wikipedia.org/wiki/Aikido" cat="arts">Aikido</a>  is an  <b>object</b> that contains everything that is needed to invoke a  <b>function</b> from any point in the program.  This includes the  <b>function</b>'s  <b>static</b>  <b>link chain</b>.  A  <b>closure</b> is created by passing a  <b>function</b> name as an  <b>argument</b> or by returning it from a  <b>function</b>.  A    <b>coroutine</b>   is an extension of a  <b>closure</b> that also includes the current  <b>state</b> of a function (all data, program counter and registers).  A    <b>coroutine</b>   yields to its caller using the ''yield'' keyword.  It can be resumed inside a ''foreach'' statement or by calling the ''next()''  <b>function</b> on the closure.<br>;Polymorphic functions:Similar to  <a class="wiki" href="http://en.wikipedia.org/wiki/Java_(programming_language)" cat="language">Java</a> , all public  <b>functions</b> in a block are be  <b>overridden</b> by a block derived from it.  This is known as ''virtual functions'' in C++.<br>;Static members:Block members may be declared ''static'' meaning that their memory resides in the outer  <b>program level</b>.  This allows them to maintain their value.<br>;Threads:A thread is a ''thread of control'' in the program and executes independently of other threads.<br>;Packages: A package is a collection of program constructs collected in one place for use by another program.  They may be used to provide libraries.<br>;Monitors:A monitor is a  <b>thread synchronization</b> object that controls access to memory and also provides a signaling facility<br>;Strings:A string is a  <b>sequence</b> of  <b>characters</b>.  Many operations are available for them including  <b>insertion</b>, searching, deletion, shifting, etc.<br>;Vectors:A vector is a sequence values of any type.  They may be manipulated and extended by built-in operations<br><br>
+</ANNOTATION>
+*Entity:[variable,textSpan=(2-10)]	-Disambiguation:(tid=32818, Title name=Variable) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[declared,textSpan=(23-31)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fully,textSpan=(35-40)]	-Disambiguation:(tid=4264781, Title name=Fully) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dynamic,textSpan=(41-48)]	-Disambiguation:(tid=234079, Title name=Dynamic_programming_language) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[generic,textSpan=(59-66)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[keyword,textSpan=(67-74)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[case,textSpan=(85-89)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[value,textSpan=(93-98)]	-Disambiguation:(tid=338331, Title name=Value_(computer_science)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[need,textSpan=(99-103)]	-Disambiguation:(tid=622545, Title name=Need) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[assigned,textSpan=(107-115)]	-Disambiguation:(tid=344807, Title name=Assignment_(computer_science)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[declaration,textSpan=(125-136)]	-Disambiguation:(tid=4329406, Title name=Declaration_(computer_programming)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[time,textSpan=(137-141)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[converted,textSpan=(169-178)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[type,textSpan=(190-194)]	-Disambiguation:(tid=93817, Title name=Data_type) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cast,textSpan=(203-207)]	-Disambiguation:(tid=555390, Title name=Type_conversion) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[operation,textSpan=(208-217)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[syntax,textSpan=(224-230)]	-Disambiguation:(tid=23015, Title name=Programming_language) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Casts,textSpan=(275-280)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[performed,textSpan=(292-301)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[runtime,textSpan=(305-312)]	-Disambiguation:(tid=192263, Title name=Run_time) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[specific,textSpan=(319-327)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cast,textSpan=(328-332)]	-Disambiguation:(tid=555390, Title name=Type_conversion) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[operator,textSpan=(333-341)]	-Disambiguation:(tid=22213, Title name=Operator) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[defined,textSpan=(349-356)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[program,textSpan=(397-404)]	-Disambiguation:(tid=5783, Title name=Computer_program) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[segment,textSpan=(405-412)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[called,textSpan=(421-427)]	-Disambiguation:(tid=40988, Title name=Subroutine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[operations,textSpan=(446-456)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a value,textSpan=(485-492)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[value,textSpan=(487-492)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[value,textSpan=(501-506)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[returned,textSpan=(521-529)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[value,textSpan=(535-540)]	-Disambiguation:(tid=4095185, Title name=Value_(economics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[returned,textSpan=(549-557)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[function,textSpan=(561-569)]	-Disambiguation:(tid=40988, Title name=Subroutine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[declared,textSpan=(577-585)]	-Disambiguation:(tid=4329406, Title name=Declaration_(computer_programming)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[particular,textSpan=(601-611)]	-Disambiguation:(tid=23196, Title name=Particular) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[type,textSpan=(612-616)]	-Disambiguation:(tid=93817, Title name=Data_type) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The actual,textSpan=(619-629)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[actual value,textSpan=(623-635)]	-Disambiguation:(tid=8319757, Title name=Actual_cash_value) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[actual,textSpan=(623-629)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[value,textSpan=(630-635)]	-Disambiguation:(tid=338331, Title name=Value_(computer_science)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cast,textSpan=(648-652)]	-Disambiguation:(tid=555390, Title name=Type_conversion) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the return,textSpan=(656-666)]	-Disambiguation:(tid=102191, Title name=Right_of_return) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[return type,textSpan=(660-671)]	-Disambiguation:(tid=552581, Title name=Return_type) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[return,textSpan=(660-666)]	-Disambiguation:(tid=232817, Title name=Method_(computer_programming)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[type,textSpan=(667-671)]	-Disambiguation:(tid=93817, Title name=Data_type) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[object,textSpan=(707-713)]	-Disambiguation:(tid=169665, Title name=Object_(computer_science)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[type,textSpan=(723-727)]	-Disambiguation:(tid=93817, Title name=Data_type) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[They,textSpan=(730-734)]	-Disambiguation:(tid=17043521, Title name=They_(film)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[derived,textSpan=(742-749)]	-Disambiguation:(tid=2617746, Title name=Inheritance_(object-oriented_programming)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[classes,textSpan=(761-768)]	-Disambiguation:(tid=7392, Title name=Class_(computer_programming)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[form,textSpan=(772-776)]	-Disambiguation:(tid=171578, Title name=Form) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[They,textSpan=(801-805)]	-Disambiguation:(tid=17043521, Title name=They_(film)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a set,textSpan=(814-819)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[set,textSpan=(816-819)]	-Disambiguation:(tid=26691, Title name=Set) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[functions,textSpan=(823-832)]	-Disambiguation:(tid=40988, Title name=Subroutine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[operators,textSpan=(837-846)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[instances,textSpan=(863-872)]	-Disambiguation:(tid=169665, Title name=Object_(computer_science)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the class,textSpan=(876-885)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[class,textSpan=(880-885)]	-Disambiguation:(tid=7392, Title name=Class_(computer_programming)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The class,textSpan=(888-897)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[class,textSpan=(892-897)]	-Disambiguation:(tid=7392, Title name=Class_(computer_programming)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[arguments,textSpan=(907-916)]	-Disambiguation:(tid=324375, Title name=Parameter_(computer_programming)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[constructor,textSpan=(925-936)]	-Disambiguation:(tid=939453, Title name=Constructor_(object-oriented_programming)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the body,textSpan=(940-948)]	-Disambiguation:(tid=5326278, Title name=Unidentified_body_on_Christmas_Island) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[body,textSpan=(944-948)]	-Disambiguation:(tid=3788, Title name=Body) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Access,textSpan=(964-970)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Java, Aikido,textSpan=(992-1004)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Java,textSpan=(992-996)]	-Disambiguation:(tid=15881, Title name=Java_(programming_language)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Aikido,textSpan=(998-1004)]	-Disambiguation:(tid=11250067, Title name=Aikido_(programming_language)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[access,textSpan=(1014-1020)]	-Disambiguation:(tid=40682, Title name=Access) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[members,textSpan=(1028-1035)]	-Disambiguation:(tid=232817, Title name=Method_(computer_programming)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[blocks,textSpan=(1039-1045)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[default,textSpan=(1051-1058)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[membership,textSpan=(1059-1069)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Java,textSpan=(1169-1173)]	-Disambiguation:(tid=15881, Title name=Java_(programming_language)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Java, Aikido,textSpan=(1169-1181)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Aikido,textSpan=(1175-1181)]	-Disambiguation:(tid=11250067, Title name=Aikido_(programming_language)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[interface,textSpan=(1194-1203)]	-Disambiguation:(tid=620746, Title name=Interface_(computing)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[concept,textSpan=(1204-1211)]	-Disambiguation:(tid=6978, Title name=Concept) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a contract,textSpan=(1226-1236)]	-Disambiguation:(tid=276598, Title name=Product_placement) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[contract,textSpan=(1228-1236)]	-Disambiguation:(tid=7567, Title name=Contract) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[certain,textSpan=(1248-1255)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[functions,textSpan=(1256-1265)]	-Disambiguation:(tid=40988, Title name=Subroutine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the class,textSpan=(1269-1278)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[class,textSpan=(1273-1278)]	-Disambiguation:(tid=7392, Title name=Class_(computer_programming)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[A class,textSpan=(1281-1288)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[class,textSpan=(1283-1288)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[implement,textSpan=(1293-1302)]	-Disambiguation:(tid=407704, Title name=Implementation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[interfaces,textSpan=(1315-1325)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Closures,textSpan=(1327-1335)]	-Disambiguation:(tid=62319, Title name=Closure_(computer_science)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[closure,textSpan=(1355-1362)]	-Disambiguation:(tid=62319, Title name=Closure_(computer_science)) gold wikification:=Closure_(computer_science) isCorrectPrediction=Correct
+*Entity:[Aikido,textSpan=(1368-1374)]	-Disambiguation:(tid=751, Title name=Aikido) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[object,textSpan=(1381-1387)]	-Disambiguation:(tid=169665, Title name=Object_(computer_science)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[invoke,textSpan=(1431-1437)]	-Disambiguation:(tid=265635, Title name=Invocation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[function,textSpan=(1440-1448)]	-Disambiguation:(tid=40988, Title name=Subroutine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[point,textSpan=(1458-1463)]	-Disambiguation:(tid=593693, Title name=Point_(geometry)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the program,textSpan=(1467-1478)]	-Disambiguation:(tid=5862704, Title name=Scouting_and_Guiding_in_Alberta) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[program,textSpan=(1471-1478)]	-Disambiguation:(tid=5783, Title name=Computer_program) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[This,textSpan=(1481-1485)]	-Disambiguation:(tid=931481, Title name=This) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[function,textSpan=(1499-1507)]	-Disambiguation:(tid=50263, Title name=Domain_of_a_function) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[static,textSpan=(1510-1516)]	-Disambiguation:(tid=93817, Title name=Data_type) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[link chain,textSpan=(1517-1527)]	-Disambiguation:(tid=7715540, Title name=Chain) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[chain,textSpan=(1522-1527)]	-Disambiguation:(tid=5481027, Title name=Chain_loading) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[closure,textSpan=(1532-1539)]	-Disambiguation:(tid=62319, Title name=Closure_(computer_science)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[created,textSpan=(1543-1550)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[function,textSpan=(1564-1572)]	-Disambiguation:(tid=40988, Title name=Subroutine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[argument,textSpan=(1584-1592)]	-Disambiguation:(tid=324375, Title name=Parameter_(computer_programming)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[function,textSpan=(1619-1627)]	-Disambiguation:(tid=40988, Title name=Subroutine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[coroutine,textSpan=(1634-1643)]	-Disambiguation:(tid=243800, Title name=Coroutine) gold wikification:=Coroutine isCorrectPrediction=Correct
+*Entity:[extension,textSpan=(1652-1661)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[closure,textSpan=(1667-1674)]	-Disambiguation:(tid=62319, Title name=Closure_(computer_science)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the current,textSpan=(1694-1705)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[current,textSpan=(1698-1705)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[state,textSpan=(1706-1711)]	-Disambiguation:(tid=285512, Title name=State_(computer_science)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[coroutine,textSpan=(1774-1783)]	-Disambiguation:(tid=243800, Title name=Coroutine) gold wikification:=Coroutine isCorrectPrediction=Correct
+*Entity:[caller,textSpan=(1800-1806)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[It,textSpan=(1837-1839)]	-Disambiguation:(tid=271590, Title name=It_(novel)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[resumed,textSpan=(1847-1854)]	-Disambiguation:(tid=144089, Title name=Eminent_domain) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:['',textSpan=(1873-1875)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[statement,textSpan=(1876-1885)]	-Disambiguation:(tid=938656, Title name=Statement_(computer_science)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:['',textSpan=(1912-1914)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[function,textSpan=(1915-1923)]	-Disambiguation:(tid=40988, Title name=Subroutine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Java,textSpan=(1974-1978)]	-Disambiguation:(tid=15881, Title name=Java_(programming_language)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[public,textSpan=(1984-1990)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[functions,textSpan=(1991-2000)]	-Disambiguation:(tid=40988, Title name=Subroutine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[block,textSpan=(2006-2011)]	-Disambiguation:(tid=40808, Title name=Block) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[overridden,textSpan=(2019-2029)]	-Disambiguation:(tid=1010628, Title name=Method_overriding) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[block,textSpan=(2035-2040)]	-Disambiguation:(tid=40808, Title name=Block) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[This,textSpan=(2059-2063)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[known,textSpan=(2067-2072)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[declared,textSpan=(2143-2151)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[memory,textSpan=(2182-2188)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[outer,textSpan=(2204-2209)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[program level,textSpan=(2210-2223)]	-Disambiguation:(tid=3969205, Title name=Programme_level) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[program,textSpan=(2210-2217)]	-Disambiguation:(tid=5783, Title name=Computer_program) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[level,textSpan=(2218-2223)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[This,textSpan=(2226-2230)]	-Disambiguation:(tid=931481, Title name=This) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[maintain,textSpan=(2246-2254)]	-Disambiguation:(tid=780960, Title name=Software_maintenance) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the program,textSpan=(2316-2327)]	-Disambiguation:(tid=5862704, Title name=Scouting_and_Guiding_in_Alberta) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[program,textSpan=(2320-2327)]	-Disambiguation:(tid=5783, Title name=Computer_program) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a collection,textSpan=(2397-2409)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[collection,textSpan=(2399-2409)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[program,textSpan=(2413-2420)]	-Disambiguation:(tid=5783, Title name=Computer_program) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[constructs,textSpan=(2421-2431)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[place,textSpan=(2449-2454)]	-Disambiguation:(tid=586851, Title name=Place) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[another program,textSpan=(2466-2481)]	-Disambiguation:(tid=2566890, Title name=3D_computer_graphics_software) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[program,textSpan=(2474-2481)]	-Disambiguation:(tid=5783, Title name=Computer_program) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[They,textSpan=(2484-2488)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[thread synchronization,textSpan=(2548-2570)]	-Disambiguation:(tid=4726017, Title name=Synchronization_(computer_science)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[thread,textSpan=(2548-2554)]	-Disambiguation:(tid=45303, Title name=Thread_(computing)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[synchronization,textSpan=(2555-2570)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[controls,textSpan=(2583-2591)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[access,textSpan=(2592-2598)]	-Disambiguation:(tid=40682, Title name=Access) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[memory,textSpan=(2602-2608)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[signaling,textSpan=(2629-2638)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[facility,textSpan=(2639-2647)]	-Disambiguation:(tid=3241767, Title name=Facility) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sequence,textSpan=(2671-2679)]	-Disambiguation:(tid=27838, Title name=Sequence) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[characters,textSpan=(2683-2693)]	-Disambiguation:(tid=73443, Title name=Character_(computing)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Many,textSpan=(2696-2700)]	-Disambiguation:(tid=115717, Title name=Many,_Louisiana) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[operations,textSpan=(2701-2711)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[insertion,textSpan=(2745-2754)]	-Disambiguation:(tid=1795277, Title name=Insertion_(genetics)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[deletion,textSpan=(2767-2775)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sequence,textSpan=(2815-2823)]	-Disambiguation:(tid=27838, Title name=Sequence) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[values,textSpan=(2824-2830)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[type,textSpan=(2838-2842)]	-Disambiguation:(tid=93817, Title name=Data_type) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[They,textSpan=(2845-2849)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[manipulated,textSpan=(2857-2868)]	-Disambiguation:(tid=577742, Title name=Photo_manipulation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[extended,textSpan=(2873-2881)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[built-in,textSpan=(2885-2893)]	-Disambiguation:(tid=3060999, Title name=Shell_builtin) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[operations,textSpan=(2894-2904)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'variable' start in text:2 end in text: 10; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'declared' start in text:23 end in text: 31; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fully' start in text:35 end in text: 40; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'dynamic' start in text:41 end in text: 48; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'generic' start in text:59 end in text: 66; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'keyword' start in text:67 end in text: 74; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'case' start in text:85 end in text: 89; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'value' start in text:93 end in text: 98; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'need' start in text:99 end in text: 103; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'assigned' start in text:107 end in text: 115; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'declaration' start in text:125 end in text: 136; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'time' start in text:137 end in text: 141; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'converted' start in text:169 end in text: 178; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'type' start in text:190 end in text: 194; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cast' start in text:203 end in text: 207; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'operation' start in text:208 end in text: 217; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'syntax' start in text:224 end in text: 230; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Casts' start in text:275 end in text: 280; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'performed' start in text:292 end in text: 301; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'runtime' start in text:305 end in text: 312; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'specific' start in text:319 end in text: 327; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cast' start in text:328 end in text: 332; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'operator' start in text:333 end in text: 341; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'defined' start in text:349 end in text: 356; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'program' start in text:397 end in text: 404; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'segment' start in text:405 end in text: 412; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'called' start in text:421 end in text: 427; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'operations' start in text:446 end in text: 456; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a value' start in text:485 end in text: 492; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'value' start in text:487 end in text: 492; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'value' start in text:501 end in text: 506; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'returned' start in text:521 end in text: 529; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'value' start in text:535 end in text: 540; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'returned' start in text:549 end in text: 557; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'function' start in text:561 end in text: 569; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'declared' start in text:577 end in text: 585; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'particular' start in text:601 end in text: 611; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'type' start in text:612 end in text: 616; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The actual' start in text:619 end in text: 629; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'actual value' start in text:623 end in text: 635; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'actual' start in text:623 end in text: 629; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'value' start in text:630 end in text: 635; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cast' start in text:648 end in text: 652; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the return' start in text:656 end in text: 666; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'return type' start in text:660 end in text: 671; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'return' start in text:660 end in text: 666; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'type' start in text:667 end in text: 671; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'object' start in text:707 end in text: 713; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'type' start in text:723 end in text: 727; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'They' start in text:730 end in text: 734; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'derived' start in text:742 end in text: 749; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'classes' start in text:761 end in text: 768; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'form' start in text:772 end in text: 776; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'They' start in text:801 end in text: 805; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a set' start in text:814 end in text: 819; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'set' start in text:816 end in text: 819; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'functions' start in text:823 end in text: 832; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'operators' start in text:837 end in text: 846; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'instances' start in text:863 end in text: 872; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the class' start in text:876 end in text: 885; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'class' start in text:880 end in text: 885; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The class' start in text:888 end in text: 897; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'class' start in text:892 end in text: 897; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'arguments' start in text:907 end in text: 916; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'constructor' start in text:925 end in text: 936; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the body' start in text:940 end in text: 948; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'body' start in text:944 end in text: 948; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Access' start in text:964 end in text: 970; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Java, Aikido' start in text:992 end in text: 1004; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Java' start in text:992 end in text: 996; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Aikido' start in text:998 end in text: 1004; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'access' start in text:1014 end in text: 1020; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'members' start in text:1028 end in text: 1035; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'blocks' start in text:1039 end in text: 1045; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'default' start in text:1051 end in text: 1058; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'membership' start in text:1059 end in text: 1069; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Java' start in text:1169 end in text: 1173; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Java, Aikido' start in text:1169 end in text: 1181; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Aikido' start in text:1175 end in text: 1181; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'interface' start in text:1194 end in text: 1203; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'concept' start in text:1204 end in text: 1211; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a contract' start in text:1226 end in text: 1236; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'contract' start in text:1228 end in text: 1236; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'certain' start in text:1248 end in text: 1255; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'functions' start in text:1256 end in text: 1265; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the class' start in text:1269 end in text: 1278; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'class' start in text:1273 end in text: 1278; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'A class' start in text:1281 end in text: 1288; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'class' start in text:1283 end in text: 1288; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'implement' start in text:1293 end in text: 1302; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'interfaces' start in text:1315 end in text: 1325; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Closures' start in text:1327 end in text: 1335; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'closure' start in text:1355 end in text: 1362; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Aikido' start in text:1368 end in text: 1374; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'object' start in text:1381 end in text: 1387; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'invoke' start in text:1431 end in text: 1437; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'function' start in text:1440 end in text: 1448; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'point' start in text:1458 end in text: 1463; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the program' start in text:1467 end in text: 1478; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'program' start in text:1471 end in text: 1478; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'This' start in text:1481 end in text: 1485; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'function' start in text:1499 end in text: 1507; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'static' start in text:1510 end in text: 1516; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'link chain' start in text:1517 end in text: 1527; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'chain' start in text:1522 end in text: 1527; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'closure' start in text:1532 end in text: 1539; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'created' start in text:1543 end in text: 1550; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'function' start in text:1564 end in text: 1572; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'argument' start in text:1584 end in text: 1592; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'function' start in text:1619 end in text: 1627; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'coroutine' start in text:1634 end in text: 1643; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'extension' start in text:1652 end in text: 1661; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'closure' start in text:1667 end in text: 1674; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the current' start in text:1694 end in text: 1705; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'current' start in text:1698 end in text: 1705; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'state' start in text:1706 end in text: 1711; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'coroutine' start in text:1774 end in text: 1783; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'caller' start in text:1800 end in text: 1806; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'It' start in text:1837 end in text: 1839; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'resumed' start in text:1847 end in text: 1854; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '''' start in text:1873 end in text: 1875; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'statement' start in text:1876 end in text: 1885; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '''' start in text:1912 end in text: 1914; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'function' start in text:1915 end in text: 1923; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Java' start in text:1974 end in text: 1978; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'public' start in text:1984 end in text: 1990; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'functions' start in text:1991 end in text: 2000; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'block' start in text:2006 end in text: 2011; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'overridden' start in text:2019 end in text: 2029; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'block' start in text:2035 end in text: 2040; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'This' start in text:2059 end in text: 2063; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'known' start in text:2067 end in text: 2072; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'declared' start in text:2143 end in text: 2151; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'memory' start in text:2182 end in text: 2188; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'outer' start in text:2204 end in text: 2209; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'program level' start in text:2210 end in text: 2223; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'program' start in text:2210 end in text: 2217; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'level' start in text:2218 end in text: 2223; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'This' start in text:2226 end in text: 2230; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'maintain' start in text:2246 end in text: 2254; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the program' start in text:2316 end in text: 2327; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'program' start in text:2320 end in text: 2327; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a collection' start in text:2397 end in text: 2409; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'collection' start in text:2399 end in text: 2409; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'program' start in text:2413 end in text: 2420; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'constructs' start in text:2421 end in text: 2431; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'place' start in text:2449 end in text: 2454; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'another program' start in text:2466 end in text: 2481; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'program' start in text:2474 end in text: 2481; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'They' start in text:2484 end in text: 2488; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'thread synchronization' start in text:2548 end in text: 2570; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'thread' start in text:2548 end in text: 2554; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'synchronization' start in text:2555 end in text: 2570; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'controls' start in text:2583 end in text: 2591; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'access' start in text:2592 end in text: 2598; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'memory' start in text:2602 end in text: 2608; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'signaling' start in text:2629 end in text: 2638; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'facility' start in text:2639 end in text: 2647; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sequence' start in text:2671 end in text: 2679; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'characters' start in text:2683 end in text: 2693; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Many' start in text:2696 end in text: 2700; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'operations' start in text:2701 end in text: 2711; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'insertion' start in text:2745 end in text: 2754; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'deletion' start in text:2767 end in text: 2775; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sequence' start in text:2815 end in text: 2823; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'values' start in text:2824 end in text: 2830; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'type' start in text:2838 end in text: 2842; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'They' start in text:2845 end in text: 2849; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'manipulated' start in text:2857 end in text: 2868; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'extended' start in text:2873 end in text: 2881; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'built-in' start in text:2885 end in text: 2893; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'operations' start in text:2894 end in text: 2904; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

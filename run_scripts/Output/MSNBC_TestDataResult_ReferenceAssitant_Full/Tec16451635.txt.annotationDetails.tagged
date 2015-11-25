@@ -1,0 +1,639 @@
+<ANNOTATION>
+30  <b>panda</b>  <b>cubs</b> born in  <a class="wiki" href="http://en.wikipedia.org/wiki/China" cat="peoples	civilization	region">China</a>  in  <b>2006</b><br>Current total of  <b>giant pandas</b> bred in captivity now  <b>217</b><br><br> <a class="wiki" href="http://en.wikipedia.org/wiki/Beijing" cat="city	capital	municipality	area	game">BEIJING</a>  - A mini-baby boom last year has pushed up the number of  <b>pandas</b> bred in captivity in  <a class="wiki" href="http://en.wikipedia.org/wiki/China" cat="peoples	civilization	region">China</a>  to  <b>217</b>,  <b>state media</b> said Wednesday.<br><br>Some  <b>34</b>  <b>pandas</b> were born by  <b>artificial insemination</b> in  <b>2006</b> and 30 survived ' both record numbers for the  <b>endangered species</b>, Cao Qingyao, a  <b>spokesman</b> for the  <a class="wiki" href="http://en.wikipedia.org/wiki/State_Forestry_Administration_of_the_People's_Republic_of_China" cat="">State Forestry Administration</a> , was quoted as saying by the  <a class="wiki" href="http://en.wikipedia.org/wiki/Xinhua_News_Agency" cat="services	establishment	politics	agency">Xinhua News Agency</a> .<br><br> <a class="wiki" href="http://en.wikipedia.org/wiki/This_Year's_Girl" cat="episode">The previous</a>  record was the  <b>21</b>  <b>baby</b>  <b>pandas</b> born in  <a class="wiki" href="http://en.wikipedia.org/wiki/China" cat="peoples	civilization	region">China</a> 's  <b>zoos</b> and breeding centers in  <b>2005</b>.<br><br> <a class="wiki" href="http://en.wikipedia.org/wiki/China" cat="peoples	civilization	region">China</a>  has been raising  <b>pandas</b> through  <b>artificial insemination</b> for  <b>nearly</b> 50 years, mostly at two  <b>research</b> facilities in the southwestern  <b>province</b> of  <a class="wiki" href="http://en.wikipedia.org/wiki/Sichuan" cat="province">Sichuan</a> .  In  <b>2006</b>,  <b>17</b>  <b>cubs</b> were born at the  <a class="wiki" href="http://en.wikipedia.org/wiki/Wolong_National_Nature_Reserve" cat="reserves	area">Wolong</a>   <a class="wiki" href="http://en.wikipedia.org/wiki/Giant_panda" cat="species	mammal	symbol	animal">Giant Panda</a>  Protection and Research Center and 12 at the  <a class="wiki" href="http://en.wikipedia.org/wiki/Chengdu" cat="establishment	city	place	capital">Chengdu</a>  Research Base.  The other  <b>panda</b> was  <b>bred</b> at the  <b>zoo</b> in the southwestern  <b>city</b> of  <a class="wiki" href="http://en.wikipedia.org/wiki/Chongqing" cat="city	place	municipality	area">Chongqing</a> .<br><br>The  <b>panda</b> is one of the world's  <b>rarest animals</b>, with about 1,590 living in the wild in  <a class="wiki" href="http://en.wikipedia.org/wiki/China" cat="peoples	civilization	region">China</a> , mostly in  <a class="wiki" href="http://en.wikipedia.org/wiki/Sichuan" cat="province">Sichuan</a>  and the  <b>western</b>  <b>province</b> of  <a class="wiki" href="http://en.wikipedia.org/wiki/Shaanxi" cat="province">Shaanxi</a> .<br><br> <a class="wiki" href="http://en.wikipedia.org/wiki/Giant_panda" cat="species	mammal	symbol	animal">Giant pandas</a>  have a very  <b>low fertility</b> rate because they are sexually inactive.   <b>Female</b>  <b>pandas</b> become pregnant only once a year and deliver two  <b>cubs</b> at most each time.<br><br>The  <b>fertility</b> of captive  <b>giant pandas</b> is even lower because they do not move much, experts said.<br>
+</ANNOTATION>
+*Entity:[30,textSpan=(0-2)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[panda,textSpan=(3-8)]	-Disambiguation:(tid=12713, Title name=Giant_panda) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cubs,textSpan=(9-13)]	-Disambiguation:(tid=341336, Title name=Cubs) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[born,textSpan=(14-18)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[China,textSpan=(22-27)]	-Disambiguation:(tid=5042862, Title name=China) gold wikification:=China isCorrectPrediction=Correct
+*Entity:[2006,textSpan=(31-35)]	-Disambiguation:(tid=36164, Title name=2006) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Current,textSpan=(37-44)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[total,textSpan=(45-50)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[giant,textSpan=(54-59)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[giant pandas,textSpan=(54-66)]	-Disambiguation:(tid=12713, Title name=Giant_panda) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pandas,textSpan=(60-66)]	-Disambiguation:(tid=12713, Title name=Giant_panda) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[captivity,textSpan=(75-84)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[217,textSpan=(89-92)]	-Disambiguation:(tid=35863, Title name=217) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[BEIJING,textSpan=(96-103)]	-Disambiguation:(tid=3946, Title name=Beijing) gold wikification:=Beijing isCorrectPrediction=Correct
+*Entity:[boom,textSpan=(118-122)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[last year,textSpan=(123-132)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[year,textSpan=(128-132)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pushed,textSpan=(137-143)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the number,textSpan=(147-157)]	-Disambiguation:(tid=23601, Title name=Pi) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[number,textSpan=(151-157)]	-Disambiguation:(tid=21690, Title name=Number) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pandas,textSpan=(161-167)]	-Disambiguation:(tid=12713, Title name=Giant_panda) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[captivity,textSpan=(176-185)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[China,textSpan=(189-194)]	-Disambiguation:(tid=5042862, Title name=China) gold wikification:=China isCorrectPrediction=Correct
+*Entity:[217,textSpan=(198-201)]	-Disambiguation:(tid=35863, Title name=217) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[state,textSpan=(203-208)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[state media,textSpan=(203-214)]	-Disambiguation:(tid=3658264, Title name=State_media) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[media,textSpan=(209-214)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wednesday,textSpan=(220-229)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Some,textSpan=(234-238)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[34,textSpan=(239-241)]	-Disambiguation:(tid=34981, Title name=1934) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pandas,textSpan=(242-248)]	-Disambiguation:(tid=12713, Title name=Giant_panda) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[born,textSpan=(254-258)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[artificial insemination,textSpan=(262-285)]	-Disambiguation:(tid=213070, Title name=Artificial_insemination) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[artificial,textSpan=(262-272)]	-Disambiguation:(tid=2839842, Title name=Artificial) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[insemination,textSpan=(273-285)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[2006,textSpan=(289-293)]	-Disambiguation:(tid=36164, Title name=2006) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[30,textSpan=(298-300)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[record,textSpan=(317-323)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[numbers,textSpan=(324-331)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the endangered,textSpan=(336-350)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[endangered,textSpan=(340-350)]	-Disambiguation:(tid=9556, Title name=Endangered_species) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[endangered species,textSpan=(340-358)]	-Disambiguation:(tid=9556, Title name=Endangered_species) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[species,textSpan=(351-358)]	-Disambiguation:(tid=28023, Title name=Species) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cao Qingyao,textSpan=(360-371)]	-Disambiguation:*null* gold wikification:=*null* isCorrectPrediction=Correct
+*Entity:[Cao,textSpan=(360-363)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[spokesman,textSpan=(375-384)]	-Disambiguation:(tid=338047, Title name=Spokesperson) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[State Forestry Administration,textSpan=(393-422)]	-Disambiguation:(tid=18464391, Title name=State_Forestry_Administration_of_the_People's_Republic_of_China) gold wikification:=State_Forestry_Administration_of_the_People's_Republic_of_China isCorrectPrediction=Correct
+*Entity:[State,textSpan=(393-398)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Forestry,textSpan=(399-407)]	-Disambiguation:(tid=53912, Title name=Forestry) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Administration,textSpan=(408-422)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[quoted,textSpan=(428-434)]	-Disambiguation:(tid=69391, Title name=Quotations_from_the_Hebrew_Bible_in_the_New_Testament) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Xinhua News Agency,textSpan=(452-470)]	-Disambiguation:(tid=263168, Title name=Xinhua_News_Agency) gold wikification:=Xinhua_News_Agency isCorrectPrediction=Correct
+*Entity:[Xinhua,textSpan=(452-458)]	-Disambiguation:(tid=263168, Title name=Xinhua_News_Agency) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Xinhua News,textSpan=(452-463)]	-Disambiguation:(tid=263168, Title name=Xinhua_News_Agency) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[News,textSpan=(459-463)]	-Disambiguation:(tid=263168, Title name=Xinhua_News_Agency) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[News Agency,textSpan=(459-470)]	-Disambiguation:(tid=47917, Title name=News_agency) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Agency,textSpan=(464-470)]	-Disambiguation:(tid=263168, Title name=Xinhua_News_Agency) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The previous,textSpan=(475-487)]	-Disambiguation:(tid=2550090, Title name=This_Year's_Girl) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[previous,textSpan=(479-487)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[record,textSpan=(488-494)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[21,textSpan=(503-505)]	-Disambiguation:(tid=27532, Title name=September_21) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[baby,textSpan=(506-510)]	-Disambiguation:(tid=73165, Title name=Infant) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pandas,textSpan=(511-517)]	-Disambiguation:(tid=12713, Title name=Giant_panda) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[China,textSpan=(526-531)]	-Disambiguation:(tid=5405, Title name=China) gold wikification:=China isCorrectPrediction=Correct
+*Entity:[zoos,textSpan=(534-538)]	-Disambiguation:(tid=9096372, Title name=Zoo) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[centers,textSpan=(552-559)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[2005,textSpan=(563-567)]	-Disambiguation:(tid=35984, Title name=2005) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[China,textSpan=(572-577)]	-Disambiguation:(tid=5042862, Title name=China) gold wikification:=China isCorrectPrediction=Correct
+*Entity:[has been,textSpan=(578-586)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[raising,textSpan=(587-594)]	-Disambiguation:(tid=219640, Title name=Animal_husbandry) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pandas,textSpan=(595-601)]	-Disambiguation:(tid=12713, Title name=Giant_panda) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[artificial insemination,textSpan=(610-633)]	-Disambiguation:(tid=213070, Title name=Artificial_insemination) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[artificial,textSpan=(610-620)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[insemination,textSpan=(621-633)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nearly,textSpan=(638-644)]	-Disambiguation:(tid=10987833, Title name=Nearly_(band)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[50,textSpan=(645-647)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[years,textSpan=(648-653)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[research,textSpan=(669-677)]	-Disambiguation:(tid=25524, Title name=Research) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[facilities,textSpan=(678-688)]	-Disambiguation:(tid=3241767, Title name=Facility) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[southwestern,textSpan=(696-708)]	-Disambiguation:(tid=4846076, Title name=Southwest_China) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[province,textSpan=(709-717)]	-Disambiguation:(tid=254234, Title name=Provinces_of_the_People's_Republic_of_China) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sichuan,textSpan=(721-728)]	-Disambiguation:(tid=65185, Title name=Sichuan) gold wikification:=Sichuan isCorrectPrediction=Correct
+*Entity:[2006,textSpan=(734-738)]	-Disambiguation:(tid=36164, Title name=2006) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[17,textSpan=(740-742)]	-Disambiguation:(tid=1490, Title name=August_17) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cubs,textSpan=(743-747)]	-Disambiguation:(tid=341336, Title name=Cubs) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[born,textSpan=(753-757)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wolong,textSpan=(765-771)]	-Disambiguation:(tid=6208344, Title name=Wolong_National_Nature_Reserve) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wolong Giant Panda Protection,textSpan=(765-794)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wolong Giant Panda Protection and Research Center,textSpan=(765-814)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Giant Panda,textSpan=(772-783)]	-Disambiguation:(tid=12713, Title name=Giant_panda) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Giant,textSpan=(772-777)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Giant Panda Protection and Research Center,textSpan=(772-814)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Panda Protection and Research Center,textSpan=(778-814)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Panda,textSpan=(778-783)]	-Disambiguation:(tid=12713, Title name=Giant_panda) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Protection and Research Center,textSpan=(784-814)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Protection,textSpan=(784-794)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Research Center,textSpan=(799-814)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Research,textSpan=(799-807)]	-Disambiguation:(tid=25524, Title name=Research) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Center,textSpan=(808-814)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[12,textSpan=(819-821)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Chengdu Research Base,textSpan=(829-850)]	-Disambiguation:*null* gold wikification:=*null* isCorrectPrediction=Correct
+*Entity:[Chengdu,textSpan=(829-836)]	-Disambiguation:(tid=170375, Title name=Chengdu) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Research,textSpan=(837-845)]	-Disambiguation:(tid=25524, Title name=Research) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Base,textSpan=(846-850)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The other,textSpan=(853-862)]	-Disambiguation:(tid=13658854, Title name=Brownhills_Watling_Street_railway_station) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[panda,textSpan=(863-868)]	-Disambiguation:(tid=12713, Title name=Giant_panda) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bred,textSpan=(873-877)]	-Disambiguation:(tid=2965243, Title name=Captive_breeding) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the zoo,textSpan=(881-888)]	-Disambiguation:(tid=1015733, Title name=Ueno_Zoo) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[zoo,textSpan=(885-888)]	-Disambiguation:(tid=9096372, Title name=Zoo) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[southwestern,textSpan=(896-908)]	-Disambiguation:(tid=4846076, Title name=Southwest_China) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[city,textSpan=(909-913)]	-Disambiguation:(tid=5391, Title name=City) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Chongqing,textSpan=(917-926)]	-Disambiguation:(tid=171752, Title name=Chongqing) gold wikification:=Chongqing isCorrectPrediction=Correct
+*Entity:[The panda,textSpan=(931-940)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[panda,textSpan=(935-940)]	-Disambiguation:(tid=12713, Title name=Giant_panda) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the world,textSpan=(951-960)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[world,textSpan=(955-960)]	-Disambiguation:(tid=38714, Title name=World) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rarest animals,textSpan=(963-977)]	-Disambiguation:(tid=2665468, Title name=Rare_species) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rarest,textSpan=(963-969)]	-Disambiguation:(tid=9556, Title name=Endangered_species) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[animals,textSpan=(970-977)]	-Disambiguation:(tid=11039790, Title name=Animal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[living,textSpan=(996-1002)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the wild,textSpan=(1006-1014)]	-Disambiguation:(tid=396275, Title name=Wilderness) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wild,textSpan=(1010-1014)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[China,textSpan=(1018-1023)]	-Disambiguation:(tid=5042862, Title name=China) gold wikification:=China isCorrectPrediction=Correct
+*Entity:[Sichuan,textSpan=(1035-1042)]	-Disambiguation:(tid=65185, Title name=Sichuan) gold wikification:=Sichuan isCorrectPrediction=Correct
+*Entity:[the western,textSpan=(1047-1058)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[western province,textSpan=(1051-1067)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[western,textSpan=(1051-1058)]	-Disambiguation:(tid=374761, Title name=Western_world) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[province,textSpan=(1059-1067)]	-Disambiguation:(tid=254234, Title name=Provinces_of_the_People's_Republic_of_China) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Shaanxi,textSpan=(1071-1078)]	-Disambiguation:(tid=155520, Title name=Shaanxi) gold wikification:=Shaanxi isCorrectPrediction=Correct
+*Entity:[Giant,textSpan=(1083-1088)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Giant pandas,textSpan=(1083-1095)]	-Disambiguation:(tid=12713, Title name=Giant_panda) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pandas,textSpan=(1089-1095)]	-Disambiguation:(tid=12713, Title name=Giant_panda) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[very low,textSpan=(1103-1111)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[low fertility,textSpan=(1108-1121)]	-Disambiguation:(tid=179242, Title name=Infertility) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[low,textSpan=(1108-1111)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fertility,textSpan=(1112-1121)]	-Disambiguation:(tid=257215, Title name=Fertility) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fertility rate,textSpan=(1112-1126)]	-Disambiguation:(tid=636806, Title name=Total_fertility_rate) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rate,textSpan=(1122-1126)]	-Disambiguation:(tid=10618616, Title name=Rate) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sexually,textSpan=(1144-1152)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[inactive,textSpan=(1153-1161)]	-Disambiguation:(tid=32571, Title name=Volcano) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Female,textSpan=(1164-1170)]	-Disambiguation:(tid=11096, Title name=Female) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pandas,textSpan=(1171-1177)]	-Disambiguation:(tid=12713, Title name=Giant_panda) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a year,textSpan=(1204-1210)]	-Disambiguation:(tid=4522770, Title name=One_Year_Later) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[year,textSpan=(1206-1210)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cubs,textSpan=(1227-1231)]	-Disambiguation:(tid=341336, Title name=Cubs) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[time,textSpan=(1245-1249)]	-Disambiguation:(tid=30012, Title name=Time) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fertility,textSpan=(1258-1267)]	-Disambiguation:(tid=257215, Title name=Fertility) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[captive,textSpan=(1271-1278)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[giant pandas,textSpan=(1279-1291)]	-Disambiguation:(tid=12713, Title name=Giant_panda) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[giant,textSpan=(1279-1284)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pandas,textSpan=(1285-1291)]	-Disambiguation:(tid=12713, Title name=Giant_panda) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[lower,textSpan=(1300-1305)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[do not,textSpan=(1319-1325)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[experts,textSpan=(1337-1344)]	-Disambiguation:(tid=9892, Title name=Expert) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : '30' start in text:0 end in text: 2; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'panda' start in text:3 end in text: 8; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cubs' start in text:9 end in text: 13; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'born' start in text:14 end in text: 18; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'China' start in text:22 end in text: 27; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '2006' start in text:31 end in text: 35; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Current' start in text:37 end in text: 44; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'total' start in text:45 end in text: 50; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'giant' start in text:54 end in text: 59; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'giant pandas' start in text:54 end in text: 66; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pandas' start in text:60 end in text: 66; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'captivity' start in text:75 end in text: 84; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '217' start in text:89 end in text: 92; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'BEIJING' start in text:96 end in text: 103; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'boom' start in text:118 end in text: 122; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'last year' start in text:123 end in text: 132; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'year' start in text:128 end in text: 132; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pushed' start in text:137 end in text: 143; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the number' start in text:147 end in text: 157; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'number' start in text:151 end in text: 157; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pandas' start in text:161 end in text: 167; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'captivity' start in text:176 end in text: 185; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'China' start in text:189 end in text: 194; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '217' start in text:198 end in text: 201; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'state' start in text:203 end in text: 208; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'state media' start in text:203 end in text: 214; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'media' start in text:209 end in text: 214; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wednesday' start in text:220 end in text: 229; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Some' start in text:234 end in text: 238; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '34' start in text:239 end in text: 241; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pandas' start in text:242 end in text: 248; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'born' start in text:254 end in text: 258; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'artificial insemination' start in text:262 end in text: 285; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'artificial' start in text:262 end in text: 272; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'insemination' start in text:273 end in text: 285; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '2006' start in text:289 end in text: 293; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '30' start in text:298 end in text: 300; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'record' start in text:317 end in text: 323; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'numbers' start in text:324 end in text: 331; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the endangered' start in text:336 end in text: 350; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'endangered' start in text:340 end in text: 350; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'endangered species' start in text:340 end in text: 358; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'species' start in text:351 end in text: 358; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cao Qingyao' start in text:360 end in text: 371; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Cao' start in text:360 end in text: 363; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'spokesman' start in text:375 end in text: 384; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'State Forestry Administration' start in text:393 end in text: 422; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'State' start in text:393 end in text: 398; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Forestry' start in text:399 end in text: 407; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Administration' start in text:408 end in text: 422; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'quoted' start in text:428 end in text: 434; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Xinhua News Agency' start in text:452 end in text: 470; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Xinhua' start in text:452 end in text: 458; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Xinhua News' start in text:452 end in text: 463; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'News' start in text:459 end in text: 463; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'News Agency' start in text:459 end in text: 470; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Agency' start in text:464 end in text: 470; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The previous' start in text:475 end in text: 487; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'previous' start in text:479 end in text: 487; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'record' start in text:488 end in text: 494; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '21' start in text:503 end in text: 505; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'baby' start in text:506 end in text: 510; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pandas' start in text:511 end in text: 517; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'China' start in text:526 end in text: 531; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'zoos' start in text:534 end in text: 538; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'centers' start in text:552 end in text: 559; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '2005' start in text:563 end in text: 567; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'China' start in text:572 end in text: 577; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'has been' start in text:578 end in text: 586; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'raising' start in text:587 end in text: 594; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pandas' start in text:595 end in text: 601; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'artificial insemination' start in text:610 end in text: 633; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'artificial' start in text:610 end in text: 620; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'insemination' start in text:621 end in text: 633; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nearly' start in text:638 end in text: 644; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : '50' start in text:645 end in text: 647; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'years' start in text:648 end in text: 653; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'research' start in text:669 end in text: 677; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'facilities' start in text:678 end in text: 688; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'southwestern' start in text:696 end in text: 708; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'province' start in text:709 end in text: 717; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sichuan' start in text:721 end in text: 728; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '2006' start in text:734 end in text: 738; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '17' start in text:740 end in text: 742; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cubs' start in text:743 end in text: 747; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'born' start in text:753 end in text: 757; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wolong' start in text:765 end in text: 771; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wolong Giant Panda Protection' start in text:765 end in text: 794; Entity types: NER,MISC,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Wolong Giant Panda Protection and Research Center' start in text:765 end in text: 814; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Giant Panda' start in text:772 end in text: 783; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Giant' start in text:772 end in text: 777; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Giant Panda Protection and Research Center' start in text:772 end in text: 814; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Panda Protection and Research Center' start in text:778 end in text: 814; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Panda' start in text:778 end in text: 783; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Protection and Research Center' start in text:784 end in text: 814; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Protection' start in text:784 end in text: 794; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Research Center' start in text:799 end in text: 814; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Research' start in text:799 end in text: 807; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Center' start in text:808 end in text: 814; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '12' start in text:819 end in text: 821; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Chengdu Research Base' start in text:829 end in text: 850; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Chengdu' start in text:829 end in text: 836; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Research' start in text:837 end in text: 845; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Base' start in text:846 end in text: 850; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The other' start in text:853 end in text: 862; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'panda' start in text:863 end in text: 868; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bred' start in text:873 end in text: 877; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the zoo' start in text:881 end in text: 888; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'zoo' start in text:885 end in text: 888; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'southwestern' start in text:896 end in text: 908; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'city' start in text:909 end in text: 913; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Chongqing' start in text:917 end in text: 926; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The panda' start in text:931 end in text: 940; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'panda' start in text:935 end in text: 940; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the world' start in text:951 end in text: 960; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'world' start in text:955 end in text: 960; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rarest animals' start in text:963 end in text: 977; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rarest' start in text:963 end in text: 969; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'animals' start in text:970 end in text: 977; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'living' start in text:996 end in text: 1002; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the wild' start in text:1006 end in text: 1014; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wild' start in text:1010 end in text: 1014; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'China' start in text:1018 end in text: 1023; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sichuan' start in text:1035 end in text: 1042; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the western' start in text:1047 end in text: 1058; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'western province' start in text:1051 end in text: 1067; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'western' start in text:1051 end in text: 1058; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'province' start in text:1059 end in text: 1067; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Shaanxi' start in text:1071 end in text: 1078; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Giant' start in text:1083 end in text: 1088; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Giant pandas' start in text:1083 end in text: 1095; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pandas' start in text:1089 end in text: 1095; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'very low' start in text:1103 end in text: 1111; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'low fertility' start in text:1108 end in text: 1121; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'low' start in text:1108 end in text: 1111; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fertility' start in text:1112 end in text: 1121; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fertility rate' start in text:1112 end in text: 1126; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rate' start in text:1122 end in text: 1126; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sexually' start in text:1144 end in text: 1152; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'inactive' start in text:1153 end in text: 1161; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Female' start in text:1164 end in text: 1170; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pandas' start in text:1171 end in text: 1177; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a year' start in text:1204 end in text: 1210; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'year' start in text:1206 end in text: 1210; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cubs' start in text:1227 end in text: 1231; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'time' start in text:1245 end in text: 1249; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fertility' start in text:1258 end in text: 1267; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'captive' start in text:1271 end in text: 1278; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'giant pandas' start in text:1279 end in text: 1291; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'giant' start in text:1279 end in text: 1284; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pandas' start in text:1285 end in text: 1291; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'lower' start in text:1300 end in text: 1305; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'do not' start in text:1319 end in text: 1325; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'experts' start in text:1337 end in text: 1344; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

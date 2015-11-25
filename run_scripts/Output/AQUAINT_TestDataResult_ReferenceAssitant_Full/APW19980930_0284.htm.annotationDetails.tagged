@@ -1,0 +1,534 @@
+<ANNOTATION>
+ <a class="wiki" href="http://en.wikipedia.org/wiki/Impressionism" cat="movement">Impressionist</a>  paintings recovered,   <b>curator</b>   central suspect<br><br>  <b>Police</b> have recovered two valuable   <a class="wiki" href="http://en.wikipedia.org/wiki/Impressionism" cat="movement">Impressionist</a>    paintings stolen 10 days ago in what appears to have been a staged   <b>heist</b>   and arrested the  <b>museum curator</b> for alleged  <b>armed robbery</b>,  <b>police</b> sources said Wednesday. <br><br> Two other people, described as  <b>small-time</b> thugs, also were arrested in connection with the  <a class="wiki" href="http://en.wikipedia.org/wiki/September_21" cat="days">Sept. 21</a>   <b>theft</b> of a   <a class="wiki" href="http://en.wikipedia.org/wiki/Claude_Monet" cat="person	artist">Monet</a>    and a  <a class="wiki" href="http://en.wikipedia.org/wiki/Alfred_Sisley" cat="person	painter">Sisley</a>  at the  <a class="wiki" href="http://en.wikipedia.org/wiki/Bilbao_Fine_Arts_Museum" cat="museum	building">Fine Arts Museum</a>  of   <a class="wiki" href="http://en.wikipedia.org/wiki/Nice" cat="city">Nice</a>   , according to the sources in the  <b>judicial</b>  <b>police</b>. They spoke on customary condition of  <b>anonymity</b>. <br><br> The  <b>art</b> works,  <a class="wiki" href="http://en.wikipedia.org/wiki/Claude_Monet" cat="person	artist">Claude Monet</a> 's  <b>1897</b>  <b>painting</b> " <a class="wiki" href="http://en.wikipedia.org/wiki/The_Cliffs" cat="house">The Cliffs</a>  of  <a class="wiki" href="http://en.wikipedia.org/wiki/Dieppe,_Seine-Maritime" cat="subprefectures	city	port">Dieppe</a> '' and   <a class="wiki" href="http://en.wikipedia.org/wiki/Alfred_Sisley" cat="person	painter">Alfred Sisley</a>   's  <b>1890</b> work " <a class="wiki" href="http://en.wikipedia.org/wiki/The_Alley" cat="">The Alley</a>  of the  <b>Poplars</b>,'' were found on a  <b>sail boat</b> anchored in the small   <a class="wiki" href="http://en.wikipedia.org/wiki/French_Riviera" cat="resort">Riviera</a>    port of   <a class="wiki" href="http://en.wikipedia.org/wiki/Saint-Laurent-du-Var" cat="">Saint Laurent du Var</a>  ,  <b>police</b> said. <br><br> The  <b>police</b> sources said that  <b>curator</b> Jean Forneris is suspected of having ordered the  <b>theft</b>. <br><br> The paintings were stolen by two  <b>masked</b> men who took Forneris from his home, drove him to the museum, then bound and gagged him, the  <b>caretaker</b> and another  <b>employee</b> and shut them in the museum  <b>library</b>. <br><br> The museum  <b>alarm</b> had been turned off, allegedly because the  <b>caretaker</b> was on duty. The two men sped off in the  <b>curator</b>'s car with the paintings. <br><br> Forneris later expressed his "shock'' at the thefts. <br><br> (eg-parf) <br><br>
+</ANNOTATION>
+*Entity:[Impressionist,textSpan=(0-16)]	-Disambiguation:(tid=15169, Title name=Impressionism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[paintings,textSpan=(17-26)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[curator,textSpan=(39-46)]	-Disambiguation:(tid=391167, Title name=Curator) gold wikification:=Curator isCorrectPrediction=Correct
+*Entity:[Police,textSpan=(67-73)]	-Disambiguation:(tid=23627, Title name=Police) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[recovered,textSpan=(79-88)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Impressionist,textSpan=(103-116)]	-Disambiguation:(tid=15169, Title name=Impressionism) gold wikification:=Impressionism isCorrectPrediction=Correct
+*Entity:[10 days,textSpan=(136-143)]	-Disambiguation:(tid=19849, Title name=March_30) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[days,textSpan=(139-143)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[appears,textSpan=(156-163)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[have been,textSpan=(167-176)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[heist,textSpan=(187-192)]	-Disambiguation:(tid=54849, Title name=Robbery) gold wikification:=Robbery isCorrectPrediction=Correct
+*Entity:[the museum,textSpan=(208-218)]	-Disambiguation:(tid=766971, Title name=Manchester_Museum) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[museum curator,textSpan=(212-226)]	-Disambiguation:(tid=391167, Title name=Curator) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[museum,textSpan=(212-218)]	-Disambiguation:(tid=37585, Title name=Museum) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[curator,textSpan=(219-226)]	-Disambiguation:(tid=391167, Title name=Curator) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[alleged,textSpan=(231-238)]	-Disambiguation:(tid=2434267, Title name=Allegation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[armed robbery,textSpan=(239-252)]	-Disambiguation:(tid=54849, Title name=Robbery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[armed,textSpan=(239-244)]	-Disambiguation:(tid=54849, Title name=Robbery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[robbery,textSpan=(245-252)]	-Disambiguation:(tid=54849, Title name=Robbery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[police,textSpan=(254-260)]	-Disambiguation:(tid=23627, Title name=Police) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sources,textSpan=(261-268)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wednesday,textSpan=(274-283)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Two other,textSpan=(288-297)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Two,textSpan=(288-291)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[other people,textSpan=(292-304)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[people,textSpan=(298-304)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[small-time,textSpan=(319-329)]	-Disambiguation:(tid=3658264, Title name=Small_Time) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[thugs,textSpan=(330-335)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[arrested,textSpan=(347-355)]	-Disambiguation:(tid=170638, Title name=Arrest) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[connection,textSpan=(359-369)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sept.,textSpan=(379-384)]	-Disambiguation:(tid=27529, Title name=September) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sept. 21,textSpan=(379-387)]	-Disambiguation:(tid=27532, Title name=September_21) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[21,textSpan=(385-387)]	-Disambiguation:(tid=27532, Title name=September_21) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[theft,textSpan=(388-393)]	-Disambiguation:(tid=31287, Title name=Theft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Monet,textSpan=(400-405)]	-Disambiguation:(tid=6548, Title name=Claude_Monet) gold wikification:=Claude_Monet isCorrectPrediction=Correct
+*Entity:[Sisley,textSpan=(414-420)]	-Disambiguation:(tid=291939, Title name=Alfred_Sisley) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sisley at the Fine Arts Museum of Nice,textSpan=(414-453)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Fine,textSpan=(428-432)]	-Disambiguation:(tid=90317, Title name=Fine_art) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Fine Arts,textSpan=(428-437)]	-Disambiguation:(tid=90317, Title name=Fine_art) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Fine Arts Museum,textSpan=(428-444)]	-Disambiguation:(tid=4716772, Title name=Bilbao_Fine_Arts_Museum) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Fine Arts Museum of Nice,textSpan=(428-453)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Arts,textSpan=(433-437)]	-Disambiguation:(tid=1688170, Title name=The_arts) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Museum,textSpan=(438-444)]	-Disambiguation:(tid=37585, Title name=Museum) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Nice,textSpan=(449-453)]	-Disambiguation:(tid=47088, Title name=Nice) gold wikification:=Nice isCorrectPrediction=Correct
+*Entity:[sources,textSpan=(474-481)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[judicial police,textSpan=(489-504)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[judicial,textSpan=(489-497)]	-Disambiguation:(tid=59564, Title name=Judiciary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[police,textSpan=(498-504)]	-Disambiguation:(tid=23627, Title name=Police) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[They,textSpan=(506-510)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[customary,textSpan=(520-529)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[condition,textSpan=(530-539)]	-Disambiguation:(tid=1284563, Title name=Condition) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[anonymity,textSpan=(543-552)]	-Disambiguation:(tid=181382, Title name=Anonymity) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The art,textSpan=(557-564)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[art,textSpan=(561-564)]	-Disambiguation:(tid=752, Title name=Art) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Claude,textSpan=(572-578)]	-Disambiguation:(tid=6548, Title name=Claude_Monet) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Claude Monet,textSpan=(572-584)]	-Disambiguation:(tid=6548, Title name=Claude_Monet) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Monet,textSpan=(579-584)]	-Disambiguation:(tid=6548, Title name=Claude_Monet) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1897,textSpan=(587-591)]	-Disambiguation:(tid=34714, Title name=1897) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[painting,textSpan=(592-600)]	-Disambiguation:(tid=15169, Title name=Impressionism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The Cliffs,textSpan=(602-612)]	-Disambiguation:(tid=9610457, Title name=The_Cliffs) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The Cliffs of Dieppe'' and Alfred Sisley,textSpan=(602-643)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cliffs of Dieppe'' and Alfred Sisley,textSpan=(606-643)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cliffs,textSpan=(606-612)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Dieppe,textSpan=(616-622)]	-Disambiguation:(tid=191055, Title name=Dieppe,_Seine-Maritime) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Dieppe'' and Alfred Sisley,textSpan=(616-643)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Alfred,textSpan=(630-636)]	-Disambiguation:(tid=291939, Title name=Alfred_Sisley) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Alfred Sisley,textSpan=(630-643)]	-Disambiguation:(tid=291939, Title name=Alfred_Sisley) gold wikification:=Alfred_Sisley isCorrectPrediction=Correct
+*Entity:[Sisley,textSpan=(637-643)]	-Disambiguation:(tid=291939, Title name=Alfred_Sisley) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1890,textSpan=(648-652)]	-Disambiguation:(tid=34707, Title name=1890) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[work,textSpan=(653-657)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The Alley of the Poplars,textSpan=(659-683)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The Alley,textSpan=(659-668)]	-Disambiguation:(tid=3658264, Title name=The_Alley) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Alley,textSpan=(663-668)]	-Disambiguation:(tid=255597, Title name=Alley) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Alley of the Poplars,textSpan=(663-683)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Poplars,textSpan=(676-683)]	-Disambiguation:(tid=94248, Title name=Populus) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sail boat,textSpan=(703-712)]	-Disambiguation:(tid=67783, Title name=Sailboat) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sail,textSpan=(703-707)]	-Disambiguation:(tid=73212, Title name=Sail) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[boat,textSpan=(708-712)]	-Disambiguation:(tid=3996, Title name=Boat) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Riviera,textSpan=(736-743)]	-Disambiguation:(tid=266388, Title name=French_Riviera) gold wikification:=French_Riviera isCorrectPrediction=Correct
+*Entity:[Saint Laurent,textSpan=(755-768)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saint Laurent du Var,textSpan=(755-775)]	-Disambiguation:(tid=1077214, Title name=Saint-Laurent-du-Var) gold wikification:=Saint-Laurent-du-Var isCorrectPrediction=Correct
+*Entity:[Saint,textSpan=(755-760)]	-Disambiguation:(tid=28436, Title name=Saint) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Laurent,textSpan=(761-768)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[du,textSpan=(769-771)]	-Disambiguation:(tid=7271787, Title name=Emirates_Integrated_Telecommunications_Company) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Var,textSpan=(772-775)]	-Disambiguation:(tid=69609, Title name=Var_(department)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[police,textSpan=(778-784)]	-Disambiguation:(tid=23627, Title name=Police) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The police,textSpan=(794-804)]	-Disambiguation:(tid=451884, Title name=Indian_Police_Service) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[police,textSpan=(798-804)]	-Disambiguation:(tid=451884, Title name=Indian_Police_Service) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sources,textSpan=(805-812)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[curator,textSpan=(823-830)]	-Disambiguation:(tid=391167, Title name=Curator) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jean,textSpan=(831-835)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jean Forneris,textSpan=(831-844)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[suspected,textSpan=(848-857)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[having,textSpan=(861-867)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ordered,textSpan=(868-875)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the theft,textSpan=(876-885)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[theft,textSpan=(880-885)]	-Disambiguation:(tid=31287, Title name=Theft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[paintings,textSpan=(894-903)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[stolen,textSpan=(909-915)]	-Disambiguation:(tid=425514, Title name=Art_theft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[masked,textSpan=(923-929)]	-Disambiguation:(tid=1015304, Title name=Lucha_libre) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[men,textSpan=(930-933)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Forneris,textSpan=(943-951)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[his home,textSpan=(957-965)]	-Disambiguation:(tid=1949886, Title name=Home_of_Franklin_D._Roosevelt_National_Historic_Site) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the museum,textSpan=(980-990)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[museum,textSpan=(984-990)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the caretaker,textSpan=(1019-1032)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[caretaker,textSpan=(1023-1032)]	-Disambiguation:(tid=10621039, Title name=Property_caretaker) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[employee,textSpan=(1045-1053)]	-Disambiguation:(tid=314993, Title name=Employment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the museum,textSpan=(1071-1081)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[museum,textSpan=(1075-1081)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[library,textSpan=(1082-1089)]	-Disambiguation:(tid=17727, Title name=Library) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The museum,textSpan=(1094-1104)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[museum,textSpan=(1098-1104)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[alarm,textSpan=(1105-1110)]	-Disambiguation:(tid=68630, Title name=Alarm_device) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[had been,textSpan=(1111-1119)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[turned,textSpan=(1120-1126)]	-Disambiguation:(tid=244219, Title name=Shapeshifting) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the caretaker,textSpan=(1150-1163)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[caretaker,textSpan=(1154-1163)]	-Disambiguation:(tid=10621039, Title name=Property_caretaker) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[duty,textSpan=(1171-1175)]	-Disambiguation:(tid=183749, Title name=Duty) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[men,textSpan=(1185-1188)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the curator,textSpan=(1201-1212)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[curator,textSpan=(1205-1212)]	-Disambiguation:(tid=391167, Title name=Curator) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[car,textSpan=(1215-1218)]	-Disambiguation:(tid=13673345, Title name=Automobile) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[paintings,textSpan=(1228-1237)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Forneris,textSpan=(1242-1250)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[thefts,textSpan=(1287-1293)]	-Disambiguation:(tid=31287, Title name=Theft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Impressionist' start in text:0 end in text: 16; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'paintings' start in text:17 end in text: 26; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'curator' start in text:39 end in text: 46; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Police' start in text:67 end in text: 73; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'recovered' start in text:79 end in text: 88; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Impressionist' start in text:103 end in text: 116; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '10 days' start in text:136 end in text: 143; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'days' start in text:139 end in text: 143; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'appears' start in text:156 end in text: 163; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'have been' start in text:167 end in text: 176; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'heist' start in text:187 end in text: 192; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the museum' start in text:208 end in text: 218; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'museum curator' start in text:212 end in text: 226; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'museum' start in text:212 end in text: 218; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'curator' start in text:219 end in text: 226; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'alleged' start in text:231 end in text: 238; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'armed robbery' start in text:239 end in text: 252; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'armed' start in text:239 end in text: 244; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'robbery' start in text:245 end in text: 252; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'police' start in text:254 end in text: 260; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sources' start in text:261 end in text: 268; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wednesday' start in text:274 end in text: 283; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Two other' start in text:288 end in text: 297; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Two' start in text:288 end in text: 291; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'other people' start in text:292 end in text: 304; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'people' start in text:298 end in text: 304; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'small-time' start in text:319 end in text: 329; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'thugs' start in text:330 end in text: 335; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'arrested' start in text:347 end in text: 355; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'connection' start in text:359 end in text: 369; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sept.' start in text:379 end in text: 384; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sept. 21' start in text:379 end in text: 387; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '21' start in text:385 end in text: 387; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'theft' start in text:388 end in text: 393; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Monet' start in text:400 end in text: 405; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sisley' start in text:414 end in text: 420; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sisley at the Fine Arts Museum of Nice' start in text:414 end in text: 453; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Fine' start in text:428 end in text: 432; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Fine Arts' start in text:428 end in text: 437; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Fine Arts Museum' start in text:428 end in text: 444; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Fine Arts Museum of Nice' start in text:428 end in text: 453; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Arts' start in text:433 end in text: 437; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Museum' start in text:438 end in text: 444; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Nice' start in text:449 end in text: 453; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sources' start in text:474 end in text: 481; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'judicial police' start in text:489 end in text: 504; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'judicial' start in text:489 end in text: 497; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'police' start in text:498 end in text: 504; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'They' start in text:506 end in text: 510; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'customary' start in text:520 end in text: 529; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'condition' start in text:530 end in text: 539; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'anonymity' start in text:543 end in text: 552; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The art' start in text:557 end in text: 564; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'art' start in text:561 end in text: 564; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Claude' start in text:572 end in text: 578; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Claude Monet' start in text:572 end in text: 584; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Monet' start in text:579 end in text: 584; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1897' start in text:587 end in text: 591; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'painting' start in text:592 end in text: 600; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The Cliffs' start in text:602 end in text: 612; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The Cliffs of Dieppe'' and Alfred Sisley' start in text:602 end in text: 643; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Cliffs of Dieppe'' and Alfred Sisley' start in text:606 end in text: 643; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Cliffs' start in text:606 end in text: 612; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Dieppe' start in text:616 end in text: 622; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Dieppe'' and Alfred Sisley' start in text:616 end in text: 643; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Alfred' start in text:630 end in text: 636; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Alfred Sisley' start in text:630 end in text: 643; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sisley' start in text:637 end in text: 643; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1890' start in text:648 end in text: 652; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'work' start in text:653 end in text: 657; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The Alley of the Poplars' start in text:659 end in text: 683; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'The Alley' start in text:659 end in text: 668; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Alley' start in text:663 end in text: 668; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Alley of the Poplars' start in text:663 end in text: 683; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Poplars' start in text:676 end in text: 683; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sail boat' start in text:703 end in text: 712; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sail' start in text:703 end in text: 707; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'boat' start in text:708 end in text: 712; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Riviera' start in text:736 end in text: 743; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saint Laurent' start in text:755 end in text: 768; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saint Laurent du Var' start in text:755 end in text: 775; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Saint' start in text:755 end in text: 760; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Laurent' start in text:761 end in text: 768; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'du' start in text:769 end in text: 771; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Var' start in text:772 end in text: 775; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'police' start in text:778 end in text: 784; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The police' start in text:794 end in text: 804; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'police' start in text:798 end in text: 804; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sources' start in text:805 end in text: 812; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'curator' start in text:823 end in text: 830; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jean' start in text:831 end in text: 835; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jean Forneris' start in text:831 end in text: 844; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'suspected' start in text:848 end in text: 857; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'having' start in text:861 end in text: 867; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ordered' start in text:868 end in text: 875; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the theft' start in text:876 end in text: 885; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'theft' start in text:880 end in text: 885; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'paintings' start in text:894 end in text: 903; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'stolen' start in text:909 end in text: 915; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'masked' start in text:923 end in text: 929; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'men' start in text:930 end in text: 933; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Forneris' start in text:943 end in text: 951; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'his home' start in text:957 end in text: 965; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the museum' start in text:980 end in text: 990; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'museum' start in text:984 end in text: 990; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the caretaker' start in text:1019 end in text: 1032; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'caretaker' start in text:1023 end in text: 1032; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'employee' start in text:1045 end in text: 1053; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the museum' start in text:1071 end in text: 1081; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'museum' start in text:1075 end in text: 1081; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'library' start in text:1082 end in text: 1089; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The museum' start in text:1094 end in text: 1104; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'museum' start in text:1098 end in text: 1104; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'alarm' start in text:1105 end in text: 1110; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'had been' start in text:1111 end in text: 1119; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'turned' start in text:1120 end in text: 1126; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the caretaker' start in text:1150 end in text: 1163; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'caretaker' start in text:1154 end in text: 1163; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'duty' start in text:1171 end in text: 1175; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'men' start in text:1185 end in text: 1188; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the curator' start in text:1201 end in text: 1212; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'curator' start in text:1205 end in text: 1212; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'car' start in text:1215 end in text: 1218; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'paintings' start in text:1228 end in text: 1237; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Forneris' start in text:1242 end in text: 1250; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'thefts' start in text:1287 end in text: 1293; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

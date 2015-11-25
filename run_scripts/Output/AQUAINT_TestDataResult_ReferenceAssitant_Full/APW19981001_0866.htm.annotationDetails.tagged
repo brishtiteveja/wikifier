@@ -1,0 +1,449 @@
+<ANNOTATION>
+ <b>Hungarian government</b> and  <a class="wiki" href="http://en.wikipedia.org/wiki/Jews" cat="group	peoples	jew">Jewish communities</a>  agree on  <b>compensation</b><br><br> The   <a class="wiki" href="http://en.wikipedia.org/wiki/Hungary" cat="state	member	country	republic">Hungarian</a>    government and the  <a class="wiki" href="http://en.wikipedia.org/wiki/Federation" cat="organization">Federation</a>  of   <a class="wiki" href="http://en.wikipedia.org/wiki/History_of_the_Jews_in_Hungary" cat="group">Hungarian Jewish</a>    Communities signed an agreement  <b>Thursday</b> on collective  <b>compensation</b> for   <b>communist</b>  -era confiscations, the state news agency   <a class="wiki" href="http://en.wikipedia.org/wiki/Magyar_Távirati_Iroda" cat="agency	establishment">MTI</a>    reported. <br><br> The financial basis for the funding is  <b>real estate</b> that belonged to the  <a class="wiki" href="http://en.wikipedia.org/wiki/Jews" cat="group	peoples	jew">Jewish</a>  communities and fell victim to   <b>nationalization</b>   under the  <b>communists</b>. <br><br> Instead of getting back the actual property _  <b>152</b> schools and other buildings _ the  <b>assessed value</b> of which is 13,511,000,000   <b>forints</b>   (dlrs 63 million), the Jewish community collectively is to get a percentage annually, starting with the  <b>current year</b>, when  <b>608</b> million  <b>forints</b> (dlrs 2.9 million) will be paid. <br><br> "The money will be mainly used for  <b>education</b>,  <b>religious services</b>,   <b>social welfare</b>  ,  <b>health service</b>, and  <b>charity</b> ends,'' Gusztav Zoltai,  <b>executive director</b> of the Federation, said. <br><br> There are between 80,000 and 100,000  <a class="wiki" href="http://en.wikipedia.org/wiki/History_of_the_Jews_in_Hungary" cat="group">Jews in Hungary</a> . Some 600,000 were killed in   <a class="wiki" href="http://en.wikipedia.org/wiki/The_Holocaust" cat="">the Holocaust</a>   . <br><br> When the  <b>communists</b> assumed full power in  <b>1948</b>, they started a wave of  <b>nationalizations</b> that spared no one, including the  <a class="wiki" href="http://en.wikipedia.org/wiki/Jews" cat="group	peoples	jew">Jewish</a>  community. <br><br> On June 20, 1997, a similar agreement, the first of its kind, was signed between the  <b>Hungarian government</b> and the  Vatican . <br><br> (ab/rp) <br><br>
+</ANNOTATION>
+*Entity:[Hungarian,textSpan=(0-12)]	-Disambiguation:(tid=13275, Title name=Hungary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hungarian government,textSpan=(0-23)]	-Disambiguation:(tid=13427, Title name=Politics_of_Hungary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[government,textSpan=(13-23)]	-Disambiguation:(tid=13427, Title name=Politics_of_Hungary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jewish,textSpan=(28-34)]	-Disambiguation:(tid=15913, Title name=Jews) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jewish communities,textSpan=(28-46)]	-Disambiguation:(tid=15913, Title name=Jews) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[communities,textSpan=(35-46)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[compensation,textSpan=(56-68)]	-Disambiguation:(tid=252184, Title name=Compensation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hungarian,textSpan=(76-85)]	-Disambiguation:(tid=13275, Title name=Hungary) gold wikification:=Hungary isCorrectPrediction=Correct
+*Entity:[the Federation,textSpan=(103-117)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Federation of Hungarian Jewish Communities,textSpan=(107-152)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Federation,textSpan=(107-117)]	-Disambiguation:(tid=156371, Title name=Federation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hungarian Jewish,textSpan=(122-138)]	-Disambiguation:(tid=2378869, Title name=History_of_the_Jews_in_Hungary) gold wikification:=History_of_the_Jews_in_Hungary isCorrectPrediction=Correct
+*Entity:[an agreement,textSpan=(160-172)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[agreement,textSpan=(163-172)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Thursday,textSpan=(173-181)]	-Disambiguation:(tid=266139, Title name=Thursday_(band)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[collective,textSpan=(185-195)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[compensation,textSpan=(196-208)]	-Disambiguation:(tid=252184, Title name=Compensation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[communist,textSpan=(214-223)]	-Disambiguation:(tid=9209651, Title name=Communism) gold wikification:=Communism isCorrectPrediction=Correct
+*Entity:[MTI,textSpan=(268-271)]	-Disambiguation:(tid=8946055, Title name=Magyar_Távirati_Iroda) gold wikification:=Magyar_Távirati_Iroda isCorrectPrediction=Correct
+*Entity:[The financial,textSpan=(287-300)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[financial,textSpan=(291-300)]	-Disambiguation:(tid=11162, Title name=Finance) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[basis,textSpan=(301-306)]	-Disambiguation:(tid=18420, Title name=Basis_(linear_algebra)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[funding,textSpan=(315-322)]	-Disambiguation:(tid=805953, Title name=Funding) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[real,textSpan=(326-330)]	-Disambiguation:(tid=26277, Title name=Real_property) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[real estate,textSpan=(326-337)]	-Disambiguation:(tid=63089, Title name=Real_estate) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[estate,textSpan=(331-337)]	-Disambiguation:(tid=757838, Title name=Estate_(law)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jewish communities,textSpan=(359-377)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jewish,textSpan=(359-365)]	-Disambiguation:(tid=15913, Title name=Jews) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[communities,textSpan=(366-377)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[victim,textSpan=(387-393)]	-Disambiguation:(tid=10396793, Title name=The_Holocaust) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nationalization,textSpan=(398-413)]	-Disambiguation:(tid=1062429, Title name=Nationalization) gold wikification:=Nationalization isCorrectPrediction=Correct
+*Entity:[the communists,textSpan=(422-436)]	-Disambiguation:(tid=217368, Title name=Left_Party_(Sweden)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[communists,textSpan=(426-436)]	-Disambiguation:(tid=9209651, Title name=Communism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Instead,textSpan=(441-448)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the actual,textSpan=(465-475)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[actual,textSpan=(469-475)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[property,textSpan=(476-484)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[152,textSpan=(487-490)]	-Disambiguation:(tid=35482, Title name=152) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[schools,textSpan=(491-498)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[buildings,textSpan=(509-518)]	-Disambiguation:(tid=45995, Title name=Building) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[assessed value,textSpan=(525-539)]	-Disambiguation:(tid=373814, Title name=Property_tax) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[assessed,textSpan=(525-533)]	-Disambiguation:(tid=465183, Title name=Assessment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[value,textSpan=(534-539)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[forints,textSpan=(568-575)]	-Disambiguation:(tid=229795, Title name=Hungarian_forint) gold wikification:=Hungarian_forint isCorrectPrediction=Correct
+*Entity:[the Jewish community,textSpan=(597-617)]	-Disambiguation:(tid=985418, Title name=Venetian_Ghetto) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jewish community,textSpan=(601-617)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jewish,textSpan=(601-607)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[community,textSpan=(608-617)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[is to,textSpan=(631-636)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[percentage,textSpan=(643-653)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the current,textSpan=(678-689)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[current year,textSpan=(682-694)]	-Disambiguation:(tid=3658264, Title name=This_year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[current,textSpan=(682-689)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[year,textSpan=(690-694)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[608,textSpan=(701-704)]	-Disambiguation:(tid=35398, Title name=608) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[forints,textSpan=(713-720)]	-Disambiguation:(tid=229795, Title name=Hungarian_forint) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[will be,textSpan=(740-747)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[paid,textSpan=(748-752)]	-Disambiguation:(tid=303043, Title name=Infomercial) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[education,textSpan=(792-801)]	-Disambiguation:(tid=9252, Title name=Education) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[religious services,textSpan=(803-821)]	-Disambiguation:(tid=16161, Title name=Jewish_prayer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[religious,textSpan=(803-812)]	-Disambiguation:(tid=25414, Title name=Religion) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[services,textSpan=(813-821)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[social,textSpan=(824-830)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[social welfare,textSpan=(824-838)]	-Disambiguation:(tid=3332250, Title name=Welfare) gold wikification:=Welfare isCorrectPrediction=Correct
+*Entity:[welfare,textSpan=(831-838)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[health service,textSpan=(842-856)]	-Disambiguation:(tid=261925, Title name=Health_care) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[health,textSpan=(842-848)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[service,textSpan=(849-856)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[charity,textSpan=(862-869)]	-Disambiguation:(tid=1176679, Title name=Charitable_organization) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ends,textSpan=(870-874)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:['',textSpan=(875-877)]	-Disambiguation:(tid=10671108, Title name=Dirty_(film)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gusztav,textSpan=(878-885)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gusztav Zoltai,textSpan=(878-892)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[executive,textSpan=(894-903)]	-Disambiguation:(tid=10263, Title name=Executive_(government)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[executive director,textSpan=(894-912)]	-Disambiguation:(tid=2051602, Title name=Executive_director) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[director,textSpan=(904-912)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the Federation,textSpan=(916-930)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Federation,textSpan=(920-930)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[There,textSpan=(941-946)]	-Disambiguation:(tid=463437, Title name=There) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[100,000,textSpan=(970-977)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jews,textSpan=(978-982)]	-Disambiguation:(tid=2378869, Title name=History_of_the_Jews_in_Hungary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jews in Hungary,textSpan=(978-993)]	-Disambiguation:(tid=2378869, Title name=History_of_the_Jews_in_Hungary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hungary,textSpan=(986-993)]	-Disambiguation:(tid=13275, Title name=Hungary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Some,textSpan=(995-999)]	-Disambiguation:(tid=1629738, Title name=Some) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[killed,textSpan=(1013-1019)]	-Disambiguation:(tid=368513, Title name=Killed_in_action) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the Holocaust,textSpan=(1024-1037)]	-Disambiguation:(tid=10396793, Title name=The_Holocaust) gold wikification:=The_Holocaust isCorrectPrediction=Correct
+*Entity:[Holocaust,textSpan=(1028-1037)]	-Disambiguation:(tid=10396793, Title name=The_Holocaust) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the communists,textSpan=(1049-1063)]	-Disambiguation:(tid=217368, Title name=Left_Party_(Sweden)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[communists,textSpan=(1053-1063)]	-Disambiguation:(tid=9209651, Title name=Communism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[full power,textSpan=(1072-1082)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[power,textSpan=(1077-1082)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1948,textSpan=(1086-1090)]	-Disambiguation:(tid=34612, Title name=1948) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wave,textSpan=(1107-1111)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nationalizations,textSpan=(1115-1131)]	-Disambiguation:(tid=1062429, Title name=Nationalization) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[no one,textSpan=(1144-1150)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the Jewish community,textSpan=(1162-1182)]	-Disambiguation:(tid=985418, Title name=Venetian_Ghetto) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jewish community,textSpan=(1166-1182)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jewish,textSpan=(1166-1172)]	-Disambiguation:(tid=15913, Title name=Jews) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[community,textSpan=(1173-1182)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[similar,textSpan=(1207-1214)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[agreement,textSpan=(1215-1224)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the first,textSpan=(1226-1235)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[kind,textSpan=(1243-1247)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[signed,textSpan=(1253-1259)]	-Disambiguation:(tid=26753, Title name=Signature) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hungarian government,textSpan=(1272-1292)]	-Disambiguation:(tid=13427, Title name=Politics_of_Hungary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hungarian,textSpan=(1272-1281)]	-Disambiguation:(tid=13275, Title name=Hungary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[government,textSpan=(1282-1292)]	-Disambiguation:(tid=13427, Title name=Politics_of_Hungary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Vatican,textSpan=(1302-1309)]	-Disambiguation:(tid=13393, Title name=Holy_See) gold wikification:=Holy_See isCorrectPrediction=Correct
+
+Output Explanation:
+Entity : 'Hungarian' start in text:0 end in text: 12; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hungarian government' start in text:0 end in text: 23; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'government' start in text:13 end in text: 23; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jewish' start in text:28 end in text: 34; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jewish communities' start in text:28 end in text: 46; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'communities' start in text:35 end in text: 46; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'compensation' start in text:56 end in text: 68; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hungarian' start in text:76 end in text: 85; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the Federation' start in text:103 end in text: 117; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Federation of Hungarian Jewish Communities' start in text:107 end in text: 152; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Federation' start in text:107 end in text: 117; Entity types: NER,ORG,NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hungarian Jewish' start in text:122 end in text: 138; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'an agreement' start in text:160 end in text: 172; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'agreement' start in text:163 end in text: 172; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Thursday' start in text:173 end in text: 181; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'collective' start in text:185 end in text: 195; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'compensation' start in text:196 end in text: 208; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'communist' start in text:214 end in text: 223; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'MTI' start in text:268 end in text: 271; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The financial' start in text:287 end in text: 300; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'financial' start in text:291 end in text: 300; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'basis' start in text:301 end in text: 306; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'funding' start in text:315 end in text: 322; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'real' start in text:326 end in text: 330; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'real estate' start in text:326 end in text: 337; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'estate' start in text:331 end in text: 337; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jewish communities' start in text:359 end in text: 377; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jewish' start in text:359 end in text: 365; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'communities' start in text:366 end in text: 377; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'victim' start in text:387 end in text: 393; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nationalization' start in text:398 end in text: 413; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the communists' start in text:422 end in text: 436; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'communists' start in text:426 end in text: 436; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Instead' start in text:441 end in text: 448; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the actual' start in text:465 end in text: 475; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'actual' start in text:469 end in text: 475; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'property' start in text:476 end in text: 484; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '152' start in text:487 end in text: 490; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'schools' start in text:491 end in text: 498; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'buildings' start in text:509 end in text: 518; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'assessed value' start in text:525 end in text: 539; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'assessed' start in text:525 end in text: 533; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'value' start in text:534 end in text: 539; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'forints' start in text:568 end in text: 575; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the Jewish community' start in text:597 end in text: 617; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jewish community' start in text:601 end in text: 617; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jewish' start in text:601 end in text: 607; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'community' start in text:608 end in text: 617; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'is to' start in text:631 end in text: 636; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'percentage' start in text:643 end in text: 653; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the current' start in text:678 end in text: 689; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'current year' start in text:682 end in text: 694; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'current' start in text:682 end in text: 689; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'year' start in text:690 end in text: 694; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '608' start in text:701 end in text: 704; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'forints' start in text:713 end in text: 720; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'will be' start in text:740 end in text: 747; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'paid' start in text:748 end in text: 752; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'education' start in text:792 end in text: 801; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'religious services' start in text:803 end in text: 821; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'religious' start in text:803 end in text: 812; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'services' start in text:813 end in text: 821; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'social' start in text:824 end in text: 830; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'social welfare' start in text:824 end in text: 838; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'welfare' start in text:831 end in text: 838; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'health service' start in text:842 end in text: 856; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'health' start in text:842 end in text: 848; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'service' start in text:849 end in text: 856; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'charity' start in text:862 end in text: 869; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ends' start in text:870 end in text: 874; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '''' start in text:875 end in text: 877; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Gusztav' start in text:878 end in text: 885; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Gusztav Zoltai' start in text:878 end in text: 892; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'executive' start in text:894 end in text: 903; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'executive director' start in text:894 end in text: 912; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'director' start in text:904 end in text: 912; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the Federation' start in text:916 end in text: 930; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Federation' start in text:920 end in text: 930; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'There' start in text:941 end in text: 946; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '100,000' start in text:970 end in text: 977; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jews' start in text:978 end in text: 982; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jews in Hungary' start in text:978 end in text: 993; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hungary' start in text:986 end in text: 993; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Some' start in text:995 end in text: 999; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'killed' start in text:1013 end in text: 1019; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the Holocaust' start in text:1024 end in text: 1037; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Holocaust' start in text:1028 end in text: 1037; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the communists' start in text:1049 end in text: 1063; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'communists' start in text:1053 end in text: 1063; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'full power' start in text:1072 end in text: 1082; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'power' start in text:1077 end in text: 1082; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1948' start in text:1086 end in text: 1090; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wave' start in text:1107 end in text: 1111; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nationalizations' start in text:1115 end in text: 1131; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'no one' start in text:1144 end in text: 1150; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'the Jewish community' start in text:1162 end in text: 1182; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jewish community' start in text:1166 end in text: 1182; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jewish' start in text:1166 end in text: 1172; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'community' start in text:1173 end in text: 1182; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'similar' start in text:1207 end in text: 1214; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'agreement' start in text:1215 end in text: 1224; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the first' start in text:1226 end in text: 1235; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'kind' start in text:1243 end in text: 1247; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'signed' start in text:1253 end in text: 1259; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hungarian government' start in text:1272 end in text: 1292; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hungarian' start in text:1272 end in text: 1281; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'government' start in text:1282 end in text: 1292; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Vatican' start in text:1302 end in text: 1309; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

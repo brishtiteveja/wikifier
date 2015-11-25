@@ -1,0 +1,447 @@
+<ANNOTATION>
+ <a class="wiki" href="http://en.wikipedia.org/wiki/Thailand" cat="country">THAILAND</a> <br><br> MORE and more people are dying or suffering from fatal  <b>diseases</b> such as   <b>brain tumours</b>  , mammarian or   <b>breast cancer</b>   and brain   <b>haemorrhage</b>   due to a lack of proper  <b>medical</b> care.However, things may change as the Srisiam  <b>Hospital</b> in   <a class="wiki" href="http://en.wikipedia.org/wiki/Bangkok" cat="">Bangkok</a>    has now established the first ever   <a class="wiki" href="http://en.wikipedia.org/wiki/Radiosurgery" cat="treatment	robot">Radio Surgery</a>    Institute in   <a class="wiki" href="http://en.wikipedia.org/wiki/Thailand" cat="country">Thailand</a>    -- (there are presently more than 100  <b>radio surgery</b> centres around the world). <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Radiosurgery" cat="treatment	robot">Radio surgery</a>  is a modern technique which doesn't require  <b>surgery</b> in order to remove   <b>cancerous</b>   growth or   <b>tissues</b>  . It involves a   <b>three dimensional</b>   method known as  Stereotaxic  <a class="wiki" href="http://en.wikipedia.org/wiki/Surgery" cat="obstetrics">Surgery</a>   , which is also used in conjunction with   <b>radiation</b>   equipment known as the   <a class="wiki" href="http://en.wikipedia.org/wiki/Linear_particle_accelerator" cat="">Linear Accelerator</a>   . <br><br> With this new technology,  <b>doctors</b> are able to removal  <b>cancerous</b>  <b>tissues</b> embedded deep inside the  <b>brain</b> or near sensitive  <b>organs</b> that makes normal surgery very difficult and risky. With  <b>radio surgery</b>, every step is controlled by  <b>computers</b> and patients are   <b>conscious</b>   while they undergo treatment. <br><br> This new technique is also capable of treating  <b>diseases</b> such as Artero Venous   <a class="wiki" href="http://en.wikipedia.org/wiki/Congenital_disorder" cat="disorder">Malformation</a>    (the  clotting   of  <b>veins</b> or blood   <b>capillaries</b>  in the brain).So far, ninety per  <b>cent</b> of the  <b>radio surgery</b> treatments have been successful and patients only have to remain in  <b>hospital</b> for three days. Additionally, there is no need for patients to  <b>shave</b> their heads and  <b>radio surgery</b> causes no  <b>scar</b>, little  <b>blood loss</b> and is not expensive.For more information contact the hospital at srisiam ksc.th.com. <br><br>
+</ANNOTATION>
+*Entity:[THAILAND,textSpan=(0-11)]	-Disambiguation:(tid=30128, Title name=Thailand) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[MORE and more,textSpan=(14-27)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[and more,textSpan=(19-27)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[people,textSpan=(28-34)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dying,textSpan=(39-44)]	-Disambiguation:(tid=8221, Title name=Death) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[suffering,textSpan=(48-57)]	-Disambiguation:(tid=206583, Title name=Suffering) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fatal,textSpan=(63-68)]	-Disambiguation:(tid=8221, Title name=Death) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[diseases,textSpan=(69-77)]	-Disambiguation:(tid=8072, Title name=Disease) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[brain tumours,textSpan=(87-100)]	-Disambiguation:(tid=37284, Title name=Brain_tumor) gold wikification:=Brain_tumor isCorrectPrediction=Correct
+*Entity:[brain,textSpan=(87-92)]	-Disambiguation:(tid=3717, Title name=Brain) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tumours,textSpan=(93-100)]	-Disambiguation:(tid=31214, Title name=Tumor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[breast cancer,textSpan=(118-131)]	-Disambiguation:(tid=70547, Title name=Breast_cancer) gold wikification:=Breast_cancer isCorrectPrediction=Correct
+*Entity:[haemorrhage,textSpan=(145-156)]	-Disambiguation:(tid=146315, Title name=Bleeding) gold wikification:=Bleeding isCorrectPrediction=Correct
+*Entity:[lack,textSpan=(168-172)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[proper,textSpan=(176-182)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[medical,textSpan=(183-190)]	-Disambiguation:(tid=18957, Title name=Medicine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[things,textSpan=(205-211)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[change,textSpan=(216-222)]	-Disambiguation:(tid=162941, Title name=Change) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Srisiam Hospital in Bangkok,textSpan=(230-258)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Srisiam Hospital,textSpan=(230-246)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hospital,textSpan=(238-246)]	-Disambiguation:(tid=67214, Title name=Hospital) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bangkok,textSpan=(251-258)]	-Disambiguation:(tid=56615, Title name=Bangkok) gold wikification:=Bangkok isCorrectPrediction=Correct
+*Entity:[established,textSpan=(269-280)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the first,textSpan=(281-290)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Radio Surgery Institute in Thailand,textSpan=(297-335)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Radio Surgery,textSpan=(297-310)]	-Disambiguation:(tid=1172094, Title name=Radiosurgery) gold wikification:=Radiosurgery isCorrectPrediction=Correct
+*Entity:[Thailand,textSpan=(327-335)]	-Disambiguation:(tid=30128, Title name=Thailand) gold wikification:=Thailand isCorrectPrediction=Correct
+*Entity:[more than,textSpan=(362-371)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[100,textSpan=(372-375)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radio,textSpan=(376-381)]	-Disambiguation:(tid=15368428, Title name=Radio) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radio surgery,textSpan=(376-389)]	-Disambiguation:(tid=1172094, Title name=Radiosurgery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[surgery,textSpan=(382-389)]	-Disambiguation:(tid=45599, Title name=Surgery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Radio,textSpan=(420-425)]	-Disambiguation:(tid=15368428, Title name=Radio) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Radio surgery,textSpan=(420-433)]	-Disambiguation:(tid=1172094, Title name=Radiosurgery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[surgery,textSpan=(426-433)]	-Disambiguation:(tid=45599, Title name=Surgery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[modern,textSpan=(439-445)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[modern technique,textSpan=(439-455)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[technique,textSpan=(446-455)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[surgery,textSpan=(478-485)]	-Disambiguation:(tid=45599, Title name=Surgery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[remove,textSpan=(498-504)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cancerous,textSpan=(506-515)]	-Disambiguation:(tid=105219, Title name=Cancer) gold wikification:=Cancer isCorrectPrediction=Correct
+*Entity:[tissues,textSpan=(529-536)]	-Disambiguation:(tid=103915, Title name=Tissue_(biology)) gold wikification:=Tissue_(biology) isCorrectPrediction=Correct
+*Entity:[It,textSpan=(540-542)]	-Disambiguation:(tid=271590, Title name=It_(novel)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[three dimensional,textSpan=(555-572)]	-Disambiguation:(tid=10175073, Title name=3D_computer_graphics) gold wikification:=Three-dimensional_space isCorrectPrediction=Incorrect
+*Entity:[Stereotaxic Surgery,textSpan=(592-611)]	-Disambiguation:*null* gold wikification:=Stereotactic_surgery isCorrectPrediction=Incorrect
+*Entity:[Surgery,textSpan=(604-611)]	-Disambiguation:(tid=45599, Title name=Surgery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[conjunction,textSpan=(637-648)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radiation,textSpan=(655-664)]	-Disambiguation:(tid=26350, Title name=Radiation_therapy) gold wikification:=Radiation isCorrectPrediction=Incorrect
+*Entity:[Linear Accelerator,textSpan=(691-709)]	-Disambiguation:(tid=273524, Title name=Linear_particle_accelerator) gold wikification:=Linear_particle_accelerator isCorrectPrediction=Correct
+*Entity:[new technology,textSpan=(726-740)]	-Disambiguation:(tid=29816, Title name=Technology) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[technology,textSpan=(730-740)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[doctors,textSpan=(742-749)]	-Disambiguation:(tid=18957, Title name=Medicine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[removal,textSpan=(762-769)]	-Disambiguation:(tid=3470595, Title name=Removal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cancerous,textSpan=(770-779)]	-Disambiguation:(tid=105219, Title name=Cancer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tissues,textSpan=(780-787)]	-Disambiguation:(tid=103915, Title name=Tissue_(biology)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the brain,textSpan=(809-818)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[brain,textSpan=(813-818)]	-Disambiguation:(tid=3717, Title name=Brain) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sensitive,textSpan=(827-836)]	-Disambiguation:(tid=67193, Title name=Testicle) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[organs,textSpan=(837-843)]	-Disambiguation:(tid=152776, Title name=Organ_(anatomy)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[normal,textSpan=(855-861)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[surgery,textSpan=(862-869)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[difficult,textSpan=(875-884)]	-Disambiguation:(tid=200033, Title name=Dyspnea) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[risky,textSpan=(889-894)]	-Disambiguation:(tid=25617, Title name=Risk) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radio surgery,textSpan=(901-914)]	-Disambiguation:(tid=1172094, Title name=Radiosurgery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radio,textSpan=(901-906)]	-Disambiguation:(tid=15368428, Title name=Radio) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[surgery,textSpan=(907-914)]	-Disambiguation:(tid=45599, Title name=Surgery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[every step,textSpan=(916-926)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[step,textSpan=(922-926)]	-Disambiguation:(tid=426290, Title name=Step) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[controlled,textSpan=(930-940)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[computers,textSpan=(944-953)]	-Disambiguation:(tid=7878457, Title name=Computer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[patients,textSpan=(958-966)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[conscious,textSpan=(972-981)]	-Disambiguation:(tid=5664, Title name=Consciousness) gold wikification:=Consciousness isCorrectPrediction=Correct
+*Entity:[treatment,textSpan=(1003-1012)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[This,textSpan=(1017-1021)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[technique,textSpan=(1026-1035)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[diseases,textSpan=(1064-1072)]	-Disambiguation:(tid=8072, Title name=Disease) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Malformation,textSpan=(1096-1108)]	-Disambiguation:(tid=321263, Title name=Congenital_disorder) gold wikification:=Congenital_disorder isCorrectPrediction=Correct
+*Entity:[clotting,textSpan=(1117-1125)]	-Disambiguation:*null* gold wikification:=Coagulation isCorrectPrediction=Incorrect
+*Entity:[veins,textSpan=(1131-1136)]	-Disambiguation:(tid=53227, Title name=Vein) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[capillaries,textSpan=(1147-1158)]	-Disambiguation:(tid=56512, Title name=Capillary) gold wikification:=Capillary isCorrectPrediction=Correct
+*Entity:[cent,textSpan=(1193-1197)]	-Disambiguation:(tid=269035, Title name=Cent_(currency)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radio,textSpan=(1205-1210)]	-Disambiguation:(tid=15368428, Title name=Radio) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radio surgery,textSpan=(1205-1218)]	-Disambiguation:(tid=1172094, Title name=Radiosurgery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[surgery,textSpan=(1211-1218)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[treatments,textSpan=(1219-1229)]	-Disambiguation:(tid=18957, Title name=Medicine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[patients,textSpan=(1255-1263)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[have to,textSpan=(1269-1276)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[remain,textSpan=(1277-1283)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hospital,textSpan=(1287-1295)]	-Disambiguation:(tid=67214, Title name=Hospital) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[three days,textSpan=(1300-1310)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[days,textSpan=(1306-1310)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[patients,textSpan=(1347-1355)]	-Disambiguation:(tid=437724, Title name=Patient) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[shave,textSpan=(1359-1364)]	-Disambiguation:(tid=223364, Title name=Shave) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[heads,textSpan=(1371-1376)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radio,textSpan=(1381-1386)]	-Disambiguation:(tid=15368428, Title name=Radio) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[radio surgery,textSpan=(1381-1394)]	-Disambiguation:(tid=1172094, Title name=Radiosurgery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[surgery,textSpan=(1387-1394)]	-Disambiguation:(tid=45599, Title name=Surgery) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[scar,textSpan=(1405-1409)]	-Disambiguation:(tid=77668, Title name=Scar) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[little,textSpan=(1411-1417)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[blood loss,textSpan=(1418-1428)]	-Disambiguation:(tid=146315, Title name=Bleeding) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[blood,textSpan=(1418-1423)]	-Disambiguation:(tid=3997, Title name=Blood) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[loss,textSpan=(1424-1428)]	-Disambiguation:(tid=41969, Title name=Loss) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[contact,textSpan=(1471-1478)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the hospital,textSpan=(1479-1491)]	-Disambiguation:(tid=6999651, Title name=Sacred_Heart_Hospital) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hospital,textSpan=(1483-1491)]	-Disambiguation:(tid=67214, Title name=Hospital) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'THAILAND' start in text:0 end in text: 11; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'MORE and more' start in text:14 end in text: 27; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'and more' start in text:19 end in text: 27; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'people' start in text:28 end in text: 34; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dying' start in text:39 end in text: 44; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'suffering' start in text:48 end in text: 57; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fatal' start in text:63 end in text: 68; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'diseases' start in text:69 end in text: 77; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'brain tumours' start in text:87 end in text: 100; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'brain' start in text:87 end in text: 92; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tumours' start in text:93 end in text: 100; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'breast cancer' start in text:118 end in text: 131; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'haemorrhage' start in text:145 end in text: 156; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'lack' start in text:168 end in text: 172; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'proper' start in text:176 end in text: 182; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'medical' start in text:183 end in text: 190; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'things' start in text:205 end in text: 211; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'change' start in text:216 end in text: 222; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Srisiam Hospital in Bangkok' start in text:230 end in text: 258; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Srisiam Hospital' start in text:230 end in text: 246; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Hospital' start in text:238 end in text: 246; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bangkok' start in text:251 end in text: 258; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'established' start in text:269 end in text: 280; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the first' start in text:281 end in text: 290; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Radio Surgery Institute in Thailand' start in text:297 end in text: 335; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Radio Surgery' start in text:297 end in text: 310; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Thailand' start in text:327 end in text: 335; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'more than' start in text:362 end in text: 371; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '100' start in text:372 end in text: 375; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radio' start in text:376 end in text: 381; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radio surgery' start in text:376 end in text: 389; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'surgery' start in text:382 end in text: 389; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Radio' start in text:420 end in text: 425; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Radio surgery' start in text:420 end in text: 433; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'surgery' start in text:426 end in text: 433; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'modern' start in text:439 end in text: 445; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'modern technique' start in text:439 end in text: 455; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'technique' start in text:446 end in text: 455; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'surgery' start in text:478 end in text: 485; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'remove' start in text:498 end in text: 504; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cancerous' start in text:506 end in text: 515; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tissues' start in text:529 end in text: 536; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'It' start in text:540 end in text: 542; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'three dimensional' start in text:555 end in text: 572; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Stereotaxic Surgery' start in text:592 end in text: 611; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Surgery' start in text:604 end in text: 611; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'conjunction' start in text:637 end in text: 648; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radiation' start in text:655 end in text: 664; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Linear Accelerator' start in text:691 end in text: 709; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'new technology' start in text:726 end in text: 740; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'technology' start in text:730 end in text: 740; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'doctors' start in text:742 end in text: 749; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'removal' start in text:762 end in text: 769; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cancerous' start in text:770 end in text: 779; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tissues' start in text:780 end in text: 787; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the brain' start in text:809 end in text: 818; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'brain' start in text:813 end in text: 818; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sensitive' start in text:827 end in text: 836; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'organs' start in text:837 end in text: 843; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'normal' start in text:855 end in text: 861; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'surgery' start in text:862 end in text: 869; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'difficult' start in text:875 end in text: 884; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'risky' start in text:889 end in text: 894; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radio surgery' start in text:901 end in text: 914; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'radio' start in text:901 end in text: 906; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'surgery' start in text:907 end in text: 914; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'every step' start in text:916 end in text: 926; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'step' start in text:922 end in text: 926; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'controlled' start in text:930 end in text: 940; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'computers' start in text:944 end in text: 953; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'patients' start in text:958 end in text: 966; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'conscious' start in text:972 end in text: 981; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'treatment' start in text:1003 end in text: 1012; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'This' start in text:1017 end in text: 1021; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'technique' start in text:1026 end in text: 1035; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'diseases' start in text:1064 end in text: 1072; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Malformation' start in text:1096 end in text: 1108; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'clotting' start in text:1117 end in text: 1125; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'veins' start in text:1131 end in text: 1136; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'capillaries' start in text:1147 end in text: 1158; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cent' start in text:1193 end in text: 1197; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radio' start in text:1205 end in text: 1210; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radio surgery' start in text:1205 end in text: 1218; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'surgery' start in text:1211 end in text: 1218; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'treatments' start in text:1219 end in text: 1229; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'patients' start in text:1255 end in text: 1263; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'have to' start in text:1269 end in text: 1276; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'remain' start in text:1277 end in text: 1283; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hospital' start in text:1287 end in text: 1295; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'three days' start in text:1300 end in text: 1310; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'days' start in text:1306 end in text: 1310; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'patients' start in text:1347 end in text: 1355; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shave' start in text:1359 end in text: 1364; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'heads' start in text:1371 end in text: 1376; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radio' start in text:1381 end in text: 1386; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'radio surgery' start in text:1381 end in text: 1394; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'surgery' start in text:1387 end in text: 1394; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'scar' start in text:1405 end in text: 1409; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'little' start in text:1411 end in text: 1417; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'blood loss' start in text:1418 end in text: 1428; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'blood' start in text:1418 end in text: 1423; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'loss' start in text:1424 end in text: 1428; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'contact' start in text:1471 end in text: 1478; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the hospital' start in text:1479 end in text: 1491; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hospital' start in text:1483 end in text: 1491; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

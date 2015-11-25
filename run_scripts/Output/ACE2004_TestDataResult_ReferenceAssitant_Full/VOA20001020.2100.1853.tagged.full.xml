@@ -1,0 +1,1216 @@
+<WikifierOutput>
+<InputFilename>
+VOA20001020.2100.1853
+</InputFilename>
+<InputText>
+ The US navy now says the USS Cole was being refueled when an explosion ripped through it in Yemen last week, killing 17. The revised accounting of the incident was given in a navy statement Friday raising new questions about how the small boat carrying the explosives was able to get near the ship and set off the blast.  
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>The US</EntitySurfaceForm>
+	<EntityTextStart>1</EntityTextStart>
+	<EntityTextEnd>7</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>US</EntitySurfaceForm>
+	<EntityTextStart>5</EntityTextStart>
+	<EntityTextEnd>7</EntityTextEnd>
+	<LinkerScore>-0.8492300932157733</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.6837746421514264</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.6837746421514264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_dollar</WikiTitle> <WikiTitleID>38723</WikiTitleID> <RankerScore>0.028427979681496258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_English</WikiTitle> <WikiTitleID>1890</WikiTitleID> <RankerScore>0.006086346722972416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_Hot_100</WikiTitle> <WikiTitleID>423161</WikiTitleID> <RankerScore>0.006086346722972416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_trademark_law</WikiTitle> <WikiTitleID>218856</WikiTitleID> <RankerScore>0.006086346722972416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_men&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>582488</WikiTitleID> <RankerScore>0.006086346722972416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.18432948387654632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Army_of_the_United_States</WikiTitle> <WikiTitleID>2187247</WikiTitleID> <RankerScore>0.006086346722972416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_200</WikiTitle> <WikiTitleID>730350</WikiTitleID> <RankerScore>0.006086346722972416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_the_United_States</WikiTitle> <WikiTitleID>418334</WikiTitleID> <RankerScore>0.006086346722972416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army</WikiTitle> <WikiTitleID>32087</WikiTitleID> <RankerScore>0.006086346722972416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_customary_units</WikiTitle> <WikiTitleID>32308</WikiTitleID> <RankerScore>0.006086346722972416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>US_Open_(tennis)</WikiTitle> <WikiTitleID>82729</WikiTitleID> <RankerScore>0.006086346722972416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Armed_Forces</WikiTitle> <WikiTitleID>32212</WikiTitleID> <RankerScore>0.006086346722972416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Air_Force</WikiTitle> <WikiTitleID>32090</WikiTitleID> <RankerScore>0.006086346722972416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Us_Weekly</WikiTitle> <WikiTitleID>1072241</WikiTitleID> <RankerScore>0.006086346722972416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_in_the_United_States</WikiTitle> <WikiTitleID>519148</WikiTitleID> <RankerScore>0.006086346722972416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_passport</WikiTitle> <WikiTitleID>3104779</WikiTitleID> <RankerScore>0.006086346722972416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bingo_(U.S.)</WikiTitle> <WikiTitleID>208198</WikiTitleID> <RankerScore>0.006086346722972416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_poetry</WikiTitle> <WikiTitleID>412032</WikiTitleID> <RankerScore>0.006086346722972416</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>US navy</EntitySurfaceForm>
+	<EntityTextStart>5</EntityTextStart>
+	<EntityTextEnd>12</EntityTextEnd>
+	<LinkerScore>2.8124473520140088</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States_Navy</WikiTitle>
+		<WikiTitleID>32083</WikiTitleID>
+		<RankerScore>0.980607562875386</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Seabee</WikiTitle> <WikiTitleID>29484</WikiTitleID> <RankerScore>0.010578591863397909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.980607562875386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Navy</WikiTitle> <WikiTitleID>21533</WikiTitleID> <RankerScore>9.11391681149519E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Naval_Academy</WikiTitle> <WikiTitleID>59766</WikiTitleID> <RankerScore>9.11391681149519E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.00699106189891716</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>navy</EntitySurfaceForm>
+	<EntityTextStart>8</EntityTextStart>
+	<EntityTextEnd>12</EntityTextEnd>
+	<LinkerScore>3.0829795061984275</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Seabee</WikiTitle>
+		<WikiTitleID>29484</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>hybrid</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Seabee</WikiTitle> <WikiTitleID>29484</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>USS</EntitySurfaceForm>
+	<EntityTextStart>26</EntityTextStart>
+	<EntityTextEnd>29</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>USS_Cole_(DDG-67)</WikiTitle>
+		<WikiTitleID>197334</WikiTitleID>
+		<RankerScore>0.48193365149062156</RankerScore>
+		<Attributes>destroyer	ship</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>USS</WikiTitle> <WikiTitleID>290953</WikiTitleID> <RankerScore>0.2798815507987347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy_ships</WikiTitle> <WikiTitleID>1176720</WikiTitleID> <RankerScore>0.10429116063221681</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.5881955137987549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USA_Swimming</WikiTitle> <WikiTitleID>2611679</WikiTitleID> <RankerScore>0.013815887385146731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UNIX_System_Services</WikiTitle> <WikiTitleID>593535</WikiTitleID> <RankerScore>0.013815887385146731</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>USS Cole</EntitySurfaceForm>
+	<EntityTextStart>26</EntityTextStart>
+	<EntityTextEnd>34</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>USS_Cole_(DDG-67)</WikiTitle>
+		<WikiTitleID>197334</WikiTitleID>
+		<RankerScore>0.48193365149062156</RankerScore>
+		<Attributes>destroyer	ship</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>USS_Cole</WikiTitle> <WikiTitleID>32220</WikiTitleID> <RankerScore>0.446752203424837</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USS_Cole_(DDG-67)</WikiTitle> <WikiTitleID>197334</WikiTitleID> <RankerScore>0.48193365149062156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USS_Cole_bombing</WikiTitle> <WikiTitleID>31981</WikiTitleID> <RankerScore>0.07131414508454144</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Cole</EntitySurfaceForm>
+	<EntityTextStart>30</EntityTextStart>
+	<EntityTextEnd>34</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>USS_Cole_(DDG-67)</WikiTitle>
+		<WikiTitleID>197334</WikiTitleID>
+		<RankerScore>0.48193365149062156</RankerScore>
+		<Attributes>destroyer	ship</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>USS_Cole</WikiTitle> <WikiTitleID>32220</WikiTitleID> <RankerScore>0.446752203424837</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USS_Cole_(DDG-67)</WikiTitle> <WikiTitleID>197334</WikiTitleID> <RankerScore>0.48193365149062156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USS_Cole_bombing</WikiTitle> <WikiTitleID>31981</WikiTitleID> <RankerScore>0.07131414508454144</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>refueled</EntitySurfaceForm>
+	<EntityTextStart>45</EntityTextStart>
+	<EntityTextEnd>53</EntityTextEnd>
+	<LinkerScore>1.4980334834159348</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Underway_replenishment</WikiTitle>
+		<WikiTitleID>2589484</WikiTitleID>
+		<RankerScore>0.7434503191488897</RankerScore>
+		<Attributes>logistics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Underway_replenishment</WikiTitle> <WikiTitleID>2589484</WikiTitleID> <RankerScore>0.7434503191488897</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aerial_refueling</WikiTitle> <WikiTitleID>237949</WikiTitleID> <RankerScore>0.2565496808511102</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>an explosion</EntitySurfaceForm>
+	<EntityTextStart>59</EntityTextStart>
+	<EntityTextEnd>71</EntityTextEnd>
+	<LinkerScore>-1.2405904095348117</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2008_Bin_Salman_Mosque_bombing</WikiTitle>
+		<WikiTitleID>17233989</WikiTitleID>
+		<RankerScore>0.5983044433795968</RankerScore>
+		<Attributes>incident</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2008_Bin_Salman_Mosque_bombing</WikiTitle> <WikiTitleID>17233989</WikiTitleID> <RankerScore>0.5983044433795968</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arkhangelsk_explosion_of_2004</WikiTitle> <WikiTitleID>531302</WikiTitleID> <RankerScore>0.20337591171699537</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_London_School_explosion</WikiTitle> <WikiTitleID>1625550</WikiTitleID> <RankerScore>0.04916139905148913</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gaza_beach_explosion_(2006)</WikiTitle> <WikiTitleID>5509426</WikiTitleID> <RankerScore>0.05083544774894051</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001_Humber_Refinery_explosion</WikiTitle> <WikiTitleID>10627634</WikiTitleID> <RankerScore>0.04916139905148913</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greenwich_Village_townhouse_explosion</WikiTitle> <WikiTitleID>14584899</WikiTitleID> <RankerScore>0.04916139905148913</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>explosion</EntitySurfaceForm>
+	<EntityTextStart>62</EntityTextStart>
+	<EntityTextEnd>71</EntityTextEnd>
+	<LinkerScore>1.712443034365149</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Explosion</WikiTitle>
+		<WikiTitleID>158891</WikiTitleID>
+		<RankerScore>0.7989595324602473</RankerScore>
+		<Attributes>explosion</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Explosion</WikiTitle> <WikiTitleID>158891</WikiTitleID> <RankerScore>0.7989595324602473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Batasang_Pambansa_bombing</WikiTitle> <WikiTitleID>14228292</WikiTitleID> <RankerScore>0.003393210409829543</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Principle_of_explosion</WikiTitle> <WikiTitleID>591394</WikiTitleID> <RankerScore>0.003393210409829543</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Space_Shuttle_Challenger_disaster</WikiTitle> <WikiTitleID>403717</WikiTitleID> <RankerScore>0.003393210409829543</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Silvertown_explosion</WikiTitle> <WikiTitleID>6608333</WikiTitleID> <RankerScore>0.003393210409829543</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mobile_magazine_explosion</WikiTitle> <WikiTitleID>36653</WikiTitleID> <RankerScore>0.003982008256327673</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>STS-51-L</WikiTitle> <WikiTitleID>3407579</WikiTitleID> <RankerScore>0.003393210409829543</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_submarine_Kursk_explosion</WikiTitle> <WikiTitleID>2097316</WikiTitleID> <RankerScore>0.003393210409829543</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thermobaric_weapon</WikiTitle> <WikiTitleID>31418</WikiTitleID> <RankerScore>0.003393210409829543</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dust_explosion</WikiTitle> <WikiTitleID>10473148</WikiTitleID> <RankerScore>0.003393210409829543</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Uncontrolled_decompression</WikiTitle> <WikiTitleID>1193903</WikiTitleID> <RankerScore>0.003393210409829543</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sylvania_Electric_Products_explosion</WikiTitle> <WikiTitleID>1291550</WikiTitleID> <RankerScore>0.003393210409829543</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pasta_de_Conchos_mine_disaster</WikiTitle> <WikiTitleID>4196593</WikiTitleID> <RankerScore>0.003393210409829543</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nuclear_explosion</WikiTitle> <WikiTitleID>4380587</WikiTitleID> <RankerScore>0.003393210409829543</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_Jilin_chemical_plant_explosions</WikiTitle> <WikiTitleID>3149608</WikiTitleID> <RankerScore>0.003393210409829543</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_London_School_explosion</WikiTitle> <WikiTitleID>1625550</WikiTitleID> <RankerScore>0.003393210409829543</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_Guadalajara_explosions</WikiTitle> <WikiTitleID>3354734</WikiTitleID> <RankerScore>0.003393210409829543</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_Dubai_explosion</WikiTitle> <WikiTitleID>16591943</WikiTitleID> <RankerScore>0.13937388231632294</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cambrian_explosion</WikiTitle> <WikiTitleID>44184</WikiTitleID> <RankerScore>0.003393210409829543</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boiler_explosion</WikiTitle> <WikiTitleID>2774201</WikiTitleID> <RankerScore>0.003393210409829543</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yemen</EntitySurfaceForm>
+	<EntityTextStart>93</EntityTextStart>
+	<EntityTextEnd>98</EntityTextEnd>
+	<LinkerScore>3.4036860556386044</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Yemen</WikiTitle>
+		<WikiTitleID>350939</WikiTitleID>
+		<RankerScore>0.9703925738279512</RankerScore>
+		<Attributes>country	dispute	state	republic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Yemen</WikiTitle> <WikiTitleID>350939</WikiTitleID> <RankerScore>0.9703925738279512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mutawakkilite_Kingdom_of_Yemen</WikiTitle> <WikiTitleID>2457603</WikiTitleID> <RankerScore>0.002286903642148822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yemen_national_football_team</WikiTitle> <WikiTitleID>1291184</WikiTitleID> <RankerScore>0.002339262667523193</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yemenite_Jews</WikiTitle> <WikiTitleID>348787</WikiTitleID> <RankerScore>0.0014694858742574607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Yemen</WikiTitle> <WikiTitleID>351550</WikiTitleID> <RankerScore>0.0014694858742574607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Yemen</WikiTitle> <WikiTitleID>56969</WikiTitleID> <RankerScore>0.0014694858742574607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_Yemen</WikiTitle> <WikiTitleID>6352065</WikiTitleID> <RankerScore>0.0014694858742574607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Emblem_of_Yemen</WikiTitle> <WikiTitleID>444106</WikiTitleID> <RankerScore>0.0014694858742574607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islamic_history_of_Yemen</WikiTitle> <WikiTitleID>7005729</WikiTitleID> <RankerScore>0.0014694858742574607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Yemen</WikiTitle> <WikiTitleID>34245</WikiTitleID> <RankerScore>0.0014694858742574607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Yemen</WikiTitle> <WikiTitleID>34248</WikiTitleID> <RankerScore>0.0014694858742574607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Yemen</WikiTitle> <WikiTitleID>720778</WikiTitleID> <RankerScore>0.0014694858742574607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yemen_Football_Association</WikiTitle> <WikiTitleID>5731530</WikiTitleID> <RankerScore>0.0014694858742574607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_Socialist_Ba&apos;ath_Party_–_Yemen_Region</WikiTitle> <WikiTitleID>2673501</WikiTitleID> <RankerScore>0.0014694858742574607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Yemen</WikiTitle> <WikiTitleID>718749</WikiTitleID> <RankerScore>0.0014694858742574607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jewish_exodus_from_Arab_and_Muslim_countries</WikiTitle> <WikiTitleID>143149</WikiTitleID> <RankerScore>0.0014694858742574607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yemeni_cuisine</WikiTitle> <WikiTitleID>5554889</WikiTitleID> <RankerScore>0.0014694858742574607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Yemen</WikiTitle> <WikiTitleID>412725</WikiTitleID> <RankerScore>0.0014694858742574607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Political_parties_in_Yemen</WikiTitle> <WikiTitleID>409117</WikiTitleID> <RankerScore>0.0014694858742574607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_rights_in_Yemen</WikiTitle> <WikiTitleID>12353353</WikiTitleID> <RankerScore>0.0014694858742574607</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>week</EntitySurfaceForm>
+	<EntityTextStart>104</EntityTextStart>
+	<EntityTextEnd>108</EntityTextEnd>
+	<LinkerScore>3.5740361563835426</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Week</WikiTitle>
+		<WikiTitleID>33538</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>unit	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Week</WikiTitle> <WikiTitleID>33538</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>17</EntitySurfaceForm>
+	<EntityTextStart>118</EntityTextStart>
+	<EntityTextEnd>120</EntityTextEnd>
+	<LinkerScore>-1.4397795523729993</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>17</WikiTitle>
+		<WikiTitleID>35208</WikiTitleID>
+		<RankerScore>0.1626621595263532</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>17</WikiTitle> <WikiTitleID>35208</WikiTitleID> <RankerScore>0.1626621595263532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>17_(number)</WikiTitle> <WikiTitleID>208288</WikiTitleID> <RankerScore>0.04224329116157177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>November_17</WikiTitle> <WikiTitleID>21798</WikiTitleID> <RankerScore>0.06658129051370287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>August_17</WikiTitle> <WikiTitleID>1490</WikiTitleID> <RankerScore>0.04224329116157177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>June_17</WikiTitle> <WikiTitleID>15798</WikiTitleID> <RankerScore>0.05262060021322391</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>October_17</WikiTitle> <WikiTitleID>22366</WikiTitleID> <RankerScore>0.04224329116157177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_17</WikiTitle> <WikiTitleID>1974</WikiTitleID> <RankerScore>0.04224329116157177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>February_17</WikiTitle> <WikiTitleID>11164</WikiTitleID> <RankerScore>0.04224329116157177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>July_17</WikiTitle> <WikiTitleID>16089</WikiTitleID> <RankerScore>0.04224329116157177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_17</WikiTitle> <WikiTitleID>19631</WikiTitleID> <RankerScore>0.04224329116157177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_17</WikiTitle> <WikiTitleID>20223</WikiTitleID> <RankerScore>0.04224329116157177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_17</WikiTitle> <WikiTitleID>8322</WikiTitleID> <RankerScore>0.04224329116157177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sibley-Monroe_checklist_17</WikiTitle> <WikiTitleID>209793</WikiTitleID> <RankerScore>0.04224329116157177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Apollo_17</WikiTitle> <WikiTitleID>1971</WikiTitleID> <RankerScore>0.04224329116157177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>September_17</WikiTitle> <WikiTitleID>27993</WikiTitleID> <RankerScore>0.04224329116157177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>January_17</WikiTitle> <WikiTitleID>15920</WikiTitleID> <RankerScore>0.04224329116157177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1917</WikiTitle> <WikiTitleID>34595</WikiTitleID> <RankerScore>0.04224329116157177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ontario_Highway_17</WikiTitle> <WikiTitleID>845835</WikiTitleID> <RankerScore>0.04224329116157177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japan_National_Route_17</WikiTitle> <WikiTitleID>5535279</WikiTitleID> <RankerScore>0.04224329116157177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Halogen</WikiTitle> <WikiTitleID>13258</WikiTitleID> <RankerScore>0.04224329116157177</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>revised</EntitySurfaceForm>
+	<EntityTextStart>126</EntityTextStart>
+	<EntityTextEnd>133</EntityTextEnd>
+	<LinkerScore>-2.1746102461056784</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Revised_Romanization_of_Korean</WikiTitle>
+		<WikiTitleID>293791</WikiTitleID>
+		<RankerScore>0.21254827729735948</RankerScore>
+		<Attributes>standard</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Revised_Romanization_of_Korean</WikiTitle> <WikiTitleID>293791</WikiTitleID> <RankerScore>0.21254827729735948</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Retroactive_continuity</WikiTitle> <WikiTitleID>26400</WikiTitleID> <RankerScore>0.15411877481377537</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mass_of_Paul_VI</WikiTitle> <WikiTitleID>101135</WikiTitleID> <RankerScore>0.1469571587899443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Redistricting</WikiTitle> <WikiTitleID>667093</WikiTitleID> <RankerScore>0.12159394727473022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_golfers_with_most_PGA_Tour_wins</WikiTitle> <WikiTitleID>1449426</WikiTitleID> <RankerScore>0.12159394727473022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Historical_revisionism</WikiTitle> <WikiTitleID>13293</WikiTitleID> <RankerScore>0.12159394727473022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Revival_(theatre)</WikiTitle> <WikiTitleID>1552010</WikiTitleID> <RankerScore>0.12159394727473022</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>accounting</EntitySurfaceForm>
+	<EntityTextStart>134</EntityTextStart>
+	<EntityTextEnd>144</EntityTextEnd>
+	<LinkerScore>1.5068768482936892</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Accountancy</WikiTitle>
+		<WikiTitleID>2593</WikiTitleID>
+		<RankerScore>0.747191959185467</RankerScore>
+		<Attributes>occupation	science</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Accountancy</WikiTitle> <WikiTitleID>2593</WikiTitleID> <RankerScore>0.747191959185467</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Accounting_software</WikiTitle> <WikiTitleID>13277642</WikiTitleID> <RankerScore>0.04011131480572474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Accountant</WikiTitle> <WikiTitleID>58216</WikiTitleID> <RankerScore>0.03326876468829195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Accountability</WikiTitle> <WikiTitleID>161973</WikiTitleID> <RankerScore>0.044856990330129076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FCAPS</WikiTitle> <WikiTitleID>653807</WikiTitleID> <RankerScore>0.044856990330129076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coin_of_account</WikiTitle> <WikiTitleID>103186</WikiTitleID> <RankerScore>0.044856990330129076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Accounting_scholarship</WikiTitle> <WikiTitleID>1367447</WikiTitleID> <RankerScore>0.044856990330129076</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the incident</EntitySurfaceForm>
+	<EntityTextStart>148</EntityTextStart>
+	<EntityTextEnd>160</EntityTextEnd>
+	<LinkerScore>-0.13954770742007117</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Melbourne–Evans_collision</WikiTitle>
+		<WikiTitleID>14444611</WikiTitleID>
+		<RankerScore>0.5733277586807298</RankerScore>
+		<Attributes>accident	incident</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Alkhan-Yurt_massacre</WikiTitle> <WikiTitleID>10285726</WikiTitleID> <RankerScore>0.07598242900617877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_Tibetan_unrest</WikiTitle> <WikiTitleID>16287570</WikiTitleID> <RankerScore>0.032383194181783474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1995_Okinawa_rape_incident</WikiTitle> <WikiTitleID>10032476</WikiTitleID> <RankerScore>0.318306618131308</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Melbourne–Evans_collision</WikiTitle> <WikiTitleID>14444611</WikiTitleID> <RankerScore>0.5733277586807298</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>incident</EntitySurfaceForm>
+	<EntityTextStart>152</EntityTextStart>
+	<EntityTextEnd>160</EntityTextEnd>
+	<LinkerScore>-1.0312990157501072</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Incident</WikiTitle>
+		<WikiTitleID>1652071</WikiTitleID>
+		<RankerScore>0.2104659986546773</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Incident</WikiTitle> <WikiTitleID>1652071</WikiTitleID> <RankerScore>0.2104659986546773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Graph_(mathematics)</WikiTitle> <WikiTitleID>325806</WikiTitleID> <RankerScore>0.0715473238608315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Incident_management</WikiTitle> <WikiTitleID>3568755</WikiTitleID> <RankerScore>0.040259561496534056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Underarm_bowling_incident_of_1981</WikiTitle> <WikiTitleID>7904280</WikiTitleID> <RankerScore>0.040259561496534056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gulf_of_Tonkin_incident</WikiTitle> <WikiTitleID>62982</WikiTitleID> <RankerScore>0.03357413204341229</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_scandal</WikiTitle> <WikiTitleID>235224</WikiTitleID> <RankerScore>0.040259561496534056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Super_Bowl_XXXVIII_halftime_show_controversy</WikiTitle> <WikiTitleID>498971</WikiTitleID> <RankerScore>0.040259561496534056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gulf_of_Sidra_incident_(1981)</WikiTitle> <WikiTitleID>375048</WikiTitleID> <RankerScore>0.040259561496534056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curse_of_Ham</WikiTitle> <WikiTitleID>2532528</WikiTitleID> <RankerScore>0.040259561496534056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_spaceflight-related_accidents_and_incidents</WikiTitle> <WikiTitleID>201912</WikiTitleID> <RankerScore>0.040259561496534056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Australian_rules_football_incidents</WikiTitle> <WikiTitleID>4113482</WikiTitleID> <RankerScore>0.040259561496534056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wikipedia_biography_controversy</WikiTitle> <WikiTitleID>3331293</WikiTitleID> <RankerScore>0.040259561496534056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1960_U-2_incident</WikiTitle> <WikiTitleID>304689</WikiTitleID> <RankerScore>0.040259561496534056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anglo-Powhatan_Wars</WikiTitle> <WikiTitleID>8265384</WikiTitleID> <RankerScore>0.040259561496534056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mel_Gibson</WikiTitle> <WikiTitleID>6217854</WikiTitleID> <RankerScore>0.040259561496534056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waco_siege</WikiTitle> <WikiTitleID>764810</WikiTitleID> <RankerScore>0.040259561496534056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004_Israel–New_Zealand_passport_scandal</WikiTitle> <WikiTitleID>6573052</WikiTitleID> <RankerScore>0.040259561496534056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Incidence_(geometry)</WikiTitle> <WikiTitleID>387224</WikiTitleID> <RankerScore>0.040259561496534056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aviation_accidents_and_incidents</WikiTitle> <WikiTitleID>164536</WikiTitleID> <RankerScore>0.040259561496534056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hostage_crisis</WikiTitle> <WikiTitleID>1008188</WikiTitleID> <RankerScore>0.040259561496534056</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>given</EntitySurfaceForm>
+	<EntityTextStart>165</EntityTextStart>
+	<EntityTextEnd>170</EntityTextEnd>
+	<LinkerScore>-0.08729463359554548</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Given</WikiTitle>
+		<WikiTitleID>2558477</WikiTitleID>
+		<RankerScore>0.8167058879039631</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Given</WikiTitle> <WikiTitleID>2558477</WikiTitleID> <RankerScore>0.8167058879039631</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Given_name</WikiTitle> <WikiTitleID>247991</WikiTitleID> <RankerScore>0.12114687737393219</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japanese_name</WikiTitle> <WikiTitleID>164225</WikiTitleID> <RankerScore>0.06214723472210457</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>navy</EntitySurfaceForm>
+	<EntityTextStart>176</EntityTextStart>
+	<EntityTextEnd>180</EntityTextEnd>
+	<LinkerScore>-0.7761741850197825</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Navy</WikiTitle>
+		<WikiTitleID>21533</WikiTitleID>
+		<RankerScore>0.49667506751528834</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Navy</WikiTitle> <WikiTitleID>21533</WikiTitleID> <RankerScore>0.49667506751528834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.2466276080684845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Navy</WikiTitle> <WikiTitleID>26061</WikiTitleID> <RankerScore>0.08464719244887242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Navy_blue</WikiTitle> <WikiTitleID>575590</WikiTitleID> <RankerScore>0.01012059599807969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_Navy</WikiTitle> <WikiTitleID>383256</WikiTitleID> <RankerScore>0.01012059599807969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Imperial_Japanese_Navy</WikiTitle> <WikiTitleID>236104</WikiTitleID> <RankerScore>0.01012059599807969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Danish_Navy</WikiTitle> <WikiTitleID>201834</WikiTitleID> <RankerScore>0.01012059599807969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_African_Navy</WikiTitle> <WikiTitleID>470473</WikiTitleID> <RankerScore>0.01012059599807969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Canadian_Navy</WikiTitle> <WikiTitleID>293382</WikiTitleID> <RankerScore>0.01012059599807969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Navy</WikiTitle> <WikiTitleID>1201138</WikiTitleID> <RankerScore>0.01012059599807969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>People&apos;s_Liberation_Army_Navy</WikiTitle> <WikiTitleID>24918</WikiTitleID> <RankerScore>0.01012059599807969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Norwegian_Navy</WikiTitle> <WikiTitleID>82050</WikiTitleID> <RankerScore>0.01012059599807969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_Navy</WikiTitle> <WikiTitleID>198656</WikiTitleID> <RankerScore>0.01012059599807969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_navy</WikiTitle> <WikiTitleID>1849295</WikiTitleID> <RankerScore>0.01012059599807969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Navy</WikiTitle> <WikiTitleID>383258</WikiTitleID> <RankerScore>0.01012059599807969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Navy</WikiTitle> <WikiTitleID>1370788</WikiTitleID> <RankerScore>0.01012059599807969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Thai_Navy</WikiTitle> <WikiTitleID>1222633</WikiTitleID> <RankerScore>0.01012059599807969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Australian_Navy</WikiTitle> <WikiTitleID>26327</WikiTitleID> <RankerScore>0.01012059599807969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Netherlands_Navy</WikiTitle> <WikiTitleID>198478</WikiTitleID> <RankerScore>0.01012059599807969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Naval_history_of_China</WikiTitle> <WikiTitleID>5083891</WikiTitleID> <RankerScore>0.01012059599807969</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>statement</EntitySurfaceForm>
+	<EntityTextStart>181</EntityTextStart>
+	<EntityTextEnd>190</EntityTextEnd>
+	<LinkerScore>1.0672044525880084</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Statement</WikiTitle>
+		<WikiTitleID>41746</WikiTitleID>
+		<RankerScore>0.7862598699507877</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Statement</WikiTitle> <WikiTitleID>41746</WikiTitleID> <RankerScore>0.7862598699507877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statement_(computer_science)</WikiTitle> <WikiTitleID>938656</WikiTitleID> <RankerScore>0.052412481091356655</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposition</WikiTitle> <WikiTitleID>81094</WikiTitleID> <RankerScore>0.09102159958651425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Press_release</WikiTitle> <WikiTitleID>304097</WikiTitleID> <RankerScore>0.011717674895223571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Document</WikiTitle> <WikiTitleID>161228</WikiTitleID> <RankerScore>0.011717674895223571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sentence_(linguistics)</WikiTitle> <WikiTitleID>870352</WikiTitleID> <RankerScore>0.011717674895223571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statement_(logic)</WikiTitle> <WikiTitleID>17642768</WikiTitleID> <RankerScore>0.011717674895223571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hadith</WikiTitle> <WikiTitleID>13749</WikiTitleID> <RankerScore>0.011717674895223571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deposition_(law)</WikiTitle> <WikiTitleID>51697</WikiTitleID> <RankerScore>0.011717674895223571</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Friday</EntitySurfaceForm>
+	<EntityTextStart>191</EntityTextStart>
+	<EntityTextEnd>197</EntityTextEnd>
+	<LinkerScore>0.8984033529255722</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Friday</WikiTitle>
+		<WikiTitleID>54632</WikiTitleID>
+		<RankerScore>0.6935408368709278</RankerScore>
+		<Attributes>dispute	days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Friday_(film)</WikiTitle> <WikiTitleID>169788</WikiTitleID> <RankerScore>0.08429668718969477</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Friday</WikiTitle> <WikiTitleID>54632</WikiTitleID> <RankerScore>0.6935408368709278</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Friday_(comics)</WikiTitle> <WikiTitleID>5069350</WikiTitleID> <RankerScore>0.043173233980722404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Friday_(novel)</WikiTitle> <WikiTitleID>59786</WikiTitleID> <RankerScore>0.013768403227588832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Good_Friday</WikiTitle> <WikiTitleID>58009</WikiTitleID> <RankerScore>0.013768403227588832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Smartship_Friday</WikiTitle> <WikiTitleID>10361543</WikiTitleID> <RankerScore>0.013768403227588832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Friday_the_13th</WikiTitle> <WikiTitleID>37168</WikiTitleID> <RankerScore>0.013768403227588832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Friday_Mountain</WikiTitle> <WikiTitleID>15997959</WikiTitleID> <RankerScore>0.013768403227588832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Friday_(Daniel_Bedingfield_song)</WikiTitle> <WikiTitleID>6457599</WikiTitleID> <RankerScore>0.013768403227588832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sunny_Day_Real_Estate_(album)</WikiTitle> <WikiTitleID>17945043</WikiTitleID> <RankerScore>0.013768403227588832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Friday_(pornographic_actress)</WikiTitle> <WikiTitleID>11796910</WikiTitleID> <RankerScore>0.013768403227588832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Round_Room</WikiTitle> <WikiTitleID>700540</WikiTitleID> <RankerScore>0.013768403227588832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jumu&apos;ah</WikiTitle> <WikiTitleID>1162603</WikiTitleID> <RankerScore>0.013768403227588832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Friday_(soundtrack)</WikiTitle> <WikiTitleID>10189895</WikiTitleID> <RankerScore>0.013768403227588832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Friday_Project</WikiTitle> <WikiTitleID>1094712</WikiTitleID> <RankerScore>0.013768403227588832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joe_Friday</WikiTitle> <WikiTitleID>1467670</WikiTitleID> <RankerScore>0.013768403227588832</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>questions</EntitySurfaceForm>
+	<EntityTextStart>210</EntityTextStart>
+	<EntityTextEnd>219</EntityTextEnd>
+	<LinkerScore>1.5654068297809471</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Question</WikiTitle>
+		<WikiTitleID>502038</WikiTitleID>
+		<RankerScore>0.8034486887756184</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Question</WikiTitle> <WikiTitleID>502038</WikiTitleID> <RankerScore>0.8034486887756184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Killian_documents_controversy</WikiTitle> <WikiTitleID>976880</WikiTitleID> <RankerScore>0.09782207513942917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Questions_(game)</WikiTitle> <WikiTitleID>4564027</WikiTitleID> <RankerScore>0.09872923608495247</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>small boat</EntitySurfaceForm>
+	<EntityTextStart>234</EntityTextStart>
+	<EntityTextEnd>244</EntityTextEnd>
+	<LinkerScore>2.3105416827872323</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boat</WikiTitle>
+		<WikiTitleID>3996</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>terms	boat</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boat</WikiTitle> <WikiTitleID>3996</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>small</EntitySurfaceForm>
+	<EntityTextStart>234</EntityTextStart>
+	<EntityTextEnd>239</EntityTextEnd>
+	<LinkerScore>-0.818293875051952</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Small</WikiTitle>
+		<WikiTitleID>1283228</WikiTitleID>
+		<RankerScore>0.257777587466983</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Small</WikiTitle> <WikiTitleID>1283228</WikiTitleID> <RankerScore>0.257777587466983</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Category_(mathematics)</WikiTitle> <WikiTitleID>53759</WikiTitleID> <RankerScore>0.06286536493580303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Small_business</WikiTitle> <WikiTitleID>276495</WikiTitleID> <RankerScore>0.05845806476245401</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Letter_case</WikiTitle> <WikiTitleID>18912</WikiTitleID> <RankerScore>0.04776146021805846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Small_appliance</WikiTitle> <WikiTitleID>176571</WikiTitleID> <RankerScore>0.04776146021805846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rongorongo_text_Q</WikiTitle> <WikiTitleID>15796612</WikiTitleID> <RankerScore>0.04776146021805846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mini</WikiTitle> <WikiTitleID>65684</WikiTitleID> <RankerScore>0.04776146021805846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Micro</WikiTitle> <WikiTitleID>7806447</WikiTitleID> <RankerScore>0.04776146021805846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Small_set_(combinatorics)</WikiTitle> <WikiTitleID>3152856</WikiTitleID> <RankerScore>0.04776146021805846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Small_forward</WikiTitle> <WikiTitleID>714927</WikiTitleID> <RankerScore>0.04776146021805846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Microbrewery</WikiTitle> <WikiTitleID>362355</WikiTitleID> <RankerScore>0.04776146021805846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Micropenis</WikiTitle> <WikiTitleID>310019</WikiTitleID> <RankerScore>0.04776146021805846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Subcompact_car</WikiTitle> <WikiTitleID>964483</WikiTitleID> <RankerScore>0.04776146021805846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Class_(set_theory)</WikiTitle> <WikiTitleID>20696</WikiTitleID> <RankerScore>0.04776146021805846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Small_intestine</WikiTitle> <WikiTitleID>99610</WikiTitleID> <RankerScore>0.04776146021805846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>EFF_DES_cracker</WikiTitle> <WikiTitleID>839358</WikiTitleID> <RankerScore>0.04776146021805846</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>boat</EntitySurfaceForm>
+	<EntityTextStart>240</EntityTextStart>
+	<EntityTextEnd>244</EntityTextEnd>
+	<LinkerScore>2.4582196415773483</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boat</WikiTitle>
+		<WikiTitleID>3996</WikiTitleID>
+		<RankerScore>0.7775176792668661</RankerScore>
+		<Attributes>terms	boat</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boat</WikiTitle> <WikiTitleID>3996</WikiTitleID> <RankerScore>0.7775176792668661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dover_Bronze_Age_Boat</WikiTitle> <WikiTitleID>9368980</WikiTitleID> <RankerScore>0.007404894340881084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Motorboat</WikiTitle> <WikiTitleID>574964</WikiTitleID> <RankerScore>0.06335513622729173</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canal_boat</WikiTitle> <WikiTitleID>6533385</WikiTitleID> <RankerScore>0.007404894340881084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sailboat</WikiTitle> <WikiTitleID>67783</WikiTitleID> <RankerScore>0.007404894340881084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cyclohexane_conformation</WikiTitle> <WikiTitleID>1524030</WikiTitleID> <RankerScore>0.007404894340881084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Punt_(boat)</WikiTitle> <WikiTitleID>2543338</WikiTitleID> <RankerScore>0.007404894340881084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Submarine</WikiTitle> <WikiTitleID>28825</WikiTitleID> <RankerScore>0.05545866373350702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dive_boat</WikiTitle> <WikiTitleID>1267583</WikiTitleID> <RankerScore>0.007404894340881084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ship</WikiTitle> <WikiTitleID>27008</WikiTitleID> <RankerScore>0.007404894340881084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio-controlled_boat</WikiTitle> <WikiTitleID>3799760</WikiTitleID> <RankerScore>0.007404894340881084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ship_transport</WikiTitle> <WikiTitleID>28769</WikiTitleID> <RankerScore>0.007404894340881084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Watercraft_rowing</WikiTitle> <WikiTitleID>1505440</WikiTitleID> <RankerScore>0.007404894340881084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bass_boat</WikiTitle> <WikiTitleID>16858696</WikiTitleID> <RankerScore>0.007404894340881084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boating</WikiTitle> <WikiTitleID>890485</WikiTitleID> <RankerScore>0.007404894340881084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boat_race_(game)</WikiTitle> <WikiTitleID>1191330</WikiTitleID> <RankerScore>0.007404894340881084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Boat_Race</WikiTitle> <WikiTitleID>247877</WikiTitleID> <RankerScore>0.007404894340881084</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>explosives</EntitySurfaceForm>
+	<EntityTextStart>258</EntityTextStart>
+	<EntityTextEnd>268</EntityTextEnd>
+	<LinkerScore>-0.22967865079550298</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Explosive_material</WikiTitle>
+		<WikiTitleID>10192</WikiTitleID>
+		<RankerScore>0.5256560888845053</RankerScore>
+		<Attributes>explosive	material</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Explosive_material</WikiTitle> <WikiTitleID>10192</WikiTitleID> <RankerScore>0.5256560888845053</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suicide_attack</WikiTitle> <WikiTitleID>29361</WikiTitleID> <RankerScore>0.45164215757826826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detonating_cord</WikiTitle> <WikiTitleID>610149</WikiTitleID> <RankerScore>0.0034604299154582614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bomb</WikiTitle> <WikiTitleID>47628</WikiTitleID> <RankerScore>0.00886003387539321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Titadine</WikiTitle> <WikiTitleID>608168</WikiTitleID> <RankerScore>0.0034604299154582614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Improvised_explosive_device</WikiTitle> <WikiTitleID>265112</WikiTitleID> <RankerScore>0.0034604299154582614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Time_bomb</WikiTitle> <WikiTitleID>1053290</WikiTitleID> <RankerScore>0.0034604299154582614</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the ship</EntitySurfaceForm>
+	<EntityTextStart>290</EntityTextStart>
+	<EntityTextEnd>298</EntityTextEnd>
+	<LinkerScore>-0.3735050936620552</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Black_Pearl</WikiTitle>
+		<WikiTitleID>3811567</WikiTitleID>
+		<RankerScore>0.4024118956726514</RankerScore>
+		<Attributes>pirate	ship</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Excalibur_(Crusade)</WikiTitle> <WikiTitleID>1284009</WikiTitleID> <RankerScore>0.29637447278366935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Enterprise_(NX-01)</WikiTitle> <WikiTitleID>671979</WikiTitleID> <RankerScore>0.30121363154367936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Black_Pearl</WikiTitle> <WikiTitleID>3811567</WikiTitleID> <RankerScore>0.4024118956726514</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>ship</EntitySurfaceForm>
+	<EntityTextStart>294</EntityTextStart>
+	<EntityTextEnd>298</EntityTextEnd>
+	<LinkerScore>2.6466013965140864</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ship</WikiTitle>
+		<WikiTitleID>27008</WikiTitleID>
+		<RankerScore>0.9609846597260743</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ship</WikiTitle> <WikiTitleID>27008</WikiTitleID> <RankerScore>0.9609846597260743</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spacecraft</WikiTitle> <WikiTitleID>37910</WikiTitleID> <RankerScore>0.001355445655746074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Starship</WikiTitle> <WikiTitleID>56163</WikiTitleID> <RankerScore>0.0014663799963846843</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Her_Majesty&apos;s_Canadian_Ship</WikiTitle> <WikiTitleID>342760</WikiTitleID> <RankerScore>0.001355445655746074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shipping_(fandom)</WikiTitle> <WikiTitleID>1242035</WikiTitleID> <RankerScore>0.001355445655746074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ship_transport</WikiTitle> <WikiTitleID>28769</WikiTitleID> <RankerScore>0.015861829785603836</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spacecraft</WikiTitle> <WikiTitleID>67685</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Longship</WikiTitle> <WikiTitleID>18025</WikiTitleID> <RankerScore>0.001355445655746074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_active_Hellenic_Navy_ships</WikiTitle> <WikiTitleID>2183092</WikiTitleID> <RankerScore>0.001355445655746074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Full-rigged_ship</WikiTitle> <WikiTitleID>1138566</WikiTitleID> <RankerScore>0.001355445655746074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Clipper</WikiTitle> <WikiTitleID>7461</WikiTitleID> <RankerScore>0.001355445655746074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Passenger_ship</WikiTitle> <WikiTitleID>370666</WikiTitleID> <RankerScore>0.001355445655746074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Planet_Express_Ship</WikiTitle> <WikiTitleID>6621560</WikiTitleID> <RankerScore>0.001355445655746074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shipping</WikiTitle> <WikiTitleID>28362</WikiTitleID> <RankerScore>0.001355445655746074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Star_of_Oregon_(event)</WikiTitle> <WikiTitleID>9130392</WikiTitleID> <RankerScore>0.001355445655746074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cargo_ship</WikiTitle> <WikiTitleID>786056</WikiTitleID> <RankerScore>0.001355445655746074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ship_(comics)</WikiTitle> <WikiTitleID>4085384</WikiTitleID> <RankerScore>0.001355445655746074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sea_Scouting_(Boy_Scouts_of_America)</WikiTitle> <WikiTitleID>1565443</WikiTitleID> <RankerScore>0.001355445655746074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ship_burial</WikiTitle> <WikiTitleID>147105</WikiTitleID> <RankerScore>0.001355445655746074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Star_of_Oregon_(ship)</WikiTitle> <WikiTitleID>9129928</WikiTitleID> <RankerScore>0.001355445655746074</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>blast</EntitySurfaceForm>
+	<EntityTextStart>315</EntityTextStart>
+	<EntityTextEnd>320</EntityTextEnd>
+	<LinkerScore>-0.6490084483469829</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Explosion</WikiTitle>
+		<WikiTitleID>158891</WikiTitleID>
+		<RankerScore>0.4321730044025037</RankerScore>
+		<Attributes>explosion</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Blast</WikiTitle> <WikiTitleID>87562</WikiTitleID> <RankerScore>0.07099113480133515</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Explosion</WikiTitle> <WikiTitleID>158891</WikiTitleID> <RankerScore>0.4321730044025037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blast_furnace</WikiTitle> <WikiTitleID>297203</WikiTitleID> <RankerScore>0.01802291291192676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Improvised_explosive_device</WikiTitle> <WikiTitleID>265112</WikiTitleID> <RankerScore>0.4247442091484541</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blast_injury</WikiTitle> <WikiTitleID>892612</WikiTitleID> <RankerScore>0.01802291291192676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_Palu_market_bombing</WikiTitle> <WikiTitleID>3575587</WikiTitleID> <RankerScore>0.01802291291192676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_Red_Square_bombing</WikiTitle> <WikiTitleID>6967473</WikiTitleID> <RankerScore>0.01802291291192676</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

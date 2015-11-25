@@ -1,0 +1,457 @@
+<ANNOTATION>
+   Cohen: Missile defense system in   <b>Gulf</b>   `imperative'<br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States_Department_of_Defense" cat="ministry	establishment">U.S. Defense</a>  Secretary   <a class="wiki" href="http://en.wikipedia.org/wiki/William_Cohen" cat="mayor	member	person	lawyer	senator	secretary	alumnus	republican	politician	universalists	educator">William Cohen</a>    said Saturday it has become "imperative'' for   <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">U.S.</a>    allies in the  <b>Gulf</b> to acquire a  ballistic missile defense system   to counter long range  <b>weapons</b> in the hands of countries such as   <a class="wiki" href="http://en.wikipedia.org/wiki/Iran" cat="nation	country	state	republic">Iran</a>    and   <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraq</a>   . <br><br>  <b>Cohen</b> said the  <a class="wiki" href="http://en.wikipedia.org/wiki/United_States" cat="state	country	colony	nation	establishment	member">United States</a>  has five  <b>defense systems</b> under  <b>research and development</b> and "we hope we hope we can share that  <b>technology</b> with   <a class="wiki" href="http://en.wikipedia.org/wiki/Bahrain" cat="country	state">Bahrain</a>    and other  <a class="wiki" href="http://en.wikipedia.org/wiki/Arab_States_of_the_Persian_Gulf" cat="">Gulf countries</a> .'' <br><br> He was speaking to reporters before leaving for   <a class="wiki" href="http://en.wikipedia.org/wiki/Qatar" cat="family	group">Qatar</a>   , his second stop in a six-nation  <b>Gulf</b> tour, which includes the   <a class="wiki" href="http://en.wikipedia.org/wiki/United_Arab_Emirates" cat="subdivision	list">United Arab Emirates</a>   ,   <a class="wiki" href="http://en.wikipedia.org/wiki/Oman" cat="">Oman</a>   ,  <a class="wiki" href="http://en.wikipedia.org/wiki/Kuwait" cat="state	country">Kuwait</a>  and   <a class="wiki" href="http://en.wikipedia.org/wiki/Saudi_Arabia" cat="country	state	nation">Saudi Arabia</a>   . <br><br> "Because of the  <b>proliferation</b> of  <b>missile technology</b> globally but especially in the  <a class="wiki" href="http://en.wikipedia.org/wiki/Persian_Gulf" cat="">Gulf region</a> , we believe it's important'' to look at ways to cooperate with U.S.  <b>allies</b>, said  <b>Cohen</b>. <br><br> "I think it becomes imperative that countries cooperate and develop a  <b>theater</b>  <b>missile</b> protection system for their people and for their forces,'' said  <b>Cohen</b>, citing threats from  <a class="wiki" href="http://en.wikipedia.org/wiki/Iran" cat="nation	country	state	republic">Iran</a>  and  <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraq</a> . <br><br>  <b>The United States</b> sees  <a class="wiki" href="http://en.wikipedia.org/wiki/Iran–Iraq_border" cat="">Iraq and Iran</a> , which recently tested a  <b>long-range missile</b>, as major threats to the  <a class="wiki" href="http://en.wikipedia.org/wiki/Persian_Gulf" cat="">Gulf region</a> . <br><br>  <b>Cohen</b> said  <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraq</a> , under   <a class="wiki" href="http://en.wikipedia.org/wiki/United_Nations" cat="nation	system	supraorganizations	establishment	prize">U.N.</a>      <b>sanctions</b> , continues efforts to acquire missile technology that has a longer than permissible range. <br><br>
+</ANNOTATION>
+*Entity:[Gulf,textSpan=(37-41)]	-Disambiguation:(tid=24761, Title name=Persian_Gulf) gold wikification:=Persian_Gulf isCorrectPrediction=Correct
+*Entity:[U.S. Defense,textSpan=(59-71)]	-Disambiguation:(tid=7279897, Title name=United_States_Department_of_Defense) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[William Cohen,textSpan=(83-96)]	-Disambiguation:(tid=375197, Title name=William_Cohen) gold wikification:=William_Cohen isCorrectPrediction=Correct
+*Entity:[Saturday,textSpan=(104-112)]	-Disambiguation:(tid=54631, Title name=Saturday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[U.S.,textSpan=(146-150)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=United_States isCorrectPrediction=Correct
+*Entity:[the Gulf,textSpan=(163-171)]	-Disambiguation:(tid=182000, Title name=Gulf_War) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gulf,textSpan=(167-171)]	-Disambiguation:(tid=24761, Title name=Persian_Gulf) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[acquire,textSpan=(175-182)]	-Disambiguation:(tid=20769, Title name=Mergers_and_acquisitions) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ballistic missile defense system,textSpan=(186-218)]	-Disambiguation:*null* gold wikification:=Missile_defense isCorrectPrediction=Incorrect
+*Entity:[counter,textSpan=(224-231)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[long,textSpan=(232-236)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[long range,textSpan=(232-242)]	-Disambiguation:(tid=4579521, Title name=Range_(aircraft)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[range,textSpan=(237-242)]	-Disambiguation:(tid=26317, Title name=Range) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[weapons,textSpan=(243-250)]	-Disambiguation:(tid=21785, Title name=Nuclear_weapon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the hands,textSpan=(254-263)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hands,textSpan=(258-263)]	-Disambiguation:(tid=221081, Title name=Hand_(unit)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[countries,textSpan=(267-276)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran and Iraq,textSpan=(286-302)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran,textSpan=(286-290)]	-Disambiguation:(tid=14653, Title name=Iran) gold wikification:=Iran isCorrectPrediction=Correct
+*Entity:[Iraq,textSpan=(298-302)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=Iraq isCorrectPrediction=Correct
+*Entity:[Cohen,textSpan=(309-314)]	-Disambiguation:(tid=375197, Title name=William_Cohen) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the United States,textSpan=(320-337)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United,textSpan=(324-330)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United States,textSpan=(324-337)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[States,textSpan=(331-337)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[defense,textSpan=(347-354)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[defense systems,textSpan=(347-362)]	-Disambiguation:(tid=33496, Title name=Weapon) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[systems,textSpan=(355-362)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[research,textSpan=(369-377)]	-Disambiguation:(tid=25524, Title name=Research) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[research and development,textSpan=(369-393)]	-Disambiguation:(tid=254769, Title name=Research_and_development) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[development,textSpan=(382-393)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[share,textSpan=(422-427)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[technology,textSpan=(433-443)]	-Disambiguation:(tid=29816, Title name=Technology) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Bahrain,textSpan=(450-457)]	-Disambiguation:(tid=3452, Title name=Bahrain) gold wikification:=Bahrain isCorrectPrediction=Correct
+*Entity:[Gulf,textSpan=(470-474)]	-Disambiguation:(tid=24761, Title name=Persian_Gulf) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gulf countries,textSpan=(470-484)]	-Disambiguation:(tid=18443827, Title name=Arab_States_of_the_Persian_Gulf) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[countries,textSpan=(475-484)]	-Disambiguation:(tid=5165, Title name=Country) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[He,textSpan=(491-493)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[speaking,textSpan=(498-506)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reporters,textSpan=(510-519)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Qatar,textSpan=(540-545)]	-Disambiguation:(tid=8238258, Title name=Qatar) gold wikification:=Qatar isCorrectPrediction=Correct
+*Entity:[his second,textSpan=(549-559)]	-Disambiguation:(tid=170516, Title name=Shirley_Jones) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[second,textSpan=(553-559)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gulf,textSpan=(581-585)]	-Disambiguation:(tid=24761, Title name=Persian_Gulf) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tour,textSpan=(586-590)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United Arab Emirates,textSpan=(612-632)]	-Disambiguation:(tid=69328, Title name=United_Arab_Emirates) gold wikification:=United_Arab_Emirates isCorrectPrediction=Correct
+*Entity:[Oman,textSpan=(637-641)]	-Disambiguation:(tid=22316, Title name=Oman) gold wikification:=Oman isCorrectPrediction=Correct
+*Entity:[Oman , Kuwait and Saudi Arabia,textSpan=(637-669)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Kuwait and Saudi Arabia,textSpan=(645-669)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Kuwait,textSpan=(645-651)]	-Disambiguation:(tid=7515890, Title name=Kuwait) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saudi,textSpan=(657-662)]	-Disambiguation:(tid=349303, Title name=Saudi_Arabia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saudi Arabia,textSpan=(657-669)]	-Disambiguation:(tid=349303, Title name=Saudi_Arabia) gold wikification:=Saudi_Arabia isCorrectPrediction=Correct
+*Entity:[Arabia,textSpan=(663-669)]	-Disambiguation:(tid=349303, Title name=Saudi_Arabia) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[proliferation,textSpan=(692-705)]	-Disambiguation:(tid=22158, Title name=Nuclear_proliferation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[missile,textSpan=(709-716)]	-Disambiguation:(tid=38025, Title name=Ballistic_missile) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[missile technology,textSpan=(709-727)]	-Disambiguation:(tid=19594, Title name=Missile) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[technology,textSpan=(717-727)]	-Disambiguation:(tid=29816, Title name=Technology) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[globally,textSpan=(728-736)]	-Disambiguation:(tid=46313, Title name=Globalization) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[especially,textSpan=(741-751)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gulf,textSpan=(759-763)]	-Disambiguation:(tid=24761, Title name=Persian_Gulf) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gulf region,textSpan=(759-770)]	-Disambiguation:(tid=24761, Title name=Persian_Gulf) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[region,textSpan=(764-770)]	-Disambiguation:(tid=24761, Title name=Persian_Gulf) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[look,textSpan=(803-807)]	-Disambiguation:(tid=646437, Title name=Look) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ways,textSpan=(811-815)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cooperate,textSpan=(819-828)]	-Disambiguation:(tid=511556, Title name=Cooperation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[U.S.,textSpan=(834-838)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[allies,textSpan=(839-845)]	-Disambiguation:(tid=2198844, Title name=Allies_of_World_War_II) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cohen,textSpan=(852-857)]	-Disambiguation:(tid=375197, Title name=William_Cohen) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[I,textSpan=(863-864)]	-Disambiguation:(tid=14778, Title name=I) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[countries,textSpan=(898-907)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cooperate,textSpan=(908-917)]	-Disambiguation:(tid=511556, Title name=Cooperation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[develop,textSpan=(922-929)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a theater,textSpan=(930-939)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[theater,textSpan=(932-939)]	-Disambiguation:(tid=29776, Title name=Theatre) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[missile,textSpan=(940-947)]	-Disambiguation:(tid=38025, Title name=Ballistic_missile) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[protection,textSpan=(948-958)]	-Disambiguation:(tid=1480532, Title name=Protection) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[people,textSpan=(976-982)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[forces,textSpan=(997-1003)]	-Disambiguation:(tid=18905, Title name=Armed_forces) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cohen,textSpan=(1012-1017)]	-Disambiguation:(tid=375197, Title name=William_Cohen) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[threats,textSpan=(1026-1033)]	-Disambiguation:(tid=720630, Title name=Self-defence_in_international_law) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran and Iraq,textSpan=(1039-1052)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran,textSpan=(1039-1043)]	-Disambiguation:(tid=14653, Title name=Iran) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq,textSpan=(1048-1052)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The United,textSpan=(1057-1067)]	-Disambiguation:(tid=3658264, Title name=The_United) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The United States,textSpan=(1057-1074)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United States,textSpan=(1061-1074)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[United,textSpan=(1061-1067)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[States,textSpan=(1068-1074)]	-Disambiguation:(tid=3434750, Title name=United_States) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq and Iran,textSpan=(1080-1093)]	-Disambiguation:(tid=10282111, Title name=Iran–Iraq_border) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq,textSpan=(1080-1084)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran,textSpan=(1089-1093)]	-Disambiguation:(tid=14653, Title name=Iran) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[long-range,textSpan=(1119-1129)]	-Disambiguation:(tid=10378254, Title name=Long_Range) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[long-range missile,textSpan=(1119-1137)]	-Disambiguation:(tid=1147739, Title name=Ghauri) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[missile,textSpan=(1130-1137)]	-Disambiguation:(tid=28717, Title name=Scud) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[major,textSpan=(1142-1147)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[threats,textSpan=(1148-1155)]	-Disambiguation:(tid=720630, Title name=Self-defence_in_international_law) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gulf,textSpan=(1163-1167)]	-Disambiguation:(tid=182000, Title name=Gulf_War) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Gulf region,textSpan=(1163-1174)]	-Disambiguation:(tid=24761, Title name=Persian_Gulf) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[region,textSpan=(1168-1174)]	-Disambiguation:(tid=24761, Title name=Persian_Gulf) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cohen,textSpan=(1179-1184)]	-Disambiguation:(tid=375197, Title name=William_Cohen) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq,textSpan=(1190-1194)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[U.N.,textSpan=(1203-1207)]	-Disambiguation:(tid=31769, Title name=United_Nations) gold wikification:=United_Nations isCorrectPrediction=Correct
+*Entity:[sanctions,textSpan=(1211-1220)]	-Disambiguation:(tid=411320, Title name=Economic_sanctions) gold wikification:=International_sanctions isCorrectPrediction=Incorrect
+*Entity:[acquire,textSpan=(1244-1251)]	-Disambiguation:(tid=20769, Title name=Mergers_and_acquisitions) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[missile technology,textSpan=(1252-1270)]	-Disambiguation:(tid=19594, Title name=Missile) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[missile,textSpan=(1252-1259)]	-Disambiguation:(tid=19594, Title name=Missile) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[technology,textSpan=(1260-1270)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[longer,textSpan=(1282-1288)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[permissible,textSpan=(1294-1305)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[range,textSpan=(1306-1311)]	-Disambiguation:(tid=26317, Title name=Range) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Gulf' start in text:37 end in text: 41; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'U.S. Defense' start in text:59 end in text: 71; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'William Cohen' start in text:83 end in text: 96; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saturday' start in text:104 end in text: 112; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'U.S.' start in text:146 end in text: 150; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the Gulf' start in text:163 end in text: 171; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Gulf' start in text:167 end in text: 171; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'acquire' start in text:175 end in text: 182; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ballistic missile defense system' start in text:186 end in text: 218; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'counter' start in text:224 end in text: 231; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'long' start in text:232 end in text: 236; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'long range' start in text:232 end in text: 242; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'range' start in text:237 end in text: 242; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'weapons' start in text:243 end in text: 250; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the hands' start in text:254 end in text: 263; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'hands' start in text:258 end in text: 263; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'countries' start in text:267 end in text: 276; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iran and Iraq' start in text:286 end in text: 302; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Iran' start in text:286 end in text: 290; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq' start in text:298 end in text: 302; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cohen' start in text:309 end in text: 314; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the United States' start in text:320 end in text: 337; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United' start in text:324 end in text: 330; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United States' start in text:324 end in text: 337; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'States' start in text:331 end in text: 337; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'defense' start in text:347 end in text: 354; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'defense systems' start in text:347 end in text: 362; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'systems' start in text:355 end in text: 362; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'research' start in text:369 end in text: 377; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'research and development' start in text:369 end in text: 393; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'development' start in text:382 end in text: 393; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'share' start in text:422 end in text: 427; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'technology' start in text:433 end in text: 443; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Bahrain' start in text:450 end in text: 457; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Gulf' start in text:470 end in text: 474; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Gulf countries' start in text:470 end in text: 484; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'countries' start in text:475 end in text: 484; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'He' start in text:491 end in text: 493; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'speaking' start in text:498 end in text: 506; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reporters' start in text:510 end in text: 519; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Qatar' start in text:540 end in text: 545; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'his second' start in text:549 end in text: 559; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'second' start in text:553 end in text: 559; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Gulf' start in text:581 end in text: 585; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tour' start in text:586 end in text: 590; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United Arab Emirates' start in text:612 end in text: 632; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Oman' start in text:637 end in text: 641; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Oman , Kuwait and Saudi Arabia' start in text:637 end in text: 669; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Kuwait and Saudi Arabia' start in text:645 end in text: 669; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Kuwait' start in text:645 end in text: 651; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saudi' start in text:657 end in text: 662; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saudi Arabia' start in text:657 end in text: 669; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Arabia' start in text:663 end in text: 669; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'proliferation' start in text:692 end in text: 705; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'missile' start in text:709 end in text: 716; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'missile technology' start in text:709 end in text: 727; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'technology' start in text:717 end in text: 727; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'globally' start in text:728 end in text: 736; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'especially' start in text:741 end in text: 751; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Gulf' start in text:759 end in text: 763; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Gulf region' start in text:759 end in text: 770; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'region' start in text:764 end in text: 770; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'look' start in text:803 end in text: 807; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ways' start in text:811 end in text: 815; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cooperate' start in text:819 end in text: 828; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'U.S.' start in text:834 end in text: 838; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'allies' start in text:839 end in text: 845; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cohen' start in text:852 end in text: 857; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'I' start in text:863 end in text: 864; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'countries' start in text:898 end in text: 907; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cooperate' start in text:908 end in text: 917; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'develop' start in text:922 end in text: 929; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a theater' start in text:930 end in text: 939; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'theater' start in text:932 end in text: 939; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'missile' start in text:940 end in text: 947; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'protection' start in text:948 end in text: 958; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'people' start in text:976 end in text: 982; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'forces' start in text:997 end in text: 1003; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cohen' start in text:1012 end in text: 1017; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'threats' start in text:1026 end in text: 1033; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iran and Iraq' start in text:1039 end in text: 1052; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Iran' start in text:1039 end in text: 1043; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq' start in text:1048 end in text: 1052; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The United' start in text:1057 end in text: 1067; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'The United States' start in text:1057 end in text: 1074; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United States' start in text:1061 end in text: 1074; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'United' start in text:1061 end in text: 1067; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'States' start in text:1068 end in text: 1074; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq and Iran' start in text:1080 end in text: 1093; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq' start in text:1080 end in text: 1084; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iran' start in text:1089 end in text: 1093; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'long-range' start in text:1119 end in text: 1129; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'long-range missile' start in text:1119 end in text: 1137; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'missile' start in text:1130 end in text: 1137; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'major' start in text:1142 end in text: 1147; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'threats' start in text:1148 end in text: 1155; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Gulf' start in text:1163 end in text: 1167; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Gulf region' start in text:1163 end in text: 1174; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'region' start in text:1168 end in text: 1174; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cohen' start in text:1179 end in text: 1184; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq' start in text:1190 end in text: 1194; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'U.N.' start in text:1203 end in text: 1207; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sanctions' start in text:1211 end in text: 1220; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'acquire' start in text:1244 end in text: 1251; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'missile technology' start in text:1252 end in text: 1270; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'missile' start in text:1252 end in text: 1259; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'technology' start in text:1260 end in text: 1270; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'longer' start in text:1282 end in text: 1288; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'permissible' start in text:1294 end in text: 1305; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'range' start in text:1306 end in text: 1311; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

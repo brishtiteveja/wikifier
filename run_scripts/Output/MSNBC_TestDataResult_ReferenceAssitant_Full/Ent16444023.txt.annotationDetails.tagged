@@ -1,0 +1,415 @@
+<ANNOTATION>
+ <b>Timberlake</b>,  <b>Diaz</b> reportedly break up<br>Former N' Sync  <b>singer</b> seeing former  <b>flame</b>,  <b>magazine</b> reports<br><br> <a class="wiki" href="http://en.wikipedia.org/wiki/Justin_Timberlake" cat="member	dancer	person	christian	artist	singer	actor	musician	winner	baptists">Justin Timberlake</a>  and  <a class="wiki" href="http://en.wikipedia.org/wiki/Cameron_Diaz" cat="actor	person	model	entertainer">Cameron Diaz</a>  have called it quits, according to a report in  <a class="wiki" href="http://en.wikipedia.org/wiki/Star_(magazine)" cat="magazine">Star magazine</a> .<br><br>According to Star,  <b>Diaz</b>, 34, spent  <a class="wiki" href="http://en.wikipedia.org/wiki/Christmas" cat="">Christmas</a>  with her family in  <a class="wiki" href="http://en.wikipedia.org/wiki/Vail,_Colorado" cat="">Vail</a> ,  <b>Colo.</b>, while  <b>Timberlake</b>, 25, was with his family near  <a class="wiki" href="http://en.wikipedia.org/wiki/Memphis,_Tennessee" cat="train">Memphis</a> .  <a class="wiki" href="http://en.wikipedia.org/wiki/Rolling_Stone" cat="">The magazine</a>  quotes a source who says the former  <a class="wiki" href="http://en.wikipedia.org/wiki/'N_Sync" cat="group	artist	band	quintet">N' Sync</a>   <b>singer</b> told friends that he and the  <b>actress</b> had broken up.  <a class="wiki" href="http://en.wikipedia.org/wiki/Eric_Forrester_and_Stephanie_Douglas" cat="">The couple</a>  were last seen together on Dec. 16 when she introduced his  <b>musical</b> performance on " <a class="wiki" href="http://en.wikipedia.org/wiki/Saturday_Night_Live" cat="person	educator	parameter">Saturday Night Live</a> ."<br><br> <b>Diaz</b> and  <b>Timberlake</b> started dating shortly after they met each other at the 2003  <a class="wiki" href="http://en.wikipedia.org/wiki/Nickelodeon_Kids'_Choice_Awards" cat="">Kids' Choice Awards</a> .<br><br> <a class="wiki" href="http://en.wikipedia.org/wiki/Rolling_Stone" cat="">The magazine</a>  also reported that  <b>Timberlake</b> has started seeing a former  <b>flame</b>,  <a class="wiki" href="http://en.wikipedia.org/wiki/Innosense" cat="group">Veronica Finn</a> . The pair dated in the late '90s before he began dating  <a class="wiki" href="http://en.wikipedia.org/wiki/Britney_Spears" cat="actor	dancer	musician	person	singer	baptists	participant	member	winner	artist	alumnus	director">Britney Spears</a> .  <a class="wiki" href="http://en.wikipedia.org/wiki/Innosense" cat="group">Finn</a>  and  <b>Spears</b> were briefly in a  <b>girl group</b> together called  <a class="wiki" href="http://en.wikipedia.org/wiki/Innosense" cat="group">Innosense</a> , according to  <b>music</b>  <b>impresario</b>  <a class="wiki" href="http://en.wikipedia.org/wiki/Lou_Pearlman" cat="producer	executive	jew	fraudsters	criminal	person	scandal">Lou Pearlman</a> .<br>
+</ANNOTATION>
+*Entity:[Timberlake,textSpan=(0-10)]	-Disambiguation:(tid=69323, Title name=Justin_Timberlake) gold wikification:=Justin_Timberlake isCorrectPrediction=Correct
+*Entity:[Timberlake, Diaz,textSpan=(0-16)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Diaz,textSpan=(12-16)]	-Disambiguation:(tid=42104, Title name=Cameron_Diaz) gold wikification:=Cameron_Diaz isCorrectPrediction=Correct
+*Entity:[Former N' Sync,textSpan=(38-52)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[N� Sync,textSpan=(45-52)]	-Disambiguation:*null* gold wikification:='N_Sync isCorrectPrediction=Incorrect
+*Entity:[N',textSpan=(45-47)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Sync,textSpan=(48-52)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[singer,textSpan=(53-59)]	-Disambiguation:(tid=162707, Title name=Singing) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flame,textSpan=(74-79)]	-Disambiguation:(tid=212427, Title name=Flame) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[magazine,textSpan=(81-89)]	-Disambiguation:(tid=21001, Title name=Magazine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reports,textSpan=(90-97)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Justin Timberlake and Cameron Diaz,textSpan=(101-135)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Justin,textSpan=(101-107)]	-Disambiguation:(tid=69323, Title name=Justin_Timberlake) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Justin Timberlake,textSpan=(101-118)]	-Disambiguation:(tid=69323, Title name=Justin_Timberlake) gold wikification:=Justin_Timberlake isCorrectPrediction=Correct
+*Entity:[Timberlake,textSpan=(108-118)]	-Disambiguation:(tid=69323, Title name=Justin_Timberlake) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cameron,textSpan=(123-130)]	-Disambiguation:(tid=42104, Title name=Cameron_Diaz) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cameron Diaz,textSpan=(123-135)]	-Disambiguation:(tid=42104, Title name=Cameron_Diaz) gold wikification:=Cameron_Diaz isCorrectPrediction=Correct
+*Entity:[Diaz,textSpan=(131-135)]	-Disambiguation:(tid=42104, Title name=Cameron_Diaz) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[called,textSpan=(141-147)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a report,textSpan=(171-179)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[report,textSpan=(173-179)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Star,textSpan=(183-187)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Star magazine,textSpan=(183-196)]	-Disambiguation:(tid=1949986, Title name=Star_(magazine)) gold wikification:=Star_(magazine) isCorrectPrediction=Correct
+*Entity:[magazine,textSpan=(188-196)]	-Disambiguation:(tid=1949986, Title name=Star_(magazine)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Star,textSpan=(214-218)]	-Disambiguation:*null* gold wikification:=Star_(magazine) isCorrectPrediction=Incorrect
+*Entity:[Star, Diaz,textSpan=(214-224)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Diaz,textSpan=(220-224)]	-Disambiguation:(tid=42104, Title name=Cameron_Diaz) gold wikification:=Cameron_Diaz isCorrectPrediction=Correct
+*Entity:[34,textSpan=(226-228)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Christmas,textSpan=(236-245)]	-Disambiguation:(tid=6237, Title name=Christmas) gold wikification:=Christmas isCorrectPrediction=Correct
+*Entity:[her family,textSpan=(251-261)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[family,textSpan=(255-261)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Vail,textSpan=(265-269)]	-Disambiguation:(tid=108471, Title name=Vail,_Colorado) gold wikification:=Vail,_Colorado isCorrectPrediction=Correct
+*Entity:[Vail, Colo,textSpan=(265-275)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Colo.,textSpan=(271-276)]	-Disambiguation:(tid=5399, Title name=Colorado) gold wikification:=Colorado isCorrectPrediction=Correct
+*Entity:[Timberlake,textSpan=(284-294)]	-Disambiguation:(tid=69323, Title name=Justin_Timberlake) gold wikification:=Justin_Timberlake isCorrectPrediction=Correct
+*Entity:[25,textSpan=(296-298)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[his family,textSpan=(309-319)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[family,textSpan=(313-319)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Memphis,textSpan=(325-332)]	-Disambiguation:(tid=48607, Title name=Memphis,_Tennessee) gold wikification:=Memphis,_Tennessee isCorrectPrediction=Correct
+*Entity:[The magazine,textSpan=(334-346)]	-Disambiguation:(tid=25441, Title name=Rolling_Stone) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[magazine,textSpan=(338-346)]	-Disambiguation:(tid=21001, Title name=Magazine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a source,textSpan=(354-362)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[source,textSpan=(356-362)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the former,textSpan=(372-382)]	-Disambiguation:(tid=2213203, Title name=Langtoft,_East_Riding_of_Yorkshire) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[N',textSpan=(383-385)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[N' Sync,textSpan=(383-390)]	-Disambiguation:(tid=68133, Title name='N_Sync) gold wikification:='N_Sync isCorrectPrediction=Correct
+*Entity:[Sync,textSpan=(386-390)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[singer,textSpan=(391-397)]	-Disambiguation:(tid=162707, Title name=Singing) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[friends,textSpan=(403-410)]	-Disambiguation:(tid=11315, Title name=Friends) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the actress,textSpan=(423-434)]	-Disambiguation:(tid=157655, Title name=Prunella_Scales) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[actress,textSpan=(427-434)]	-Disambiguation:(tid=753, Title name=Actor) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[broken,textSpan=(439-445)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The couple,textSpan=(450-460)]	-Disambiguation:(tid=15899692, Title name=Eric_Forrester_and_Stephanie_Douglas) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[couple,textSpan=(454-460)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[seen,textSpan=(471-475)]	-Disambiguation:(tid=241675, Title name=Visual_perception) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Dec.,textSpan=(488-492)]	-Disambiguation:(tid=8612, Title name=Declination) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[16,textSpan=(493-495)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[musical,textSpan=(520-527)]	-Disambiguation:(tid=20572, Title name=Musical_theatre) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[musical performance,textSpan=(520-539)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[performance,textSpan=(528-539)]	-Disambiguation:(tid=224515, Title name=Performance) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saturday Night Live,textSpan=(544-563)]	-Disambiguation:(tid=763013, Title name=Saturday_Night_Live) gold wikification:=Saturday_Night_Live isCorrectPrediction=Correct
+*Entity:[Saturday Night,textSpan=(544-558)]	-Disambiguation:(tid=763013, Title name=Saturday_Night_Live) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Saturday,textSpan=(544-552)]	-Disambiguation:(tid=763013, Title name=Saturday_Night_Live) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Night,textSpan=(553-558)]	-Disambiguation:(tid=763013, Title name=Saturday_Night_Live) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Live,textSpan=(559-563)]	-Disambiguation:(tid=763013, Title name=Saturday_Night_Live) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Diaz,textSpan=(569-573)]	-Disambiguation:(tid=42104, Title name=Cameron_Diaz) gold wikification:=Cameron_Diaz isCorrectPrediction=Correct
+*Entity:[Diaz and Timberlake,textSpan=(569-588)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Timberlake,textSpan=(578-588)]	-Disambiguation:(tid=69323, Title name=Justin_Timberlake) gold wikification:=Justin_Timberlake isCorrectPrediction=Correct
+*Entity:[started,textSpan=(589-596)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dating,textSpan=(597-603)]	-Disambiguation:(tid=9919443, Title name=Dating) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[each other,textSpan=(627-637)]	-Disambiguation:(tid=5658, Title name=Cannibalism) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Kids' Choice Awards,textSpan=(650-669)]	-Disambiguation:(tid=1506983, Title name=Nickelodeon_Kids'_Choice_Awards) gold wikification:=Nickelodeon_Kids'_Choice_Awards isCorrectPrediction=Correct
+*Entity:[The magazine,textSpan=(674-686)]	-Disambiguation:(tid=25441, Title name=Rolling_Stone) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[magazine,textSpan=(678-686)]	-Disambiguation:(tid=21001, Title name=Magazine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Timberlake,textSpan=(706-716)]	-Disambiguation:(tid=69323, Title name=Justin_Timberlake) gold wikification:=Justin_Timberlake isCorrectPrediction=Correct
+*Entity:[started,textSpan=(721-728)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[seeing,textSpan=(729-735)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flame,textSpan=(745-750)]	-Disambiguation:(tid=212427, Title name=Flame) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Veronica Finn,textSpan=(752-765)]	-Disambiguation:(tid=8094112, Title name=Innosense) gold wikification:=Innosense isCorrectPrediction=Correct
+*Entity:[Veronica,textSpan=(752-760)]	-Disambiguation:(tid=8094112, Title name=Innosense) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Finn,textSpan=(761-765)]	-Disambiguation:(tid=8094112, Title name=Innosense) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pair,textSpan=(771-775)]	-Disambiguation:(tid=386266, Title name=Pair) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[began,textSpan=(809-814)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dating,textSpan=(815-821)]	-Disambiguation:(tid=9919443, Title name=Dating) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Britney,textSpan=(822-829)]	-Disambiguation:(tid=3382, Title name=Britney_Spears) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Britney Spears,textSpan=(822-836)]	-Disambiguation:(tid=3382, Title name=Britney_Spears) gold wikification:=Britney_Spears isCorrectPrediction=Correct
+*Entity:[Spears,textSpan=(830-836)]	-Disambiguation:(tid=3382, Title name=Britney_Spears) gold wikification:=Britney_Spears isCorrectPrediction=Correct
+*Entity:[Finn,textSpan=(838-842)]	-Disambiguation:(tid=8094112, Title name=Innosense) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Finn and Spears,textSpan=(838-853)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Spears,textSpan=(847-853)]	-Disambiguation:(tid=3382, Title name=Britney_Spears) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a girl,textSpan=(870-876)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[girl,textSpan=(872-876)]	-Disambiguation:(tid=1723133, Title name=Girl) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[girl group,textSpan=(872-882)]	-Disambiguation:(tid=12907, Title name=Girl_group) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[group,textSpan=(877-882)]	-Disambiguation:(tid=20180, Title name=Musical_ensemble) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Innosense,textSpan=(899-908)]	-Disambiguation:(tid=8094112, Title name=Innosense) gold wikification:=Innosense isCorrectPrediction=Correct
+*Entity:[music,textSpan=(923-928)]	-Disambiguation:(tid=18839, Title name=Music) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[impresario,textSpan=(929-939)]	-Disambiguation:(tid=413066, Title name=Impresario) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Lou Pearlman,textSpan=(940-952)]	-Disambiguation:(tid=1074424, Title name=Lou_Pearlman) gold wikification:=Lou_Pearlman isCorrectPrediction=Correct
+*Entity:[Lou,textSpan=(940-943)]	-Disambiguation:(tid=1074424, Title name=Lou_Pearlman) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Pearlman,textSpan=(944-952)]	-Disambiguation:(tid=1074424, Title name=Lou_Pearlman) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Timberlake' start in text:0 end in text: 10; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Timberlake, Diaz' start in text:0 end in text: 16; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Diaz' start in text:12 end in text: 16; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Former N' Sync' start in text:38 end in text: 52; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'N� Sync' start in text:45 end in text: 52; Entity types: NER,LOC,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'N'' start in text:45 end in text: 47; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sync' start in text:48 end in text: 52; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'singer' start in text:53 end in text: 59; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flame' start in text:74 end in text: 79; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'magazine' start in text:81 end in text: 89; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reports' start in text:90 end in text: 97; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Justin Timberlake and Cameron Diaz' start in text:101 end in text: 135; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Justin' start in text:101 end in text: 107; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Justin Timberlake' start in text:101 end in text: 118; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Timberlake' start in text:108 end in text: 118; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cameron' start in text:123 end in text: 130; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cameron Diaz' start in text:123 end in text: 135; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Diaz' start in text:131 end in text: 135; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'called' start in text:141 end in text: 147; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a report' start in text:171 end in text: 179; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'report' start in text:173 end in text: 179; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Star' start in text:183 end in text: 187; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Star magazine' start in text:183 end in text: 196; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'magazine' start in text:188 end in text: 196; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Star' start in text:214 end in text: 218; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Star, Diaz' start in text:214 end in text: 224; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Diaz' start in text:220 end in text: 224; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '34' start in text:226 end in text: 228; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Christmas' start in text:236 end in text: 245; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'her family' start in text:251 end in text: 261; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'family' start in text:255 end in text: 261; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Vail' start in text:265 end in text: 269; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Vail, Colo' start in text:265 end in text: 275; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Colo.' start in text:271 end in text: 276; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Timberlake' start in text:284 end in text: 294; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '25' start in text:296 end in text: 298; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'his family' start in text:309 end in text: 319; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'family' start in text:313 end in text: 319; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Memphis' start in text:325 end in text: 332; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The magazine' start in text:334 end in text: 346; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'magazine' start in text:338 end in text: 346; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a source' start in text:354 end in text: 362; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'source' start in text:356 end in text: 362; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the former' start in text:372 end in text: 382; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'N'' start in text:383 end in text: 385; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'N' Sync' start in text:383 end in text: 390; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Sync' start in text:386 end in text: 390; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'singer' start in text:391 end in text: 397; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'friends' start in text:403 end in text: 410; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the actress' start in text:423 end in text: 434; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'actress' start in text:427 end in text: 434; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'broken' start in text:439 end in text: 445; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The couple' start in text:450 end in text: 460; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'couple' start in text:454 end in text: 460; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'seen' start in text:471 end in text: 475; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Dec.' start in text:488 end in text: 492; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '16' start in text:493 end in text: 495; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'musical' start in text:520 end in text: 527; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'musical performance' start in text:520 end in text: 539; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'performance' start in text:528 end in text: 539; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saturday Night Live' start in text:544 end in text: 563; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saturday Night' start in text:544 end in text: 558; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Saturday' start in text:544 end in text: 552; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Night' start in text:553 end in text: 558; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Live' start in text:559 end in text: 563; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Diaz' start in text:569 end in text: 573; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Diaz and Timberlake' start in text:569 end in text: 588; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Timberlake' start in text:578 end in text: 588; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'started' start in text:589 end in text: 596; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dating' start in text:597 end in text: 603; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'each other' start in text:627 end in text: 637; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Kids' Choice Awards' start in text:650 end in text: 669; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The magazine' start in text:674 end in text: 686; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'magazine' start in text:678 end in text: 686; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Timberlake' start in text:706 end in text: 716; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'started' start in text:721 end in text: 728; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'seeing' start in text:729 end in text: 735; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flame' start in text:745 end in text: 750; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Veronica Finn' start in text:752 end in text: 765; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Veronica' start in text:752 end in text: 760; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Finn' start in text:761 end in text: 765; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pair' start in text:771 end in text: 775; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'began' start in text:809 end in text: 814; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dating' start in text:815 end in text: 821; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Britney' start in text:822 end in text: 829; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Britney Spears' start in text:822 end in text: 836; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Spears' start in text:830 end in text: 836; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Finn' start in text:838 end in text: 842; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Finn and Spears' start in text:838 end in text: 853; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Spears' start in text:847 end in text: 853; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a girl' start in text:870 end in text: 876; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'girl' start in text:872 end in text: 876; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'girl group' start in text:872 end in text: 882; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'group' start in text:877 end in text: 882; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Innosense' start in text:899 end in text: 908; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'music' start in text:923 end in text: 928; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'impresario' start in text:929 end in text: 939; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lou Pearlman' start in text:940 end in text: 952; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Lou' start in text:940 end in text: 943; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Pearlman' start in text:944 end in text: 952; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

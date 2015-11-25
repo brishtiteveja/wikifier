@@ -1,0 +1,752 @@
+<ANNOTATION>
+Upgrade makes  <b>aging</b>  <a class="wiki" href="http://en.wikipedia.org/wiki/Mars" cat="planet">Mars</a>   <b>rovers</b> smarter<br> <b>Engineers</b> transmitted new  <b>software</b> to the rovers' onboard computers<br><br> <a class="wiki" href="http://en.wikipedia.org/wiki/Los_Angeles" cat="train	introduction">LOS ANGELES</a>  - The  <b>twin</b>  <a class="wiki" href="http://en.wikipedia.org/wiki/Mars_Exploration_Rover" cat="vehicle	list	winner	mission">Mars rovers</a>  are getting wiser with age.<br><br> <b>Engineers</b> have transmitted new  <b>flight</b>  <b>software</b> to the rovers' onboard  <b>computers</b> ' just in time for the third  <b>anniversary</b> of their landing.  <a class="wiki" href="http://en.wikipedia.org/wiki/Software" cat="">The software</a>  is aimed at boosting their  <b>intelligence</b> and  <b>independence</b> so that they can roll around the  <a class="wiki" href="http://en.wikipedia.org/wiki/Mars" cat="planet">Red Planet</a>  with less help from  <b>humans</b>.<br><br>"We're teaching an  <b>old dog</b> new tricks," said John Callas, the  <b>mission</b>  <b>project manager</b> with the  <a class="wiki" href="http://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory" cat="landmark	establishment	site	building">Jet Propulsion Laboratory</a> , the  <a class="wiki" href="http://en.wikipedia.org/wiki/NASA" cat="agency">NASA</a>  agency in charge of the  <b>rovers</b>.<br><br>Among the rovers' new skills is the ability to automatically recognize and transmit to  <a class="wiki" href="http://en.wikipedia.org/wiki/Earth" cat="">Earth</a>   <b>photographs</b> that they take of swirling  <b>dust devils</b> or floating  <b>clouds</b>. They can also independently  <b>decide</b> whether it is safe to extend its  <b>robotic</b>  <b>arm</b> to  <b>sample</b> a piece of  <b>rock</b>.<br><br>Before,  <b>scientists</b> had to painstakingly  <b>dissect</b>  <b>thousands</b> of images just to find the  <b>frames</b> they need and decide for the rovers whether to use their arms. The  <b>high-tech</b>  <b>upgrades</b> should help save time ' as much as a day because  <b>scientists</b> on  <a class="wiki" href="http://en.wikipedia.org/wiki/Earth" cat="">Earth</a>  don't have to study a rock before sending commands to the  <b>robot</b> to pick it up.<br><br>If successful, the changes could get incorporated into future  <a class="wiki" href="http://en.wikipedia.org/wiki/Exploration_of_Mars" cat="">Mars missions</a> .<br><br> <a class="wiki" href="http://en.wikipedia.org/wiki/Mars_Exploration_Rover" cat="vehicle	list	winner	mission">Spirit and Opportunity</a>  were also fitted with a new  <b>navigation</b> system that allows them to think several steps ahead when faced with an obstacle, allowing them to back out of a  <b>dead end</b> or even  <b>navigate</b> a  <b>maze</b> on their own, Callas said. The  <b>geologic</b> robots have previously  <b>tackled</b> one problem at a time.<br><br> <a class="wiki" href="http://en.wikipedia.org/wiki/Spirit_(rover)" cat="">Spirit</a>  landed three years ago Wednesday and  <a class="wiki" href="http://en.wikipedia.org/wiki/Opportunity_(rover)" cat="">Opportunity</a>  on Jan. 24, 2004. Entering their fourth year of  <b>exploration</b>, both  <b>golf</b> cart-sized  <b>vehicles</b> have long outlasted their  <b>missions</b>, originally planned for about three months. While  <b>scientists</b> are impressed by the rovers' longevity, they admit the  <b>robots</b> could die at any time.<br><br>The rovers' biggest accomplishment is  <b>uncovering</b>  <b>geologic</b>  <b>evidence</b> that  <b>water</b> once flowed on  <a class="wiki" href="http://en.wikipedia.org/wiki/Mars" cat="planet">Mars</a> .  <a class="wiki" href="http://en.wikipedia.org/wiki/Spirit_(rover)" cat="">Spirit</a>  is currently studying  <b>rocks</b> and  <b>soil samples</b> near a  <a class="wiki" href="http://en.wikipedia.org/wiki/Mars" cat="planet">Martian</a>  ridge while  <a class="wiki" href="http://en.wikipedia.org/wiki/Opportunity_(rover)" cat="">Opportunity</a>  is circling the rim of a massive crater for possible ways in.<br>
+</ANNOTATION>
+*Entity:[Upgrade,textSpan=(0-7)]	-Disambiguation:(tid=507143, Title name=Upgrade) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[aging,textSpan=(14-19)]	-Disambiguation:(tid=16413778, Title name=Ageing) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mars rovers,textSpan=(20-31)]	-Disambiguation:*null* gold wikification:=Mars_rover isCorrectPrediction=Incorrect
+*Entity:[Mars,textSpan=(20-24)]	-Disambiguation:(tid=14640471, Title name=Mars) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rovers,textSpan=(25-31)]	-Disambiguation:(tid=10297736, Title name=Rover_(space_exploration)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Engineers,textSpan=(41-50)]	-Disambiguation:(tid=38223, Title name=Engineer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[software,textSpan=(67-75)]	-Disambiguation:(tid=5309, Title name=Software) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[LOS,textSpan=(112-115)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[LOS ANGELES,textSpan=(112-123)]	-Disambiguation:(tid=18110, Title name=Los_Angeles) gold wikification:=*null* isCorrectPrediction=Incorrect
+*Entity:[ANGELES,textSpan=(116-123)]	-Disambiguation:(tid=1887053, Title name=Angeles) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The twin,textSpan=(126-134)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[twin,textSpan=(130-134)]	-Disambiguation:(tid=79238, Title name=Twin) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mars,textSpan=(135-139)]	-Disambiguation:(tid=14640471, Title name=Mars) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mars rovers,textSpan=(135-146)]	-Disambiguation:(tid=252908, Title name=Mars_Exploration_Rover) gold wikification:=Mars_rover isCorrectPrediction=Incorrect
+*Entity:[rovers,textSpan=(140-146)]	-Disambiguation:(tid=10297736, Title name=Rover_(space_exploration)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[age,textSpan=(170-173)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Engineers,textSpan=(178-187)]	-Disambiguation:(tid=38223, Title name=Engineer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[transmitted,textSpan=(193-204)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[flight,textSpan=(209-215)]	-Disambiguation:(tid=159472, Title name=Flight) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[software,textSpan=(216-224)]	-Disambiguation:(tid=5309, Title name=Software) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[computers,textSpan=(248-257)]	-Disambiguation:(tid=7878457, Title name=Computer) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[time,textSpan=(268-272)]	-Disambiguation:(tid=30012, Title name=Time) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the third,textSpan=(277-286)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[anniversary,textSpan=(287-298)]	-Disambiguation:(tid=477069, Title name=Anniversary) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[landing,textSpan=(308-315)]	-Disambiguation:(tid=230159, Title name=Landing) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The software,textSpan=(317-329)]	-Disambiguation:(tid=5309, Title name=Software) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[software,textSpan=(321-329)]	-Disambiguation:(tid=5309, Title name=Software) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[intelligence,textSpan=(357-369)]	-Disambiguation:(tid=519280, Title name=Intelligence) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[independence,textSpan=(374-386)]	-Disambiguation:(tid=62450, Title name=Independence) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[roll,textSpan=(404-408)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the Red Planet,textSpan=(416-430)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Red,textSpan=(420-423)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Red Planet,textSpan=(420-430)]	-Disambiguation:(tid=14640471, Title name=Mars) gold wikification:=Mars isCorrectPrediction=Correct
+*Entity:[Planet,textSpan=(424-430)]	-Disambiguation:(tid=22915, Title name=Planet) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[humans,textSpan=(451-457)]	-Disambiguation:(tid=682482, Title name=Human) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[old,textSpan=(481-484)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[old dog,textSpan=(481-488)]	-Disambiguation:(tid=3658264, Title name=Old_Dog) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dog,textSpan=(485-488)]	-Disambiguation:(tid=4269567, Title name=Dog) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[new tricks,textSpan=(489-499)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tricks,textSpan=(493-499)]	-Disambiguation:(tid=274735, Title name=Trick) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[John Callas,textSpan=(507-518)]	-Disambiguation:*null* gold wikification:=*null* isCorrectPrediction=Correct
+*Entity:[John,textSpan=(507-511)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Callas,textSpan=(512-518)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the mission,textSpan=(520-531)]	-Disambiguation:(tid=32363, Title name=Vostok_1) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[mission,textSpan=(524-531)]	-Disambiguation:(tid=666270, Title name=Mission_(Christianity)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[project,textSpan=(532-539)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[project manager,textSpan=(532-547)]	-Disambiguation:(tid=239050, Title name=Project_manager) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[manager,textSpan=(540-547)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jet,textSpan=(557-560)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jet Propulsion Laboratory,textSpan=(557-582)]	-Disambiguation:(tid=16459, Title name=Jet_Propulsion_Laboratory) gold wikification:=Jet_Propulsion_Laboratory isCorrectPrediction=Correct
+*Entity:[Jet Propulsion,textSpan=(557-571)]	-Disambiguation:(tid=15944, Title name=Jet_engine) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Jet Propulsion Laboratory, the NASA,textSpan=(557-592)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Propulsion,textSpan=(561-571)]	-Disambiguation:(tid=28506, Title name=Spacecraft_propulsion) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Laboratory,textSpan=(572-582)]	-Disambiguation:(tid=173351, Title name=Laboratory) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[NASA,textSpan=(588-592)]	-Disambiguation:(tid=18426568, Title name=NASA) gold wikification:=NASA isCorrectPrediction=Correct
+*Entity:[agency,textSpan=(593-599)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[charge,textSpan=(603-609)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the rovers,textSpan=(613-623)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rovers,textSpan=(617-623)]	-Disambiguation:(tid=10297736, Title name=Rover_(space_exploration)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ability,textSpan=(664-671)]	-Disambiguation:(tid=1206868, Title name=Ability) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[automatically,textSpan=(675-688)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[recognize,textSpan=(689-698)]	-Disambiguation:(tid=1208543, Title name=Recognition) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Earth,textSpan=(715-720)]	-Disambiguation:(tid=9228, Title name=Earth) gold wikification:=Earth isCorrectPrediction=Correct
+*Entity:[photographs,textSpan=(721-732)]	-Disambiguation:(tid=25080, Title name=Photograph) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dust,textSpan=(760-764)]	-Disambiguation:(tid=162714, Title name=Dust) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dust devils,textSpan=(760-771)]	-Disambiguation:(tid=58161, Title name=Dust_devil) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[devils,textSpan=(765-771)]	-Disambiguation:(tid=338667, Title name=Devils) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[clouds,textSpan=(784-790)]	-Disambiguation:(tid=47515, Title name=Cloud) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[They,textSpan=(792-796)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[independently,textSpan=(806-819)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[decide,textSpan=(820-826)]	-Disambiguation:(tid=3658264, Title name=Decide) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[extend,textSpan=(849-855)]	-Disambiguation:(tid=8981589, Title name=Extension_(kinesiology)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[robotic arm,textSpan=(860-871)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[robotic,textSpan=(860-867)]	-Disambiguation:(tid=58957, Title name=Robotic_spacecraft) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[arm,textSpan=(868-871)]	-Disambiguation:(tid=53238, Title name=Arm) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sample,textSpan=(875-881)]	-Disambiguation:(tid=160352, Title name=Sampling_(music)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[piece,textSpan=(884-889)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rock,textSpan=(893-897)]	-Disambiguation:(tid=25423, Title name=Rock_music) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[scientists,textSpan=(910-920)]	-Disambiguation:(tid=26997, Title name=Scientist) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[had to,textSpan=(921-927)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dissect,textSpan=(942-949)]	-Disambiguation:(tid=611229, Title name=Dissection) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[thousands,textSpan=(950-959)]	-Disambiguation:(tid=442472, Title name=1000_(number)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[images,textSpan=(963-969)]	-Disambiguation:(tid=71925, Title name=Image) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the frames,textSpan=(983-993)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[frames,textSpan=(987-993)]	-Disambiguation:(tid=2754697, Title name=Film_frame) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the rovers,textSpan=(1019-1029)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rovers,textSpan=(1023-1029)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[arms,textSpan=(1051-1055)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[high-tech,textSpan=(1061-1070)]	-Disambiguation:(tid=525028, Title name=High_tech) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[upgrades,textSpan=(1071-1079)]	-Disambiguation:(tid=15431411, Title name=Stargate_SG-1_(season_4)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[save,textSpan=(1092-1096)]	-Disambiguation:(tid=313345, Title name=Save_(baseball)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[time,textSpan=(1097-1101)]	-Disambiguation:(tid=30012, Title name=Time) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a day,textSpan=(1115-1120)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[day,textSpan=(1117-1120)]	-Disambiguation:(tid=8376, Title name=Day) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[scientists,textSpan=(1129-1139)]	-Disambiguation:(tid=26997, Title name=Scientist) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Earth,textSpan=(1143-1148)]	-Disambiguation:(tid=9228, Title name=Earth) gold wikification:=Earth isCorrectPrediction=Correct
+*Entity:[have to,textSpan=(1155-1162)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[study,textSpan=(1163-1168)]	-Disambiguation:(tid=25524, Title name=Research) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rock,textSpan=(1171-1175)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[commands,textSpan=(1191-1199)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the robot,textSpan=(1203-1212)]	-Disambiguation:(tid=2500105, Title name=Robot_(dance)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[robot,textSpan=(1207-1212)]	-Disambiguation:(tid=25781, Title name=Robot) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pick,textSpan=(1216-1220)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[successful,textSpan=(1234-1244)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the changes,textSpan=(1246-1257)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[changes,textSpan=(1250-1257)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[incorporated,textSpan=(1268-1280)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[future,textSpan=(1286-1292)]	-Disambiguation:(tid=163103, Title name=Future) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mars,textSpan=(1293-1297)]	-Disambiguation:(tid=14640471, Title name=Mars) gold wikification:=Mars isCorrectPrediction=Correct
+*Entity:[Mars missions,textSpan=(1293-1306)]	-Disambiguation:(tid=426143, Title name=Exploration_of_Mars) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[missions,textSpan=(1298-1306)]	-Disambiguation:(tid=426143, Title name=Exploration_of_Mars) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Spirit and Opportunity,textSpan=(1311-1333)]	-Disambiguation:(tid=252908, Title name=Mars_Exploration_Rover) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Spirit,textSpan=(1311-1317)]	-Disambiguation:(tid=421049, Title name=Spirit_(rover)) gold wikification:=Spirit_(rover) isCorrectPrediction=Correct
+*Entity:[Opportunity,textSpan=(1322-1333)]	-Disambiguation:(tid=421051, Title name=Opportunity_(rover)) gold wikification:=Opportunity_(rover) isCorrectPrediction=Correct
+*Entity:[fitted,textSpan=(1344-1350)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a new,textSpan=(1356-1361)]	-Disambiguation:(tid=189798, Title name=South_Dakota-class_battleship_(1920)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[navigation,textSpan=(1362-1372)]	-Disambiguation:(tid=21854, Title name=Navigation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[navigation system,textSpan=(1362-1379)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[think,textSpan=(1400-1405)]	-Disambiguation:(tid=37080, Title name=Thought) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[steps,textSpan=(1414-1419)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[obstacle,textSpan=(1445-1453)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dead end,textSpan=(1486-1494)]	-Disambiguation:(tid=390697, Title name=Cul-de-sac) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dead,textSpan=(1486-1490)]	-Disambiguation:(tid=8221, Title name=Death) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[navigate,textSpan=(1503-1511)]	-Disambiguation:(tid=21854, Title name=Navigation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[maze,textSpan=(1514-1518)]	-Disambiguation:(tid=20161, Title name=Maze) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[their own,textSpan=(1522-1531)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Callas,textSpan=(1533-1539)]	-Disambiguation:*null* gold wikification:=*null* isCorrectPrediction=Correct
+*Entity:[geologic,textSpan=(1550-1558)]	-Disambiguation:(tid=12207, Title name=Geology) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[robots,textSpan=(1559-1565)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[previously,textSpan=(1571-1581)]	-Disambiguation:(tid=36165, Title name=2007) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tackled,textSpan=(1582-1589)]	-Disambiguation:(tid=10667, Title name=Tackle_(football_move)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[problem,textSpan=(1594-1601)]	-Disambiguation:(tid=608760, Title name=Problem) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[time,textSpan=(1607-1611)]	-Disambiguation:(tid=30012, Title name=Time) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Spirit,textSpan=(1616-1622)]	-Disambiguation:(tid=421049, Title name=Spirit_(rover)) gold wikification:=Spirit_(rover) isCorrectPrediction=Correct
+*Entity:[three years,textSpan=(1630-1641)]	-Disambiguation:(tid=35524, Title name=2004) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[years,textSpan=(1636-1641)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wednesday,textSpan=(1646-1655)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wednesday and Opportunity on Jan,textSpan=(1646-1678)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Opportunity,textSpan=(1660-1671)]	-Disambiguation:(tid=421051, Title name=Opportunity_(rover)) gold wikification:=Opportunity_(rover) isCorrectPrediction=Correct
+*Entity:[Opportunity on Jan,textSpan=(1660-1678)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fourth year,textSpan=(1705-1716)]	-Disambiguation:(tid=259128, Title name=Harry_Potter_and_the_Goblet_of_Fire) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fourth,textSpan=(1705-1711)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[year,textSpan=(1712-1716)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[exploration,textSpan=(1720-1731)]	-Disambiguation:(tid=28431, Title name=Space_exploration) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[golf,textSpan=(1738-1742)]	-Disambiguation:(tid=12328, Title name=Golf) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[vehicles,textSpan=(1754-1762)]	-Disambiguation:(tid=32410, Title name=Vehicle) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[long,textSpan=(1768-1772)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[missions,textSpan=(1789-1797)]	-Disambiguation:(tid=666270, Title name=Mission_(Christianity)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[originally,textSpan=(1799-1809)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[planned,textSpan=(1810-1817)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[three months,textSpan=(1828-1840)]	-Disambiguation:(tid=1490055, Title name=November_2005) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[months,textSpan=(1834-1840)]	-Disambiguation:(tid=20354, Title name=Month) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[scientists,textSpan=(1848-1858)]	-Disambiguation:(tid=26997, Title name=Scientist) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[impressed,textSpan=(1863-1872)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the robots,textSpan=(1910-1920)]	-Disambiguation:(tid=60134, Title name=Robot_series_(Asimov)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[robots,textSpan=(1914-1920)]	-Disambiguation:(tid=25781, Title name=Robot) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[die,textSpan=(1927-1930)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[time,textSpan=(1938-1942)]	-Disambiguation:(tid=30012, Title name=Time) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[uncovering,textSpan=(1985-1995)]	-Disambiguation:(tid=58970, Title name=Apocalypse) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[geologic,textSpan=(1996-2004)]	-Disambiguation:(tid=12207, Title name=Geology) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[evidence,textSpan=(2005-2013)]	-Disambiguation:(tid=5236854, Title name=Evidence) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[water,textSpan=(2019-2024)]	-Disambiguation:(tid=33306, Title name=Water) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Mars,textSpan=(2040-2044)]	-Disambiguation:(tid=14640471, Title name=Mars) gold wikification:=Mars isCorrectPrediction=Correct
+*Entity:[Spirit,textSpan=(2046-2052)]	-Disambiguation:(tid=421049, Title name=Spirit_(rover)) gold wikification:=Spirit_(rover) isCorrectPrediction=Correct
+*Entity:[is currently,textSpan=(2053-2065)]	-Disambiguation:(tid=36165, Title name=2007) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[currently,textSpan=(2056-2065)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[studying,textSpan=(2066-2074)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rocks,textSpan=(2075-2080)]	-Disambiguation:(tid=199661, Title name=Rock_(geology)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[soil samples,textSpan=(2085-2097)]	-Disambiguation:(tid=411781, Title name=Soil_test) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[soil,textSpan=(2085-2089)]	-Disambiguation:(tid=37738, Title name=Soil) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[samples,textSpan=(2090-2097)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Martian,textSpan=(2105-2112)]	-Disambiguation:(tid=14640471, Title name=Mars) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ridge,textSpan=(2113-2118)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Opportunity,textSpan=(2125-2136)]	-Disambiguation:(tid=421051, Title name=Opportunity_(rover)) gold wikification:=Opportunity_(rover) isCorrectPrediction=Correct
+*Entity:[circling,textSpan=(2140-2148)]	-Disambiguation:(tid=63693, Title name=Soaring) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[rim,textSpan=(2153-2156)]	-Disambiguation:(tid=2206957, Title name=Rim_(craters)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[massive,textSpan=(2162-2169)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[crater,textSpan=(2170-2176)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[possible,textSpan=(2181-2189)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ways,textSpan=(2190-2194)]	-Disambiguation:(tid=25897, Title name=Road) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Upgrade' start in text:0 end in text: 7; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'aging' start in text:14 end in text: 19; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mars rovers' start in text:20 end in text: 31; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mars' start in text:20 end in text: 24; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rovers' start in text:25 end in text: 31; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Engineers' start in text:41 end in text: 50; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'software' start in text:67 end in text: 75; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'LOS' start in text:112 end in text: 115; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'LOS ANGELES' start in text:112 end in text: 123; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ANGELES' start in text:116 end in text: 123; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The twin' start in text:126 end in text: 134; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'twin' start in text:130 end in text: 134; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mars' start in text:135 end in text: 139; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mars rovers' start in text:135 end in text: 146; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rovers' start in text:140 end in text: 146; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'age' start in text:170 end in text: 173; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Engineers' start in text:178 end in text: 187; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'transmitted' start in text:193 end in text: 204; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'flight' start in text:209 end in text: 215; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'software' start in text:216 end in text: 224; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'computers' start in text:248 end in text: 257; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'time' start in text:268 end in text: 272; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the third' start in text:277 end in text: 286; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'anniversary' start in text:287 end in text: 298; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'landing' start in text:308 end in text: 315; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The software' start in text:317 end in text: 329; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'software' start in text:321 end in text: 329; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'intelligence' start in text:357 end in text: 369; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'independence' start in text:374 end in text: 386; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'roll' start in text:404 end in text: 408; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the Red Planet' start in text:416 end in text: 430; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Red' start in text:420 end in text: 423; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Red Planet' start in text:420 end in text: 430; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Planet' start in text:424 end in text: 430; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'humans' start in text:451 end in text: 457; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'old' start in text:481 end in text: 484; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'old dog' start in text:481 end in text: 488; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'dog' start in text:485 end in text: 488; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'new tricks' start in text:489 end in text: 499; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'tricks' start in text:493 end in text: 499; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'John Callas' start in text:507 end in text: 518; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'John' start in text:507 end in text: 511; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Callas' start in text:512 end in text: 518; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the mission' start in text:520 end in text: 531; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'mission' start in text:524 end in text: 531; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'project' start in text:532 end in text: 539; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'project manager' start in text:532 end in text: 547; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'manager' start in text:540 end in text: 547; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jet' start in text:557 end in text: 560; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jet Propulsion Laboratory' start in text:557 end in text: 582; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jet Propulsion' start in text:557 end in text: 571; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Jet Propulsion Laboratory, the NASA' start in text:557 end in text: 592; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Propulsion' start in text:561 end in text: 571; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Laboratory' start in text:572 end in text: 582; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'NASA' start in text:588 end in text: 592; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'agency' start in text:593 end in text: 599; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'charge' start in text:603 end in text: 609; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the rovers' start in text:613 end in text: 623; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'rovers' start in text:617 end in text: 623; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ability' start in text:664 end in text: 671; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'automatically' start in text:675 end in text: 688; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'recognize' start in text:689 end in text: 698; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Earth' start in text:715 end in text: 720; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'photographs' start in text:721 end in text: 732; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dust' start in text:760 end in text: 764; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dust devils' start in text:760 end in text: 771; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'devils' start in text:765 end in text: 771; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'clouds' start in text:784 end in text: 790; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'They' start in text:792 end in text: 796; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'independently' start in text:806 end in text: 819; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'decide' start in text:820 end in text: 826; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'extend' start in text:849 end in text: 855; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'robotic arm' start in text:860 end in text: 871; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'robotic' start in text:860 end in text: 867; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'arm' start in text:868 end in text: 871; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sample' start in text:875 end in text: 881; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'piece' start in text:884 end in text: 889; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rock' start in text:893 end in text: 897; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'scientists' start in text:910 end in text: 920; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'had to' start in text:921 end in text: 927; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'dissect' start in text:942 end in text: 949; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'thousands' start in text:950 end in text: 959; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'images' start in text:963 end in text: 969; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the frames' start in text:983 end in text: 993; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'frames' start in text:987 end in text: 993; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the rovers' start in text:1019 end in text: 1029; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'rovers' start in text:1023 end in text: 1029; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'arms' start in text:1051 end in text: 1055; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'high-tech' start in text:1061 end in text: 1070; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'upgrades' start in text:1071 end in text: 1079; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'save' start in text:1092 end in text: 1096; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'time' start in text:1097 end in text: 1101; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a day' start in text:1115 end in text: 1120; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'day' start in text:1117 end in text: 1120; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'scientists' start in text:1129 end in text: 1139; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Earth' start in text:1143 end in text: 1148; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'have to' start in text:1155 end in text: 1162; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'study' start in text:1163 end in text: 1168; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rock' start in text:1171 end in text: 1175; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'commands' start in text:1191 end in text: 1199; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the robot' start in text:1203 end in text: 1212; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'robot' start in text:1207 end in text: 1212; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pick' start in text:1216 end in text: 1220; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'successful' start in text:1234 end in text: 1244; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the changes' start in text:1246 end in text: 1257; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'changes' start in text:1250 end in text: 1257; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'incorporated' start in text:1268 end in text: 1280; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'future' start in text:1286 end in text: 1292; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mars' start in text:1293 end in text: 1297; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mars missions' start in text:1293 end in text: 1306; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'missions' start in text:1298 end in text: 1306; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Spirit and Opportunity' start in text:1311 end in text: 1333; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Spirit' start in text:1311 end in text: 1317; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Opportunity' start in text:1322 end in text: 1333; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fitted' start in text:1344 end in text: 1350; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a new' start in text:1356 end in text: 1361; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'navigation' start in text:1362 end in text: 1372; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'navigation system' start in text:1362 end in text: 1379; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'think' start in text:1400 end in text: 1405; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'steps' start in text:1414 end in text: 1419; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'obstacle' start in text:1445 end in text: 1453; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dead end' start in text:1486 end in text: 1494; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dead' start in text:1486 end in text: 1490; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'navigate' start in text:1503 end in text: 1511; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'maze' start in text:1514 end in text: 1518; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'their own' start in text:1522 end in text: 1531; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Callas' start in text:1533 end in text: 1539; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'geologic' start in text:1550 end in text: 1558; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'robots' start in text:1559 end in text: 1565; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'previously' start in text:1571 end in text: 1581; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tackled' start in text:1582 end in text: 1589; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'problem' start in text:1594 end in text: 1601; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'time' start in text:1607 end in text: 1611; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Spirit' start in text:1616 end in text: 1622; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'three years' start in text:1630 end in text: 1641; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'years' start in text:1636 end in text: 1641; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wednesday' start in text:1646 end in text: 1655; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wednesday and Opportunity on Jan' start in text:1646 end in text: 1678; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Opportunity' start in text:1660 end in text: 1671; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Opportunity on Jan' start in text:1660 end in text: 1678; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'fourth year' start in text:1705 end in text: 1716; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fourth' start in text:1705 end in text: 1711; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'year' start in text:1712 end in text: 1716; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'exploration' start in text:1720 end in text: 1731; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'golf' start in text:1738 end in text: 1742; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'vehicles' start in text:1754 end in text: 1762; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'long' start in text:1768 end in text: 1772; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'missions' start in text:1789 end in text: 1797; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'originally' start in text:1799 end in text: 1809; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'planned' start in text:1810 end in text: 1817; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'three months' start in text:1828 end in text: 1840; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'months' start in text:1834 end in text: 1840; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'scientists' start in text:1848 end in text: 1858; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'impressed' start in text:1863 end in text: 1872; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the robots' start in text:1910 end in text: 1920; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'robots' start in text:1914 end in text: 1920; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'die' start in text:1927 end in text: 1930; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'time' start in text:1938 end in text: 1942; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'uncovering' start in text:1985 end in text: 1995; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'geologic' start in text:1996 end in text: 2004; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'evidence' start in text:2005 end in text: 2013; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'water' start in text:2019 end in text: 2024; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Mars' start in text:2040 end in text: 2044; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Spirit' start in text:2046 end in text: 2052; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'is currently' start in text:2053 end in text: 2065; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'currently' start in text:2056 end in text: 2065; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'studying' start in text:2066 end in text: 2074; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rocks' start in text:2075 end in text: 2080; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'soil samples' start in text:2085 end in text: 2097; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'soil' start in text:2085 end in text: 2089; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'samples' start in text:2090 end in text: 2097; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Martian' start in text:2105 end in text: 2112; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ridge' start in text:2113 end in text: 2118; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Opportunity' start in text:2125 end in text: 2136; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'circling' start in text:2140 end in text: 2148; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'rim' start in text:2153 end in text: 2156; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'massive' start in text:2162 end in text: 2169; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'crater' start in text:2170 end in text: 2176; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'possible' start in text:2181 end in text: 2189; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ways' start in text:2190 end in text: 2194; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

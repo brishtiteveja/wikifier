@@ -34,6 +34,9 @@ import org.nd4j.linalg.factory.Nd4j;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.core.io.ClassPathResource;
+import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.List;
 import org.deeplearning4j.models.embeddings.inmemory.InMemoryLookupTable;
 import org.deeplearning4j.models.embeddings.loader.WordVectorSerializer;
 import org.deeplearning4j.models.word2vec.Word2Vec;
@@ -142,6 +145,12 @@ public class TFIDF {
         return getCosineSimVectors(d1, d2);
     }
     
+    public void getWordVectors() {
+    	//Word2Vec vec;
+
+    }
+    
+
 
     public static double getCosineSimHashMaps(TF_IDF_Doc d1, TF_IDF_Doc d2) {
         double nominator = 0;

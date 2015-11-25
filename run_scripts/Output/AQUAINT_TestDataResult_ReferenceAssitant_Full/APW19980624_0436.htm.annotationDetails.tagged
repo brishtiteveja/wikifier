@@ -1,0 +1,543 @@
+<ANNOTATION>
+ <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraq</a> ,  <a class="wiki" href="http://en.wikipedia.org/wiki/Iran" cat="nation	country	state	republic">Iran</a>  sign  <b>pact</b> to resolve  <a class="wiki" href="http://en.wikipedia.org/wiki/Prisoner_of_war" cat="prisoner">POW</a>  issue<br><br>   <a class="wiki" href="http://en.wikipedia.org/wiki/Iran–Iraq_border" cat="">Iraq and Iran</a>    have signed a deal that  <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraq</a>  says will resolve their longstanding dispute over  prisoners of  <b>war</b>  . <br><br> The agreement was  <b>reached</b> following a week of talks in   <a class="wiki" href="http://en.wikipedia.org/wiki/Baghdad" cat="capital	community	place	establishment">Baghdad</a>    between senior  <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraqi</a>  officials and a visiting Iranian   <b>delegation</b>   headed by  <a class="wiki" href="http://en.wikipedia.org/wiki/Abdullah_(name)" cat="names	surname">Abdullah</a>  al-Najafi, head of  <a class="wiki" href="http://en.wikipedia.org/wiki/Iran" cat="nation	country	state	republic">Iran</a> 's  <a class="wiki" href="http://en.wikipedia.org/wiki/Prisoner_of_war" cat="prisoner">POW</a>   <b>commission</b>, the official  Iraqi News Agency   reported Wednesday. <br><br> But the  <b>agency</b> gave no further details and al-Najafi, who left  <a class="wiki" href="http://en.wikipedia.org/wiki/Baghdad" cat="capital	community	place	establishment">Baghdad</a>  on Wednesday, declined to comment. <br><br> Al-Najafi arrived in  <a class="wiki" href="http://en.wikipedia.org/wiki/Baghdad" cat="capital	community	place	establishment">Baghdad</a>  last week with a list of  <b>thousands</b> of  <a class="wiki" href="http://en.wikipedia.org/wiki/Iran" cat="nation	country	state	republic">Iranian</a>  POWs   <a class="wiki" href="http://en.wikipedia.org/wiki/Tehran" cat="">Tehran</a>    claims are still held by  <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraq</a> . <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraq</a>  has long maintained that it has released all Iranian prisoners and was reportedly angered by the new list. <br><br> In April,  <a class="wiki" href="http://en.wikipedia.org/wiki/Iran" cat="nation	country	state	republic">Iran</a>  released 5,584  <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraqi</a>   <a class="wiki" href="http://en.wikipedia.org/wiki/Prisoner_of_war" cat="prisoner">POWs</a>  and  <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraq</a>  freed three  <a class="wiki" href="http://en.wikipedia.org/wiki/Prisoner_of_war" cat="prisoner">POWs</a>  and 316  <a class="wiki" href="http://en.wikipedia.org/wiki/Iran" cat="nation	country	state	republic">Iranians</a>  it classified as civil law  detainees  . <br><br> It was the largest   <b>repatriation</b>   of  <a class="wiki" href="http://en.wikipedia.org/wiki/Iranian_peoples" cat="peoples">Iranian</a>  and  <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraqi</a>   <a class="wiki" href="http://en.wikipedia.org/wiki/Prisoner_of_war" cat="prisoner">POWs</a>  since  <b>1990</b>, said the   <a class="wiki" href="http://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross" cat="establishment	prize	organisation">International Committee of the Red Cross</a>   , which supervised the swap.  <a class="wiki" href="http://en.wikipedia.org/wiki/The_Red_Cross" cat="">The Red Cross</a>  says it knows of several thousand  <a class="wiki" href="http://en.wikipedia.org/wiki/Iranian_Iraqis" cat="group	person	emigrant">Iraqis in Iran</a> , but it is not aware of more Iranian  <a class="wiki" href="http://en.wikipedia.org/wiki/Prisoner_of_war" cat="prisoner">POWs</a>  in  <a class="wiki" href="http://en.wikipedia.org/wiki/Iraq" cat="state	country	monarchy">Iraq</a> . <br><br> The   <a class="wiki" href="http://en.wikipedia.org/wiki/Iran–Iraq_War" cat="war">Iran-Iraq war</a>  , in which more than more than 1 million people were killed or wounded, ended in  <b>1988</b>. <br><br> The issue of  <a class="wiki" href="http://en.wikipedia.org/wiki/Prisoner_of_war" cat="prisoner">POWs</a>  has long stood in the way of better ties. lb-as <br><br>
+</ANNOTATION>
+*Entity:[Iraq,textSpan=(0-7)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq, Iran,textSpan=(3-13)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran,textSpan=(9-13)]	-Disambiguation:(tid=14653, Title name=Iran) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[sign,textSpan=(14-18)]	-Disambiguation:(tid=28130, Title name=Sign) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pact,textSpan=(19-23)]	-Disambiguation:(tid=30432, Title name=Treaty) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[resolve,textSpan=(27-34)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[POW,textSpan=(35-38)]	-Disambiguation:(tid=25008, Title name=Prisoner_of_war) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq and Iran,textSpan=(48-64)]	-Disambiguation:(tid=10282111, Title name=Iran–Iraq_border) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq,textSpan=(48-52)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=Iraq isCorrectPrediction=Correct
+*Entity:[Iran,textSpan=(60-64)]	-Disambiguation:(tid=14653, Title name=Iran) gold wikification:=Iran isCorrectPrediction=Correct
+*Entity:[signed,textSpan=(72-78)]	-Disambiguation:(tid=26753, Title name=Signature) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a deal,textSpan=(79-85)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[deal,textSpan=(81-85)]	-Disambiguation:(tid=2447976, Title name=Recording_contract) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq,textSpan=(91-95)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[resolve,textSpan=(106-113)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[dispute,textSpan=(133-140)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[prisoners of war,textSpan=(147-163)]	-Disambiguation:*null* gold wikification:=Prisoner_of_war isCorrectPrediction=Incorrect
+*Entity:[prisoners,textSpan=(147-156)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[war,textSpan=(160-163)]	-Disambiguation:(tid=5043324, Title name=Iraq_War) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The agreement,textSpan=(170-183)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[agreement,textSpan=(174-183)]	-Disambiguation:(tid=217117, Title name=Agreement) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reached,textSpan=(188-195)]	-Disambiguation:(tid=276837, Title name=Points_of_sail) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a week,textSpan=(206-212)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[week,textSpan=(208-212)]	-Disambiguation:(tid=33538, Title name=Week) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[talks,textSpan=(216-221)]	-Disambiguation:(tid=181901, Title name=Camp_David_Accords) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Baghdad,textSpan=(226-233)]	-Disambiguation:(tid=4492, Title name=Baghdad) gold wikification:=Baghdad isCorrectPrediction=Correct
+*Entity:[senior,textSpan=(244-250)]	-Disambiguation:(tid=1066040, Title name=Twelfth_grade) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraqi,textSpan=(251-256)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[officials,textSpan=(257-266)]	-Disambiguation:(tid=725182, Title name=Official) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iranian,textSpan=(282-289)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[delegation,textSpan=(291-301)]	-Disambiguation:(tid=218837, Title name=Delegation) gold wikification:=Delegation isCorrectPrediction=Correct
+*Entity:[Abdullah,textSpan=(314-322)]	-Disambiguation:(tid=303864, Title name=Abdullah_(name)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[head,textSpan=(334-338)]	-Disambiguation:(tid=1209545, Title name=Head) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran's POW,textSpan=(342-352)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran,textSpan=(342-346)]	-Disambiguation:(tid=14653, Title name=Iran) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[POW,textSpan=(349-352)]	-Disambiguation:(tid=25008, Title name=Prisoner_of_war) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[commission,textSpan=(353-363)]	-Disambiguation:(tid=146711, Title name=Commission) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraqi News Agency,textSpan=(379-396)]	-Disambiguation:*null* gold wikification:=National_Iraqi_News_Agency isCorrectPrediction=Incorrect
+*Entity:[Wednesday,textSpan=(408-417)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the agency,textSpan=(426-436)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[agency,textSpan=(430-436)]	-Disambiguation:(tid=489674, Title name=Government_agency) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[details,textSpan=(453-460)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Baghdad on Wednesday,textSpan=(485-505)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Baghdad,textSpan=(485-492)]	-Disambiguation:(tid=4492, Title name=Baghdad) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wednesday,textSpan=(496-505)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[declined,textSpan=(507-515)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[comment,textSpan=(519-526)]	-Disambiguation:(tid=8592308, Title name=Comment_(computer_programming)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Al-Najafi,textSpan=(531-540)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Baghdad,textSpan=(552-559)]	-Disambiguation:(tid=4492, Title name=Baghdad) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[week,textSpan=(565-569)]	-Disambiguation:(tid=33538, Title name=Week) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a list,textSpan=(575-581)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[thousands,textSpan=(585-594)]	-Disambiguation:(tid=442472, Title name=1000_(number)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iranian,textSpan=(598-605)]	-Disambiguation:(tid=14653, Title name=Iran) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Tehran,textSpan=(612-618)]	-Disambiguation:(tid=57654, Title name=Tehran) gold wikification:=Tehran isCorrectPrediction=Correct
+*Entity:[held,textSpan=(638-642)]	-Disambiguation:(tid=173395, Title name=Elgin_Marbles) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq,textSpan=(646-650)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq,textSpan=(655-659)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[long,textSpan=(664-668)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[maintained,textSpan=(669-679)]	-Disambiguation:(tid=573933, Title name=State_school) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[released,textSpan=(692-700)]	-Disambiguation:(tid=226977, Title name=Release) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iranian,textSpan=(705-712)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[prisoners,textSpan=(713-722)]	-Disambiguation:(tid=627187, Title name=Baghdad_Central_Prison) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reportedly,textSpan=(731-741)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[angered,textSpan=(742-749)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the new,textSpan=(753-760)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[new list,textSpan=(757-765)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[In April, Iran,textSpan=(770-784)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[April, Iran,textSpan=(773-784)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[April,textSpan=(773-778)]	-Disambiguation:(tid=6762543, Title name=In_April) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran,textSpan=(780-784)]	-Disambiguation:(tid=14653, Title name=Iran) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraqi POWs and Iraq,textSpan=(800-819)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraqi POWs,textSpan=(800-810)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraqi,textSpan=(800-805)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[POWs and Iraq,textSpan=(806-819)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[POWs,textSpan=(806-810)]	-Disambiguation:(tid=25008, Title name=Prisoner_of_war) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq,textSpan=(815-819)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[POWs,textSpan=(832-836)]	-Disambiguation:(tid=25008, Title name=Prisoner_of_war) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[316,textSpan=(841-844)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iranians,textSpan=(845-853)]	-Disambiguation:(tid=14653, Title name=Iran) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[detainees,textSpan=(882-891)]	-Disambiguation:*null* gold wikification:=Detention_(imprisonment) isCorrectPrediction=Incorrect
+*Entity:[It,textSpan=(898-900)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[repatriation,textSpan=(918-930)]	-Disambiguation:(tid=1481067, Title name=Repatriation) gold wikification:=Repatriation isCorrectPrediction=Correct
+*Entity:[Iranian,textSpan=(936-943)]	-Disambiguation:(tid=1268748, Title name=Iranian_peoples) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iranian and Iraqi POWs,textSpan=(936-958)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraqi POWs,textSpan=(948-958)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraqi,textSpan=(948-953)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[POWs,textSpan=(954-958)]	-Disambiguation:(tid=25008, Title name=Prisoner_of_war) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1990,textSpan=(965-969)]	-Disambiguation:(tid=34635, Title name=1990) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[International Committee of the Red Cross,textSpan=(981-1021)]	-Disambiguation:(tid=5023832, Title name=International_Committee_of_the_Red_Cross) gold wikification:=International_Committee_of_the_Red_Cross isCorrectPrediction=Correct
+*Entity:[International Committee,textSpan=(981-1004)]	-Disambiguation:(tid=5023832, Title name=International_Committee_of_the_Red_Cross) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the Red Cross,textSpan=(1008-1021)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Red Cross,textSpan=(1012-1021)]	-Disambiguation:(tid=5023832, Title name=International_Committee_of_the_Red_Cross) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Red,textSpan=(1012-1015)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cross,textSpan=(1016-1021)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the swap,textSpan=(1042-1050)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[swap,textSpan=(1046-1050)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The Red Cross,textSpan=(1052-1065)]	-Disambiguation:(tid=3658264, Title name=The_Red_Cross) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The Red,textSpan=(1052-1059)]	-Disambiguation:(tid=10527649, Title name=The_Red) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Red,textSpan=(1056-1059)]	-Disambiguation:(tid=10527649, Title name=The_Red) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Red Cross,textSpan=(1056-1065)]	-Disambiguation:(tid=5023832, Title name=International_Committee_of_the_Red_Cross) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Cross,textSpan=(1060-1065)]	-Disambiguation:(tid=5023832, Title name=International_Committee_of_the_Red_Cross) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraqis in Iran,textSpan=(1100-1114)]	-Disambiguation:(tid=3658264, Title name=Iranian_Iraqis) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraqis,textSpan=(1100-1106)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran,textSpan=(1110-1114)]	-Disambiguation:(tid=14653, Title name=Iran) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iranian POWs,textSpan=(1144-1156)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iranian,textSpan=(1144-1151)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iranian POWs in Iraq,textSpan=(1144-1164)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[POWs,textSpan=(1152-1156)]	-Disambiguation:(tid=25008, Title name=Prisoner_of_war) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iraq,textSpan=(1160-1164)]	-Disambiguation:(tid=7515928, Title name=Iraq) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Iran-Iraq war,textSpan=(1174-1187)]	-Disambiguation:(tid=14889, Title name=Iran–Iraq_War) gold wikification:=Iran–Iraq_War isCorrectPrediction=Correct
+*Entity:[Iran-Iraq,textSpan=(1174-1183)]	-Disambiguation:(tid=14889, Title name=Iran–Iraq_War) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[more than,textSpan=(1199-1208)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[more than,textSpan=(1209-1218)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1 million,textSpan=(1219-1228)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[people,textSpan=(1229-1235)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[were killed,textSpan=(1236-1247)]	-Disambiguation:(tid=7837165, Title name=2006_shelling_of_Beit_Hanoun) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[killed,textSpan=(1241-1247)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wounded,textSpan=(1251-1258)]	-Disambiguation:(tid=3760380, Title name=Wounded) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1988,textSpan=(1269-1273)]	-Disambiguation:(tid=34670, Title name=1988) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[issue,textSpan=(1282-1287)]	-Disambiguation:(tid=381055, Title name=Issue) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[POWs,textSpan=(1291-1295)]	-Disambiguation:(tid=25008, Title name=Prisoner_of_war) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[long,textSpan=(1300-1304)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[stood,textSpan=(1305-1310)]	-Disambiguation:(tid=310762, Title name=Marathon_world_record_progression) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the way,textSpan=(1314-1321)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[way,textSpan=(1318-1321)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[better,textSpan=(1325-1331)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[ties.,textSpan=(1332-1337)]	-Disambiguation:(tid=298232, Title name=Necktie) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Iraq' start in text:0 end in text: 7; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq, Iran' start in text:3 end in text: 13; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Iran' start in text:9 end in text: 13; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'sign' start in text:14 end in text: 18; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'pact' start in text:19 end in text: 23; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'resolve' start in text:27 end in text: 34; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'POW' start in text:35 end in text: 38; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq and Iran' start in text:48 end in text: 64; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq' start in text:48 end in text: 52; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iran' start in text:60 end in text: 64; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'signed' start in text:72 end in text: 78; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a deal' start in text:79 end in text: 85; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'deal' start in text:81 end in text: 85; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq' start in text:91 end in text: 95; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'resolve' start in text:106 end in text: 113; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'dispute' start in text:133 end in text: 140; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'prisoners of war' start in text:147 end in text: 163; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'prisoners' start in text:147 end in text: 156; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'war' start in text:160 end in text: 163; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The agreement' start in text:170 end in text: 183; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'agreement' start in text:174 end in text: 183; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reached' start in text:188 end in text: 195; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'a week' start in text:206 end in text: 212; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'week' start in text:208 end in text: 212; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'talks' start in text:216 end in text: 221; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Baghdad' start in text:226 end in text: 233; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'senior' start in text:244 end in text: 250; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraqi' start in text:251 end in text: 256; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'officials' start in text:257 end in text: 266; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iranian' start in text:282 end in text: 289; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'delegation' start in text:291 end in text: 301; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Abdullah' start in text:314 end in text: 322; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'head' start in text:334 end in text: 338; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iran's POW' start in text:342 end in text: 352; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Iran' start in text:342 end in text: 346; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'POW' start in text:349 end in text: 352; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'commission' start in text:353 end in text: 363; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraqi News Agency' start in text:379 end in text: 396; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Wednesday' start in text:408 end in text: 417; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the agency' start in text:426 end in text: 436; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'agency' start in text:430 end in text: 436; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'details' start in text:453 end in text: 460; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Baghdad on Wednesday' start in text:485 end in text: 505; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Baghdad' start in text:485 end in text: 492; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wednesday' start in text:496 end in text: 505; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'declined' start in text:507 end in text: 515; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'comment' start in text:519 end in text: 526; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Al-Najafi' start in text:531 end in text: 540; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Baghdad' start in text:552 end in text: 559; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'week' start in text:565 end in text: 569; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a list' start in text:575 end in text: 581; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'thousands' start in text:585 end in text: 594; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Iranian' start in text:598 end in text: 605; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Tehran' start in text:612 end in text: 618; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'held' start in text:638 end in text: 642; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq' start in text:646 end in text: 650; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq' start in text:655 end in text: 659; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'long' start in text:664 end in text: 668; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'maintained' start in text:669 end in text: 679; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'released' start in text:692 end in text: 700; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iranian' start in text:705 end in text: 712; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'prisoners' start in text:713 end in text: 722; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reportedly' start in text:731 end in text: 741; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'angered' start in text:742 end in text: 749; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the new' start in text:753 end in text: 760; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'new list' start in text:757 end in text: 765; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'In April, Iran' start in text:770 end in text: 784; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'April, Iran' start in text:773 end in text: 784; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'April' start in text:773 end in text: 778; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iran' start in text:780 end in text: 784; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraqi POWs and Iraq' start in text:800 end in text: 819; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Iraqi POWs' start in text:800 end in text: 810; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Iraqi' start in text:800 end in text: 805; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'POWs and Iraq' start in text:806 end in text: 819; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'POWs' start in text:806 end in text: 810; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq' start in text:815 end in text: 819; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'POWs' start in text:832 end in text: 836; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '316' start in text:841 end in text: 844; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iranians' start in text:845 end in text: 853; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'detainees' start in text:882 end in text: 891; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'It' start in text:898 end in text: 900; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'repatriation' start in text:918 end in text: 930; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iranian' start in text:936 end in text: 943; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iranian and Iraqi POWs' start in text:936 end in text: 958; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Iraqi POWs' start in text:948 end in text: 958; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Iraqi' start in text:948 end in text: 953; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'POWs' start in text:954 end in text: 958; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1990' start in text:965 end in text: 969; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'International Committee of the Red Cross' start in text:981 end in text: 1021; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'International Committee' start in text:981 end in text: 1004; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the Red Cross' start in text:1008 end in text: 1021; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Red Cross' start in text:1012 end in text: 1021; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Red' start in text:1012 end in text: 1015; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cross' start in text:1016 end in text: 1021; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the swap' start in text:1042 end in text: 1050; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'swap' start in text:1046 end in text: 1050; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The Red Cross' start in text:1052 end in text: 1065; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'The Red' start in text:1052 end in text: 1059; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Red' start in text:1056 end in text: 1059; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Red Cross' start in text:1056 end in text: 1065; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Cross' start in text:1060 end in text: 1065; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraqis in Iran' start in text:1100 end in text: 1114; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Iraqis' start in text:1100 end in text: 1106; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iran' start in text:1110 end in text: 1114; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iranian POWs' start in text:1144 end in text: 1156; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Iranian' start in text:1144 end in text: 1151; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iranian POWs in Iraq' start in text:1144 end in text: 1164; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'POWs' start in text:1152 end in text: 1156; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iraq' start in text:1160 end in text: 1164; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iran-Iraq war' start in text:1174 end in text: 1187; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Iran-Iraq' start in text:1174 end in text: 1183; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'more than' start in text:1199 end in text: 1208; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'more than' start in text:1209 end in text: 1218; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1 million' start in text:1219 end in text: 1228; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'people' start in text:1229 end in text: 1235; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'were killed' start in text:1236 end in text: 1247; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'killed' start in text:1241 end in text: 1247; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wounded' start in text:1251 end in text: 1258; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1988' start in text:1269 end in text: 1273; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'issue' start in text:1282 end in text: 1287; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'POWs' start in text:1291 end in text: 1295; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'long' start in text:1300 end in text: 1304; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'stood' start in text:1305 end in text: 1310; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the way' start in text:1314 end in text: 1321; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'way' start in text:1318 end in text: 1321; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'better' start in text:1325 end in text: 1331; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'ties.' start in text:1332 end in text: 1337; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

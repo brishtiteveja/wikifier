@@ -1,0 +1,4327 @@
+<WikifierOutput>
+<InputFilename>
+APW19990519_0141.htm
+</InputFilename>
+<InputText>
+    Astronomers   Spot Storm on Mars
+
+ WASHINGTON (AP) -- A  cyclone   four times the size of  Texas   raged across the northern polar region of the planet  Mars   last month, according to  space telescope   views of the red planet. 
+
+ 
+
+ The  Space Telescope Science Institute   announced today that the  Hubble Space Telescope   on April 27 spotted an immense  Martian   storm cloud, made up of water  ice  , that was 1,100 miles long and 900 wide. 
+
+ 
+
+ Bands of clouds spiraled in a counterclockwise motion around a 200-mile wide eye in the center of the storm, taking on a shape that resembled  hurricanes   on  Earth  , astronomers said. 
+
+ 
+
+ The storm occurred during the summer in Mars&apos; northern hemisphere. It came after seasonal warming  evaporated   the  carbon dioxide    ice sheet   that caps the  Martian north pole   during part of the year. 
+
+ 
+
+ Officials said the storm was three times larger than a storm spotted 20 years ago by the  Viking Orbiter   spacecraft. 
+
+ 
+
+ Astronomers used a  wide field planetary camera   on Hubble to photograph Mars during the planet&apos;s closest approach to Earth in nearly eight years. 
+
+ 
+
+ Two pictures, taken six hours apart on April 27, showed that the storm moved slightly eastward. In the second picture, the storm appeared to be in the process of breaking up. 
+
+ 
+
+ Later pictures by the Hubble camera failed to find the storm, and astronomers said it could have been a short-lived  phenomenon . 
+
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Astronomers</EntitySurfaceForm>
+	<EntityTextStart>4</EntityTextStart>
+	<EntityTextEnd>15</EntityTextEnd>
+	<LinkerScore>8.049789881492858</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Astronomy</WikiTitle>
+		<WikiTitleID>50650</WikiTitleID>
+		<RankerScore>0.9475806015064381</RankerScore>
+		<Attributes>object	binary	source</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Astronomer</WikiTitle> <WikiTitleID>580</WikiTitleID> <RankerScore>0.03995935025469971</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Astronomy</WikiTitle> <WikiTitleID>50650</WikiTitleID> <RankerScore>0.9475806015064381</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_astronomers</WikiTitle> <WikiTitleID>80155</WikiTitleID> <RankerScore>0.01246004823886217</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mars</EntitySurfaceForm>
+	<EntityTextStart>32</EntityTextStart>
+	<EntityTextEnd>36</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mars</WikiTitle>
+		<WikiTitleID>14640471</WikiTitleID>
+		<RankerScore>0.973678739694125</RankerScore>
+		<Attributes>planet</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mars</WikiTitle> <WikiTitleID>14640471</WikiTitleID> <RankerScore>0.973678739694125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(mythology)</WikiTitle> <WikiTitleID>47221</WikiTitleID> <RankerScore>0.02045529450432642</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars,_Incorporated</WikiTitle> <WikiTitleID>245067</WikiTitleID> <RankerScore>3.351227426494907E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(band)</WikiTitle> <WikiTitleID>91159</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(Doctor_Who)</WikiTitle> <WikiTitleID>2524922</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars,_Pennsylvania</WikiTitle> <WikiTitleID>131615</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Planets_in_astrology</WikiTitle> <WikiTitleID>1852754</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_in_fiction</WikiTitle> <WikiTitleID>20257</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(chocolate_bar)</WikiTitle> <WikiTitleID>247079</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(manga)</WikiTitle> <WikiTitleID>2476452</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ares_(DC_Comics)</WikiTitle> <WikiTitleID>4869494</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(comics)</WikiTitle> <WikiTitleID>9825531</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moons_of_Mars</WikiTitle> <WikiTitleID>1655082</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(TV_series)</WikiTitle> <WikiTitleID>3002602</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colonization_of_Mars</WikiTitle> <WikiTitleID>1744360</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(album)</WikiTitle> <WikiTitleID>2029656</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Martian</WikiTitle> <WikiTitleID>47792</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barsoom</WikiTitle> <WikiTitleID>4411</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_in_the_fiction_of_Leigh_Brackett</WikiTitle> <WikiTitleID>3994400</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ares</WikiTitle> <WikiTitleID>2041</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>WASHINGTON</EntitySurfaceForm>
+	<EntityTextStart>39</EntityTextStart>
+	<EntityTextEnd>49</EntityTextEnd>
+	<LinkerScore>2.9389999723013807</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Washington</WikiTitle>
+		<WikiTitleID>13015878</WikiTitleID>
+		<RankerScore>0.47589440206564115</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Washington</WikiTitle> <WikiTitleID>13015878</WikiTitleID> <RankerScore>0.47589440206564115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_D.C.</WikiTitle> <WikiTitleID>108956</WikiTitleID> <RankerScore>0.04545020949168764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Wizards</WikiTitle> <WikiTitleID>72858</WikiTitleID> <RankerScore>0.031176111656469788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_Washington</WikiTitle> <WikiTitleID>11968</WikiTitleID> <RankerScore>0.026322310399188316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Washington</WikiTitle> <WikiTitleID>31776</WikiTitleID> <RankerScore>0.026322310399188316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Huskies_football</WikiTitle> <WikiTitleID>5954250</WikiTitleID> <RankerScore>0.026322310399188316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_Tyne_and_Wear</WikiTitle> <WikiTitleID>264845</WikiTitleID> <RankerScore>0.026322310399188316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_Pennsylvania</WikiTitle> <WikiTitleID>134086</WikiTitleID> <RankerScore>0.026322310399188316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Pennsylvania</WikiTitle> <WikiTitleID>91922</WikiTitleID> <RankerScore>0.026322310399188316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Oregon</WikiTitle> <WikiTitleID>48966</WikiTitleID> <RankerScore>0.026322310399188316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_North_Carolina</WikiTitle> <WikiTitleID>127665</WikiTitleID> <RankerScore>0.026322310399188316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_New_York</WikiTitle> <WikiTitleID>51541</WikiTitleID> <RankerScore>0.026322310399188316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Washington_USA</WikiTitle> <WikiTitleID>4429498</WikiTitleID> <RankerScore>0.026322310399188316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Maryland</WikiTitle> <WikiTitleID>47730</WikiTitleID> <RankerScore>0.026322310399188316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Huskies</WikiTitle> <WikiTitleID>994480</WikiTitleID> <RankerScore>0.026322310399188316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_Connecticut</WikiTitle> <WikiTitleID>108766</WikiTitleID> <RankerScore>0.026322310399188316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Washington_Teen_USA</WikiTitle> <WikiTitleID>4596506</WikiTitleID> <RankerScore>0.026322310399188316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Redskins</WikiTitle> <WikiTitleID>33673</WikiTitleID> <RankerScore>0.026322310399188316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Wisconsin</WikiTitle> <WikiTitleID>90922</WikiTitleID> <RankerScore>0.026322310399188316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_New_Hampshire</WikiTitle> <WikiTitleID>124947</WikiTitleID> <RankerScore>0.026322310399188316</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>cyclone</EntitySurfaceForm>
+	<EntityTextStart>61</EntityTextStart>
+	<EntityTextEnd>68</EntityTextEnd>
+	<LinkerScore>9.171345998742375</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cyclone</WikiTitle>
+		<WikiTitleID>42806</WikiTitleID>
+		<RankerScore>0.9383081510185548</RankerScore>
+		<Attributes>concept	hazard</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cyclone</WikiTitle> <WikiTitleID>42806</WikiTitleID> <RankerScore>0.9383081510185548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tropical_cyclone</WikiTitle> <WikiTitleID>8282374</WikiTitleID> <RankerScore>0.05897356782126265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cyclonic_separation</WikiTitle> <WikiTitleID>766619</WikiTitleID> <RankerScore>7.309605454661794E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1970_Bhola_cyclone</WikiTitle> <WikiTitleID>1274070</WikiTitleID> <RankerScore>5.253995237840864E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cyclone_furnace</WikiTitle> <WikiTitleID>2152426</WikiTitleID> <RankerScore>7.309605454661794E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tornado</WikiTitle> <WikiTitleID>37530</WikiTitleID> <RankerScore>7.309605454661794E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the size</EntitySurfaceForm>
+	<EntityTextStart>82</EntityTextStart>
+	<EntityTextEnd>90</EntityTextEnd>
+	<LinkerScore>-0.3887842422441037</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebensraum</WikiTitle>
+		<WikiTitleID>72297</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>relations	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lebensraum</WikiTitle> <WikiTitleID>72297</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>size</EntitySurfaceForm>
+	<EntityTextStart>86</EntityTextStart>
+	<EntityTextEnd>90</EntityTextEnd>
+	<LinkerScore>0.7345814019322532</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Size</WikiTitle>
+		<WikiTitleID>264558</WikiTitleID>
+		<RankerScore>0.36575789384285634</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Size</WikiTitle> <WikiTitleID>264558</WikiTitleID> <RankerScore>0.36575789384285634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shoe_size</WikiTitle> <WikiTitleID>1015276</WikiTitleID> <RankerScore>0.03659058408302986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sizing</WikiTitle> <WikiTitleID>492177</WikiTitleID> <RankerScore>0.02566809650605705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>File_size</WikiTitle> <WikiTitleID>2608327</WikiTitleID> <RankerScore>0.033646083856944516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Measurement</WikiTitle> <WikiTitleID>19022</WikiTitleID> <RankerScore>0.033646083856944516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Size_(Unix)</WikiTitle> <WikiTitleID>7707520</WikiTitleID> <RankerScore>0.033646083856944516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Block_size_(cryptography)</WikiTitle> <WikiTitleID>294065</WikiTitleID> <RankerScore>0.033646083856944516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anthropometry</WikiTitle> <WikiTitleID>330879</WikiTitleID> <RankerScore>0.033646083856944516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dimension_(mathematics_and_physics)</WikiTitle> <WikiTitleID>8398</WikiTitleID> <RankerScore>0.033646083856944516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Volume</WikiTitle> <WikiTitleID>32498</WikiTitleID> <RankerScore>0.033646083856944516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Type_I_and_type_II_errors</WikiTitle> <WikiTitleID>5657877</WikiTitleID> <RankerScore>0.033646083856944516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hypertrophy</WikiTitle> <WikiTitleID>605111</WikiTitleID> <RankerScore>0.033646083856944516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_wire_gauge</WikiTitle> <WikiTitleID>311366</WikiTitleID> <RankerScore>0.033646083856944516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radius</WikiTitle> <WikiTitleID>1780815</WikiTitleID> <RankerScore>0.033646083856944516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Largest_organisms</WikiTitle> <WikiTitleID>2494450</WikiTitleID> <RankerScore>0.033646083856944516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wealth</WikiTitle> <WikiTitleID>9390638</WikiTitleID> <RankerScore>0.033646083856944516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Area</WikiTitle> <WikiTitleID>1209</WikiTitleID> <RankerScore>0.033646083856944516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cardinality</WikiTitle> <WikiTitleID>6174</WikiTitleID> <RankerScore>0.033646083856944516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dice_notation</WikiTitle> <WikiTitleID>5077574</WikiTitleID> <RankerScore>0.033646083856944516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dinosaur_size</WikiTitle> <WikiTitleID>4085430</WikiTitleID> <RankerScore>0.033646083856944516</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Texas</EntitySurfaceForm>
+	<EntityTextStart>95</EntityTextStart>
+	<EntityTextEnd>100</EntityTextEnd>
+	<LinkerScore>8.121368525908167</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Texas</WikiTitle>
+		<WikiTitleID>29810</WikiTitleID>
+		<RankerScore>0.7746828753202953</RankerScore>
+		<Attributes>colony	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Texas</WikiTitle> <WikiTitleID>29810</WikiTitleID> <RankerScore>0.7746828753202953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Texas_at_Austin</WikiTitle> <WikiTitleID>32031</WikiTitleID> <RankerScore>0.01040589764195841</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas_(band)</WikiTitle> <WikiTitleID>412899</WikiTitleID> <RankerScore>0.049771150770867086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas_Longhorns_football</WikiTitle> <WikiTitleID>6903029</WikiTitleID> <RankerScore>0.009714122133345842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas_(TV_series)</WikiTitle> <WikiTitleID>873479</WikiTitleID> <RankerScore>0.009714122133345842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas_Longhorns</WikiTitle> <WikiTitleID>2834813</WikiTitleID> <RankerScore>0.009714122133345842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas_Motor_Speedway</WikiTitle> <WikiTitleID>1771753</WikiTitleID> <RankerScore>0.009714122133345842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Texas_USA</WikiTitle> <WikiTitleID>2286263</WikiTitleID> <RankerScore>0.009714122133345842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Texas_Teen_USA</WikiTitle> <WikiTitleID>4589225</WikiTitleID> <RankerScore>0.009714122133345842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas_Longhorns_men&apos;s_basketball</WikiTitle> <WikiTitleID>9121756</WikiTitleID> <RankerScore>0.009714122133345842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_Texas</WikiTitle> <WikiTitleID>25457</WikiTitleID> <RankerScore>0.009714122133345842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas_Rangers_(baseball)</WikiTitle> <WikiTitleID>30857</WikiTitleID> <RankerScore>0.009714122133345842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Texas_Longhorns_football_team</WikiTitle> <WikiTitleID>9085354</WikiTitleID> <RankerScore>0.009714122133345842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexican_Texas</WikiTitle> <WikiTitleID>980415</WikiTitleID> <RankerScore>0.009714122133345842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas_wine</WikiTitle> <WikiTitleID>11953901</WikiTitleID> <RankerScore>0.009714122133345842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Antonio</WikiTitle> <WikiTitleID>53848</WikiTitleID> <RankerScore>0.009714122133345842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas_Lottery</WikiTitle> <WikiTitleID>10952845</WikiTitleID> <RankerScore>0.009714122133345842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_Senators_from_Texas</WikiTitle> <WikiTitleID>416457</WikiTitleID> <RankerScore>0.009714122133345842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas,_New_York</WikiTitle> <WikiTitleID>7074728</WikiTitleID> <RankerScore>0.009714122133345842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas,_Queensland</WikiTitle> <WikiTitleID>613777</WikiTitleID> <RankerScore>0.009714122133345842</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>northern</EntitySurfaceForm>
+	<EntityTextStart>120</EntityTextStart>
+	<EntityTextEnd>128</EntityTextEnd>
+	<LinkerScore>-2.1897794559205885</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Northern_Hemisphere</WikiTitle>
+		<WikiTitleID>22126</WikiTitleID>
+		<RankerScore>0.395183478832631</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Northern</WikiTitle> <WikiTitleID>47500</WikiTitleID> <RankerScore>0.08101989540284021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_India</WikiTitle> <WikiTitleID>1552939</WikiTitleID> <RankerScore>0.03337544772676706</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_England</WikiTitle> <WikiTitleID>714694</WikiTitleID> <RankerScore>0.02884830459045657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Hemisphere</WikiTitle> <WikiTitleID>22126</WikiTitleID> <RankerScore>0.395183478832631</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Europe</WikiTitle> <WikiTitleID>159865</WikiTitleID> <RankerScore>0.02884830459045657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norte_Region,_Portugal</WikiTitle> <WikiTitleID>2528128</WikiTitleID> <RankerScore>0.02884830459045657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_California</WikiTitle> <WikiTitleID>147675</WikiTitleID> <RankerScore>0.02884830459045657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_China</WikiTitle> <WikiTitleID>923364</WikiTitleID> <RankerScore>0.02884830459045657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Italy</WikiTitle> <WikiTitleID>2155325</WikiTitleID> <RankerScore>0.02884830459045657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_County_(San_Diego_area)</WikiTitle> <WikiTitleID>383384</WikiTitleID> <RankerScore>0.02884830459045657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Thailand</WikiTitle> <WikiTitleID>879139</WikiTitleID> <RankerScore>0.02884830459045657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Region,_Singapore</WikiTitle> <WikiTitleID>2224589</WikiTitleID> <RankerScore>0.02884830459045657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_United_States</WikiTitle> <WikiTitleID>509638</WikiTitleID> <RankerScore>0.02884830459045657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Virginia</WikiTitle> <WikiTitleID>673712</WikiTitleID> <RankerScore>0.02884830459045657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ontario</WikiTitle> <WikiTitleID>211003</WikiTitleID> <RankerScore>0.02884830459045657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Jersey</WikiTitle> <WikiTitleID>700586</WikiTitleID> <RankerScore>0.02884830459045657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minho</WikiTitle> <WikiTitleID>3820002</WikiTitleID> <RankerScore>0.02884830459045657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Louisiana</WikiTitle> <WikiTitleID>922286</WikiTitleID> <RankerScore>0.02884830459045657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_(genre)</WikiTitle> <WikiTitleID>8296742</WikiTitleID> <RankerScore>0.02884830459045657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Province,_Sri_Lanka</WikiTitle> <WikiTitleID>2312534</WikiTitleID> <RankerScore>0.02884830459045657</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>northern polar</EntitySurfaceForm>
+	<EntityTextStart>120</EntityTextStart>
+	<EntityTextEnd>134</EntityTextEnd>
+	<LinkerScore>4.647873390907538</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>North_Pole</WikiTitle>
+		<WikiTitleID>21836</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>point</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>North_Pole</WikiTitle> <WikiTitleID>21836</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>polar</EntitySurfaceForm>
+	<EntityTextStart>129</EntityTextStart>
+	<EntityTextEnd>134</EntityTextEnd>
+	<LinkerScore>-2.8243707147173507</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Polar_region</WikiTitle>
+		<WikiTitleID>455682</WikiTitleID>
+		<RankerScore>0.6857633815107815</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chemical_polarity</WikiTitle> <WikiTitleID>361038</WikiTitleID> <RankerScore>0.0364511811174135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Geographical_pole</WikiTitle> <WikiTitleID>455696</WikiTitleID> <RankerScore>0.05891397415864274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polar</WikiTitle> <WikiTitleID>60208</WikiTitleID> <RankerScore>0.012874791953715428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polar_region</WikiTitle> <WikiTitleID>455682</WikiTitleID> <RankerScore>0.6857633815107815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polar_coordinate_system</WikiTitle> <WikiTitleID>25120</WikiTitleID> <RankerScore>0.012874791953715428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polar_climate</WikiTitle> <WikiTitleID>50048</WikiTitleID> <RankerScore>0.012874791953715428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polar_orbit</WikiTitle> <WikiTitleID>355155</WikiTitleID> <RankerScore>0.012874791953715428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polarity</WikiTitle> <WikiTitleID>2940679</WikiTitleID> <RankerScore>0.012874791953715428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Pole</WikiTitle> <WikiTitleID>21836</WikiTitleID> <RankerScore>0.012874791953715428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dipole</WikiTitle> <WikiTitleID>8378</WikiTitleID> <RankerScore>0.012874791953715428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polar_set</WikiTitle> <WikiTitleID>1764022</WikiTitleID> <RankerScore>0.012874791953715428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Solvent</WikiTitle> <WikiTitleID>37431</WikiTitleID> <RankerScore>0.012874791953715428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polar_bond</WikiTitle> <WikiTitleID>1801959</WikiTitleID> <RankerScore>0.012874791953715428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polar_vortex</WikiTitle> <WikiTitleID>244883</WikiTitleID> <RankerScore>0.012874791953715428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polar_(cataclysmic_variable_star)</WikiTitle> <WikiTitleID>5171444</WikiTitleID> <RankerScore>0.012874791953715428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Pole</WikiTitle> <WikiTitleID>28655</WikiTitleID> <RankerScore>0.012874791953715428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arctic</WikiTitle> <WikiTitleID>36971</WikiTitleID> <RankerScore>0.012874791953715428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polar_space</WikiTitle> <WikiTitleID>3948557</WikiTitleID> <RankerScore>0.012874791953715428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Magnetic_pole</WikiTitle> <WikiTitleID>197632</WikiTitleID> <RankerScore>0.012874791953715428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hydrophile</WikiTitle> <WikiTitleID>79293</WikiTitleID> <RankerScore>0.012874791953715428</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>polar region</EntitySurfaceForm>
+	<EntityTextStart>129</EntityTextStart>
+	<EntityTextEnd>141</EntityTextEnd>
+	<LinkerScore>2.525331883940193</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Polar_region</WikiTitle>
+		<WikiTitleID>455682</WikiTitleID>
+		<RankerScore>0.9838267128933256</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Polar_region</WikiTitle> <WikiTitleID>455682</WikiTitleID> <RankerScore>0.9838267128933256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arctic</WikiTitle> <WikiTitleID>36971</WikiTitleID> <RankerScore>0.016173287106674462</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>region</EntitySurfaceForm>
+	<EntityTextStart>135</EntityTextStart>
+	<EntityTextEnd>141</EntityTextEnd>
+	<LinkerScore>5.655805219447746</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Region</WikiTitle>
+		<WikiTitleID>55633</WikiTitleID>
+		<RankerScore>0.2319525373881684</RankerScore>
+		<Attributes>region</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Regions_of_France</WikiTitle> <WikiTitleID>58846</WikiTitleID> <RankerScore>0.1906886898414052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Region</WikiTitle> <WikiTitleID>55633</WikiTitleID> <RankerScore>0.2319525373881684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Finland</WikiTitle> <WikiTitleID>211865</WikiTitleID> <RankerScore>0.13668494768906095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Local_government_areas_of_Scotland_1973_to_1996</WikiTitle> <WikiTitleID>852652</WikiTitleID> <RankerScore>0.025921989710668558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_regions_of_Quebec</WikiTitle> <WikiTitleID>76216</WikiTitleID> <RankerScore>0.025921989710668558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_the_Philippines</WikiTitle> <WikiTitleID>216786</WikiTitleID> <RankerScore>0.025921989710668558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Chad</WikiTitle> <WikiTitleID>2666523</WikiTitleID> <RankerScore>0.025921989710668558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_England</WikiTitle> <WikiTitleID>52923</WikiTitleID> <RankerScore>0.025921989710668558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Italy</WikiTitle> <WikiTitleID>221250</WikiTitleID> <RankerScore>0.025921989710668558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Djibouti</WikiTitle> <WikiTitleID>1885953</WikiTitleID> <RankerScore>0.025921989710668558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_New_Zealand</WikiTitle> <WikiTitleID>58858</WikiTitleID> <RankerScore>0.025921989710668558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mkhare</WikiTitle> <WikiTitleID>3404317</WikiTitleID> <RankerScore>0.025921989710668558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modern_regions_of_Greece</WikiTitle> <WikiTitleID>2983750</WikiTitleID> <RankerScore>0.025921989710668558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_regions_of_India</WikiTitle> <WikiTitleID>623684</WikiTitleID> <RankerScore>0.025921989710668558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Madagascar</WikiTitle> <WikiTitleID>9855699</WikiTitleID> <RankerScore>0.025921989710668558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Mauritania</WikiTitle> <WikiTitleID>690348</WikiTitleID> <RankerScore>0.025921989710668558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departments_of_the_Republic_of_the_Congo</WikiTitle> <WikiTitleID>673508</WikiTitleID> <RankerScore>0.025921989710668558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_divisions_of_Peru</WikiTitle> <WikiTitleID>690419</WikiTitleID> <RankerScore>0.025921989710668558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Peru</WikiTitle> <WikiTitleID>9547211</WikiTitleID> <RankerScore>0.025921989710668558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Subregion</WikiTitle> <WikiTitleID>719446</WikiTitleID> <RankerScore>0.025921989710668558</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the planet</EntitySurfaceForm>
+	<EntityTextStart>145</EntityTextStart>
+	<EntityTextEnd>155</EntityTextEnd>
+	<LinkerScore>-3.2845659581911875</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Earth</WikiTitle>
+		<WikiTitleID>9228</WikiTitleID>
+		<RankerScore>0.9923054888273826</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Earth</WikiTitle> <WikiTitleID>9228</WikiTitleID> <RankerScore>0.9923054888273826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars</WikiTitle> <WikiTitleID>14640471</WikiTitleID> <RankerScore>0.007694511172617424</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>planet</EntitySurfaceForm>
+	<EntityTextStart>149</EntityTextStart>
+	<EntityTextEnd>155</EntityTextEnd>
+	<LinkerScore>6.703578618162048</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Planet</WikiTitle>
+		<WikiTitleID>22915</WikiTitleID>
+		<RankerScore>0.5445283068797669</RankerScore>
+		<Attributes>planet	source</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Planet</WikiTitle> <WikiTitleID>22915</WikiTitleID> <RankerScore>0.5445283068797669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extrasolar_planet</WikiTitle> <WikiTitleID>9763</WikiTitleID> <RankerScore>7.633458789034172E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth</WikiTitle> <WikiTitleID>9228</WikiTitleID> <RankerScore>0.45524813751435406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Planets_in_astrology</WikiTitle> <WikiTitleID>1852754</WikiTitleID> <RankerScore>1.1324693691426838E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Planets_in_science_fiction</WikiTitle> <WikiTitleID>87916</WikiTitleID> <RankerScore>1.1324693691426838E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pulsar_planet</WikiTitle> <WikiTitleID>882346</WikiTitleID> <RankerScore>1.1324693691426838E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HD_132406_b</WikiTitle> <WikiTitleID>12129829</WikiTitleID> <RankerScore>1.1324693691426838E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dwarf_planet</WikiTitle> <WikiTitleID>6395779</WikiTitleID> <RankerScore>1.1324693691426838E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HD_17156_b</WikiTitle> <WikiTitleID>18211737</WikiTitleID> <RankerScore>1.1324693691426838E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iota_Draconis_b</WikiTitle> <WikiTitleID>11724589</WikiTitleID> <RankerScore>1.1324693691426838E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>41_Lyncis_b</WikiTitle> <WikiTitleID>15933761</WikiTitleID> <RankerScore>1.1324693691426838E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HD_169830_b</WikiTitle> <WikiTitleID>16782262</WikiTitleID> <RankerScore>1.1324693691426838E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>51_Pegasi_b</WikiTitle> <WikiTitleID>1201752</WikiTitleID> <RankerScore>1.1324693691426838E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>PSR_B1620-26_b</WikiTitle> <WikiTitleID>265731</WikiTitleID> <RankerScore>1.1324693691426838E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Navagraha</WikiTitle> <WikiTitleID>3856794</WikiTitleID> <RankerScore>1.1324693691426838E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HD_149026_b</WikiTitle> <WikiTitleID>2156774</WikiTitleID> <RankerScore>1.1324693691426838E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mars</EntitySurfaceForm>
+	<EntityTextStart>157</EntityTextStart>
+	<EntityTextEnd>161</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mars</WikiTitle>
+		<WikiTitleID>14640471</WikiTitleID>
+		<RankerScore>0.973678739694125</RankerScore>
+		<Attributes>planet</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mars</WikiTitle> <WikiTitleID>14640471</WikiTitleID> <RankerScore>0.973678739694125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(mythology)</WikiTitle> <WikiTitleID>47221</WikiTitleID> <RankerScore>0.02045529450432642</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars,_Incorporated</WikiTitle> <WikiTitleID>245067</WikiTitleID> <RankerScore>3.351227426494907E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(band)</WikiTitle> <WikiTitleID>91159</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(Doctor_Who)</WikiTitle> <WikiTitleID>2524922</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars,_Pennsylvania</WikiTitle> <WikiTitleID>131615</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Planets_in_astrology</WikiTitle> <WikiTitleID>1852754</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_in_fiction</WikiTitle> <WikiTitleID>20257</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(chocolate_bar)</WikiTitle> <WikiTitleID>247079</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(manga)</WikiTitle> <WikiTitleID>2476452</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ares_(DC_Comics)</WikiTitle> <WikiTitleID>4869494</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(comics)</WikiTitle> <WikiTitleID>9825531</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moons_of_Mars</WikiTitle> <WikiTitleID>1655082</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(TV_series)</WikiTitle> <WikiTitleID>3002602</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colonization_of_Mars</WikiTitle> <WikiTitleID>1744360</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(album)</WikiTitle> <WikiTitleID>2029656</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Martian</WikiTitle> <WikiTitleID>47792</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barsoom</WikiTitle> <WikiTitleID>4411</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_in_the_fiction_of_Leigh_Brackett</WikiTitle> <WikiTitleID>3994400</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ares</WikiTitle> <WikiTitleID>2041</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>month</EntitySurfaceForm>
+	<EntityTextStart>169</EntityTextStart>
+	<EntityTextEnd>174</EntityTextEnd>
+	<LinkerScore>-1.906008776430172</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Month</WikiTitle>
+		<WikiTitleID>20354</WikiTitleID>
+		<RankerScore>0.9465291973048477</RankerScore>
+		<Attributes>calendar	order	unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Month</WikiTitle> <WikiTitleID>20354</WikiTitleID> <RankerScore>0.9465291973048477</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iranian_calendars</WikiTitle> <WikiTitleID>99227</WikiTitleID> <RankerScore>0.020597753672542053</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tamil_calendar</WikiTitle> <WikiTitleID>1740431</WikiTitleID> <RankerScore>0.03287304902261024</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>space telescope</EntitySurfaceForm>
+	<EntityTextStart>190</EntityTextStart>
+	<EntityTextEnd>205</EntityTextEnd>
+	<LinkerScore>4.910298636319876</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Space_observatory</WikiTitle>
+		<WikiTitleID>29006</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>observatory</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Space_observatory</WikiTitle> <WikiTitleID>29006</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>red</EntitySurfaceForm>
+	<EntityTextStart>221</EntityTextStart>
+	<EntityTextEnd>224</EntityTextEnd>
+	<LinkerScore>0.6642323350241348</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Red</WikiTitle>
+		<WikiTitleID>25825</WikiTitleID>
+		<RankerScore>0.6184978972405168</RankerScore>
+		<Attributes>shades</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Red</WikiTitle> <WikiTitleID>25825</WikiTitleID> <RankerScore>0.6184978972405168</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_fox</WikiTitle> <WikiTitleID>571018</WikiTitleID> <RankerScore>0.0166332417073847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pinus_resinosa</WikiTitle> <WikiTitleID>507802</WikiTitleID> <RankerScore>0.014956089199055006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_hair</WikiTitle> <WikiTitleID>270381</WikiTitleID> <RankerScore>0.020583104226649614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_deer</WikiTitle> <WikiTitleID>779725</WikiTitleID> <RankerScore>0.020583104226649614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wine</WikiTitle> <WikiTitleID>32961</WikiTitleID> <RankerScore>0.020583104226649614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communism</WikiTitle> <WikiTitleID>9209651</WikiTitleID> <RankerScore>0.020583104226649614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_blood_cell</WikiTitle> <WikiTitleID>67158</WikiTitleID> <RankerScore>0.020583104226649614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_algae</WikiTitle> <WikiTitleID>341045</WikiTitleID> <RankerScore>0.020583104226649614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gules</WikiTitle> <WikiTitleID>105251</WikiTitleID> <RankerScore>0.020583104226649614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_states_and_blue_states</WikiTitle> <WikiTitleID>1130657</WikiTitleID> <RankerScore>0.020583104226649614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chestnut_(coat)</WikiTitle> <WikiTitleID>3746113</WikiTitleID> <RankerScore>0.020583104226649614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_oak</WikiTitle> <WikiTitleID>371210</WikiTitleID> <RankerScore>0.020583104226649614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Social_Democratic_Party_of_Germany</WikiTitle> <WikiTitleID>60585</WikiTitleID> <RankerScore>0.020583104226649614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_flag</WikiTitle> <WikiTitleID>342493</WikiTitleID> <RankerScore>0.020583104226649614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Acer_rubrum</WikiTitle> <WikiTitleID>181178</WikiTitleID> <RankerScore>0.020583104226649614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_dwarf</WikiTitle> <WikiTitleID>56099</WikiTitleID> <RankerScore>0.020583104226649614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Army</WikiTitle> <WikiTitleID>25682</WikiTitleID> <RankerScore>0.020583104226649614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Admiral_(Royal_Navy)</WikiTitle> <WikiTitleID>2385744</WikiTitleID> <RankerScore>0.020583104226649614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_meat</WikiTitle> <WikiTitleID>1764200</WikiTitleID> <RankerScore>0.020583104226649614</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>red planet</EntitySurfaceForm>
+	<EntityTextStart>221</EntityTextStart>
+	<EntityTextEnd>231</EntityTextEnd>
+	<LinkerScore>7.632926760441913</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mars</WikiTitle>
+		<WikiTitleID>14640471</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>planet</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mars</WikiTitle> <WikiTitleID>14640471</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>planet</EntitySurfaceForm>
+	<EntityTextStart>225</EntityTextStart>
+	<EntityTextEnd>231</EntityTextEnd>
+	<LinkerScore>8.80195580502942</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Planet</WikiTitle>
+		<WikiTitleID>22915</WikiTitleID>
+		<RankerScore>0.6263060365023193</RankerScore>
+		<Attributes>planet	source</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Planet</WikiTitle> <WikiTitleID>22915</WikiTitleID> <RankerScore>0.6263060365023193</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extrasolar_planet</WikiTitle> <WikiTitleID>9763</WikiTitleID> <RankerScore>1.0125386114339772E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth</WikiTitle> <WikiTitleID>9228</WikiTitleID> <RankerScore>0.3734004103544743</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Planets_in_astrology</WikiTitle> <WikiTitleID>1852754</WikiTitleID> <RankerScore>1.479225246638342E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Planets_in_science_fiction</WikiTitle> <WikiTitleID>87916</WikiTitleID> <RankerScore>1.479225246638342E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pulsar_planet</WikiTitle> <WikiTitleID>882346</WikiTitleID> <RankerScore>1.479225246638342E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HD_132406_b</WikiTitle> <WikiTitleID>12129829</WikiTitleID> <RankerScore>1.479225246638342E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dwarf_planet</WikiTitle> <WikiTitleID>6395779</WikiTitleID> <RankerScore>1.479225246638342E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HD_17156_b</WikiTitle> <WikiTitleID>18211737</WikiTitleID> <RankerScore>1.479225246638342E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iota_Draconis_b</WikiTitle> <WikiTitleID>11724589</WikiTitleID> <RankerScore>1.479225246638342E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>41_Lyncis_b</WikiTitle> <WikiTitleID>15933761</WikiTitleID> <RankerScore>1.479225246638342E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HD_169830_b</WikiTitle> <WikiTitleID>16782262</WikiTitleID> <RankerScore>1.479225246638342E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>51_Pegasi_b</WikiTitle> <WikiTitleID>1201752</WikiTitleID> <RankerScore>1.479225246638342E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>PSR_B1620-26_b</WikiTitle> <WikiTitleID>265731</WikiTitleID> <RankerScore>1.479225246638342E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Navagraha</WikiTitle> <WikiTitleID>3856794</WikiTitleID> <RankerScore>1.479225246638342E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HD_149026_b</WikiTitle> <WikiTitleID>2156774</WikiTitleID> <RankerScore>1.479225246638342E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Space Telescope Science Institute</EntitySurfaceForm>
+	<EntityTextStart>244</EntityTextStart>
+	<EntityTextEnd>277</EntityTextEnd>
+	<LinkerScore>20.293734376187263</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Space_Telescope_Science_Institute</WikiTitle>
+		<WikiTitleID>177098</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Space_Telescope_Science_Institute</WikiTitle> <WikiTitleID>177098</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>today</EntitySurfaceForm>
+	<EntityTextStart>290</EntityTextStart>
+	<EntityTextEnd>295</EntityTextEnd>
+	<LinkerScore>-19.351646832605606</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2007</WikiTitle>
+		<WikiTitleID>36165</WikiTitleID>
+		<RankerScore>0.4270097223953901</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2007</WikiTitle> <WikiTitleID>36165</WikiTitleID> <RankerScore>0.4270097223953901</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008</WikiTitle> <WikiTitleID>35825</WikiTitleID> <RankerScore>0.24958964531161756</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006</WikiTitle> <WikiTitleID>36164</WikiTitleID> <RankerScore>0.23251284774441994</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005</WikiTitle> <WikiTitleID>35984</WikiTitleID> <RankerScore>0.008262525868052036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004</WikiTitle> <WikiTitleID>35524</WikiTitleID> <RankerScore>0.008262525868052036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Today</WikiTitle> <WikiTitleID>206960</WikiTitleID> <RankerScore>0.008262525868052036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Presentism_(literary_and_historical_analysis)</WikiTitle> <WikiTitleID>2687740</WikiTitleID> <RankerScore>0.008262525868052036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000s</WikiTitle> <WikiTitleID>34579</WikiTitleID> <RankerScore>0.008262525868052036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modern_architecture</WikiTitle> <WikiTitleID>315927</WikiTitleID> <RankerScore>0.008262525868052036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1994</WikiTitle> <WikiTitleID>34663</WikiTitleID> <RankerScore>0.008262525868052036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Limburg-Stirum</WikiTitle> <WikiTitleID>9895884</WikiTitleID> <RankerScore>0.008262525868052036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>November_2007</WikiTitle> <WikiTitleID>9853055</WikiTitleID> <RankerScore>0.008262525868052036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Finmark</WikiTitle> <WikiTitleID>12599914</WikiTitleID> <RankerScore>0.008262525868052036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>July_2008</WikiTitle> <WikiTitleID>13292309</WikiTitleID> <RankerScore>0.008262525868052036</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Hubble Space Telescope</EntitySurfaceForm>
+	<EntityTextStart>306</EntityTextStart>
+	<EntityTextEnd>328</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hubble_Space_Telescope</WikiTitle>
+		<WikiTitleID>40203</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>satellite	experiment	accident	project</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hubble_Space_Telescope</WikiTitle> <WikiTitleID>40203</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>April 27</EntitySurfaceForm>
+	<EntityTextStart>334</EntityTextStart>
+	<EntityTextEnd>342</EntityTextEnd>
+	<LinkerScore>7.042245426521932</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>April_27</WikiTitle>
+		<WikiTitleID>2326</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>April_27</WikiTitle> <WikiTitleID>2326</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>April</EntitySurfaceForm>
+	<EntityTextStart>334</EntityTextStart>
+	<EntityTextEnd>339</EntityTextEnd>
+	<LinkerScore>0.9516005990058178</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>April</WikiTitle>
+		<WikiTitleID>1004</WikiTitleID>
+		<RankerScore>0.5450213221570155</RankerScore>
+		<Attributes>month</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>April</WikiTitle> <WikiTitleID>1004</WikiTitleID> <RankerScore>0.5450213221570155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2004</WikiTitle> <WikiTitleID>497562</WikiTitleID> <RankerScore>0.0935198425074639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2006</WikiTitle> <WikiTitleID>4586467</WikiTitleID> <RankerScore>0.04056112473957661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2005_in_sports</WikiTitle> <WikiTitleID>1557985</WikiTitleID> <RankerScore>0.01887633591740847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2003</WikiTitle> <WikiTitleID>207151</WikiTitleID> <RankerScore>0.01887633591740847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2002</WikiTitle> <WikiTitleID>31152</WikiTitleID> <RankerScore>0.01887633591740847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2000</WikiTitle> <WikiTitleID>1478018</WikiTitleID> <RankerScore>0.01887633591740847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2001</WikiTitle> <WikiTitleID>264126</WikiTitleID> <RankerScore>0.01887633591740847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2005</WikiTitle> <WikiTitleID>1490045</WikiTitleID> <RankerScore>0.01887633591740847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2006_in_sports</WikiTitle> <WikiTitleID>4586388</WikiTitleID> <RankerScore>0.01887633591740847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2005_in_science</WikiTitle> <WikiTitleID>1587016</WikiTitleID> <RankerScore>0.01887633591740847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2007_in_sports</WikiTitle> <WikiTitleID>10398819</WikiTitleID> <RankerScore>0.01887633591740847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2007_in_science</WikiTitle> <WikiTitleID>10501428</WikiTitleID> <RankerScore>0.01887633591740847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deaths_in_April_2005</WikiTitle> <WikiTitleID>1925313</WikiTitleID> <RankerScore>0.01887633591740847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2006_in_science</WikiTitle> <WikiTitleID>4587169</WikiTitleID> <RankerScore>0.01887633591740847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_in_India</WikiTitle> <WikiTitleID>1557033</WikiTitleID> <RankerScore>0.01887633591740847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2007</WikiTitle> <WikiTitleID>8906427</WikiTitleID> <RankerScore>0.01887633591740847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deaths_in_April_2006</WikiTitle> <WikiTitleID>3916296</WikiTitleID> <RankerScore>0.01887633591740847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deaths_in_April_2007</WikiTitle> <WikiTitleID>10990816</WikiTitleID> <RankerScore>0.01887633591740847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2005_in_Canada</WikiTitle> <WikiTitleID>1559876</WikiTitleID> <RankerScore>0.01887633591740847</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>27</EntitySurfaceForm>
+	<EntityTextStart>340</EntityTextStart>
+	<EntityTextEnd>342</EntityTextEnd>
+	<LinkerScore>7.477460871810402</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>April_27</WikiTitle>
+		<WikiTitleID>2326</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>April_27</WikiTitle> <WikiTitleID>2326</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Martian</EntitySurfaceForm>
+	<EntityTextStart>363</EntityTextStart>
+	<EntityTextEnd>370</EntityTextEnd>
+	<LinkerScore>3.6474138327910666</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Martian</WikiTitle>
+		<WikiTitleID>47792</WikiTitleID>
+		<RankerScore>0.6795155261988672</RankerScore>
+		<Attributes>entity</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Martian</WikiTitle> <WikiTitleID>47792</WikiTitleID> <RankerScore>0.6795155261988672</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars</WikiTitle> <WikiTitleID>14640471</WikiTitleID> <RankerScore>0.2718859514875284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Martian_(The_War_of_the_Worlds)</WikiTitle> <WikiTitleID>4928560</WikiTitleID> <RankerScore>0.0322381636903739</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barsoom</WikiTitle> <WikiTitleID>4411</WikiTitleID> <RankerScore>0.00327207172464605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Martian_meteorite</WikiTitle> <WikiTitleID>67216</WikiTitleID> <RankerScore>0.00327207172464605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Martian_poetry</WikiTitle> <WikiTitleID>1498802</WikiTitleID> <RankerScore>0.00327207172464605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_in_fiction</WikiTitle> <WikiTitleID>20257</WikiTitleID> <RankerScore>0.00327207172464605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(Doctor_Who)</WikiTitle> <WikiTitleID>2524922</WikiTitleID> <RankerScore>0.00327207172464605</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>ice</EntitySurfaceForm>
+	<EntityTextStart>404</EntityTextStart>
+	<EntityTextEnd>407</EntityTextEnd>
+	<LinkerScore>6.913438605241411</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ice</WikiTitle>
+		<WikiTitleID>14946</WikiTitleID>
+		<RankerScore>0.9936348232066864</RankerScore>
+		<Attributes>form	material	mineral</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ice</WikiTitle> <WikiTitleID>14946</WikiTitleID> <RankerScore>0.9936348232066864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sea_ice</WikiTitle> <WikiTitleID>343225</WikiTitleID> <RankerScore>2.7092958296245554E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glacier</WikiTitle> <WikiTitleID>12463</WikiTitleID> <RankerScore>0.004531413555877432</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ice_road</WikiTitle> <WikiTitleID>3858868</WikiTitleID> <RankerScore>9.193139143963817E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ice_skating</WikiTitle> <WikiTitleID>15146</WikiTitleID> <RankerScore>9.193139143963817E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Methamphetamine</WikiTitle> <WikiTitleID>11038318</WikiTitleID> <RankerScore>9.193139143963817E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ice_cube</WikiTitle> <WikiTitleID>971736</WikiTitleID> <RankerScore>9.193139143963817E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ice_hockey_rink</WikiTitle> <WikiTitleID>567927</WikiTitleID> <RankerScore>9.193139143963817E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Freezing_rain</WikiTitle> <WikiTitleID>220825</WikiTitleID> <RankerScore>9.193139143963817E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drift_ice</WikiTitle> <WikiTitleID>665139</WikiTitleID> <RankerScore>9.193139143963817E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Volatiles</WikiTitle> <WikiTitleID>9446968</WikiTitleID> <RankerScore>9.193139143963817E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ice_hockey</WikiTitle> <WikiTitleID>14790</WikiTitleID> <RankerScore>9.193139143963817E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iceberg</WikiTitle> <WikiTitleID>146230</WikiTitleID> <RankerScore>9.193139143963817E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ice_core</WikiTitle> <WikiTitleID>426456</WikiTitleID> <RankerScore>9.193139143963817E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ice_racing</WikiTitle> <WikiTitleID>1521112</WikiTitleID> <RankerScore>9.193139143963817E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Antarctic_ice_sheet</WikiTitle> <WikiTitleID>1157839</WikiTitleID> <RankerScore>9.193139143963817E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_ice</WikiTitle> <WikiTitleID>1889217</WikiTitleID> <RankerScore>9.193139143963817E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ice_rink</WikiTitle> <WikiTitleID>979488</WikiTitleID> <RankerScore>9.193139143963817E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glaciology</WikiTitle> <WikiTitleID>231504</WikiTitleID> <RankerScore>9.193139143963817E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ice_cream</WikiTitle> <WikiTitleID>48212</WikiTitleID> <RankerScore>9.193139143963817E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>miles</EntitySurfaceForm>
+	<EntityTextStart>426</EntityTextStart>
+	<EntityTextEnd>431</EntityTextEnd>
+	<LinkerScore>3.8524994356105093</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mile</WikiTitle>
+		<WikiTitleID>19159</WikiTitleID>
+		<RankerScore>0.9219010119870688</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mile</WikiTitle> <WikiTitleID>19159</WikiTitleID> <RankerScore>0.9219010119870688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nautical_mile</WikiTitle> <WikiTitleID>21289</WikiTitleID> <RankerScore>0.015959776916809228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milites</WikiTitle> <WikiTitleID>8514461</WikiTitleID> <RankerScore>0.015317545432065139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Li_(unit)</WikiTitle> <WikiTitleID>1495421</WikiTitleID> <RankerScore>0.011705416416014197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milke</WikiTitle> <WikiTitleID>13067336</WikiTitleID> <RankerScore>0.011705416416014197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legionary</WikiTitle> <WikiTitleID>288612</WikiTitleID> <RankerScore>0.011705416416014197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miles_per_hour</WikiTitle> <WikiTitleID>182283</WikiTitleID> <RankerScore>0.011705416416014197</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>900</EntitySurfaceForm>
+	<EntityTextStart>441</EntityTextStart>
+	<EntityTextEnd>444</EntityTextEnd>
+	<LinkerScore>4.881073302022374</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>900</WikiTitle>
+		<WikiTitleID>42382</WikiTitleID>
+		<RankerScore>0.579700601388181</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>900</WikiTitle> <WikiTitleID>42382</WikiTitleID> <RankerScore>0.579700601388181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saab_900</WikiTitle> <WikiTitleID>252696</WikiTitleID> <RankerScore>0.02855835433222258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>10th_century_BC</WikiTitle> <WikiTitleID>55507</WikiTitleID> <RankerScore>0.023185535104876795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Premium-rate_telephone_number</WikiTitle> <WikiTitleID>252014</WikiTitleID> <RankerScore>0.03350504628861087</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>900_(skateboarding)</WikiTitle> <WikiTitleID>3398906</WikiTitleID> <RankerScore>0.03350504628861087</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UMTS_frequency_bands</WikiTitle> <WikiTitleID>11678343</WikiTitleID> <RankerScore>0.03350504628861087</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HTC_Universal</WikiTitle> <WikiTitleID>5383824</WikiTitleID> <RankerScore>0.03350504628861087</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yamaha_XJ900</WikiTitle> <WikiTitleID>4876668</WikiTitleID> <RankerScore>0.03350504628861087</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>900_(number)</WikiTitle> <WikiTitleID>473915</WikiTitleID> <RankerScore>0.03350504628861087</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>10th_century</WikiTitle> <WikiTitleID>34738</WikiTitleID> <RankerScore>0.03350504628861087</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_900</WikiTitle> <WikiTitleID>1231636</WikiTitleID> <RankerScore>0.03350504628861087</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Macintosh_Quadra_900</WikiTitle> <WikiTitleID>4273507</WikiTitleID> <RankerScore>0.03350504628861087</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>900s_in_poetry</WikiTitle> <WikiTitleID>8373129</WikiTitleID> <RankerScore>0.03350504628861087</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yamaha_TDM850</WikiTitle> <WikiTitleID>2792030</WikiTitleID> <RankerScore>0.03350504628861087</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bands</EntitySurfaceForm>
+	<EntityTextStart>457</EntityTextStart>
+	<EntityTextEnd>462</EntityTextEnd>
+	<LinkerScore>2.917372176422541</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Musical_ensemble</WikiTitle>
+		<WikiTitleID>20180</WikiTitleID>
+		<RankerScore>0.4375578419369712</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Musical_ensemble</WikiTitle> <WikiTitleID>20180</WikiTitleID> <RankerScore>0.4375578419369712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Band_society</WikiTitle> <WikiTitleID>876827</WikiTitleID> <RankerScore>0.37112063150999697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_band</WikiTitle> <WikiTitleID>303494</WikiTitleID> <RankerScore>0.19132152655303172</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>clouds</EntitySurfaceForm>
+	<EntityTextStart>466</EntityTextStart>
+	<EntityTextEnd>472</EntityTextEnd>
+	<LinkerScore>-0.06925636655518375</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cloud</WikiTitle>
+		<WikiTitleID>47515</WikiTitleID>
+		<RankerScore>0.999465007140255</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cloud</WikiTitle> <WikiTitleID>47515</WikiTitleID> <RankerScore>0.999465007140255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Interstellar_cloud</WikiTitle> <WikiTitleID>14979</WikiTitleID> <RankerScore>7.124430619155152E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aether</WikiTitle> <WikiTitleID>1138337</WikiTitleID> <RankerScore>9.703513044338015E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atomic_orbital</WikiTitle> <WikiTitleID>1181480</WikiTitleID> <RankerScore>9.167835577750298E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cloud_computing</WikiTitle> <WikiTitleID>9831001</WikiTitleID> <RankerScore>9.167835577750298E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Interstellar_medium</WikiTitle> <WikiTitleID>69453</WikiTitleID> <RankerScore>9.167835577750298E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cloud_(music)</WikiTitle> <WikiTitleID>593745</WikiTitleID> <RankerScore>9.167835577750298E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>counterclockwise</EntitySurfaceForm>
+	<EntityTextStart>487</EntityTextStart>
+	<EntityTextEnd>503</EntityTextEnd>
+	<LinkerScore>5.542127779695329</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Clockwise</WikiTitle>
+		<WikiTitleID>4956728</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>concept</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Clockwise</WikiTitle> <WikiTitleID>4956728</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>motion</EntitySurfaceForm>
+	<EntityTextStart>504</EntityTextStart>
+	<EntityTextEnd>510</EntityTextEnd>
+	<LinkerScore>2.0506056880923498</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Orbit</WikiTitle>
+		<WikiTitleID>22498</WikiTitleID>
+		<RankerScore>0.6624571378416524</RankerScore>
+		<Attributes>aspect	mechanics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Motion_(physics)</WikiTitle> <WikiTitleID>20580</WikiTitleID> <RankerScore>0.22279882852194408</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Motion</WikiTitle> <WikiTitleID>4789259</WikiTitleID> <RankerScore>0.027304783832308232</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Motion_(legal)</WikiTitle> <WikiTitleID>465051</WikiTitleID> <RankerScore>0.005143485282593838</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Motion_(parliamentary_procedure)</WikiTitle> <WikiTitleID>16207069</WikiTitleID> <RankerScore>0.005143485282593838</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Motion_(democracy)</WikiTitle> <WikiTitleID>465065</WikiTitleID> <RankerScore>0.005143485282593838</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Newton&apos;s_laws_of_motion</WikiTitle> <WikiTitleID>55212</WikiTitleID> <RankerScore>0.005143485282593838</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orbit</WikiTitle> <WikiTitleID>22498</WikiTitleID> <RankerScore>0.6624571378416524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Motion_perception</WikiTitle> <WikiTitleID>1534578</WikiTitleID> <RankerScore>0.005143485282593838</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kinetic_energy</WikiTitle> <WikiTitleID>17327</WikiTitleID> <RankerScore>0.005143485282593838</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ship_motions</WikiTitle> <WikiTitleID>5456327</WikiTitleID> <RankerScore>0.005143485282593838</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Motion_graphics</WikiTitle> <WikiTitleID>5010353</WikiTitleID> <RankerScore>0.005143485282593838</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Celestial_mechanics</WikiTitle> <WikiTitleID>102182</WikiTitleID> <RankerScore>0.005143485282593838</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proper_motion</WikiTitle> <WikiTitleID>52015</WikiTitleID> <RankerScore>0.005143485282593838</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_day_motion</WikiTitle> <WikiTitleID>144674</WikiTitleID> <RankerScore>0.005143485282593838</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horse_gait</WikiTitle> <WikiTitleID>293439</WikiTitleID> <RankerScore>0.005143485282593838</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Motion_sickness</WikiTitle> <WikiTitleID>62580</WikiTitleID> <RankerScore>0.005143485282593838</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamics_(mechanics)</WikiTitle> <WikiTitleID>226020</WikiTitleID> <RankerScore>0.005143485282593838</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rigid_body</WikiTitle> <WikiTitleID>455769</WikiTitleID> <RankerScore>0.005143485282593838</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hyperbolic_motion</WikiTitle> <WikiTitleID>1229416</WikiTitleID> <RankerScore>0.005143485282593838</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kinesiology</WikiTitle> <WikiTitleID>545909</WikiTitleID> <RankerScore>0.005143485282593838</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>wide</EntitySurfaceForm>
+	<EntityTextStart>529</EntityTextStart>
+	<EntityTextEnd>533</EntityTextEnd>
+	<LinkerScore>-3.2281594486099916</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wide</WikiTitle>
+		<WikiTitleID>668588</WikiTitleID>
+		<RankerScore>0.5569564543989207</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Wide</WikiTitle> <WikiTitleID>668588</WikiTitleID> <RankerScore>0.5569564543989207</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wide-angle_lens</WikiTitle> <WikiTitleID>195698</WikiTitleID> <RankerScore>0.24101306660017463</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Widescreen</WikiTitle> <WikiTitleID>33263</WikiTitleID> <RankerScore>0.09440451834528381</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wide_release</WikiTitle> <WikiTitleID>1660526</WikiTitleID> <RankerScore>0.10762596065562091</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>wide eye</EntitySurfaceForm>
+	<EntityTextStart>529</EntityTextStart>
+	<EntityTextEnd>537</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wide-Eye</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>eye</EntitySurfaceForm>
+	<EntityTextStart>534</EntityTextStart>
+	<EntityTextEnd>537</EntityTextEnd>
+	<LinkerScore>9.229412773394431</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Eye_(cyclone)</WikiTitle>
+		<WikiTitleID>4652664</WikiTitleID>
+		<RankerScore>0.9453869501323717</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Eye</WikiTitle> <WikiTitleID>157898</WikiTitleID> <RankerScore>0.04742646953121295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_(cyclone)</WikiTitle> <WikiTitleID>4652664</WikiTitleID> <RankerScore>0.9453869501323717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_Weekly</WikiTitle> <WikiTitleID>1167950</WikiTitleID> <RankerScore>4.470228649676722E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_Horus</WikiTitle> <WikiTitleID>967176</WikiTitleID> <RankerScore>5.616297892873031E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_Vecna</WikiTitle> <WikiTitleID>1569830</WikiTitleID> <RankerScore>5.616297892873031E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_Providence</WikiTitle> <WikiTitleID>506916</WikiTitleID> <RankerScore>5.616297892873031E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Witness</WikiTitle> <WikiTitleID>50956</WikiTitleID> <RankerScore>5.616297892873031E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ophthalmic</WikiTitle> <WikiTitleID>767342</WikiTitleID> <RankerScore>5.616297892873031E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_surgery</WikiTitle> <WikiTitleID>587878</WikiTitleID> <RankerScore>5.616297892873031E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Equine_vision</WikiTitle> <WikiTitleID>12204086</WikiTitleID> <RankerScore>5.616297892873031E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_color</WikiTitle> <WikiTitleID>759008</WikiTitleID> <RankerScore>5.616297892873031E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visual_perception</WikiTitle> <WikiTitleID>241675</WikiTitleID> <RankerScore>5.616297892873031E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Evolution_of_the_eye</WikiTitle> <WikiTitleID>5645086</WikiTitleID> <RankerScore>5.616297892873031E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_a_needle</WikiTitle> <WikiTitleID>1530163</WikiTitleID> <RankerScore>5.616297892873031E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Projective_geometry</WikiTitle> <WikiTitleID>243849</WikiTitleID> <RankerScore>5.616297892873031E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the center</EntitySurfaceForm>
+	<EntityTextStart>541</EntityTextStart>
+	<EntityTextEnd>551</EntityTextEnd>
+	<LinkerScore>-1.0276251312486218</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Kabul</WikiTitle>
+		<WikiTitleID>16826</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>place	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Kabul</WikiTitle> <WikiTitleID>16826</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>center</EntitySurfaceForm>
+	<EntityTextStart>545</EntityTextStart>
+	<EntityTextEnd>551</EntityTextEnd>
+	<LinkerScore>-2.0726809148529446</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Center_(basketball)</WikiTitle>
+		<WikiTitleID>652569</WikiTitleID>
+		<RankerScore>0.2423559243568466</RankerScore>
+		<Attributes>center	position</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Center_(basketball)</WikiTitle> <WikiTitleID>652569</WikiTitleID> <RankerScore>0.2423559243568466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Center_(American_and_Canadian_football)</WikiTitle> <WikiTitleID>2321562</WikiTitleID> <RankerScore>0.2052688690892231</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Centre_(ice_hockey)</WikiTitle> <WikiTitleID>567643</WikiTitleID> <RankerScore>0.08159689056827127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Center_(group_theory)</WikiTitle> <WikiTitleID>7125</WikiTitleID> <RankerScore>0.027692842116803475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Center_fielder</WikiTitle> <WikiTitleID>583923</WikiTitleID> <RankerScore>0.027692842116803475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Center_(algebra)</WikiTitle> <WikiTitleID>342453</WikiTitleID> <RankerScore>0.027692842116803475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Centrism</WikiTitle> <WikiTitleID>506651</WikiTitleID> <RankerScore>0.027692842116803475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Centre_(geometry)</WikiTitle> <WikiTitleID>4850775</WikiTitleID> <RankerScore>0.027692842116803475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Center</WikiTitle> <WikiTitleID>39391</WikiTitleID> <RankerScore>0.027692842116803475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Center_of_mass</WikiTitle> <WikiTitleID>173961</WikiTitleID> <RankerScore>0.027692842116803475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Galactic_Center</WikiTitle> <WikiTitleID>373352</WikiTitleID> <RankerScore>0.027692842116803475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lathe_center</WikiTitle> <WikiTitleID>2549545</WikiTitleID> <RankerScore>0.027692842116803475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Liberalism</WikiTitle> <WikiTitleID>17738</WikiTitleID> <RankerScore>0.027692842116803475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_football_positions</WikiTitle> <WikiTitleID>4009259</WikiTitleID> <RankerScore>0.027692842116803475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Centro_Region,_Portugal</WikiTitle> <WikiTitleID>2369085</WikiTitleID> <RankerScore>0.027692842116803475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Power_forward_(basketball)</WikiTitle> <WikiTitleID>284482</WikiTitleID> <RankerScore>0.027692842116803475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plymouth_Center,_Massachusetts</WikiTitle> <WikiTitleID>259485</WikiTitleID> <RankerScore>0.027692842116803475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_union_positions</WikiTitle> <WikiTitleID>771803</WikiTitleID> <RankerScore>0.027692842116803475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tonic_(music)</WikiTitle> <WikiTitleID>43191</WikiTitleID> <RankerScore>0.027692842116803475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lviv</WikiTitle> <WikiTitleID>49968</WikiTitleID> <RankerScore>0.027692842116803475</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the storm</EntitySurfaceForm>
+	<EntityTextStart>555</EntityTextStart>
+	<EntityTextEnd>564</EntityTextEnd>
+	<LinkerScore>3.1495574965662985</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Tempest_(album)</WikiTitle>
+		<WikiTitleID>2360863</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>The_Tempest_(album)</WikiTitle> <WikiTitleID>2360863</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>storm</EntitySurfaceForm>
+	<EntityTextStart>559</EntityTextStart>
+	<EntityTextEnd>564</EntityTextEnd>
+	<LinkerScore>1.4030720643771362</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tropical_cyclone</WikiTitle>
+		<WikiTitleID>8282374</WikiTitleID>
+		<RankerScore>0.39895155133058297</RankerScore>
+		<Attributes>cyclone	hazard	concept</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Storm</WikiTitle> <WikiTitleID>130312</WikiTitleID> <RankerScore>0.36424676041207715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tropical_cyclone</WikiTitle> <WikiTitleID>8282374</WikiTitleID> <RankerScore>0.39895155133058297</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thunderstorm</WikiTitle> <WikiTitleID>70807</WikiTitleID> <RankerScore>0.19611090093756847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_windstorm</WikiTitle> <WikiTitleID>16812637</WikiTitleID> <RankerScore>0.0029064848085550953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Memphis_Summer_Storm_of_2003</WikiTitle> <WikiTitleID>1803019</WikiTitleID> <RankerScore>0.0029064848085550953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1858_San_Diego_hurricane</WikiTitle> <WikiTitleID>2932080</WikiTitleID> <RankerScore>0.0029064848085550953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Weather</WikiTitle> <WikiTitleID>33978</WikiTitleID> <RankerScore>0.0029064848085550953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eastern_Canadian_Blizzard_of_March_1971</WikiTitle> <WikiTitleID>17132161</WikiTitleID> <RankerScore>0.0029064848085550953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brainstorm</WikiTitle> <WikiTitleID>399082</WikiTitleID> <RankerScore>0.0029064848085550953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_Sydney_hailstorm</WikiTitle> <WikiTitleID>13886140</WikiTitleID> <RankerScore>0.0029064848085550953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Siege_of_Madrid</WikiTitle> <WikiTitleID>5721983</WikiTitleID> <RankerScore>0.0029064848085550953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extratropical_cyclone</WikiTitle> <WikiTitleID>8210537</WikiTitleID> <RankerScore>0.0029064848085550953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Charter_Storm</WikiTitle> <WikiTitleID>3312259</WikiTitleID> <RankerScore>0.0029064848085550953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Storm_surge</WikiTitle> <WikiTitleID>449744</WikiTitleID> <RankerScore>0.0029064848085550953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mataafa_Storm</WikiTitle> <WikiTitleID>14216773</WikiTitleID> <RankerScore>0.0029064848085550953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hurricane_Andrew</WikiTitle> <WikiTitleID>211545</WikiTitleID> <RankerScore>0.0029064848085550953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extreme_weather</WikiTitle> <WikiTitleID>69902</WikiTitleID> <RankerScore>0.0029064848085550953</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>shape</EntitySurfaceForm>
+	<EntityTextStart>578</EntityTextStart>
+	<EntityTextEnd>583</EntityTextEnd>
+	<LinkerScore>3.6009619386376426</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Shape</WikiTitle>
+		<WikiTitleID>169191</WikiTitleID>
+		<RankerScore>0.651105082694486</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Shape</WikiTitle> <WikiTitleID>169191</WikiTitleID> <RankerScore>0.651105082694486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leaf_shape</WikiTitle> <WikiTitleID>1079412</WikiTitleID> <RankerScore>0.05817241378857923</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shape_of_the_Universe</WikiTitle> <WikiTitleID>99293</WikiTitleID> <RankerScore>0.04057875301523097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shape_(Go)</WikiTitle> <WikiTitleID>9863036</WikiTitleID> <RankerScore>0.04169062508361731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shapeshifting</WikiTitle> <WikiTitleID>244219</WikiTitleID> <RankerScore>0.04169062508361731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Geometry</WikiTitle> <WikiTitleID>7250299</WikiTitleID> <RankerScore>0.04169062508361731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conformational_isomerism</WikiTitle> <WikiTitleID>1527574</WikiTitleID> <RankerScore>0.04169062508361731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fëa_and_hröa</WikiTitle> <WikiTitleID>436350</WikiTitleID> <RankerScore>0.04169062508361731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Form</WikiTitle> <WikiTitleID>171578</WikiTitleID> <RankerScore>0.04169062508361731</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hurricanes</EntitySurfaceForm>
+	<EntityTextStart>600</EntityTextStart>
+	<EntityTextEnd>610</EntityTextEnd>
+	<LinkerScore>6.165469366259936</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tropical_cyclone</WikiTitle>
+		<WikiTitleID>8282374</WikiTitleID>
+		<RankerScore>0.9902069647462527</RankerScore>
+		<Attributes>cyclone	hazard	concept</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tropical_cyclone</WikiTitle> <WikiTitleID>8282374</WikiTitleID> <RankerScore>0.9902069647462527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tropical_cyclone_basins</WikiTitle> <WikiTitleID>3373620</WikiTitleID> <RankerScore>0.003210300056605803</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1938_New_England_hurricane</WikiTitle> <WikiTitleID>449732</WikiTitleID> <RankerScore>0.0018786264830235396</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Arizona_hurricanes</WikiTitle> <WikiTitleID>4448627</WikiTitleID> <RankerScore>0.0011760271785295016</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hurricane_Diane</WikiTitle> <WikiTitleID>986788</WikiTitleID> <RankerScore>0.0011760271785295016</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1893_Sea_Islands_hurricane</WikiTitle> <WikiTitleID>1771677</WikiTitleID> <RankerScore>0.0011760271785295016</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1995_Atlantic_hurricane_season</WikiTitle> <WikiTitleID>598727</WikiTitleID> <RankerScore>0.0011760271785295016</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Earth</EntitySurfaceForm>
+	<EntityTextStart>617</EntityTextStart>
+	<EntityTextEnd>622</EntityTextEnd>
+	<LinkerScore>0.8843021447614947</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Earth</WikiTitle>
+		<WikiTitleID>9228</WikiTitleID>
+		<RankerScore>0.9996767819925588</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Earth</WikiTitle> <WikiTitleID>9228</WikiTitleID> <RankerScore>0.9996767819925588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_(band)</WikiTitle> <WikiTitleID>1071800</WikiTitleID> <RankerScore>7.08504391436322E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_(classical_element)</WikiTitle> <WikiTitleID>6317</WikiTitleID> <RankerScore>4.342076287436667E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_(1998_film)</WikiTitle> <WikiTitleID>2223585</WikiTitleID> <RankerScore>1.229098855429595E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_(Noon_Universe)</WikiTitle> <WikiTitleID>2069060</WikiTitleID> <RankerScore>1.229098855429595E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_in_science_fiction</WikiTitle> <WikiTitleID>226741</WikiTitleID> <RankerScore>1.229098855429595E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_locations_in_Babylon_5</WikiTitle> <WikiTitleID>637935</WikiTitleID> <RankerScore>1.229098855429595E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Transformers_planets</WikiTitle> <WikiTitleID>3354976</WikiTitleID> <RankerScore>1.229098855429595E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_science</WikiTitle> <WikiTitleID>50642</WikiTitleID> <RankerScore>1.229098855429595E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_(Foundation_universe)</WikiTitle> <WikiTitleID>923976</WikiTitleID> <RankerScore>1.229098855429595E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dragon_Ball</WikiTitle> <WikiTitleID>263568</WikiTitleID> <RankerScore>1.229098855429595E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_(1930_film)</WikiTitle> <WikiTitleID>4292900</WikiTitleID> <RankerScore>1.229098855429595E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_(novel)</WikiTitle> <WikiTitleID>665839</WikiTitleID> <RankerScore>1.229098855429595E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mythology_of_Stargate</WikiTitle> <WikiTitleID>618874</WikiTitleID> <RankerScore>1.229098855429595E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_(Jefferson_Starship_album)</WikiTitle> <WikiTitleID>15699598</WikiTitleID> <RankerScore>1.229098855429595E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth,_Texas</WikiTitle> <WikiTitleID>136270</WikiTitleID> <RankerScore>1.229098855429595E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth-616</WikiTitle> <WikiTitleID>445163</WikiTitleID> <RankerScore>1.229098855429595E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_(2007_film)</WikiTitle> <WikiTitleID>13771001</WikiTitleID> <RankerScore>1.229098855429595E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Planet_Earth</WikiTitle> <WikiTitleID>47243</WikiTitleID> <RankerScore>1.229098855429595E-5</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth&apos;s_magnetic_field</WikiTitle> <WikiTitleID>146983</WikiTitleID> <RankerScore>1.229098855429595E-5</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>astronomers</EntitySurfaceForm>
+	<EntityTextStart>626</EntityTextStart>
+	<EntityTextEnd>637</EntityTextEnd>
+	<LinkerScore>9.817158794357526</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Astronomy</WikiTitle>
+		<WikiTitleID>50650</WikiTitleID>
+		<RankerScore>0.9450317316602423</RankerScore>
+		<Attributes>object	binary	source</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Astronomer</WikiTitle> <WikiTitleID>580</WikiTitleID> <RankerScore>0.031066420278749327</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Astronomy</WikiTitle> <WikiTitleID>50650</WikiTitleID> <RankerScore>0.9450317316602423</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Astronomy_in_medieval_Islam</WikiTitle> <WikiTitleID>3304608</WikiTitleID> <RankerScore>0.02133133276709887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greek_astronomy</WikiTitle> <WikiTitleID>4385475</WikiTitleID> <RankerScore>0.00257051529390953</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The storm</EntitySurfaceForm>
+	<EntityTextStart>650</EntityTextStart>
+	<EntityTextEnd>659</EntityTextEnd>
+	<LinkerScore>3.0875850238958438</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Tempest_(album)</WikiTitle>
+		<WikiTitleID>2360863</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>The_Tempest_(album)</WikiTitle> <WikiTitleID>2360863</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>storm</EntitySurfaceForm>
+	<EntityTextStart>654</EntityTextStart>
+	<EntityTextEnd>659</EntityTextEnd>
+	<LinkerScore>7.863264455522556</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tropical_cyclone</WikiTitle>
+		<WikiTitleID>8282374</WikiTitleID>
+		<RankerScore>0.5108043695117648</RankerScore>
+		<Attributes>cyclone	hazard	concept</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Storm</WikiTitle> <WikiTitleID>130312</WikiTitleID> <RankerScore>0.2949092167045648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tropical_cyclone</WikiTitle> <WikiTitleID>8282374</WikiTitleID> <RankerScore>0.5108043695117648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thunderstorm</WikiTitle> <WikiTitleID>70807</WikiTitleID> <RankerScore>0.14516917991464898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_windstorm</WikiTitle> <WikiTitleID>16812637</WikiTitleID> <RankerScore>0.0035083738477872453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Memphis_Summer_Storm_of_2003</WikiTitle> <WikiTitleID>1803019</WikiTitleID> <RankerScore>0.0035083738477872453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1858_San_Diego_hurricane</WikiTitle> <WikiTitleID>2932080</WikiTitleID> <RankerScore>0.0035083738477872453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Weather</WikiTitle> <WikiTitleID>33978</WikiTitleID> <RankerScore>0.0035083738477872453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eastern_Canadian_Blizzard_of_March_1971</WikiTitle> <WikiTitleID>17132161</WikiTitleID> <RankerScore>0.0035083738477872453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brainstorm</WikiTitle> <WikiTitleID>399082</WikiTitleID> <RankerScore>0.0035083738477872453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_Sydney_hailstorm</WikiTitle> <WikiTitleID>13886140</WikiTitleID> <RankerScore>0.0035083738477872453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Siege_of_Madrid</WikiTitle> <WikiTitleID>5721983</WikiTitleID> <RankerScore>0.0035083738477872453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extratropical_cyclone</WikiTitle> <WikiTitleID>8210537</WikiTitleID> <RankerScore>0.0035083738477872453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Charter_Storm</WikiTitle> <WikiTitleID>3312259</WikiTitleID> <RankerScore>0.0035083738477872453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Storm_surge</WikiTitle> <WikiTitleID>449744</WikiTitleID> <RankerScore>0.0035083738477872453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mataafa_Storm</WikiTitle> <WikiTitleID>14216773</WikiTitleID> <RankerScore>0.0035083738477872453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hurricane_Andrew</WikiTitle> <WikiTitleID>211545</WikiTitleID> <RankerScore>0.0035083738477872453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extreme_weather</WikiTitle> <WikiTitleID>69902</WikiTitleID> <RankerScore>0.0035083738477872453</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the summer</EntitySurfaceForm>
+	<EntityTextStart>676</EntityTextStart>
+	<EntityTextEnd>686</EntityTextEnd>
+	<LinkerScore>-1.0537433914118162</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1991_English_cricket_season</WikiTitle>
+		<WikiTitleID>7635456</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>season</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1991_English_cricket_season</WikiTitle> <WikiTitleID>7635456</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>summer</EntitySurfaceForm>
+	<EntityTextStart>680</EntityTextStart>
+	<EntityTextEnd>686</EntityTextEnd>
+	<LinkerScore>3.9441158383996635</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Solstice</WikiTitle>
+		<WikiTitleID>28483</WikiTitleID>
+		<RankerScore>0.6234142522677745</RankerScore>
+		<Attributes>calendar	holiday	event	factor	mechanics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Summer</WikiTitle> <WikiTitleID>29392</WikiTitleID> <RankerScore>0.3569896644025423</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Solstice</WikiTitle> <WikiTitleID>28483</WikiTitleID> <RankerScore>0.6234142522677745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Summer_camp</WikiTitle> <WikiTitleID>926264</WikiTitleID> <RankerScore>0.010045360127553636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Summer_Olympic_Games</WikiTitle> <WikiTitleID>27566</WikiTitleID> <RankerScore>0.009550723202129555</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>It</EntitySurfaceForm>
+	<EntityTextStart>717</EntityTextStart>
+	<EntityTextEnd>719</EntityTextEnd>
+	<LinkerScore>2.5462507084194184</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>It_(novel)</WikiTitle>
+		<WikiTitleID>271590</WikiTitleID>
+		<RankerScore>0.33104034316961595</RankerScore>
+		<Attributes>novel</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>It_(novel)</WikiTitle> <WikiTitleID>271590</WikiTitleID> <RankerScore>0.33104034316961595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(1990_film)</WikiTitle> <WikiTitleID>685938</WikiTitleID> <RankerScore>0.14303946754887428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(1927_film)</WikiTitle> <WikiTitleID>271588</WikiTitleID> <RankerScore>0.17375515635073566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(album)</WikiTitle> <WikiTitleID>557662</WikiTitleID> <RankerScore>0.044020629116346764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It</WikiTitle> <WikiTitleID>74821</WikiTitleID> <RankerScore>0.044020629116346764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Phish_festivals</WikiTitle> <WikiTitleID>4160240</WikiTitleID> <RankerScore>0.044020629116346764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_language</WikiTitle> <WikiTitleID>14708</WikiTitleID> <RankerScore>0.044020629116346764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_(2004_film)</WikiTitle> <WikiTitleID>4710990</WikiTitleID> <RankerScore>0.044020629116346764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It_girl</WikiTitle> <WikiTitleID>2199811</WikiTitleID> <RankerScore>0.044020629116346764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ordinary_People</WikiTitle> <WikiTitleID>106335</WikiTitleID> <RankerScore>0.044020629116346764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tag_(game)</WikiTitle> <WikiTitleID>536639</WikiTitleID> <RankerScore>0.044020629116346764</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>seasonal</EntitySurfaceForm>
+	<EntityTextStart>731</EntityTextStart>
+	<EntityTextEnd>739</EntityTextEnd>
+	<LinkerScore>11.80642440704022</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Season</WikiTitle>
+		<WikiTitleID>28919</WikiTitleID>
+		<RankerScore>0.9823946158941956</RankerScore>
+		<Attributes>calendar	season	unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Season</WikiTitle> <WikiTitleID>28919</WikiTitleID> <RankerScore>0.9823946158941956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seasonal_food</WikiTitle> <WikiTitleID>6706980</WikiTitleID> <RankerScore>0.0051009534300480025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Liturgical_year</WikiTitle> <WikiTitleID>55525</WikiTitleID> <RankerScore>0.002187891740325686</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seasonal_industry</WikiTitle> <WikiTitleID>6640958</WikiTitleID> <RankerScore>0.003438846311810251</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seasonal_year</WikiTitle> <WikiTitleID>596116</WikiTitleID> <RankerScore>0.003438846311810251</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flu_season</WikiTitle> <WikiTitleID>2859941</WikiTitleID> <RankerScore>0.003438846311810251</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>warming</EntitySurfaceForm>
+	<EntityTextStart>740</EntityTextStart>
+	<EntityTextEnd>747</EntityTextEnd>
+	<LinkerScore>2.4865716059099756</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Global_warming</WikiTitle>
+		<WikiTitleID>5042951</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>problem</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Global_warming</WikiTitle> <WikiTitleID>5042951</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>evaporated</EntitySurfaceForm>
+	<EntityTextStart>749</EntityTextStart>
+	<EntityTextEnd>759</EntityTextEnd>
+	<LinkerScore>3.3855603657925464</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Evaporation</WikiTitle>
+		<WikiTitleID>10303</WikiTitleID>
+		<RankerScore>0.8767819662670953</RankerScore>
+		<Attributes>concept</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Evaporation</WikiTitle> <WikiTitleID>10303</WikiTitleID> <RankerScore>0.8767819662670953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Evaporated_milk</WikiTitle> <WikiTitleID>644148</WikiTitleID> <RankerScore>0.12321803373290476</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>carbon dioxide</EntitySurfaceForm>
+	<EntityTextStart>767</EntityTextStart>
+	<EntityTextEnd>781</EntityTextEnd>
+	<LinkerScore>-0.9325523719696887</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Carbon_dioxide</WikiTitle>
+		<WikiTitleID>5906</WikiTitleID>
+		<RankerScore>0.9092932054150435</RankerScore>
+		<Attributes>agent	chemical	solvent	gas	medium</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Carbon_dioxide</WikiTitle> <WikiTitleID>5906</WikiTitleID> <RankerScore>0.9092932054150435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greenhouse_gas</WikiTitle> <WikiTitleID>37259</WikiTitleID> <RankerScore>0.040128737230208426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Carbon_dioxide_laser</WikiTitle> <WikiTitleID>1119275</WikiTitleID> <RankerScore>0.001398223161166157</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Carbon_dioxide_equivalent</WikiTitle> <WikiTitleID>8391417</WikiTitleID> <RankerScore>0.001398223161166157</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Carbon_dioxide_in_Earth&apos;s_atmosphere</WikiTitle> <WikiTitleID>11251601</WikiTitleID> <RankerScore>0.001398223161166157</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dry_ice</WikiTitle> <WikiTitleID>59156</WikiTitleID> <RankerScore>0.001398223161166157</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supercritical_carbon_dioxide</WikiTitle> <WikiTitleID>2951653</WikiTitleID> <RankerScore>0.001398223161166157</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atmosphere_of_Mars</WikiTitle> <WikiTitleID>4548379</WikiTitleID> <RankerScore>0.04358694154891732</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>ice sheet</EntitySurfaceForm>
+	<EntityTextStart>785</EntityTextStart>
+	<EntityTextEnd>794</EntityTextEnd>
+	<LinkerScore>4.807729101036282</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ice_sheet</WikiTitle>
+		<WikiTitleID>493760</WikiTitleID>
+		<RankerScore>0.9382460788305014</RankerScore>
+		<Attributes>body</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ice_sheet</WikiTitle> <WikiTitleID>493760</WikiTitleID> <RankerScore>0.9382460788305014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greenland_ice_sheet</WikiTitle> <WikiTitleID>1164809</WikiTitleID> <RankerScore>0.006880120213709922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ice_age</WikiTitle> <WikiTitleID>15361</WikiTitleID> <RankerScore>0.05487380095578878</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>caps</EntitySurfaceForm>
+	<EntityTextStart>802</EntityTextStart>
+	<EntityTextEnd>806</EntityTextEnd>
+	<LinkerScore>9.876107019077804</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cap_(sport)</WikiTitle>
+		<WikiTitleID>3191695</WikiTitleID>
+		<RankerScore>0.5088880839143116</RankerScore>
+		<Attributes>record</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cap_(sport)</WikiTitle> <WikiTitleID>3191695</WikiTitleID> <RankerScore>0.5088880839143116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Caps</WikiTitle> <WikiTitleID>1777204</WikiTitleID> <RankerScore>0.1634775161263125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pileus_(mycology)</WikiTitle> <WikiTitleID>4634423</WikiTitleID> <RankerScore>0.033402011834138566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Czapka</WikiTitle> <WikiTitleID>1839173</WikiTitleID> <RankerScore>0.04203319830360535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Percussion_cap</WikiTitle> <WikiTitleID>67742</WikiTitleID> <RankerScore>0.04203319830360535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Caps_(drinking_game)</WikiTitle> <WikiTitleID>3088871</WikiTitleID> <RankerScore>0.04203319830360535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peaked_cap</WikiTitle> <WikiTitleID>1824234</WikiTitleID> <RankerScore>0.04203319830360535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Era_Cap_Company</WikiTitle> <WikiTitleID>1886117</WikiTitleID> <RankerScore>0.04203319830360535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Square_academic_cap</WikiTitle> <WikiTitleID>318329</WikiTitleID> <RankerScore>0.04203319830360535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crown_(dentistry)</WikiTitle> <WikiTitleID>1340551</WikiTitleID> <RankerScore>0.04203319830360535</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Martian</EntitySurfaceForm>
+	<EntityTextStart>812</EntityTextStart>
+	<EntityTextEnd>819</EntityTextEnd>
+	<LinkerScore>1.6584245631429753</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Martian</WikiTitle>
+		<WikiTitleID>47792</WikiTitleID>
+		<RankerScore>0.6177632481027772</RankerScore>
+		<Attributes>entity</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Martian</WikiTitle> <WikiTitleID>47792</WikiTitleID> <RankerScore>0.6177632481027772</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars</WikiTitle> <WikiTitleID>14640471</WikiTitleID> <RankerScore>0.34643737320620943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Martian_(The_War_of_the_Worlds)</WikiTitle> <WikiTitleID>4928560</WikiTitleID> <RankerScore>0.022996867308086866</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barsoom</WikiTitle> <WikiTitleID>4411</WikiTitleID> <RankerScore>0.002560502276585314</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Martian_meteorite</WikiTitle> <WikiTitleID>67216</WikiTitleID> <RankerScore>0.002560502276585314</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Martian_poetry</WikiTitle> <WikiTitleID>1498802</WikiTitleID> <RankerScore>0.002560502276585314</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_in_fiction</WikiTitle> <WikiTitleID>20257</WikiTitleID> <RankerScore>0.002560502276585314</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(Doctor_Who)</WikiTitle> <WikiTitleID>2524922</WikiTitleID> <RankerScore>0.002560502276585314</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Martian north pole</EntitySurfaceForm>
+	<EntityTextStart>812</EntityTextStart>
+	<EntityTextEnd>830</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Planum_Boreum</WikiTitle>
+		<WikiTitleID>7723558</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>plain</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the year</EntitySurfaceForm>
+	<EntityTextStart>848</EntityTextStart>
+	<EntityTextEnd>856</EntityTextEnd>
+	<LinkerScore>-24.63914596840505</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cold_War_(1985–1991)</WikiTitle>
+		<WikiTitleID>3993672</WikiTitleID>
+		<RankerScore>0.32118117482833874</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cold_War_(1985–1991)</WikiTitle> <WikiTitleID>3993672</WikiTitleID> <RankerScore>0.32118117482833874</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gap_year</WikiTitle> <WikiTitleID>620809</WikiTitleID> <RankerScore>0.22153273114957062</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1776</WikiTitle> <WikiTitleID>8380114</WikiTitleID> <RankerScore>0.20335569369195325</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_Indy_Lights_season</WikiTitle> <WikiTitleID>8519972</WikiTitleID> <RankerScore>0.25393040033013736</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>year</EntitySurfaceForm>
+	<EntityTextStart>852</EntityTextStart>
+	<EntityTextEnd>856</EntityTextEnd>
+	<LinkerScore>9.692380090323441</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Year</WikiTitle>
+		<WikiTitleID>34341</WikiTitleID>
+		<RankerScore>0.8082806472875085</RankerScore>
+		<Attributes>unit	order</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Year</WikiTitle> <WikiTitleID>34341</WikiTitleID> <RankerScore>0.8082806472875085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Events_of_the_DC_Universe_lost_year</WikiTitle> <WikiTitleID>5296956</WikiTitleID> <RankerScore>0.010197120370992794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1949_in_film</WikiTitle> <WikiTitleID>172380</WikiTitleID> <RankerScore>0.006816630744448498</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1950_in_music</WikiTitle> <WikiTitleID>161125</WikiTitleID> <RankerScore>0.010919100099815641</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIL_World_Luge_Championships_1955</WikiTitle> <WikiTitleID>11119781</WikiTitleID> <RankerScore>0.010919100099815641</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_CFL_season</WikiTitle> <WikiTitleID>2776412</WikiTitleID> <RankerScore>0.010919100099815641</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1977_WHA_Amateur_Draft</WikiTitle> <WikiTitleID>5860485</WikiTitleID> <RankerScore>0.010919100099815641</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1970–71_European_Cup</WikiTitle> <WikiTitleID>3421468</WikiTitleID> <RankerScore>0.010919100099815641</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eurovision_Song_Contest_1981</WikiTitle> <WikiTitleID>185701</WikiTitleID> <RankerScore>0.010919100099815641</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Academic_term</WikiTitle> <WikiTitleID>545577</WikiTitleID> <RankerScore>0.010919100099815641</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005–06_NHL_season</WikiTitle> <WikiTitleID>1514918</WikiTitleID> <RankerScore>0.010919100099815641</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_baseball</WikiTitle> <WikiTitleID>1487553</WikiTitleID> <RankerScore>0.010919100099815641</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Liturgical_year</WikiTitle> <WikiTitleID>55525</WikiTitleID> <RankerScore>0.010919100099815641</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_4</WikiTitle> <WikiTitleID>8354</WikiTitleID> <RankerScore>0.010919100099815641</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_in_baseball</WikiTitle> <WikiTitleID>1546015</WikiTitleID> <RankerScore>0.010919100099815641</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001_in_television</WikiTitle> <WikiTitleID>169769</WikiTitleID> <RankerScore>0.010919100099815641</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007</WikiTitle> <WikiTitleID>36165</WikiTitleID> <RankerScore>0.010919100099815641</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_calendar</WikiTitle> <WikiTitleID>13782</WikiTitleID> <RankerScore>0.010919100099815641</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005</WikiTitle> <WikiTitleID>35984</WikiTitleID> <RankerScore>0.010919100099815641</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Year</WikiTitle> <WikiTitleID>1943939</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Officials</EntitySurfaceForm>
+	<EntityTextStart>864</EntityTextStart>
+	<EntityTextEnd>873</EntityTextEnd>
+	<LinkerScore>2.0351654668071406</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Official_(American_football)</WikiTitle>
+		<WikiTitleID>1481025</WikiTitleID>
+		<RankerScore>0.6556682690202458</RankerScore>
+		<Attributes>personnel	sport	official</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Official_(American_football)</WikiTitle> <WikiTitleID>1481025</WikiTitleID> <RankerScore>0.6556682690202458</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Official_(ice_hockey)</WikiTitle> <WikiTitleID>1272618</WikiTitleID> <RankerScore>0.198536309118678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup_officials</WikiTitle> <WikiTitleID>5473832</WikiTitleID> <RankerScore>0.14579542186107622</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the storm</EntitySurfaceForm>
+	<EntityTextStart>879</EntityTextStart>
+	<EntityTextEnd>888</EntityTextEnd>
+	<LinkerScore>2.9344612325203374</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Tempest_(album)</WikiTitle>
+		<WikiTitleID>2360863</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>The_Tempest_(album)</WikiTitle> <WikiTitleID>2360863</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>storm</EntitySurfaceForm>
+	<EntityTextStart>883</EntityTextStart>
+	<EntityTextEnd>888</EntityTextEnd>
+	<LinkerScore>0.9259018797721426</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tropical_cyclone</WikiTitle>
+		<WikiTitleID>8282374</WikiTitleID>
+		<RankerScore>0.47856511974160426</RankerScore>
+		<Attributes>cyclone	hazard	concept</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Storm</WikiTitle> <WikiTitleID>130312</WikiTitleID> <RankerScore>0.31093496423377504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tropical_cyclone</WikiTitle> <WikiTitleID>8282374</WikiTitleID> <RankerScore>0.47856511974160426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thunderstorm</WikiTitle> <WikiTitleID>70807</WikiTitleID> <RankerScore>0.13524761330117435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_windstorm</WikiTitle> <WikiTitleID>16812637</WikiTitleID> <RankerScore>0.005375164480246164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Memphis_Summer_Storm_of_2003</WikiTitle> <WikiTitleID>1803019</WikiTitleID> <RankerScore>0.005375164480246164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1858_San_Diego_hurricane</WikiTitle> <WikiTitleID>2932080</WikiTitleID> <RankerScore>0.005375164480246164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Weather</WikiTitle> <WikiTitleID>33978</WikiTitleID> <RankerScore>0.005375164480246164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eastern_Canadian_Blizzard_of_March_1971</WikiTitle> <WikiTitleID>17132161</WikiTitleID> <RankerScore>0.005375164480246164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brainstorm</WikiTitle> <WikiTitleID>399082</WikiTitleID> <RankerScore>0.005375164480246164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_Sydney_hailstorm</WikiTitle> <WikiTitleID>13886140</WikiTitleID> <RankerScore>0.005375164480246164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Siege_of_Madrid</WikiTitle> <WikiTitleID>5721983</WikiTitleID> <RankerScore>0.005375164480246164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extratropical_cyclone</WikiTitle> <WikiTitleID>8210537</WikiTitleID> <RankerScore>0.005375164480246164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Charter_Storm</WikiTitle> <WikiTitleID>3312259</WikiTitleID> <RankerScore>0.005375164480246164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Storm_surge</WikiTitle> <WikiTitleID>449744</WikiTitleID> <RankerScore>0.005375164480246164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mataafa_Storm</WikiTitle> <WikiTitleID>14216773</WikiTitleID> <RankerScore>0.005375164480246164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hurricane_Andrew</WikiTitle> <WikiTitleID>211545</WikiTitleID> <RankerScore>0.005375164480246164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extreme_weather</WikiTitle> <WikiTitleID>69902</WikiTitleID> <RankerScore>0.005375164480246164</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>three times</EntitySurfaceForm>
+	<EntityTextStart>893</EntityTextStart>
+	<EntityTextEnd>904</EntityTextEnd>
+	<LinkerScore>1.8405664684600505</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>List_of_World_Tag_Team_Champions_(WWE)</WikiTitle>
+		<WikiTitleID>985724</WikiTitleID>
+		<RankerScore>0.2030064224873407</RankerScore>
+		<Attributes>championship	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>List_of_World_Tag_Team_Champions_(WWE)</WikiTitle> <WikiTitleID>985724</WikiTitleID> <RankerScore>0.2030064224873407</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Olympics</WikiTitle> <WikiTitleID>2179709</WikiTitleID> <RankerScore>0.14065743610520218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Numbers_in_Norse_mythology</WikiTitle> <WikiTitleID>73186</WikiTitleID> <RankerScore>0.16868902791482004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rule_of_three_(writing)</WikiTitle> <WikiTitleID>3665145</WikiTitleID> <RankerScore>0.12191177837315928</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_WWE_Intercontinental_Champions</WikiTitle> <WikiTitleID>722779</WikiTitleID> <RankerScore>0.12191177837315928</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_WWE_United_States_Champions</WikiTitle> <WikiTitleID>985725</WikiTitleID> <RankerScore>0.12191177837315928</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_recording_sales_certification</WikiTitle> <WikiTitleID>308242</WikiTitleID> <RankerScore>0.12191177837315928</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>times</EntitySurfaceForm>
+	<EntityTextStart>899</EntityTextStart>
+	<EntityTextEnd>904</EntityTextEnd>
+	<LinkerScore>-7.9922150774431335</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Times</WikiTitle>
+		<WikiTitleID>332142</WikiTitleID>
+		<RankerScore>0.20682568895470527</RankerScore>
+		<Attributes>subsidiary	newspaper</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>The_Times</WikiTitle> <WikiTitleID>332142</WikiTitleID> <RankerScore>0.20682568895470527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_time_periods</WikiTitle> <WikiTitleID>86760</WikiTitleID> <RankerScore>0.18665776014201452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Multiplication</WikiTitle> <WikiTitleID>20845</WikiTitleID> <RankerScore>0.11386739361488865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>System_time</WikiTitle> <WikiTitleID>6613070</WikiTitleID> <RankerScore>0.1642163857627972</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Product_topology</WikiTitle> <WikiTitleID>24910</WikiTitleID> <RankerScore>0.1642163857627972</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stopwatch</WikiTitle> <WikiTitleID>956704</WikiTitleID> <RankerScore>0.1642163857627972</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>larger</EntitySurfaceForm>
+	<EntityTextStart>905</EntityTextStart>
+	<EntityTextEnd>911</EntityTextEnd>
+	<LinkerScore>-7.582408435403298</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Creative_geography</WikiTitle>
+		<WikiTitleID>1087474</WikiTitleID>
+		<RankerScore>0.304928557823733</RankerScore>
+		<Attributes>technique</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Creative_geography</WikiTitle> <WikiTitleID>1087474</WikiTitleID> <RankerScore>0.304928557823733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_battery_sizes</WikiTitle> <WikiTitleID>2076640</WikiTitleID> <RankerScore>0.20118965624936733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latifundium</WikiTitle> <WikiTitleID>483649</WikiTitleID> <RankerScore>0.13700980754310374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peugeot_404</WikiTitle> <WikiTitleID>1150933</WikiTitleID> <RankerScore>0.17843598919189793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Union_Street–Academy_Hill_Historic_District</WikiTitle> <WikiTitleID>11429789</WikiTitleID> <RankerScore>0.17843598919189793</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>storm</EntitySurfaceForm>
+	<EntityTextStart>919</EntityTextStart>
+	<EntityTextEnd>924</EntityTextEnd>
+	<LinkerScore>-0.9214294427156973</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tropical_cyclone</WikiTitle>
+		<WikiTitleID>8282374</WikiTitleID>
+		<RankerScore>0.40410613643395066</RankerScore>
+		<Attributes>cyclone	hazard	concept</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Storm</WikiTitle> <WikiTitleID>130312</WikiTitleID> <RankerScore>0.3782754895028693</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tropical_cyclone</WikiTitle> <WikiTitleID>8282374</WikiTitleID> <RankerScore>0.40410613643395066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thunderstorm</WikiTitle> <WikiTitleID>70807</WikiTitleID> <RankerScore>0.13552715822276426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_windstorm</WikiTitle> <WikiTitleID>16812637</WikiTitleID> <RankerScore>0.0058636582743154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Memphis_Summer_Storm_of_2003</WikiTitle> <WikiTitleID>1803019</WikiTitleID> <RankerScore>0.0058636582743154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1858_San_Diego_hurricane</WikiTitle> <WikiTitleID>2932080</WikiTitleID> <RankerScore>0.0058636582743154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Weather</WikiTitle> <WikiTitleID>33978</WikiTitleID> <RankerScore>0.0058636582743154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eastern_Canadian_Blizzard_of_March_1971</WikiTitle> <WikiTitleID>17132161</WikiTitleID> <RankerScore>0.0058636582743154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brainstorm</WikiTitle> <WikiTitleID>399082</WikiTitleID> <RankerScore>0.0058636582743154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_Sydney_hailstorm</WikiTitle> <WikiTitleID>13886140</WikiTitleID> <RankerScore>0.0058636582743154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Siege_of_Madrid</WikiTitle> <WikiTitleID>5721983</WikiTitleID> <RankerScore>0.0058636582743154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extratropical_cyclone</WikiTitle> <WikiTitleID>8210537</WikiTitleID> <RankerScore>0.0058636582743154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Charter_Storm</WikiTitle> <WikiTitleID>3312259</WikiTitleID> <RankerScore>0.0058636582743154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Storm_surge</WikiTitle> <WikiTitleID>449744</WikiTitleID> <RankerScore>0.0058636582743154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mataafa_Storm</WikiTitle> <WikiTitleID>14216773</WikiTitleID> <RankerScore>0.0058636582743154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hurricane_Andrew</WikiTitle> <WikiTitleID>211545</WikiTitleID> <RankerScore>0.0058636582743154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extreme_weather</WikiTitle> <WikiTitleID>69902</WikiTitleID> <RankerScore>0.0058636582743154</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>20 years</EntitySurfaceForm>
+	<EntityTextStart>933</EntityTextStart>
+	<EntityTextEnd>941</EntityTextEnd>
+	<LinkerScore>2.659454401737751</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1986</WikiTitle>
+		<WikiTitleID>34761</WikiTitleID>
+		<RankerScore>0.7451625300017265</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1986</WikiTitle> <WikiTitleID>34761</WikiTitleID> <RankerScore>0.7451625300017265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greater_Romania</WikiTitle> <WikiTitleID>392816</WikiTitleID> <RankerScore>0.2548374699982736</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>20</EntitySurfaceForm>
+	<EntityTextStart>933</EntityTextStart>
+	<EntityTextEnd>935</EntityTextEnd>
+	<LinkerScore>-4.179987890636723</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>August_20</WikiTitle>
+		<WikiTitleID>1498</WikiTitleID>
+		<RankerScore>0.2741042558521076</RankerScore>
+		<Attributes>days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>20</WikiTitle> <WikiTitleID>35210</WikiTitleID> <RankerScore>0.12659455345181672</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>August_20</WikiTitle> <WikiTitleID>1498</WikiTitleID> <RankerScore>0.2741042558521076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>June_20</WikiTitle> <WikiTitleID>15818</WikiTitleID> <RankerScore>0.020944553910175873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>September_20</WikiTitle> <WikiTitleID>28148</WikiTitleID> <RankerScore>0.24324377422308588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>20_(number)</WikiTitle> <WikiTitleID>208259</WikiTitleID> <RankerScore>0.020944553910175873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_20</WikiTitle> <WikiTitleID>14563107</WikiTitleID> <RankerScore>0.020944553910175873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>July_20</WikiTitle> <WikiTitleID>15803</WikiTitleID> <RankerScore>0.020944553910175873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>January_20</WikiTitle> <WikiTitleID>16025</WikiTitleID> <RankerScore>0.020944553910175873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Route_20</WikiTitle> <WikiTitleID>436523</WikiTitleID> <RankerScore>0.020944553910175873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>February_20</WikiTitle> <WikiTitleID>11025</WikiTitleID> <RankerScore>0.020944553910175873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>October_20</WikiTitle> <WikiTitleID>22442</WikiTitleID> <RankerScore>0.020944553910175873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_20</WikiTitle> <WikiTitleID>8849</WikiTitleID> <RankerScore>0.020944553910175873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>November_20</WikiTitle> <WikiTitleID>21575</WikiTitleID> <RankerScore>0.020944553910175873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_20</WikiTitle> <WikiTitleID>19677</WikiTitleID> <RankerScore>0.020944553910175873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_20</WikiTitle> <WikiTitleID>2195</WikiTitleID> <RankerScore>0.020944553910175873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1920</WikiTitle> <WikiTitleID>34676</WikiTitleID> <RankerScore>0.020944553910175873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>20_(Terminaator_album)</WikiTitle> <WikiTitleID>12114767</WikiTitleID> <RankerScore>0.020944553910175873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Interstate_20</WikiTitle> <WikiTitleID>88879</WikiTitleID> <RankerScore>0.020944553910175873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japan_National_Route_20</WikiTitle> <WikiTitleID>5203715</WikiTitleID> <RankerScore>0.020944553910175873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Quebec_Autoroute_20</WikiTitle> <WikiTitleID>1792254</WikiTitleID> <RankerScore>0.020944553910175873</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>years</EntitySurfaceForm>
+	<EntityTextStart>936</EntityTextStart>
+	<EntityTextEnd>941</EntityTextEnd>
+	<LinkerScore>7.795652294283189</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Year</WikiTitle>
+		<WikiTitleID>34341</WikiTitleID>
+		<RankerScore>0.8684369744527433</RankerScore>
+		<Attributes>unit	order</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Year</WikiTitle> <WikiTitleID>34341</WikiTitleID> <RankerScore>0.8684369744527433</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Julian_year_(astronomy)</WikiTitle> <WikiTitleID>730958</WikiTitleID> <RankerScore>0.013042324983048798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Educational_stage</WikiTitle> <WikiTitleID>3333758</WikiTitleID> <RankerScore>0.01052303381179191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1976_World_Series</WikiTitle> <WikiTitleID>1219555</WikiTitleID> <RankerScore>0.01052303381179191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sidereal_year</WikiTitle> <WikiTitleID>57484</WikiTitleID> <RankerScore>0.09747463294062413</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Viking Orbiter</EntitySurfaceForm>
+	<EntityTextStart>954</EntityTextStart>
+	<EntityTextEnd>968</EntityTextEnd>
+	<LinkerScore>16.351510937310028</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Viking_program</WikiTitle>
+		<WikiTitleID>38082</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>program	mission</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Viking_program</WikiTitle> <WikiTitleID>38082</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Astronomers</EntitySurfaceForm>
+	<EntityTextStart>989</EntityTextStart>
+	<EntityTextEnd>1000</EntityTextEnd>
+	<LinkerScore>6.922551228796161</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Astronomy</WikiTitle>
+		<WikiTitleID>50650</WikiTitleID>
+		<RankerScore>0.9352297398722756</RankerScore>
+		<Attributes>object	binary	source</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Astronomer</WikiTitle> <WikiTitleID>580</WikiTitleID> <RankerScore>0.05482588733136275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Astronomy</WikiTitle> <WikiTitleID>50650</WikiTitleID> <RankerScore>0.9352297398722756</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_astronomers</WikiTitle> <WikiTitleID>80155</WikiTitleID> <RankerScore>0.009944372796361598</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Hubble</EntitySurfaceForm>
+	<EntityTextStart>1042</EntityTextStart>
+	<EntityTextEnd>1048</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hubble_Space_Telescope</WikiTitle>
+		<WikiTitleID>40203</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>satellite	experiment	accident	project</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hubble_Space_Telescope</WikiTitle> <WikiTitleID>40203</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hubble_Space_Telescope</WikiTitle> <WikiTitleID>341663</WikiTitleID> <RankerScore>3.163089986354526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edwin_Hubble</WikiTitle> <WikiTitleID>10489</WikiTitleID> <RankerScore>0.001188999079483635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hubble_Township,_Cape_Girardeau_County,_Missouri</WikiTitle> <WikiTitleID>15443486</WikiTitleID> <RankerScore>2.8639617544741117E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>photograph</EntitySurfaceForm>
+	<EntityTextStart>1052</EntityTextStart>
+	<EntityTextEnd>1062</EntityTextEnd>
+	<LinkerScore>1.1903836709081008</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Photograph</WikiTitle>
+		<WikiTitleID>25080</WikiTitleID>
+		<RankerScore>0.8881243941853545</RankerScore>
+		<Attributes>place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Photograph</WikiTitle> <WikiTitleID>25080</WikiTitleID> <RankerScore>0.8881243941853545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Photography</WikiTitle> <WikiTitleID>23604</WikiTitleID> <RankerScore>0.02712778165001679</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Astrophotography</WikiTitle> <WikiTitleID>143115</WikiTitleID> <RankerScore>0.04223130105345309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Instant_film</WikiTitle> <WikiTitleID>943604</WikiTitleID> <RankerScore>0.008503304622235128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Portrait_photography</WikiTitle> <WikiTitleID>4692632</WikiTitleID> <RankerScore>0.008503304622235128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>V-J_Day_in_Times_Square</WikiTitle> <WikiTitleID>12608136</WikiTitleID> <RankerScore>0.008503304622235128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mug_shot</WikiTitle> <WikiTitleID>343261</WikiTitleID> <RankerScore>0.008503304622235128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Protection_of_Children_Act_1978</WikiTitle> <WikiTitleID>460736</WikiTitleID> <RankerScore>0.008503304622235128</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mars</EntitySurfaceForm>
+	<EntityTextStart>1063</EntityTextStart>
+	<EntityTextEnd>1067</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mars</WikiTitle>
+		<WikiTitleID>14640471</WikiTitleID>
+		<RankerScore>0.973678739694125</RankerScore>
+		<Attributes>planet</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mars</WikiTitle> <WikiTitleID>14640471</WikiTitleID> <RankerScore>0.973678739694125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(mythology)</WikiTitle> <WikiTitleID>47221</WikiTitleID> <RankerScore>0.02045529450432642</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars,_Incorporated</WikiTitle> <WikiTitleID>245067</WikiTitleID> <RankerScore>3.351227426494907E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(band)</WikiTitle> <WikiTitleID>91159</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(Doctor_Who)</WikiTitle> <WikiTitleID>2524922</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars,_Pennsylvania</WikiTitle> <WikiTitleID>131615</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Planets_in_astrology</WikiTitle> <WikiTitleID>1852754</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_in_fiction</WikiTitle> <WikiTitleID>20257</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(chocolate_bar)</WikiTitle> <WikiTitleID>247079</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(manga)</WikiTitle> <WikiTitleID>2476452</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ares_(DC_Comics)</WikiTitle> <WikiTitleID>4869494</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(comics)</WikiTitle> <WikiTitleID>9825531</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moons_of_Mars</WikiTitle> <WikiTitleID>1655082</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(TV_series)</WikiTitle> <WikiTitleID>3002602</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colonization_of_Mars</WikiTitle> <WikiTitleID>1744360</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_(album)</WikiTitle> <WikiTitleID>2029656</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Martian</WikiTitle> <WikiTitleID>47792</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barsoom</WikiTitle> <WikiTitleID>4411</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_in_the_fiction_of_Leigh_Brackett</WikiTitle> <WikiTitleID>3994400</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ares</WikiTitle> <WikiTitleID>2041</WikiTitleID> <RankerScore>3.2534370934701154E-4</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the planet</EntitySurfaceForm>
+	<EntityTextStart>1075</EntityTextStart>
+	<EntityTextEnd>1085</EntityTextEnd>
+	<LinkerScore>-1.5279704295123087</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Earth</WikiTitle>
+		<WikiTitleID>9228</WikiTitleID>
+		<RankerScore>0.9816352985283029</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Earth</WikiTitle> <WikiTitleID>9228</WikiTitleID> <RankerScore>0.9816352985283029</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars</WikiTitle> <WikiTitleID>14640471</WikiTitleID> <RankerScore>0.0183647014716971</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>planet</EntitySurfaceForm>
+	<EntityTextStart>1079</EntityTextStart>
+	<EntityTextEnd>1085</EntityTextEnd>
+	<LinkerScore>1.8875531934594636</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Planet</WikiTitle>
+		<WikiTitleID>22915</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>planet	source</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Planet</WikiTitle> <WikiTitleID>22915</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>closest approach</EntitySurfaceForm>
+	<EntityTextStart>1088</EntityTextStart>
+	<EntityTextEnd>1104</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Apsis</WikiTitle>
+		<WikiTitleID>88213</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>astrodynamics	mechanics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>approach</EntitySurfaceForm>
+	<EntityTextStart>1096</EntityTextStart>
+	<EntityTextEnd>1104</EntityTextEnd>
+	<LinkerScore>-6.975631671619027</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Final_approach_(aviation)</WikiTitle>
+		<WikiTitleID>11615675</WikiTitleID>
+		<RankerScore>0.33729608723363474</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Final_approach_(aviation)</WikiTitle> <WikiTitleID>11615675</WikiTitleID> <RankerScore>0.33729608723363474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Instrument_approach</WikiTitle> <WikiTitleID>1752490</WikiTitleID> <RankerScore>0.17531047546058395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inclined_plane</WikiTitle> <WikiTitleID>38954</WikiTitleID> <RankerScore>0.12341766737069144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sociological_imagination</WikiTitle> <WikiTitleID>168790</WikiTitleID> <RankerScore>0.18198788496754495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_California_hurricanes</WikiTitle> <WikiTitleID>2811275</WikiTitleID> <RankerScore>0.18198788496754495</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Earth</EntitySurfaceForm>
+	<EntityTextStart>1108</EntityTextStart>
+	<EntityTextEnd>1113</EntityTextEnd>
+	<LinkerScore>5.2949537023912505</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Earth</WikiTitle>
+		<WikiTitleID>9228</WikiTitleID>
+		<RankerScore>0.9999588242148996</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Earth</WikiTitle> <WikiTitleID>9228</WikiTitleID> <RankerScore>0.9999588242148996</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_(band)</WikiTitle> <WikiTitleID>1071800</WikiTitleID> <RankerScore>8.584675805155495E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_(classical_element)</WikiTitle> <WikiTitleID>6317</WikiTitleID> <RankerScore>5.151110899352956E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_(1998_film)</WikiTitle> <WikiTitleID>2223585</WikiTitleID> <RankerScore>1.6141175527029485E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_(Noon_Universe)</WikiTitle> <WikiTitleID>2069060</WikiTitleID> <RankerScore>1.6141175527029485E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_in_science_fiction</WikiTitle> <WikiTitleID>226741</WikiTitleID> <RankerScore>1.6141175527029485E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_locations_in_Babylon_5</WikiTitle> <WikiTitleID>637935</WikiTitleID> <RankerScore>1.6141175527029485E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Transformers_planets</WikiTitle> <WikiTitleID>3354976</WikiTitleID> <RankerScore>1.6141175527029485E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_science</WikiTitle> <WikiTitleID>50642</WikiTitleID> <RankerScore>1.6141175527029485E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_(Foundation_universe)</WikiTitle> <WikiTitleID>923976</WikiTitleID> <RankerScore>1.6141175527029485E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dragon_Ball</WikiTitle> <WikiTitleID>263568</WikiTitleID> <RankerScore>1.6141175527029485E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_(1930_film)</WikiTitle> <WikiTitleID>4292900</WikiTitleID> <RankerScore>1.6141175527029485E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_(novel)</WikiTitle> <WikiTitleID>665839</WikiTitleID> <RankerScore>1.6141175527029485E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mythology_of_Stargate</WikiTitle> <WikiTitleID>618874</WikiTitleID> <RankerScore>1.6141175527029485E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_(Jefferson_Starship_album)</WikiTitle> <WikiTitleID>15699598</WikiTitleID> <RankerScore>1.6141175527029485E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth,_Texas</WikiTitle> <WikiTitleID>136270</WikiTitleID> <RankerScore>1.6141175527029485E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth-616</WikiTitle> <WikiTitleID>445163</WikiTitleID> <RankerScore>1.6141175527029485E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_(2007_film)</WikiTitle> <WikiTitleID>13771001</WikiTitleID> <RankerScore>1.6141175527029485E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Planet_Earth</WikiTitle> <WikiTitleID>47243</WikiTitleID> <RankerScore>1.6141175527029485E-6</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth&apos;s_magnetic_field</WikiTitle> <WikiTitleID>146983</WikiTitleID> <RankerScore>1.6141175527029485E-6</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>nearly</EntitySurfaceForm>
+	<EntityTextStart>1117</EntityTextStart>
+	<EntityTextEnd>1123</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Nearly_(band)</WikiTitle>
+		<WikiTitleID>10987833</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>group</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>years</EntitySurfaceForm>
+	<EntityTextStart>1130</EntityTextStart>
+	<EntityTextEnd>1135</EntityTextEnd>
+	<LinkerScore>4.816570391620049</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sidereal_year</WikiTitle>
+		<WikiTitleID>57484</WikiTitleID>
+		<RankerScore>0.6928218137925638</RankerScore>
+		<Attributes>factor	unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Year</WikiTitle> <WikiTitleID>34341</WikiTitleID> <RankerScore>0.2744900796706648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Julian_year_(astronomy)</WikiTitle> <WikiTitleID>730958</WikiTitleID> <RankerScore>0.013254164282567935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Educational_stage</WikiTitle> <WikiTitleID>3333758</WikiTitleID> <RankerScore>0.009716971127101778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1976_World_Series</WikiTitle> <WikiTitleID>1219555</WikiTitleID> <RankerScore>0.009716971127101778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sidereal_year</WikiTitle> <WikiTitleID>57484</WikiTitleID> <RankerScore>0.6928218137925638</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Two</EntitySurfaceForm>
+	<EntityTextStart>1143</EntityTextStart>
+	<EntityTextEnd>1146</EntityTextEnd>
+	<LinkerScore>-10.005717469019592</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>World_War_II</WikiTitle>
+		<WikiTitleID>32927</WikiTitleID>
+		<RankerScore>0.07159419679147452</RankerScore>
+		<Attributes>war	conflict	1930s	1940s</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>BBC_Two</WikiTitle> <WikiTitleID>160949</WikiTitleID> <RankerScore>0.04888821113842445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2_(number)</WikiTitle> <WikiTitleID>64516</WikiTitleID> <RankerScore>0.04034000012450757</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Two_(The_Calling_album)</WikiTitle> <WikiTitleID>2345061</WikiTitleID> <RankerScore>0.0493633877615055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Two_(The_Twilight_Zone)</WikiTitle> <WikiTitleID>156539</WikiTitleID> <RankerScore>0.0493633877615055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Two_(TV_series)</WikiTitle> <WikiTitleID>5756160</WikiTitleID> <RankerScore>0.0493633877615055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_War_II</WikiTitle> <WikiTitleID>32927</WikiTitleID> <RankerScore>0.07159419679147452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Two_(Earshot_album)</WikiTitle> <WikiTitleID>3970252</WikiTitleID> <RankerScore>0.0493633877615055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2wo</WikiTitle> <WikiTitleID>8041064</WikiTitleID> <RankerScore>0.0493633877615055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ProjeKcts</WikiTitle> <WikiTitleID>976681</WikiTitleID> <RankerScore>0.0493633877615055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_League_Two</WikiTitle> <WikiTitleID>715020</WikiTitleID> <RankerScore>0.0493633877615055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>RTÉ_Two</WikiTitle> <WikiTitleID>226933</WikiTitleID> <RankerScore>0.0493633877615055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Two_(Soko_album)</WikiTitle> <WikiTitleID>8847508</WikiTitleID> <RankerScore>0.0493633877615055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_League_Second_Division</WikiTitle> <WikiTitleID>563379</WikiTitleID> <RankerScore>0.0493633877615055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_grade</WikiTitle> <WikiTitleID>1066014</WikiTitleID> <RankerScore>0.0493633877615055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>No._2_Squadron_RAF</WikiTitle> <WikiTitleID>838975</WikiTitleID> <RankerScore>0.0493633877615055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Becoming_(Buffy_the_Vampire_Slayer)</WikiTitle> <WikiTitleID>2030945</WikiTitleID> <RankerScore>0.0493633877615055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jim_Cartwright</WikiTitle> <WikiTitleID>962987</WikiTitleID> <RankerScore>0.0493633877615055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sky2</WikiTitle> <WikiTitleID>611587</WikiTitleID> <RankerScore>0.0493633877615055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Henry_IV,_Part_2</WikiTitle> <WikiTitleID>666518</WikiTitleID> <RankerScore>0.0493633877615055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Two_World_Trade_Center</WikiTitle> <WikiTitleID>5665798</WikiTitleID> <RankerScore>0.0493633877615055</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pictures</EntitySurfaceForm>
+	<EntityTextStart>1147</EntityTextStart>
+	<EntityTextEnd>1155</EntityTextEnd>
+	<LinkerScore>1.1114898473209405</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Image</WikiTitle>
+		<WikiTitleID>71925</WikiTitleID>
+		<RankerScore>0.685127978198501</RankerScore>
+		<Attributes>graphics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Image</WikiTitle> <WikiTitleID>71925</WikiTitleID> <RankerScore>0.685127978198501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Movie_theater</WikiTitle> <WikiTitleID>77819</WikiTitleID> <RankerScore>0.03956689291275637</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Picture_editor</WikiTitle> <WikiTitleID>16658829</WikiTitleID> <RankerScore>0.06685029461374555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Photography</WikiTitle> <WikiTitleID>23604</WikiTitleID> <RankerScore>0.12932104844948428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Photo_51</WikiTitle> <WikiTitleID>9481589</WikiTitleID> <RankerScore>0.03956689291275637</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Child_pornography</WikiTitle> <WikiTitleID>17334113</WikiTitleID> <RankerScore>0.03956689291275637</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hours</EntitySurfaceForm>
+	<EntityTextStart>1167</EntityTextStart>
+	<EntityTextEnd>1172</EntityTextEnd>
+	<LinkerScore>1.7355527953619667</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hours</WikiTitle>
+		<WikiTitleID>634045</WikiTitleID>
+		<RankerScore>0.7264645290465684</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hours</WikiTitle> <WikiTitleID>634045</WikiTitleID> <RankerScore>0.7264645290465684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canonical_hours</WikiTitle> <WikiTitleID>203688</WikiTitleID> <RankerScore>0.024477558667272453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Working_time</WikiTitle> <WikiTitleID>552168</WikiTitleID> <RankerScore>0.034201755748774265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hour</WikiTitle> <WikiTitleID>14004</WikiTitleID> <RankerScore>0.07804913354228779</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hourly_worker</WikiTitle> <WikiTitleID>15586447</WikiTitleID> <RankerScore>0.034201755748774265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Liturgy_of_the_Hours</WikiTitle> <WikiTitleID>1951124</WikiTitleID> <RankerScore>0.034201755748774265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>24-hour_clock</WikiTitle> <WikiTitleID>241342</WikiTitleID> <RankerScore>0.034201755748774265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horae</WikiTitle> <WikiTitleID>80513</WikiTitleID> <RankerScore>0.034201755748774265</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>April 27</EntitySurfaceForm>
+	<EntityTextStart>1182</EntityTextStart>
+	<EntityTextEnd>1190</EntityTextEnd>
+	<LinkerScore>6.920789211009266</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>April_27</WikiTitle>
+		<WikiTitleID>2326</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>April_27</WikiTitle> <WikiTitleID>2326</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>April</EntitySurfaceForm>
+	<EntityTextStart>1182</EntityTextStart>
+	<EntityTextEnd>1187</EntityTextEnd>
+	<LinkerScore>-1.0259555451569065</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>April</WikiTitle>
+		<WikiTitleID>1004</WikiTitleID>
+		<RankerScore>0.4561035655137321</RankerScore>
+		<Attributes>month</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>April</WikiTitle> <WikiTitleID>1004</WikiTitleID> <RankerScore>0.4561035655137321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2004</WikiTitle> <WikiTitleID>497562</WikiTitleID> <RankerScore>0.07717035813998357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2006</WikiTitle> <WikiTitleID>4586467</WikiTitleID> <RankerScore>0.015305900210736485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2005_in_sports</WikiTitle> <WikiTitleID>1557985</WikiTitleID> <RankerScore>0.20652577276376413</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2003</WikiTitle> <WikiTitleID>207151</WikiTitleID> <RankerScore>0.015305900210736485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2002</WikiTitle> <WikiTitleID>31152</WikiTitleID> <RankerScore>0.015305900210736485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2000</WikiTitle> <WikiTitleID>1478018</WikiTitleID> <RankerScore>0.015305900210736485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2001</WikiTitle> <WikiTitleID>264126</WikiTitleID> <RankerScore>0.015305900210736485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2005</WikiTitle> <WikiTitleID>1490045</WikiTitleID> <RankerScore>0.015305900210736485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2006_in_sports</WikiTitle> <WikiTitleID>4586388</WikiTitleID> <RankerScore>0.015305900210736485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2005_in_science</WikiTitle> <WikiTitleID>1587016</WikiTitleID> <RankerScore>0.015305900210736485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2007_in_sports</WikiTitle> <WikiTitleID>10398819</WikiTitleID> <RankerScore>0.015305900210736485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2007_in_science</WikiTitle> <WikiTitleID>10501428</WikiTitleID> <RankerScore>0.015305900210736485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deaths_in_April_2005</WikiTitle> <WikiTitleID>1925313</WikiTitleID> <RankerScore>0.015305900210736485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2006_in_science</WikiTitle> <WikiTitleID>4587169</WikiTitleID> <RankerScore>0.015305900210736485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_in_India</WikiTitle> <WikiTitleID>1557033</WikiTitleID> <RankerScore>0.015305900210736485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2007</WikiTitle> <WikiTitleID>8906427</WikiTitleID> <RankerScore>0.015305900210736485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deaths_in_April_2006</WikiTitle> <WikiTitleID>3916296</WikiTitleID> <RankerScore>0.015305900210736485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deaths_in_April_2007</WikiTitle> <WikiTitleID>10990816</WikiTitleID> <RankerScore>0.015305900210736485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2005_in_Canada</WikiTitle> <WikiTitleID>1559876</WikiTitleID> <RankerScore>0.015305900210736485</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>27</EntitySurfaceForm>
+	<EntityTextStart>1188</EntityTextStart>
+	<EntityTextEnd>1190</EntityTextEnd>
+	<LinkerScore>7.376566326238121</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>April_27</WikiTitle>
+		<WikiTitleID>2326</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>April_27</WikiTitle> <WikiTitleID>2326</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the storm</EntitySurfaceForm>
+	<EntityTextStart>1204</EntityTextStart>
+	<EntityTextEnd>1213</EntityTextEnd>
+	<LinkerScore>2.969195337006109</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Tempest_(album)</WikiTitle>
+		<WikiTitleID>2360863</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>The_Tempest_(album)</WikiTitle> <WikiTitleID>2360863</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>storm</EntitySurfaceForm>
+	<EntityTextStart>1208</EntityTextStart>
+	<EntityTextEnd>1213</EntityTextEnd>
+	<LinkerScore>2.3609422381463094</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tropical_cyclone</WikiTitle>
+		<WikiTitleID>8282374</WikiTitleID>
+		<RankerScore>0.40357016712038235</RankerScore>
+		<Attributes>cyclone	hazard	concept</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Storm</WikiTitle> <WikiTitleID>130312</WikiTitleID> <RankerScore>0.37379905758104365</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tropical_cyclone</WikiTitle> <WikiTitleID>8282374</WikiTitleID> <RankerScore>0.40357016712038235</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thunderstorm</WikiTitle> <WikiTitleID>70807</WikiTitleID> <RankerScore>0.1488302096625955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_windstorm</WikiTitle> <WikiTitleID>16812637</WikiTitleID> <RankerScore>0.005271468973998468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Memphis_Summer_Storm_of_2003</WikiTitle> <WikiTitleID>1803019</WikiTitleID> <RankerScore>0.005271468973998468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1858_San_Diego_hurricane</WikiTitle> <WikiTitleID>2932080</WikiTitleID> <RankerScore>0.005271468973998468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Weather</WikiTitle> <WikiTitleID>33978</WikiTitleID> <RankerScore>0.005271468973998468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eastern_Canadian_Blizzard_of_March_1971</WikiTitle> <WikiTitleID>17132161</WikiTitleID> <RankerScore>0.005271468973998468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brainstorm</WikiTitle> <WikiTitleID>399082</WikiTitleID> <RankerScore>0.005271468973998468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_Sydney_hailstorm</WikiTitle> <WikiTitleID>13886140</WikiTitleID> <RankerScore>0.005271468973998468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Siege_of_Madrid</WikiTitle> <WikiTitleID>5721983</WikiTitleID> <RankerScore>0.005271468973998468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extratropical_cyclone</WikiTitle> <WikiTitleID>8210537</WikiTitleID> <RankerScore>0.005271468973998468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Charter_Storm</WikiTitle> <WikiTitleID>3312259</WikiTitleID> <RankerScore>0.005271468973998468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Storm_surge</WikiTitle> <WikiTitleID>449744</WikiTitleID> <RankerScore>0.005271468973998468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mataafa_Storm</WikiTitle> <WikiTitleID>14216773</WikiTitleID> <RankerScore>0.005271468973998468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hurricane_Andrew</WikiTitle> <WikiTitleID>211545</WikiTitleID> <RankerScore>0.005271468973998468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extreme_weather</WikiTitle> <WikiTitleID>69902</WikiTitleID> <RankerScore>0.005271468973998468</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>eastward</EntitySurfaceForm>
+	<EntityTextStart>1229</EntityTextStart>
+	<EntityTextEnd>1237</EntityTextEnd>
+	<LinkerScore>4.276732302752446</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>East</WikiTitle>
+		<WikiTitleID>61028</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>East</WikiTitle> <WikiTitleID>61028</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the second</EntitySurfaceForm>
+	<EntityTextStart>1242</EntityTextStart>
+	<EntityTextEnd>1252</EntityTextEnd>
+	<LinkerScore>-27.69638069266105</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Congress_of_Aix-la-Chapelle_(1748)</WikiTitle>
+		<WikiTitleID>592228</WikiTitleID>
+		<RankerScore>0.12246807310833109</RankerScore>
+		<Attributes>conference</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Congress_of_Aix-la-Chapelle_(1748)</WikiTitle> <WikiTitleID>592228</WikiTitleID> <RankerScore>0.12246807310833109</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_v_England_(1986_FIFA_World_Cup)</WikiTitle> <WikiTitleID>2086037</WikiTitleID> <RankerScore>0.075948722041294</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>King_Street_(Roman_road)</WikiTitle> <WikiTitleID>2539572</WikiTitleID> <RankerScore>0.07107290689967778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1959_Major_League_Baseball_All-Star_Game_(second_game)</WikiTitle> <WikiTitleID>17302233</WikiTitleID> <RankerScore>0.09131378724383714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Cynthiana</WikiTitle> <WikiTitleID>13678505</WikiTitleID> <RankerScore>0.09131378724383714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Epistle_of_John</WikiTitle> <WikiTitleID>28612</WikiTitleID> <RankerScore>0.09131378724383714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_Football_League_Cup_Final</WikiTitle> <WikiTitleID>7370884</WikiTitleID> <RankerScore>0.09131378724383714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Derby_ministry</WikiTitle> <WikiTitleID>1238522</WikiTitleID> <RankerScore>0.09131378724383714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007–08_Primeira_Liga</WikiTitle> <WikiTitleID>12041078</WikiTitleID> <RankerScore>0.09131378724383714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Banco_Central_burglary_at_Fortaleza</WikiTitle> <WikiTitleID>2415551</WikiTitleID> <RankerScore>0.09131378724383714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_League_of_Extraordinary_Gentlemen,_Volume_II</WikiTitle> <WikiTitleID>12621069</WikiTitleID> <RankerScore>0.09131378724383714</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>second</EntitySurfaceForm>
+	<EntityTextStart>1246</EntityTextStart>
+	<EntityTextEnd>1252</EntityTextEnd>
+	<LinkerScore>3.9722250665587344</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Second</WikiTitle>
+		<WikiTitleID>26873</WikiTitleID>
+		<RankerScore>0.517426967732828</RankerScore>
+		<Attributes>unit	order</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Second</WikiTitle> <WikiTitleID>26873</WikiTitleID> <RankerScore>0.517426967732828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_baseman</WikiTitle> <WikiTitleID>576847</WikiTitleID> <RankerScore>0.020701202205156383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2nd_century</WikiTitle> <WikiTitleID>34744</WikiTitleID> <RankerScore>0.02506127947234205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2nd_century_BC</WikiTitle> <WikiTitleID>34837</WikiTitleID> <RankerScore>0.02506127947234205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_War_II</WikiTitle> <WikiTitleID>32927</WikiTitleID> <RankerScore>0.03583007903220068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_language</WikiTitle> <WikiTitleID>162986</WikiTitleID> <RankerScore>0.02506127947234205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_law_of_thermodynamics</WikiTitle> <WikiTitleID>133017</WikiTitleID> <RankerScore>0.02506127947234205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Balkenende_cabinet</WikiTitle> <WikiTitleID>235886</WikiTitleID> <RankerScore>0.02506127947234205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>I_Ain&apos;t_Marching_Anymore</WikiTitle> <WikiTitleID>1515913</WikiTitleID> <RankerScore>0.02506127947234205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Harry_Potter_and_the_Chamber_of_Secrets_(film)</WikiTitle> <WikiTitleID>667368</WikiTitleID> <RankerScore>0.02506127947234205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minute_of_arc</WikiTitle> <WikiTitleID>2431</WikiTitleID> <RankerScore>0.02506127947234205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fantaghirò_2</WikiTitle> <WikiTitleID>11216928</WikiTitleID> <RankerScore>0.02506127947234205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Encirclement_Campaign</WikiTitle> <WikiTitleID>8653638</WikiTitleID> <RankerScore>0.02506127947234205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>WGGB-DT2</WikiTitle> <WikiTitleID>16688016</WikiTitleID> <RankerScore>0.02506127947234205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Aliyah</WikiTitle> <WikiTitleID>5585018</WikiTitleID> <RankerScore>0.02506127947234205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lost_(season_2)</WikiTitle> <WikiTitleID>1958665</WikiTitleID> <RankerScore>0.02506127947234205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2nd_New_Zealand_Parliament</WikiTitle> <WikiTitleID>1024710</WikiTitleID> <RankerScore>0.02506127947234205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Epistle_of_John</WikiTitle> <WikiTitleID>28612</WikiTitleID> <RankerScore>0.02506127947234205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_metacarpal_bone</WikiTitle> <WikiTitleID>4405796</WikiTitleID> <RankerScore>0.02506127947234205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_legislative_election,_1951</WikiTitle> <WikiTitleID>7966801</WikiTitleID> <RankerScore>0.02506127947234205</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>picture</EntitySurfaceForm>
+	<EntityTextStart>1253</EntityTextStart>
+	<EntityTextEnd>1260</EntityTextEnd>
+	<LinkerScore>-0.29402250227799853</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Image</WikiTitle>
+		<WikiTitleID>71925</WikiTitleID>
+		<RankerScore>0.44742485032305607</RankerScore>
+		<Attributes>graphics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Image</WikiTitle> <WikiTitleID>71925</WikiTitleID> <RankerScore>0.44742485032305607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Photograph</WikiTitle> <WikiTitleID>25080</WikiTitleID> <RankerScore>0.28694927382978486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Academy_Award_for_Best_Picture</WikiTitle> <WikiTitleID>61702</WikiTitleID> <RankerScore>0.1005200737144724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heisenberg_picture</WikiTitle> <WikiTitleID>306706</WikiTitleID> <RankerScore>0.03302116042653732</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>King_Kong_(1933_film)</WikiTitle> <WikiTitleID>16782</WikiTitleID> <RankerScore>0.03302116042653732</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Digital_image</WikiTitle> <WikiTitleID>503726</WikiTitleID> <RankerScore>0.03302116042653732</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Film_editing</WikiTitle> <WikiTitleID>10775</WikiTitleID> <RankerScore>0.03302116042653732</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinematography</WikiTitle> <WikiTitleID>195718</WikiTitleID> <RankerScore>0.03302116042653732</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the storm</EntitySurfaceForm>
+	<EntityTextStart>1262</EntityTextStart>
+	<EntityTextEnd>1271</EntityTextEnd>
+	<LinkerScore>3.8664682127702252</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Tempest_(album)</WikiTitle>
+		<WikiTitleID>2360863</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>The_Tempest_(album)</WikiTitle> <WikiTitleID>2360863</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>storm</EntitySurfaceForm>
+	<EntityTextStart>1266</EntityTextStart>
+	<EntityTextEnd>1271</EntityTextEnd>
+	<LinkerScore>3.5289379323252863</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tropical_cyclone</WikiTitle>
+		<WikiTitleID>8282374</WikiTitleID>
+		<RankerScore>0.4188502977926846</RankerScore>
+		<Attributes>cyclone	hazard	concept</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Storm</WikiTitle> <WikiTitleID>130312</WikiTitleID> <RankerScore>0.38084786913257535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tropical_cyclone</WikiTitle> <WikiTitleID>8282374</WikiTitleID> <RankerScore>0.4188502977926846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thunderstorm</WikiTitle> <WikiTitleID>70807</WikiTitleID> <RankerScore>0.1330785550804221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_windstorm</WikiTitle> <WikiTitleID>16812637</WikiTitleID> <RankerScore>0.004801662713879852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Memphis_Summer_Storm_of_2003</WikiTitle> <WikiTitleID>1803019</WikiTitleID> <RankerScore>0.004801662713879852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1858_San_Diego_hurricane</WikiTitle> <WikiTitleID>2932080</WikiTitleID> <RankerScore>0.004801662713879852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Weather</WikiTitle> <WikiTitleID>33978</WikiTitleID> <RankerScore>0.004801662713879852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eastern_Canadian_Blizzard_of_March_1971</WikiTitle> <WikiTitleID>17132161</WikiTitleID> <RankerScore>0.004801662713879852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brainstorm</WikiTitle> <WikiTitleID>399082</WikiTitleID> <RankerScore>0.004801662713879852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_Sydney_hailstorm</WikiTitle> <WikiTitleID>13886140</WikiTitleID> <RankerScore>0.004801662713879852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Siege_of_Madrid</WikiTitle> <WikiTitleID>5721983</WikiTitleID> <RankerScore>0.004801662713879852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extratropical_cyclone</WikiTitle> <WikiTitleID>8210537</WikiTitleID> <RankerScore>0.004801662713879852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Charter_Storm</WikiTitle> <WikiTitleID>3312259</WikiTitleID> <RankerScore>0.004801662713879852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Storm_surge</WikiTitle> <WikiTitleID>449744</WikiTitleID> <RankerScore>0.004801662713879852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mataafa_Storm</WikiTitle> <WikiTitleID>14216773</WikiTitleID> <RankerScore>0.004801662713879852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hurricane_Andrew</WikiTitle> <WikiTitleID>211545</WikiTitleID> <RankerScore>0.004801662713879852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extreme_weather</WikiTitle> <WikiTitleID>69902</WikiTitleID> <RankerScore>0.004801662713879852</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>appeared</EntitySurfaceForm>
+	<EntityTextStart>1272</EntityTextStart>
+	<EntityTextEnd>1280</EntityTextEnd>
+	<LinkerScore>-3.108190556271341</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Apparition</WikiTitle>
+		<WikiTitleID>846395</WikiTitleID>
+		<RankerScore>0.26555418976139233</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Apparition</WikiTitle> <WikiTitleID>846395</WikiTitleID> <RankerScore>0.26555418976139233</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_Vision</WikiTitle> <WikiTitleID>307496</WikiTitleID> <RankerScore>0.14366851310099163</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fictional_crossover</WikiTitle> <WikiTitleID>597264</WikiTitleID> <RankerScore>0.11398315121238402</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vision_(spirituality)</WikiTitle> <WikiTitleID>171428</WikiTitleID> <RankerScore>0.15893138197507736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Resurrection_appearances_of_Jesus</WikiTitle> <WikiTitleID>4684760</WikiTitleID> <RankerScore>0.15893138197507736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Marian_apparition</WikiTitle> <WikiTitleID>85106</WikiTitleID> <RankerScore>0.15893138197507736</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>to be</EntitySurfaceForm>
+	<EntityTextStart>1281</EntityTextStart>
+	<EntityTextEnd>1286</EntityTextEnd>
+	<LinkerScore>6.2738571636677785</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Copula</WikiTitle>
+		<WikiTitleID>5630</WikiTitleID>
+		<RankerScore>0.5878223107530806</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Copula</WikiTitle> <WikiTitleID>5630</WikiTitleID> <RankerScore>0.5878223107530806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indo-European_copula</WikiTitle> <WikiTitleID>1925134</WikiTitleID> <RankerScore>0.4121776892469195</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>process</EntitySurfaceForm>
+	<EntityTextStart>1294</EntityTextStart>
+	<EntityTextEnd>1301</EntityTextEnd>
+	<LinkerScore>0.48135129177957414</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Process</WikiTitle>
+		<WikiTitleID>4746766</WikiTitleID>
+		<RankerScore>0.24296222879321913</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Process</WikiTitle> <WikiTitleID>4746766</WikiTitleID> <RankerScore>0.24296222879321913</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Process_(computing)</WikiTitle> <WikiTitleID>45178</WikiTitleID> <RankerScore>0.11183305197155301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Process_(anatomy)</WikiTitle> <WikiTitleID>2075950</WikiTitleID> <RankerScore>0.060287497128371975</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_industrial_processes</WikiTitle> <WikiTitleID>659359</WikiTitleID> <RankerScore>0.03655732638167849</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Process_(science)</WikiTitle> <WikiTitleID>4746896</WikiTitleID> <RankerScore>0.03655732638167849</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Process_(philosophy)</WikiTitle> <WikiTitleID>4746886</WikiTitleID> <RankerScore>0.03655732638167849</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thermodynamic_process</WikiTitle> <WikiTitleID>3281166</WikiTitleID> <RankerScore>0.03655732638167849</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Semiconductor_device_fabrication</WikiTitle> <WikiTitleID>27696</WikiTitleID> <RankerScore>0.03655732638167849</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Food_processing</WikiTitle> <WikiTitleID>602960</WikiTitleID> <RankerScore>0.03655732638167849</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Haber_process</WikiTitle> <WikiTitleID>14022</WikiTitleID> <RankerScore>0.03655732638167849</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stochastic_process</WikiTitle> <WikiTitleID>47895</WikiTitleID> <RankerScore>0.03655732638167849</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Process_music</WikiTitle> <WikiTitleID>341694</WikiTitleID> <RankerScore>0.03655732638167849</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Process</WikiTitle> <WikiTitleID>615231</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_data_processing</WikiTitle> <WikiTitleID>41961</WikiTitleID> <RankerScore>0.03655732638167849</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Process_model_(Australia)</WikiTitle> <WikiTitleID>3842871</WikiTitleID> <RankerScore>0.03655732638167849</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Business_process</WikiTitle> <WikiTitleID>342977</WikiTitleID> <RankerScore>0.03655732638167849</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Draft_(sports)</WikiTitle> <WikiTitleID>616574</WikiTitleID> <RankerScore>0.03655732638167849</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Information_processing</WikiTitle> <WikiTitleID>315578</WikiTitleID> <RankerScore>0.03655732638167849</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biological_process</WikiTitle> <WikiTitleID>5652450</WikiTitleID> <RankerScore>0.03655732638167849</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Process_(engineering)</WikiTitle> <WikiTitleID>4746880</WikiTitleID> <RankerScore>0.03655732638167849</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Later</EntitySurfaceForm>
+	<EntityTextStart>1324</EntityTextStart>
+	<EntityTextEnd>1329</EntityTextEnd>
+	<LinkerScore>8.654227227882743</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Joe_Bob_Goes_Back_to_the_Drive_In</WikiTitle>
+		<WikiTitleID>2027885</WikiTitleID>
+		<RankerScore>0.654315333674694</RankerScore>
+		<Attributes>book</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Later_(talk_show)</WikiTitle> <WikiTitleID>7972405</WikiTitleID> <RankerScore>0.17276047922349605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_divisions_of_Russia_in_1727–1728</WikiTitle> <WikiTitleID>1039667</WikiTitleID> <RankerScore>0.04045987221450819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NBC</WikiTitle> <WikiTitleID>21780</WikiTitleID> <RankerScore>0.05154457045828555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Later_Yan</WikiTitle> <WikiTitleID>677888</WikiTitleID> <RankerScore>0.04045987221450819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joe_Bob_Goes_Back_to_the_Drive_In</WikiTitle> <WikiTitleID>2027885</WikiTitleID> <RankerScore>0.654315333674694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Later..._with_Jools_Holland</WikiTitle> <WikiTitleID>328912</WikiTitleID> <RankerScore>0.04045987221450819</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pictures</EntitySurfaceForm>
+	<EntityTextStart>1330</EntityTextStart>
+	<EntityTextEnd>1338</EntityTextEnd>
+	<LinkerScore>-0.07155167835650533</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Image</WikiTitle>
+		<WikiTitleID>71925</WikiTitleID>
+		<RankerScore>0.6512593849268229</RankerScore>
+		<Attributes>graphics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Image</WikiTitle> <WikiTitleID>71925</WikiTitleID> <RankerScore>0.6512593849268229</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Movie_theater</WikiTitle> <WikiTitleID>77819</WikiTitleID> <RankerScore>0.05164911402949725</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Picture_editor</WikiTitle> <WikiTitleID>16658829</WikiTitleID> <RankerScore>0.05149065195598156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Photography</WikiTitle> <WikiTitleID>23604</WikiTitleID> <RankerScore>0.1426195451757351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Photo_51</WikiTitle> <WikiTitleID>9481589</WikiTitleID> <RankerScore>0.05149065195598156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Child_pornography</WikiTitle> <WikiTitleID>17334113</WikiTitleID> <RankerScore>0.05149065195598156</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Hubble</EntitySurfaceForm>
+	<EntityTextStart>1346</EntityTextStart>
+	<EntityTextEnd>1352</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hubble_Space_Telescope</WikiTitle>
+		<WikiTitleID>40203</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>satellite	experiment	accident	project</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hubble_Space_Telescope</WikiTitle> <WikiTitleID>40203</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hubble_Space_Telescope</WikiTitle> <WikiTitleID>341663</WikiTitleID> <RankerScore>3.9987325387674404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edwin_Hubble</WikiTitle> <WikiTitleID>10489</WikiTitleID> <RankerScore>0.0033569526492998533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hubble_Township,_Cape_Girardeau_County,_Missouri</WikiTitle> <WikiTitleID>15443486</WikiTitleID> <RankerScore>0.0011628202196152207</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>camera</EntitySurfaceForm>
+	<EntityTextStart>1353</EntityTextStart>
+	<EntityTextEnd>1359</EntityTextEnd>
+	<LinkerScore>2.0372287111702323</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Camera</WikiTitle>
+		<WikiTitleID>52648</WikiTitleID>
+		<RankerScore>0.9573112181961955</RankerScore>
+		<Attributes>devices</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Camera</WikiTitle> <WikiTitleID>52648</WikiTitleID> <RankerScore>0.9573112181961955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Movie_camera</WikiTitle> <WikiTitleID>199539</WikiTitleID> <RankerScore>0.002523904106272936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Camera_phone</WikiTitle> <WikiTitleID>667163</WikiTitleID> <RankerScore>0.007946463035686881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Digital_camera</WikiTitle> <WikiTitleID>52797</WikiTitleID> <RankerScore>0.002147894310789652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Professional_video_camera</WikiTitle> <WikiTitleID>464103</WikiTitleID> <RankerScore>0.002147894310789652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Virtual_camera_system</WikiTitle> <WikiTitleID>2885523</WikiTitleID> <RankerScore>0.002147894310789652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Video_camera</WikiTitle> <WikiTitleID>472645</WikiTitleID> <RankerScore>0.002147894310789652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Camera_operator</WikiTitle> <WikiTitleID>377453</WikiTitleID> <RankerScore>0.002147894310789652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Camera_lens</WikiTitle> <WikiTitleID>193977</WikiTitleID> <RankerScore>0.002147894310789652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Go!Cam</WikiTitle> <WikiTitleID>8120244</WikiTitleID> <RankerScore>0.002147894310789652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Webcam</WikiTitle> <WikiTitleID>92171</WikiTitleID> <RankerScore>0.002147894310789652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iconoscope</WikiTitle> <WikiTitleID>3105389</WikiTitleID> <RankerScore>0.002147894310789652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Traffic_enforcement_camera</WikiTitle> <WikiTitleID>143861</WikiTitleID> <RankerScore>0.002147894310789652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Infrared_photography</WikiTitle> <WikiTitleID>1054632</WikiTitleID> <RankerScore>0.002147894310789652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Closed-circuit_television</WikiTitle> <WikiTitleID>87179</WikiTitleID> <RankerScore>0.002147894310789652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Apostolic_Camera</WikiTitle> <WikiTitleID>5637803</WikiTitleID> <RankerScore>0.002147894310789652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pinhole_camera</WikiTitle> <WikiTitleID>81609</WikiTitleID> <RankerScore>0.002147894310789652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Still_camera</WikiTitle> <WikiTitleID>81604</WikiTitleID> <RankerScore>0.002147894310789652</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>failed</EntitySurfaceForm>
+	<EntityTextStart>1360</EntityTextStart>
+	<EntityTextEnd>1366</EntityTextEnd>
+	<LinkerScore>-2.175248538163482</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mars_program</WikiTitle>
+		<WikiTitleID>47791</WikiTitleID>
+		<RankerScore>0.8597926416257098</RankerScore>
+		<Attributes>mission</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mars_program</WikiTitle> <WikiTitleID>47791</WikiTitleID> <RankerScore>0.8597926416257098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polish–Ukrainian_War</WikiTitle> <WikiTitleID>1400986</WikiTitleID> <RankerScore>0.03453861205125241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Failure_causes</WikiTitle> <WikiTitleID>1227042</WikiTitleID> <RankerScore>0.027271400769230538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_invasions_of_the_Río_de_la_Plata</WikiTitle> <WikiTitleID>1220090</WikiTitleID> <RankerScore>0.039198672776903615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flameout</WikiTitle> <WikiTitleID>1451948</WikiTitleID> <RankerScore>0.039198672776903615</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the storm</EntitySurfaceForm>
+	<EntityTextStart>1375</EntityTextStart>
+	<EntityTextEnd>1384</EntityTextEnd>
+	<LinkerScore>5.2244035996576805</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Tempest_(album)</WikiTitle>
+		<WikiTitleID>2360863</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>The_Tempest_(album)</WikiTitle> <WikiTitleID>2360863</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>storm</EntitySurfaceForm>
+	<EntityTextStart>1379</EntityTextStart>
+	<EntityTextEnd>1384</EntityTextEnd>
+	<LinkerScore>5.195960174538685</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Storm</WikiTitle>
+		<WikiTitleID>130312</WikiTitleID>
+		<RankerScore>0.50323938652137</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Storm</WikiTitle> <WikiTitleID>130312</WikiTitleID> <RankerScore>0.50323938652137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tropical_cyclone</WikiTitle> <WikiTitleID>8282374</WikiTitleID> <RankerScore>0.32137572084384575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thunderstorm</WikiTitle> <WikiTitleID>70807</WikiTitleID> <RankerScore>0.11259303471983632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_windstorm</WikiTitle> <WikiTitleID>16812637</WikiTitleID> <RankerScore>0.00448513270821056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Memphis_Summer_Storm_of_2003</WikiTitle> <WikiTitleID>1803019</WikiTitleID> <RankerScore>0.00448513270821056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1858_San_Diego_hurricane</WikiTitle> <WikiTitleID>2932080</WikiTitleID> <RankerScore>0.00448513270821056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Weather</WikiTitle> <WikiTitleID>33978</WikiTitleID> <RankerScore>0.00448513270821056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eastern_Canadian_Blizzard_of_March_1971</WikiTitle> <WikiTitleID>17132161</WikiTitleID> <RankerScore>0.00448513270821056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brainstorm</WikiTitle> <WikiTitleID>399082</WikiTitleID> <RankerScore>0.00448513270821056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_Sydney_hailstorm</WikiTitle> <WikiTitleID>13886140</WikiTitleID> <RankerScore>0.00448513270821056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Siege_of_Madrid</WikiTitle> <WikiTitleID>5721983</WikiTitleID> <RankerScore>0.00448513270821056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extratropical_cyclone</WikiTitle> <WikiTitleID>8210537</WikiTitleID> <RankerScore>0.00448513270821056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Charter_Storm</WikiTitle> <WikiTitleID>3312259</WikiTitleID> <RankerScore>0.00448513270821056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Storm_surge</WikiTitle> <WikiTitleID>449744</WikiTitleID> <RankerScore>0.00448513270821056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mataafa_Storm</WikiTitle> <WikiTitleID>14216773</WikiTitleID> <RankerScore>0.00448513270821056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hurricane_Andrew</WikiTitle> <WikiTitleID>211545</WikiTitleID> <RankerScore>0.00448513270821056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Extreme_weather</WikiTitle> <WikiTitleID>69902</WikiTitleID> <RankerScore>0.00448513270821056</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>astronomers</EntitySurfaceForm>
+	<EntityTextStart>1390</EntityTextStart>
+	<EntityTextEnd>1401</EntityTextEnd>
+	<LinkerScore>6.50503011922323</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Astronomy</WikiTitle>
+		<WikiTitleID>50650</WikiTitleID>
+		<RankerScore>0.8991228764436856</RankerScore>
+		<Attributes>object	binary	source</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Astronomer</WikiTitle> <WikiTitleID>580</WikiTitleID> <RankerScore>0.07196509998537365</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Astronomy</WikiTitle> <WikiTitleID>50650</WikiTitleID> <RankerScore>0.8991228764436856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Astronomy_in_medieval_Islam</WikiTitle> <WikiTitleID>3304608</WikiTitleID> <RankerScore>0.025785942066665467</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greek_astronomy</WikiTitle> <WikiTitleID>4385475</WikiTitleID> <RankerScore>0.0031260815042751895</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>phenomenon</EntitySurfaceForm>
+	<EntityTextStart>1441</EntityTextStart>
+	<EntityTextEnd>1451</EntityTextEnd>
+	<LinkerScore>-4.640296719542106</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Phenomenon</WikiTitle>
+		<WikiTitleID>60931</WikiTitleID>
+		<RankerScore>0.4437161367240698</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Phenomenon</WikiTitle> <WikiTitleID>60931</WikiTitleID> <RankerScore>0.4437161367240698</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Natural_phenomenon</WikiTitle> <WikiTitleID>1760214</WikiTitleID> <RankerScore>0.03557784111377946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Phenomenon</WikiTitle> <WikiTitleID>13654959</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_meteorological_phenomena</WikiTitle> <WikiTitleID>58160</WikiTitleID> <RankerScore>0.43752737896424104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_meme</WikiTitle> <WikiTitleID>1616492</WikiTitleID> <RankerScore>0.041589321598954884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Phenomenon</WikiTitle> <WikiTitleID>18359353</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_phenomenon</WikiTitle> <WikiTitleID>43228</WikiTitleID> <RankerScore>0.041589321598954884</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

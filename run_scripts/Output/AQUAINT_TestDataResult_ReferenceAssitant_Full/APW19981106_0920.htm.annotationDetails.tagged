@@ -1,0 +1,510 @@
+<ANNOTATION>
+ <a class="wiki" href="http://en.wikipedia.org/wiki/Norway" cat="state	country	member">Norwegian</a>   <b>company</b> moves ahead with clean  <b>power plant</b><br><br> The   <a class="wiki" href="http://en.wikipedia.org/wiki/Norsk_Hydro" cat="company">Norsk Hydro ASA</a>    concern announced plans Friday to build a  hydrogen  -burning  power plant   that it says will produce  electricity   with virtually no climate-damaging   <b>emissions</b>  . <br><br> The 51-percent   <b>state-owned company</b>   notified the   <a class="wiki" href="http://en.wikipedia.org/wiki/Norwegian_Water_Resources_and_Energy_Directorate" cat="agency	organization	establishment">Norwegian Water Resources and Energy Directorate</a>    of plans to build the plant, to be called HydroKraft, pending approval by government agencies. <br><br> The  <b>company</b> said if it receives the proper approvals in  <b>1999</b>,  <b>construction</b> of the  <b>plant</b> would be completed during 2002 and production  <b>startup</b> would occur in early  <b>2003</b>. <br><br> Earlier this year, the  <b>company</b> announced a new  <b>technology</b> that would  <b>allow</b> it to use clean-burning hydrogen to generate  <b>electricity</b>. The hydrogen for the  <b>plant</b> would be extracted from   <b>natural gas</b>  . <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Norsk_Hydro" cat="company">Norsk Hydro</a> , a major   <b>petroleum</b>   producer, now says studies have shown the proposal to be economically viable. It also said the  <b>plant</b>'s   <b>carbon dioxide</b>   emissions would be 90 percent lower than plants using  <b>natural gas</b>. <br><br>   <a class="wiki" href="http://en.wikipedia.org/wiki/Norway" cat="state	country	member">Norway</a>    is the world's second-largest  <b>oil exporter</b>, and also produces  <b>vast</b> amounts of  <b>natural gas</b> from its offshore fields. Virtually all of the country's electricity now comes from   <b>hydroelectric plants</b>  . <br><br> Under the  <b>company</b>'s plans, natural gas, air and water would be mixed to produce hydrogen,   <b>nitrogen</b>   and carbon dioxide. <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Norsk_Hydro" cat="company">Norsk Hydro</a>  wants to build the  <b>plant</b> at Karmoey, an  <b>island</b> about 500 kilometers (300 miles) west of  Oslo . <br><br>
+</ANNOTATION>
+*Entity:[Norwegian,textSpan=(0-12)]	-Disambiguation:(tid=21241, Title name=Norway) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(13-20)]	-Disambiguation:(tid=3636476, Title name=Aksjeselskap) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[moves,textSpan=(21-26)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[clean,textSpan=(38-43)]	-Disambiguation:(tid=938911, Title name=Unclean_animal) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[power,textSpan=(44-49)]	-Disambiguation:(tid=3270043, Title name=Electric_power) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[power plant,textSpan=(44-55)]	-Disambiguation:(tid=212141, Title name=Power_station) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plant,textSpan=(50-55)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Norsk Hydro ASA,textSpan=(63-78)]	-Disambiguation:(tid=337551, Title name=Norsk_Hydro) gold wikification:=Norsk_Hydro isCorrectPrediction=Correct
+*Entity:[plans,textSpan=(99-104)]	-Disambiguation:(tid=99794, Title name=Blueprint) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Friday,textSpan=(105-111)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[build,textSpan=(115-120)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hydrogen,textSpan=(124-132)]	-Disambiguation:*null* gold wikification:=Hydrogen isCorrectPrediction=Incorrect
+*Entity:[power plant,textSpan=(144-155)]	-Disambiguation:*null* gold wikification:=Power_station isCorrectPrediction=Incorrect
+*Entity:[produce,textSpan=(176-183)]	-Disambiguation:(tid=733668, Title name=Produce) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[electricity,textSpan=(185-196)]	-Disambiguation:*null* gold wikification:=Electricity isCorrectPrediction=Incorrect
+*Entity:[emissions,textSpan=(235-244)]	-Disambiguation:(tid=37259, Title name=Greenhouse_gas) gold wikification:=Air_pollution isCorrectPrediction=Incorrect
+*Entity:[state-owned company,textSpan=(267-286)]	-Disambiguation:(tid=204768, Title name=Government-owned_corporation) gold wikification:=Government-owned_corporation isCorrectPrediction=Correct
+*Entity:[Norwegian,textSpan=(303-312)]	-Disambiguation:(tid=21241, Title name=Norway) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Norwegian Water Resources and Energy Directorate,textSpan=(303-351)]	-Disambiguation:(tid=4596009, Title name=Norwegian_Water_Resources_and_Energy_Directorate) gold wikification:=Norwegian_Water_Resources_and_Energy_Directorate isCorrectPrediction=Correct
+*Entity:[Energy Directorate,textSpan=(333-351)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plans,textSpan=(357-362)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[build,textSpan=(366-371)]	-Disambiguation:(tid=239038, Title name=Construction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the plant,textSpan=(372-381)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plant,textSpan=(376-381)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[to be,textSpan=(383-388)]	-Disambiguation:(tid=5630, Title name=Copula) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[called,textSpan=(389-395)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[HydroKraft,textSpan=(396-406)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[pending,textSpan=(408-415)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[approval,textSpan=(416-424)]	-Disambiguation:(tid=912720, Title name=W._W._Herenton) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[government,textSpan=(428-438)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[government agencies,textSpan=(428-447)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[agencies,textSpan=(439-447)]	-Disambiguation:(tid=489674, Title name=Government_agency) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The company,textSpan=(452-463)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(456-463)]	-Disambiguation:(tid=4918223, Title name=Company) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[proper,textSpan=(488-494)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[1999,textSpan=(508-512)]	-Disambiguation:(tid=34553, Title name=1999) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[construction,textSpan=(514-526)]	-Disambiguation:(tid=239038, Title name=Construction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the plant,textSpan=(530-539)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plant,textSpan=(534-539)]	-Disambiguation:(tid=23208, Title name=Plant) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[completed,textSpan=(549-558)]	-Disambiguation:(tid=933117, Title name=Filmmaking) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[2002,textSpan=(566-570)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[production,textSpan=(575-585)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[startup,textSpan=(586-593)]	-Disambiguation:(tid=63216, Title name=Startup_company) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[early 2003,textSpan=(609-619)]	-Disambiguation:(tid=163809, Title name=January_2003) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[early,textSpan=(609-614)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[2003,textSpan=(615-619)]	-Disambiguation:(tid=36163, Title name=2003) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Earlier,textSpan=(624-631)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[this year,textSpan=(632-641)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[year,textSpan=(637-641)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the company,textSpan=(643-654)]	-Disambiguation:(tid=3772, Title name=BMW) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(647-654)]	-Disambiguation:(tid=4918223, Title name=Company) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a new,textSpan=(665-670)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[new technology,textSpan=(667-681)]	-Disambiguation:(tid=29816, Title name=Technology) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[technology,textSpan=(671-681)]	-Disambiguation:(tid=29816, Title name=Technology) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[allow,textSpan=(693-698)]	-Disambiguation:(tid=3658264, Title name=Allow) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hydrogen,textSpan=(723-731)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[generate,textSpan=(735-743)]	-Disambiguation:(tid=9540, Title name=Electricity_generation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[electricity,textSpan=(744-755)]	-Disambiguation:(tid=9550, Title name=Electricity) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hydrogen,textSpan=(761-769)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the plant,textSpan=(774-783)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plant,textSpan=(778-783)]	-Disambiguation:(tid=212141, Title name=Power_station) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[extracted,textSpan=(793-802)]	-Disambiguation:(tid=2393984, Title name=Liquid–liquid_extraction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[natural gas,textSpan=(809-820)]	-Disambiguation:(tid=22131, Title name=Natural_gas) gold wikification:=Natural_gas isCorrectPrediction=Correct
+*Entity:[natural,textSpan=(809-816)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gas,textSpan=(817-820)]	-Disambiguation:(tid=22131, Title name=Natural_gas) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Norsk Hydro,textSpan=(827-838)]	-Disambiguation:(tid=337551, Title name=Norsk_Hydro) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Norsk,textSpan=(827-832)]	-Disambiguation:(tid=21704, Title name=Norwegian_language) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hydro,textSpan=(833-838)]	-Disambiguation:(tid=337551, Title name=Norsk_Hydro) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[petroleum,textSpan=(849-858)]	-Disambiguation:(tid=23195, Title name=Petroleum) gold wikification:=Petroleum isCorrectPrediction=Correct
+*Entity:[studies,textSpan=(880-887)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[shown,textSpan=(893-898)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the proposal,textSpan=(899-911)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[proposal,textSpan=(903-911)]	-Disambiguation:(tid=36164, Title name=2006) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[economically,textSpan=(918-930)]	-Disambiguation:(tid=9223, Title name=Economics) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[viable,textSpan=(931-937)]	-Disambiguation:(tid=18393, Title name=Life) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[It,textSpan=(939-941)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the plant,textSpan=(952-961)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plant,textSpan=(956-961)]	-Disambiguation:(tid=212141, Title name=Power_station) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[carbon dioxide,textSpan=(965-979)]	-Disambiguation:(tid=5906, Title name=Carbon_dioxide) gold wikification:=Carbon_dioxide isCorrectPrediction=Correct
+*Entity:[90,textSpan=(1001-1003)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[percent,textSpan=(1004-1011)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[lower,textSpan=(1012-1017)]	-Disambiguation:(tid=550187, Title name=Lower_house) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plants,textSpan=(1023-1029)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[natural gas,textSpan=(1036-1047)]	-Disambiguation:(tid=22131, Title name=Natural_gas) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[natural,textSpan=(1036-1043)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gas,textSpan=(1044-1047)]	-Disambiguation:(tid=22131, Title name=Natural_gas) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Norway,textSpan=(1053-1059)]	-Disambiguation:(tid=21241, Title name=Norway) gold wikification:=Norway isCorrectPrediction=Correct
+*Entity:[the world,textSpan=(1065-1074)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[world,textSpan=(1069-1074)]	-Disambiguation:(tid=38714, Title name=World) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[second-largest,textSpan=(1077-1091)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[oil,textSpan=(1092-1095)]	-Disambiguation:(tid=23195, Title name=Petroleum) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[oil exporter,textSpan=(1092-1104)]	-Disambiguation:(tid=17808102, Title name=List_of_countries_by_oil_exports) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[exporter,textSpan=(1096-1104)]	-Disambiguation:(tid=307592, Title name=Export) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[vast,textSpan=(1124-1128)]	-Disambiguation:(tid=192573, Title name=VAST) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[amounts,textSpan=(1129-1136)]	-Disambiguation:(tid=759264, Title name=Amount_of_substance) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[natural gas,textSpan=(1140-1151)]	-Disambiguation:(tid=22131, Title name=Natural_gas) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[natural,textSpan=(1140-1147)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[gas,textSpan=(1148-1151)]	-Disambiguation:(tid=22131, Title name=Natural_gas) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[offshore,textSpan=(1161-1169)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[fields,textSpan=(1170-1176)]	-Disambiguation:(tid=219931, Title name=Oil_field) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the country,textSpan=(1195-1206)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[country,textSpan=(1199-1206)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[electricity,textSpan=(1209-1220)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hydroelectric plants,textSpan=(1237-1257)]	-Disambiguation:(tid=381399, Title name=Hydroelectricity) gold wikification:=Hydroelectricity isCorrectPrediction=Correct
+*Entity:[hydroelectric,textSpan=(1237-1250)]	-Disambiguation:(tid=381399, Title name=Hydroelectricity) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plants,textSpan=(1251-1257)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the company,textSpan=(1270-1281)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(1274-1281)]	-Disambiguation:(tid=4918223, Title name=Company) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plans,textSpan=(1284-1289)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[produce,textSpan=(1336-1343)]	-Disambiguation:(tid=733668, Title name=Produce) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[nitrogen,textSpan=(1355-1363)]	-Disambiguation:(tid=21175, Title name=Nitrogen) gold wikification:=Nitrogen isCorrectPrediction=Correct
+*Entity:[Norsk,textSpan=(1389-1394)]	-Disambiguation:(tid=21704, Title name=Norwegian_language) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Norsk Hydro,textSpan=(1389-1400)]	-Disambiguation:(tid=337551, Title name=Norsk_Hydro) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Hydro,textSpan=(1395-1400)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[wants,textSpan=(1401-1406)]	-Disambiguation:(tid=3343584, Title name=Want) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[build,textSpan=(1410-1415)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the plant,textSpan=(1416-1425)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plant,textSpan=(1420-1425)]	-Disambiguation:(tid=212141, Title name=Power_station) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Karmoey,textSpan=(1429-1436)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[an island,textSpan=(1438-1447)]	-Disambiguation:(tid=14032866, Title name=Saint-Géry_Island) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[island,textSpan=(1441-1447)]	-Disambiguation:(tid=14587, Title name=Island) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Oslo,textSpan=(1490-1494)]	-Disambiguation:(tid=22309, Title name=Oslo) gold wikification:=Oslo isCorrectPrediction=Correct
+
+Output Explanation:
+Entity : 'Norwegian' start in text:0 end in text: 12; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:13 end in text: 20; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'moves' start in text:21 end in text: 26; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'clean' start in text:38 end in text: 43; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'power' start in text:44 end in text: 49; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'power plant' start in text:44 end in text: 55; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plant' start in text:50 end in text: 55; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Norsk Hydro ASA' start in text:63 end in text: 78; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plans' start in text:99 end in text: 104; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Friday' start in text:105 end in text: 111; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'build' start in text:115 end in text: 120; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hydrogen' start in text:124 end in text: 132; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'power plant' start in text:144 end in text: 155; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'produce' start in text:176 end in text: 183; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'electricity' start in text:185 end in text: 196; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'emissions' start in text:235 end in text: 244; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'state-owned company' start in text:267 end in text: 286; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Norwegian' start in text:303 end in text: 312; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Norwegian Water Resources and Energy Directorate' start in text:303 end in text: 351; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Energy Directorate' start in text:333 end in text: 351; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'plans' start in text:357 end in text: 362; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'build' start in text:366 end in text: 371; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the plant' start in text:372 end in text: 381; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'plant' start in text:376 end in text: 381; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'to be' start in text:383 end in text: 388; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'called' start in text:389 end in text: 395; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'HydroKraft' start in text:396 end in text: 406; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'pending' start in text:408 end in text: 415; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'approval' start in text:416 end in text: 424; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'government' start in text:428 end in text: 438; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'government agencies' start in text:428 end in text: 447; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'agencies' start in text:439 end in text: 447; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The company' start in text:452 end in text: 463; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:456 end in text: 463; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'proper' start in text:488 end in text: 494; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '1999' start in text:508 end in text: 512; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'construction' start in text:514 end in text: 526; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the plant' start in text:530 end in text: 539; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'plant' start in text:534 end in text: 539; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'completed' start in text:549 end in text: 558; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '2002' start in text:566 end in text: 570; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'production' start in text:575 end in text: 585; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'startup' start in text:586 end in text: 593; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'early 2003' start in text:609 end in text: 619; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'early' start in text:609 end in text: 614; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '2003' start in text:615 end in text: 619; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Earlier' start in text:624 end in text: 631; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'this year' start in text:632 end in text: 641; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'year' start in text:637 end in text: 641; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the company' start in text:643 end in text: 654; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:647 end in text: 654; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a new' start in text:665 end in text: 670; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'new technology' start in text:667 end in text: 681; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'technology' start in text:671 end in text: 681; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'allow' start in text:693 end in text: 698; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'hydrogen' start in text:723 end in text: 731; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'generate' start in text:735 end in text: 743; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'electricity' start in text:744 end in text: 755; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hydrogen' start in text:761 end in text: 769; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the plant' start in text:774 end in text: 783; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'plant' start in text:778 end in text: 783; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'extracted' start in text:793 end in text: 802; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'natural gas' start in text:809 end in text: 820; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'natural' start in text:809 end in text: 816; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gas' start in text:817 end in text: 820; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Norsk Hydro' start in text:827 end in text: 838; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Norsk' start in text:827 end in text: 832; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hydro' start in text:833 end in text: 838; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'petroleum' start in text:849 end in text: 858; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'studies' start in text:880 end in text: 887; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shown' start in text:893 end in text: 898; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the proposal' start in text:899 end in text: 911; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'proposal' start in text:903 end in text: 911; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'economically' start in text:918 end in text: 930; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'viable' start in text:931 end in text: 937; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'It' start in text:939 end in text: 941; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the plant' start in text:952 end in text: 961; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'plant' start in text:956 end in text: 961; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'carbon dioxide' start in text:965 end in text: 979; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : '90' start in text:1001 end in text: 1003; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'percent' start in text:1004 end in text: 1011; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'lower' start in text:1012 end in text: 1017; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plants' start in text:1023 end in text: 1029; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'natural gas' start in text:1036 end in text: 1047; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'natural' start in text:1036 end in text: 1043; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gas' start in text:1044 end in text: 1047; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Norway' start in text:1053 end in text: 1059; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the world' start in text:1065 end in text: 1074; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'world' start in text:1069 end in text: 1074; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'second-largest' start in text:1077 end in text: 1091; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'oil' start in text:1092 end in text: 1095; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'oil exporter' start in text:1092 end in text: 1104; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'exporter' start in text:1096 end in text: 1104; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'vast' start in text:1124 end in text: 1128; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'amounts' start in text:1129 end in text: 1136; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'natural gas' start in text:1140 end in text: 1151; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'natural' start in text:1140 end in text: 1147; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'gas' start in text:1148 end in text: 1151; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'offshore' start in text:1161 end in text: 1169; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'fields' start in text:1170 end in text: 1176; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the country' start in text:1195 end in text: 1206; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'country' start in text:1199 end in text: 1206; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'electricity' start in text:1209 end in text: 1220; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hydroelectric plants' start in text:1237 end in text: 1257; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hydroelectric' start in text:1237 end in text: 1250; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plants' start in text:1251 end in text: 1257; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the company' start in text:1270 end in text: 1281; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:1274 end in text: 1281; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plans' start in text:1284 end in text: 1289; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'produce' start in text:1336 end in text: 1343; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'nitrogen' start in text:1355 end in text: 1363; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Norsk' start in text:1389 end in text: 1394; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Norsk Hydro' start in text:1389 end in text: 1400; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Hydro' start in text:1395 end in text: 1400; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'wants' start in text:1401 end in text: 1406; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'build' start in text:1410 end in text: 1415; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the plant' start in text:1416 end in text: 1425; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'plant' start in text:1420 end in text: 1425; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Karmoey' start in text:1429 end in text: 1436; Entity types: NER,LOC,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'an island' start in text:1438 end in text: 1447; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'island' start in text:1441 end in text: 1447; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Oslo' start in text:1490 end in text: 1494; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

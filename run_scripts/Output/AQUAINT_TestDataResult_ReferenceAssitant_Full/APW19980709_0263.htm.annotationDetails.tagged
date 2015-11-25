@@ -1,0 +1,446 @@
+<ANNOTATION>
+   Vietnam's  <b>prime</b>  <b>minister</b> demands improvements by state   <b>monopoly</b>  <br><br>  Prime Minister     <a class="wiki" href="http://en.wikipedia.org/wiki/Phan_Van_Khai" cat="person">Phan Van Khai</a>    has taken the state  electricity   monopoly to task for  <b>abuse</b> of power and excessive   <b>bureaucracy</b>   while accusing it of  <b>overcharging</b>, the newspaper Dau Tu (Investment) reported  <b>Thursday</b>. <br><br> In a  <b>blunt</b>  <b>assessment</b>, he ordered  <a class="wiki" href="http://en.wikipedia.org/wiki/Vietnam_Electricity" cat="company">Electricity of Vietnam</a>    to help cut  <b>waste</b> that is driving up costs and could  <b>spark</b> public discontent.  <a class="wiki" href="http://en.wikipedia.org/wiki/EVN" cat="">EVN</a>  must work out corrective measures based on his instructions, and individual leaders have to do  self-criticisms  . <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Phan_Van_Khai" cat="person">Khai</a>  said the utility has plenty of problems, particularly in the  tender   process and   <b>project accounting</b>  , that have led to complaints and affect  <a class="wiki" href="http://en.wikipedia.org/wiki/Vietnam_War" cat="war">Vietnam</a> 's reputation with foreign investors. <br><br> In March, former President   <a class="wiki" href="http://en.wikipedia.org/wiki/Le_Duc_Anh" cat="">Le Duc Anh</a>   , in an article for the Army  <b>newspaper</b>, criticized irregularities in the  <b>bidding</b> process for the country's largest thermal  <b>electric</b>  <b>plant</b>. <br><br>  <b>Local media</b> have reported that the  <b>company</b> has  <b>overblown</b> the costs for  <b>construction</b> and repair work on a number of projects to justify  <b>overcharging</b> for  <b>electricity</b>. <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/Vietnam" cat="state	country">Vietnam</a>  is  <b>chronically</b>  <b>short</b> of power, and several projects to raise its  <b>output</b> are bogged down in  <b>bureaucracy</b>. <br><br>  <a class="wiki" href="http://en.wikipedia.org/wiki/EVN" cat="">EVN</a>  imposed  rotating  <b>power cuts</b>   earlier this year as the worst   <b>drought</b>   in a century dropped water levels to critical levels at the   <b>reservoir</b>  s that feed key  hydroelectric  plants. <br><br>
+</ANNOTATION>
+*Entity:[Vietnam,textSpan=(0-10)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[prime minister,textSpan=(13-27)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[prime,textSpan=(13-18)]	-Disambiguation:(tid=23666, Title name=Prime_number) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[minister,textSpan=(19-27)]	-Disambiguation:(tid=739237, Title name=Minister_(government)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[demands,textSpan=(28-35)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[improvements,textSpan=(36-48)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[monopoly,textSpan=(59-67)]	-Disambiguation:(tid=18878, Title name=Monopoly) gold wikification:=Monopoly isCorrectPrediction=Correct
+*Entity:[Prime Minister,textSpan=(73-87)]	-Disambiguation:*null* gold wikification:=Prime_Minister_of_Vietnam isCorrectPrediction=Incorrect
+*Entity:[Phan Van Khai,textSpan=(91-104)]	-Disambiguation:(tid=322581, Title name=Phan_Van_Khai) gold wikification:=Phan_Van_Khai isCorrectPrediction=Correct
+*Entity:[taken,textSpan=(111-116)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[electricity,textSpan=(128-139)]	-Disambiguation:*null* gold wikification:=Electricity isCorrectPrediction=Incorrect
+*Entity:[task,textSpan=(154-158)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[abuse,textSpan=(163-168)]	-Disambiguation:(tid=424739, Title name=Abuse) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[power,textSpan=(172-177)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bureaucracy,textSpan=(193-204)]	-Disambiguation:(tid=4645, Title name=Bureaucracy) gold wikification:=Bureaucracy isCorrectPrediction=Correct
+*Entity:[overcharging,textSpan=(228-240)]	-Disambiguation:(tid=4198, Title name=Battery_(electricity)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Dau Tu,textSpan=(256-262)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Thursday,textSpan=(285-293)]	-Disambiguation:(tid=266139, Title name=Thursday_(band)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[blunt,textSpan=(303-308)]	-Disambiguation:(tid=403755, Title name=Blunt_(cigar)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[assessment,textSpan=(309-319)]	-Disambiguation:(tid=465183, Title name=Assessment) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Electricity of Vietnam,textSpan=(332-355)]	-Disambiguation:(tid=3658264, Title name=Vietnam_Electricity) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Electricity,textSpan=(332-343)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Vietnam,textSpan=(348-355)]	-Disambiguation:(tid=202354, Title name=Vietnam) gold wikification:=Vietnam isCorrectPrediction=Correct
+*Entity:[cut,textSpan=(366-369)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[waste,textSpan=(370-375)]	-Disambiguation:(tid=216163, Title name=Waste) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[driving,textSpan=(384-391)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[costs,textSpan=(395-400)]	-Disambiguation:(tid=221832, Title name=Costs_(English_law)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[spark,textSpan=(411-416)]	-Disambiguation:(tid=645609, Title name=Spark) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[public,textSpan=(417-423)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[EVN,textSpan=(436-439)]	-Disambiguation:(tid=2115038, Title name=EVN) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[work,textSpan=(445-449)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[corrective,textSpan=(454-464)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[measures,textSpan=(465-473)]	-Disambiguation:(tid=19022, Title name=Measurement) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[instructions,textSpan=(487-499)]	-Disambiguation:(tid=3149801, Title name=Instruction_set) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[individual,textSpan=(505-515)]	-Disambiguation:(tid=14593, Title name=Individual) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[leaders,textSpan=(516-523)]	-Disambiguation:(tid=130918, Title name=Leadership) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[have to,textSpan=(524-531)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[to do,textSpan=(529-534)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Khai,textSpan=(558-562)]	-Disambiguation:(tid=322581, Title name=Phan_Van_Khai) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[utility,textSpan=(572-579)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plenty,textSpan=(584-590)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[problems,textSpan=(594-602)]	-Disambiguation:(tid=608760, Title name=Problem) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[tender,textSpan=(625-631)]	-Disambiguation:*null* gold wikification:=Tender isCorrectPrediction=Incorrect
+*Entity:[project accounting,textSpan=(647-665)]	-Disambiguation:(tid=912142, Title name=Project_accounting) gold wikification:=Project_accounting isCorrectPrediction=Correct
+*Entity:[led,textSpan=(679-682)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[complaints,textSpan=(686-696)]	-Disambiguation:(tid=7357, Title name=Complaint) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Vietnam,textSpan=(708-715)]	-Disambiguation:(tid=32611, Title name=Vietnam_War) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reputation,textSpan=(718-728)]	-Disambiguation:(tid=233009, Title name=Reputation) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[foreign,textSpan=(734-741)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[foreign investors,textSpan=(734-751)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[investors,textSpan=(742-751)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[March,textSpan=(759-764)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Le Duc Anh,textSpan=(784-794)]	-Disambiguation:(tid=3621429, Title name=Le_Duc_Anh) gold wikification:=Le_Duc_Anh isCorrectPrediction=Correct
+*Entity:[article,textSpan=(804-811)]	-Disambiguation:(tid=48203, Title name=Article_(grammar)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Army,textSpan=(820-824)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[newspaper,textSpan=(825-834)]	-Disambiguation:(tid=18582335, Title name=Newspaper) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[irregularities,textSpan=(847-861)]	-Disambiguation:(tid=1194763, Title name=2004_United_States_election_voting_controversies) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bidding process,textSpan=(869-884)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bidding,textSpan=(869-876)]	-Disambiguation:(tid=8586748, Title name=Bidding) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[process,textSpan=(877-884)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the country,textSpan=(889-900)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[country,textSpan=(893-900)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[largest,textSpan=(903-910)]	-Disambiguation:(tid=2695494, Title name=Islam_by_country) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[thermal electric,textSpan=(911-927)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[thermal,textSpan=(911-918)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[electric,textSpan=(919-927)]	-Disambiguation:(tid=9550, Title name=Electricity) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[plant,textSpan=(928-933)]	-Disambiguation:(tid=212141, Title name=Power_station) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Local media,textSpan=(938-949)]	-Disambiguation:(tid=5296490, Title name=Media_of_Costa_Rica) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Local,textSpan=(938-943)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[media,textSpan=(944-949)]	-Disambiguation:(tid=5296490, Title name=Media_of_Costa_Rica) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reported,textSpan=(955-963)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the company,textSpan=(969-980)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[company,textSpan=(973-980)]	-Disambiguation:(tid=4918223, Title name=Company) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[overblown,textSpan=(985-994)]	-Disambiguation:(tid=3658264, Title name=Overblown) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[costs,textSpan=(999-1004)]	-Disambiguation:(tid=221832, Title name=Costs_(English_law)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[construction,textSpan=(1009-1021)]	-Disambiguation:(tid=239038, Title name=Construction) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[repair,textSpan=(1026-1032)]	-Disambiguation:(tid=91191, Title name=Maintenance,_repair,_and_operations) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[work,textSpan=(1033-1037)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[a number,textSpan=(1041-1049)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[number,textSpan=(1043-1049)]	-Disambiguation:(tid=21690, Title name=Number) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[projects,textSpan=(1053-1061)]	-Disambiguation:(tid=160483, Title name=Project) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[justify,textSpan=(1065-1072)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[overcharging,textSpan=(1073-1085)]	-Disambiguation:(tid=4198, Title name=Battery_(electricity)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[electricity,textSpan=(1090-1101)]	-Disambiguation:(tid=9550, Title name=Electricity) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Vietnam,textSpan=(1106-1113)]	-Disambiguation:(tid=202354, Title name=Vietnam) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[chronically,textSpan=(1117-1128)]	-Disambiguation:(tid=4421272, Title name=Chronic_(medicine)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[short,textSpan=(1129-1134)]	-Disambiguation:(tid=235898, Title name=Short_circuit) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[power,textSpan=(1138-1143)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[projects,textSpan=(1157-1165)]	-Disambiguation:(tid=160483, Title name=Project) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[raise,textSpan=(1169-1174)]	-Disambiguation:(tid=5017898, Title name=Raise) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[output,textSpan=(1179-1185)]	-Disambiguation:(tid=41470, Title name=Output) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[bureaucracy,textSpan=(1205-1216)]	-Disambiguation:(tid=4645, Title name=Bureaucracy) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[EVN,textSpan=(1221-1224)]	-Disambiguation:(tid=2115038, Title name=EVN) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[power cuts,textSpan=(1243-1253)]	-Disambiguation:(tid=296636, Title name=Power_outage) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[power,textSpan=(1243-1248)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[cuts,textSpan=(1249-1253)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[earlier,textSpan=(1256-1263)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[this year,textSpan=(1264-1273)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[year,textSpan=(1269-1273)]	-Disambiguation:(tid=34341, Title name=Year) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[drought,textSpan=(1288-1295)]	-Disambiguation:(tid=37335, Title name=Drought) gold wikification:=Drought isCorrectPrediction=Correct
+*Entity:[a century,textSpan=(1301-1310)]	-Disambiguation:(tid=34571, Title name=19th_century) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[century,textSpan=(1303-1310)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[water,textSpan=(1319-1324)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[levels,textSpan=(1325-1331)]	-Disambiguation:(tid=525225, Title name=Level) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[critical,textSpan=(1335-1343)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[levels,textSpan=(1344-1350)]	-Disambiguation:(tid=525225, Title name=Level) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[reservoir,textSpan=(1359-1368)]	-Disambiguation:(tid=3292675, Title name=Reservoir) gold wikification:=Reservoir isCorrectPrediction=Correct
+*Entity:[hydroelectric,textSpan=(1387-1400)]	-Disambiguation:(tid=381399, Title name=Hydroelectricity) gold wikification:=Hydroelectricity isCorrectPrediction=Correct
+
+Output Explanation:
+Entity : 'Vietnam' start in text:0 end in text: 10; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'prime minister' start in text:13 end in text: 27; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'prime' start in text:13 end in text: 18; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'minister' start in text:19 end in text: 27; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'demands' start in text:28 end in text: 35; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'improvements' start in text:36 end in text: 48; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'monopoly' start in text:59 end in text: 67; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Prime Minister' start in text:73 end in text: 87; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Phan Van Khai' start in text:91 end in text: 104; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'taken' start in text:111 end in text: 116; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'electricity' start in text:128 end in text: 139; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'task' start in text:154 end in text: 158; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'abuse' start in text:163 end in text: 168; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'power' start in text:172 end in text: 177; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bureaucracy' start in text:193 end in text: 204; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'overcharging' start in text:228 end in text: 240; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Dau Tu' start in text:256 end in text: 262; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Thursday' start in text:285 end in text: 293; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'blunt' start in text:303 end in text: 308; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'assessment' start in text:309 end in text: 319; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Electricity of Vietnam' start in text:332 end in text: 355; Entity types: 
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Electricity' start in text:332 end in text: 343; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Vietnam' start in text:348 end in text: 355; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cut' start in text:366 end in text: 369; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'waste' start in text:370 end in text: 375; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'driving' start in text:384 end in text: 391; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'costs' start in text:395 end in text: 400; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'spark' start in text:411 end in text: 416; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'public' start in text:417 end in text: 423; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'EVN' start in text:436 end in text: 439; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'work' start in text:445 end in text: 449; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'corrective' start in text:454 end in text: 464; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'measures' start in text:465 end in text: 473; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'instructions' start in text:487 end in text: 499; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'individual' start in text:505 end in text: 515; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'leaders' start in text:516 end in text: 523; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'have to' start in text:524 end in text: 531; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'to do' start in text:529 end in text: 534; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Khai' start in text:558 end in text: 562; Entity types: NER,PER,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'utility' start in text:572 end in text: 579; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plenty' start in text:584 end in text: 590; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'problems' start in text:594 end in text: 602; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'tender' start in text:625 end in text: 631; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'project accounting' start in text:647 end in text: 665; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'led' start in text:679 end in text: 682; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'complaints' start in text:686 end in text: 696; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Vietnam' start in text:708 end in text: 715; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reputation' start in text:718 end in text: 728; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'foreign' start in text:734 end in text: 741; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'foreign investors' start in text:734 end in text: 751; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'investors' start in text:742 end in text: 751; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'March' start in text:759 end in text: 764; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Le Duc Anh' start in text:784 end in text: 794; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'article' start in text:804 end in text: 811; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Army' start in text:820 end in text: 824; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'newspaper' start in text:825 end in text: 834; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'irregularities' start in text:847 end in text: 861; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bidding process' start in text:869 end in text: 884; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bidding' start in text:869 end in text: 876; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'process' start in text:877 end in text: 884; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the country' start in text:889 end in text: 900; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'country' start in text:893 end in text: 900; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'largest' start in text:903 end in text: 910; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'thermal electric' start in text:911 end in text: 927; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'thermal' start in text:911 end in text: 918; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'electric' start in text:919 end in text: 927; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'plant' start in text:928 end in text: 933; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Local media' start in text:938 end in text: 949; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Local' start in text:938 end in text: 943; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'media' start in text:944 end in text: 949; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reported' start in text:955 end in text: 963; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the company' start in text:969 end in text: 980; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'company' start in text:973 end in text: 980; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'overblown' start in text:985 end in text: 994; Entity types: NPSubchunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'costs' start in text:999 end in text: 1004; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'construction' start in text:1009 end in text: 1021; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'repair' start in text:1026 end in text: 1032; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'work' start in text:1033 end in text: 1037; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a number' start in text:1041 end in text: 1049; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'number' start in text:1043 end in text: 1049; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'projects' start in text:1053 end in text: 1061; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'justify' start in text:1065 end in text: 1072; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'overcharging' start in text:1073 end in text: 1085; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'electricity' start in text:1090 end in text: 1101; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Vietnam' start in text:1106 end in text: 1113; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'chronically' start in text:1117 end in text: 1128; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'short' start in text:1129 end in text: 1134; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'power' start in text:1138 end in text: 1143; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'projects' start in text:1157 end in text: 1165; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'raise' start in text:1169 end in text: 1174; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'output' start in text:1179 end in text: 1185; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'bureaucracy' start in text:1205 end in text: 1216; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'EVN' start in text:1221 end in text: 1224; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'power cuts' start in text:1243 end in text: 1253; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'power' start in text:1243 end in text: 1248; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'cuts' start in text:1249 end in text: 1253; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'earlier' start in text:1256 end in text: 1263; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'this year' start in text:1264 end in text: 1273; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'year' start in text:1269 end in text: 1273; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'drought' start in text:1288 end in text: 1295; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'a century' start in text:1301 end in text: 1310; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'century' start in text:1303 end in text: 1310; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'water' start in text:1319 end in text: 1324; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'levels' start in text:1325 end in text: 1331; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'critical' start in text:1335 end in text: 1343; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'levels' start in text:1344 end in text: 1350; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'reservoir' start in text:1359 end in text: 1368; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hydroelectric' start in text:1387 end in text: 1400; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+

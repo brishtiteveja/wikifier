@@ -1,0 +1,335 @@
+<ANNOTATION>
+   <a class="wiki" href="http://en.wikipedia.org/wiki/Gaza" cat="city	place">Gaza</a>  11-15 ( <a class="wiki" href="http://en.wikipedia.org/wiki/Agence_France-Presse" cat="agency	company	establishment">AFP</a> ) -  A  <b>high-level</b>  <a class="wiki" href="http://en.wikipedia.org/wiki/Palestinian_people" cat="group	citizen	person">Palestinian</a>  source said today Wednesday that the  <a class="wiki" href="http://en.wikipedia.org/wiki/Palestinian_people" cat="group	citizen	person">Palestinian</a>  Superior  <a class="wiki" href="http://en.wikipedia.org/wiki/United_Nations_Security_Council" cat="election	organization	establishment">Security Council</a>  led by  <a class="wiki" href="http://en.wikipedia.org/wiki/President" cat="occupation	executive	title	president	position">President</a>   <a class="wiki" href="http://en.wikipedia.org/wiki/Yasser_Arafat" cat="survivor	member	muslim	alumnus	recipient	president	person	engineer	dispute">Yasser Arafat</a>  issued orders to stop shooting inside  <b>area</b> "A" under  <a class="wiki" href="http://en.wikipedia.org/wiki/Palestinian_people" cat="group	citizen	person">Palestinian</a>  control.    <a class="wiki" href="http://en.wikipedia.org/wiki/Proto-Human_language" cat="language">The source</a>  said that "the  <a class="wiki" href="http://en.wikipedia.org/wiki/Palestinian_people" cat="group	citizen	person">Palestinian</a>  Superior  <a class="wiki" href="http://en.wikipedia.org/wiki/United_Nations_Security_Council" cat="election	organization	establishment">Security Council</a>  led by  <a class="wiki" href="http://en.wikipedia.org/wiki/President" cat="occupation	executive	title	president	position">President</a>   <a class="wiki" href="http://en.wikipedia.org/wiki/Yasser_Arafat" cat="survivor	member	muslim	alumnus	recipient	president	person	engineer	dispute">Yasser Arafat</a>  issued orders to stop unknown armed persons from shooting inside zone "A" under complete  <a class="wiki" href="http://en.wikipedia.org/wiki/Palestinian_people" cat="group	citizen	person">Palestinian</a>  control and between buildings and  <b>civilians</b> in  <a class="wiki" href="http://en.wikipedia.org/wiki/Palestinian_territories" cat="territory">the Palestinian Territories</a> ."   The  <a class="wiki" href="http://en.wikipedia.org/wiki/Palestinian_people" cat="group	citizen	person">Palestinian</a>  decision comes a few hours before discussions between  <a class="wiki" href="http://en.wikipedia.org/wiki/Prime_Minister_of_Israel" cat="">Israeli Prime Minister</a>   <a class="wiki" href="http://en.wikipedia.org/wiki/Ehud_Barak" cat="politician	jew	person	recipient	member	leaders	commander	alumnus	minister	chief">Ehud Barak</a>  and his  <b>top security</b> advisors to explore the measures to be taken against  <a class="wiki" href="http://en.wikipedia.org/wiki/Palestinian_people" cat="group	citizen	person">Palestinians</a>  after four  <a class="wiki" href="http://en.wikipedia.org/wiki/Israel_Defense_Forces" cat="dispute	recipient	relations	unit">Israeli soldiers</a>  were shot in Palestinian areas last Monday. <br>
+</ANNOTATION>
+*Entity:[Gaza,textSpan=(2-6)]	-Disambiguation:(tid=55387, Title name=Gaza) gold wikification:=Gaza isCorrectPrediction=Correct
+*Entity:[AFP,textSpan=(14-17)]	-Disambiguation:(tid=471981, Title name=Agence_France-Presse) gold wikification:=Agence_France-Presse isCorrectPrediction=Correct
+*Entity:[high-level,textSpan=(24-34)]	-Disambiguation:(tid=189842, Title name=High-level_programming_language) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Palestinian,textSpan=(35-46)]	-Disambiguation:(tid=23267, Title name=Palestinian_people) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[source,textSpan=(47-53)]	-Disambiguation:(tid=27661, Title name=Source_code) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[today,textSpan=(59-64)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Wednesday,textSpan=(65-74)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Palestinian Superior Security Council,textSpan=(84-121)]	-Disambiguation:*null* gold wikification:=*null* isCorrectPrediction=Correct
+*Entity:[Palestinian,textSpan=(84-95)]	-Disambiguation:(tid=23267, Title name=Palestinian_people) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Superior,textSpan=(96-104)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Security Council,textSpan=(105-121)]	-Disambiguation:(tid=31956, Title name=United_Nations_Security_Council) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Security,textSpan=(105-113)]	-Disambiguation:(tid=41684, Title name=Security) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Council,textSpan=(114-121)]	-Disambiguation:(tid=31956, Title name=United_Nations_Security_Council) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[President,textSpan=(129-138)]	-Disambiguation:(tid=24110, Title name=President) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[President Yasser Arafat,textSpan=(129-152)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yasser Arafat,textSpan=(139-152)]	-Disambiguation:(tid=34289, Title name=Yasser_Arafat) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yasser,textSpan=(139-145)]	-Disambiguation:(tid=34289, Title name=Yasser_Arafat) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Arafat,textSpan=(146-152)]	-Disambiguation:(tid=34289, Title name=Yasser_Arafat) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[orders,textSpan=(160-166)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[shooting,textSpan=(175-183)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[inside,textSpan=(184-190)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[area,textSpan=(191-195)]	-Disambiguation:(tid=1209, Title name=Area) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Palestinian,textSpan=(206-217)]	-Disambiguation:(tid=23267, Title name=Palestinian_people) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[control,textSpan=(218-225)]	-Disambiguation:(tid=491900, Title name=Control) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[The source,textSpan=(229-239)]	-Disambiguation:(tid=23940, Title name=Proto-Human_language) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[source,textSpan=(233-239)]	-Disambiguation:(tid=27661, Title name=Source_code) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Palestinian,textSpan=(255-266)]	-Disambiguation:(tid=23267, Title name=Palestinian_people) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Palestinian Superior Security Council,textSpan=(255-292)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Superior,textSpan=(267-275)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Security Council,textSpan=(276-292)]	-Disambiguation:(tid=31956, Title name=United_Nations_Security_Council) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Security,textSpan=(276-284)]	-Disambiguation:(tid=41684, Title name=Security) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Council,textSpan=(285-292)]	-Disambiguation:(tid=31956, Title name=United_Nations_Security_Council) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[President,textSpan=(300-309)]	-Disambiguation:(tid=24110, Title name=President) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[President Yasser Arafat,textSpan=(300-323)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yasser Arafat,textSpan=(310-323)]	-Disambiguation:(tid=34289, Title name=Yasser_Arafat) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Yasser,textSpan=(310-316)]	-Disambiguation:(tid=34289, Title name=Yasser_Arafat) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Arafat,textSpan=(317-323)]	-Disambiguation:(tid=34289, Title name=Yasser_Arafat) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[orders,textSpan=(331-337)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[unknown,textSpan=(346-353)]	-Disambiguation:(tid=492105, Title name=Unknown) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[armed,textSpan=(354-359)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[persons,textSpan=(360-367)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[inside,textSpan=(382-388)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[zone,textSpan=(389-393)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[complete,textSpan=(404-412)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Palestinian,textSpan=(413-424)]	-Disambiguation:(tid=23267, Title name=Palestinian_people) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[control,textSpan=(425-432)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[buildings,textSpan=(445-454)]	-Disambiguation:(tid=45995, Title name=Building) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[civilians,textSpan=(459-468)]	-Disambiguation:(tid=145804, Title name=Civilian) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[the Palestinian Territories,textSpan=(472-499)]	-Disambiguation:(tid=96665, Title name=Palestinian_territories) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Palestinian Territories,textSpan=(476-499)]	-Disambiguation:(tid=96665, Title name=Palestinian_territories) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Palestinian,textSpan=(476-487)]	-Disambiguation:(tid=23267, Title name=Palestinian_people) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Territories,textSpan=(488-499)]	-Disambiguation:(tid=96665, Title name=Palestinian_territories) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Palestinian,textSpan=(508-519)]	-Disambiguation:(tid=23267, Title name=Palestinian_people) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[hours,textSpan=(541-546)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[discussions,textSpan=(554-565)]	-Disambiguation:(tid=337689, Title name=Debate) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli,textSpan=(574-581)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli Prime Minister Ehud Barak,textSpan=(574-607)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli Prime Minister,textSpan=(574-596)]	-Disambiguation:(tid=24898, Title name=Prime_Minister_of_Israel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Prime,textSpan=(582-587)]	-Disambiguation:(tid=2984655, Title name=Prime_(liturgy)) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Prime Minister,textSpan=(582-596)]	-Disambiguation:(tid=24898, Title name=Prime_Minister_of_Israel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Minister,textSpan=(588-596)]	-Disambiguation:(tid=24898, Title name=Prime_Minister_of_Israel) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Ehud Barak,textSpan=(597-607)]	-Disambiguation:(tid=168212, Title name=Ehud_Barak) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Ehud,textSpan=(597-601)]	-Disambiguation:(tid=168212, Title name=Ehud_Barak) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Barak,textSpan=(602-607)]	-Disambiguation:(tid=168212, Title name=Ehud_Barak) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[top security,textSpan=(616-628)]	-Disambiguation:(tid=252857, Title name=Classified_information) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[security,textSpan=(620-628)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[advisors,textSpan=(629-637)]	-Disambiguation:(tid=5183633, Title name=Central_Intelligence_Agency) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[explore,textSpan=(641-648)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[measures,textSpan=(653-661)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[to be,textSpan=(662-667)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[taken,textSpan=(668-673)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Palestinians,textSpan=(682-694)]	-Disambiguation:(tid=23267, Title name=Palestinian_people) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli soldiers,textSpan=(706-722)]	-Disambiguation:(tid=39237, Title name=Israel_Defense_Forces) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Israeli,textSpan=(706-713)]	-Disambiguation:(tid=181296, Title name=Israelis) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[soldiers,textSpan=(714-722)]	-Disambiguation:(tid=39237, Title name=Israel_Defense_Forces) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[shot,textSpan=(728-732)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Palestinian,textSpan=(736-747)]	-Disambiguation:(tid=23267, Title name=Palestinian_people) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Palestinian areas,textSpan=(736-753)]	-Disambiguation:(tid=3658264, Title name=Palestinian_Autonomous_Areas) gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[areas,textSpan=(748-753)]	-Disambiguation:*null* gold wikification:=*unknown* isCorrectPrediction=Unknown
+*Entity:[Monday,textSpan=(759-765)]	-Disambiguation:(tid=54406, Title name=Monday) gold wikification:=*unknown* isCorrectPrediction=Unknown
+
+Output Explanation:
+Entity : 'Gaza' start in text:2 end in text: 6; Entity types: NER,LOC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'AFP' start in text:14 end in text: 17; Entity types: 
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'high-level' start in text:24 end in text: 34; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Palestinian' start in text:35 end in text: 46; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'source' start in text:47 end in text: 53; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'today' start in text:59 end in text: 64; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Wednesday' start in text:65 end in text: 74; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Palestinian Superior Security Council' start in text:84 end in text: 121; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Palestinian' start in text:84 end in text: 95; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Superior' start in text:96 end in text: 104; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Security Council' start in text:105 end in text: 121; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Security' start in text:105 end in text: 113; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Council' start in text:114 end in text: 121; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'President' start in text:129 end in text: 138; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'President Yasser Arafat' start in text:129 end in text: 152; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Yasser Arafat' start in text:139 end in text: 152; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yasser' start in text:139 end in text: 145; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Arafat' start in text:146 end in text: 152; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'orders' start in text:160 end in text: 166; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shooting' start in text:175 end in text: 183; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'inside' start in text:184 end in text: 190; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'area' start in text:191 end in text: 195; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Palestinian' start in text:206 end in text: 217; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'control' start in text:218 end in text: 225; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'The source' start in text:229 end in text: 239; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'source' start in text:233 end in text: 239; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Palestinian' start in text:255 end in text: 266; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Palestinian Superior Security Council' start in text:255 end in text: 292; Entity types: NER,ORG,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Superior' start in text:267 end in text: 275; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Security Council' start in text:276 end in text: 292; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Security' start in text:276 end in text: 284; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Council' start in text:285 end in text: 292; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'President' start in text:300 end in text: 309; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'President Yasser Arafat' start in text:300 end in text: 323; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Yasser Arafat' start in text:310 end in text: 323; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Yasser' start in text:310 end in text: 316; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Arafat' start in text:317 end in text: 323; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'orders' start in text:331 end in text: 337; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'unknown' start in text:346 end in text: 353; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'armed' start in text:354 end in text: 359; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'persons' start in text:360 end in text: 367; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'inside' start in text:382 end in text: 388; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'zone' start in text:389 end in text: 393; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'complete' start in text:404 end in text: 412; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Palestinian' start in text:413 end in text: 424; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'control' start in text:425 end in text: 432; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'buildings' start in text:445 end in text: 454; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'civilians' start in text:459 end in text: 468; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'the Palestinian Territories' start in text:472 end in text: 499; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'Palestinian Territories' start in text:476 end in text: 499; Entity types: NER,ORG,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Palestinian' start in text:476 end in text: 487; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Territories' start in text:488 end in text: 499; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Palestinian' start in text:508 end in text: 519; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'hours' start in text:541 end in text: 546; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'discussions' start in text:554 end in text: 565; Entity types: NPChunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israeli' start in text:574 end in text: 581; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israeli Prime Minister Ehud Barak' start in text:574 end in text: 607; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+Entity : 'Israeli Prime Minister' start in text:574 end in text: 596; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Prime' start in text:582 end in text: 587; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Prime Minister' start in text:582 end in text: 596; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Minister' start in text:588 end in text: 596; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Ehud Barak' start in text:597 end in text: 607; Entity types: NER,PER,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Ehud' start in text:597 end in text: 601; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Barak' start in text:602 end in text: 607; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'top security' start in text:616 end in text: 628; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'security' start in text:620 end in text: 628; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'advisors' start in text:629 end in text: 637; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'explore' start in text:641 end in text: 648; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'measures' start in text:653 end in text: 661; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'to be' start in text:662 end in text: 667; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'taken' start in text:668 end in text: 673; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Palestinians' start in text:682 end in text: 694; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israeli soldiers' start in text:706 end in text: 722; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Israeli' start in text:706 end in text: 713; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'soldiers' start in text:714 end in text: 722; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'shot' start in text:728 end in text: 732; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Palestinian' start in text:736 end in text: 747; Entity types: NER,MISC,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Palestinian areas' start in text:736 end in text: 753; Entity types: NPChunk,
+	------>  LEVEL 0
+	------>  LEVEL 1
+	------>  LEVEL 2
+		Could not resolve the candidates for the entity!
+Entity : 'areas' start in text:748 end in text: 753; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+Entity : 'Monday' start in text:759 end in text: 765; Entity types: NPSubchunk,
+	------>  LEVEL 0
+		Could not resolve the candidates for the entity!
+
