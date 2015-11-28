@@ -34,9 +34,6 @@ import org.nd4j.linalg.factory.Nd4j;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.core.io.ClassPathResource;
-import java.io.Serializable;
-import java.util.ArrayList;
-import java.util.List;
 import org.deeplearning4j.models.embeddings.inmemory.InMemoryLookupTable;
 import org.deeplearning4j.models.embeddings.loader.WordVectorSerializer;
 import org.deeplearning4j.models.word2vec.Word2Vec;
@@ -61,13 +58,24 @@ import java.util.Collection;
 
 public class TFIDF {
     public long docsCount = 0;
-    public FeatureMap map = null;
+    public static FeatureMap map = null;
     public int[] IDF = null;
-
+    public static Word2Vec wvec;
+    public static int wordVecDimension = 300;
+    public String wordVecFile = "/scratch2/azehady/nlp/Wikifier2013/Wikifier2013/data/Word-Vectors/GoogleNews-vectors-negative300.bin";
+    
+    public void setWordVecFile(String fileName){
+    	this.wordVecFile = fileName; 
+    }
+    
     public TFIDF(FeatureMap _map) {
         docsCount = 0;
         map = _map;
         IDF = new int[map.dim];
+        
+        if (wvec != null) {
+        	wvec = this.getWordVectors();
+        }
     }
 
     public void updateIDF(Document doc) {
@@ -145,12 +153,6 @@ public class TFIDF {
         return getCosineSimVectors(d1, d2);
     }
     
-    public void getWordVectors() {
-    	//Word2Vec vec;
-
-    }
-    
-
 
     public static double getCosineSimHashMaps(TF_IDF_Doc d1, TF_IDF_Doc d2) {
         double nominator = 0;
@@ -180,6 +182,95 @@ public class TFIDF {
         double norm2 = longer.getWeightNorm();
         return nominator / (norm1 * norm2);
     }
+    
+ //  d1 =  I love Purdue
+ // activeFid    =   1     2     3
+ // TFIDFWeight  =   0.4  0.6   0.7
+ //   h[1] = 0.4
+ //   h[2] = 0.6
+ //   h[3] = 0.7
+    
+//    wv[1] = [3 5 7 9 5]
+//    wv[2] = [1 2 3 4 5]
+//    wv[3] = [9 2 4 6 7]
+//    wv_avg1 = [a1 a2 a3 a4 a5]  a1 = (3 + 1 + 9) / 3
+    
+//  d2 =  We are engineers
+// activeFid    =   1     2     3
+// TFIDFWeight  =   0.4  0.6   0.7
+//   h[1] = 0.4
+//   h[2] = 0.6
+//   h[3] = 0.7
+       
+//       wv[1] = [3 5 7 9 5]
+//       wv[2] = [1 2 3 4 5]
+//       wv[3] = [9 2 4 6 7]
+//       wv_avg2 = [a1 a2 a3 a4 a5]  a1 = (3 + 1 + 9) / 3
+      
+// wv_avg1 . wv_avg2
+    
+    public static double[] sumTwoWordVec(double[] wv1, double[] wv2) {
+    	double[] resV = new double[wv1.length];
+    	
+    	for (int i = 0; i < wv1.length; i++) {
+    		resV[i] = wv1[i] + wv2[i];
+    	}
+    	
+    	return resV;
+    }
+    
+    public static double getCosineSimWithWordVec(TF_IDF_Doc d1, TF_IDF_Doc d2) {
+    	if (map == null) {
+    		System.out.println("TFIDF class not yet created. Featuremap hasn't been initialized.");
+    		return 0;
+    	}
+
+        double nominator = 0;
+        
+        double sum_wv1[] = new double[TFIDF.wordVecDimension];
+        for (int i = 0; i < d1.activeFids.length; i++) {
+        	int fid = d1.activeFids[i];
+        	String w = TFIDF.map.fidToWord.get(fid);
+        	double wv[] = TFIDF.wvec.getWordVector(w);
+        	
+        	sum_wv1 = TFIDF.sumTwoWordVec(sum_wv1, wv);
+        }
+        for (int i = 0; i < sum_wv1.length; i++) { 
+        	sum_wv1[i] /= sum_wv1.length;
+        }
+        
+        
+        double sum_wv2[] = new double[TFIDF.wordVecDimension];
+        for (int i = 0; i < d2.activeFids.length; i++) {
+        	int fid = d2.activeFids[i];
+        	String w = TFIDF.map.fidToWord.get(fid);
+        	double wv[] = TFIDF.wvec.getWordVector(w);
+        	
+        	sum_wv2 = sumTwoWordVec(sum_wv1, wv);
+        }
+        for (int i = 0; i < sum_wv2.length; i++) { 
+        	sum_wv2[i] /= sum_wv1.length;
+        }
+        
+        
+        for (int i = 0; i < sum_wv1.length; i++)
+        	nominator += sum_wv1[i] * sum_wv2[i];
+
+        if (nominator == 0)
+            return 0;
+
+        double norm1 = 0;
+        for (int i = 0; i < sum_wv1.length; i++)
+            norm1 += sum_wv1[i] * sum_wv1[i];
+        norm1 = Math.sqrt(norm1);
+
+        double norm2 = 0;
+        for (int i = 0; i < sum_wv2.length; i++)
+            norm2 += sum_wv2[i] * sum_wv2[i];
+        norm2 = Math.sqrt(norm2);
+
+        return nominator / (norm1 * norm2);
+    }
 
     public static double getCosineSimVectors(TF_IDF_Doc d1, TF_IDF_Doc d2) {
         double nominator = 0;
@@ -190,22 +281,48 @@ public class TFIDF {
             longer = d1;
         }
         
+        
+//                     a1. a2
+//      cos theta =  -----------------
+//                   sqrt(a1) sqrt(a2)
+        
         TIntDoubleHashMap h = new TIntDoubleHashMap();
         for (int i = 0; i < longer.activeFids.length; i++)
             h.put(longer.activeFids[i], longer.tfIdfWeight[i]);
+        
+        
+//          love = [d11 d12 d13 d14 d15]
+
+//          hate = [d11 d12 d13 d14 d15]
+        
+//           x1 = [1 3 5 6 7]
+//           x2 = [4 7 9 0 0]
+        
+//        d1 = [love word hate go] = [a1 a2 a3 a4 a5]
+//        d2 = [love hate come]    = [b1 b2 b3 b4 b5]
+        
+//        nom = d1_TI[love]* d2_TI[love] + d1_TI[hate] * d2_TI[hate] + d1_TI[word] * d2_TI[word] + d1_TI[come] * d2_TI[come] + d1_TI[go] * d2_TI[go]
+//            = d1_TI[love]* d2_TI[love] + d1_TI[hate] * d2_TI[hate] + d1_TI[word] * 0           + 0           * d2_TI[come] + d1_TI[go] * 0
+                
+        
         for (int i = 0; i < shorter.activeFids.length; i++)
             if (h.containsKey(shorter.activeFids[i]))
                 nominator += shorter.tfIdfWeight[i] * h.get(shorter.activeFids[i]);
+        
         if (nominator == 0)
             return 0;
+        
         double norm1 = 0;
         for (int i = 0; i < shorter.activeFids.length; i++)
             norm1 += shorter.tfIdfWeight[i] * shorter.tfIdfWeight[i];
+        
         norm1 = Math.sqrt(norm1);
+        
         double norm2 = 0;
         for (int i = 0; i < longer.activeFids.length; i++)
             norm2 += longer.tfIdfWeight[i] * longer.tfIdfWeight[i];
         norm2 = Math.sqrt(norm2);
+        
         return nominator / (norm1 * norm2);
     }
 
@@ -326,11 +443,10 @@ public class TFIDF {
 
     }
     
-    public static Word2Vec getWordVectors() {
+    public Word2Vec getWordVectors() {
     	Word2Vec wvec = null;
     	try {
-			wvec = WordVectorSerializer.loadGoogleModel(new File("/scratch2/azehady/nlp/Wikifier2013/Wikifier2013/data/Word-Vectors/GoogleNews-vectors-negative300.bin"),true,false);
-			
+    		wvec = WordVectorSerializer.loadGoogleModel(new File(this.wordVecFile),true, false);
 			System.out.println("Hello");
     	} catch (IOException e) {
 			// TODO Auto-generated catch block
@@ -340,21 +456,7 @@ public class TFIDF {
     	return wvec;
     }
     
-    public static void main2(String[] args) {
-    	Date d1 = new Date();
-    	Date d2 = new Date();
-    	
-    	long t1 = d1.getTime();
-    	TFIDF.getWordVectors();
-    	long t2 = d2.getTime();
-    	
-    	long diff = t2 - t1;
-    	long diffMin = diff/ (60*1000) %60;
-    	System.out.println("Min = " + diffMin);
-    }
-
     public static void main(String[] args) {
-    	Word2Vec wvec = TFIDF.getWordVectors();
     	ParagraphVectors pf = null;
     	
         // test this class!
@@ -371,14 +473,17 @@ public class TFIDF {
         FeatureMap map = new FeatureMap();
         map.addDocs(docs, 0, true);
         List<TF_IDF_Doc> docs2 = TFIDF.getRepresentation(docs, map, false);
+        
+        Word2Vec wvec = TFIDF.wvec; 
+        
         for (int i = 0; i < docs2.size(); i++) {
         	double[][] wv = new double[docs2.get(i).activeFids.length][];
         	double[] dv = null;
             for (int j = 0; j < docs2.get(i).activeFids.length; j++) {
                 int fid = docs2.get(i).activeFids[j];
                 System.out.print(map.fidToWord.get(fid) + "(" + docs2.get(i).tfIdfWeight[j] + ") ");
-                String word = map.fidToWord.get(fid);
                 
+                String word = map.fidToWord.get(fid);
                 wv[j] = wvec.getWordVector(word);
                 System.out.print(word + " = " +"[");
                 for (double d: wv[j]) {

@@ -129,12 +129,19 @@ public class FeatureExtractorLexical extends FeatureExtractorInterface{
 	        TF_IDF_Doc[] problemContexts,
 	        TF_IDF_Doc textInfo,
 	        TF_IDF_Doc contextInfo){
-        f.addFeature("Text-Text-TFIDF", getCosineSim(textInfo, problemText));
-        f.addFeature("Context-Text-TFIDF", getCosineSim(contextInfo, problemText));
+       // f.addFeature("Text-Text-TFIDF", getCosineSim(textInfo, problemText)); // problemText = text(t) , textInfo = text(m) = text(d)
+       // f.addFeature("Context-Text-TFIDF", getCosineSim(contextInfo, problemText)); // contextInfo = context(m)
+
+        f.addFeature("Text-Text-WordVec", getCosineSimWithWordVec(textInfo, problemText));
+        f.addFeature("Context-Text-WordVec",getCosineSimWithWordVec(contextInfo, problemText));
         
         int j = -1; for(TF_IDF_Doc local:problemContexts){ j++;
-            f.addFeature("Text-Context-TFIDFwin"+j, getCosineSim(textInfo, local));
-            f.addFeature("Context-Context-TFIDFwin"+j, getCosineSim(contextInfo, local));
+          //  f.addFeature("Text-Context-TFIDFwin"+j, getCosineSim(textInfo, local)); //local = 
+          //  f.addFeature("Context-Context-TFIDFwin"+j, getCosineSim(contextInfo, local));
+
+            f.addFeature("Text-Context-TFIDFwin"+j, getCosineSimWithWordVec(textInfo, local));
+            f.addFeature("Context-Context-TFIDFwin"+j, getCosineSimWithWordVec(contextInfo, local));
+
         }
 	}
 }
